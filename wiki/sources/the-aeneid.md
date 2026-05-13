@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [classics, epic, poetry, rome, mythology, virgil, destiny, duty, pietas]
-source_path: pinky/raw/books/The_Aeneid.md
+source_path: raw/books/The_Aeneid.md
 ---
 
 # The Aeneid — Wisdom Extracted
 
 **Author:** [[Virgil]]  
 **Date:** 19 BCE  
-**Source:** [pinky/raw/books/The_Aeneid.md](../raw/books/The_Aeneid.md)
+**Source:** [raw/books/The_Aeneid.md](../../raw/books/The_Aeneid.md)
 
 ## Summary
 

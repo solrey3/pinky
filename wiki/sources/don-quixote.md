@@ -6,7 +6,7 @@ source_type: book
 created: 2026-05-10
 updated: 2026-05-10
 tags: [classics, literature, fiction, chivalry, idealism, realism, satire, metafiction]
-source_path: pinky/raw/books/Don_Quixote.md
+source_path: raw/books/Don_Quixote.md
 ---
 
 # Don Quixote — Wisdom Extracted
@@ -15,7 +15,7 @@ source_path: pinky/raw/books/Don_Quixote.md
 **Published:** 1605 (Part One), 1615 (Part Two)  
 **Genre:** Novel  
 **Original Title:** *El ingenioso hidalgo don Quijote de la Mancha*  
-**Source:** [pinky/raw/books/Don_Quixote.md](../raw/books/Don_Quixote.md)
+**Source:** [raw/books/Don_Quixote.md](../../raw/books/Don_Quixote.md)
 
 ## Summary
 

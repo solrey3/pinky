@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli  ssh  remote]
-source_path: pinky/raw/cheatsheets/ssh.md
+source_path: raw/cheatsheets/ssh.md
 ---
 
 # ssh Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/ssh.md](../raw/cheatsheets/ssh.md)
+**Source:** [raw/cheatsheets/ssh.md](../../raw/cheatsheets/ssh.md)
 
 ## Summary
 

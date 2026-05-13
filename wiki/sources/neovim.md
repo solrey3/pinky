@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/neovim.md
+source_path: raw/cheatsheets/neovim.md
 ---
 
 # NeoVim Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://neovim.io/doc/user/  
-**Source:** [pinky/raw/cheatsheets/neovim.md](../raw/cheatsheets/neovim.md)
+**Source:** [raw/cheatsheets/neovim.md](../../raw/cheatsheets/neovim.md)
 
 ## Summary
 

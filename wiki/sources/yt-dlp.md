@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli dj-engine video dowload]
-source_path: pinky/raw/cheatsheets/yt-dlp.md
+source_path: raw/cheatsheets/yt-dlp.md
 ---
 
 # yt-dlp Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/yt-dlp.md](../raw/cheatsheets/yt-dlp.md)
+**Source:** [raw/cheatsheets/yt-dlp.md](../../raw/cheatsheets/yt-dlp.md)
 
 ## Summary
 

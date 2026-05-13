@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T16:20:00-0400"
 updated: "2026-05-10T16:20:00-0400"
 tags: [cli,crypto,security]
-source_path: pinky/raw/cheatsheets/gnupg.md
+source_path: raw/cheatsheets/gnupg.md
 ---
 
 # gnupg Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/gnupg.md](../raw/cheatsheets/gnupg.md)
+**Source:** [raw/cheatsheets/gnupg.md](../../raw/cheatsheets/gnupg.md)
 
 ## Summary
 

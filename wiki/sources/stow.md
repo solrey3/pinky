@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T10:00:00-0400"
 updated: "2026-05-11T10:00:00-0400"
 tags: [cli,dotfiles,symlinks]
-source_path: pinky/raw/cheatsheets/stow.md
+source_path: raw/cheatsheets/stow.md
 ---
 
 # stow Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/stow.md](../raw/cheatsheets/stow.md)
+**Source:** [raw/cheatsheets/stow.md](../../raw/cheatsheets/stow.md)
 
 ## Summary
 

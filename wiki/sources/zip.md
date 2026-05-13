@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T18:30:00-0400"
 updated: "2026-05-11T18:30:00-0400"
 tags: [cli,archive,compression]
-source_path: pinky/raw/cheatsheets/zip.md
+source_path: raw/cheatsheets/zip.md
 ---
 
 # zip & unzip Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/zip.md](../raw/cheatsheets/zip.md)
+**Source:** [raw/cheatsheets/zip.md](../../raw/cheatsheets/zip.md)
 
 ## Summary
 

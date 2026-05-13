@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/tmux.md
+source_path: raw/cheatsheets/tmux.md
 ---
 
 # tmux Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/tmux/tmux/wiki  
-**Source:** [pinky/raw/cheatsheets/tmux.md](../raw/cheatsheets/tmux.md)
+**Source:** [raw/cheatsheets/tmux.md](../../raw/cheatsheets/tmux.md)
 
 ## Summary
 

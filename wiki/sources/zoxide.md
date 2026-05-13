@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli cd navigation]
-source_path: pinky/raw/cheatsheets/zoxide.md
+source_path: raw/cheatsheets/zoxide.md
 ---
 
 # zoxide Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/zoxide.md](../raw/cheatsheets/zoxide.md)
+**Source:** [raw/cheatsheets/zoxide.md](../../raw/cheatsheets/zoxide.md)
 
 ## Summary
 

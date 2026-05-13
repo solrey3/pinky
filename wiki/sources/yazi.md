@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/yazi.md
+source_path: raw/cheatsheets/yazi.md
 ---
 
 # yazi Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/sxyazi/yazi  
-**Source:** [pinky/raw/cheatsheets/yazi.md](../raw/cheatsheets/yazi.md)
+**Source:** [raw/cheatsheets/yazi.md](../../raw/cheatsheets/yazi.md)
 
 ## Summary
 

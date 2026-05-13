@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/mise.md
+source_path: raw/cheatsheets/mise.md
 ---
 
 # mise Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://mise.jdx.dev/  
-**Source:** [pinky/raw/cheatsheets/mise.md](../raw/cheatsheets/mise.md)
+**Source:** [raw/cheatsheets/mise.md](../../raw/cheatsheets/mise.md)
 
 ## Summary
 

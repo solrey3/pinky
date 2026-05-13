@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T16:20:00-0400"
 updated: "2026-05-10T16:20:00-0400"
 tags: [cli,task-runner,build]
-source_path: pinky/raw/cheatsheets/just.md
+source_path: raw/cheatsheets/just.md
 ---
 
 # just Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/just.md](../raw/cheatsheets/just.md)
+**Source:** [raw/cheatsheets/just.md](../../raw/cheatsheets/just.md)
 
 ## Summary
 

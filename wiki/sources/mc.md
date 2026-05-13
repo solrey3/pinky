@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T18:00:00-0400"
 updated: "2026-05-11T18:00:00-0400"
 tags: [cli,file-manager,tui]
-source_path: pinky/raw/cheatsheets/mc.md
+source_path: raw/cheatsheets/mc.md
 ---
 
 # mc (Midnight Commander) Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/mc.md](../raw/cheatsheets/mc.md)
+**Source:** [raw/cheatsheets/mc.md](../../raw/cheatsheets/mc.md)
 
 ## Summary
 

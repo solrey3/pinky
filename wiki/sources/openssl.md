@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T10:00:00-0400"
 updated: "2026-05-11T10:00:00-0400"
 tags: [cli,crypto,tls,security]
-source_path: pinky/raw/cheatsheets/openssl.md
+source_path: raw/cheatsheets/openssl.md
 ---
 
 # openssl Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/openssl.md](../raw/cheatsheets/openssl.md)
+**Source:** [raw/cheatsheets/openssl.md](../../raw/cheatsheets/openssl.md)
 
 ## Summary
 

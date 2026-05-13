@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [sports, baseball, economics, data-analysis, sabermetrics, markets, innovation, beane, lewis]
-source_path: pinky/raw/books/Moneyball.md
+source_path: raw/books/Moneyball.md
 ---
 
 # Moneyball — Wisdom Extracted
 
 **Author:** [[Michael Lewis]]  
 **Date:** 2003  
-**Source:** [pinky/raw/books/Moneyball.md](../raw/books/Moneyball.md)
+**Source:** [raw/books/Moneyball.md](../../raw/books/Moneyball.md)
 
 ## Summary
 

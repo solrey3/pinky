@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli dj-engine video audio media]
-source_path: pinky/raw/cheatsheets/ffmpeg.md
+source_path: raw/cheatsheets/ffmpeg.md
 ---
 
 # ffmpeg Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/ffmpeg.md](../raw/cheatsheets/ffmpeg.md)
+**Source:** [raw/cheatsheets/ffmpeg.md](../../raw/cheatsheets/ffmpeg.md)
 
 ## Summary
 

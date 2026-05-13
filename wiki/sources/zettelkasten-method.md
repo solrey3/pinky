@@ -7,14 +7,14 @@ source_type_other: system-note
 created: 2026-05-09
 updated: 2026-05-09
 tags: [zettelkasten, knowledge-management, linked-notes, luhmann, 2nd-brain]
-source_path: pinky/raw/gists/Zettelkasten-method.md
+source_path: raw/gists/Zettelkasten-method.md
 ---
 
 # Zettelkasten — Thinking by Linking
 
 **Author:** Pi (2nd Brain system documentation)  
 **Date:** 2026-05-09  
-**Source:** [pinky/raw/gists/Zettelkasten-method.md](../raw/gists/Zettelkasten-method.md)
+**Source:** [raw/gists/Zettelkasten-method.md](../../raw/gists/Zettelkasten-method.md)
 
 ## Summary
 

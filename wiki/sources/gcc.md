@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T18:30:00-0400"
 updated: "2026-05-11T18:30:00-0400"
 tags: [cli,compiler,c]
-source_path: pinky/raw/cheatsheets/gcc.md
+source_path: raw/cheatsheets/gcc.md
 ---
 
 # gcc Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/gcc.md](../raw/cheatsheets/gcc.md)
+**Source:** [raw/cheatsheets/gcc.md](../../raw/cheatsheets/gcc.md)
 
 ## Summary
 

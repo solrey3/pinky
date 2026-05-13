@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [classics, politics, philosophy, power, statecraft, machiavelli, renaissance]
-source_path: pinky/raw/books/The_Prince.md
+source_path: raw/books/The_Prince.md
 ---
 
 # The Prince — Wisdom Extracted
 
 **Author:** [[Niccolò Machiavelli]]  
 **Date:** 1513  
-**Source:** [pinky/raw/books/The_Prince.md](../raw/books/The_Prince.md)
+**Source:** [raw/books/The_Prince.md](../../raw/books/The_Prince.md)
 
 ## Summary
 

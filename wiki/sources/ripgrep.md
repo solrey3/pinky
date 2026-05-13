@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/ripgrep.md
+source_path: raw/cheatsheets/ripgrep.md
 ---
 
 # ripgrep (rg) Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/BurntSushi/ripgrep  
-**Source:** [pinky/raw/cheatsheets/ripgrep.md](../raw/cheatsheets/ripgrep.md)
+**Source:** [raw/cheatsheets/ripgrep.md](../../raw/cheatsheets/ripgrep.md)
 
 ## Summary
 

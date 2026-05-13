@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [religion, christianity, bible, apocalypse, prophecy, eschatology, john-of-patmos]
-source_path: pinky/raw/books/The_Book_of_Revelation.md
+source_path: raw/books/The_Book_of_Revelation.md
 ---
 
 # The Book of Revelation — Wisdom Extracted
 
 **Author:** [[John of Patmos]] (traditional attribution)  
 **Date:** ~95 CE  
-**Source:** [pinky/raw/books/The_Book_of_Revelation.md](../raw/books/The_Book_of_Revelation.md)
+**Source:** [raw/books/The_Book_of_Revelation.md](../../raw/books/The_Book_of_Revelation.md)
 
 ## Summary
 

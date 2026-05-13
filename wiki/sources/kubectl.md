@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/kubectl.md
+source_path: raw/cheatsheets/kubectl.md
 ---
 
 # kubectl Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://kubernetes.io/docs/reference/kubectl/  
-**Source:** [pinky/raw/cheatsheets/kubectl.md](../raw/cheatsheets/kubectl.md)
+**Source:** [raw/cheatsheets/kubectl.md](../../raw/cheatsheets/kubectl.md)
 
 ## Summary
 

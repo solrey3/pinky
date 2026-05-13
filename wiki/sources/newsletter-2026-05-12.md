@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-12
 updated: 2026-05-12
 tags: [newsletter, news, markets, sports, weather, current-events]
-source_path: pinky/raw/newsletters/2026-05-12-morning-dispatch.md, raw/newsletters/2026-05-12-evening-brief.md
+source_path: raw/newsletters/2026-05-12-morning-dispatch.md, raw/newsletters/2026-05-12-evening-brief.md
 ---
 
 # Newsletter 2026-05-12 — The Morning Dispatch & Evening Brief
 
 **Date:** Tuesday, May 12, 2026  
 **Author:** Sancho, News Correspondent  
-**Source:** [pinky/raw/newsletters/2026-05-12-morning-dispatch.md](../../../raw/newsletters/2026-05-12-morning-dispatch.md) | [pinky/raw/newsletters/2026-05-12-evening-brief.md](../../../raw/newsletters/2026-05-12-evening-brief.md)
+**Source:** [raw/newsletters/2026-05-12-morning-dispatch.md](../../raw/newsletters/2026-05-12-morning-dispatch.md) | [raw/newsletters/2026-05-12-evening-brief.md](../../raw/newsletters/2026-05-12-evening-brief.md)
 
 ## Summary
 

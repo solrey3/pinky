@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/fabric.md
+source_path: raw/cheatsheets/fabric.md
 ---
 
 # Fabric Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/danielmiessler/fabric  
-**Source:** [pinky/raw/cheatsheets/fabric.md](../raw/cheatsheets/fabric.md)
+**Source:** [raw/cheatsheets/fabric.md](../../raw/cheatsheets/fabric.md)
 
 ## Summary
 

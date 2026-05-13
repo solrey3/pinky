@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli find search]
-source_path: pinky/raw/cheatsheets/fd.md
+source_path: raw/cheatsheets/fd.md
 ---
 
 # fd Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/fd.md](../raw/cheatsheets/fd.md)
+**Source:** [raw/cheatsheets/fd.md](../../raw/cheatsheets/fd.md)
 
 ## Summary
 

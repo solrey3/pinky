@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T10:00:00-0400"
 updated: "2026-05-11T10:00:00-0400"
 tags: [cli,text,stream-editor]
-source_path: pinky/raw/cheatsheets/sed.md
+source_path: raw/cheatsheets/sed.md
 ---
 
 # sed Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/sed.md](../raw/cheatsheets/sed.md)
+**Source:** [raw/cheatsheets/sed.md](../../raw/cheatsheets/sed.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/nnn.md
+source_path: raw/cheatsheets/nnn.md
 ---
 
 # nnn Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/jarun/nnn  
-**Source:** [pinky/raw/cheatsheets/nnn.md](../raw/cheatsheets/nnn.md)
+**Source:** [raw/cheatsheets/nnn.md](../../raw/cheatsheets/nnn.md)
 
 ## Summary
 

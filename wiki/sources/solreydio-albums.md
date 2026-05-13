@@ -6,7 +6,7 @@ source_type: capture
 created: 2026-05-10
 updated: 2026-05-10
 tags: [music, albums, rankings, solreydio]
-source_path: pinky/raw/journal/solreydio-albums.md
+source_path: raw/journal/solreydio-albums.md
 ---
 
 # SolReyDio — 150ish Favorite Albums

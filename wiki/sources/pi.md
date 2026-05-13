@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/pi.md
+source_path: raw/cheatsheets/pi.md
 ---
 
 # Pi (pi-coding-agent) Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/badlogic/pi  
-**Source:** [pinky/raw/cheatsheets/pi.md](../raw/cheatsheets/pi.md)
+**Source:** [raw/cheatsheets/pi.md](../../raw/cheatsheets/pi.md)
 
 ## Summary
 

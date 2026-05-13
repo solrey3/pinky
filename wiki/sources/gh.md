@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T16:20:00-0400"
 updated: "2026-05-10T16:20:00-0400"
 tags: [cli,git,github,dev]
-source_path: pinky/raw/cheatsheets/gh.md
+source_path: raw/cheatsheets/gh.md
 ---
 
 # gh Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/gh.md](../raw/cheatsheets/gh.md)
+**Source:** [raw/cheatsheets/gh.md](../../raw/cheatsheets/gh.md)
 
 ## Summary
 

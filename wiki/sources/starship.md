@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli prompt shell]
-source_path: pinky/raw/cheatsheets/starship.md
+source_path: raw/cheatsheets/starship.md
 ---
 
 # starship Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/starship.md](../raw/cheatsheets/starship.md)
+**Source:** [raw/cheatsheets/starship.md](../../raw/cheatsheets/starship.md)
 
 ## Summary
 

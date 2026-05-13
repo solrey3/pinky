@@ -6,14 +6,14 @@ source_type: article
 created: 2026-05-09
 updated: 2026-05-09
 tags: [llm, knowledge-management, wiki, architecture, karpathy]
-source_path: pinky/raw/gists/karpathy-llm-wiki-pattern.md
+source_path: raw/gists/karpathy-llm-wiki-pattern.md
 ---
 
 # LLM Wiki — A Pattern for Building Personal Knowledge Bases Using LLMs
 
 **Author:** Andrej Karpathy  
 **Date:** 2026-04 (approximate)  
-**Source:** [pinky/raw/gists/karpathy-llm-wiki-pattern.md](../raw/gists/karpathy-llm-wiki-pattern.md)
+**Source:** [raw/gists/karpathy-llm-wiki-pattern.md](../../raw/gists/karpathy-llm-wiki-pattern.md)
 
 ## Summary
 

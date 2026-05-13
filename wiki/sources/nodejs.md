@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T18:00:00-0400"
 updated: "2026-05-11T18:00:00-0400"
 tags: [cli,javascript,runtime]
-source_path: pinky/raw/cheatsheets/nodejs.md
+source_path: raw/cheatsheets/nodejs.md
 ---
 
 # nodejs Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/nodejs.md](../raw/cheatsheets/nodejs.md)
+**Source:** [raw/cheatsheets/nodejs.md](../../raw/cheatsheets/nodejs.md)
 
 ## Summary
 

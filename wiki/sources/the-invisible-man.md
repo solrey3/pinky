@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [classics, fiction, literature, race, identity, america, ellison, modernism]
-source_path: pinky/raw/books/The_Invisible_Man.md
+source_path: raw/books/The_Invisible_Man.md
 ---
 
 # The Invisible Man — Wisdom Extracted
 
 **Author:** [[Ralph Ellison]]  
 **Date:** 1952  
-**Source:** [pinky/raw/books/The_Invisible_Man.md](../raw/books/The_Invisible_Man.md)
+**Source:** [raw/books/The_Invisible_Man.md](../../raw/books/The_Invisible_Man.md)
 
 ## Summary
 

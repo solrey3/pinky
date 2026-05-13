@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T18:30:00-0400"
 updated: "2026-05-11T18:30:00-0400"
 tags: [cli,stats,analysis]
-source_path: pinky/raw/cheatsheets/tokei.md
+source_path: raw/cheatsheets/tokei.md
 ---
 
 # tokei Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/tokei.md](../raw/cheatsheets/tokei.md)
+**Source:** [raw/cheatsheets/tokei.md](../../raw/cheatsheets/tokei.md)
 
 ## Summary
 

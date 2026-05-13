@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [poker, game-theory, mathematics, strategy, gambling, sklansky, decision-making]
-source_path: pinky/raw/books/The_Theory_of_Poker.md
+source_path: raw/books/The_Theory_of_Poker.md
 ---
 
 # The Theory of Poker — Wisdom Extracted
 
 **Author:** [[David Sklansky]]  
 **Date:** 1987  
-**Source:** [pinky/raw/books/The_Theory_of_Poker.md](../raw/books/The_Theory_of_Poker.md)
+**Source:** [raw/books/The_Theory_of_Poker.md](../../raw/books/The_Theory_of_Poker.md)
 
 ## Summary
 

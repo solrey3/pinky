@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli  containers]
-source_path: pinky/raw/cheatsheets/docker.md
+source_path: raw/cheatsheets/docker.md
 ---
 
 # Docker Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/docker.md](../raw/cheatsheets/docker.md)
+**Source:** [raw/cheatsheets/docker.md](../../raw/cheatsheets/docker.md)
 
 ## Summary
 

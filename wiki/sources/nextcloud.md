@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,platform]
-source_path: pinky/raw/cheatsheets/nextcloud.md
+source_path: raw/cheatsheets/nextcloud.md
 ---
 
 # Nextcloud Cheatsheet
 
 **Category:** platform  
 **Official Docs:** https://docs.nextcloud.com/  
-**Source:** [pinky/raw/cheatsheets/nextcloud.md](../raw/cheatsheets/nextcloud.md)
+**Source:** [raw/cheatsheets/nextcloud.md](../../raw/cheatsheets/nextcloud.md)
 
 ## Summary
 

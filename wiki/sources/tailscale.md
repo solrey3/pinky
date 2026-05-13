@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,service]
-source_path: pinky/raw/cheatsheets/tailscale.md
+source_path: raw/cheatsheets/tailscale.md
 ---
 
 # Tailscale Cheatsheet
 
 **Category:** service  
 **Official Docs:** https://tailscale.com/kb  
-**Source:** [pinky/raw/cheatsheets/tailscale.md](../raw/cheatsheets/tailscale.md)
+**Source:** [raw/cheatsheets/tailscale.md](../../raw/cheatsheets/tailscale.md)
 
 ## Summary
 

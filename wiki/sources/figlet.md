@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T19:00:00-0400"
 updated: "2026-05-11T19:00:00-0400"
 tags: [cli,ascii,fun]
-source_path: pinky/raw/cheatsheets/figlet.md
+source_path: raw/cheatsheets/figlet.md
 ---
 
 # figlet Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/figlet.md](../raw/cheatsheets/figlet.md)
+**Source:** [raw/cheatsheets/figlet.md](../../raw/cheatsheets/figlet.md)
 
 ## Summary
 

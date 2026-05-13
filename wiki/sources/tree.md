@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T16:20:00-0400"
 updated: "2026-05-10T16:20:00-0400"
 tags: [cli,dirs,filesystem]
-source_path: pinky/raw/cheatsheets/tree.md
+source_path: raw/cheatsheets/tree.md
 ---
 
 # tree Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/tree.md](../raw/cheatsheets/tree.md)
+**Source:** [raw/cheatsheets/tree.md](../../raw/cheatsheets/tree.md)
 
 ## Summary
 

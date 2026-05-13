@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/1password-cli.md
+source_path: raw/cheatsheets/1password-cli.md
 ---
 
 # 1Password CLI (op) Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://developer.1password.com/docs/cli/  
-**Source:** [pinky/raw/cheatsheets/1password-cli.md](../raw/cheatsheets/1password-cli.md)
+**Source:** [raw/cheatsheets/1password-cli.md](../../raw/cheatsheets/1password-cli.md)
 
 ## Summary
 

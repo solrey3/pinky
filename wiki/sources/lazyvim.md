@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/lazyvim.md
+source_path: raw/cheatsheets/lazyvim.md
 ---
 
 # LazyVim Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://www.lazyvim.org/  
-**Source:** [pinky/raw/cheatsheets/lazyvim.md](../raw/cheatsheets/lazyvim.md)
+**Source:** [raw/cheatsheets/lazyvim.md](../../raw/cheatsheets/lazyvim.md)
 
 ## Summary
 

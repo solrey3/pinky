@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/lazydocker.md
+source_path: raw/cheatsheets/lazydocker.md
 ---
 
 # lazydocker Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/jesseduffield/lazydocker  
-**Source:** [pinky/raw/cheatsheets/lazydocker.md](../raw/cheatsheets/lazydocker.md)
+**Source:** [raw/cheatsheets/lazydocker.md](../../raw/cheatsheets/lazydocker.md)
 
 ## Summary
 

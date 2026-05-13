@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T19:00:00-0400"
 updated: "2026-05-11T19:00:00-0400"
 tags: [cli,screensaver,fun]
-source_path: pinky/raw/cheatsheets/cmatrix.md
+source_path: raw/cheatsheets/cmatrix.md
 ---
 
 # cmatrix Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/cmatrix.md](../raw/cheatsheets/cmatrix.md)
+**Source:** [raw/cheatsheets/cmatrix.md](../../raw/cheatsheets/cmatrix.md)
 
 ## Summary
 

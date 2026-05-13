@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli ls file-management]
-source_path: pinky/raw/cheatsheets/eza.md
+source_path: raw/cheatsheets/eza.md
 ---
 
 # eza Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/eza.md](../raw/cheatsheets/eza.md)
+**Source:** [raw/cheatsheets/eza.md](../../raw/cheatsheets/eza.md)
 
 ## Summary
 

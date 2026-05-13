@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T10:00:00-0400"
 updated: "2026-05-11T10:00:00-0400"
 tags: [cli,archive,backup]
-source_path: pinky/raw/cheatsheets/tar.md
+source_path: raw/cheatsheets/tar.md
 ---
 
 # tar Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/tar.md](../raw/cheatsheets/tar.md)
+**Source:** [raw/cheatsheets/tar.md](../../raw/cheatsheets/tar.md)
 
 ## Summary
 

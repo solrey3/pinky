@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [economics, psychology, social-science, decision-making, forecasting, markets, collective-intelligence, surowiecki]
-source_path: pinky/raw/books/The_Wisdom_of_Crowds.md
+source_path: raw/books/The_Wisdom_of_Crowds.md
 ---
 
 # The Wisdom of Crowds — Wisdom Extracted
 
 **Author:** [[James Surowiecki]]  
 **Date:** 2004  
-**Source:** [pinky/raw/books/The_Wisdom_of_Crowds.md](../raw/books/The_Wisdom_of_Crowds.md)
+**Source:** [raw/books/The_Wisdom_of_Crowds.md](../../raw/books/The_Wisdom_of_Crowds.md)
 
 ## Summary
 

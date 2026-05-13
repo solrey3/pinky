@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T18:30:00-0400"
 updated: "2026-05-11T18:30:00-0400"
 tags: [cli,uuid,identifier]
-source_path: pinky/raw/cheatsheets/uuidgen.md
+source_path: raw/cheatsheets/uuidgen.md
 ---
 
 # uuidgen Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/uuidgen.md](../raw/cheatsheets/uuidgen.md)
+**Source:** [raw/cheatsheets/uuidgen.md](../../raw/cheatsheets/uuidgen.md)
 
 ## Summary
 

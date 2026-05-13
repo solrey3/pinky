@@ -7,7 +7,7 @@ source_type_other: system-note
 created: 2026-05-09
 updated: 2026-05-09
 tags: [para, knowledge-management, organization, tiago-forte, 2nd-brain]
-source_path: pinky/raw/gists/PARA-method.md
+source_path: raw/gists/PARA-method.md
 source_count: 1
 ---
 
@@ -15,7 +15,7 @@ source_count: 1
 
 **Author:** Pi (2nd Brain system documentation)  
 **Date:** 2026-05-09  
-**Source:** [pinky/raw/gists/PARA-method.md](../raw/gists/PARA-method.md)
+**Source:** [raw/gists/PARA-method.md](../../raw/gists/PARA-method.md)
 
 ## Summary
 

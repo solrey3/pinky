@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [sports, basketball, nba, analysis, culture, simmons, pop-culture, history]
-source_path: pinky/raw/books/The_Book_of_Basketball.md
+source_path: raw/books/The_Book_of_Basketball.md
 ---
 
 # The Book of Basketball — Wisdom Extracted
 
 **Author:** [[Bill Simmons]]  
 **Date:** 2009  
-**Source:** [pinky/raw/books/The_Book_of_Basketball.md](../raw/books/The_Book_of_Basketball.md)
+**Source:** [raw/books/The_Book_of_Basketball.md](../../raw/books/The_Book_of_Basketball.md)
 
 ## Summary
 

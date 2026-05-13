@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/alacritty.md
+source_path: raw/cheatsheets/alacritty.md
 ---
 
 # Alacritty Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://alacritty.org/config-alacritty.html  
-**Source:** [pinky/raw/cheatsheets/alacritty.md](../raw/cheatsheets/alacritty.md)
+**Source:** [raw/cheatsheets/alacritty.md](../../raw/cheatsheets/alacritty.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/datadog-cli.md
+source_path: raw/cheatsheets/datadog-cli.md
 ---
 
 # Datadog CLI (datadog-ci) Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://docs.datadoghq.com/developers/integrations/github_actions/  
-**Source:** [pinky/raw/cheatsheets/datadog-cli.md](../raw/cheatsheets/datadog-cli.md)
+**Source:** [raw/cheatsheets/datadog-cli.md](../../raw/cheatsheets/datadog-cli.md)
 
 ## Summary
 

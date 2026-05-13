@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli  monitoring  process]
-source_path: pinky/raw/cheatsheets/htop.md
+source_path: raw/cheatsheets/htop.md
 ---
 
 # htop Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/htop.md](../raw/cheatsheets/htop.md)
+**Source:** [raw/cheatsheets/htop.md](../../raw/cheatsheets/htop.md)
 
 ## Summary
 

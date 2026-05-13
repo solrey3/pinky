@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli  sync  backup]
-source_path: pinky/raw/cheatsheets/rsync.md
+source_path: raw/cheatsheets/rsync.md
 ---
 
 # rsync Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/rsync.md](../raw/cheatsheets/rsync.md)
+**Source:** [raw/cheatsheets/rsync.md](../../raw/cheatsheets/rsync.md)
 
 ## Summary
 

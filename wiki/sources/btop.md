@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/btop.md
+source_path: raw/cheatsheets/btop.md
 ---
 
 # btop Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/aristocratos/btop  
-**Source:** [pinky/raw/cheatsheets/btop.md](../raw/cheatsheets/btop.md)
+**Source:** [raw/cheatsheets/btop.md](../../raw/cheatsheets/btop.md)
 
 ## Summary
 

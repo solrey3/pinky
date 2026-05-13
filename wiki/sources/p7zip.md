@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T10:00:00-0400"
 updated: "2026-05-11T10:00:00-0400"
 tags: [cli,archive,compression]
-source_path: pinky/raw/cheatsheets/p7zip.md
+source_path: raw/cheatsheets/p7zip.md
 ---
 
 # p7zip Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/p7zip.md](../raw/cheatsheets/p7zip.md)
+**Source:** [raw/cheatsheets/p7zip.md](../../raw/cheatsheets/p7zip.md)
 
 ## Summary
 

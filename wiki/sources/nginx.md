@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,service]
-source_path: pinky/raw/cheatsheets/nginx.md
+source_path: raw/cheatsheets/nginx.md
 ---
 
 # nginx Cheatsheet
 
 **Category:** service  
 **Official Docs:** https://nginx.org/en/docs/  
-**Source:** [pinky/raw/cheatsheets/nginx.md](../raw/cheatsheets/nginx.md)
+**Source:** [raw/cheatsheets/nginx.md](../../raw/cheatsheets/nginx.md)
 
 ## Summary
 

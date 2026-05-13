@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/ghostty.md
+source_path: raw/cheatsheets/ghostty.md
 ---
 
 # Ghostty Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://ghostty.org/docs  
-**Source:** [pinky/raw/cheatsheets/ghostty.md](../raw/cheatsheets/ghostty.md)
+**Source:** [raw/cheatsheets/ghostty.md](../../raw/cheatsheets/ghostty.md)
 
 ## Summary
 

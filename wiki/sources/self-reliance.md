@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [classics, essay, philosophy, individualism, transcendentalism, emerson, america]
-source_path: pinky/raw/books/Self-Reliance.md
+source_path: raw/books/Self-Reliance.md
 ---
 
 # Self-Reliance — Wisdom Extracted
 
 **Author:** [[Ralph Waldo Emerson]]  
 **Date:** 1841  
-**Source:** [pinky/raw/books/Self-Reliance.md](../raw/books/Self-Reliance.md)
+**Source:** [raw/books/Self-Reliance.md](../../raw/books/Self-Reliance.md)
 
 ## Summary
 

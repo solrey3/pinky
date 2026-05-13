@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-11T18:30:00-0400"
 updated: "2026-05-11T18:30:00-0400"
 tags: [cli,browser,web]
-source_path: pinky/raw/cheatsheets/lynx.md
+source_path: raw/cheatsheets/lynx.md
 ---
 
 # lynx Cheatsheet
 
 **Category:** CLI  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/lynx.md](../raw/cheatsheets/lynx.md)
+**Source:** [raw/cheatsheets/lynx.md](../../raw/cheatsheets/lynx.md)
 
 ## Summary
 

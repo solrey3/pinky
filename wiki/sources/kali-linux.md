@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,platform]
-source_path: pinky/raw/cheatsheets/kali-linux.md
+source_path: raw/cheatsheets/kali-linux.md
 ---
 
 # Kali Linux Cheatsheet
 
 **Category:** platform  
 **Official Docs:** https://www.kali.org/docs/  
-**Source:** [pinky/raw/cheatsheets/kali-linux.md](../raw/cheatsheets/kali-linux.md)
+**Source:** [raw/cheatsheets/kali-linux.md](../../raw/cheatsheets/kali-linux.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli  json  data]
-source_path: pinky/raw/cheatsheets/jq.md
+source_path: raw/cheatsheets/jq.md
 ---
 
 # jq Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/jq.md](../raw/cheatsheets/jq.md)
+**Source:** [raw/cheatsheets/jq.md](../../raw/cheatsheets/jq.md)
 
 ## Summary
 

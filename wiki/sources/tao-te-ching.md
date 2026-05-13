@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [classics, philosophy, taoism, spirituality, china, laozi, simplicity, non-action, wisdom]
-source_path: pinky/raw/books/Tao_Te_Ching.md
+source_path: raw/books/Tao_Te_Ching.md
 ---
 
 # Tao Te Ching — Wisdom Extracted
 
 **Author:** [[Laozi]]  
 **Date:** ~6th century BCE (traditional)  
-**Source:** [pinky/raw/books/Tao_Te_Ching.md](../raw/books/Tao_Te_Ching.md)
+**Source:** [raw/books/Tao_Te_Ching.md](../../raw/books/Tao_Te_Ching.md)
 
 ## Summary
 

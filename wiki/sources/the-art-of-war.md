@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [classics, strategy, military, philosophy, leadership, sun-tzu, china]
-source_path: pinky/raw/books/The_Art_of_War.md
+source_path: raw/books/The_Art_of_War.md
 ---
 
 # The Art of War — Wisdom Extracted
 
 **Author:** [[Sun Tzu]]  
 **Date:** ~5th century BCE  
-**Source:** [pinky/raw/books/The_Art_of_War.md](../raw/books/The_Art_of_War.md)
+**Source:** [raw/books/The_Art_of_War.md](../../raw/books/The_Art_of_War.md)
 
 ## Summary
 

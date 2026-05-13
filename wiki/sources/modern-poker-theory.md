@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [poker, game-theory, gto, solvers, mathematics, acevedo, equilibrium, strategy]
-source_path: pinky/raw/books/Modern_Poker_Theory.md
+source_path: raw/books/Modern_Poker_Theory.md
 ---
 
 # Modern Poker Theory — Wisdom Extracted
 
 **Author:** [[Michael Acevedo]]  
 **Date:** 2019  
-**Source:** [pinky/raw/books/Modern_Poker_Theory.md](../raw/books/Modern_Poker_Theory.md)
+**Source:** [raw/books/Modern_Poker_Theory.md](../../raw/books/Modern_Poker_Theory.md)
 
 ## Summary
 

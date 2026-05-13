@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/doctl.md
+source_path: raw/cheatsheets/doctl.md
 ---
 
 # doctl Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://docs.digitalocean.com/reference/doctl/reference/  
-**Source:** [pinky/raw/cheatsheets/doctl.md](../raw/cheatsheets/doctl.md)
+**Source:** [raw/cheatsheets/doctl.md](../../raw/cheatsheets/doctl.md)
 
 ## Summary
 

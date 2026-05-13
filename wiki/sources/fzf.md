@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/fzf.md
+source_path: raw/cheatsheets/fzf.md
 ---
 
 # fzf Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://github.com/junegunn/fzf  
-**Source:** [pinky/raw/cheatsheets/fzf.md](../raw/cheatsheets/fzf.md)
+**Source:** [raw/cheatsheets/fzf.md](../../raw/cheatsheets/fzf.md)
 
 ## Summary
 

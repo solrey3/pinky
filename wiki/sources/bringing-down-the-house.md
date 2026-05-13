@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [gambling, mathematics, blackjack, card-counting, vegas, advantage-play, mezrich, mit]
-source_path: pinky/raw/books/Bringing_Down_the_House.md
+source_path: raw/books/Bringing_Down_the_House.md
 ---
 
 # Bringing Down the House — Wisdom Extracted
 
 **Author:** [[Ben Mezrich]]  
 **Date:** 2002  
-**Source:** [pinky/raw/books/Bringing_Down_the_House.md](../raw/books/Bringing_Down_the_House.md)
+**Source:** [raw/books/Bringing_Down_the_House.md](../../raw/books/Bringing_Down_the_House.md)
 
 ## Summary
 

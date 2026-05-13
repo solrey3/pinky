@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cheatsheet,cli]
-source_path: pinky/raw/cheatsheets/k9s.md
+source_path: raw/cheatsheets/k9s.md
 ---
 
 # k9s Cheatsheet
 
 **Category:** cli  
 **Official Docs:** https://k9scli.io/  
-**Source:** [pinky/raw/cheatsheets/k9s.md](../raw/cheatsheets/k9s.md)
+**Source:** [raw/cheatsheets/k9s.md](../../raw/cheatsheets/k9s.md)
 
 ## Summary
 

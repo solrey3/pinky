@@ -6,14 +6,14 @@ source_type: book
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [statistics, forecasting, data-science, bayesian, probability, prediction, silver, poker, sports]
-source_path: pinky/raw/books/The_Signal_and_the_Noise.md
+source_path: raw/books/The_Signal_and_the_Noise.md
 ---
 
 # The Signal and the Noise — Wisdom Extracted
 
 **Author:** [[Nate Silver]]  
 **Date:** 2012  
-**Source:** [pinky/raw/books/The_Signal_and_the_Noise.md](../raw/books/The_Signal_and_the_Noise.md)
+**Source:** [raw/books/The_Signal_and_the_Noise.md](../../raw/books/The_Signal_and_the_Noise.md)
 
 ## Summary
 

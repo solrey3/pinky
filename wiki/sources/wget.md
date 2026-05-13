@@ -6,14 +6,14 @@ source_type: cheatsheet
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-05-10T15:45:00-0400"
 tags: [cli  download  http]
-source_path: pinky/raw/cheatsheets/wget.md
+source_path: raw/cheatsheets/wget.md
 ---
 
 # wget Cheatsheet
 
 **Category:** cli  
 **Official Docs:** See raw source for links  
-**Source:** [pinky/raw/cheatsheets/wget.md](../raw/cheatsheets/wget.md)
+**Source:** [raw/cheatsheets/wget.md](../../raw/cheatsheets/wget.md)
 
 ## Summary
 
