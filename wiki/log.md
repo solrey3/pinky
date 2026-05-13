@@ -1,0 +1,257 @@
+# Wiki Log
+
+Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <title>`.
+
+---
+
+## [2026-05-13] ingest | SolReyDio — 150ish Favorite Albums
+- Source: `pinky/raw/journal/solreydio-albums.md`
+- Summary: Personal musical canon of 178 albums spanning 1956–2024; top 44 explicitly ranked, full list extends to 178 with no compilations and 3-year maturity rule. Heavy hip-hop (Public Enemy #1, #27), Britpop (Pulp #4), and soul/jazz core.
+- Pages touched: `pinky/wiki/sources/solreydio-albums.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: All 178 album pages and ~118 artist entity pages already existed from the 2026-04-30 bulk album ingest. This source page provides the canonical ingest record and cross-references the raw capture from solrey3.com. Key insight: the canon is less about objective quality than a hypothesis about what music matters to a particular listener — self-described as "arbitrary and reductive."
+
+---
+
+## [2026-05-13] ingest | Newsletter 2026-05-12 — The Morning Dispatch & Evening Brief
+- Source: `pinky/raw/newsletters/2026-05-12-morning-dispatch.md`, `pinky/raw/newsletters/2026-05-12-evening-brief.md`
+- Summary: Two daily newsletters covering weather (Toms River NJ / Makati PHL), markets, politics, sports, and prediction markets. Key themes: Warsh Fed confirmation, tech explosion (NVDA +12%, AMD +26%), FDA resignation over e-cigarette pressure, eBay rejecting GameStop takeover, Instructure ransomware, TanStack npm supply-chain attack.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-05-12.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Kept as the latest newsletter pair; older editions (2026-05-09, -05-10, -05-11) deleted from raw. New on-watch entities: Kevin Warsh (Fed), Marty Makary (FDA), Pete Hegseth (Defense), Keir Starmer (UK politics). Tech/market decoupling is the dominant pattern — AI stocks rallying despite hawkish Fed signals and 3.8% inflation. Security stories (Instructure, TanStack) reinforce supply-chain fragility across education and JavaScript ecosystems.
+
+---
+
+## [2026-05-10] album | Kendrick Lamar — GNX
+- Note: `pinky/wiki/music/albums/gnx.md`
+- Release: 2024-11-22
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Surprise-released sixth studio album; West Coast hip-hop tribute and victory lap after 2024 feuds and label departures. Metacritic 87/100. Billboard 200 #1.
+- Pages touched: `pinky/wiki/music/albums/gnx.md`, `pinky/wiki/entities/kendrick-lamar.md`, `pinky/wiki/index.md`
+
+Quick tail: `grep "^## \\[" log.md | tail -5`
+
+---
+
+## [2026-05-10] ingest | 25 Cheatsheets — Tool Reference Corpus
+- Source: `pinky/raw/cheatsheets/` directory — 25 structured command-reference guides for CLI tools, services, and platforms
+- Summary: Bulk ingest of terminal tools (tmux, fzf, ripgrep, nnn, yazi, btop, alacritty, ghostty, neovim, lazyvim, lazygit, lazydocker, mise), container/K8s tools (kubectl, k9s, nginx), security tools (1password-cli, tailscale, kali-linux, tails-os), AI tools (fabric, pi), cloud infrastructure (doctl, nextcloud, datadog-cli). Each cheatsheet includes installation, configuration, common commands, and key use cases.
+- Pages touched: 25 source pages, 25 entity pages, 6 concept pages (`terminal-centric-workflow`, `container-orchestration`, `security-and-privacy-toolkit`, `ai-augmented-development`, `cloud-and-infrastructure`, `devops-and-observability`), `index.md`
+- Notes: These cheatsheets operationalize the tool stack documented in AGENTS.md. The concept pages group them into functional layers: terminal as workspace, containers as deployment, security as perimeter, AI as augmentation, cloud as foundation, DevOps as pipeline. This ingest transforms raw command references into a navigable knowledge graph where tools cross-reference by function rather than by name.
+
+---
+
+## [2026-05-10] ingest | 15-Book Corpus — Wisdom Extracted
+- Source: `pinky/raw/books/The_Prince.md`, `pinky/raw/books/1984.md`, `pinky/raw/books/The_Art_of_War.md`, `pinky/raw/books/Tao_Te_Ching.md`, `pinky/raw/books/The_Wisdom_of_Crowds.md`, `pinky/raw/books/The_Signal_and_the_Noise.md`, `pinky/raw/books/Moneyball.md`, `pinky/raw/books/The_Invisible_Man.md`, `pinky/raw/books/The_Book_of_Basketball.md`, `pinky/raw/books/The_Book_of_Revelation.md`, `pinky/raw/books/The_Aeneid.md`, `pinky/raw/books/Self-Reliance.md`, `pinky/raw/books/Bringing_Down_the_House.md`, `pinky/raw/books/The_Theory_of_Poker.md`, `pinky/raw/books/Modern_Poker_Theory.md`
+- Summary: Bulk ingest of 15 books spanning political philosophy (Machiavelli), dystopian fiction (Orwell), military strategy (Sun Tzu), Eastern philosophy (Laozi), social science (Surowiecki), forecasting (Silver), sports analytics (Lewis), American literature (Ellison), sports culture (Simmons), biblical apocalyptic (Revelation), Roman epic (Virgil), Transcendentalism (Emerson), advantage play (Mezrich), and poker theory (Sklansky, Acevedo). Fabric `extract_wisdom` pattern generated structured summaries for each.
+- Pages touched: 15 source pages, 17 entity pages, 14 concept pages, `index.md`
+- Notes: Cross-references intentionally dense — the corpus is designed as a dialogue between power and resistance, individual and collective, East and West, ancient and modern, deterministic and probabilistic. Key tension lines: Machiavelli vs. Laozi (power through force vs. power through yielding), Emerson vs. Ellison (individualism with privilege vs. without), Silver/Sklansky/Acevedo vs. Surowiecki/Beane (Bayesian rigor applied to forecasting, poker, and sports markets), Virgil vs. Orwell vs. Revelation (three versions of empire's moral cost). Synthesis page on "Power, Knowledge, and Resistance" may be warranted once connections mature.
+
+---
+
+## [2026-05-10] ingest | Don Quixote — Wisdom Extracted
+- Source: `pinky/raw/books/Don_Quixote.md`
+- Summary: Wisdom-extracted summary of Cervantes' *Don Quixote*, covering idealism/realism dialectic, metafiction, the quixotic archetype, and cross-cutting themes of perception, identity, and aging.
+- Pages touched: `sources/don-quixote.md`, `entities/miguel-de-cervantes.md`, `entities/salvador-de-madariaga.md`, `entities/mark-twain.md`, `entities/alexandre-dumas.md`, `entities/edmond-rostand.md`, `concepts/idealism-vs-realism.md`, `concepts/metafiction.md`, `concepts/chivalry-and-satire.md`, `concepts/the-quixotic.md`, `index.md`
+- Notes: First literary source in the wiki. Bridges the knowledge-management/AI thread into humanistic philosophy. Metafiction concept ties directly to Karpathy's LLM Wiki pattern. The Quixotic is a term that entered everyday English precisely because the character captures a universal human condition.
+## [2026-05-09] ingest | Zettelkasten — Thinking by Linking
+- Source: `pinky/raw/gists/PARA-method.md`, `pinky/raw/gists/Zettelkasten-method.md`
+- Summary: System documentation of PARA and Zettelkasten frameworks — how PARA governs raw-source lifecycle workflow and Zettelkasten governs wiki linking structure. Also created synthesis page on their dual architecture.
+- Pages touched: `sources/para-method.md`, `sources/zettelkasten-method.md`, `entities/tiago-forte.md`, `entities/niklas-luhmann.md`, `concepts/para.md`, `concepts/zettelkasten.md`, `concepts/digital-gardens.md`, `synthesis/para-and-zettelkasten-in-2nd-brain.md`, plus updates to `concepts/llm-wiki-pattern.md`, `entities/vannevar-bush.md`, `entities/obsidian.md`, `index.md`
+- Notes: These two frameworks are the intellectual pillars of our 2nd Brain system. PARA by Tiago Forte + Zettelkasten by Niklas Luhmann, bridged by Karpathy's LLM Wiki pattern.
+
+## [2026-05-09] ingest | LLM Wiki — A Pattern for Building Personal Knowledge Bases Using LLMs
+- Source: `pinky/raw/gists/karpathy-llm-wiki-pattern.md`
+- Summary: Andrej Karpathy's manifesto for LLM-maintained personal wikis as an alternative to stateless RAG; three-layer architecture (raw/wiki/schema), three operations (ingest/query/lint), Memex lineage.
+- Pages touched: `sources/karpathy-llm-wiki-pattern.md`, `entities/andrej-karpathy.md`, `entities/vannevar-bush.md`, `entities/qmd.md`, `entities/obsidian.md`, `concepts/llm-wiki-pattern.md`, `concepts/compounding-knowledge.md`, `index.md`
+- Notes: User requested standalone treatment (no structural changes to wiki itself). Validates existing 2nd Brain approach.
+
+
+---
+
+## [2026-05-10] album | Miles Davis — Kind of Blue
+- Note: `pinky/wiki/music/albums/kind-of-blue.md`
+- Release: 1959-08-17
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: The definitive modal jazz masterpiece recorded in two sessions at Columbia's 30th Street Studio. Widely regarded as the greatest jazz album ever recorded. 5x Platinum. Library of Congress National Recording Registry.
+- Pages touched: `pinky/wiki/music/albums/kind-of-blue.md`, `pinky/wiki/entities/miles-davis.md`, `pinky/wiki/index.md`
+
+---
+
+## [2026-05-10] album | Public Enemy — It Takes a Nation of Millions to Hold Us Back
+- Note: `pinky/wiki/music/albums/it-takes-a-nation-of-millions.md`
+- Release: 1988-06-28
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Second studio album by Public Enemy. Dense Bomb Squad production with sociopolitical rhetoric. Ranked #1 on SolReyDio's Top 40ish. Rolling Stone #15 (2020).
+- Pages touched: `pinky/wiki/music/albums/it-takes-a-nation-of-millions.md`, `pinky/wiki/entities/public-enemy.md`, `pinky/wiki/index.md`
+
+## [2026-05-10] album | The Velvet Underground & Nico
+- Note: `pinky/wiki/music/albums/the-velvet-underground-and-nico.md`
+- Release: 1967-03-12
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Debut studio album by Velvet Underground with Nico. Original art-rock record. Ranked #2 on SolReyDio's Top 40ish. National Recording Registry.
+- Pages touched: `pinky/wiki/music/albums/the-velvet-underground-and-nico.md`, `pinky/wiki/entities/the-velvet-underground.md`, `pinky/wiki/index.md`
+
+## [2026-05-10] album | Bob Dylan — Blood on the Tracks
+- Note: `pinky/wiki/music/albums/blood-on-the-tracks.md`
+- Release: 1975-01-20
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Fifteenth studio album by Bob Dylan. Acclaimed as one of his greatest. Ranked #3 on SolReyDio's Top 40ish. Rolling Stone #9 (2020). Grammy Hall of Fame.
+- Pages touched: `pinky/wiki/music/albums/blood-on-the-tracks.md`, `pinky/wiki/entities/bob-dylan.md`, `pinky/wiki/index.md`
+
+## [2026-05-10] album | Pulp — Different Class
+- Note: `pinky/wiki/music/albums/different-class.md`
+- Release: 1995-10-30
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Fifth studio album by Pulp. Britpop masterpiece. Ranked #4 on SolReyDio's Top 40ish. Mercury Prize 1996. UK #1.
+- Pages touched: `pinky/wiki/music/albums/different-class.md`, `pinky/wiki/entities/pulp.md`, `pinky/wiki/index.md`
+
+## [2026-05-10] album | Soundtrack — The Harder They Come
+- Note: `pinky/wiki/music/albums/the-harder-they-come.md`
+- Release: 1972-07-01
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Soundtrack that introduced reggae to international audiences. Ranked #5 on SolReyDio's Top 40ish. National Recording Registry 2021.
+- Pages touched: `pinky/wiki/music/albums/the-harder-they-come.md`, `pinky/wiki/entities/jimmy-cliff.md`, `pinky/wiki/index.md`
+
+## [2026-05-10] capture | SolReyDio — 150ish Favorite Albums
+- Source: `https://solrey3.com/solreydio/index.html`
+- Raw: `pinky/raw/journal/solreydio-albums.md`
+- Summary: Captured 178-album list from SolReyDio with Top 44 rankings. Processed top 5 ranked albums into wiki notes.
+- Pages touched: `pinky/raw/journal/solreydio-albums.md`, `pinky/wiki/music/albums/*.md` (5 new), `pinky/wiki/entities/*.md` (5 new), `pinky/wiki/index.md`, `pinky/wiki/log.md`
+
+---
+
+## [2026-05-10] album batch | SolReyDio Top 40ish — Albums 7–14
+- Notes created: `pinky/wiki/music/albums/thriller.md`, `weezer-blue-album.md`, `the-bends.md`, `a-charlie-brown-christmas.md`, `nevermind.md`, `one-nation-under-a-groove.md`, `aquemini.md`
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Processed 7 more ranked albums from SolReyDio list into wiki notes with artist entities.
+- Pages touched: 7 album notes, 7 entity pages, `pinky/wiki/index.md`
+
+## [2026-05-10] wiki | Albums index sorted by release date
+- Operation: Reorganized Albums table in `pinky/wiki/index.md` chronologically (oldest first)
+- Albums: 14 total
+- Range: 1959 (Kind of Blue) → 2024 (GNX)
+
+---
+
+## [2026-05-10] album batch | SolReyDio Top 40ish — Albums 10–21
+- Notes created: `pinky/wiki/music/albums/revolver.md`, `ok-computer.md`, `innervisions.md`, `and-out-come-the-wolves.md`, `endtroducing.md`, `ready-to-die.md`, `siamese-dream.md`, `are-you-experienced.md`
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Processed 8 more ranked albums from SolReyDio list into wiki notes with artist entities.
+- Pages touched: 8 album notes, 8 entity pages, `pinky/wiki/index.md`
+
+---
+
+## [2026-05-10] album batch | SolReyDio Top 40ish — Albums 22–29
+- Notes created: `pinky/wiki/music/albums/pet-sounds.md`, `whats-going-on.md`, `sign-o-the-times.md`, `fear-of-a-black-planet.md`, `rage-against-the-machine.md`, `ben-folds-five.md`, `donuts.md`, `madvillainy.md`
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Processed 8 more ranked albums from SolReyDio list into wiki notes with artist entities.
+- Pages touched: 8 album notes, 8 entity pages, `pinky/wiki/index.md`
+
+---
+
+## [2026-05-10] album batch | SolReyDio Top 40ish — Albums 30–37
+- Notes created: `pinky/wiki/music/albums/marquee-moon.md`, `ten.md`, `is-this-it.md`, `yankee-hotel-foxtrot.md`, `back-to-black.md`, `enter-the-wu-tang.md`, `st-vincent.md`, `naughty-by-nature.md`
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Processed 8 more ranked albums from SolReyDio list into wiki notes with artist entities.
+- Pages touched: 8 album notes, 8 entity pages, `pinky/wiki/index.md`
+
+---
+
+## [2026-05-10] album batch | SolReyDio Top 40ish — Albums 38–44 (FINAL)
+- Notes created: `pinky/wiki/music/albums/definitely-maybe.md`, `the-college-dropout.md`, `loaded.md`, `grace.md`, `the-stranger.md`, `reasonable-doubt.md`, `the-headphone-masterpiece.md`
+- Source: Wikipedia + Fabric extract_wisdom
+- Summary: Processed final 7 ranked albums from SolReyDio list. All 44 ranked albums now in wiki.
+- Pages touched: 7 album notes, 7 entity pages, `pinky/wiki/index.md`
+
+## [2026-05-10] wiki | Albums index fully updated and corrected
+- Operation: Reorganized Albums table in `pinky/wiki/index.md` chronologically with all 44 albums
+- Albums: 44 total (all ranked albums from SolReyDio)
+- Range: 1959 (Kind of Blue) → 2024 (GNX)
+- Note: Fixed Marquee Moon placement (was incorrectly before 1972 albums)
+
+---
+
+## [2026-05-10] album bulk | SolReyDio — All remaining unranked albums
+- Source: `pinky/raw/journal/solreydio-albums.md` + Wikipedia API
+- Summary: Batch-created 139 album notes from the SolReyDio 178-album list (unranked albums). Total wiki albums: 184.
+- Pages touched: `pinky/wiki/music/albums/*.md` (139 new), `pinky/wiki/entities/*.md` (91 new), `pinky/wiki/index.md`
+
+## [2026-05-10] wiki | Full albums index regenerated
+- Operation: Rebuilt Albums table from all 184 album notes, sorted chronologically by release date.
+- Albums: 184 total
+- Range: 1956 (Songs for Swingin' Lovers!) → 2024 (GNX)
+- Entity pages: 124 total artists
+
+---
+
+## [2026-05-10] album wisdom | All 44 ranked albums — Fabric extract_wisdom complete
+- Summary: Processed all 44 ranked SolReyDio albums through Fabric extract_wisdom pattern. Each note now includes SUMMARY, IDEAS, INSIGHTS, and ONE-SENTENCE TAKEAWAY.
+- Albums with wisdom: 44/44
+- Method: Wikipedia extract → Fabric extract_wisdom → append to album note
+- Pages touched: `pinky/wiki/music/albums/*.md` (29 updated with wisdom)
+
+---
+
+## [2026-05-10] cleanup | Fuzzy duplicate removal and index audit
+- Summary: Audited all album notes for fuzzy duplicates. Found and resolved 4 duplicate pairs + 1 CSV name variant.
+- Actions:
+  - Removed `enter-the-wu-tang.md` (kept batch `enter-the-wu-tang-36-chambers.md` with Fabric wisdom)
+  - Merged batch wisdom into manual `it-takes-a-nation-of-millions.md`, deleted `it-takes-a-nation-of-millions-to-hold-us-back.md`
+  - Removed `velvet-underground--nico.md` (kept manual `the-velvet-underground-and-nico.md` with better title)
+  - Removed `whats-going-on.md` (kept canonical `what-s-going-on.md` with Fabric wisdom)
+  - Removed `weezer-the-blue-album.md` (kept canonical `weezer-blue-album.md`)
+  - Regenerated index from scratch: 179 albums, 0 orphans, 0 duplicates
+- Pages touched: `pinky/wiki/music/albums/*.md` (6 deleted), `pinky/wiki/index.md`, `pinky/wiki/log.md`
+
+
+- **2026-05-10**: Created cheatsheet source page: [curl Cheatsheet](sources/curl.md)
+- **2026-05-10**: Created cheatsheet source page: [wget Cheatsheet](sources/wget.md)
+- **2026-05-10**: Created cheatsheet source page: [jq Cheatsheet](sources/jq.md)
+- **2026-05-10**: Created cheatsheet source page: [Docker Cheatsheet](sources/docker.md)
+- **2026-05-10**: Created cheatsheet source page: [rsync Cheatsheet](sources/rsync.md)
+- **2026-05-10**: Created cheatsheet source page: [git Cheatsheet](sources/git.md)
+- **2026-05-10**: Created cheatsheet source page: [ssh Cheatsheet](sources/ssh.md)
+- **2026-05-10**: Created cheatsheet source page: [uv Cheatsheet](sources/uv.md)
+- **2026-05-10**: Created cheatsheet source page: [eza Cheatsheet](sources/eza.md)
+- **2026-05-10**: Created cheatsheet source page: [htop Cheatsheet](sources/htop.md)
+
+
+- **2026-05-10**: Created cheatsheet source page: [zoxide Cheatsheet](sources/zoxide.md)
+- **2026-05-10**: Created cheatsheet source page: [fd Cheatsheet](sources/fd.md)
+- **2026-05-10**: Created cheatsheet source page: [starship Cheatsheet](sources/starship.md)
+- **2026-05-10**: Created cheatsheet source page: [yt-dlp Cheatsheet](sources/yt-dlp.md)
+- **2026-05-10**: Created cheatsheet source page: [ffmpeg Cheatsheet](sources/ffmpeg.md)
+
+
+- **2026-05-11**: Created cheatsheet source page: [just Cheatsheet](sources/just.md)
+- **2026-05-11**: Created cheatsheet source page: [gh Cheatsheet](sources/gh.md)
+- **2026-05-11**: Created cheatsheet source page: [tree Cheatsheet](sources/tree.md)
+- **2026-05-11**: Created cheatsheet source page: [fastfetch Cheatsheet](sources/fastfetch.md)
+- **2026-05-11**: Created cheatsheet source page: [gnupg Cheatsheet](sources/gnupg.md)
+
+
+- **2026-05-11**: Created cheatsheet source page: [stow Cheatsheet](sources/stow.md)
+- **2026-05-11**: Created cheatsheet source page: [sed Cheatsheet](sources/sed.md)
+- **2026-05-11**: Created cheatsheet source page: [tar Cheatsheet](sources/tar.md)
+- **2026-05-11**: Created cheatsheet source page: [openssl Cheatsheet](sources/openssl.md)
+- **2026-05-11**: Created cheatsheet source page: [p7zip Cheatsheet](sources/p7zip.md)
+
+
+- **2026-05-11**: Created cheatsheet source page: [w3m Cheatsheet](sources/w3m.md)
+- **2026-05-11**: Created cheatsheet source page: [speedtest-cli Cheatsheet](sources/speedtest-cli.md)
+- **2026-05-11**: Created cheatsheet source page: [cargo Cheatsheet](sources/cargo.md)
+- **2026-05-11**: Created cheatsheet source page: [nodejs Cheatsheet](sources/nodejs.md)
+- **2026-05-11**: Created cheatsheet source page: [mc (Midnight Commander) Cheatsheet](sources/mc.md)
+
+
+- **2026-05-11**: Created cheatsheet source page: [gcc Cheatsheet](sources/gcc.md)
+- **2026-05-11**: Created cheatsheet source page: [tokei Cheatsheet](sources/tokei.md)
+- **2026-05-11**: Created cheatsheet source page: [zip & unzip Cheatsheet](sources/zip.md)
+- **2026-05-11**: Created cheatsheet source page: [uuidgen Cheatsheet](sources/uuidgen.md)
+- **2026-05-11**: Created cheatsheet source page: [lynx Cheatsheet](sources/lynx.md)
+
+
+- **2026-05-11**: Created cheatsheet source page: [figlet Cheatsheet](sources/figlet.md)
+- **2026-05-11**: Created cheatsheet source page: [fortune Cheatsheet](sources/fortune.md)
+- **2026-05-11**: Created cheatsheet source page: [cowsay Cheatsheet](sources/cowsay.md)
+- **2026-05-11**: Created cheatsheet source page: [cmatrix Cheatsheet](sources/cmatrix.md)
+- **2026-05-11**: Created cheatsheet source page: [gawk Cheatsheet](sources/gawk.md)
