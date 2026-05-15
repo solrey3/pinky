@@ -27,7 +27,13 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: Surprise-released sixth studio album; West Coast hip-hop tribute and victory lap after 2024 feuds and label departures. Metacritic 87/100. Billboard 200 #1.
 - Pages touched: `pinky/wiki/music/albums/gnx.md`, `pinky/wiki/entities/kendrick-lamar.md`, `pinky/wiki/index.md`
 
-Quick tail: `grep "^## \\[" log.md | tail -5`
+---
+
+## [2026-05-14] ingest | How Our RAPTOR Metric Works
+- Source: `pinky/raw/fivethirtyeight-raptor-metric-how-it-works.md`
+- Summary: Canonical technical breakdown of FiveThirtyEight's NBA player evaluation metric RAPTOR (and predictive variant PREDATOR). Covers box/offense/defense regression inputs, score/team effects adjustments, WAR calculation, projection methodology inherited from CARMELO, and Approximate RAPTOR for historical players. Key insight: box stats (~85% weight) predict out-of-sample RAPM better than on-off ratings (~21%), suggesting the future of NBA analytics lies in valuing discrete actions rather than perfecting RAPM.
+- Pages touched: `pinky/wiki/sources/fivethirtyeight-raptor-metric.md`, `pinky/wiki/entities/nate-silver.md`, `pinky/wiki/entities/fivethirtyeight.md`, `pinky/wiki/entities/daniel-myers.md`, `pinky/wiki/entities/ryan-davis.md`, `pinky/wiki/entities/james-harden.md`, `pinky/wiki/entities/stephen-curry.md`, `pinky/wiki/entities/michael-jordan.md`, `pinky/wiki/entities/lebron-james.md`, `pinky/wiki/concepts/raptor.md`, `pinky/wiki/concepts/predator.md`, `pinky/wiki/concepts/real-adjusted-plus-minus.md`, `pinky/wiki/concepts/box-plus-minus.md`, `pinky/wiki/concepts/draymond-defense.md`, `pinky/wiki/concepts/plus-minus-statistics.md`, `pinky/wiki/concepts/player-tracking-data.md`, `pinky/wiki/concepts/score-effects.md`, `pinky/wiki/concepts/replacement-level-war.md`, `pinky/wiki/concepts/approximate-raptor.md`, `pinky/wiki/concepts/carmelo-projections.md`, `pinky/wiki/concepts/pythagorean-expectation.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: First basketball-analytics source in the wiki. Connects directly to existing sources `moneyball` (sabermetics lineage) and `the-signal-and-the-noise` (Silver's forecasting philosophy). The NBA Analyst persona now has a canonical reference for RAPTOR, PREDATOR, WAR, and projection methodology. Selective entity creation: only the most-discussed players and key methodological figures were extracted to avoid bloating the graph with 30+ athlete pages.
 
 ---
 

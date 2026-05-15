@@ -53,7 +53,7 @@ Content catalog — updated on every ingest. Organized by type and category.
 | [tmux](sources/tmux.md) | tmux Cheatsheet | cheatsheet | cheatsheet, cli, terminal, multiplexer | 2026-05-10 |
 | [yazi](sources/yazi.md) | yazi Cheatsheet | cheatsheet | cheatsheet, cli, file-manager | 2026-05-10 |
 | [solreydio-albums](sources/solreydio-albums.md) | SolReyDio — 150ish Favorite Albums | capture | music, albums, rankings, solreydio | 2026-05-10 |
-| [newsletter-2026-05-12](sources/newsletter-2026-05-12.md) | Newsletter 2026-05-12 — The Morning Dispatch & Evening Brief | newsletter | news, markets, sports, current-events | 2026-05-12 |
+| [fivethirtyeight-raptor-metric](sources/fivethirtyeight-raptor-metric.md) | How Our RAPTOR Metric Works | article | basketball, nba, analytics, statistics, plus-minus, player-tracking, sabermetrics | 2026-05-14 |
 
 ---
 

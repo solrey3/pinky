@@ -4,9 +4,9 @@ title: "Nate Silver"
 type: entity
 entity_type: person
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-05-10T15:45:00-0400"
+updated: "2026-05-14T23:10:00-0400"
 tags: [statistician, forecaster, poker, author, data-science]
-source_count: 1
+source_count: 2
 ---
 
 # Nate Silver
@@ -15,10 +15,13 @@ American statistician, poker player, and founder of FiveThirtyEight. Silver gain
 
 ## Sources
 
-- [2026-05-10: The Signal and the Noise — Wisdom Extracted](sources/the-signal-and-the-noise.md) — Why predictions fail and how to improve forecasting through Bayesian thinking and probabilistic reasoning
+- [2026-05-14: How Our RAPTOR Metric Works](sources/fivethirtyeight-raptor-metric.md) — Technical breakdown of FiveThirtyEight's NBA player evaluation metric; Silver concludes Jordan's peak was probably slightly higher than LeBron's
 
 ## Related
 
+- [[FiveThirtyEight]]
+- [[RAPTOR]]
+- [[PREDATOR]]
 - [[James Surowiecki]]
 - [[Billy Beane]]
 - [[David Sklansky]]
