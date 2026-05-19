@@ -12,6 +12,22 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-05-18] ingest | Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief
+- Source: `pinky/raw/newsletters/2026-05-18-morning-dispatch.md`, `pinky/raw/newsletters/2026-05-18-evening-brief.md`
+- Summary: Heavy news day. San Diego mosque shooting (3 dead), WHO declares Ebola PHEIC, Trump cancels Iran strike, Musk loses OpenAI lawsuit (jury: too late to file), TrumpRx adds 600 generics with Mark Cuban. Markets: Russell 2000 -3.33%, AMD -8.24%, TSLA -7.87%, SCHW +5.19%, 30-YR Treasury at 52-week high. Mets live in DC (up 5-4, 7th), Spurs/Thunder and Canadiens/Sabres both live. Top HN: Files.md (Obsidian alternative, 534pts), Musk/OpenAI loss (758pts), Bitwarden renovation (510pts). Linus Torvalds flagged AI slop overwhelming Linux security list.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-05-18.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: AMD lost 8%+ for second time in four trading days. Russell 2000 down ~100pts from May 14 high. 30-YR Treasury at 52-week high is the macro constraint to watch. Musk/OpenAI ruling closes legal chapter without resolving underlying charitable-mission question.
+
+---
+
+## [2026-05-18] ingest | Newsletters 2026-05-13 through 2026-05-17
+- Source: 10 newsletter editions (5 days × morning + evening)
+- Summary: Five-day run during volatile stretch. May 14 was the peak: S&P 7,501, Nasdaq 26,635, NVDA $235.74, AMD $449.70 — new 52-week highs. Then pulled back through May 15–17. Oil stayed above $100 all week on Iran/Hormuz premium. Bitcoin slid from ~$81K to ~$76K. Russell 2000 underperformed throughout (small-cap stress pattern). Mets went 4-1 (swept Detroit, won Subway Series rubber match). Shai Gilgeous-Alexander confirmed NBA MVP mid-week. Cavaliers dominant vs. Pistons; Avalanche controlling their NHL series.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-05-13-to-05-17.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: First catchup ingest for a multi-day range. Market bifurcation (large-cap tech vs. small-caps) is the defining pattern across this window. AMD volatility (+26% on 5/12, +10% on 5/14, -6.83% on 5/15) signals sentiment-driven trading over fundamentals. Bitcoin decoupling from equity optimism throughout.
+
+---
+
 ## [2026-05-13] ingest | Newsletter 2026-05-12 — The Morning Dispatch & Evening Brief
 - Source: `pinky/raw/newsletters/2026-05-12-morning-dispatch.md`, `pinky/raw/newsletters/2026-05-12-evening-brief.md`
 - Summary: Two daily newsletters covering weather (Toms River NJ / Makati PHL), markets, politics, sports, and prediction markets. Key themes: Warsh Fed confirmation, tech explosion (NVDA +12%, AMD +26%), FDA resignation over e-cigarette pressure, eBay rejecting GameStop takeover, Instructure ransomware, TanStack npm supply-chain attack.

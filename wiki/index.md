@@ -54,6 +54,8 @@ Content catalog — updated on every ingest. Organized by type and category.
 | [yazi](sources/yazi.md) | yazi Cheatsheet | cheatsheet | cheatsheet, cli, file-manager | 2026-05-10 |
 | [solreydio-albums](sources/solreydio-albums.md) | SolReyDio — 150ish Favorite Albums | capture | music, albums, rankings, solreydio | 2026-05-10 |
 | [fivethirtyeight-raptor-metric](sources/fivethirtyeight-raptor-metric.md) | How Our RAPTOR Metric Works | article | basketball, nba, analytics, statistics, plus-minus, player-tracking, sabermetrics | 2026-05-14 |
+| [newsletter-2026-05-13-to-05-17](sources/newsletter-2026-05-13-to-05-17.md) | Newsletters 2026-05-13 through 2026-05-17 — The Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, sports, iran, ai, nba, mets, bitcoin | 2026-05-17 |
+| [newsletter-2026-05-18](sources/newsletter-2026-05-18.md) | Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, sports, iran, musk, openai, ebola, amd, san-diego | 2026-05-18 |
 
 ---
 
@@ -159,13 +161,7 @@ Content catalog — updated on every ingest. Organized by type and category.
 ---
 
 
-*Last updated: 2026-05-10*
-
-
-*Last updated: 2026-05-10*
-
-
-*Last updated: 2026-05-10*
+*Last updated: 2026-05-18*
 
 ## Albums
 
