@@ -73,13 +73,16 @@ Too much AI slop flooding the kernel security mailing list. Torvalds is not amus
 
 Small caps took a beating today. The big boys barely budged. Watch the Russell.
 
+### Federal Funds Rate
+**Effective Rate (EFFR): 3.63%** | Target Range: 3.50% – 3.75% *(FRED, as of 2026-05-18)*
+
 ### Rates
 | Security | Rate | Change | 52-Week Range |
 |----------|------|--------|---------------|
 | 30-YR Treasury | 5.147% | +0.12 | 3.717 – 5.154% |
 | 90-Day T-Bill | 3.568% | -0.04 | 3.568 – 5.348% |
 
-The 30-year is touching its 52-week high. Bond market is saying something.
+The 30-year is touching its 52-week high with the EFFR at 3.63% — 155 bps of spread between Fed policy and the long end. Bond market is saying something.
 
 ### Crypto & Oil
 | Asset | Price | Change | % | 52-Week Range |
@@ -117,6 +120,12 @@ Peso near its 52-week high again.
 | SCHW | $92.39 | +4.56 | **+5.19%** | $85.76 – $107.50 |
 
 AMD and Tesla both down hard today — over 8% and 7.8% respectively. Schwab was the standout gainer. NVDA held it together.
+
+### ⛽ Mortgage & Gas
+- **30-YR Fixed Mortgage:** 6.58% *(Bankrate — top listed rate)*
+- **National Avg (AAA):** Regular $4.515 | Midgrade $4.984 | Premium $5.368 | Diesel $5.631
+- **NJ State Avg (AAA):** Regular $4.506
+- **Wawa #0937, Toms River NJ:** *[GasBuddy data unavailable — see NJ State avg above]*
 
 ---
 
