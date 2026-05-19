@@ -56,6 +56,8 @@ Content catalog — updated on every ingest. Organized by type and category.
 | [fivethirtyeight-raptor-metric](sources/fivethirtyeight-raptor-metric.md) | How Our RAPTOR Metric Works | article | basketball, nba, analytics, statistics, plus-minus, player-tracking, sabermetrics | 2026-05-14 |
 | [newsletter-2026-05-13-to-05-17](sources/newsletter-2026-05-13-to-05-17.md) | Newsletters 2026-05-13 through 2026-05-17 — The Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, sports, iran, ai, nba, mets, bitcoin | 2026-05-17 |
 | [newsletter-2026-05-18](sources/newsletter-2026-05-18.md) | Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, sports, iran, musk, openai, ebola, amd, san-diego | 2026-05-18 |
+| [newsletter-2026-05-19](sources/newsletter-2026-05-19.md) | Newsletter 2026-05-19 — The Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, sports, karpathy, anthropic, amd, tesla, knicks, mets, wembanyama | 2026-05-19 |
+| [obsidian](sources/obsidian.md) | Obsidian Cheatsheet | cheatsheet | obsidian, notes, second-brain, zettelkasten, knowledge-management, markdown, tools | 2026-05-19 |
 
 ---
 
@@ -63,7 +65,8 @@ Content catalog — updated on every ingest. Organized by type and category.
 
 | Entity | Type | Tags | Sources |
 |--------|------|------|---------|
-| [Andrej Karpathy](entities/andrej-karpathy.md) | person | ai, ml, llm | 1 |
+| [Andrej Karpathy](entities/andrej-karpathy.md) | person | ai, ml, llm | 2 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs | 1 |
 | [Niklas Luhmann](entities/niklas-luhmann.md) | person | sociology, knowledge-management, zettelkasten, history | 1 |
 | [Tiago Forte](entities/tiago-forte.md) | person | knowledge-management, productivity, author | 1 |
 | [Vannevar Bush](entities/vannevar-bush.md) | person | history, computing, knowledge-management | 1 |
@@ -72,7 +75,7 @@ Content catalog — updated on every ingest. Organized by type and category.
 | [Mark Twain](entities/mark-twain.md) | person | american, satire | 1 |
 | [Salvador de Madariaga](entities/salvador-de-madariaga.md) | person | spanish, critic | 1 |
 | [Miguel de Cervantes](entities/miguel-de-cervantes.md) | person | literature, author | 1 |
-| [Obsidian](entities/obsidian.md) | product | knowledge-management, markdown, tools | 1 |
+| [Obsidian](entities/obsidian.md) | product | knowledge-management, markdown, tools | 2 |
 | [Niccolò Machiavelli](entities/niccolo-machiavelli.md) | person | philosopher, political-scientist, renaissance, florence | 1 |
 | [George Orwell](entities/george-orwell.md) | person | author, journalist, dystopia, politics | 1 |
 | [Sun Tzu](entities/sun-tzu.md) | person | military-strategist, philosopher, ancient-china | 1 |
@@ -161,7 +164,7 @@ Content catalog — updated on every ingest. Organized by type and category.
 ---
 
 
-*Last updated: 2026-05-18*
+*Last updated: 2026-05-19*
 
 ## Albums
 

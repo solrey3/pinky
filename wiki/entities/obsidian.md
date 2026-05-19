@@ -4,9 +4,9 @@ title: Obsidian
 type: entity
 entity_type: product
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-19
 tags: [knowledge-management, markdown, tools]
-source_count: 1
+source_count: 2
 ---
 
 # Obsidian
@@ -16,6 +16,7 @@ Markdown-based knowledge base application with a strong graph view, plugin ecosy
 ## Sources
 
 - [2026-05-09: LLM Wiki — A Pattern for Building Personal Knowledge Bases Using LLMs](../sources/karpathy-llm-wiki-pattern.md) — Recommended as the viewing tool; plugins mentioned include Web Clipper, Marp, and Dataview.
+- [2026-05-19: Obsidian Cheatsheet](../sources/obsidian.md) — Full operational reference: installation, vault structure, shortcuts, wikilink syntax, Dataview/Templater/Obsidian Git plugins, sync options, and the obsidian:// URI scheme.
 
 ## Related
 

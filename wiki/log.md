@@ -277,3 +277,14 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - **2026-05-11**: Created cheatsheet source page: [cowsay Cheatsheet](sources/cowsay.md)
 - **2026-05-11**: Created cheatsheet source page: [cmatrix Cheatsheet](sources/cmatrix.md)
 - **2026-05-11**: Created cheatsheet source page: [gawk Cheatsheet](sources/gawk.md)
+
+
+## [2026-05-19] ingest | Obsidian Cheatsheet
+- Source: `pinky/raw/cheatsheets/obsidian.md`
+- Summary: Full operational reference for Obsidian — the local-first markdown knowledge base. Covers install, vault structure (PARA-aligned), keyboard shortcuts, wikilink syntax, Dataview/Templater/Obsidian Git plugins, sync options, and the obsidian:// URI scheme. Obsidian is the viewing/navigation layer for this wiki.
+- Pages touched: `wiki/sources/obsidian.md`, `wiki/entities/obsidian.md` (updated), `wiki/index.md`, `wiki/log.md`
+
+## [2026-05-19] ingest | Newsletter 2026-05-19 — The Morning Dispatch & Evening Brief
+- Source: `pinky/raw/newsletters/2026-05-19-morning-dispatch.md`, `pinky/raw/newsletters/2026-05-19-evening-dispatch.md`
+- Summary: Andrej Karpathy joins Anthropic (top story); Gemini 3.5 Flash drops; CISA leaks AWS GovCloud keys on GitHub; 314 npm packages compromised. Russell 2000 -3.37% for second straight day; AMD -7.64%, TSLA -6.77%; 30-YR Treasury at 52-wk high (5.181%); oil above $104 on Iran war rhetoric. Target +4.47% bucked the trend. Plex tripled Lifetime Pass price; Discord added E2EE on all calls; PS Plus raised prices. Mets 7 of last 9; Wembanyama dominated Spurs-OKC Game 1; Knicks-Cavs Game 1 tonight at MSG.
+- Pages touched: `wiki/sources/newsletter-2026-05-19.md`, `wiki/entities/andrej-karpathy.md` (updated), `wiki/entities/victor-wembanyama.md` (created), `wiki/index.md`, `wiki/log.md`
