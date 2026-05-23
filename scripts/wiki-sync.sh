@@ -82,4 +82,16 @@ log "Invoking pi --print to ingest files..."
   --model anthropic/claude-sonnet-4.6 \
   "$PROMPT" 2>&1 | tee -a "$LOG"
 
+# --- Commit and push wiki changes ---
+log "Committing wiki changes to git..."
+cd "$HOME/pinky"
+git add wiki/ logs/wiki-sync.log
+if git diff --staged --quiet; then
+  log "No wiki changes to commit."
+else
+  git commit -m "wiki-sync: ingest $(date -u '+%Y-%m-%d')"
+  git push
+  log "Pushed to origin."
+fi
+
 log "=== wiki-sync done ==="
