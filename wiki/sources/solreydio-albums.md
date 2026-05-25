@@ -4,7 +4,7 @@ title: SolReyDio — 150ish Favorite Albums
 type: source
 source_type: capture
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-25
 tags: [music, albums, rankings, solreydio]
 source_path: raw/journal/solreydio-albums.md
 ---
@@ -95,5 +95,7 @@ Jazz, reggae, punk, classical, and electronic are represented but as satellites 
 ## Synthesis Notes
 
 This list functions as a musical autobiography — every entry implies a moment of discovery. The heavy weighting toward 1990s hip-hop and Britpop suggests formative listening years in that window. The inclusion of *The Headphone Masterpiece* at #44 (a deeply obscure 2002 bedroom recording) signals that obscurity and rawness are valued over polish. The selection of *Different Class* at #4 over canonical British albums like *OK Computer* or *Nevermind* is the most idiosyncratic peak choice — suggesting a preference for wit and class consciousness over sonic grandeur.
+
+**Album page enrichment (2026-05-25):** All 44 ranked album wiki pages have been updated with Fabric `extract_wisdom` structured content (SUMMARY, IDEAS, INSIGHTS, HABITS, FACTS, QUOTES, ONE-SENTENCE TAKEAWAY, RECOMMENDATIONS, RELATED). The unranked full-list albums also exist as wiki pages. The music/albums directory now covers the complete 178-album canon plus a small number of additional entries (e.g., GNX was independently logged). All album pages link back to their artist entity pages.
 
 The canon is self-aware about its own limitations: "arbitrary and reductive." That admission is the point. A ranked list of 178 albums is not a claim about objective quality; it's a hypothesis about what kinds of music matter to a particular listener at a particular moment. The SolReyDio project (solrey3.com/solreydio) is the public-facing version of this private map.

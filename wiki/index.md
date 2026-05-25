@@ -58,6 +58,12 @@ Content catalog — updated on every ingest. Organized by type and category.
 | [newsletter-2026-05-18](sources/newsletter-2026-05-18.md) | Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, sports, iran, musk, openai, ebola, amd, san-diego | 2026-05-18 |
 | [newsletter-2026-05-19](sources/newsletter-2026-05-19.md) | Newsletter 2026-05-19 — The Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, sports, karpathy, anthropic, amd, tesla, knicks, mets, wembanyama | 2026-05-19 |
 | [obsidian](sources/obsidian.md) | Obsidian Cheatsheet | cheatsheet | obsidian, notes, second-brain, zettelkasten, knowledge-management, markdown, tools | 2026-05-19 |
+| [newsletter-2026-05-20-to-05-25](sources/newsletter-2026-05-20-to-05-25.md) | Newsletters 2026-05-20 through 2026-05-25 — Morning Dispatch & Evening Brief | newsletter | newsletter, news, markets, iran, knicks, wembanyama, oil, ai, ebola, memorial-day, arsenal, mets | 2026-05-25 |
+| [homelab-inventory](sources/homelab-inventory.md) | Homelab Inventory | journal | homelab, hardware, infrastructure, nixos, kubernetes, linux, macos, networking | 2026-05-25 |
+| [movie-rankings](sources/movie-rankings.md) | Thee Movie List — All-Time Rankings | journal | movies, film, rankings, personal, all-time | 2026-05-25 |
+| [nba-rankings](sources/nba-rankings.md) | NBA Rankings — Personal All-Time Player Pyramid | journal | nba, basketball, rankings, personal, all-time, goat | 2026-05-25 |
+| [pro-wrestling-rankings](sources/pro-wrestling-rankings.md) | Pro Wrestling Rankings — Personal All-Time List | journal | wrestling, rankings, pro-wrestling, personal, all-time | 2026-05-25 |
+| [tv-series-rankings](sources/tv-series-rankings.md) | TV Series Rankings — Personal All-Time List | journal | tv, rankings, television, entertainment, personal, all-time | 2026-05-25 |
 
 ---
 

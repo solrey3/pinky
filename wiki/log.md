@@ -4,7 +4,48 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
-## [2026-05-13] ingest | SolReyDio — 150ish Favorite Albums
+## [2026-05-25] ingest | Newsletters 2026-05-20 through 2026-05-25 — Morning Dispatch & Evening Brief
+- Source: 11 newsletter editions (2026-05-20 morning + evening, 2026-05-21 morning, 2026-05-22 morning + evening, 2026-05-23 morning + evening, 2026-05-24 morning + evening, 2026-05-25 morning)
+- Summary: Memorial Day week catchup. Iran deal arc: Trump "largely negotiated" → oil crashes 11% (WTI $108→$96.60) → Trump "not finalized" by May 25. Knicks sweep Cavaliers ECF 3-0 (44-11 run in Game 1, Brunson 38 pts). Wembanyama half-court buzzer beater (WCF Game 4). Pope Leo XIV drops *Magnifica Humanitas* (381-point AI regulation encyclical) + historic Vatican apology for slavery. GitHub breach via VSCode extension (3,800 repos). OpenAI model disproves discrete geometry conjecture. Dow crosses 50K; all indices near 52-week highs. RL +15.6%, AMD +10.24%, NVDA -4.4%. 30-YR Treasury hugging 5.15% ceiling. Ebola 3rd-largest outbreak ever. Wyndham Clark wins CJ CUP Byron Nelson at -30. Arsenal UCL Final vs PSG (May 30, CBS). SpaceX Starship V3 mostly successful first flight.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-05-20-to-05-25.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Iran deal is the macro story of the week — oil markets moved on *expectations* of a deal that wasn't confirmed. Constraint decay paper (LLMs forget rules mid-session) is the AI safety finding of the week. The Knicks series is all-time. Pope Leo XIV is a major new entity — first encyclical, historic slavery apology, and AI stance all in one day.
+
+## [2026-05-25] ingest | Homelab Inventory
+- Source: `pinky/raw/journal/homelab-inventory.md`
+- Summary: Full hardware inventory of 19-node homelab using NATO phonetic naming (alpha–sierra). Mix of NixOS/Arch/Pop!_OS/macOS nodes; three Beelink EQR5 mini PCs targeting K8s cluster (Fedora CoreOS planned); primary workstation is juliet (M4 Mac Mini); primary daily driver is quebec (Framework 13 AMD Ryzen AI 300); hotel = this DigitalOcean droplet (Ubuntu Server); romeo/illmatic = Synology DS920+ NAS with Pi-hole.
+- Pages touched: `pinky/wiki/sources/homelab-inventory.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Establishes the canonical hardware map. Key observation: K8s cluster (kilo/lima/mike) is still planned — Fedora CoreOS not yet installed. NixOS ambitions are real but the daily reality is Pop!_OS + Omarchy.
+
+## [2026-05-25] ingest | Thee Movie List — All-Time Rankings
+- Source: `pinky/raw/journal/movie-rankings.md`
+- Summary: 67 films, all listed at rank 1 (equal-ranking). Heavy Kubrick presence (Full Metal Jacket, Dr. Strangelove, A Clockwork Orange, 2001), strong comedy canon (Spaceballs, Blazing Saddles, Airplane!, Coming to America), martial arts (Enter the Dragon, Bloodsport, Hard Boiled), and poker/game theory (Rounders, Searching for Bobby Fischer). The Harder They Come bridges film and music canons. Thirty Two Short Films About Glenn Gould connects to the Goldberg Variations album entry.
+- Pages touched: `pinky/wiki/sources/movie-rankings.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Equal-ranking approach is honest — refuses false hierarchy at the taste-comparison level. Cross-reference with solreydio-albums: The Harder They Come and Glenn Gould appear in both.
+
+## [2026-05-25] ingest | NBA Rankings — Personal All-Time Player Pyramid
+- Source: `pinky/raw/journal/nba-rankings.md`
+- Summary: 96 players in 5 tiers + Level 2 + Level 1 + "Too Old School For Me." Jordan #1, LeBron #2, Curry #6 (Tier 2), Shai Gilgeous-Alexander in Level 2 (the 2026 NBA MVP). Wilt at #12 (below Russell at #4) — values winning over raw stats. "Too Old School For Me" is a rare candid era-bias admission.
+- Pages touched: `pinky/wiki/sources/nba-rankings.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Complements the-book-of-basketball and raptor analytics ingests. SGA placement in Level 2 (not Tier 5 yet) is reasonable — mid-career, just won MVP.
+
+## [2026-05-25] ingest | Pro Wrestling Rankings — Personal All-Time List
+- Source: `pinky/raw/journal/pro-wrestling-rankings.md`
+- Summary: 80 wrestlers ranked. Austin #1 (Attitude Era peak), Flair #2, Michaels #3, Hart #4. Bryan Danielson #7 signals valuation of technical craft. Strong AEW/indie representation (Jericho #11, Moxley #18, MJF #21, Omega #23, Ospreay #32). Okada #35. Hulk Hogan at #50 — below his cultural footprint, above his in-ring ceiling.
+- Pages touched: `pinky/wiki/sources/pro-wrestling-rankings.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Danielson at #7 is the most telling placement — craft over commercial weight. Same principle as NBA pyramid (craft over raw stats).
+
+## [2026-05-25] ingest | TV Series Rankings — Personal All-Time List
+- Source: `pinky/raw/journal/tv-series-rankings.md`
+- Summary: 62 scripted + 8 reality. Simpsons #1 (longevity, cultural DNA), Wire #2 (greatest drama), Mr. Robot #3 (cyberpunk/hacker realism). Strong satire cluster (South Park #4, Boondocks #9). Dragon Ball Z/Super #8 (only anime). Newsradio #16 (cult favorite). Reality: Survivor #1.
+- Pages touched: `pinky/wiki/sources/tv-series-rankings.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Simpsons over Wire is a bold choice — sustained comedic worldbuilding over peaked narrative drama. Mr. Robot themes (hacking, surveillance) connect to security-and-privacy-toolkit and totalitarianism concepts.
+
+## [2026-05-25] update | SolReyDio Albums source — enrichment noted
+- Source: `pinky/raw/journal/solreydio-albums.md` (unchanged)
+- Summary: Updated `wiki/sources/solreydio-albums.md` to reflect that all 44 ranked album pages have been enriched with Fabric extract_wisdom structured content (as of 2026-05-25). Updated `updated` date to 2026-05-25.
+- Pages touched: `pinky/wiki/sources/solreydio-albums.md`, `pinky/wiki/log.md`
+
+
 - Source: `pinky/raw/journal/solreydio-albums.md`
 - Summary: Personal musical canon of 178 albums spanning 1956–2024; top 44 explicitly ranked, full list extends to 178 with no compilations and 3-year maturity rule. Heavy hip-hop (Public Enemy #1, #27), Britpop (Pulp #4), and soul/jazz core.
 - Pages touched: `pinky/wiki/sources/solreydio-albums.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
