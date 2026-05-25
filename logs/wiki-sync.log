@@ -64,3 +64,29 @@
 [2026-05-24T00:00:05Z] Invoking pi --print to ingest files...
 /usr/bin/env: ‘node’: No such file or directory
 /usr/bin/env: ‘node’: No such file or directory
+[2026-05-25T00:00:01Z] === wiki-sync start ===
+[2026-05-25T00:00:01Z] === wiki-sync start ===
+[2026-05-25T00:00:05Z] Found 9 uningested file(s):
+[2026-05-25T00:00:05Z] Found 9 uningested file(s):
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-20-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-20-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-20-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-20-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-21-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-21-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-22-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-22-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-22-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-22-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-23-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-23-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-23-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-23-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-24-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-24-evening-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-24-morning-dispatch.md
+[2026-05-25T00:00:05Z]   /home/sancho/pinky/raw/newsletters/2026-05-24-morning-dispatch.md
+[2026-05-25T00:00:05Z] Invoking pi --print to ingest files...
+[2026-05-25T00:00:05Z] Invoking pi --print to ingest files...
+/usr/bin/env: ‘node’: No such file or directory
+/usr/bin/env: ‘node’: No such file or directory
