@@ -110,17 +110,9 @@ Patchy light drizzle. 31°C / 88°F (feels like 37°C / 99°F). Wind 10 km/h nor
 | **NJ State Average (AAA)** | $4.495 | |
 | **National Average (AAA)** | $4.491 | Midgrade $4.969 · Premium $5.350 · Diesel $5.584 |
 
-### 📦 Index Funds / ETFs
+### 📦 ETFs
 
-| Fund | Price | Change | % | 52-Week Range | Note |
-|---|---|---|---|---|---|
-| **VTSAX** — Total Stock Mkt | $178.52 | +2.14 | +1.21% | $140.75 – $178.85 | Near 52-week high. Broad market participation today. |
-| **VFIAX** — Vanguard 500 | $690.74 | +6.69 | +0.98% | $544.36 – $692.95 | S&P proxy near highs. |
-| **VSIAX** — Small-Cap Value | $99.97 | +1.85 | +1.89% | $80.89 – $101.02 | Near 52-week high. Small caps SURGING today (Russell +5%). |
-| **VHYAX** — High Dividend Yld | $47.84 | +0.61 | +1.29% | $38.64 – $47.84 | AT 52-week high. Dividend plays catching a bid. |
-| **VGSLX** — Real Estate | $137.15 | +2.50 | +1.86% | $123.33 – $137.58 | Near 52-week high. REITs ripping with rate cut optimism. |
-
-*Note: Mutual fund NAVs update once daily after market close.*
+*ETF data will populate from next fetch (ONEQ · SCHD · VXUS · VBR · VNQ). Fetch script updated today.*
 
 ### 📱 Stock Watch
 
@@ -148,110 +140,206 @@ Hot market: **US-Iran ceasefire/deal timeline** — *Axios* reporting proposed d
 
 ## 🏀 SPORTS SCOREBOARD
 
-### 🏀 NBA — **KNICKS ARE IN THE FINALS!**
+### 🏀 NBA
 
-**NEW YORK KNICKS SWEEP THE CLEVELAND CAVALIERS 4-0**
-Your 2026 Eastern Conference Champions are headed to the NBA Finals for the **first time since 1999**. Dolan cried. Josh Hart menaced. Brunson cooked. Knicks fans took over Cleveland AND NYC simultaneously.
+**COMPLETED — May 25**
 
-> *KnickerBlogger: "Congratulations to Your 2026 Eastern Conference Champion New York Knicks!"*
-> *411mania: "New York Knicks Advance to NBA Finals With Help From Danhausen" 🪄*
-> *The Danhausen Curse™ is now a Finals pipeline.*
+| Away | Score | Home | Score | Status | TV |
+|---|---|---|---|---|---|
+| **New York Knicks** | — | Cleveland Cavaliers | — | FINAL · NYK **win series 4–0** 🏆 | ESPN |
 
-NBA Finals opponent TBD (Western Conference finals still in progress). Stay tuned.
+*Knicks are 2026 Eastern Conference Champions — first Finals trip since 1999. WCF still in progress.*
 
----
+**UPCOMING**
 
-### ⚾ MLB — NY Mets in Free Fall
-
-**NY Mets recent form (L5 of L6):**
-| Date | Matchup | Result |
+| Matchup | Date | TV |
 |---|---|---|
-| May 18 | @ Washington Nationals | **W 16** (12 inn) ✅ |
-| May 19 | @ Washington Nationals | L, Nats W 9 |
-| May 20 | @ Washington Nationals | L, Nats W 8 |
-| May 21 | @ Washington Nationals | **W 2** ✅ |
-| May 22 | @ Miami Marlins | L, Marlins W 2 |
-| May 23 | @ Miami Marlins | L, Marlins W 4 |
-| May 24 | @ Miami Marlins | L, Marlins W 4 |
-| May 25 | vs. Cincinnati Reds | L, Reds W 7 |
-
-*Cold. Ice cold. That run differential against Miami hurts. Cincinnati walking in and posting 7 is not the vibe.*
+| NBA Finals Game 1 — NYK vs. TBD | TBD | TBD |
 
 ---
 
-### 🏒 NHL — NJ Devils
+### ⚾ MLB
 
-No games listed. Offseason or postseason eliminated. No data available.
+**COMPLETED — May 25**
+
+| Away | Score | Home | Score | Status |
+|---|---|---|---|---|
+| Seattle Mariners | — | Oakland Athletics | — | Final |
+| Colorado Rockies | — | Los Angeles Dodgers | — | Final |
+| Miami Marlins | — | Toronto Blue Jays | — | Final |
+| Philadelphia Phillies | — | San Diego Padres | — | Final |
+| Arizona Diamondbacks | — | San Francisco Giants | — | Final |
+| Cincinnati Reds | 7 | New York Mets | — | Final |
+
+*Box scores not returned by ESPN API — game results sourced from House of Highlights. Reds–Mets score from team report data.*
+
+**UPCOMING — May 26**
+
+| Away | Home | Date | TV |
+|---|---|---|---|
+| Colorado Rockies (makeup) | New York Mets | TBD | N/A |
 
 ---
 
-### ⛳ PGA Tour — CJ Cup Byron Nelson (FINAL)
+### 🏒 NHL
 
-| Pos | Player | Score | R1 | R2 | R3 | R4 |
+**COMPLETED — May 25**
+
+| Away | Score | Home | Score | Status |
+|---|---|---|---|---|
+| — | — | — | — | No games |
+
+**UPCOMING**
+
+| Away | Home | Date | TV |
+|---|---|---|---|
+| — | — | — | — |
+
+*Stanley Cup Playoffs: no games listed. Check nhl.com for Finals schedule.*
+
+---
+
+### ⛳ GOLF
+
+**PGA Tour — CJ Cup Byron Nelson · FINAL**
+
+| Pos | Player | Total | R1 | R2 | R3 | R4 |
 |---|---|---|---|---|---|---|
-| 🥇 **1** | **Wyndham Clark** | **-30** | -5 | -8 | -6 | -11 |
-| 2 | Si Woo Kim | -27 | -7 | -11 | -3 | -6 |
-| 3 | Scottie Scheffler | -25 | -5 | -8 | -6 | -6 |
-| 4 | Jackson Suber | -23 | -3 | -10 | -2 | -8 |
-| 5 | Keith Mitchell | -22 | -7 | -5 | -3 | -7 |
-| 6 | Tony Finau | -20 | -4 | -8 | -2 | -6 |
-| 6 | Zach Bauchou | -20 | -4 | -7 | -5 | -4 |
-| 6 | Tom Hoge | -20 | -3 | -9 | -5 | -3 |
-| 9 | Johnny Keefer | -19 | -5 | -2 | -4 | -8 |
-| 9 | Jesper Svensson | -19 | -8 | +1 | -6 | -6 |
+| **1** | **Wyndham Clark** | **−30** | −5 | −8 | −6 | −11 |
+| 2 | Si Woo Kim | −27 | −7 | −11 | −3 | −6 |
+| 3 | Scottie Scheffler | −25 | −5 | −8 | −6 | −6 |
+| 4 | Jackson Suber | −23 | −3 | −10 | −2 | −8 |
+| 5 | Keith Mitchell | −22 | −7 | −5 | −3 | −7 |
+| T6 | Tony Finau | −20 | −4 | −8 | −2 | −6 |
+| T6 | Zach Bauchou | −20 | −4 | −7 | −5 | −4 |
+| T6 | Tom Hoge | −20 | −3 | −9 | −5 | −3 |
+| T9 | Johnny Keefer | −19 | −5 | −2 | −4 | −8 |
+| T9 | Jesper Svensson | −19 | −8 | +1 | −6 | −6 |
 
-*Wyndham Clark fires a closing -11 (!) to win at -30. Scheffler finishes third — consistent as ever. Next up: Memorial Tournament.*
+*Clark closes −11 to win at −30. Scheffler T3 — consistent as ever.*
 
-**LPGA Tour — ShopRite LPGA Classic** *(Wakefern — NJ's own!)* starts Friday, May 28. Watch for it.
+**LPGA Tour — ShopRite LPGA Classic** *(Stockton, NJ — Wakefern)*
 
----
-
-### 🎾 Tennis — Roland Garros 🔴 LIVE
-
-**ATP & WTA Men's/Women's Singles — 3rd Round action**
-
-**Women's Singles — Live matches:**
-- 🔴 **(1) Aryna Sabalenka** bt Jessica Bouzas Maneiro 6-4, 6-2 ✅
-- 🔴 **(4) Coco Gauff** leads Taylor Townsend **6-4, 4-0** (in progress)
-- 🔴 Laura Siegemund tied with (16) **Naomi Osaka** 3-6, 6-5 (3rd set TBD)
-- 🔴 Elsa Jacquemot leads Linda Fruhvirtova 6-4, 1-0
-
-**Men's Singles — Live matches:**
-- 🔴 **Stefanos Tsitsipas** bt Alexandre Muller 6-2, 3-0 ret ✅
-- 🔴 Vit Kopriva leads (30) Corentin Moutet 6-3, 5-7, 4-4
-- 🔴 Martin Landaluce leads Juan Carlos Prado Angelo 6-3, 4-6, 6-2, 5-4
-
-*Gauff looking dominant. Sabalenka cruising. Tsitsipas through with a retirement. Roland Garros clay doing what clay does — drama on every court.*
-
----
-
-### ⚽ Soccer — What's Coming Up
-
-| Match | Date | TV |
+| Status | Date | TV |
 |---|---|---|
-| 🔴 **Arsenal vs. Paris Saint-Germain** (UCL FINAL) | **Sat, May 30 — 12:00 PM EDT** | CBS |
-| Crystal Palace vs. Rayo Vallecano (UEFA Conference League Final) | Wed, May 27 — 3:00 PM EDT | Paramount+ |
-| South Africa vs. Mexico (FIFA World Cup) | Thu, June 11 — 3:00 PM EDT | FOX |
-| Czechia vs. South Korea (FIFA World Cup) | Thu, June 11 — 10:00 PM EDT | FS1 |
-
-**🔴 CIRCLED: Arsenal vs. PSG — UCL Final, Saturday noon on CBS.**
-The Gunners have been on a historic UCL run (W8, scored 3+ in nearly every leg). PSG in the way. Massive match.
+| Round 1 | Fri, May 28 | TBD |
 
 ---
 
-### 🏈 NFL — See You in September
+### 🎾 TENNIS — Roland Garros 🔴 LIVE
 
-Season opens September 9: **New England Patriots at Seattle Seahawks** (NBC, 8:20 PM ET)
-**NY Giants** open September 14 hosting Dallas Cowboys (8:20 PM ET)
-*NCAAF kicks off August 29 — Indiana Hoosiers (16-0 last season, #1) look to defend.*
+**Women's Singles — May 26 Results**
+
+| Winner | Score | Loser | Round | Status |
+|---|---|---|---|---|
+| **(1) Aryna Sabalenka** | 6-4, 6-2 | Jessica Bouzas Maneiro | R2 | Final |
+| Claire Liu | 3-6, 6-0, ret. | Moyuka Uchijima | R2 | Final |
+| Maria Sakkari | 7-5, 7-6(3) | (12) Linda Noskova | R2 | Final |
+| (30) Ann Li | 6-4, 6-2 | Zhang Shuai | R2 | Final |
+| Mayar Sherif | 7-5, 6-4 | Dalma Galfi | R2 | Final |
+| **(4) Coco Gauff** | 6-4, 4-0… | Taylor Townsend | R2 | 🔴 LIVE |
+| Laura Siegemund | 3-6, 6-5… | (16) Naomi Osaka | R2 | 🔴 LIVE |
+| Elsa Jacquemot | 6-4, 1-0… | Linda Fruhvirtova | R2 | 🔴 LIVE |
+| Alina Korneeva | 2-0… | Elisabetta Cocciaretto | R2 | 🔴 LIVE |
+
+**Men's Singles — May 26 Results**
+
+| Winner | Score | Loser | Round | Status |
+|---|---|---|---|---|
+| Zachary Svajda | 3-6, 6-3, 7-6(3), 7-5 | Alexei Popyrin | R2 | Final |
+| (16) Valentin Vacherot | 6-3, 6-4, 3-6, 7-6(6) | Thomas Faurel | R2 | Final |
+| Facundo Diaz Acosta | 6-1, 6-4, 6-3 | Zhang Zhizhen | R2 | Final |
+| **Stefanos Tsitsipas** | 6-2, 3-0 ret. | Alexandre Muller | R2 | Final |
+| Adolfo Vallejo | 7-6(7), 2-0 ret. | (20) Cameron Norrie | R2 | Final |
+| Martin Landaluce | 6-3, 4-6, 6-2, 5-4… | J.C. Prado Angelo | R2 | 🔴 LIVE |
+| Vit Kopriva | 6-3, 5-7, 4-4… | (30) Corentin Moutet | R2 | 🔴 LIVE |
+| R.A. Burruchaga | 2-6, 7-5, 1-0… | Sebastian Baez | R2 | 🔴 LIVE |
 
 ---
 
-### 🏀 NCAA Basketball — Off-Season
+### 🚴 CYCLING — Tour de France
 
-Final AP Top 25 (as of April 7): **#1 Michigan Wolverines (37-3)**, #2 UConn Huskies, #10 St. John's Red Storm. St. John's had a monster year. Big East Final: Michigan 69, UConn 63.
+| Status | Next Race | Dates |
+|---|---|---|
+| Off-season | Tour de France 2026 | Late June – Late July |
 
 ---
+
+### ⚽ SOCCER
+
+**UEFA Champions League**
+
+| Away | Score | Home | Score | Date | TV |
+|---|---|---|---|---|---|
+| Arsenal | — | Paris Saint-Germain | — | **Sat, May 30 · 12:00 PM EDT** · FINAL 🏆 | CBS |
+
+**UEFA Conference League**
+
+| Away | Score | Home | Score | Date | TV |
+|---|---|---|---|---|---|
+| Rayo Vallecano | — | Crystal Palace | — | **Wed, May 27 · 3:00 PM EDT** · FINAL | Paramount+ |
+
+**Ligue 1**
+
+| Away | Score | Home | Score | Status |
+|---|---|---|---|---|
+| Toulouse | — | Nantes | — | Abandoned |
+
+**FIFA World Cup — Upcoming**
+
+| Away | Home | Date | TV |
+|---|---|---|---|
+| South Africa | Mexico | Thu, Jun 11 · 3:00 PM EDT | FOX |
+| Czechia | South Korea | Thu, Jun 11 · 10:00 PM EDT | FS1 |
+
+*MLS, Premier League, La Liga, Serie A, Bundesliga: no games listed.*
+
+---
+
+### 🏈 NFL
+
+**UPCOMING — 2026 Season**
+
+| Away | Home | Date | TV |
+|---|---|---|---|
+| New England Patriots | Seattle Seahawks | Wed, Sep 9 · 8:20 PM EDT | NBC |
+| San Francisco 49ers | Los Angeles Rams | Thu, Sep 10 · 8:35 PM EDT | Netflix |
+| Dallas Cowboys | **New York Giants** | Sun, Sep 14 · 8:20 PM EDT | N/A |
+| New York Jets | Tennessee Titans | Sun, Sep 13 · 1:00 PM EDT | CBS |
+
+---
+
+### 🏀 NCAAB — 2025-26 Final AP Top 25
+
+| Rank | Team | Record |
+|---|---|---|
+| 1 | Michigan Wolverines | 37–3 |
+| 2 | UConn Huskies | 34–6 |
+| 3 | Arizona Wildcats | 36–3 |
+| 4 | Duke Blue Devils | 35–3 |
+| 5 | Illinois Fighting Illini | 28–9 |
+| 6 | Purdue Boilermakers | 30–9 |
+| 7 | Houston Cougars | 30–7 |
+| 8 | Iowa State Cyclones | 29–8 |
+| 9 | Florida Gators | 27–8 |
+| **10** | **St. John's Red Storm** | **30–7** |
+
+*Big East Final: Michigan 69, UConn 63. Season complete — off-season.*
+
+### 🏈 NCAAF — 2025-26 Final AP Top 25
+
+| Rank | Team | Record |
+|---|---|---|
+| 1 | Indiana Hoosiers | 16–0 |
+| 2 | Miami Hurricanes | 13–3 |
+| 3 | Ole Miss Rebels | 13–2 |
+| 4 | Oregon Ducks | 13–2 |
+| 5 | Ohio State Buckeyes | 12–2 |
+
+*2026 season opens Aug 29. First ESPN game: North Carolina at TCU (ESPN, noon EDT).*
+
+---
+
 
 ## 📋 TEAM REPORTS
 
