@@ -458,7 +458,8 @@ Schedule parse error — no recent results available. Check mlssoccer.com for la
 
 | Rating | Date | Match | Promotion | Event |
 |---|---|---|---|---|
-| — | Jan 4, 2026 | Konosuke Takeshita vs. Yota Tsuji | NJPW | Wrestle Kingdom 20 |
+| ⭐×5 | Jan 4, 2026 | Konosuke Takeshita vs. Yota Tsuji | NJPW | Wrestle Kingdom 20 |
+| **⭐×6** | **Jan 4, 2026** | **Hiroshi Tanahashi vs. Kazuchika Okada** | **NJPW** | **Wrestle Kingdom 20 — Tanahashi's final match** |
 | ⭐×5.25 | Jan 19, 2026 | Shota Umino & Yuya Uemura vs. Tomohiro Ishii & Taichi | NJPW | Road to The New Beginning |
 | ⭐×5.25 | Feb 18, 2026 | Swerve Strickland vs. Kenny Omega | AEW | Dynamite |
 | ⭐×5 | Feb 25, 2026 | Jack Perry, The Rascalz & The Young Bucks vs. FTR & The Demand | AEW | *(rating not parsed)* |
