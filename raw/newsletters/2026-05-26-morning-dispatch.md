@@ -152,7 +152,7 @@ Hot market: **US-Iran ceasefire/deal timeline** — *Axios* reporting proposed d
 
 | Away | Score | Home | Score | Status | TV |
 |---|---|---|---|---|---|
-| **New York Knicks** | — | Cleveland Cavaliers | — | FINAL · NYK **win series 4–0** 🏆 | ESPN |
+| **New York Knicks** | **130** | Cleveland Cavaliers | 93 | FINAL · NYK **win series 4–0** 🏆 | ESPN |
 
 *Knicks are 2026 Eastern Conference Champions — first Finals trip since 1999. WCF still in progress.*
 
