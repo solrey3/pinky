@@ -194,19 +194,20 @@ Netflix VP Gabe Spitzer says the WWE deal has exceeded expectations and confirme
 
 The Mets are getting blown out at Citi Field tonight, 7-2 to the Reds heading to the bottom of the 9th. That's **loss #4 in a row** — swept by the Marlins in Miami over the weekend and now this. The team that put up 16 runs in 12 innings against Washington ten days ago is in a full offense blackout. Next up: two postponed makeup games vs. Colorado (dates TBD).
 
-*Last 8:*
+*Last 8 (Mets score listed first):*
 
 | Date | Matchup | Result |
 |------|---------|--------|
-| May 19 | at Washington | WSH W 9 |
-| May 20 | at Washington | WSH W 8 |
-| May 21 | at Washington | **Mets W 2** |
-| May 22 | at Miami | MIA W 2 |
-| May 23 | at Miami | MIA W 4 |
-| May 24 | at Miami | MIA W 4 |
-| May 25 | vs Cincinnati | CIN W 7 ← (near-final) |
+| May 18 | @ Washington | **W 16–7** |
+| May 19 | @ Washington | L 6–9 |
+| May 20 | @ Washington | L 4–8 |
+| May 21 | @ Washington | **W 2–1** |
+| May 22 | @ Miami | L 1–2 |
+| May 23 | @ Miami | L 1–4 |
+| May 24 | @ Miami | L 0–4 |
+| May 25 | vs Cincinnati | L 2–7 *(near-final)* |
 
-*3-4 over last 7, all losses against teams they should be beating. The road trip from hell ends at home. Figure it out.*
+*2-6 over last 8. Four straight losses, zero runs against Miami on Sunday. The team that hung 16 on Washington a week ago is in a full offense blackout.*
 
 ---
 
