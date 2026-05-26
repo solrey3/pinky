@@ -139,32 +139,6 @@ Knicks lead the series 3-0. One win from the NBA Finals. The Cavaliers are playi
 *Polymarket had OKC at 42–64% to win the title across the week — the Knicks' path runs through whoever comes out of the West.*
 
 ---
-
-### 🤼 SQUARED CIRCLE DIGEST — BIG NIGHT
-
-**🏆 [AEW] MJF REGAINS AEW WORLD CHAMPIONSHIP AT DOUBLE OR NOTHING**
-The biggest AEW story of the year: MJF beats Darby Allin in a **Title vs. Hair match** to reclaim the AEW World Championship. Darby's hair is gone. MJF is back on top. The Salt of the Earth is the champion of the world again.
-
-> *"AEW Double or Nothing 2026 Results: MJF regains AEW World Championship from Darby Allin in Title vs. Hair match"* — POST Wrestling
-
-**[AEW] Jack Perry Bus Crash Was Live**
-All that chaos was real-time. Young Bucks confirm the Stadium Stampede action was filmed in real time too. AEW going full spectacle at Double or Nothing.
-
-**[AEW] Wardlow Spotted Backstage**
-Wardlow was at Double or Nothing but wasn't on the card. Watch this space.
-
-**[AEW] FTR Approaching Option Year — WWE Has Interest**
-Fightful reporting FTR's AEW contract is entering its option period and WWE has preliminary interest. One of AEW's foundational tag teams potentially heading back to WWE would be a significant roster move.
-
-**[WWE] Raw Tonight — Intercontinental Title**
-Penta defending the Intercontinental Championship against Je'Von Evans on Monday Night Raw.
-
-**[WWE] MVP on Triple H: "I Don't Respect Him. He's a Liar and a Coward"**
-MVP unloading on Triple H regarding the Hurt Business exit. Strong words on a holiday. *(Fightful)*
-
-**[WWE] Netflix Partnership: "Above Our Expectations"**
-Netflix VP Gabe Spitzer says the WWE deal has exceeded expectations and confirmed WWE on Netflix launches in Japan later this year. The Wall Street decision to take WWE global via streaming is looking smart.
-
 ---
 
 ### ⚾ MLB — Memorial Day Scorecard
@@ -253,6 +227,33 @@ Carolina stays alive; Montreal trying to force a Game 7. Keep an eye on TNT toni
 | South Africa vs Mexico (World Cup) | Thu Jun 11 | 3:00 PM | FOX |
 
 Arsenal go for the Champions League trophy Saturday. Eight straight UCL wins. PSG stands between them and the biggest prize in European club football.
+
+---
+
+### 🤼 SQUARED CIRCLE DIGEST — BIG NIGHT
+
+**🏆 [AEW] MJF REGAINS AEW WORLD CHAMPIONSHIP AT DOUBLE OR NOTHING**
+The biggest AEW story of the year: MJF beats Darby Allin in a **Title vs. Hair match** to reclaim the AEW World Championship. Darby's hair is gone. MJF is back on top. The Salt of the Earth is the champion of the world again.
+
+> *"AEW Double or Nothing 2026 Results: MJF regains AEW World Championship from Darby Allin in Title vs. Hair match"* — POST Wrestling
+
+**[AEW] Jack Perry Bus Crash Was Live**
+All that chaos was real-time. Young Bucks confirm the Stadium Stampede action was filmed in real time too. AEW going full spectacle at Double or Nothing.
+
+**[AEW] Wardlow Spotted Backstage**
+Wardlow was at Double or Nothing but wasn't on the card. Watch this space.
+
+**[AEW] FTR Approaching Option Year — WWE Has Interest**
+Fightful reporting FTR's AEW contract is entering its option period and WWE has preliminary interest. One of AEW's foundational tag teams potentially heading back to WWE would be a significant roster move.
+
+**[WWE] Raw Tonight — Intercontinental Title**
+Penta defending the Intercontinental Championship against Je'Von Evans on Monday Night Raw.
+
+**[WWE] MVP on Triple H: "I Don't Respect Him. He's a Liar and a Coward"**
+MVP unloading on Triple H regarding the Hurt Business exit. Strong words on a holiday. *(Fightful)*
+
+**[WWE] Netflix Partnership: "Above Our Expectations"**
+Netflix VP Gabe Spitzer says the WWE deal has exceeded expectations and confirmed WWE on Netflix launches in Japan later this year. The Wall Street decision to take WWE global via streaming is looking smart.
 
 ---
 
