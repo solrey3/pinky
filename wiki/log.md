@@ -4,6 +4,14 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-05-26] ingest | Newsletters 2026-05-25 Evening through 2026-05-26 Morning
+- Source: `pinky/raw/newsletters/2026-05-25-evening-dispatch.md`, `pinky/raw/newsletters/2026-05-26-morning-dispatch.md`
+- Summary: **Knicks sweep Cavaliers** 4-0 (130-93 Game 4) — first NBA Finals since 1999. **US strikes targets in southern Iran** as Qatar ceasefire talks teetered — oil fell another -4.58% to $93.76 (down ~22% from week high). AMD +17.43% to $494 (near 52W high); RL +19.58%; Russell 2000 +5.07% — all four major indices near 52-week highs. MJF regains AEW World Championship at Double or Nothing (Title vs. Hair; Darby's head shaved). NJ: Gov. Sherrill + Sen. Andy Kim pepper-sprayed at Delaney Hall ICE facility on Memorial Day. **Sonny Rollins dies at 95** — jazz's Saxophone Colossus. Anthropic Mythos bug finder announced; Spain blocks Polymarket/Kalshi; GitHub Actions outage. Roland Garros R2: Sabalenka, Gauff, Tsitsipas advancing.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-05-25-evening-to-05-26.md` (new), `pinky/wiki/entities/sonny-rollins.md` (new), `pinky/wiki/entities/victor-wembanyama.md` (updated), `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Knicks sweep is the definitive sports story — 27-year Finals drought ends with a 4-0 demolition. The AMD/NVDA divergence (+17% vs. -2%) is the AI chip rotation story in one session. Sonny Rollins's death on a market-ripping Tuesday is the kind of juxtaposition this newsletter was built to capture. Iran strike while ceasefire talks proceed in Qatar is the kind of geopolitical ambiguity that should terrify anyone pricing equities at all-time highs.
+
+---
+
 ## [2026-05-25] ingest | Newsletters 2026-05-20 through 2026-05-25 — Morning Dispatch & Evening Brief
 - Source: 11 newsletter editions (2026-05-20 morning + evening, 2026-05-21 morning, 2026-05-22 morning + evening, 2026-05-23 morning + evening, 2026-05-24 morning + evening, 2026-05-25 morning)
 - Summary: Memorial Day week catchup. Iran deal arc: Trump "largely negotiated" → oil crashes 11% (WTI $108→$96.60) → Trump "not finalized" by May 25. Knicks sweep Cavaliers ECF 3-0 (44-11 run in Game 1, Brunson 38 pts). Wembanyama half-court buzzer beater (WCF Game 4). Pope Leo XIV drops *Magnifica Humanitas* (381-point AI regulation encyclical) + historic Vatican apology for slavery. GitHub breach via VSCode extension (3,800 repos). OpenAI model disproves discrete geometry conjecture. Dow crosses 50K; all indices near 52-week highs. RL +15.6%, AMD +10.24%, NVDA -4.4%. 30-YR Treasury hugging 5.15% ceiling. Ebola 3rd-largest outbreak ever. Wyndham Clark wins CJ CUP Byron Nelson at -30. Arsenal UCL Final vs PSG (May 30, CBS). SpaceX Starship V3 mostly successful first flight.

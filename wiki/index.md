@@ -64,6 +64,7 @@ Content catalog — updated on every ingest. Organized by type and category.
 | [nba-rankings](sources/nba-rankings.md) | NBA Rankings — Personal All-Time Player Pyramid | journal | nba, basketball, rankings, personal, all-time, goat | 2026-05-25 |
 | [pro-wrestling-rankings](sources/pro-wrestling-rankings.md) | Pro Wrestling Rankings — Personal All-Time List | journal | wrestling, rankings, pro-wrestling, personal, all-time | 2026-05-25 |
 | [tv-series-rankings](sources/tv-series-rankings.md) | TV Series Rankings — Personal All-Time List | journal | tv, rankings, television, entertainment, personal, all-time | 2026-05-25 |
+| [newsletter-2026-05-25-evening-to-05-26](sources/newsletter-2026-05-25-evening-to-05-26.md) | Newsletters 2026-05-25 Evening through 2026-05-26 Morning — Evening Dispatch & Morning Dispatch | newsletter | newsletter, news, markets, iran, knicks, nba-finals, amd, oil, sonny-rollins, aew, mets, roland-garros | 2026-05-26 |
 
 ---
 
@@ -72,7 +73,8 @@ Content catalog — updated on every ingest. Organized by type and category.
 | Entity | Type | Tags | Sources |
 |--------|------|------|---------|
 | [Andrej Karpathy](entities/andrej-karpathy.md) | person | ai, ml, llm | 2 |
-| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs | 1 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs | 2 |
+| [Sonny Rollins](entities/sonny-rollins.md) | person | jazz, saxophone, music, bebop | 1 |
 | [Niklas Luhmann](entities/niklas-luhmann.md) | person | sociology, knowledge-management, zettelkasten, history | 1 |
 | [Tiago Forte](entities/tiago-forte.md) | person | knowledge-management, productivity, author | 1 |
 | [Vannevar Bush](entities/vannevar-bush.md) | person | history, computing, knowledge-management | 1 |
@@ -170,7 +172,7 @@ Content catalog — updated on every ingest. Organized by type and category.
 ---
 
 
-*Last updated: 2026-05-19*
+*Last updated: 2026-05-26*
 
 ## Albums
 
@@ -358,7 +360,7 @@ Content catalog — updated on every ingest. Organized by type and category.
 
 ---
 
-*Last updated: 2026-05-13*
+*Last updated: 2026-05-26*
 
 
 ## Sources & Knowledge Bases
