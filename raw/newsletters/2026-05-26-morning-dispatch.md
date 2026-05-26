@@ -170,14 +170,19 @@ Hot market: **US-Iran ceasefire/deal timeline** — *Axios* reporting proposed d
 
 | Away | Score | Home | Score | Status |
 |---|---|---|---|---|
-| Seattle Mariners | — | Oakland Athletics | — | Final |
-| Colorado Rockies | — | Los Angeles Dodgers | — | Final |
-| Miami Marlins | — | Toronto Blue Jays | — | Final |
-| Philadelphia Phillies | — | San Diego Padres | — | Final |
-| Arizona Diamondbacks | — | San Francisco Giants | — | Final |
-| Cincinnati Reds | 7 | New York Mets | — | Final |
-
-*Box scores not returned by ESPN API — game results sourced from House of Highlights. Reds–Mets score from team report data.*
+| Cincinnati Reds | 7 | New York Mets | 2 | Final |
+| Tampa Bay Rays | 7 | Baltimore Orioles | 9 | Final |
+| New York Yankees | 4 | Kansas City Royals | 3 | Final |
+| Washington Nationals | 10 | Cleveland Guardians | 2 | Final |
+| Houston Astros | 9 | Texas Rangers | 0 | Final |
+| Miami Marlins | 8 | Toronto Blue Jays | 2 | Final |
+| Seattle Mariners | 9 | Athletics | 2 | Final |
+| Colorado Rockies | 3 | Los Angeles Dodgers | 5 | Final |
+| Philadelphia Phillies | 3 | San Diego Padres | 0 | Final |
+| Arizona Diamondbacks | 6 | San Francisco Giants | 2 | Final |
+| Minnesota Twins | 1 | Chicago White Sox | 3 | Final |
+| St. Louis Cardinals | 1 | Milwaukee Brewers | 5 | Final |
+| Chicago Cubs | 1 | Pittsburgh Pirates | 2 | Final |
 
 **UPCOMING — May 26**
 
@@ -193,15 +198,7 @@ Hot market: **US-Iran ceasefire/deal timeline** — *Axios* reporting proposed d
 
 | Away | Score | Home | Score | Status |
 |---|---|---|---|---|
-| — | — | — | — | No games |
-
-**UPCOMING**
-
-| Away | Home | Date | TV |
-|---|---|---|---|
-| — | — | — | — |
-
-*Stanley Cup Playoffs: no games listed. Check nhl.com for Finals schedule.*
+| Montreal Canadiens | 2 | Carolina Hurricanes | 3 | Final |
 
 ---
 
