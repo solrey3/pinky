@@ -112,7 +112,13 @@ Patchy light drizzle. 31°C / 88°F (feels like 37°C / 99°F). Wind 10 km/h nor
 
 ### 📦 ETFs
 
-*ETF data will populate from next fetch (ONEQ · SCHD · VXUS · VBR · VNQ). Fetch script updated today.*
+| Ticker | Price | Change | % | 52-Week Range | Note |
+|---|---|---|---|---|---|
+| **ONEQ** — Fidelity Nasdaq Composite | $104.64 | +1.88 | +1.83% | $74.16 – $105.22 | Near 52-week high. Nasdaq rip today carries ONEQ along for the ride. |
+| **SCHD** — Schwab U.S. Dividend Equity | $32.725 | +0.69 | +2.14% | $25.89 – $32.91 | Near 52-week high. Dividend plays catching a broad-market bid. |
+| **VXUS** — Vanguard Total International | $85.905 | +2.38 | +2.84% | $66.25 – $86.246 | Near 52-week high. Iran deal + dollar softening = international outperforming. |
+| **VBR** — Vanguard Small-Cap Value | $234.905 | +6.52 | +2.85% | $186.03 – $235.68 | Near 52-week high. Small-cap value ripping — Russell 2000 +5% today lifts the whole basket. |
+| **VNQ** — Vanguard Real Estate | $97.265 | +2.25 | +2.37% | $86.84 – $97.54 | Near 52-week high. REITs surging on rate-cut optimism. |
 
 ### 📱 Stock Watch
 
