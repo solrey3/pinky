@@ -61,12 +61,12 @@ created: 2026-05-25T18:00:00-04:00
 
 ### The Numbers (Friday Close, with 52W Range)
 
-| Index | Close | Fri Chg | % | 52-Week Range |
-|-------|-------|---------|---|---------------|
-| S&P 500 | 7,473.47 | +64.97 | +0.88% | 5,843.66 – 7,517.12 |
-| Dow 30 | 50,579.70 | +1,053.53 | +2.13% | 41,828.35 – 50,830.24 |
-| Nasdaq | 26,343.97 | +118.83 | +0.45% | 18,847.74 – 26,707.14 |
-| Russell 2000 | 2,869.23 | +75.92 | +2.72% | 2,043.60 – 2,888.62 |
+| Index | Close | Fri Chg | % | 52-Week Range | Note |
+|-------|-------|---------|---|---------------|------|
+| S&P 500 | 7,473.47 | +64.97 | +0.88% | 5,843.66 – 7,517.12 | Within 0.6% of 52W high. Holiday weekend close. Bears need a catalyst Tuesday. |
+| Dow 30 | 50,579.70 | +1,053.53 | +2.13% | 41,828.35 – 50,830.24 | Strongest index on the day. Blue chips led the rally; 50K is now the floor to defend. |
+| Nasdaq | 26,343.97 | +118.83 | +0.45% | 18,847.74 – 26,707.14 | Tech lagged the broad rally. NVDA's -4% weighed on the composite. |
+| Russell 2000 | 2,869.23 | +75.92 | +2.72% | 2,043.60 – 2,888.62 | Small caps ripped hardest. Rate-cut optimism fueling the little guys. |
 
 *All four indices within 1% of their 52-week highs. Tuesday open will be the test — Iran deal ambiguity and the Monday holiday mean pent-up moves in both directions.*
 
@@ -75,48 +75,48 @@ created: 2026-05-25T18:00:00-04:00
 
 ### Treasury & Rates
 
-| Security | Rate | 52-Week Range |
-|----------|------|---------------|
-| 30-YR Treasury | 5.064% | 3.717% – 5.152% |
-| 90-Day T-Bill | 3.585% | — – 5.348% |
-| 30-YR Fixed Mortgage | **6.65%** *(Bankrate)* | |
+| Security | Rate | 52-Week Range | Note |
+|----------|------|---------------|------|
+| 30-YR Treasury | 5.064% | 3.717% – 5.152% | Back near 52W highs. Bond vigilantes haven't gone home. Fiscal math not helping. |
+| 90-Day T-Bill | 3.585% | — – 5.348% | Tracking Fed funds closely. Short end anchored until the next cut. |
+| 30-YR Fixed Mortgage | **6.65%** *(Bankrate)* | | Still above 6.5%. Housing market stays in the freezer for another week. |
 
 ### Commodities & Crypto
 
-| Asset | Price | Fri Chg | % | 52-Week Range |
-|-------|-------|---------|---|---------------|
-| Oil (WTI) | $90.51 | -$17.26 | **-16.02%** | $54.98 – $119.48 |
-| Bitcoin | $77,083 | -$456 | -0.59% | $60,074 – $126,198 |
+| Asset | Price | Fri Chg | % | 52-Week Range | Note |
+|-------|-------|---------|---|---------------|------|
+| Oil (WTI) | $90.51 | -$17.26 | **-16.02%** | $54.98 – $119.48 | Staggering single-day collapse. Iran deal + Hormuz reopening could flood supply further. Watch pump prices in two weeks. |
+| Bitcoin | $77,083 | -$456 | -0.59% | $60,074 – $126,198 | Holding $77K on a quiet holiday Friday. Risk-off tone but no panic selling. |
 
 > 🛢️ **Oil WTI at $90.51** — That's a staggering -16% handle on the day, extending the week's collapse. If the Iran deal closes, Hormuz reopens, and supply floods back, crude has more room to fall. AAA national gas avg: **$4.507 regular.** Watch pump prices in two weeks.
 
 ### ETFs (Friday Close)
 
-| Ticker | Name | Price | Fri Chg | % | 52-Week Range |
-|--------|------|-------|---------|---|---------------|
-| ONEQ | Fidelity Nasdaq Composite ETF | $103.76 | +0.40 | +0.39% | 73.73 – 104.89 |
-| SCHD | Schwab U.S. Dividend Equity ETF | $32.83 | +0.58 | +1.80% | 25.89 – **32.83** ← AT 52W HIGH |
-| VXUS | Vanguard Total International Stock ETF | $84.46 | -0.12 | -0.14% | 66.61 – 85.62 |
-| VBR | Vanguard Small-Cap Value ETF | $232.67 | +1.90 | +0.82% | 187.04 – 235.18 |
-| VNQ | Vanguard Real Estate ETF | $96.77 | +0.10 | +0.10% | 87.00 – 97.09 |
+| Ticker | Name | Price | Fri Chg | % | 52-Week Range | Note |
+|--------|------|-------|---------|---|---------------|------|
+| ONEQ | Fidelity Nasdaq Composite ETF | $103.76 | +0.40 | +0.39% | 73.73 – 104.89 | Barely moved. NVDA drag kept the lid on Nasdaq-heavy exposure. |
+| SCHD | Schwab U.S. Dividend Equity ETF | $32.83 | +0.58 | +1.80% | 25.89 – **32.83** ← AT 52W HIGH | Dividend darlings at a 52W high. Rotation into quality and value is real. |
+| VXUS | Vanguard Total International Stock ETF | $84.46 | -0.12 | -0.14% | 66.61 – 85.62 | International stocks slipped. Dollar strength still a headwind abroad. |
+| VBR | Vanguard Small-Cap Value ETF | $232.67 | +1.90 | +0.82% | 187.04 – 235.18 | Small-cap value holding up. Solid week for value-tilted portfolios. |
+| VNQ | Vanguard Real Estate ETF | $96.77 | +0.10 | +0.10% | 87.00 – 97.09 | REITs barely budged. 5%+ Treasury yields still the ceiling for real estate. |
 
 ### Stock Watch (Friday Close)
 
-| Ticker | Price | Fri Chg | % | 52-Week Range |
-|--------|-------|---------|---|---------------|
-| NVDA | $215.33 | -9.99 | -4.43% | 132.92 – 236.54 |
-| TSM | $404.52 | +0.17 | +0.04% | 190.56 – 421.97 |
-| AMD | $467.51 | +43.41 | **+10.24%** | 108.62 – 481.41 |
-| AMZN | $266.32 | +2.18 | +0.83% | 196.00 – 278.56 |
-| NFLX | $88.60 | +1.58 | +1.82% | 75.01 – 134.12 |
-| TSLA | $426.01 | +3.77 | +0.89% | 273.21 – 498.83 |
-| PYPL | $44.23 | -0.18 | -0.41% | 38.46 – 79.50 |
-| BRK.B | $486.38 | +3.68 | +0.76% | 455.19 – 516.85 |
-| AXP | $311.78 | -1.70 | -0.54% | 286.15 – 387.49 |
-| SCHW | $90.15 | -0.73 | -0.80% | 85.76 – 107.50 |
-| RL | $377.78 | +50.97 | **+15.60%** | 258.13 – 393.41 |
-| TGT | $125.60 | +4.06 | +3.34% | 83.44 – 133.10 |
-| UPS | $101.02 | +2.09 | +2.11% | 82.00 – 122.41 |
+| Ticker | Price | Fri Chg | % | 52-Week Range | Note |
+|--------|-------|---------|---|---------------|------|
+| NVDA | $215.33 | -9.99 | -4.43% | 132.92 – 236.54 | Sold off while the broad market rallied. Post-earnings fade; bears testing $210 support. |
+| TSM | $404.52 | +0.17 | +0.04% | 190.56 – 421.97 | Flat. Digesting NVDA's weakness. Still holding near 52W highs. |
+| AMD | $467.51 | +43.41 | **+10.24%** | 108.62 – 481.41 | Monster session. MI350 buzz and data center wins driving the breakout. |
+| AMZN | $266.32 | +2.18 | +0.83% | 196.00 – 278.56 | Steady. AWS and ad revenue story intact. Not flashy but reliable. |
+| NFLX | $88.60 | +1.58 | +1.82% | 75.01 – 134.12 | WWE deal "above expectations." Ad-tier subscriber growth driving the next leg up. |
+| TSLA | $426.01 | +3.77 | +0.89% | 273.21 – 498.83 | Quietly green. Robotaxi timeline and Model Y refresh still the catalysts to watch. |
+| PYPL | $44.23 | -0.18 | -0.41% | 38.46 – 79.50 | Drifting. Still 44% off its 52W high. Turnaround story needs a spark. |
+| BRK.B | $486.38 | +3.68 | +0.76% | 455.19 – 516.85 | Near all-time highs. Buffett's cash pile remains the ultimate safety trade. |
+| AXP | $311.78 | -1.70 | -0.54% | 286.15 – 387.49 | Slight dip. Premium spend holding but macro caution creeping into the story. |
+| SCHW | $90.15 | -0.73 | -0.80% | 85.76 – 107.50 | Small slip. Rate sensitivity biting. NNA and cash sorting still the key metrics. |
+| RL | $377.78 | +50.97 | **+15.60%** | 258.13 – 393.41 | Massive earnings pop. Revenue beat + raised guidance. Luxury is very much alive. |
+| TGT | $125.60 | +4.06 | +3.34% | 83.44 – 133.10 | Solid bounce. Consumer staples catching a bid after a rough few months. |
+| UPS | $101.02 | +2.09 | +2.11% | 82.00 – 122.41 | Logistics getting a lift. Trade volume and fuel cost tailwinds finally aligned. |
 
 ### ⛽ Gas Watch
 
