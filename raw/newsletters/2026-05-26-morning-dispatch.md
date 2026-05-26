@@ -161,6 +161,7 @@ Hot market: **US-Iran ceasefire/deal timeline** — *Axios* reporting proposed d
 | Matchup | Date | TV |
 |---|---|---|
 | NBA Finals Game 1 — NYK vs. TBD | TBD | TBD |
+| **San Antonio Spurs @ Oklahoma City Thunder** (WCF) | **Tue, May 26 · 8:30 PM EDT** | NBC |
 
 ---
 
@@ -327,7 +328,7 @@ Hot market: **US-Iran ceasefire/deal timeline** — *Axios* reporting proposed d
 | 9 | Florida Gators | 27–8 |
 | **10** | **St. John's Red Storm** | **30–7** |
 
-*Big East Final: Michigan 69, UConn 63. Season complete — off-season.*
+*Season complete — off-season. #1 Michigan (37–3) beat #2 UConn (63–69) on Apr 7 in what appears to be the **NCAA National Championship** — both Big East schools.*
 
 ### 🏈 NCAAF — 2025-26 Final AP Top 25
 
@@ -457,20 +458,18 @@ Schedule parse error — no recent results available. Check mlssoccer.com for la
 
 | Rating | Date | Match | Promotion | Event |
 |---|---|---|---|---|
-| ⭐×5.5 | Mar 15, 2026 | **FTR vs. Young Bucks** | AEW | Revolution |
+| — | Jan 4, 2026 | Konosuke Takeshita vs. Yota Tsuji | NJPW | Wrestle Kingdom 20 |
+| ⭐×5.25 | Jan 19, 2026 | Shota Umino & Yuya Uemura vs. Tomohiro Ishii & Taichi | NJPW | Road to The New Beginning |
 | ⭐×5.25 | Feb 18, 2026 | Swerve Strickland vs. Kenny Omega | AEW | Dynamite |
+| ⭐×5 | Feb 25, 2026 | Jack Perry, The Rascalz & The Young Bucks vs. FTR & The Demand | AEW | *(rating not parsed)* |
+| ⭐×5 | Mar 11, 2026 | Kyle Fletcher vs. “Speedball” Mike Bailey | AEW | *(AEW TNT Championship)* |
+| ⭐×5.5 | Mar 15, 2026 | **FTR vs. The Young Bucks** | AEW | Revolution |
 | ⭐×5.25 | Mar 21, 2026 | Callum Newman vs. Yuya Uemura | NJPW | New Japan Cup Final |
-| ⭐×5 | Apr 3, 2026 | Místico & JetSpeed vs. Hechicero, Volador Jr., El Clon | CMLL | Super Viernes |
-| ⭐×5 | Apr 12, 2026 | Young Bucks vs. Don Callis Family | AEW | Dynasty |
+| ⭐×5 | Apr 3, 2026 | Místico & JetSpeed vs. Hechicero, Volador Jr. & El Clon | CMLL | Super Viernes |
+| ⭐×5 | Apr 12, 2026 | The Young Bucks vs. Don Callis Family | AEW | Dynasty |
 | ⭐×5 | Apr 19, 2026 | **Roman Reigns vs. CM Punk** | WWE | **WrestleMania 42 Night 2** |
 | ⭐×5 | Apr 22, 2026 | Darby Allin vs. Tommaso Ciampa | AEW | Dynamite |
-| ⭐×5 | May 13, 2026 | Darby Allin vs. Konosuke Takeshita | AEW | *(for AEW World Title)* |
-| — | Jan 4, 2026 | Konosuke Takeshita vs. Yota Tsuji | NJPW | Wrestle Kingdom 20 |
-| ⭐×5.5 | Jul 11, 2025 | **Bandido vs. Konosuke Takeshita** | ROH | Supercard of Honor |
-| ⭐×5.75 | Jul 11, 2025 | Bandido vs. Takeshita | ROH | Supercard of Honor *(ROH World Title)* |
-| ⭐×5.5 | Aug 3, 2025 | Cody Rhodes vs. John Cena | WWE | SummerSlam Night 2 |
-| ⭐×5.5 | Sep 19, 2025 | Místico vs. MJF | CMLL | 92nd Anniversary |
-| ⭐×5.5 | Oct 13, 2025 | Konosuke Takeshita vs. Zack Sabre Jr. | NJPW | King of Pro-Wrestling |
+| ⭐×5 | May 13, 2026 | Darby Allin vs. Konosuke Takeshita | AEW | *(AEW World Title)* |
 
 *2026 is on pace to be a loaded year. Roman vs. CM Punk at WM42 getting 5★ is the headline.*
 
