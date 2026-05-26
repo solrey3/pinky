@@ -90,15 +90,15 @@ created: 2026-05-25T18:00:00-04:00
 
 > 🛢️ **Oil WTI at $90.51** — That's a staggering -16% handle on the day, extending the week's collapse. If the Iran deal closes, Hormuz reopens, and supply floods back, crude has more room to fall. AAA national gas avg: **$4.507 regular.** Watch pump prices in two weeks.
 
-### Index Funds (Friday NAV)
+### ETFs (Friday Close)
 
-| Fund | NAV | Fri Chg | % | 52-Week Range |
-|------|-----|---------|---|---------------|
-| VTSAX | $178.52 | +1.97 | +1.12% | 140.75 – 178.85 |
-| VFIAX | $690.74 | +6.22 | +0.91% | 544.36 – 692.95 |
-| VSIAX | $99.97 | +2.31 | +2.37% | 80.89 – 101.02 |
-| VHYAX | $47.84 | +0.88 | +1.87% | 38.64 – **47.84** ← AT 52W HIGH |
-| VGSLX | $137.15 | +4.11 | +3.09% | 123.33 – 137.58 |
+| Ticker | Price | Fri Chg | % | 52-Week Range |
+|--------|-------|---------|---|---------------|
+| ONEQ | $103.76 | +0.40 | +0.39% | 73.73 – 104.89 |
+| SCHD | $32.83 | +0.58 | +1.80% | 25.89 – **32.83** ← AT 52W HIGH |
+| VXUS | $84.46 | -0.12 | -0.14% | 66.61 – 85.62 |
+| VBR | $232.67 | +1.90 | +0.82% | 187.04 – 235.18 |
+| VNQ | $96.77 | +0.10 | +0.10% | 87.00 – 97.09 |
 
 ### Stock Watch (Friday Close)
 
