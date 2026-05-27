@@ -1,6 +1,6 @@
 ---
 id: b501519e-d4cc-4499-a817-1d60fc0e12ba
-title: Mick Foley / Mankind / Cactus Jack / Dude Love
+title: Mick Foley
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# Mick Foley / Mankind / Cactus Jack / Dude Love
+# Mick Foley
 
 #20.
 

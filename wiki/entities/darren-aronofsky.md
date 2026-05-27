@@ -5,7 +5,7 @@ type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling, film, tv]
+tags: [person, film, tv, director]
 source_count: 1
 ---
 

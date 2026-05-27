@@ -51,20 +51,25 @@ def first_sentence(text):
     return text[:200].strip()
 
 
+WRITER_SIGNALS = {"journalist", "author", "sports-writer", "podcaster", "broadcaster",
+                  "commentator", "analyst", "historian", "executive", "coach",
+                  "statistician", "forecaster", "sabermetrics"}
+
 def get_person_tags(text, slug):
     tags = ["person"]
     t = text.lower()
-    # NBA
-    if any(k in t for k in ["nba", "position:", "basketball", "ppg", "rpg"]):
-        tags += ["basketball", "nba"]
-    # Wrestling
+    # Wrestling (check first — highest priority)
     if any(k in t for k in ["wrestler", "wrestling", "wwe", "aew", "njpw", "ecw", "wcw", "wwf", "pro rank"]):
         tags += ["wrestling"]
+    # NBA — only if NOT primarily a writer/analyst
+    elif any(k in t for k in ["nba", "position:", "basketball", "ppg", "rpg"]) and \
+         not any(k in t for k in ["sports-writer", "journalist", "broadcaster", "podcaster", "author"]):
+        tags += ["basketball", "nba"]
     # Film / TV
-    if any(k in t for k in ["director", "filmmaker", "screenwriter", "cartoonist", "showrunner", "television writer"]):
+    elif any(k in t for k in ["director", "filmmaker", "screenwriter", "cartoonist", "showrunner", "television writer"]):
         tags += ["film", "tv"]
     # Music
-    if any(k in t for k in ["musician", "singer", "band", "album", "discography"]):
+    elif any(k in t for k in ["musician", "singer", "band", "album", "discography"]):
         tags += ["music"]
     return list(dict.fromkeys(tags))  # dedupe, preserve order
 

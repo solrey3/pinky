@@ -1,6 +1,6 @@
 ---
 id: 2d0158d6-fa3a-46d4-97cc-3f25dd8923bb
-title: The King of Harts / Black Hart
+title: Owen Hart
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# The King of Harts / Black Hart
+# Owen Hart
 
 #42.
 

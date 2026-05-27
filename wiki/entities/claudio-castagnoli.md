@@ -1,6 +1,6 @@
 ---
 id: 3ea22a6c-d1c6-4051-ba5a-ae5a41a5ecb5
-title: Cesaro / Claudio Castagnoli
+title: Claudio Castagnoli
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# Cesaro / Claudio Castagnoli
+# Claudio Castagnoli
 
 #56.
 

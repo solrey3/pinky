@@ -1,6 +1,6 @@
 ---
 id: a86ea048-d7fb-4250-b34d-711424ae9a1f
-title: Rusev (Miro)
+title: Miro (Rusev)
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# Rusev (Miro)
+# Miro (Rusev)
 
 #55.
 

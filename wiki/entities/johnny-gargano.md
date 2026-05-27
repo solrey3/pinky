@@ -1,15 +1,15 @@
 ---
 id: 77b43bfd-90dc-4539-965e-6cb4f20b154f
-title: Johnny Wrestling
+title: Johnny Gargano
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-05-27T03:20:14Z
-tags: [person, basketball, nba, wrestling]
+tags: [person, wrestling]
 source_count: 1
 ---
 
-# Johnny Wrestling
+# Johnny Gargano
 
 #38.
 

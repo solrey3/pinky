@@ -1,6 +1,6 @@
 ---
 id: a1662165-dfc8-482c-be16-92f2610feb73
-title: American Dragon / Daniel Bryan
+title: Bryan Danielson
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# American Dragon / Daniel Bryan
+# Bryan Danielson
 
 #7 all-time.
 

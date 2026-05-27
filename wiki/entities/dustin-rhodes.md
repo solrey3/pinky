@@ -1,6 +1,6 @@
 ---
 id: 0b39cfa2-1882-499e-b39d-a375c904eab6
-title: Dustin Rhodes / Goldust
+title: Dustin Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# Dustin Rhodes / Goldust
+# Dustin Rhodes
 
 #70.
 

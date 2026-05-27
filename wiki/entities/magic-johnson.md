@@ -1,6 +1,6 @@
 ---
 id: 0fb635bc-1a35-4ef3-aa33-f31c4415c7ce
-title: Earvin Johnson
+title: Magic Johnson
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, basketball, nba]
 source_count: 1
 ---
 
-# Earvin Johnson
+# Magic Johnson
 
 The greatest playmaking point guard in NBA history and the anchor of the Showtime Lakers dynasty.
 

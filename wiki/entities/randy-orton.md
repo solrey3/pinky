@@ -1,6 +1,6 @@
 ---
 id: d70e2030-9f44-487a-97b6-08487b7fc16f
-title: Randy Orton / The Viper / The Legend Killer
+title: Randy Orton
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# Randy Orton / The Viper / The Legend Killer
+# Randy Orton
 
 #34.
 

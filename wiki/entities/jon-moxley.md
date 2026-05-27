@@ -1,6 +1,6 @@
 ---
 id: d41cf3ee-ec10-4afa-a28d-a91311e0bc4d
-title: Jon Moxley / Dean Ambrose
+title: Jon Moxley
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, wrestling]
 source_count: 1
 ---
 
-# Jon Moxley / Dean Ambrose
+# Jon Moxley
 
 #18.
 

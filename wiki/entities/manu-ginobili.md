@@ -1,6 +1,6 @@
 ---
 id: 80fd4b84-00cf-498d-a4d5-fc6c21449b0d
-title: Emanuel Ginóbili
+title: Manu Ginobili
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
@@ -9,7 +9,7 @@ tags: [person, basketball, nba]
 source_count: 1
 ---
 
-# Emanuel Ginóbili
+# Manu Ginobili
 
 Manu.
 
