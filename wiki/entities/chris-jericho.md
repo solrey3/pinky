@@ -4,9 +4,9 @@ title: Chris Jericho
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-27
 tags: [person, wrestling, music]
-source_count: 1
+source_count: 2
 ---
 
 # Chris Jericho
@@ -35,7 +35,10 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/chris-jericho.md)
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — Jericho vs. Ricochet Lights Out Philly Street Fight scheduled for AEW Dynamite tonight (5/27). Match announced for the Philadelphia building.
 
 ## Related
 
+- [[Ricochet]] — opponent in 5/27 Lights Out match
+- [[MJF]] — AEW colleague; their rivalry is one of the promotion's defining feuds
 

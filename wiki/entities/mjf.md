@@ -4,9 +4,9 @@ title: MJF
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-27
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # MJF
@@ -35,7 +35,11 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/mjf.md)
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — MJF appears on tonight's AEW Dynamite/Collision in Philadelphia.
 
 ## Related
 
+- [[Chris Jericho]] — longtime AEW colleague and rival
+- [[Darby Allin]] — current AEW World Champion; MJF is a former multi-time champion in the same era
+- [[CM Punk]] — MJF/Punk cage match at Double or Nothing 2022 is among the best matches of the decade
 

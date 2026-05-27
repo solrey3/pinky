@@ -4,9 +4,9 @@ title: Kyle Fletcher
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-27
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Kyle Fletcher
@@ -35,7 +35,11 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/kyle-fletcher.md)
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — Documented his injury recovery process publicly; confirmed he avoided surgery. Return timeline not announced.
 
 ## Related
 
+- [[Will Ospreay]] — closest rival; singles series defined his elevation
+- [[Konosuke Takeshita]] — Don Callis Family peer; shared matches at AEW Dynamite level
+- [[NJPW]] — dual affiliation via NJPW STRONG Championship
 

@@ -4,9 +4,9 @@ title: Darby Allin
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-27
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Darby Allin
@@ -35,7 +35,11 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/darby-allin.md)
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — Bully Ray publicly assessed Darby Allin's AEW World Championship run mid-reign, evaluating the effectiveness of his title tenure.
 
 ## Related
 
+- [[MJF]] — key rival; their feud produced some of AEW's best long-term storytelling
+- [[Konosuke Takeshita]] — AEW title defense opponent (May 13 Dynamite, 5★ Meltzer)
+- [[Chris Jericho]] — AEW peer and former rival
 

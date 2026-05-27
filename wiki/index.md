@@ -133,6 +133,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-05-20-to-05-25](sources/newsletter-2026-05-20-to-05-25.md) | Newsletters 2026-05-20 through 2026-05-25 — Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, iran, knicks, wembanyama, oil, ai, ebola, memorial-day, arsenal, mets] | 2026-05-25 |
 | [newsletter-2026-05-25-evening-to-05-26](sources/newsletter-2026-05-25-evening-to-05-26.md) | Newsletters 2026-05-25 Evening through 2026-05-26 Morning — Evening Dispatch & Morning Dispatch | newsletter | [newsletter, news, markets, iran, knicks, nba-finals, amd, oil, sonny-rollins, aew, mets, roland-garros, wembanyama, nj-politics] | 2026-05-26 |
 | [newsletter-2026-05-26](sources/newsletter-2026-05-26.md) | Newsletter 2026-05-26 Evening Brief | newsletter | [newsletter, news, markets, iran, knicks, nba-finals, spurs, okc, stanley-cup, hurricanes, golden-knights, amd, oil, paxton, cornyn, texas, sonny-rollins, mets, wrestling, roland-garros, meltzer] | 2026-05-27 |
+| [newsletter-2026-05-27](sources/newsletter-2026-05-27.md) | Newsletter 2026-05-27 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, okc, spurs, wembanyama, golden-knights, nhl, nba, amd, oil, iran, biden, paxton, njpw, roland-garros, starlette, mets, wrestling, meltzer] | 2026-05-27 |
 
 ---
 
@@ -203,7 +204,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Tim Duncan](entities/tim-duncan.md) | person | person, basketball, nba | 1 |
 | [Tony Parker](entities/tony-parker.md) | person | person, basketball, nba | 1 |
 | [Tracy McGrady](entities/tracy-mcgrady.md) | person | person, basketball, nba | 1 |
-| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent | 2 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent | 3 |
 | [Vince Carter](entities/vince-carter.md) | person | person, basketball, nba | 1 |
 | [Walt Frazier](entities/walt-frazier.md) | person | person, basketball, nba | 1 |
 | [Willis Reed](entities/willis-reed.md) | person | person, basketball, nba | 1 |
@@ -224,13 +225,13 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Brock Lesnar](entities/brock-lesnar.md) | person | person, wrestling | 1 |
 | [Bryan Danielson](entities/bryan-danielson.md) | person | person, wrestling | 1 |
 | [Chris Benoit](entities/chris-benoit.md) | person | person, wrestling | 1 |
-| [Chris Jericho](entities/chris-jericho.md) | person | person, wrestling, music | 1 |
+| [Chris Jericho](entities/chris-jericho.md) | person | person, wrestling, music | 2 |
 | [Christian Cage](entities/christian-cage.md) | person | person, wrestling | 1 |
 | [Claudio Castagnoli](entities/claudio-castagnoli.md) | person | person, wrestling | 1 |
 | [CM Punk](entities/cm-punk.md) | person | person, wrestling | 1 |
 | [Cody Rhodes](entities/cody-rhodes.md) | person | person, wrestling | 1 |
 | [Curt Hennig](entities/curt-hennig.md) | person | person, wrestling | 1 |
-| [Darby Allin](entities/darby-allin.md) | person | person, wrestling | 1 |
+| [Darby Allin](entities/darby-allin.md) | person | person, wrestling | 2 |
 | [Davey Boy Smith](entities/davey-boy-smith.md) | person | person, wrestling | 1 |
 | [Dean Malenko](entities/dean-malenko.md) | person | person, wrestling | 1 |
 | [Drew McIntyre](entities/drew-mcintyre.md) | person | person, wrestling | 1 |
@@ -260,11 +261,12 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [King Kong Bundy](entities/king-kong-bundy.md) | person | person, wrestling | 1 |
 | [Konosuke Takeshita](entities/konosuke-takeshita.md) | person | person, wrestling | 1 |
 | [Kurt Angle](entities/kurt-angle.md) | person | person, wrestling | 1 |
-| [Kyle Fletcher](entities/kyle-fletcher.md) | person | person, wrestling | 1 |
+| [Kyle Fletcher](entities/kyle-fletcher.md) | person | person, wrestling | 2 |
 | [Macho Man Randy Savage](entities/macho-man-randy-savage.md) | person | person, wrestling | 1 |
 | [Mick Foley](entities/mick-foley.md) | person | person, wrestling | 1 |
 | [Miro (Rusev)](entities/rusev.md) | person | person, wrestling | 1 |
-| [MJF](entities/mjf.md) | person | person, wrestling | 1 |
+| [MJF](entities/mjf.md) | person | person, wrestling | 2 |
+| [NJPW](entities/njpw.md) | organization | wrestling, njpw, japan, strong-style, puroresu | 1 |
 | [Owen Hart](entities/owen-hart.md) | person | person, wrestling | 1 |
 | [PAC](entities/pac.md) | person | person, wrestling | 1 |
 | [Randy Orton](entities/randy-orton.md) | person | person, wrestling | 1 |
@@ -403,7 +405,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [The Smashing Pumpkins](entities/the-smashing-pumpkins.md) | person | music, alternative-rock, rock, artist | 1 |
 | [Solomon Burke](entities/solomon-burke.md) | person | music, artist | 1 |
 | [Sonic Youth](entities/sonic-youth.md) | person | music, artist | 1 |
-| [Sonny Rollins](entities/sonny-rollins.md) | person | jazz, saxophone, music, obituary, bebop, hard-bop | 1 |
+| [Sonny Rollins](entities/sonny-rollins.md) | person | jazz, saxophone, music, obituary, bebop, hard-bop | 2 |
 | [Soundgarden](entities/soundgarden.md) | person | music, artist | 1 |
 | [Spoon](entities/spoon.md) | person | music, artist | 1 |
 | [St. Vincent](entities/st-vincent.md) | person | music, rock, art-pop, artist | 1 |
