@@ -337,3 +337,31 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Source: `pinky/raw/newsletters/2026-05-19-morning-dispatch.md`, `pinky/raw/newsletters/2026-05-19-evening-dispatch.md`
 - Summary: Andrej Karpathy joins Anthropic (top story); Gemini 3.5 Flash drops; CISA leaks AWS GovCloud keys on GitHub; 314 npm packages compromised. Russell 2000 -3.37% for second straight day; AMD -7.64%, TSLA -6.77%; 30-YR Treasury at 52-wk high (5.181%); oil above $104 on Iran war rhetoric. Target +4.47% bucked the trend. Plex tripled Lifetime Pass price; Discord added E2EE on all calls; PS Plus raised prices. Mets 7 of last 9; Wembanyama dominated Spurs-OKC Game 1; Knicks-Cavs Game 1 tonight at MSG.
 - Pages touched: `wiki/sources/newsletter-2026-05-19.md`, `wiki/entities/andrej-karpathy.md` (updated), `wiki/entities/victor-wembanyama.md` (created), `wiki/index.md`, `wiki/log.md`
+
+
+## [2026-05-27] rebuild | 2nd Brain wiki — batch entity ingest + newsletter source
+
+### Newsletter
+- Source: `raw/newsletters/2026-05-26-evening-brief.md`
+- Summary: Tuesday May 26 wrap-up — Knicks sweep Cavs 4-0 (ECF), AMD +19.69% (earnings), Russell 2000 +5.24%, WTI Oil -5.62% (Iran deal optimism), Paxton defeats Cornyn (TX Senate GOP runoff), OKC-Spurs WCF Game 5 in progress, VGK one win from NHL West sweep over AVS, CAR leads MTL 2-1 in East Final. Sonny Rollins dead at 95. Mets lost again. Meltzer table rebuilt from Wikipedia (date desc sort).
+- Pages touched: `wiki/sources/newsletter-2026-05-26.md`, `wiki/index.md`, `wiki/log.md`
+
+### Batch entity generation — people (158 new)
+- Source dir: `raw/people/`
+- Generated entity pages for: 118 pro wrestlers (WWE, AEW, NJPW, WCW/ECW era), 30 NBA players, 10 directors/creators/personalities
+- Script: `scripts/gen-entities.py`
+- Title fix: 17 wrestler pages had ring-name H1s corrected to real names (e.g. "The Hitman" → "Bret Hart (The Hitman)")
+- Pages touched: 158 new `wiki/entities/` pages, `wiki/index.md`, `wiki/log.md`
+
+### Batch entity generation — movies (66 new)
+- Source dir: `raw/movies/`
+- Generated entity pages for all 66 films in the personal canon: crime, sci-fi, comedy, drama, animation, world cinema
+- Includes director cross-reference links where applicable
+- Pages touched: 66 new `wiki/entities/` pages, `wiki/index.md`, `wiki/log.md`
+
+### Summary
+- Total new entity pages: 224
+- Total entities in index: 419
+- Total sources in index: 98
+- Fetch script fix: `fetch-news-data.sh` now queries both SPORTS_DATE_PREV and SPORTS_DATE for NBA/NHL — in-progress playoff games no longer silently dropped
+- Meltzer ratings sourced directly from Wikipedia going forward

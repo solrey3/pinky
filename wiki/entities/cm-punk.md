@@ -1,0 +1,41 @@
+---
+id: af1dc9f3-796e-4656-b393-da63c455adc8
+title: CM Punk
+type: entity
+entity_type: person
+created: 2026-05-27T03:20:14Z
+updated: 2026-05-27T03:20:14Z
+tags: [person, wrestling]
+source_count: 1
+---
+
+# CM Punk
+
+#14.
+
+**Real Name:** Phillip Brooks
+**Born:** 1978, Chicago IL
+**Nationality:** American
+**Active:** 1999–2014, 2021–present
+**Profession:** Professional wrestler
+**Personal Rank:** #14 (Pro Wrestling All-Time)
+
+## Summary
+
+#14. The most legitimate anti-authority promo in wrestling history — when Punk grabbed a live mic in Las Vegas in 2011 and spoke extemporaneously about everything wrong with WWE's corporate culture, it was the most 'real' moment in scripted wrestling since Austin's promo in 1996. His return to AEW in 2021 and subsequent WWE return in 2023 re-established him as the biggest drawing promo in wrestling.
+
+## Highlights
+
+- Multiple WWE Champion; ROH World Champion
+- The CM Punk Pipe Bomb promo (June 27, 2011) is the greatest in-character/breaking-character promo in wrestling history
+- His Best in the World documentary and walkout from WWE (2014) is a genuine cultural artifact of wrestling labor politics
+- AEW debut ('Cult of Personality' pop) was the loudest crowd reaction in wrestling since Austin's beer truck
+- His ring work with Samoa Joe, Daniel Bryan, and Colt Cabana established his technical credibility
+
+## Sources
+
+- [2026-05-27: Raw notes](../../raw/people/cm-punk.md)
+
+## Related
+
+

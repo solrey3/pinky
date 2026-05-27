@@ -1,0 +1,41 @@
+---
+id: d254749a-c746-4df4-9f16-2dbef827d373
+title: Sami Zayn
+type: entity
+entity_type: person
+created: 2026-05-27T03:20:14Z
+updated: 2026-05-27T03:20:14Z
+tags: [person, wrestling]
+source_count: 1
+---
+
+# Sami Zayn
+
+#66.
+
+**Real Name:** Rami Sebei
+**Born:** 1984, Montreal QC
+**Nationality:** Syrian-Canadian
+**Active:** 2002–present
+**Profession:** Professional wrestler
+**Personal Rank:** #66 (Pro Wrestling All-Time)
+
+## Summary
+
+#66. The most universally beloved character in modern WWE. Sami Zayn's accidental Honorary Uce role in the Bloodline story is one of wrestling's great character insertions — a comedy midcarder became the emotional center of wrestling's most successful storyline because he was genuinely likable. His Helluva Kick is the most credible running finish in wrestling. His WM39 tag championship win with Kevin Owens was the most celebrated moment of that show.
+
+## Highlights
+
+- IC Champion; WWE/WH Tag Team Champion (with Kevin Owens)
+- The Honorary Uce arc (2022–2023) is the best character work in WWE in 20 years
+- His WM39 tag championship win with Kevin Owens in front of a Montreal audience was one of the most emotional moments in WM history
+- The Helluva Kick is consistently among wrestling's most convincing finish deliveries
+- His bromance with Kevin Owens is professional wrestling's best friendship — and it's based on a real friendship
+
+## Sources
+
+- [2026-05-27: Raw notes](../../raw/people/sami-zayn.md)
+
+## Related
+
+
