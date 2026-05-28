@@ -134,6 +134,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-05-25-evening-to-05-26](sources/newsletter-2026-05-25-evening-to-05-26.md) | Newsletters 2026-05-25 Evening through 2026-05-26 Morning — Evening Dispatch & Morning Dispatch | newsletter | [newsletter, news, markets, iran, knicks, nba-finals, amd, oil, sonny-rollins, aew, mets, roland-garros, wembanyama, nj-politics] | 2026-05-26 |
 | [newsletter-2026-05-26](sources/newsletter-2026-05-26.md) | Newsletter 2026-05-26 Evening Brief | newsletter | [newsletter, news, markets, iran, knicks, nba-finals, spurs, okc, stanley-cup, hurricanes, golden-knights, amd, oil, paxton, cornyn, texas, sonny-rollins, mets, wrestling, roland-garros, meltzer] | 2026-05-27 |
 | [newsletter-2026-05-27](sources/newsletter-2026-05-27.md) | Newsletter 2026-05-27 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, okc, spurs, wembanyama, golden-knights, nhl, nba, amd, oil, iran, biden, paxton, njpw, roland-garros, starlette, mets, wrestling, meltzer] | 2026-05-27 |
+| [newsletter-2026-05-27-evening](sources/newsletter-2026-05-27-evening.md) | Newsletter 2026-05-27 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, okc, spurs, amd, oil, iran, russell-2000, ralph-lauren, edge, christian-cage, aew, njpw, roland-garros, arsenal, psg, world-cup, youtube, ai-disclosure, duckduckgo, mets] | 2026-05-27 |
 
 ---
 
@@ -828,7 +829,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ---
 
-*Last updated: 2026-05-26*
+*Last updated: 2026-05-27*
 
 
 ## Sources & Knowledge Bases

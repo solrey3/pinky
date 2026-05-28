@@ -4,9 +4,9 @@ title: Christian Cage
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-27
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Christian Cage
@@ -35,6 +35,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/christian-cage.md)
+- [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](../sources/newsletter-2026-05-27-evening.md) — Won AEW Tag Team Championship with Edge (Adam Copeland) at Double or Nothing — first tag gold together in 25 years. The win came after both men had been medically retired (Cage ~7 years, Copeland ~9 years) and fought to return to active competition.
 
 ## Related
 

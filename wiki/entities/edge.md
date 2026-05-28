@@ -4,9 +4,9 @@ title: Edge
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-27
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Edge
@@ -35,6 +35,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/edge.md)
+- [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](../sources/newsletter-2026-05-27-evening.md) — Won AEW Tag Team Championship with Christian Cage at Double or Nothing — their first tag title run together in 25 years. Copeland posted on Instagram: "He was retired for 7 years and I was retired for 9. But we fought to get our careers back and last night made it all worth it."
 
 ## Related
 
