@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-28
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu]
-source_count: 2
+source_count: 3
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -22,11 +22,13 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 
 - **2026-05-27 (Morning)**: Bushiroad transferred all NJPW shares to TV Asahi and CyberAgent. Hiroshi Tanahashi issued a formal statement on the transition. NOAH's Kenoh immediately trolled on social media, calling NJPW "Noah's little brother." Best of the Super Juniors continued as the business reorganized.
 - **2026-05-27 (Evening)**: BOSJ Night 7 results — Francesco Akira pins Jun Kasai; Desperado and SHO tied atop B Block. Tournament continues under new ownership structure.
+- **2026-05-28 (Morning)**: AEW content confirmed leaving NJPW World for Japanese subscribers in September — a structural separation formalizing the commercial divergence between the two promotions following Bushiroad's exit.
 
 ## Sources
 
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](sources/newsletter-2026-05-27.md) — Bushiroad transfers all NJPW shares to TV Asahi and CyberAgent; Tanahashi statement issued.
 - [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](sources/newsletter-2026-05-27-evening.md) — BOSJ Night 7: Francesco Akira pins Jun Kasai; Desperado & SHO tied atop B Block. Tournament continues under new ownership.
+- [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](sources/newsletter-2026-05-28.md) — AEW content leaving NJPW World for Japanese subscribers in September. The AEW/NJPW partnership is dissolving in distribution as well as booking.
 
 ## Related
 

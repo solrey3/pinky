@@ -4,9 +4,9 @@ title: MJF
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27
+updated: 2026-05-28
 tags: [person, wrestling]
-source_count: 2
+source_count: 3
 ---
 
 # MJF
@@ -36,10 +36,12 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/mjf.md)
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — MJF appears on tonight's AEW Dynamite/Collision in Philadelphia.
+- [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](../sources/newsletter-2026-05-28.md) — MJF's title celebration on Dynamite was crashed by RUSH, who formally accepted the AEW World Championship challenge. Defense vs. RUSH set for 6/3 Dynamite. Edge/Christian chaos also unfolded. Owen Hart Cup semifinals set: Ospreay vs. Davis and Swerve vs. Brody King.
 
 ## Related
 
 - [[Chris Jericho]] — longtime AEW colleague and rival
-- [[Darby Allin]] — current AEW World Champion; MJF is a former multi-time champion in the same era
+- [[Darby Allin]] — MJF shaved Darby's head after regaining the title at Double or Nothing; now defending vs. RUSH
+- [[RUSH]] — accepted the AEW World Championship challenge on 5/27 Dynamite; match set for 6/3
 - [[CM Punk]] — MJF/Punk cage match at Double or Nothing 2022 is among the best matches of the decade
 

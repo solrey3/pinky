@@ -135,6 +135,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-05-26](sources/newsletter-2026-05-26.md) | Newsletter 2026-05-26 Evening Brief | newsletter | [newsletter, news, markets, iran, knicks, nba-finals, spurs, okc, stanley-cup, hurricanes, golden-knights, amd, oil, paxton, cornyn, texas, sonny-rollins, mets, wrestling, roland-garros, meltzer] | 2026-05-27 |
 | [newsletter-2026-05-27](sources/newsletter-2026-05-27.md) | Newsletter 2026-05-27 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, okc, spurs, wembanyama, golden-knights, nhl, nba, amd, oil, iran, biden, paxton, njpw, roland-garros, starlette, mets, wrestling, meltzer] | 2026-05-27 |
 | [newsletter-2026-05-27-evening](sources/newsletter-2026-05-27-evening.md) | Newsletter 2026-05-27 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, okc, spurs, amd, oil, iran, russell-2000, ralph-lauren, edge, christian-cage, aew, njpw, roland-garros, arsenal, psg, world-cup, youtube, ai-disclosure, duckduckgo, mets] | 2026-05-27 |
+| [newsletter-2026-05-28](sources/newsletter-2026-05-28.md) | Newsletter 2026-05-28 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, amd, tsm, russell-2000, iran, oil, arsenal, psg, ucl, shohei-ohtani, mets, mjf, rush, aew, njpw, roland-garros, naomi-osaka, carolina-hurricanes, crystal-palace, youtube-ai, duckduckgo, buttigieg, texas-senate, polymarket, ebola, charles-schwab, meltzer, world-cup] | 2026-05-28 |
 
 ---
 
