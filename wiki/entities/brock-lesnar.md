@@ -4,9 +4,9 @@ title: Brock Lesnar
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-28
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Brock Lesnar (The Beast Incarnate)
@@ -35,7 +35,9 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/brock-lesnar.md)
+- [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletter-2026-05-28-evening.md) — Brock Lesnar confirmed to appear after WWE Clash in Italy per event advertising. Cody Rhodes calls Clash events a new "Big Four" WWE PLE.
 
 ## Related
 
-
+- [[Cody Rhodes]] — called Clash events a new Big Four PLE in the same news cycle
+- [[WWE]] — the promotion he is returning to at Clash in Italy
