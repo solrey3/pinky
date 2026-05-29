@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 tags: [ai, llm, organization, anthropic, claude, safety, research]
-source_count: 1
+source_count: 2
 ---
 
 # Anthropic
@@ -17,12 +17,13 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## 2026 Milestones
 
-- **May 28, 2026**: Latest funding round pushes valuation to **$965B** — explicitly described as overtaking OpenAI in the valuation race on the same day Claude Opus 4.8 was released. Hacker News flagged the Opus 4.8 announcement at 1,026 points.
-- **Claude Opus 4.8** released May 28, 2026 — concurrent with the funding close. The timing is unusual: model capability drops and capital raises rarely land on the same day.
+- **May 28, 2026**: Latest funding round pushes valuation to **$965B** — explicitly described as overtaking OpenAI in the valuation race on the same day Claude Opus 4.8 was released. Hacker News flagged the Opus 4.8 announcement at 1,026 points at time of reporting.
+- **Claude Opus 4.8** released May 28, 2026 — concurrent with the funding close. The timing is unusual: model capability drops and capital raises rarely land on the same day. By the morning of May 29, the HN thread had climbed to **1,531 points** — a 48% increase in 24 hours, signaling sustained community interest beyond launch-day noise.
 
 ## Sources
 
 - [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](sources/newsletter-2026-05-28-evening.md) — Anthropic hits $965B valuation, overtakes OpenAI; Claude Opus 4.8 drops same day.
+- [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](sources/newsletter-2026-05-29.md) — Claude Opus 4.8 at 1,531 HN points (up from 1,026 at release); AI benchmark arms race described as "undefeated."
 
 ## Related
 

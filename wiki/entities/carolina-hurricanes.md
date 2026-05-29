@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-05-29
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 2
+source_count: 3
 ---
 
 # Carolina Hurricanes
@@ -28,6 +28,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 - [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](sources/newsletter-2026-05-27-evening.md) — Hurricanes referenced in ECF context; Vegas Golden Knights sweeping Colorado in the Western Conference.
 - [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](sources/newsletter-2026-05-28-evening.md) — Hurricanes shut out Montréal 4-0 in Game 4; lead series 3-1; one win from the Stanley Cup Final. Game 5 Friday May 29 on TNT.
+- [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](sources/newsletter-2026-05-29.md) — Game 5 tonight (May 29, 8:00 PM EDT, TNT). Hurricanes one win from the Stanley Cup Final.
 
 ## Related
 
