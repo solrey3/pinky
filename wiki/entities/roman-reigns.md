@@ -4,9 +4,9 @@ title: Roman Reigns
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-29T22:00:00Z
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Roman Reigns
@@ -35,6 +35,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/roman-reigns.md)
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — **Roman Reigns vs. Solo Sikoa (Fatu) confirmed for Clash in Italy**. The Bloodline storyline's latest chapter plays out in Italy. SmackDown Barcelona (go-home show) set the card.
 
 ## Related
 

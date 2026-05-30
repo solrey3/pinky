@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-29
 updated: 2026-05-29
 tags: [space, launch, rocket, blue-origin, new-glenn, jeff-bezos, organization]
-source_count: 1
+source_count: 2
 ---
 
 # Blue Origin
@@ -24,6 +24,7 @@ Blue Origin's press statement described the event as an "anomaly" — a piece of
 ## Sources
 
 - [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](sources/newsletter-2026-05-29.md) — New Glenn explodes during static fire test at LC-36; most spectacular launch failure since Soviet N1; NG-4 mission delayed indefinitely.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Continued coverage in Ars Technica framing; described as 'catastrophic.' Story still leading the space/tech news cycle at Friday's close.
 
 ## Related
 

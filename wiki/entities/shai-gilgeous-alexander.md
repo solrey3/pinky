@@ -4,9 +4,9 @@ title: Shai Gilgeous-Alexander
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-29T10:01:58Z
+updated: 2026-05-29T22:00:00Z
 tags: [person, basketball, nba]
-source_count: 2
+source_count: 3
 ---
 
 # Shai Gilgeous-Alexander
@@ -35,6 +35,7 @@ The 2026 NBA MVP and the best player in the Western Conference. SGA's scoring ve
 
 - [2026-05-27: Raw notes](../../raw/people/shai-gilgeous-alexander.md)
 - [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](../sources/newsletter-2026-05-29.md) — "SGA got locked up all night long" in Game 6 — Spurs 118, OKC 91. Series tied 3-3, Game 7 TBD. The best player in the WCF had his quietest night of the series at the worst possible moment.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — **Game 7 confirmed: Saturday May 30, 8 PM EDT, NBC** at Oklahoma City. SGA must bounce back from his most suppressed game of the series on the road against Wembanyama, in a winner-take-all.
 
 ## Related
 

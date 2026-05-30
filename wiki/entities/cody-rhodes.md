@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-29T22:00:00Z
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -35,6 +35,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/cody-rhodes.md)
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — SmackDown live from Barcelona (Clash in Italy go-home show). Cody vs. Gunther set to **kick off** Clash in Italy — the title match opens the event, not closes it. Cody called out Gunther directly: *"I know that you want it — otherwise I'd be talking to a 330lb version of yourself in front of a couple hundred people at an indy show."*
 
 ## Related
 

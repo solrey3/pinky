@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-19
 updated: 2026-05-29
 tags: [nba, basketball, san-antonio-spurs, generational-talent]
-source_count: 5
+source_count: 6
 ---
 
 # Victor Wembanyama
@@ -20,6 +20,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — OKC wins Game 5 127–114; Spurs trail series 2-3, facing elimination. Game 6 in San Antonio. Wembanyama/Chet sideline moment captured on HoH.
 - [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](../sources/newsletter-2026-05-27-evening.md) — Series confirmed 3-2 OKC. Game 6 Thursday night (8:30 PM EDT, NBC) in San Antonio. Spurs still alive but one loss from elimination.
 - [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](../sources/newsletter-2026-05-29.md) — Spurs 118, OKC 91 in Game 6. Series tied 3-3. Game 7 TBD. Wembanyama was physically dominant; SGA locked up. House of Highlights captured Wemby getting physical with Lu Dort.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — Game 6 final confirmed: Spurs 118, OKC 91. **Game 7: Saturday May 30, 8 PM EDT, NBC** at Oklahoma City. Wembanyama and the Spurs forced the winner-take-all from the road, in OKC's building.
 
 ## Related
 

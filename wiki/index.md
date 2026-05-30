@@ -138,6 +138,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-05-28](sources/newsletter-2026-05-28.md) | Newsletter 2026-05-28 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, amd, tsm, russell-2000, iran, oil, arsenal, psg, ucl, shohei-ohtani, mets, mjf, rush, aew, njpw, roland-garros, naomi-osaka, carolina-hurricanes, crystal-palace, youtube-ai, duckduckgo, buttigieg, texas-senate, polymarket, ebola, charles-schwab, meltzer, world-cup] | 2026-05-28 |
 | [newsletter-2026-05-28-evening](sources/newsletter-2026-05-28-evening.md) | Newsletter 2026-05-28 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, anthropic, claude-opus-4.8, amd, ralph-lauren, oil, russell-2000, iran, carolina-hurricanes, roland-garros, arsenal, psg, ucl, aew, wwe, mjf, rush, brock-lesnar, jim-ross, polymarket, google, raspberry-pi, illinois-ai, llm-research, mets, dodgers, njpw, lpga, charles-schwab-challenge] | 2026-05-28 |
 | [newsletter-2026-05-29](sources/newsletter-2026-05-29.md) | Newsletter 2026-05-29 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, spurs, okc, game7, wembanyama, sga, knicks, mitchell-robinson, amd, russell-2000, iran, oil, ralph-lauren, schw, bitcoin, roland-garros, ben-shelton, blue-origin, new-glenn, anthropic, claude-opus-4.8, llm-research, polymarket, arsenal, psg, ucl, carolina-hurricanes, aew, wwe, tna, meltzer] | 2026-05-29 |
+| [newsletter-2026-05-29-evening](sources/newsletter-2026-05-29-evening.md) | Newsletter 2026-05-29 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, bitcoin, spurs, okc, game7, arsenal, psg, ucl, roland-garros, fonseca, djokovic, carolina-hurricanes, blue-origin, cody-rhodes, gunther, roman-reigns, clash-in-italy, smackdown, aew, njpw, gta6, liquid-ai, polymarket, texas-senate] | 2026-05-29 |
 
 ---
 
@@ -201,14 +202,14 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Rick Barry](entities/rick-barry.md) | person | person, basketball, nba | 1 |
 | [Ryan Davis](entities/ryan-davis.md) | person | basketball, analytics, statistics | 1 |
 | [Scottie Pippen](entities/scottie-pippen.md) | person | person, basketball, nba | 1 |
-| [Shai Gilgeous-Alexander](entities/shai-gilgeous-alexander.md) | person | person, basketball, nba | 1 |
+| [Shai Gilgeous-Alexander](entities/shai-gilgeous-alexander.md) | person | person, basketball, nba | 3 |
 | [Shaquille O'Neal](entities/shaquille-oneal.md) | person | person, basketball, nba | 1 |
 | [Stephen Curry](entities/stephen-curry.md) | person | basketball, nba, player, shooting, analytics | 1 |
 | [Steve Nash](entities/steve-nash.md) | person | person, basketball, nba | 1 |
 | [Tim Duncan](entities/tim-duncan.md) | person | person, basketball, nba | 1 |
 | [Tony Parker](entities/tony-parker.md) | person | person, basketball, nba | 1 |
 | [Tracy McGrady](entities/tracy-mcgrady.md) | person | person, basketball, nba | 1 |
-| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent | 3 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent | 6 |
 | [Vince Carter](entities/vince-carter.md) | person | person, basketball, nba | 1 |
 | [Walt Frazier](entities/walt-frazier.md) | person | person, basketball, nba | 1 |
 | [Willis Reed](entities/willis-reed.md) | person | person, basketball, nba | 1 |
@@ -233,7 +234,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Christian Cage](entities/christian-cage.md) | person | person, wrestling | 1 |
 | [Claudio Castagnoli](entities/claudio-castagnoli.md) | person | person, wrestling | 1 |
 | [CM Punk](entities/cm-punk.md) | person | person, wrestling | 1 |
-| [Cody Rhodes](entities/cody-rhodes.md) | person | person, wrestling | 1 |
+| [Cody Rhodes](entities/cody-rhodes.md) | person | person, wrestling | 2 |
 | [Curt Hennig](entities/curt-hennig.md) | person | person, wrestling | 1 |
 | [Darby Allin](entities/darby-allin.md) | person | person, wrestling | 2 |
 | [Davey Boy Smith](entities/davey-boy-smith.md) | person | person, wrestling | 1 |
@@ -245,7 +246,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Edge](entities/edge.md) | person | person, wrestling | 1 |
 | [Goldberg](entities/goldberg.md) | person | person, wrestling | 1 |
 | [The Great Muta](entities/the-great-muto.md) | person | person, wrestling | 1 |
-| [Gunther (WALTER)](entities/gunther.md) | person | person, wrestling | 1 |
+| [Gunther (WALTER)](entities/gunther.md) | person | person, wrestling | 2 |
 | [Hangman Adam Page](entities/hangman-adam-page.md) | person | person, wrestling | 1 |
 | [Harley Race](entities/harley-race.md) | person | person, wrestling | 1 |
 | [Hulk Hogan](entities/hulk-hogan.md) | person | person, wrestling | 1 |
@@ -281,7 +282,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Ricochet](entities/ricochet.md) | person | person, wrestling | 1 |
 | [Rob Van Dam](entities/rob-van-dam.md) | person | person, wrestling | 1 |
 | [The Rock](entities/the-rock.md) | person | person, wrestling | 1 |
-| [Roman Reigns](entities/roman-reigns.md) | person | person, wrestling | 1 |
+| [Roman Reigns](entities/roman-reigns.md) | person | person, wrestling | 2 |
 | [Rowdy Roddy Piper](entities/rowdy-roddy-piper.md) | person | person, wrestling | 1 |
 | [Sami Zayn](entities/sami-zayn.md) | person | person, wrestling | 1 |
 | [Samoa Joe](entities/samoa-joe.md) | person | person, wrestling | 1 |
@@ -486,6 +487,20 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Bill James](entities/bill-james.md) | person | baseball, statistics, sabermetrics, author, analytics | 1 |
 | [Billy Beane](entities/billy-beane.md) | person | baseball, executive, analytics, oakland-athletics, sports | 1 |
 | [Nate Silver](entities/nate-silver.md) | person | statistician, forecaster, poker, author, data-science | 2 |
+
+### Tennis Players
+| Entity | Type | Tags | Sources |
+| --- | --- | --- | --- |
+| [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 1 |
+| [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 1 |
+
+### Sports Organizations, Clubs & Other
+| Entity | Type | Tags | Sources |
+| --- | --- | --- | --- |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization | 2 |
+| [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london | 3 |
+| [Blue Origin](entities/blue-origin.md) | organization | space, launch, rocket, blue-origin, new-glenn, jeff-bezos | 2 |
+| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 4 |
 
 ### Films
 | Entity | Type | Tags | Sources |
