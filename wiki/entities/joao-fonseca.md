@@ -4,9 +4,9 @@ title: Joao Fonseca
 type: entity
 entity_type: person
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 tags: [tennis, roland-garros, brazil, next-gen, person, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Joao Fonseca
@@ -35,6 +35,7 @@ What makes the result remarkable beyond the scoreline: Djokovic was not injured,
 ## Sources
 
 - [2026-05-29: Newsletter 2026-05-29 — Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Fonseca defeats Djokovic 4-6, 4-6, 6-3, 7-5, 7-5 in R3 at Roland Garros; described as the upset of the tournament and a career-defining win.
+- [2026-05-30: Newsletter 2026-05-30 — Morning Dispatch](sources/newsletter-2026-05-30.md) — Fonseca's upset of Djokovic confirmed in recap as Roland Garros continues. Still in the draw, with Zverev, Ruud, and Mensik (who upset de Minaur) also advancing.
 
 ## Related
 

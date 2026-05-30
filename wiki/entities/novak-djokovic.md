@@ -4,9 +4,9 @@ title: Novak Djokovic
 type: entity
 entity_type: person
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-05-30
 tags: [tennis, roland-garros, serbia, goat, person, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Novak Djokovic
@@ -33,6 +33,7 @@ Djokovic led 2-0 sets against the 19-year-old Brazilian before losing the next t
 ## Sources
 
 - [2026-05-29: Newsletter 2026-05-29 — Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Djokovic eliminated by 19-year-old Joao Fonseca (28) in R3 at Roland Garros; 4-6, 4-6, 6-3, 7-5, 7-5 — the tournament's biggest upset.
+- [2026-05-30: Newsletter 2026-05-30 — Morning Dispatch](sources/newsletter-2026-05-30.md) — Djokovic's elimination recapped as Roland Garros continues. The field moves forward; the context of this defeat deepens as younger players (Mensik, Fonseca) continue advancing.
 
 ## Related
 
