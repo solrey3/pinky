@@ -4,9 +4,9 @@ title: Konosuke Takeshita
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-05-31
+tags: [person, wrestling, aew, championship]
+source_count: 2
 ---
 
 # Konosuke Takeshita
@@ -22,7 +22,7 @@ source_count: 1
 
 ## Summary
 
-#53. The most exciting young talent in professional wrestling. His DDT Pro career built his reputation in Japan before his AEW debut turned him into an international star. His matches with Jon Moxley (multiple), Bryan Danielson, and Kenny Omega have produced some of AEW's best in-ring work. The Blue Thunder Bomb is the most impactful power move from a 220-pound wrestler working today.
+#53. The most exciting young talent in professional wrestling. His DDT Pro career built his reputation in Japan before his AEW debut turned him into an international star. His matches with Jon Moxley (multiple), Bryan Danielson, and Kenny Omega have produced some of AEW's best in-ring work. **As of May 2026, Takeshita is a reigning AEW champion**, having retained via post-match chaos on the May 30 AEW Collision.
 
 ## Highlights
 
@@ -35,6 +35,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/konosuke-takeshita.md)
+- [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](../sources/newsletter-2026-05-31.md) — **Retains AEW championship on AEW Collision (May 30)**; mass brawl erupts post-match. Survival of the Fittest tournament announced to crown new TBS Champion; Finals set for Jul 1 Dynamite. STARDOM's Hazuki debuts in AEW on the same show, signaling renewed women's division investment.
 
 ## Related
 
