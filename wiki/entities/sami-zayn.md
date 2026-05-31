@@ -4,9 +4,9 @@ title: Sami Zayn
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-05-30T22:02:45Z
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Sami Zayn
@@ -35,7 +35,10 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/sami-zayn.md)
+- [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — Featured prominently in SmackDown’s Barcelona go-home show for Clash in Italy. His post-show social post — “The Spanish can spot honesty, integrity & world class talent a mile away” — the kind of self-aware character work that makes him the most universally beloved figure in the current product. Described in the dispatch as “firing on all cylinders.”
 
 ## Related
 
-
+- [[Cody Rhodes]] — Clash in Italy context; Cody using locker-room optics strategically
+- [[Gunther]] — Zayn’s prior act of letting Gunther choke out Cody “to teach him a lesson” is the storyline heat
+- [[Kevin Owens]] — his best on-screen and real-life friend; WM39 tag title moment
