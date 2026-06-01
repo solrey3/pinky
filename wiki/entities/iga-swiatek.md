@@ -4,9 +4,9 @@ title: Iga Swiatek
 type: entity
 entity_type: person
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 tags: [tennis, roland-garros, poland, grand-slam, wta, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Iga Swiatek
@@ -22,6 +22,7 @@ Polish WTA No. 1 and four-time Roland Garros champion (2020, 2022, 2023, 2024). 
 ## Sources
 
 - [2026-05-31: Evening Brief — Sunday, May 31, 2026](sources/newsletter-2026-05-31-evening.md) — Swiatek (3-seed, defending champion) defeated by Kostyuk 7-5, 6-1 in Round 4. Andreeva, Keys, and Svitolina also advanced. Biggest upset of the women's 2026 Roland Garros draw.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](sources/newsletter-2026-06-01.md) — Morning-after confirmation of R4 loss to Kostyuk. Score confirmed 7-5, 6-1. Three-time defending champion's Roland Garros 2026 campaign ends in Round 4; the draw is wide open heading into the quarterfinals.
 
 ## Related
 

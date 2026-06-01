@@ -4,9 +4,9 @@ title: Brock Lesnar
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-31
+updated: 2026-06-01
 tags: [person, wrestling]
-source_count: 3
+source_count: 4
 ---
 
 # Brock Lesnar (The Beast Incarnate)
@@ -37,6 +37,7 @@ source_count: 3
 - [2026-05-27: Raw notes](../../raw/people/brock-lesnar.md)
 - [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletter-2026-05-28-evening.md) — Brock Lesnar confirmed to appear after WWE Clash in Italy per event advertising. Cody Rhodes calls Clash events a new "Big Four" WWE PLE.
 - [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **Clash in Italy, Turin**: Lesnar defeats **Oba Femi** in a WrestleMania 42 rematch — required **seven F-5s** to put him away. Lesnar evens the score. King of the Ring 2026 bracket also revealed on the card.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation of Oba Femi win at Clash in Italy. Oba Femi enters a four-way in the first round of King of the Ring tonight on Raw.
 
 ## Related
 

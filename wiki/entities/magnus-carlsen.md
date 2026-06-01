@@ -4,9 +4,9 @@ title: Magnus Carlsen
 type: entity
 entity_type: person
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-06-01
 tags: [chess, norway, grandmaster, world-champion, sports, elo]
-source_count: 1
+source_count: 2
 ---
 
 # Magnus Carlsen
@@ -23,6 +23,7 @@ Norwegian chess grandmaster and five-time World Chess Champion (2013–2023). Wi
 ## Sources
 
 - [2026-05-31: Evening Brief — Sunday, May 31, 2026](sources/newsletter-2026-05-31-evening.md) — "Magnus Carlsen apparently hit 5000 ELO" at Norway Chess 2026, defeating tournament leader Firouzja in Round 6. GothamChess YouTube video on the milestone noted in the dispatch's feed section.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](sources/newsletter-2026-06-01.md) — GothamChess YouTube video "MAGNUS CARLSEN HITS 5000 ELO" appears explicitly in the YouTube feed section, listed in the past 24 hours. Milestone confirmed as a viral chess moment; the Norway Chess internal scoring format distinction (vs. FIDE Elo) stands.
 
 ## Related
 

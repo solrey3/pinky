@@ -4,9 +4,9 @@ title: Kevin Owens
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-31
+updated: 2026-06-01
 tags: [person, wrestling]
-source_count: 2
+source_count: 3
 ---
 
 # Kevin Owens
@@ -36,6 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/kevin-owens.md)
 - [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — Following WWE Clash in Italy in Turin, Owens posted **"I miss wrestling"** on X. The dispatch note: *"The crowd will be ready when he returns."* He has not been on WWE TV in months; the post signals the itch is back.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — "I miss wrestling" post confirmed in the Reddit buzz section of the r/squaredcircle roundup. Raw is live tonight — his absence is notable given the post-Clash moment.
 
 ## Related
 

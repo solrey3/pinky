@@ -4,9 +4,9 @@ title: Drew McIntyre
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-06-01
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Drew McIntyre
@@ -36,6 +36,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/drew-mcintyre.md)
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Rumor Roundup (CageSideSeats) flags **WWE creative changes, Drew McIntyre, SmackDown three-hour switch** as active June 1 rumors. McIntyre's status and potential brand move being discussed in backstage circles.
 
 ## Related
 
