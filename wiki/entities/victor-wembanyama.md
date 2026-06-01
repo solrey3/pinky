@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-19
 updated: 2026-05-31
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 8
+source_count: 9
 ---
 
 # Victor Wembanyama
@@ -23,6 +23,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — Game 6 final confirmed: Spurs 118, OKC 91. **Game 7: Saturday May 30, 8 PM EDT, NBC** at Oklahoma City. Wembanyama and the Spurs forced the winner-take-all from the road, in OKC's building.
 - [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](../sources/newsletter-2026-05-30.md) — **Jalen Williams (OKC) OUT for Game 7. Ajay Mitchell also OUT.** Thunder go into the winner-take-all at home missing two key contributors. Wembanyama and the Spurs are now favored by any reasonable model.
 - [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](../sources/newsletter-2026-05-31.md) — **Spurs 111, Thunder 103 — WCF Game 7 final. Spurs win the series 4-3. VICTOR WEMBANYAMA IS GOING TO THE NBA FINALS.** At 22, he was visibly overcome with emotion at the buzzer. Chet Holmgren went cold down the stretch. San Antonio has not been to the Finals in over 20 years. The building in SA lost its mind.
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — NBA Finals opponent confirmed: **New York Knicks**. Game 1: Knicks at Spurs, **Wednesday June 3, 8:30 PM EDT, ABC**. House of Highlights captured "Wemby letting Luke know he's PROUD" — the on-court moment with assistant coach Luke Loucks captured the emotional weight of the win.
 
 ## Related
 

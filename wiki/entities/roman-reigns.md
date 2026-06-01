@@ -4,9 +4,9 @@ title: Roman Reigns
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-29T22:00:00Z
+updated: 2026-05-31
 tags: [person, wrestling]
-source_count: 2
+source_count: 3
 ---
 
 # Roman Reigns
@@ -36,6 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/roman-reigns.md)
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — **Roman Reigns vs. Solo Sikoa (Fatu) confirmed for Clash in Italy**. The Bloodline storyline's latest chapter plays out in Italy. SmackDown Barcelona (go-home show) set the card.
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **WWE Clash in Italy, Turin**: Reigns defeats Jacob Fatu in **Tribal Combat** to retain the World Heavyweight Championship. Fatu must acknowledge. Post-match: *"QB1? F\*\*\* that. I run it all. Forever."* — Reigns underscoring total Bloodline dominance after the most personal feud of his return.
 
 ## Related
 

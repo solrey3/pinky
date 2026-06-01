@@ -141,6 +141,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-05-29-evening](sources/newsletter-2026-05-29-evening.md) | Newsletter 2026-05-29 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, bitcoin, spurs, okc, game7, arsenal, psg, ucl, roland-garros, fonseca, djokovic, carolina-hurricanes, blue-origin, cody-rhodes, gunther, roman-reigns, clash-in-italy, smackdown, aew, njpw, gta6, liquid-ai, polymarket, texas-senate] | 2026-05-29 |
 | [newsletter-2026-05-30](sources/newsletter-2026-05-30.md) | Newsletter 2026-05-30 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, amd, iran, oil, spurs, okc, game7, wembanyama, sga, jalen-williams, carolina-hurricanes, stanley-cup, arsenal, psg, ucl, roland-garros, fonseca, djokovic, naomi-osaka, anthropic, claude-opus-4.8, blue-origin, fcc, bitcoin, ups, nj-politics, delaney-hall, aew, wwe, mets, meltzer, world-cup] | 2026-05-30 |
 | [newsletter-2026-05-31](sources/newsletter-2026-05-31.md) | Newsletter 2026-05-31 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, spurs, wembanyama, nba-finals, arsenal, psg, ucl, aew, wwe, njpw, roland-garros, markets, amd, iran, oil, delaney-hall, zelensky, botnet, av2, accenture, ookla, meltzer, world-cup] | 2026-05-31 |
+| [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
 ---
@@ -489,11 +490,13 @@ Content catalog — curated by type and category. Updated on every ingest.
 | --- | --- | --- | --- |
 | [Bill James](entities/bill-james.md) | person | baseball, statistics, sabermetrics, author, analytics | 1 |
 | [Billy Beane](entities/billy-beane.md) | person | baseball, executive, analytics, oakland-athletics, sports | 1 |
+| [Magnus Carlsen](entities/magnus-carlsen.md) | person | chess, norway, grandmaster, world-champion, sports, elo | 1 |
 | [Nate Silver](entities/nate-silver.md) | person | statistician, forecaster, poker, author, data-science | 2 |
 
 ### Tennis Players
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
+| [Iga Swiatek](entities/iga-swiatek.md) | person | tennis, roland-garros, poland, grand-slam, wta, sports | 1 |
 | [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 2 |
 | [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 2 |
 

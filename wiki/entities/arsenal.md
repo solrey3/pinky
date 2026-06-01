@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-05-31
 tags: [soccer, football, arsenal, premier-league, ucl, london, organization]
-source_count: 5
+source_count: 6
 ---
 
 # Arsenal FC
@@ -35,6 +35,7 @@ London-based Premier League club, founded 1886. One of England's most storied fo
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — UCL Final is **tomorrow**: Arsenal vs. PSG, Saturday May 30, 12 PM EDT, CBS. Arsenal's last 8 UCL results all wins, 27 goals scored across the run.
 - [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](sources/newsletter-2026-05-30.md) — UCL Final is **TODAY**. 12 PM EDT, CBS. Arsenal 8-0-0 entering the match; PSG beat Barça earlier in the competition. Result unknown at dispatch time (6 AM ET). Prediction markets showing active volume pre-kickoff.
 - [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](sources/newsletter-2026-05-31.md) — **Arsenal 1-1 PSG after 90 minutes. PSG win 4-3 on penalties. PSG are European champions.** Arsenal's historic 8-0-0 UCL campaign — defeating Athletic Club, Olympiacos, Atlético, Slavia Prague, Bayern, Club Brugge, Inter, and Kairat — ends at the final step in a shootout. "Gunners fans deserve better. This one stings."
+- [2026-05-31: Evening Brief — May 31, 2026](sources/newsletter-2026-05-31-evening.md) — Evening dispatch confirms Arsenal's off-season has begun. UCL elimination documented in full: PSG 1-1 Arsenal (FT), PSG 4-3 on penalties (May 30). European run closed out. Domestic PL season also concluded months prior.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Gunther (WALTER)
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-29T22:00:00Z
+updated: 2026-05-31
 tags: [person, wrestling]
-source_count: 2
+source_count: 3
 ---
 
 # Gunther (WALTER)
@@ -36,6 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/gunther.md)
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — SmackDown from Barcelona confirms **Gunther vs. Cody Rhodes for the Undisputed WWE Title to kick off Clash in Italy**. Sami Zayn revealed he let Gunther choke out Cody to "teach him a lesson." Cody clapped back in a promo for the ages.
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **Clash in Italy result**: Gunther **loses** to Cody Rhodes in a controversial finish — the WWE title does not change hands. Gunther's next step unclear; King of the Ring 2026 bracket was also revealed on the same card.
 
 ## Related
 
