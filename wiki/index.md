@@ -141,6 +141,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-05-29-evening](sources/newsletter-2026-05-29-evening.md) | Newsletter 2026-05-29 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, bitcoin, spurs, okc, game7, arsenal, psg, ucl, roland-garros, fonseca, djokovic, carolina-hurricanes, blue-origin, cody-rhodes, gunther, roman-reigns, clash-in-italy, smackdown, aew, njpw, gta6, liquid-ai, polymarket, texas-senate] | 2026-05-29 |
 | [newsletter-2026-05-30](sources/newsletter-2026-05-30.md) | Newsletter 2026-05-30 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, amd, iran, oil, spurs, okc, game7, wembanyama, sga, jalen-williams, carolina-hurricanes, stanley-cup, arsenal, psg, ucl, roland-garros, fonseca, djokovic, naomi-osaka, anthropic, claude-opus-4.8, blue-origin, fcc, bitcoin, ups, nj-politics, delaney-hall, aew, wwe, mets, meltzer, world-cup] | 2026-05-30 |
 | [newsletter-2026-05-31](sources/newsletter-2026-05-31.md) | Newsletter 2026-05-31 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, spurs, wembanyama, nba-finals, arsenal, psg, ucl, aew, wwe, njpw, roland-garros, markets, amd, iran, oil, delaney-hall, zelensky, botnet, av2, accenture, ookla, meltzer, world-cup] | 2026-05-31 |
+| [newsletter-2026-06-01-evening](sources/newsletter-2026-06-01-evening.md) | Evening Brief — Monday, June 1, 2026 | newsletter | [newsletter, evening-dispatch, anthropic, ipo, openai, florida-lawsuit, alphabet, semiconductors, nasdaq, wwe-raw, seth-rollins, jacob-fatu, roman-reigns, roland-garros, markets, oil, iran, bitcoin, ups, mets, serena-williams, myles-garrett] | 2026-06-01 |
 | [newsletter-2026-06-01](sources/newsletter-2026-06-01.md) | Newsletter 2026-06-01 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, wwe, clash-in-italy, sol-ruca, becky-lynch, roman-reigns, jacob-fatu, cody-rhodes, gunther, brock-lesnar, roland-garros, swiatek, kostyuk, fonseca, zverev, mensik, markets, amd, oil, iran, ups, spurs, knicks, nba-finals, carolina-hurricanes, golden-knights, pga, russell-henley, lpga, boutier, mets, pence, newark, delaney-hall, fcc, chatgpt, cloudflare, botnet, meta, bonsai-4b, meltzer, world-cup, king-of-the-ring] | 2026-06-01 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
@@ -257,6 +258,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Hulk Hogan](entities/hulk-hogan.md) | person | person, wrestling | 1 |
 | [The Iron Sheik](entities/the-iron-sheik.md) | person | person, wrestling | 1 |
 | [Jake 'The Snake' Roberts](entities/jake-the-snake-roberts.md) | person | person, wrestling | 1 |
+| [Jacob Fatu](entities/jacob-fatu.md) | person | person, wrestling, wwe, bloodline | 2 |
 | [Jeff Hardy](entities/jeff-hardy.md) | person | person, wrestling | 1 |
 | [Jimmy Snuka](entities/jimmy-snuka.md) | person | person, wrestling | 1 |
 | [John Cena](entities/john-cena.md) | person | person, wrestling | 1 |
@@ -287,12 +289,12 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Ricochet](entities/ricochet.md) | person | person, wrestling | 1 |
 | [Rob Van Dam](entities/rob-van-dam.md) | person | person, wrestling | 1 |
 | [The Rock](entities/the-rock.md) | person | person, wrestling | 1 |
-| [Roman Reigns](entities/roman-reigns.md) | person | person, wrestling | 2 |
+| [Roman Reigns](entities/roman-reigns.md) | person | person, wrestling | 5 |
 | [Rowdy Roddy Piper](entities/rowdy-roddy-piper.md) | person | person, wrestling | 1 |
 | [Sami Zayn](entities/sami-zayn.md) | person | person, wrestling | 1 |
 | [Samoa Joe](entities/samoa-joe.md) | person | person, wrestling | 1 |
 | [Scott Hall](entities/scott-hall.md) | person | person, wrestling | 1 |
-| [Seth Rollins](entities/seth-rollins.md) | person | person, wrestling | 1 |
+| [Seth Rollins](entities/seth-rollins.md) | person | person, wrestling | 2 |
 | [Shawn Michaels](entities/shawn-michaels.md) | person | person, wrestling | 1 |
 | [Sheamus](entities/sheamus.md) | person | person, wrestling | 1 |
 | [Shinsuke Nakamura](entities/shinsuke-nakamura.md) | person | person, wrestling | 1 |
@@ -504,7 +506,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Sports Organizations, Clubs & Other
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization | 3 |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo | 4 |
 | [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london | 5 |
 | [Blue Origin](entities/blue-origin.md) | organization | space, launch, rocket, blue-origin, new-glenn, jeff-bezos | 3 |
 | [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 5 |

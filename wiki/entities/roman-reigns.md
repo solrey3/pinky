@@ -5,8 +5,8 @@ type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-06-01
-tags: [person, wrestling]
-source_count: 4
+tags: [person, wrestling, bloodline]
+source_count: 5
 ---
 
 # Roman Reigns
@@ -37,6 +37,7 @@ source_count: 4
 - [2026-05-27: Raw notes](../../raw/people/roman-reigns.md)
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — **Roman Reigns vs. Solo Sikoa (Fatu) confirmed for Clash in Italy**. The Bloodline storyline's latest chapter plays out in Italy. SmackDown Barcelona (go-home show) set the card.
 - [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **WWE Clash in Italy, Turin**: Reigns defeats Jacob Fatu in **Tribal Combat** to retain the World Heavyweight Championship. Fatu must acknowledge. Post-match: *"QB1? F\*\*\* that. I run it all. Forever."* — Reigns underscoring total Bloodline dominance after the most personal feud of his return.
+- [2026-06-01: Evening Brief — June 1, 2026](../sources/newsletter-2026-06-01-evening.md) — **Raw (June 1):** Jacob Fatu officially acknowledges Roman Reigns on live television. The stipulation is fulfilled, the submission is public, and the Bloodline civil war is closed. The Tribal Chief's dominance is now fully on-record and uncontested heading into the King and Queen of the Ring tournament cycle.
 - [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation: Jacob Fatu must now acknowledge Roman Reigns; Bloodline civil war resolved. Cody vs. Roman III narrative building. WWE Raw tonight.
 
 ## Related
