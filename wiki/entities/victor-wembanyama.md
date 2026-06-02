@@ -4,9 +4,9 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-05-31
+updated: 2026-06-02
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 9
+source_count: 10
 ---
 
 # Victor Wembanyama
@@ -24,6 +24,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](../sources/newsletter-2026-05-30.md) — **Jalen Williams (OKC) OUT for Game 7. Ajay Mitchell also OUT.** Thunder go into the winner-take-all at home missing two key contributors. Wembanyama and the Spurs are now favored by any reasonable model.
 - [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](../sources/newsletter-2026-05-31.md) — **Spurs 111, Thunder 103 — WCF Game 7 final. Spurs win the series 4-3. VICTOR WEMBANYAMA IS GOING TO THE NBA FINALS.** At 22, he was visibly overcome with emotion at the buzzer. Chet Holmgren went cold down the stretch. San Antonio has not been to the Finals in over 20 years. The building in SA lost its mind.
 - [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — NBA Finals opponent confirmed: **New York Knicks**. Game 1: Knicks at Spurs, **Wednesday June 3, 8:30 PM EDT, ABC**. House of Highlights captured "Wemby letting Luke know he's PROUD" — the on-court moment with assistant coach Luke Loucks captured the emotional weight of the win.
+- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](../sources/newsletter-2026-06-02.md) — NBA Finals Game 1 confirmed for tomorrow (June 3), 8:30 PM EDT, ABC. **Prediction markets: Spurs at ~64% to win the championship** (Polymarket). NYC Mayor Mamdani signed an exec order "repealing bedtimes" for the duration of the Knicks run — the cultural weight of this matchup is fully formed.
 
 ## Related
 

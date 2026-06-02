@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-05-30
+updated: 2026-06-02
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 6
+source_count: 7
 ---
 
 # Carolina Hurricanes
@@ -26,6 +26,8 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **Stanley Cup Finals:** Carolina Hurricanes vs. Vegas Golden Knights. **Game 1: Tuesday, June 2, 8:00 PM ET on ABC.** The Golden Knights swept Colorado in the Western Conference and come in rested; Carolina comes in battle-tested but with more series miles. Both are elite defensive systems. Analytically, this series has seven-game potential.
 
+**Game 1** is tonight — Raleigh hosting on home ice. The Finals opener arrives less than 24 hours before NBA Finals Game 1 (Knicks at Spurs, June 3). Two championship series starting in back-to-back nights on ABC is the peak of the 2025-26 North American sports calendar.
+
 ## Sources
 
 - [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](sources/newsletter-2026-05-27-evening.md) — Hurricanes referenced in ECF context; Vegas Golden Knights sweeping Colorado in the Western Conference.
@@ -34,8 +36,10 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Game 5 in progress (Montréal at Carolina, TNT). No result reported in this edition. Hurricanes still leading ECF 3-1.
 - [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](sources/newsletter-2026-05-30.md) — **Carolina 6, Montréal 1 in Game 5** — Hurricanes win the ECF 4-1 and advance to the Stanley Cup Finals. A systematic, dominant close to a series that was never as close as 4-1 implies.
 - [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — **Stanley Cup Finals confirmed: Hurricanes vs. Vegas Golden Knights, Game 1 June 2, 8:00 PM ET, ABC**. Full ECF final scoring: Canes 22, Montréal 7 across five games.
+- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — **SCF Game 1 is tonight** (June 2, 8:00 PM EDT, ABC). Carolina hosts Vegas at home. The Finals opener arrives in Raleigh the night before NBA Finals Game 1 — consecutive championship openers on ABC, back to back.
 
 ## Related
 
 - [[Stanley Cup Playoffs 2026]] — they are in the Finals vs. Vegas
 - [[Vegas Golden Knights]] — the Western Conference representative; swept Colorado; Game 1 June 2 ABC
+- [[NBA Finals 2026]] — parallel championship series starting June 3; the two Finals overlap on the calendar for the first sporting back-to-back in recent memory

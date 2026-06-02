@@ -4,9 +4,9 @@ title: Mick Foley
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-02
+tags: [person, wrestling, aew]
+source_count: 2
 ---
 
 # Mick Foley
@@ -32,10 +32,16 @@ source_count: 1
 - Wrote best-selling autobiography *Have A Nice Day* — among the most entertaining wrestling books ever written
 - His Santa Claus Commissioner character and Commissioner segments are peak comedy wrestling
 
+## AEW (2026)
+
+On **June 2, 2026**, Foley spoke publicly about joining All Elite Wrestling. His quote: *"Something Unique About Seeing the Owner So Obviously Happy."* The reference to Tony Khan signals that Foley sees AEW's culture — an owner visibly invested in the product — as the draw. Foley's endorsement carries significant weight: he is not a contracted performer but a respected elder whose credibility rubs off on whatever promotion he chooses to associate with.
+
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/mick-foley.md)
+- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Foley on joining AEW: "Something Unique About Seeing the Owner So Obviously Happy" (Tony Khan reference). A credibility signal for AEW from one of wrestling’s most beloved legends.
 
 ## Related
 
-
+- [[Tony Khan]] — AEW owner; the "obviously happy" owner Foley references
+- [[AEW]] — the promotion he joined
