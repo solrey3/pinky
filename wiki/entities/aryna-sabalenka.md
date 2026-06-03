@@ -4,9 +4,9 @@ title: Aryna Sabalenka
 type: entity
 entity_type: person
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-03
 tags: [tennis, wta, belarus, grand-slam, roland-garros, person, sports]
-source_count: 2
+source_count: 3
 ---
 
 # Aryna Sabalenka
@@ -28,12 +28,13 @@ At the **2026 Roland Garros**, with Swiatek (the three-time defending champion) 
 | Round | Opponent | Score |
 |-------|----------|-------|
 | R4 | Naomi Osaka (16) | **7-5, 6-3 W** |
-| QF | *(advancing to semis — opponent TBD)* | — |
+| QF | *(TBD — advanced to SF)* | — |
 
 ## Sources
 
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Sabalenka defeats Osaka (16) 7-5, 6-3 in Roland Garros R4. With Swiatek eliminated, Sabalenka is now the clear women's favorite at the tournament.
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — R4/QF result confirmed in evening roundup. Sabalenka advancing to semifinals alongside Mirra Andreeva, Diana Shnaider, and Marta Kostyuk. The Russian contingent (Sabalenka BLR, Andreeva RUS, Shnaider RUS) dominates the women's draw entering the semis.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — QF win confirmed; SF field set. Women's SF four: Sabalenka, Kostyuk, Shnaider, Andreeva — with Chwalinska/Kalinskaya winner TBD. The Roland Garros women's draw is fully post-Swiatek, post-Gauff.
 
 ## Related
 

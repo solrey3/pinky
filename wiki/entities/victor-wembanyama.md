@@ -4,9 +4,9 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-06-02
+updated: 2026-06-03
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 11
+source_count: 12
 ---
 
 # Victor Wembanyama
@@ -26,6 +26,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — NBA Finals opponent confirmed: **New York Knicks**. Game 1: Knicks at Spurs, **Wednesday June 3, 8:30 PM EDT, ABC**. House of Highlights captured "Wemby letting Luke know he's PROUD" — the on-court moment with assistant coach Luke Loucks captured the emotional weight of the win.
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](../sources/newsletter-2026-06-02.md) — NBA Finals Game 1 confirmed for tomorrow (June 3), 8:30 PM EDT, ABC. **Prediction markets: Spurs at ~64% to win the championship** (Polymarket). NYC Mayor Mamdani signed an exec order "repealing bedtimes" for the duration of the Knicks run — the cultural weight of this matchup is fully formed.
 - [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletter-2026-06-02-evening.md) — Eve of NBA Finals Game 1. Polymarket Spurs still at **~64%**. The KnickerBlogger ran a statistical preview. Prediction market betters are calling the Knicks underpriced. Game 1 tips tomorrow — Knicks at Spurs, ABC, 8:30 PM EDT.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletter-2026-06-03.md) — **NBA Finals Game 1 is TONIGHT** — Knicks at Spurs, 8:30 PM EDT, ABC. Prediction markets have the Spurs at **~65%** (Polymarket). KnickerBlogger statistical preview published. The sports world is watching: Wembanyama vs. Brunson, the matchup the league wanted.
 
 ## Related
 

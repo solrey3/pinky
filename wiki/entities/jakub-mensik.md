@@ -4,9 +4,9 @@ title: Jakub Menšík
 type: entity
 entity_type: person
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-03
 tags: [tennis, atp, czech-republic, roland-garros, next-gen, person, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Jakub Menšík
@@ -26,11 +26,12 @@ Menšík has the physical profile for hard surfaces and clay alike — solid ser
 
 | Round | Result |
 |-------|--------|
-| QF | def. Joao Fonseca (28) — Advanced to Semifinals |
+| QF | def. Joao Fonseca (28) **6-4, 6-3, 7-6** — Advanced to Semifinals |
 
 ## Sources
 
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Menšík defeats Joao Fonseca in the Roland Garros quarterfinals, advancing to the semifinals. Ends Fonseca's run that began with the Djokovic upset.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — QF score confirmed: def. Fonseca **6-4, 6-3, 7-6**. Menšík now in the Roland Garros SF alongside Zverev, Auger-Aliassime, and Berrettini.
 
 ## Related
 

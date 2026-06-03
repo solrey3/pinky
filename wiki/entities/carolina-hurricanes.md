@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-02
+updated: 2026-06-03
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 8
+source_count: 9
 ---
 
 # Carolina Hurricanes
@@ -28,7 +28,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **Game 1** is tonight — Raleigh hosting on home ice. The Finals opener arrives less than 24 hours before NBA Finals Game 1 (Knicks at Spurs, June 3). Two championship series starting in back-to-back nights on ABC is the peak of the 2025-26 North American sports calendar.
 
-**SCF Game 1 is underway** — VGK at Carolina, June 2, 8:00 PM EDT, ABC.
+**SCF Game 1 result:** VGK 5, Carolina 4 — Vegas wins on the road. The Golden Knights steal home-ice advantage in Raleigh. Carolina leads nothing: series is 1-0 VGK. The Hurricanes now must win Game 2 at home to keep the series even. The 5-4 scoreline was not a defensive shutdown — both teams traded offense; VGK just had the last word. Game 2 in Raleigh.
 
 ## Sources
 
@@ -40,9 +40,11 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — **Stanley Cup Finals confirmed: Hurricanes vs. Vegas Golden Knights, Game 1 June 2, 8:00 PM ET, ABC**. Full ECF final scoring: Canes 22, Montréal 7 across five games.
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — **SCF Game 1 is tonight** (June 2, 8:00 PM EDT, ABC). Carolina hosts Vegas at home. The Finals opener arrives in Raleigh the night before NBA Finals Game 1 — consecutive championship openers on ABC, back to back.
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — **Stanley Cup Finals Game 1 is live tonight** — VGK at Carolina, 8:00 PM EDT, ABC. No result at dispatch time. The Finals have officially begun.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — **VGK 5, CAR 4 — Game 1 final.** Vegas steals home ice on the road; leads the series 1-0. Carolina must respond in Game 2 on home ice.
 
 ## Related
 
 - [[Stanley Cup Playoffs 2026]] — they are in the Finals vs. Vegas
 - [[Vegas Golden Knights]] — the Western Conference representative; swept Colorado; Game 1 June 2 ABC
-- [[NBA Finals 2026]] — parallel championship series starting June 3; the two Finals overlap on the calendar for the first sporting back-to-back in recent memory
+- [[Vegas Golden Knights]] — the Western Conference representative; stole Game 1 in Raleigh
+- [[NBA Finals 2026]] — parallel championship series also underway; Knicks at Spurs Game 1 tonight

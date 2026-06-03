@@ -4,9 +4,9 @@ title: Mick Foley
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-02
+updated: 2026-06-03
 tags: [person, wrestling, aew]
-source_count: 3
+source_count: 4
 ---
 
 # Mick Foley
@@ -38,11 +38,14 @@ On **June 2, 2026**, Foley spoke publicly about joining All Elite Wrestling. His
 
 In the **June 2 evening**, Foley elaborated further: **"I think I have one last good match in me. All the stars would have to align."** The context makes clear AEW is the intended venue. He also confirmed his **departure from WWE was directly tied to the Trump political connection** — the clearest statement from any major wrestling figure about the toll of WWE's political alignment on talent loyalty. Combined with the "one last match" quote, Foley is telegraphing both a landing spot and a motivation.
 
+As of **June 3, 2026**, the storyline continued: **MJF (Maxwell Jacob Friedman) replied with praise on Twitter** following Foley's latest comments. MJF is a self-described Foley protégé and one of the biggest stars in AEW — his public endorsement of Foley is both a kayfabe tease and a genuine acknowledgment that Foley carries real credibility. **AEW Grand Slam Mexico** (August 5, Arena México) is the most logical candidate event for any Foley appearance given the timeline.
+
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/mick-foley.md)
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Foley on joining AEW: "Something Unique About Seeing the Owner So Obviously Happy" (Tony Khan reference). A credibility signal for AEW from one of wrestling's most beloved legends.
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Foley: "I think I have one last good match in me. All the stars would have to align." Confirms WWE departure was driven by Trump political connection. AEW Grand Slam Mexico (Aug 5, Arena México) is the obvious candidate event for any Foley appearance.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — Foley still distancing from WWE over Trump ties; teasing one last match. **MJF replied with praise on Twitter** — a public endorsement from AEW's biggest homegrown star.
 
 ## Related
 

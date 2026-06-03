@@ -145,6 +145,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-06-01](sources/newsletter-2026-06-01.md) | Newsletter 2026-06-01 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, wwe, clash-in-italy, sol-ruca, becky-lynch, roman-reigns, jacob-fatu, cody-rhodes, gunther, brock-lesnar, roland-garros, swiatek, kostyuk, fonseca, zverev, mensik, markets, amd, oil, iran, ups, spurs, knicks, nba-finals, carolina-hurricanes, golden-knights, pga, russell-henley, lpga, boutier, mets, pence, newark, delaney-hall, fcc, chatgpt, cloudflare, botnet, meta, bonsai-4b, meltzer, world-cup, king-of-the-ring] | 2026-06-01 |
 | [newsletter-2026-06-02](sources/newsletter-2026-06-02.md) | Newsletter 2026-06-02 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, golden-knights, roland-garros, sabalenka, osaka, obj, odell-beckham-jr, giants, mets, markets, amd, tsm, nvda, nasdaq, semiconductors, bitcoin, oil, iran, lebanon, trump, netanyahu, florida-lawsuit, openai, github-copilot, surface-laptop, aws, mick-foley, aew, wwe-raw, finn-balor, roman-reigns, njpw, aaa, steph-curry, li-ning, world-cup, polymarket] | 2026-06-02 |
 | [newsletter-2026-06-02-evening](sources/newsletter-2026-06-02-evening.md) | Evening Brief — Tuesday, June 2, 2026 | newsletter | [newsletter, evening-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, roland-garros, mensik, fonseca, sabalenka, andreeva, bitcoin, oil, iran, wti, semiconductors, microsoft, mai-code-1, mai-thinking-1, ai-executive-order, ndaa, new-jersey-primary, wrestling, mick-foley, jon-moxley, sol-ruca, aew, wwe, cmll, polymarket] | 2026-06-02 |
+| [newsletter-2026-06-03](sources/newsletter-2026-06-03.md) | Newsletter 2026-06-03 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, vgk, golden-knights, carolina-hurricanes, roland-garros, sabalenka, kostyuk, mensik, zverev, fau-aliassime, berrettini, oil, iran, bitcoin, tsm, amd, nvda, nflx, nj-primaries, murphy, booker, hamawy, scotus, usmca, microsoft, build-2026, mai-code, vscode, stanford-law, ai, openai, mick-foley, mjf, tony-dangelo, nxt, aew-grand-slam-mexico, wwe-lawsuit, chess, pragg, magnus-carlsen, mets, world-cup] | 2026-06-03 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -217,7 +218,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Tim Duncan](entities/tim-duncan.md) | person | person, basketball, nba | 1 |
 | [Tony Parker](entities/tony-parker.md) | person | person, basketball, nba | 1 |
 | [Tracy McGrady](entities/tracy-mcgrady.md) | person | person, basketball, nba | 1 |
-| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 11 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 12 |
 | [Vince Carter](entities/vince-carter.md) | person | person, basketball, nba | 1 |
 | [Walt Frazier](entities/walt-frazier.md) | person | person, basketball, nba | 1 |
 | [Willis Reed](entities/willis-reed.md) | person | person, basketball, nba | 1 |
@@ -496,17 +497,17 @@ Content catalog — curated by type and category. Updated on every ingest.
 | --- | --- | --- | --- |
 | [Bill James](entities/bill-james.md) | person | baseball, statistics, sabermetrics, author, analytics | 1 |
 | [Billy Beane](entities/billy-beane.md) | person | baseball, executive, analytics, oakland-athletics, sports | 1 |
-| [Magnus Carlsen](entities/magnus-carlsen.md) | person | chess, norway, grandmaster, world-champion, sports, elo | 1 |
+| [Magnus Carlsen](entities/magnus-carlsen.md) | person | chess, norway, grandmaster, world-champion, sports, elo | 3 |
 | [Nate Silver](entities/nate-silver.md) | person | statistician, forecaster, poker, author, data-science | 2 |
 
 ### Tennis Players
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 2 |
+| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 3 |
 | [Iga Swiatek](entities/iga-swiatek.md) | person | tennis, roland-garros, poland, grand-slam, wta, sports | 1 |
-| [Jakub Menšík](entities/jakub-mensik.md) | person | tennis, atp, czech-republic, roland-garros, next-gen, sports | 1 |
+| [Jakub Menšík](entities/jakub-mensik.md) | person | tennis, atp, czech-republic, roland-garros, next-gen, sports | 2 |
 | [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 3 |
-| [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 1 |
+| [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 2 |
 | [Naomi Osaka](entities/naomi-osaka.md) | person | tennis, wta, japan, grand-slam, roland-garros, sports | 1 |
 | [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 2 |
 
@@ -521,8 +522,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo | 4 |
 | [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london | 5 |
 | [Blue Origin](entities/blue-origin.md) | organization | space, launch, rocket, blue-origin, new-glenn, jeff-bezos | 3 |
-| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 8 |
-| [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model | 1 |
+| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 9 |
+| [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, build-2026 | 2 |
+| [Vegas Golden Knights](entities/vegas-golden-knights.md) | organization | nhl, hockey, vegas, golden-knights, stanley-cup | 1 |
 
 ### Films
 | Entity | Type | Tags | Sources |
