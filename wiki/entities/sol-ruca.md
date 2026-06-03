@@ -4,9 +4,9 @@ title: Sol Ruca
 type: entity
 entity_type: person
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-02
 tags: [person, wrestling, wwe, women, ic-champion]
-source_count: 1
+source_count: 2
 ---
 
 # Sol Ruca
@@ -27,6 +27,7 @@ WWE NXT and main roster talent known for a background in gymnastics and skateboa
 ## Sources
 
 - [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](sources/newsletter-2026-06-01.md) — Sol Ruca defeats Becky Lynch to win Women's Intercontinental Championship at Clash in Italy, Turin. New champion confirmed.
+- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Sol Ruca's family publicly reacted to her title win on social media — a moment that circulated widely on r/squaredcircle. The family's visible pride at the win underscores the storyline's emotional resonance beyond the arena.
 
 ## Related
 

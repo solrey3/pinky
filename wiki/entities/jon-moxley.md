@@ -4,9 +4,9 @@ title: Jon Moxley
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-06-02
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Jon Moxley
@@ -35,7 +35,10 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/jon-moxley.md)
+- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Tony Khan: *"Jon Moxley has been doing a great job backstage and has been at everything."* Khan's public praise signals Moxley is functioning as a locker-room leader and institutional anchor for AEW, not just a title-holder.
 
 ## Related
 
-
+- [[Tony Khan]] — AEW owner who specifically praised his backstage contributions
+- [[Mick Foley]] — another elder statesman connecting with AEW's culture the same evening
+- [[AEW]] — the promotion

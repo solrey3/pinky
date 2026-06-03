@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-02
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 7
+source_count: 8
 ---
 
 # Carolina Hurricanes
@@ -28,6 +28,8 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **Game 1** is tonight — Raleigh hosting on home ice. The Finals opener arrives less than 24 hours before NBA Finals Game 1 (Knicks at Spurs, June 3). Two championship series starting in back-to-back nights on ABC is the peak of the 2025-26 North American sports calendar.
 
+**SCF Game 1 is underway** — VGK at Carolina, June 2, 8:00 PM EDT, ABC.
+
 ## Sources
 
 - [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](sources/newsletter-2026-05-27-evening.md) — Hurricanes referenced in ECF context; Vegas Golden Knights sweeping Colorado in the Western Conference.
@@ -37,6 +39,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](sources/newsletter-2026-05-30.md) — **Carolina 6, Montréal 1 in Game 5** — Hurricanes win the ECF 4-1 and advance to the Stanley Cup Finals. A systematic, dominant close to a series that was never as close as 4-1 implies.
 - [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — **Stanley Cup Finals confirmed: Hurricanes vs. Vegas Golden Knights, Game 1 June 2, 8:00 PM ET, ABC**. Full ECF final scoring: Canes 22, Montréal 7 across five games.
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — **SCF Game 1 is tonight** (June 2, 8:00 PM EDT, ABC). Carolina hosts Vegas at home. The Finals opener arrives in Raleigh the night before NBA Finals Game 1 — consecutive championship openers on ABC, back to back.
+- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — **Stanley Cup Finals Game 1 is live tonight** — VGK at Carolina, 8:00 PM EDT, ABC. No result at dispatch time. The Finals have officially begun.
 
 ## Related
 

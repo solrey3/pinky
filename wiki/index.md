@@ -144,6 +144,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-06-01-evening](sources/newsletter-2026-06-01-evening.md) | Evening Brief — Monday, June 1, 2026 | newsletter | [newsletter, evening-dispatch, anthropic, ipo, openai, florida-lawsuit, alphabet, semiconductors, nasdaq, wwe-raw, seth-rollins, jacob-fatu, roman-reigns, roland-garros, markets, oil, iran, bitcoin, ups, mets, serena-williams, myles-garrett] | 2026-06-01 |
 | [newsletter-2026-06-01](sources/newsletter-2026-06-01.md) | Newsletter 2026-06-01 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, wwe, clash-in-italy, sol-ruca, becky-lynch, roman-reigns, jacob-fatu, cody-rhodes, gunther, brock-lesnar, roland-garros, swiatek, kostyuk, fonseca, zverev, mensik, markets, amd, oil, iran, ups, spurs, knicks, nba-finals, carolina-hurricanes, golden-knights, pga, russell-henley, lpga, boutier, mets, pence, newark, delaney-hall, fcc, chatgpt, cloudflare, botnet, meta, bonsai-4b, meltzer, world-cup, king-of-the-ring] | 2026-06-01 |
 | [newsletter-2026-06-02](sources/newsletter-2026-06-02.md) | Newsletter 2026-06-02 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, golden-knights, roland-garros, sabalenka, osaka, obj, odell-beckham-jr, giants, mets, markets, amd, tsm, nvda, nasdaq, semiconductors, bitcoin, oil, iran, lebanon, trump, netanyahu, florida-lawsuit, openai, github-copilot, surface-laptop, aws, mick-foley, aew, wwe-raw, finn-balor, roman-reigns, njpw, aaa, steph-curry, li-ning, world-cup, polymarket] | 2026-06-02 |
+| [newsletter-2026-06-02-evening](sources/newsletter-2026-06-02-evening.md) | Evening Brief — Tuesday, June 2, 2026 | newsletter | [newsletter, evening-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, roland-garros, mensik, fonseca, sabalenka, andreeva, bitcoin, oil, iran, wti, semiconductors, microsoft, mai-code-1, mai-thinking-1, ai-executive-order, ndaa, new-jersey-primary, wrestling, mick-foley, jon-moxley, sol-ruca, aew, wwe, cmll, polymarket] | 2026-06-02 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -216,7 +217,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Tim Duncan](entities/tim-duncan.md) | person | person, basketball, nba | 1 |
 | [Tony Parker](entities/tony-parker.md) | person | person, basketball, nba | 1 |
 | [Tracy McGrady](entities/tracy-mcgrady.md) | person | person, basketball, nba | 1 |
-| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 10 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 11 |
 | [Vince Carter](entities/vince-carter.md) | person | person, basketball, nba | 1 |
 | [Walt Frazier](entities/walt-frazier.md) | person | person, basketball, nba | 1 |
 | [Willis Reed](entities/willis-reed.md) | person | person, basketball, nba | 1 |
@@ -264,7 +265,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Jimmy Snuka](entities/jimmy-snuka.md) | person | person, wrestling | 1 |
 | [John Cena](entities/john-cena.md) | person | person, wrestling | 1 |
 | [Johnny Gargano](entities/johnny-gargano.md) | person | person, wrestling | 1 |
-| [Jon Moxley](entities/jon-moxley.md) | person | person, wrestling | 1 |
+| [Jon Moxley](entities/jon-moxley.md) | person | person, wrestling | 2 |
 | [Kazuchika Okada](entities/kazuchika-okada.md) | person | person, wrestling | 1 |
 | [Keith Lee](entities/keith-lee.md) | person | person, wrestling | 1 |
 | [Kenny Omega](entities/kenny-omega.md) | person | person, wrestling | 1 |
@@ -276,7 +277,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Kurt Angle](entities/kurt-angle.md) | person | person, wrestling | 1 |
 | [Kyle Fletcher](entities/kyle-fletcher.md) | person | person, wrestling | 2 |
 | [Macho Man Randy Savage](entities/macho-man-randy-savage.md) | person | person, wrestling | 1 |
-| [Mick Foley](entities/mick-foley.md) | person | person, wrestling, aew | 2 |
+| [Mick Foley](entities/mick-foley.md) | person | person, wrestling, aew | 3 |
 | [Miro (Rusev)](entities/rusev.md) | person | person, wrestling | 1 |
 | [MJF](entities/mjf.md) | person | person, wrestling | 2 |
 | [NJPW](entities/njpw.md) | organization | wrestling, njpw, japan, strong-style, puroresu | 1 |
@@ -296,6 +297,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Samoa Joe](entities/samoa-joe.md) | person | person, wrestling | 1 |
 | [Scott Hall](entities/scott-hall.md) | person | person, wrestling | 1 |
 | [Seth Rollins](entities/seth-rollins.md) | person | person, wrestling | 2 |
+| [Sol Ruca](entities/sol-ruca.md) | person | person, wrestling, wwe, women, ic-champion | 2 |
 | [Shawn Michaels](entities/shawn-michaels.md) | person | person, wrestling | 1 |
 | [Sheamus](entities/sheamus.md) | person | person, wrestling | 1 |
 | [Shinsuke Nakamura](entities/shinsuke-nakamura.md) | person | person, wrestling | 1 |
@@ -500,9 +502,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Tennis Players
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 1 |
+| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 2 |
 | [Iga Swiatek](entities/iga-swiatek.md) | person | tennis, roland-garros, poland, grand-slam, wta, sports | 1 |
-| [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 2 |
+| [Jakub Menšík](entities/jakub-mensik.md) | person | tennis, atp, czech-republic, roland-garros, next-gen, sports | 1 |
+| [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 3 |
 | [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 1 |
 | [Naomi Osaka](entities/naomi-osaka.md) | person | tennis, wta, japan, grand-slam, roland-garros, sports | 1 |
 | [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 2 |
@@ -518,7 +521,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo | 4 |
 | [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london | 5 |
 | [Blue Origin](entities/blue-origin.md) | organization | space, launch, rocket, blue-origin, new-glenn, jeff-bezos | 3 |
-| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 7 |
+| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 8 |
+| [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model | 1 |
 
 ### Films
 | Entity | Type | Tags | Sources |
