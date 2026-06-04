@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-03
+updated: 2026-06-04
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 10
+source_count: 11
 ---
 
 # Carolina Hurricanes
@@ -44,10 +44,10 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — **Stanley Cup Finals Game 1 is live tonight** — VGK at Carolina, 8:00 PM EDT, ABC. No result at dispatch time. The Finals have officially begun.
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — **VGK 5, CAR 4 — Game 1 final.** Vegas steals home ice on the road; leads the series 1-0. Carolina must respond in Game 2 on home ice.
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — SCF Game 1 result confirmed. **Game 2 Thursday June 4, 8:00 PM EDT, ABC** in Raleigh. Series 1-0 VGK; Carolina facing elimination if they lose a second consecutive home game.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — **Game 2 is TONIGHT** (June 4, 8:00 PM ET, ABC) at Carolina. Series 1-0 VGK. Carolina must win to avoid an 0-2 deficit on home ice.
 
 ## Related
 
 - [[Stanley Cup Playoffs 2026]] — they are in the Finals vs. Vegas
-- [[Vegas Golden Knights]] — the Western Conference representative; swept Colorado; Game 1 June 2 ABC
-- [[Vegas Golden Knights]] — the Western Conference representative; stole Game 1 in Raleigh
-- [[NBA Finals 2026]] — parallel championship series also underway; Knicks at Spurs Game 1 tonight
+- [[Vegas Golden Knights]] — Western Conference representative; leads SCF 1-0 after stealing Game 1 in Raleigh
+- [[NBA Finals 2026]] — parallel championship series also underway; Knicks lead Spurs 1-0

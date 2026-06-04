@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-06-04
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Will Ospreay
@@ -35,7 +35,12 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/will-ospreay.md)
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **Owen Hart Men's Tournament Semi-Final (June 3 Dynamite):** Ospreay defeats Mark Davis in a chaotic semi-final. Advances to the **Owen Hart Men's Final** and earns a spot at **AEW Forbidden Door**. The Summer Blockbuster season is Ospreay's showcase moment heading into the summer PPV calendar.
 
 ## Related
 
-
+- [[MJF]] — current AEW World Champion; on the same Dynamite card (retained vs. RUSH)
+- [[Mercedes Moné]] — returned to AEW on the same card via Women's Owen Hart Wild Card
+- [[Konosuke Takeshita]] — prior AEW rivals; the Ospreay/Takeshita feud produced 5★ rated matches
+- [[Kenny Omega]] — rival and partner; their matches define AEW's upper card history
+- [[Kazuchika Okada]] — NJPW crossover opponent; their WrestleKingdom match is among the best of 2020

@@ -4,14 +4,16 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-06-03
+updated: 2026-06-04
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 12
+source_count: 13
 ---
 
 # Victor Wembanyama
 
 French NBA center for the San Antonio Spurs, widely regarded as a generational talent — an unprecedented combination of size (7'4"), wingspan, shooting range, shot-blocking, and ball-handling. The 2023 #1 overall draft pick. In the 2026 NBA Playoffs, he announced himself on the national stage by forcing double overtime against the Oklahoma City Thunder in Game 1 with a half-court buzzer beater, then led the Spurs back from a 2-3 deficit to win the Western Conference Finals 4-3. **Victor Wembanyama is going to the NBA Finals.** At 22, he is the youngest Spurs player to reach the Finals since a certain Frenchman named Tony Parker. He was visibly overcome with emotion at the final buzzer of Game 7 (Spurs 111, OKC 103).
+
+**NBA Finals Game 1 (June 3, 2026):** The Knicks walked into San Antonio and stole Game 1, **105–95**. Wembanyama shot just **28%** — a nightmare debut on the Finals stage — while Karl-Anthony Towns dominated him at the other end all night. A fan even stormed the court mid-game. KnickerBlogger's official call afterward: *"Knicks in Six."* Polymarket corrected sharply: Spurs dropped from ~65% pre-game to ~47% series favorites overnight. The Knicks hold a 1-0 series lead.
 
 ## Sources
 
@@ -27,6 +29,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](../sources/newsletter-2026-06-02.md) — NBA Finals Game 1 confirmed for tomorrow (June 3), 8:30 PM EDT, ABC. **Prediction markets: Spurs at ~64% to win the championship** (Polymarket). NYC Mayor Mamdani signed an exec order "repealing bedtimes" for the duration of the Knicks run — the cultural weight of this matchup is fully formed.
 - [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletter-2026-06-02-evening.md) — Eve of NBA Finals Game 1. Polymarket Spurs still at **~64%**. The KnickerBlogger ran a statistical preview. Prediction market betters are calling the Knicks underpriced. Game 1 tips tomorrow — Knicks at Spurs, ABC, 8:30 PM EDT.
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletter-2026-06-03.md) — **NBA Finals Game 1 is TONIGHT** — Knicks at Spurs, 8:30 PM EDT, ABC. Prediction markets have the Spurs at **~65%** (Polymarket). KnickerBlogger statistical preview published. The sports world is watching: Wembanyama vs. Brunson, the matchup the league wanted.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **NBA Finals Game 1 RESULT: Knicks 105, Spurs 95.** Wembanyama shot **28%** — nightmare debut. KAT dominated him all night. Fan stormed the court. KnickerBlogger: *"Knicks in Six."* Polymarket Spurs odds: ~65% → ~47%. Knicks lead series 1-0.
 
 ## Related
 

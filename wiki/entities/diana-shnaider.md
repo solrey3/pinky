@@ -4,9 +4,9 @@ title: Diana Shnaider
 type: entity
 entity_type: person
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 tags: [tennis, wta, russia, roland-garros, next-gen, grand-slam, person, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Diana Shnaider
@@ -37,6 +37,7 @@ The 2026 Roland Garros women's draw has now eliminated all three of its pre-tour
 ## Sources
 
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — **SHOCK OF THE TOURNAMENT**: def. (1) Aryna Sabalenka 3-6, 7-5, 6-0 in the Roland Garros QF. Advances to the women's SF.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Morning confirmation of QF win and SF position. All three pre-tournament favorites (Swiatek, Gauff, Sabalenka) now eliminated; the women's draw has never been more open. Shnaider enters the SF as one of the genuine contenders for the Coupe Suzanne-Lenglen.
 
 ## Related
 

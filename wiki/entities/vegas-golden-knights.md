@@ -4,9 +4,9 @@ title: Vegas Golden Knights
 type: entity
 entity_type: organization
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-04
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 2
+source_count: 3
 ---
 
 # Vegas Golden Knights
@@ -19,7 +19,7 @@ NHL franchise based in Las Vegas, NV. The league's most successful expansion tea
 |-------|----------|--------|
 | WCF | Colorado Avalanche | **Swept 4-0 — Stanley Cup Finals** |
 | SCF Game 1 | @ Carolina Hurricanes | **VGK 5, CAR 4 — W** |
-| SCF Game 2 | @ Carolina Hurricanes | Thursday, June 4 — 8:00 PM EDT — ABC |
+| SCF Game 2 | @ Carolina Hurricanes | **Tonight — June 4, 8:00 PM EDT — ABC** |
 
 **WCF:** Swept the defending-capable Avalanche in four games. The sweep meant VGK entered the Finals rested — Carolina was battle-tested across a 5-game ECF against Montréal, but VGK had the legs.
 
@@ -33,6 +33,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — VGK 5, CAR 4 in SCF Game 1. Golden Knights steal home ice on the road in Raleigh; lead series 1-0.
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — SCF Game 1 result fully confirmed. **Game 2 is Thursday June 4, 8:00 PM EDT, ABC** in Raleigh. VGK leads 1-0; can go up 2-0 with another road win.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — **Game 2 is TONIGHT** (June 4, 8:00 PM ET, ABC) at Carolina. VGK enters the game up 1-0; a second road win would put Carolina in an 0-2 hole from which Stanley Cup finalists rarely recover.
 
 ## Related
 

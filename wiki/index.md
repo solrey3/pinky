@@ -147,6 +147,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-06-02-evening](sources/newsletter-2026-06-02-evening.md) | Evening Brief — Tuesday, June 2, 2026 | newsletter | [newsletter, evening-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, roland-garros, mensik, fonseca, sabalenka, andreeva, bitcoin, oil, iran, wti, semiconductors, microsoft, mai-code-1, mai-thinking-1, ai-executive-order, ndaa, new-jersey-primary, wrestling, mick-foley, jon-moxley, sol-ruca, aew, wwe, cmll, polymarket] | 2026-06-02 |
 | [newsletter-2026-06-03](sources/newsletter-2026-06-03.md) | Newsletter 2026-06-03 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, vgk, golden-knights, carolina-hurricanes, roland-garros, sabalenka, kostyuk, mensik, zverev, fau-aliassime, berrettini, oil, iran, bitcoin, tsm, amd, nvda, nflx, nj-primaries, murphy, booker, hamawy, scotus, usmca, microsoft, build-2026, mai-code, vscode, stanford-law, ai, openai, mick-foley, mjf, tony-dangelo, nxt, aew-grand-slam-mexico, wwe-lawsuit, chess, pragg, magnus-carlsen, mets, world-cup] | 2026-06-03 |
 | [newsletter-2026-06-03-evening](sources/newsletter-2026-06-03-evening.md) | Evening Brief — Wednesday, June 3, 2026 | newsletter | [newsletter, evening-dispatch, nba-finals, spurs, knicks, stanley-cup, vgk, carolina-hurricanes, roland-garros, sabalenka, shnaider, kostyuk, cobolli, faa, arnaldi, berrettini, mensik, oil, iran, kuwait, bitcoin, amd, tsm, amzn, nflx, semiconductors, markets, war-powers-act, iran-war, nj-primary, gemma4, elixir, dashlane-breach, macbook-neo, wwe, aew, mjf, rush, cm-punk, njpw-bosj, mets, dodgers, world-cup] | 2026-06-03 |
+| [newsletter-2026-06-04](sources/newsletter-2026-06-04.md) | Newsletter 2026-06-04 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nba-finals, knicks, spurs, wembanyama, kat, roland-garros, shnaider, sabalenka, kostyuk, andreeva, mensik, cobolli, arnaldi, zverev, bitcoin, amd, amzn, nflx, vnq, treasury, mjf, will-ospreay, mercedes-mone, aew, vgk, carolina-hurricanes, todd-blanche, trump, russell-wilson, nasa-maven, elixir, gemma4, lets-encrypt, social-security, scott-pelley, polymarket] | 2026-06-04 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -219,7 +220,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Tim Duncan](entities/tim-duncan.md) | person | person, basketball, nba | 1 |
 | [Tony Parker](entities/tony-parker.md) | person | person, basketball, nba | 1 |
 | [Tracy McGrady](entities/tracy-mcgrady.md) | person | person, basketball, nba | 1 |
-| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 12 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 13 |
 | [Vince Carter](entities/vince-carter.md) | person | person, basketball, nba | 1 |
 | [Walt Frazier](entities/walt-frazier.md) | person | person, basketball, nba | 1 |
 | [Willis Reed](entities/willis-reed.md) | person | person, basketball, nba | 1 |
@@ -281,7 +282,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Macho Man Randy Savage](entities/macho-man-randy-savage.md) | person | person, wrestling | 1 |
 | [Mick Foley](entities/mick-foley.md) | person | person, wrestling, aew | 3 |
 | [Miro (Rusev)](entities/rusev.md) | person | person, wrestling | 1 |
-| [MJF](entities/mjf.md) | person | person, wrestling | 5 |
+| [Mercedes Moné](entities/mercedes-mone.md) | person | person, wrestling, aew, wwe | 1 |
+| [MJF](entities/mjf.md) | person | person, wrestling | 6 |
 | [NJPW](entities/njpw.md) | organization | wrestling, njpw, japan, strong-style, puroresu | 1 |
 | [Owen Hart](entities/owen-hart.md) | person | person, wrestling | 1 |
 | [PAC](entities/pac.md) | person | person, wrestling | 1 |
@@ -310,7 +312,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Triple H](entities/triple-h.md) | person | person, wrestling | 1 |
 | [Ultimate Warrior](entities/ultimate-warrior.md) | person | person, wrestling | 1 |
 | [The Undertaker](entities/the-undertaker.md) | person | person, wrestling | 1 |
-| [Will Ospreay](entities/will-ospreay.md) | person | person, wrestling | 1 |
+| [Will Ospreay](entities/will-ospreay.md) | person | person, wrestling | 2 |
 
 ### Musicians & Bands
 | Entity | Type | Tags | Sources |
@@ -504,12 +506,12 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Tennis Players
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 4 |
-| [Diana Shnaider](entities/diana-shnaider.md) | person | tennis, wta, russia, roland-garros, next-gen, sports | 1 |
+| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 5 |
+| [Diana Shnaider](entities/diana-shnaider.md) | person | tennis, wta, russia, roland-garros, next-gen, sports | 2 |
 | [Iga Swiatek](entities/iga-swiatek.md) | person | tennis, roland-garros, poland, grand-slam, wta, sports | 1 |
-| [Jakub Menšík](entities/jakub-mensik.md) | person | tennis, atp, czech-republic, roland-garros, next-gen, sports | 3 |
+| [Jakub Menšík](entities/jakub-mensik.md) | person | tennis, atp, czech-republic, roland-garros, next-gen, sports | 4 |
 | [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 3 |
-| [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 3 |
+| [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 4 |
 | [Naomi Osaka](entities/naomi-osaka.md) | person | tennis, wta, japan, grand-slam, roland-garros, sports | 1 |
 | [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 2 |
 
@@ -517,6 +519,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
 | [Odell Beckham Jr.](entities/odell-beckham-jr.md) | person | nfl, football, wide-receiver, ny-giants, sports | 1 |
+| [Russell Wilson](entities/russell-wilson.md) | person | nfl, football, quarterback, seattle-seahawks, retirement | 1 |
 
 ### Sports Organizations, Clubs & Other
 | Entity | Type | Tags | Sources |
