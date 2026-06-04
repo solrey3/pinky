@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-02
 updated: 2026-06-03
 tags: [tennis, wta, belarus, grand-slam, roland-garros, person, sports]
-source_count: 3
+source_count: 4
 ---
 
 # Aryna Sabalenka
@@ -28,13 +28,14 @@ At the **2026 Roland Garros**, with Swiatek (the three-time defending champion) 
 | Round | Opponent | Score |
 |-------|----------|-------|
 | R4 | Naomi Osaka (16) | **7-5, 6-3 W** |
-| QF | *(TBD — advanced to SF)* | — |
+| QF | **(25) Diana Shnaider** | **3-6, 7-5, 6-0 L — ELIMINATED** |
 
 ## Sources
 
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Sabalenka defeats Osaka (16) 7-5, 6-3 in Roland Garros R4. With Swiatek eliminated, Sabalenka is now the clear women's favorite at the tournament.
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — R4/QF result confirmed in evening roundup. Sabalenka advancing to semifinals alongside Mirra Andreeva, Diana Shnaider, and Marta Kostyuk. The Russian contingent (Sabalenka BLR, Andreeva RUS, Shnaider RUS) dominates the women's draw entering the semis.
-- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — QF win confirmed; SF field set. Women's SF four: Sabalenka, Kostyuk, Shnaider, Andreeva — with Chwalinska/Kalinskaya winner TBD. The Roland Garros women's draw is fully post-Swiatek, post-Gauff.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — QF win anticipated; SF field projected. Women's SF four: Sabalenka, Kostyuk, Shnaider, Andreeva noted.
+- [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — **ELIMINATED in QF by (25) Diana Shnaider, 3-6, 7-5, 6-0.** The WTA No. 1 and tournament favorite is out. The third set was a 6-0 dismantling — Shnaider didn't just beat Sabalenka, she closed by bageling the world's best player. A generational statement result.
 
 ## Related
 
@@ -43,4 +44,4 @@ At the **2026 Roland Garros**, with Swiatek (the three-time defending champion) 
 - [[Roland Garros 2026]] — the tournament; women's draw historically open after Swiatek and Gauff exits
 - [[Marta Kostyuk]] — defeated Elina Svitolina in a politically charged all-Ukrainian QF; both in the semi field
 - [[Mirra Andreeva]] — fellow QF winner (def. Cîrstea 6-0, 6-3); advancing alongside Sabalenka
-- [[Diana Shnaider]] — def. Madison Keys 6-3, 3-6, 6-0; another Russian reaching the semis
+- [[Diana Shnaider]] — the player who eliminated Sabalenka in the QF 3-6, 7-5, 6-0; the shock of the 2026 Roland Garros women's draw

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-03
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 9
+source_count: 10
 ---
 
 # Carolina Hurricanes
@@ -28,7 +28,9 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **Game 1** is tonight — Raleigh hosting on home ice. The Finals opener arrives less than 24 hours before NBA Finals Game 1 (Knicks at Spurs, June 3). Two championship series starting in back-to-back nights on ABC is the peak of the 2025-26 North American sports calendar.
 
-**SCF Game 1 result:** VGK 5, Carolina 4 — Vegas wins on the road. The Golden Knights steal home-ice advantage in Raleigh. Carolina leads nothing: series is 1-0 VGK. The Hurricanes now must win Game 2 at home to keep the series even. The 5-4 scoreline was not a defensive shutdown — both teams traded offense; VGK just had the last word. Game 2 in Raleigh.
+**SCF Game 1 result:** VGK 5, Carolina 4 — Vegas wins on the road. The Golden Knights steal home-ice advantage in Raleigh. Carolina leads nothing: series is 1-0 VGK. The Hurricanes now must win Game 2 at home to keep the series even. The 5-4 scoreline was not a defensive shutdown — both teams traded offense; VGK just had the last word.
+
+**SCF Game 2:** Thursday, June 4, 8:00 PM EDT, ABC. Carolina at home in Raleigh. A second road loss would put them in a 0-2 hole from which Stanley Cup finalists rarely recover.
 
 ## Sources
 
@@ -41,6 +43,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — **SCF Game 1 is tonight** (June 2, 8:00 PM EDT, ABC). Carolina hosts Vegas at home. The Finals opener arrives in Raleigh the night before NBA Finals Game 1 — consecutive championship openers on ABC, back to back.
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — **Stanley Cup Finals Game 1 is live tonight** — VGK at Carolina, 8:00 PM EDT, ABC. No result at dispatch time. The Finals have officially begun.
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — **VGK 5, CAR 4 — Game 1 final.** Vegas steals home ice on the road; leads the series 1-0. Carolina must respond in Game 2 on home ice.
+- [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — SCF Game 1 result confirmed. **Game 2 Thursday June 4, 8:00 PM EDT, ABC** in Raleigh. Series 1-0 VGK; Carolina facing elimination if they lose a second consecutive home game.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-06-03
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # CM Punk
@@ -35,7 +35,11 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/cm-punk.md)
+- [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletter-2026-06-03-evening.md) — **Logan Paul publicly apologized to CM Punk** after suffering a tricep tear injury, admitting he "was wrong" in their prior confrontation. Separately, **Ryan Nemeth** appeared to accuse Punk of PED use on social media — the kind of salvo that turns into a full-blown narrative if Punk responds.
 
 ## Related
 
-
+- [[Logan Paul]] — apologized to Punk after tricep tear; the confrontation may now be closed
+- [[Ryan Nemeth]] — apparently accused Punk of PED use on social media (June 3, 2026)
+- [[MJF]] — longtime rival; the MJF/Punk cage match at Double or Nothing 2022 remains a benchmark match
+- [[Roman Reigns]] — WrestleMania 42 match rated 5★ by Meltzer
