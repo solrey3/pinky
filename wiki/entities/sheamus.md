@@ -4,9 +4,9 @@ title: Sheamus
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-05
+tags: [person, wrestling, wwe, return, injury]
+source_count: 2
 ---
 
 # Sheamus
@@ -35,6 +35,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/sheamus.md)
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **Sheamus reportedly training at the WWE Performance Center** (per Cageside Seats) — WWE return incoming after shoulder injury recovery.
 
 ## Related
 

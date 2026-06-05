@@ -4,9 +4,9 @@ title: Vegas Golden Knights
 type: entity
 entity_type: organization
 created: 2026-06-03
-updated: 2026-06-04
+updated: 2026-06-05
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 3
+source_count: 4
 ---
 
 # Vegas Golden Knights
@@ -19,7 +19,7 @@ NHL franchise based in Las Vegas, NV. The league's most successful expansion tea
 |-------|----------|--------|
 | WCF | Colorado Avalanche | **Swept 4-0 — Stanley Cup Finals** |
 | SCF Game 1 | @ Carolina Hurricanes | **VGK 5, CAR 4 — W** |
-| SCF Game 2 | @ Carolina Hurricanes | **Tonight — June 4, 8:00 PM EDT — ABC** |
+| SCF Game 2 | @ Carolina Hurricanes | **VGK 3, CAR 4 (OT) — L** — Series tied 1-1 |
 
 **WCF:** Swept the defending-capable Avalanche in four games. The sweep meant VGK entered the Finals rested — Carolina was battle-tested across a 5-game ECF against Montréal, but VGK had the legs.
 
@@ -27,16 +27,19 @@ NHL franchise based in Las Vegas, NV. The league's most successful expansion tea
 
 The 5-4 scoreline suggests an open, contested game rather than defensive domination — both teams trading offense. VGK's ability to win a high-event game on the road signals they have multiple gears.
 
-**SCF Game 2 (June 4, 2026):** Thursday night, 8:00 PM EDT, ABC. Carolina remains at home in Raleigh. A 2-0 series hole would be functionally catastrophic for the Hurricanes.
+**SCF Game 2 (June 4, 2026):** Thursday night, 8:00 PM EDT, ABC. Carolina at home in Raleigh.
+
+**SCF Game 2 RESULT: VGK 3, CAR 4 (OT) — LOSS.** Carolina wins in overtime; the series is now **tied 1-1**. VGK gave up the lead in overtime after winning a road Game 1 — they now travel home to Las Vegas for Game 3. The OT loss is a significant momentum reversal; VGK had a chance to go up 2-0 on the road and squandered it.
 
 ## Sources
 
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — VGK 5, CAR 4 in SCF Game 1. Golden Knights steal home ice on the road in Raleigh; lead series 1-0.
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — SCF Game 1 result fully confirmed. **Game 2 is Thursday June 4, 8:00 PM EDT, ABC** in Raleigh. VGK leads 1-0; can go up 2-0 with another road win.
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — **Game 2 is TONIGHT** (June 4, 8:00 PM ET, ABC) at Carolina. VGK enters the game up 1-0; a second road win would put Carolina in an 0-2 hole from which Stanley Cup finalists rarely recover.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **SCF Game 2 RESULT: VGK 3, CAR 4 (OT).** VGK loses in overtime in Raleigh. Series tied 1-1. Games 3/4 shift to Las Vegas — VGK now plays on home ice.
 
 ## Related
 
-- [[Carolina Hurricanes]] — the Eastern Conference representative; playing at home in Game 1
+- [[Carolina Hurricanes]] — the Eastern Conference representative; tied 1-1 after Canes won Game 2 in OT
 - [[Stanley Cup Finals 2026]] — the series context; VGK-CAR best-of-seven
 - [[NBA Finals 2026]] — parallel championship series running simultaneously on ABC; Knicks at Spurs Game 1 tonight

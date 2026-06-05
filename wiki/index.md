@@ -149,6 +149,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-06-03-evening](sources/newsletter-2026-06-03-evening.md) | Evening Brief — Wednesday, June 3, 2026 | newsletter | [newsletter, evening-dispatch, nba-finals, spurs, knicks, stanley-cup, vgk, carolina-hurricanes, roland-garros, sabalenka, shnaider, kostyuk, cobolli, faa, arnaldi, berrettini, mensik, oil, iran, kuwait, bitcoin, amd, tsm, amzn, nflx, semiconductors, markets, war-powers-act, iran-war, nj-primary, gemma4, elixir, dashlane-breach, macbook-neo, wwe, aew, mjf, rush, cm-punk, njpw-bosj, mets, dodgers, world-cup] | 2026-06-03 |
 | [newsletter-2026-06-04](sources/newsletter-2026-06-04.md) | Newsletter 2026-06-04 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nba-finals, knicks, spurs, wembanyama, kat, roland-garros, shnaider, sabalenka, kostyuk, andreeva, mensik, cobolli, arnaldi, zverev, bitcoin, amd, amzn, nflx, vnq, treasury, mjf, will-ospreay, mercedes-mone, aew, vgk, carolina-hurricanes, todd-blanche, trump, russell-wilson, nasa-maven, elixir, gemma4, lets-encrypt, social-security, scott-pelley, polymarket] | 2026-06-04 |
 | [newsletter-2026-06-04-evening](sources/newsletter-2026-06-04-evening.md) | Evening Brief — Thursday, June 4, 2026 | newsletter | [newsletter, evening-dispatch, nba-finals, knicks, spurs, wembanyama, bitcoin, dow, nasdaq, roland-garros, andreeva, chwalinska, shnaider, kostyuk, iran, voidzero, cloudflare, evan-you, uc-berkeley, ai-education, nsa, anthropic, mythos, dual-use-ai, microsoft, atom-computing, quantum, mjf, knee-injury, will-ospreay, mercedes-mone, prince, timeless, pixies, reissues, markets, semiconductors, forex, polymarket] | 2026-06-04 |
+| [newsletter-2026-06-05](sources/newsletter-2026-06-05.md) | Newsletter 2026-06-05 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nhl, carolina-hurricanes, vgk, stanley-cup, nba-finals, knicks, spurs, wembanyama, roland-garros, andreeva, chwalinska, bitcoin, dow, amd, tsm, amzn, nflx, tsla, anthropic, vulnerability-framework, prince, timeless, pixies, reissues, massive-attack, cody-rhodes, gunther, mjf, sheamus, senate-reconciliation, ndaa, iran, zelensky, gas-prices, pga-memorial, lpga-us-open] | 2026-06-05 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -221,7 +222,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Tim Duncan](entities/tim-duncan.md) | person | person, basketball, nba | 1 |
 | [Tony Parker](entities/tony-parker.md) | person | person, basketball, nba | 1 |
 | [Tracy McGrady](entities/tracy-mcgrady.md) | person | person, basketball, nba | 1 |
-| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 13 |
+| [Victor Wembanyama](entities/victor-wembanyama.md) | person | nba, basketball, san-antonio-spurs, generational-talent, nba-finals | 15 |
 | [Vince Carter](entities/vince-carter.md) | person | person, basketball, nba | 1 |
 | [Walt Frazier](entities/walt-frazier.md) | person | person, basketball, nba | 1 |
 | [Willis Reed](entities/willis-reed.md) | person | person, basketball, nba | 1 |
@@ -246,7 +247,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Christian Cage](entities/christian-cage.md) | person | person, wrestling | 1 |
 | [Claudio Castagnoli](entities/claudio-castagnoli.md) | person | person, wrestling | 1 |
 | [CM Punk](entities/cm-punk.md) | person | person, wrestling | 2 |
-| [Cody Rhodes](entities/cody-rhodes.md) | person | person, wrestling | 2 |
+| [Cody Rhodes](entities/cody-rhodes.md) | person | person, wrestling | 5 |
 | [Curt Hennig](entities/curt-hennig.md) | person | person, wrestling | 1 |
 | [Darby Allin](entities/darby-allin.md) | person | person, wrestling | 2 |
 | [Davey Boy Smith](entities/davey-boy-smith.md) | person | person, wrestling | 1 |
@@ -258,7 +259,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Edge](entities/edge.md) | person | person, wrestling | 1 |
 | [Goldberg](entities/goldberg.md) | person | person, wrestling | 1 |
 | [The Great Muta](entities/the-great-muto.md) | person | person, wrestling | 1 |
-| [Gunther (WALTER)](entities/gunther.md) | person | person, wrestling | 2 |
+| [Gunther (WALTER)](entities/gunther.md) | person | person, wrestling | 5 |
 | [Hangman Adam Page](entities/hangman-adam-page.md) | person | person, wrestling | 1 |
 | [Harley Race](entities/harley-race.md) | person | person, wrestling | 1 |
 | [Hulk Hogan](entities/hulk-hogan.md) | person | person, wrestling | 1 |
@@ -304,7 +305,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Seth Rollins](entities/seth-rollins.md) | person | person, wrestling | 2 |
 | [Sol Ruca](entities/sol-ruca.md) | person | person, wrestling, wwe, women, ic-champion | 2 |
 | [Shawn Michaels](entities/shawn-michaels.md) | person | person, wrestling | 1 |
-| [Sheamus](entities/sheamus.md) | person | person, wrestling | 1 |
+| [Sheamus](entities/sheamus.md) | person | person, wrestling | 2 |
 | [Shinsuke Nakamura](entities/shinsuke-nakamura.md) | person | person, wrestling | 1 |
 | [Sting](entities/sting.md) | person | person, wrestling | 1 |
 | [Stone Cold Steve Austin](entities/stone-cold-steve-austin.md) | person | person, wrestling | 1 |
@@ -508,11 +509,13 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
 | [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 5 |
-| [Diana Shnaider](entities/diana-shnaider.md) | person | tennis, wta, russia, roland-garros, next-gen, sports | 2 |
+| [Diana Shnaider](entities/diana-shnaider.md) | person | tennis, wta, russia, roland-garros, next-gen, sports | 3 |
 | [Iga Swiatek](entities/iga-swiatek.md) | person | tennis, roland-garros, poland, grand-slam, wta, sports | 1 |
 | [Jakub Menšík](entities/jakub-mensik.md) | person | tennis, atp, czech-republic, roland-garros, next-gen, sports | 4 |
 | [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 3 |
-| [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 4 |
+| [Maja Chwalinska](entities/maja-chwalinska.md) | person | tennis, wta, poland, roland-garros, unseeded, upset-specialist, sports | 1 |
+| [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 5 |
+| [Mirra Andreeva](entities/mirra-andreeva.md) | person | tennis, wta, russia, roland-garros, next-gen, grand-slam, sports | 1 |
 | [Naomi Osaka](entities/naomi-osaka.md) | person | tennis, wta, japan, grand-slam, roland-garros, sports | 1 |
 | [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 2 |
 
@@ -525,12 +528,12 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Sports Organizations, Clubs & Other
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo | 4 |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo | 6 |
 | [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london | 5 |
 | [Blue Origin](entities/blue-origin.md) | organization | space, launch, rocket, blue-origin, new-glenn, jeff-bezos | 3 |
-| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 10 |
+| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 12 |
 | [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, build-2026 | 2 |
-| [Vegas Golden Knights](entities/vegas-golden-knights.md) | organization | nhl, hockey, vegas, golden-knights, stanley-cup | 2 |
+| [Vegas Golden Knights](entities/vegas-golden-knights.md) | organization | nhl, hockey, vegas, golden-knights, stanley-cup | 4 |
 
 ### Films
 | Entity | Type | Tags | Sources |
@@ -877,7 +880,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ---
 
-*Last updated: 2026-05-27*
+*Last updated: 2026-06-05*
 
 
 ## Sources & Knowledge Bases
@@ -924,10 +927,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [cmatrix Cheatsheet](sources/cmatrix.md) | Cheatsheet | [cmatrix](../raw/cheatsheets/cmatrix.md) |
 | [gawk Cheatsheet](sources/gawk.md) | Cheatsheet | [gawk](../raw/cheatsheets/gawk.md) |
 
-*Last updated: 2026-05-27*
+*Last updated: 2026-06-05*
 
-*Last updated: 2026-05-27*
+*Last updated: 2026-06-05*
 
-*Last updated: 2026-05-27*
+*Last updated: 2026-06-05*
 
-*Last updated: 2026-05-27*
+*Last updated: 2026-06-05*

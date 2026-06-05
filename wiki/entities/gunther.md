@@ -4,9 +4,9 @@ title: Gunther (WALTER)
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-01
+updated: 2026-06-05
 tags: [person, wrestling]
-source_count: 4
+source_count: 5
 ---
 
 # Gunther (WALTER)
@@ -38,6 +38,7 @@ source_count: 4
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — SmackDown from Barcelona confirms **Gunther vs. Cody Rhodes for the Undisputed WWE Title to kick off Clash in Italy**. Sami Zayn revealed he let Gunther choke out Cody to "teach him a lesson." Cody clapped back in a promo for the ages.
 - [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **Clash in Italy result**: Gunther **loses** to Cody Rhodes in a controversial finish — the WWE title does not change hands. Gunther's next step unclear; King of the Ring 2026 bracket was also revealed on the same card.
 - [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation of loss. King and Queen of the Ring 2026 brackets being revealed on Raw tonight — Gunther's next chapter likely in this tournament or the road to the next major PLE.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Gunther in the main event vs. Cody Rhodes. Cody pulled out the Stardust cartwheel mid-match; the crowd and a ringside Stardust cosplayer popped huge. Per r/SquaredCircle: *"The guy cosplaying Stardust at ringside absolutely lost it."* The Cody/Gunther dynamic has enough residual heat to draw house-show main events in Europe.
 
 ## Related
 
