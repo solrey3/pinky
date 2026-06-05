@@ -481,3 +481,8 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Total sources in index: 98
 - Fetch script fix: `fetch-news-data.sh` now queries both SPORTS_DATE_PREV and SPORTS_DATE for NBA/NHL — in-progress playoff games no longer silently dropped
 - Meltzer ratings sourced directly from Wikipedia going forward
+
+## [2026-06-04] ingest | Evening Brief — Thursday, June 4, 2026
+- Source: `pinky/raw/newsletters/2026-06-04-evening-dispatch.md`
+- Summary: Knicks win NBA Finals Game 1 (105-95) in San Antonio; Wembanyama 28%, KAT dominant; Polymarket Spurs drop from ~65% to ~47%. Bitcoin -14.14% to $63,178 — near 52W low, down 50%+ from $126K ATH. NSA deploying Anthropic's Mythos AI for offensive cyber ops (FT). VoidZero (Evan You/Vite) acquired by Cloudflare. UC Berkeley: failing grades rising with AI usage, math fundamentals degrading. Roland Garros women's final: Andreeva vs. Chwalinska — both unseeded (Chwalinska beat Shnaider in SF). MJF hyperextended knee during RUSH title defense; not medically cleared. Prince 'Timeless' posthumous album and Pixies Bossanova/Trompe le Monde reissues announced.
+- Pages touched: `wiki/sources/newsletter-2026-06-04-evening.md` (created), `wiki/entities/victor-wembanyama.md` (updated), `wiki/entities/mjf.md` (updated — knee injury), `wiki/entities/will-ospreay.md` (updated), `wiki/entities/mercedes-mone.md` (updated), `wiki/entities/anthropic.md` (updated — NSA/Mythos), `wiki/entities/pixies.md` (updated — reissues), `wiki/entities/prince.md` (updated — Timeless), `wiki/entities/microsoft.md` (updated — Atom Computing quantum), `wiki/entities/diana-shnaider.md` (updated — SF loss to Chwalinska), `wiki/index.md`, `wiki/log.md`

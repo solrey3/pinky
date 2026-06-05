@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-03
 updated: 2026-06-04
 tags: [tennis, wta, russia, roland-garros, next-gen, grand-slam, person, sports]
-source_count: 2
+source_count: 3
 ---
 
 # Diana Shnaider
@@ -22,7 +22,7 @@ Russian WTA player and one of the most powerful young baseliners on tour. Physic
 
 The match narrative told the story of her generation: dropped the first set 3-6, then stayed alive through a contested 7-5 second set, and then completely dismantled the world's best player 6-0 in the third. Sabalenka, who had entered the tournament as the runaway favorite after defending champion Iga Swiatek was eliminated in Round 4 by Marta Kostyuk, was eliminated without ceremony. Shnaider didn't just upset Sabalenka — she ended the third set 6-0, which is not a result that happens to the world No. 1 by accident. It is a statement result.
 
-The 2026 Roland Garros women's draw has now eliminated all three of its pre-tournament favorites: Swiatek (R4, to Kostyuk), Coco Gauff (R4, to Potapova), and Sabalenka (QF, to Shnaider). The women's SF is historically open. Shnaider, now in the semifinals of a major for what is likely the first time at this level of result, enters as one of four players with a genuine shot.
+The 2026 Roland Garros women's draw has now eliminated all three of its pre-tournament favorites: Swiatek (R4, to Kostyuk), Coco Gauff (R4, to Potapova), and Sabalenka (QF, to Shnaider). Shnaider then advanced to the SF, where she faced **Maja Chwalinska** — who took the match 7-6(4), 6-4. Shnaider led a set and a break at various points but couldn't close. The final is **Andreeva vs. Chwalinska** — both unseeded, the most improbable all-unseeded women's Grand Slam final in recent memory.
 
 ## 2026 Roland Garros
 
@@ -30,7 +30,7 @@ The 2026 Roland Garros women's draw has now eliminated all three of its pre-tour
 |-------|----------|-------|
 | R4 | *Prior rounds* | Won |
 | QF | **(1) Aryna Sabalenka** | **3-6, 7-5, 6-0 — SHOCK WIN** |
-| SF | *TBD* | — |
+| SF | **Maja Chwalinska** | **7-6(4), 6-4 L** |
 
 *Note: Shnaider had previously been referenced in the morning dispatch as having advanced to the SF via a QF win over Madison Keys (6-3, 3-6, 6-0 from the June 2 evening brief). The June 3 evening dispatch confirmed the QF draw was Shnaider vs. Sabalenka — the opponent was Sabalenka, not Keys.*
 
@@ -38,6 +38,7 @@ The 2026 Roland Garros women's draw has now eliminated all three of its pre-tour
 
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — **SHOCK OF THE TOURNAMENT**: def. (1) Aryna Sabalenka 3-6, 7-5, 6-0 in the Roland Garros QF. Advances to the women's SF.
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Morning confirmation of QF win and SF position. All three pre-tournament favorites (Swiatek, Gauff, Sabalenka) now eliminated; the women's draw has never been more open. Shnaider enters the SF as one of the genuine contenders for the Coupe Suzanne-Lenglen.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **SF result: lost to Maja Chwalinska 7-6(4), 6-4.** Chwalinska advances to the final vs. Andreeva. Both women's finalists are unseeded — historically improbable. Shnaider's Roland Garros 2026 ends in the SF, but her QF destruction of Sabalenka was the defining result of the tournament.
 
 ## Related
 

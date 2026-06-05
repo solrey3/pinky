@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-01
-tags: [ai, llm, organization, anthropic, claude, safety, research, ipo]
-source_count: 4
+updated: 2026-06-04
+tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber]
+source_count: 5
 ---
 
 # Anthropic
@@ -16,6 +16,8 @@ AI safety company and frontier model lab, founded 2021 by Dario Amodei, Daniela 
 Anthropic's commercial trajectory through early 2026 tracked closely with Claude's market adoption — particularly among enterprise API customers and AI coding workflows where Claude's instruction-following and context handling were preferred by a segment of developers. By May 2026, Anthropic had overtaken OpenAI in paper valuation terms.
 
 ## 2026 Milestones
+
+- **June 4, 2026**: **NSA reported using Anthropic's Mythos AI for offensive cyber operations** (FT, HN 42 pts). The national security apparatus has deployed a system built by the AI industry's self-proclaimed safety leader for active government attack tooling. r/netsec immediately began replicating Mythos behavior on open-weight local models. This is the starkest dual-use AI moment on record — Anthropic built Mythos, the NSA weaponized it, and the FT published it. The "safety lab" framing has to contend with this fact directly.
 
 - **June 1, 2026**: **Confidentially files draft S-1 with the SEC** — the IPO process is formally underway. After surpassing OpenAI in paper valuation (at $965B on May 28), Anthropic moves to public markets. The AI arms race transitions from private funding competition to public capital formation. Claude's parent is now on the IPO track.
 
@@ -30,7 +32,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](sources/newsletter-2026-05-29.md) — Claude Opus 4.8 at 1,531 HN points (up from 1,026 at release); AI benchmark arms race described as "undefeated."
 - [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](sources/newsletter-2026-05-30.md) — Claude Opus 4.8 feature detail confirmed: **effort controls + dynamic workflows for Claude Code**. Effort controls are the headline capability addition.
 
-## Related
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **NSA using Anthropic's Mythos AI for offensive cyber operations** (FT report; HN 42 pts). The safety-positioned AI lab's model is being used for active government attack tooling. r/netsec community explored Mythos on local open-weight models within hours. The dual-use AI era is fully here.
 
 - [[AI Arms Race 2026]] — Anthropic and OpenAI are the two primary protagonists
 - [[Claude Opus 4.8]] — model released May 28, 2026

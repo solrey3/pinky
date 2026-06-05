@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-04
 updated: 2026-06-04
 tags: [person, wrestling, aew, wwe, sasha-banks, women, ceo]
-source_count: 1
+source_count: 2
 ---
 
 # Mercedes Moné
@@ -34,6 +34,7 @@ On **June 3, 2026 (AEW Dynamite — Summer Blockbuster)**, Moné returned to AEW
 ## Sources
 
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — **Mercedes Moné RETURNS to AEW** via Women's Owen Hart Tournament Wild Card slot; defeats Alex Windsor; advances in the bracket. Her return is the biggest women's development of the AEW Summer Blockbuster season.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — Return confirmed in evening recap. Her first words back: *"I'm calm, I went to therapy, I'm good."* Per POST Wrestling's Dynamite recap. AEW Forbidden Door is the implied build destination.
 
 ## Related
 

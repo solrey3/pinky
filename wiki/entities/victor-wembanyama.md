@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-19
 updated: 2026-06-04
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 13
+source_count: 14
 ---
 
 # Victor Wembanyama
@@ -30,6 +30,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletter-2026-06-02-evening.md) — Eve of NBA Finals Game 1. Polymarket Spurs still at **~64%**. The KnickerBlogger ran a statistical preview. Prediction market betters are calling the Knicks underpriced. Game 1 tips tomorrow — Knicks at Spurs, ABC, 8:30 PM EDT.
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletter-2026-06-03.md) — **NBA Finals Game 1 is TONIGHT** — Knicks at Spurs, 8:30 PM EDT, ABC. Prediction markets have the Spurs at **~65%** (Polymarket). KnickerBlogger statistical preview published. The sports world is watching: Wembanyama vs. Brunson, the matchup the league wanted.
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **NBA Finals Game 1 RESULT: Knicks 105, Spurs 95.** Wembanyama shot **28%** — nightmare debut. KAT dominated him all night. Fan stormed the court. KnickerBlogger: *"Knicks in Six."* Polymarket Spurs odds: ~65% → ~47%. Knicks lead series 1-0.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Game 1 confirmed final. Wembanyama's 28% is his worst shooting night of the postseason run; KAT outpositioned him at both ends. Evening Brief: *"Wemby is out there somewhere watching tape."* Polymarket Spurs steady at ~47%. Game 2 is Friday June 5, 8:30 PM EDT, ABC.
 
 ## Related
 

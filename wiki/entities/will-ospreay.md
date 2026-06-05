@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-06-04
 tags: [person, wrestling]
-source_count: 2
+source_count: 3
 ---
 
 # Will Ospreay
@@ -36,6 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/will-ospreay.md)
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **Owen Hart Men's Tournament Semi-Final (June 3 Dynamite):** Ospreay defeats Mark Davis in a chaotic semi-final. Advances to the **Owen Hart Men's Final** and earns a spot at **AEW Forbidden Door**. The Summer Blockbuster season is Ospreay's showcase moment heading into the summer PPV calendar.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Owen Hart Cup SF win confirmed in evening recap. r/squaredcircle called the match "full chaotic closing stretch." Ospreay is in the Final heading into Forbidden Door.
 
 ## Related
 
