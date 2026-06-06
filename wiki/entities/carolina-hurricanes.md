@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-05
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 12
+source_count: 13
 ---
 
 # Carolina Hurricanes
@@ -34,6 +34,8 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **SCF Game 2 result (June 4, 2026): CAR 4, VGK 3 — OVERTIME.** Carolina wins Game 2 at home in overtime. Raleigh erupts. The series is **tied 1-1**. Home-ice advantage neutralized; Games 3 and 4 now move to Las Vegas. The OT win rescues the Hurricanes from a potentially series-defining 0-2 hole — this was the game they had to have.
 
+**SCF Game 3:** Saturday June 6, 8:00 PM EDT, ABC — at Vegas. Whoever wins Game 3 controls the series momentum. Carolina is now 1-1 with two road games ahead; VGK is 1-1 with two home games ahead. The series is structurally even but the venue advantage now flips.
+
 ## Sources
 
 - [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](sources/newsletter-2026-05-27-evening.md) — Hurricanes referenced in ECF context; Vegas Golden Knights sweeping Colorado in the Western Conference.
@@ -48,6 +50,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — SCF Game 1 result confirmed. **Game 2 Thursday June 4, 8:00 PM EDT, ABC** in Raleigh. Series 1-0 VGK; Carolina facing elimination if they lose a second consecutive home game.
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — **Game 2 is TONIGHT** (June 4, 8:00 PM ET, ABC) at Carolina. Series 1-0 VGK. Carolina must win to avoid an 0-2 deficit on home ice.
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **SCF Game 2 RESULT: CAR 4, VGK 3 (OT).** Carolina wins in overtime in Raleigh. Series tied 1-1. Games 3/4 shift to Las Vegas. OT win prevents a potentially fatal 0-2 series hole.
+- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — Game 2 OT win confirmed in evening edition. **Game 3 Saturday June 6, 8:00 PM EDT, ABC at Vegas.** Series tied 1-1. Whoever wins Game 3 controls momentum. Hurricanes now playing two road games.
 
 ## Related
 

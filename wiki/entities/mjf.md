@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-06-04
 tags: [person, wrestling]
-source_count: 7
+source_count: 8
 ---
 
 # MJF
@@ -42,6 +42,7 @@ He retained the AEW World Title vs. RUSH on June 3 Dynamite (No Count-Out match)
 - [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletter-2026-06-03-evening.md) — **MJF vs. RUSH** for the AEW World Championship on tonight's Dynamite. Owen Hart Tournament also on card. Separately: MJF stated he will not wrestle another American indie match for **"an extraordinarily long time"** — signals a potential major booking shift (WWE or extended international run).
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **MJF RETAINS the AEW World Title vs. RUSH** (No Count-Out, June 3 Dynamite). Survived by the skin of his teeth. Title reign continues. Owen Hart Tournament also completed on the same card (Ospreay def. Davis in the men's SF; Mercedes Moné returns via Women's Wild Card).
 - [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — **MJF hyperextended his knee** during the RUSH title defense. Not medically cleared post-match. Pulled from scheduled Beyond Wrestling indie appearance. Championship availability for Forbidden Door TBD.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletter-2026-06-05-evening.md) — **AEW × NJPW Forbidden Door creative plans confirmed ‘not in jeopardy’** despite MJF’s knee injury. Booking around MJF survives; the event goes forward on current trajectory.
 
 ## Related
 

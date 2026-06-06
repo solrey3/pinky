@@ -40,6 +40,7 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Microsoft launches MAI-Code-1-Flash (coding model) and MAI-Thinking-1 (reasoning model) the same afternoon; HN lights up with 279 points on the Code launch.
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — **Microsoft Build 2026**: MAI-Code-1-Flash (470 HN pts); **Linux tools** for Windows devs; **RTX Spark desktop** integration. Concurrent VSCode GitHub token-stealing exploit (1-click; HN 402 pts) — patch required.
 - [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **Microsoft + Atom Computing quantum computing progress update** (Ars Technica). Also EeroQ referenced. Quiet but steady advancement — the quantum era inches forward.
+- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Microsoft open-sources pg_durable** — in-database durable execution for Postgres (HN 245 pts). Drop persistent, transactional workflow orchestration directly into a Postgres instance without sidecars. A new pattern for teams already on Postgres: durable execution without a separate service like Temporal or Conductor.
 
 ## Related
 

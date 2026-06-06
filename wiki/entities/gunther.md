@@ -39,6 +39,7 @@ source_count: 5
 - [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **Clash in Italy result**: Gunther **loses** to Cody Rhodes in a controversial finish — the WWE title does not change hands. Gunther's next step unclear; King of the Ring 2026 bracket was also revealed on the same card.
 - [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation of loss. King and Queen of the Ring 2026 brackets being revealed on Raw tonight — Gunther's next chapter likely in this tournament or the road to the next major PLE.
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Gunther in the main event vs. Cody Rhodes. Cody pulled out the Stardust cartwheel mid-match; the crowd and a ringside Stardust cosplayer popped huge. Per r/SquaredCircle: *"The guy cosplaying Stardust at ringside absolutely lost it."* The Cody/Gunther dynamic has enough residual heat to draw house-show main events in Europe.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletter-2026-06-05-evening.md) — **WWE SmackDown Bologna**: Cody Rhodes **agrees to defend the Undisputed WWE Title vs. Gunther on June 19 SmackDown**. Stipulation to be revealed June 12. Gunther gets another title shot on television — the feud is officially re-booked.
 
 ## Related
 

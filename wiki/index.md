@@ -150,6 +150,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-06-04](sources/newsletter-2026-06-04.md) | Newsletter 2026-06-04 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nba-finals, knicks, spurs, wembanyama, kat, roland-garros, shnaider, sabalenka, kostyuk, andreeva, mensik, cobolli, arnaldi, zverev, bitcoin, amd, amzn, nflx, vnq, treasury, mjf, will-ospreay, mercedes-mone, aew, vgk, carolina-hurricanes, todd-blanche, trump, russell-wilson, nasa-maven, elixir, gemma4, lets-encrypt, social-security, scott-pelley, polymarket] | 2026-06-04 |
 | [newsletter-2026-06-04-evening](sources/newsletter-2026-06-04-evening.md) | Evening Brief — Thursday, June 4, 2026 | newsletter | [newsletter, evening-dispatch, nba-finals, knicks, spurs, wembanyama, bitcoin, dow, nasdaq, roland-garros, andreeva, chwalinska, shnaider, kostyuk, iran, voidzero, cloudflare, evan-you, uc-berkeley, ai-education, nsa, anthropic, mythos, dual-use-ai, microsoft, atom-computing, quantum, mjf, knee-injury, will-ospreay, mercedes-mone, prince, timeless, pixies, reissues, markets, semiconductors, forex, polymarket] | 2026-06-04 |
 | [newsletter-2026-06-05](sources/newsletter-2026-06-05.md) | Newsletter 2026-06-05 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, nhl, carolina-hurricanes, vgk, stanley-cup, nba-finals, knicks, spurs, wembanyama, roland-garros, andreeva, chwalinska, bitcoin, dow, amd, tsm, amzn, nflx, tsla, anthropic, vulnerability-framework, prince, timeless, pixies, reissues, massive-attack, cody-rhodes, gunther, mjf, sheamus, senate-reconciliation, ndaa, iran, zelensky, gas-prices, pga-memorial, lpga-us-open] | 2026-06-05 |
+| [newsletter-2026-06-05-evening](sources/newsletter-2026-06-05-evening.md) | Evening Brief — Friday, June 5, 2026 | newsletter | [newsletter, evening-dispatch, nasdaq, s&p, bitcoin, tsla, amd, amzn, brk-b, schd, vnq, carolina-hurricanes, vgk, nba-finals, roland-garros, zverev, cobolli, andreeva, chwalinska, pga-memorial, wwe-smackdown, chad-gable, cody-rhodes, gunther, mjf, forbidden-door, anthony-head, microsoft, pg-durable, gemma4-qat, faiss, measles, doge, ice, immigration] | 2026-06-05 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -242,6 +243,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Bret Hart](entities/bret-hart.md) | person | person, wrestling | 1 |
 | [Brock Lesnar](entities/brock-lesnar.md) | person | person, wrestling | 1 |
 | [Bryan Danielson](entities/bryan-danielson.md) | person | person, wrestling | 1 |
+| [Chad Gable](entities/chad-gable.md) | person | person, wrestling, wwe, smackdown, el-grande-americano | 1 |
 | [Chris Benoit](entities/chris-benoit.md) | person | person, wrestling | 1 |
 | [Chris Jericho](entities/chris-jericho.md) | person | person, wrestling, music | 2 |
 | [Christian Cage](entities/christian-cage.md) | person | person, wrestling | 1 |
@@ -452,6 +454,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
 | [Aaron McGruder](entities/aaron-mcgruder.md) | person | person, film, tv | 1 |
+| [Anthony Head](entities/anthony-head.md) | person | actor, buffy, ted-lasso, television, obituary, british | 1 |
 | [Christopher Nolan](entities/christopher-nolan.md) | person | person, film, tv | 1 |
 | [Darren Aronofsky](entities/darren-aronofsky.md) | person | person, film, tv, director | 1 |
 | [David Fincher](entities/david-fincher.md) | person | person, film, tv | 1 |
@@ -508,8 +511,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Tennis Players
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
+| [Alexander Zverev](entities/alexander-zverev.md) | person | tennis, atp, germany, roland-garros, grand-slam, next-gen, sports | 1 |
 | [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 5 |
 | [Diana Shnaider](entities/diana-shnaider.md) | person | tennis, wta, russia, roland-garros, next-gen, sports | 3 |
+| [Flavio Cobolli](entities/flavio-cobolli.md) | person | tennis, atp, italy, roland-garros, grand-slam, unseeded, sports | 1 |
 | [Iga Swiatek](entities/iga-swiatek.md) | person | tennis, roland-garros, poland, grand-slam, wta, sports | 1 |
 | [Jakub Menšík](entities/jakub-mensik.md) | person | tennis, atp, czech-republic, roland-garros, next-gen, sports | 4 |
 | [Joao Fonseca](entities/joao-fonseca.md) | person | tennis, roland-garros, brazil, next-gen, sports | 3 |

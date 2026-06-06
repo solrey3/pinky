@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-05
 updated: 2026-06-05
 tags: [tennis, wta, poland, roland-garros, unseeded, upset-specialist, grand-slam, person, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Maja Chwalinska
@@ -41,6 +41,7 @@ Her 7-6(4), 6-4 SF win over Shnaider required winning a tiebreak — this wasn't
 ## Sources
 
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **Roland Garros SF win**: def. (25) Diana Shnaider 7-6(4), 6-4. Also confirmed as having eliminated (1) Aryna Sabalenka en route. Women's Final: Chwalinska vs. (8) Mirra Andreeva. "Unseeded Chwalinska upset world No. 1 Sabalenka and then Shnaider to reach the final. Story of the tournament."
+- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — Women's Final confirmed for the weekend: Chwalinska vs. Andreeva. Evening dispatch reconfirmed finalist status alongside men's final announcement (Zverev vs. Cobolli); no result yet.
 
 ## Related
 
