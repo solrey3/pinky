@@ -4,9 +4,9 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-06-05
+updated: 2026-06-08
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 15
+source_count: 16
 ---
 
 # Victor Wembanyama
@@ -32,6 +32,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **NBA Finals Game 1 RESULT: Knicks 105, Spurs 95.** Wembanyama shot **28%** — nightmare debut. KAT dominated him all night. Fan stormed the court. KnickerBlogger: *"Knicks in Six."* Polymarket Spurs odds: ~65% → ~47%. Knicks lead series 1-0.
 - [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Game 1 confirmed final. Wembanyama's 28% is his worst shooting night of the postseason run; KAT outpositioned him at both ends. Evening Brief: *"Wemby is out there somewhere watching tape."* Polymarket Spurs steady at ~47%. Game 2 is Friday June 5, 8:30 PM EDT, ABC.
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **NBA Finals Game 2 is TONIGHT** (June 5, 8:30 PM EDT, ABC). Wembanyama spoke postgame in French after Game 1 about what it takes to stop being a "reactionary team" — the Spurs need to impose their will rather than respond to the Knicks' rhythm. Polymarket has San Antonio at ~46%. The adjustment question: does Pop change the spacing/usage to get Wemby better shots, or does the Knicks' defensive blueprint hold?
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — NBA Finals calendar stays active: San Antonio Spurs at New York Knicks, Monday June 8, 8:30 PM EDT on ABC. The dispatch frames it as the nightly national-TV basketball item.
 
 ## Related
 

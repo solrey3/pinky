@@ -4,9 +4,9 @@ title: Rey Mysterio Jr.
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-08
+tags: [person, wrestling, aaa, lucha-libre]
+source_count: 2
 ---
 
 # Rey Mysterio Jr.
@@ -32,10 +32,17 @@ source_count: 1
 - His WM22 Royal Rumble win (dedicated to Eddie Guerrero, who had died) was the most emotional Royal Rumble result ever
 - His son Dominik becoming a wrestler and then turning heel on him created a real-life story WWE capitalized on
 
+## Current Notes
+
+- **2026-06-08:** AAA Noche de los Grandes coverage says Rey Mysterio set a Mega Championship defense while Lince Dorado earned a title opportunity. The source does not provide the full booking details, so record it as a setup item rather than a completed result.
+
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/rey-mysterio.md)
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — AAA headline: Noche de los Grandes Night 2 results; Lince Dorado earns title opportunity and Rey Mysterio sets Mega Championship defense.
 
 ## Related
 
+- [[AJ Styles]]
+- [[NJPW]]
 
