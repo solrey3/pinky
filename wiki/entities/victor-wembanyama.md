@@ -4,9 +4,9 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 16
+source_count: 17
 ---
 
 # Victor Wembanyama
@@ -14,6 +14,8 @@ source_count: 16
 French NBA center for the San Antonio Spurs, widely regarded as a generational talent — an unprecedented combination of size (7'4"), wingspan, shooting range, shot-blocking, and ball-handling. The 2023 #1 overall draft pick. In the 2026 NBA Playoffs, he announced himself on the national stage by forcing double overtime against the Oklahoma City Thunder in Game 1 with a half-court buzzer beater, then led the Spurs back from a 2-3 deficit to win the Western Conference Finals 4-3. **Victor Wembanyama is going to the NBA Finals.** At 22, he is the youngest Spurs player to reach the Finals since a certain Frenchman named Tony Parker. He was visibly overcome with emotion at the final buzzer of Game 7 (Spurs 111, OKC 103).
 
 **NBA Finals Game 1 (June 3, 2026):** The Knicks walked into San Antonio and stole Game 1, **105–95**. Wembanyama shot just **28%** — a nightmare debut on the Finals stage — while Karl-Anthony Towns dominated him at the other end all night. A fan even stormed the court mid-game. KnickerBlogger's official call afterward: *"Knicks in Six."* Polymarket corrected sharply: Spurs dropped from ~65% pre-game to ~47% series favorites overnight. The Knicks hold a 1-0 series lead.
+
+**NBA Finals Game 3 (June 8, 2026):** San Antonio answered at Madison Square Garden, beating New York **115–111**. The Knicks still lead the series **2-1**, but the Spurs' road win gives the matchup teeth again after New York controlled the early narrative.
 
 ## Sources
 
@@ -33,8 +35,10 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Game 1 confirmed final. Wembanyama's 28% is his worst shooting night of the postseason run; KAT outpositioned him at both ends. Evening Brief: *"Wemby is out there somewhere watching tape."* Polymarket Spurs steady at ~47%. Game 2 is Friday June 5, 8:30 PM EDT, ABC.
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **NBA Finals Game 2 is TONIGHT** (June 5, 8:30 PM EDT, ABC). Wembanyama spoke postgame in French after Game 1 about what it takes to stop being a "reactionary team" — the Spurs need to impose their will rather than respond to the Knicks' rhythm. Polymarket has San Antonio at ~46%. The adjustment question: does Pop change the spacing/usage to get Wemby better shots, or does the Knicks' defensive blueprint hold?
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — NBA Finals calendar stays active: San Antonio Spurs at New York Knicks, Monday June 8, 8:30 PM EDT on ABC. The dispatch frames it as the nightly national-TV basketball item.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — **Spurs 115, Knicks 111** in NBA Finals Game 3 at Madison Square Garden. New York leads 2-1, but San Antonio's road response resets the series pressure.
 
 ## Related
 
-- [[New York Knicks]] — opposing series context (Knicks vs. Cavs same night)
+- [[New York Knicks]] — NBA Finals opponent; lead the 2026 Finals 2-1 after Game 3
+- [[San Antonio Spurs]] — Wembanyama's team and 2026 Western Conference champion
 - [[the-book-of-basketball]] — Bill Simmons's framework for evaluating generational players

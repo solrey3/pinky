@@ -4,9 +4,9 @@ title: Bruce Springsteen
 type: entity
 entity_type: person
 created: 2026-05-10T00:00:00Z
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [music, artist]
-source_count: 2
+source_count: 3
 ---
 
 # Bruce Springsteen
@@ -20,6 +20,7 @@ American singer-songwriter from New Jersey, strongly associated with the Jersey 
 ## Sources
 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — r/newjersey feed item: Springsteen opened a $50M Center for American Music at Monmouth University in New Jersey.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Monmouth University Center for American Music item persisted in the r/newjersey feed, keeping Springsteen in the local-culture thread.
 
 ## Related
 

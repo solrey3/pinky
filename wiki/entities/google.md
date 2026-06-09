@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [technology, ai, google, gemini, organization]
-source_count: 1
+source_count: 2
 ---
 
 # Google
@@ -16,6 +16,7 @@ American technology company and AI lab/operator behind Search, Android, Google C
 ## Sources
 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — MacRumors reported Apple's new AI architecture as being built around Google Gemini models, making Google part of Apple's AI plumbing.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Apple/Gemini architecture story stayed prominent, reinforced by macOS Golden Gate and Gemini-powered Siri feed items.
 
 ## Related
 

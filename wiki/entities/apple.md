@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [technology, ai, apple, siri, apple-intelligence, organization]
-source_count: 1
+source_count: 2
 ---
 
 # Apple
@@ -16,6 +16,7 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 ## Sources
 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Siri/Apple Intelligence was a Hacker News item, and MacRumors reported Apple revealing an AI architecture built around Google Gemini models.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Gemini-backed architecture story persisted into the morning feed alongside macOS Golden Gate/Gemini Siri coverage.
 
 ## Related
 

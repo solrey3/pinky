@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-08"
+updated: "2026-06-09"
 tags: [ai, llm, coding-agent, automation, development, fabric]
-source_count: 4
+source_count: 5
 ---
 
 # AI-Augmented Development
@@ -18,6 +18,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-05-10: Pi Cheatsheet](sources/pi.md) — Terminal-based coding agent harness using OpenRouter for LLM access
 - [2026-05-10: Datadog CLI Cheatsheet](sources/datadog-cli.md) — Monitoring and observability (relevant for AI-ops and infrastructure telemetry)
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — A Microsoft package/repository credential-stealer incident explicitly targeted AI coding-agent workflows, turning agent tooling into a supply-chain attack surface.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The same incident is framed as Microsoft open-source tools hacked to steal AI developer passwords, making developer identity and agent package trust first-class AI-dev concerns.
 
 ## Related Concepts
 
@@ -31,3 +32,5 @@ The practice of integrating large language models and AI coding agents into the 
 AI-Augmented Development is the active layer of the 2nd Brain. Fabric transforms raw content into structured wisdom (as demonstrated with the 15-book ingest). Pi performs terminal-based coding operations. Together they represent the "AI Ops" persona from AGENTS.md: Pi (primary), OpenCode, Claude Code, Codex, Gemini CLI, and Fabric as the pipe processor. The Datadog CLI connects this to observability — monitoring AI-driven infrastructure.
 
 The June 8 supply-chain item adds a harder edge: coding agents are not just productivity tools, they are now part of the trusted developer execution path. Packages, GitHub Actions, and generated-code workflows that agents touch inherit security-critical status.
+
+The June 9 framing makes the target explicit: not just code repositories, but AI developer passwords. AI-augmented development therefore needs identity hygiene, package provenance, and action/workflow pinning as much as prompt quality or model selection.

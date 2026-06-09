@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-08"
+updated: "2026-06-09"
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety]
-source_count: 7
+source_count: 8
 ---
 
 # Security & Privacy Toolkit
@@ -21,6 +21,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-05-10: Nextcloud Cheatsheet](sources/nextcloud.md) — Self-hosted collaboration platform with end-to-end encryption options
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Breach-disclosure lag, cloud-data expiry, and an AI gun-detection lawsuit broaden the toolkit from tools/configuration into vendor accountability and incident-response timing.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories laced with credential stealers put software supply-chain integrity and AI coding-agent workflows into the security toolkit.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — AI developer password theft, package compromise, and potential continental-scale GPS jamming extend the toolkit from local/user defense into software supply-chain and infrastructure resilience.
 
 ## Related Concepts
 
@@ -33,3 +34,5 @@ The layered defense system protecting this infrastructure: password management, 
 The security stack reflects a "trust nothing, verify everything" posture. Tailscale replaces open ports with authenticated mesh networking. 1Password CLI enables secret injection without storing credentials in configs. Kali and Tails are the offensive and defensive extremes of the same discipline. This toolkit operationalizes the SecOps persona from the AGENTS.md configuration.
 
 The June 8 newsletters add an accountability layer: good security is not only encryption and tooling, but also how quickly vendors disclose breaches, how clearly cloud providers communicate retention/expiry rules, whether AI safety products can survive courtroom scrutiny when they fail in the field, and whether package/action ecosystems can resist credential-stealing supply-chain attacks.
+
+The June 9 dispatch widens the perimeter again. If AI developer passwords can be harvested through trusted open-source tools, then developer identity is part of the security boundary. If GPS can be jammed at continental scale, then navigation and timing infrastructure belongs in the same operational-risk map as cloud, identity, and endpoint defense.

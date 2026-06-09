@@ -4,9 +4,9 @@ title: Microsoft
 type: entity
 entity_type: organization
 created: 2026-06-02
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, atom-computing, supply-chain-security]
-source_count: 5
+source_count: 6
 ---
 
 # Microsoft
@@ -31,7 +31,7 @@ The dual-track AI strategy (MAI for models, Linux/RTX Spark for developer toolin
 
 The irony of announcing major developer tooling at Build while a 1-click credential-theft exploit existed in VSCode was not lost on the developer community.
 
-**Supply-chain credential-stealer incident (June 8):** StepSecurity/Ars coverage reported another Microsoft-linked package/repository compromise involving credential stealers, with Azure Functions action and dozens of repositories disabled after a supply-chain attack targeting AI coding agents. This extends the earlier VSCode token-stealing concern from a single developer-product exploit into the broader package/action trust layer.
+**Supply-chain credential-stealer incident (June 8–9):** StepSecurity/Ars/TechCrunch coverage reported another Microsoft-linked package/repository compromise involving credential stealers, with Azure Functions action and dozens of repositories disabled after a supply-chain attack targeting AI coding agents and AI developer passwords. This extends the earlier VSCode token-stealing concern from a single developer-product exploit into the broader package/action trust layer.
 
 ## Context
 
@@ -44,6 +44,7 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **Microsoft + Atom Computing quantum computing progress update** (Ars Technica). Also EeroQ referenced. Quiet but steady advancement — the quantum era inches forward.
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Microsoft open-sources pg_durable** — in-database durable execution for Postgres (HN 245 pts). Drop persistent, transactional workflow orchestration directly into a Postgres instance without sidecars. A new pattern for teams already on Postgres: durable execution without a separate service like Temporal or Conductor.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories were reportedly laced with credential stealers, with Azure Functions action and 72 other repositories disabled after a supply-chain attack targeting AI coding agents.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — TechCrunch/HN item framed the same compromise as Microsoft open-source tools hacked to steal passwords from AI developers, keeping supply-chain trust at the top of the AI desk.
 
 ## Related
 

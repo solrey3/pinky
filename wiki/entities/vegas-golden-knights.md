@@ -4,9 +4,9 @@ title: Vegas Golden Knights
 type: entity
 entity_type: organization
 created: 2026-06-03
-updated: 2026-06-08
+updated: 2026-06-09
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 6
+source_count: 7
 ---
 
 # Vegas Golden Knights
@@ -33,7 +33,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 **SCF Game 3:** Saturday June 6, 8:00 PM EDT, ABC — at Vegas (home). VGK returns to home ice after splitting the two road games. Having home ice for Games 3 and 4 is the silver lining of the series structure — the question is whether the OT loss carries psychological weight into a game they needed to win on the road.
 
-**Next listed SCF slot:** Tuesday June 9, 8:00 PM EDT, ABC — Carolina at Vegas. The June 8 newsletter preserves the calendar slot without reporting the intervening game result.
+**Next listed SCF slot:** Tuesday June 9, 8:00 PM EDT, ABC — Carolina at Vegas. The June 8 and June 9 morning newsletters preserve the calendar slot without reporting the intervening game result.
 
 ## Sources
 
@@ -43,6 +43,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **SCF Game 2 RESULT: VGK 3, CAR 4 (OT).** VGK loses in overtime in Raleigh. Series tied 1-1. Games 3/4 shift to Las Vegas — VGK now plays on home ice.
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — Game 2 OT loss confirmed in evening edition. **Game 3 Saturday June 6, 8:00 PM EDT, ABC at Vegas.** VGK returns home with the series tied 1-1. Home ice for Games 3 and 4 is the structural advantage in play.
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Next listed Stanley Cup Finals slot: Carolina Hurricanes at Vegas Golden Knights, Tuesday June 9, 8:00 PM EDT on ABC. No intervening result included in this source.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Vegas hosts Carolina in the listed Tuesday June 9 ABC slot; no new result is recorded.
 
 ## Related
 
