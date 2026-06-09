@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-08"
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety]
-source_count: 6
+source_count: 7
 ---
 
 # Security & Privacy Toolkit
@@ -20,6 +20,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-05-10: Tails OS Cheatsheet](sources/tails-os.md) — Amnesic incognito live system for privacy
 - [2026-05-10: Nextcloud Cheatsheet](sources/nextcloud.md) — Self-hosted collaboration platform with end-to-end encryption options
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Breach-disclosure lag, cloud-data expiry, and an AI gun-detection lawsuit broaden the toolkit from tools/configuration into vendor accountability and incident-response timing.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories laced with credential stealers put software supply-chain integrity and AI coding-agent workflows into the security toolkit.
 
 ## Related Concepts
 
@@ -31,4 +32,4 @@ The layered defense system protecting this infrastructure: password management, 
 
 The security stack reflects a "trust nothing, verify everything" posture. Tailscale replaces open ports with authenticated mesh networking. 1Password CLI enables secret injection without storing credentials in configs. Kali and Tails are the offensive and defensive extremes of the same discipline. This toolkit operationalizes the SecOps persona from the AGENTS.md configuration.
 
-The June 8 newsletter adds an accountability layer: good security is not only encryption and tooling, but also how quickly vendors disclose breaches, how clearly cloud providers communicate retention/expiry rules, and whether AI safety products can survive courtroom scrutiny when they fail in the field.
+The June 8 newsletters add an accountability layer: good security is not only encryption and tooling, but also how quickly vendors disclose breaches, how clearly cloud providers communicate retention/expiry rules, whether AI safety products can survive courtroom scrutiny when they fail in the field, and whether package/action ecosystems can resist credential-stealing supply-chain attacks.

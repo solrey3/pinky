@@ -1,0 +1,24 @@
+---
+id: f9b20aa0-81f1-4a6a-b61c-5598ccde85c3
+title: Google
+type: entity
+entity_type: organization
+created: 2026-06-08
+updated: 2026-06-08
+tags: [technology, ai, google, gemini, organization]
+source_count: 1
+---
+
+# Google
+
+American technology company and AI lab/operator behind Search, Android, Google Cloud, and the Gemini model family. In the June 2026 newsletter stream, Google appears both as a direct AI builder and as model infrastructure for other major platforms.
+
+## Sources
+
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — MacRumors reported Apple's new AI architecture as being built around Google Gemini models, making Google part of Apple's AI plumbing.
+
+## Related
+
+- [[Apple]] — reported Gemini-backed AI architecture
+- [[Microsoft]] — competing big-tech AI platform and model strategy
+- [[Anthropic]] — frontier-model competitor and AI-infrastructure peer

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-06-08
 tags: [person, wrestling, aaa, lucha-libre]
-source_count: 2
+source_count: 3
 ---
 
 # Rey Mysterio Jr.
@@ -34,15 +34,18 @@ source_count: 2
 
 ## Current Notes
 
-- **2026-06-08:** AAA Noche de los Grandes coverage says Rey Mysterio set a Mega Championship defense while Lince Dorado earned a title opportunity. The source does not provide the full booking details, so record it as a setup item rather than a completed result.
+- **2026-06-08 morning:** AAA Noche de los Grandes coverage says Rey Mysterio set a Mega Championship defense while Lince Dorado earned a title opportunity. The source does not provide the full booking details, so record it as a setup item rather than a completed result.
+- **2026-06-08 evening:** WWE Raw coverage says Penta defeated Rey Mysterio to retain the WWE Men's Intercontinental Title.
 
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/rey-mysterio.md)
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — AAA headline: Noche de los Grandes Night 2 results; Lince Dorado earns title opportunity and Rey Mysterio sets Mega Championship defense.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Challenged Penta for the WWE Men's Intercontinental Title on Raw; Penta retained.
 
 ## Related
 
 - [[AJ Styles]]
 - [[NJPW]]
+- [[Penta]]
 
