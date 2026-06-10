@@ -4,9 +4,9 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-06-09
+updated: 2026-06-10
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 18
+source_count: 19
 ---
 
 # Victor Wembanyama
@@ -16,6 +16,8 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 **NBA Finals Game 1 (June 3, 2026):** The Knicks walked into San Antonio and stole Game 1, **105–95**. Wembanyama shot just **28%** — a nightmare debut on the Finals stage — while Karl-Anthony Towns dominated him at the other end all night. A fan even stormed the court mid-game. KnickerBlogger's official call afterward: *"Knicks in Six."* Polymarket corrected sharply: Spurs dropped from ~65% pre-game to ~47% series favorites overnight. The Knicks hold a 1-0 series lead.
 
 **NBA Finals Game 3 (June 8, 2026):** San Antonio answered at Madison Square Garden, beating New York **115–111**. The Knicks still lead the series **2-1**, but the Spurs' road win gives the matchup teeth again after New York controlled the early narrative. Game 4 is June 10 on ABC; a second straight road win would fully reset the Finals.
+
+**NBA Finals Game 4 (June 10, 2026):** The morning dispatch lists Spurs at Knicks, 8:30 PM EDT on ABC. This is the Wembanyama pressure point: either San Antonio turns the series into a best-of-three, or New York proves Game 3 was a road bump rather than a momentum shift.
 
 ## Sources
 
@@ -37,6 +39,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — NBA Finals calendar stays active: San Antonio Spurs at New York Knicks, Monday June 8, 8:30 PM EDT on ABC. The dispatch frames it as the nightly national-TV basketball item.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — **Spurs 115, Knicks 111** in NBA Finals Game 3 at Madison Square Garden. New York leads 2-1, but San Antonio's road response resets the series pressure.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition preserves the Game 3 result and Game 4 calendar: Spurs at Knicks, June 10, 8:30 PM EDT on ABC.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Game 4 is tonight at Madison Square Garden; Wembanyama and the Spurs can tie the Finals 2-2 with a second straight road win.
 
 ## Related
 

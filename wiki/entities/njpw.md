@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-09
-tags: [wrestling, njpw, organization, japan, strong-style, puroresu]
-source_count: 6
+updated: 2026-06-10
+tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer]
+source_count: 7
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -26,6 +26,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-08 (Morning)**: Best of the Super Juniors 33 has wrapped in Tokyo; the dispatch points to the final-review cycle around YOH vs. Kosei Fujita without adding enough detail to name the winner in the wiki voice.
 - **2026-06-09 (Morning)**: NJPW vs. DDT Part 2 results appear in the wrestling digest, keeping New Japan active in the cross-promotional results stream after BOSJ.
 - **2026-06-09 (Evening)**: Nick Wayne says the 2026 Best of the Super Juniors was the best performance run and experience of his life, adding a talent-development note to the tournament's aftermath.
+- **2026-06-10 (Morning)**: The Meltzer 5-star-plus list in the dispatch keeps Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 visible as the standout NJPW match note of the cycle.
 
 ## Sources
 
@@ -35,6 +36,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — BOSJ 33 final-review cycle flagged in Tokyo; YOH vs. Kosei Fujita headline noted, but this source does not preserve enough detail to record the tournament winner safely.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — NJPW vs. DDT Part 2 results linked in the wrestling digest; no match-level detail extracted into this wiki beyond the cross-promotional results note.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Nick Wayne reflects on BOSJ 2026 as the best performance stretch and experience of his life.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Meltzer 5-star-plus table lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as a 6-star NJPW match.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-09"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety]
-source_count: 9
+updated: "2026-06-10"
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux]
+source_count: 10
 ---
 
 # Security & Privacy Toolkit
@@ -23,6 +23,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories laced with credential stealers put software supply-chain integrity and AI coding-agent workflows into the security toolkit.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — AI developer password theft, package compromise, and potential continental-scale GPS jamming extend the toolkit from local/user defense into software supply-chain and infrastructure resilience.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — High-severity Linux CVE, npm v12 breaking changes, and Anthropic model-boundary debate show the security perimeter spanning kernel correctness, package compatibility, and AI-governance policy.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — CVE-2026-23111 keeps Linux implementation risk on the sysadmin board, while Claude Fable 5 boundary concerns keep AI governance inside the security perimeter.
 
 ## Related Concepts
 
@@ -39,3 +40,5 @@ The June 8 newsletters add an accountability layer: good security is not only en
 The June 9 morning dispatch widens the perimeter again. If AI developer passwords can be harvested through trusted open-source tools, then developer identity is part of the security boundary. If GPS can be jammed at continental scale, then navigation and timing infrastructure belongs in the same operational-risk map as cloud, identity, and endpoint defense.
 
 The June 9 evening edition adds a software-infrastructure version of the same point: one faulty character in Linux can become a high-severity CVE, npm breaking changes can ripple through build systems, and Anthropic's model refusals are now part of security governance because model access governs what capabilities developers and adversaries can operationalize.
+
+The June 10 morning source confirms this is not a one-off: the same Linux CVE stays in the news cycle, and model-boundary controversy remains adjacent to operational tooling. Security practice must treat kernel defects, package churn, and model-provider policy as parts of the same availability and trust surface.

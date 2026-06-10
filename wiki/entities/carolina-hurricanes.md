@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-09
+updated: 2026-06-10
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 16
+source_count: 17
 ---
 
 # Carolina Hurricanes
@@ -20,6 +20,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 | Round | Opponent | Status |
 |-------|----------|--------|
 | ECF | Montréal Canadiens | **Won 4-1 — STANLEY CUP FINALS** |
+| SCF Game 4 | @ Vegas Golden Knights | **CAR 5, VGK 3 — W** — Series tied 2-2 |
 
 **ECF Game 4 (May 28):** Carolina 4, Montréal 0 — shutout win at home.  
 **ECF Game 5 (May 29):** Carolina 6, Montréal 1 — dominant close. Carolina wins the series **4-1** and advances to the **Stanley Cup Finals vs. the Vegas Golden Knights**. They didn't just beat Montréal — they took them apart across four of five games, outscoring them 22-7 across the series.
@@ -36,7 +37,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **SCF Game 3:** Saturday June 6, 8:00 PM EDT, ABC — at Vegas. Whoever wins Game 3 controls the series momentum. Carolina is now 1-1 with two road games ahead; VGK is 1-1 with two home games ahead. The series is structurally even but the venue advantage now flips.
 
-**Next listed SCF slot:** Tuesday June 9, 8:00 PM EDT, ABC — Carolina Hurricanes at Vegas Golden Knights. The June 8 and June 9 newsletters do not report the intervening game result; they preserve the upcoming ABC slot.
+**SCF Game 4 result (June 9, 2026): CAR 5, VGK 3.** Carolina wins in Las Vegas and ties the Stanley Cup Final **2-2**. The series is now a best-of-three. This is the cleanest reset since Game 2: Carolina has answered twice after Vegas threatened to take control.
 
 ## Sources
 
@@ -56,6 +57,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Next listed Stanley Cup Finals slot: Carolina Hurricanes at Vegas Golden Knights, Tuesday June 9, 8:00 PM EDT on ABC. No intervening result included in this source.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Carolina at Vegas remains the Tuesday June 9 ABC hockey slot; the dispatch does not provide a new series result.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition again lists Carolina at Vegas on ABC with no new SCF result.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** The Hurricanes tie the series 2-2, converting the Final into a best-of-three.
 
 ## Related
 

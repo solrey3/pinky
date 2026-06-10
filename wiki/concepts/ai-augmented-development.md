@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-09"
-tags: [ai, llm, coding-agent, automation, development, fabric]
-source_count: 6
+updated: "2026-06-10"
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision]
+source_count: 7
 ---
 
 # AI-Augmented Development
@@ -20,6 +20,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — A Microsoft package/repository credential-stealer incident explicitly targeted AI coding-agent workflows, turning agent tooling into a supply-chain attack surface.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The same incident is framed as Microsoft open-source tools hacked to steal AI developer passwords, making developer identity and agent package trust first-class AI-dev concerns.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — OpenCV 5, npm v12 breaking changes, and Anthropic model-boundary news show AI development as an ecosystem of model policy, libraries, package managers, and compatibility breaks.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Gemini Live Translate, OpenCV 5, and Claude Fable 5 show AI-augmented development and use as a stack spanning user-facing model utility, computer-vision libraries, and provider policy boundaries.
 
 ## Related Concepts
 
@@ -37,3 +38,5 @@ The June 8 supply-chain item adds a harder edge: coding agents are not just prod
 The June 9 morning framing makes the target explicit: not just code repositories, but AI developer passwords. AI-augmented development therefore needs identity hygiene, package provenance, and action/workflow pinning as much as prompt quality or model selection.
 
 The June 9 evening edition adds the maintenance burden: OpenCV 5 expands the computer-vision toolkit, npm v12 introduces breaking-change risk, and Anthropic's Fable/Mythos boundaries remind developers that model providers can change not only capabilities but permitted-use envelopes.
+
+The June 10 morning dispatch adds the user-facing side of the same stack. Gemini Live Translate is model capability entering daily communication, while OpenCV remains library infrastructure and Claude Fable remains provider-governed model behavior. Development practice has to account for all three layers.

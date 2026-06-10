@@ -4,9 +4,9 @@ title: Vegas Golden Knights
 type: entity
 entity_type: organization
 created: 2026-06-03
-updated: 2026-06-09
+updated: 2026-06-10
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 8
+source_count: 9
 ---
 
 # Vegas Golden Knights
@@ -20,6 +20,7 @@ NHL franchise based in Las Vegas, NV. The league's most successful expansion tea
 | WCF | Colorado Avalanche | **Swept 4-0 — Stanley Cup Finals** |
 | SCF Game 1 | @ Carolina Hurricanes | **VGK 5, CAR 4 — W** |
 | SCF Game 2 | @ Carolina Hurricanes | **VGK 3, CAR 4 (OT) — L** — Series tied 1-1 |
+| SCF Game 4 | vs. Carolina Hurricanes | **VGK 3, CAR 5 — L** — Series tied 2-2 |
 
 **WCF:** Swept the defending-capable Avalanche in four games. The sweep meant VGK entered the Finals rested — Carolina was battle-tested across a 5-game ECF against Montréal, but VGK had the legs.
 
@@ -33,7 +34,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 **SCF Game 3:** Saturday June 6, 8:00 PM EDT, ABC — at Vegas (home). VGK returns to home ice after splitting the two road games. Having home ice for Games 3 and 4 is the silver lining of the series structure — the question is whether the OT loss carries psychological weight into a game they needed to win on the road.
 
-**Next listed SCF slot:** Tuesday June 9, 8:00 PM EDT, ABC — Carolina at Vegas. The June 8 and June 9 newsletters preserve the calendar slot without reporting the intervening game result.
+**SCF Game 4 result (June 9, 2026): VGK 3, CAR 5 — LOSS.** Vegas loses at home and the Stanley Cup Final is tied **2-2**. After splitting the first two in Raleigh, VGK had a home-ice chance to tilt the series; instead the Final resets to a best-of-three.
 
 ## Sources
 
@@ -45,6 +46,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Next listed Stanley Cup Finals slot: Carolina Hurricanes at Vegas Golden Knights, Tuesday June 9, 8:00 PM EDT on ABC. No intervening result included in this source.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Vegas hosts Carolina in the listed Tuesday June 9 ABC slot; no new result is recorded.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition again lists Vegas hosting Carolina on ABC with no new result.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** Vegas loses at home, and the Final is tied 2-2.
 
 ## Related
 

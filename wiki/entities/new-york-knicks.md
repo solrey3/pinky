@@ -4,9 +4,9 @@ title: New York Knicks
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-10
 tags: [nba, basketball, new-york-knicks, nba-finals, organization, sports]
-source_count: 2
+source_count: 3
 ---
 
 # New York Knicks
@@ -17,12 +17,13 @@ NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks 
 
 **Game 3 (June 8, 2026):** New York lost at home to San Antonio, **115–111**, but still leads the series **2-1**. The result keeps the Knicks ahead while reopening the series narrative after their early advantage.
 
-**Game 4:** Wednesday, June 10, 8:30 PM EDT on ABC. New York can restore control of the series at home; a loss would make it a 2-2 series with San Antonio back in the fight.
+**Game 4:** Wednesday, June 10, 8:30 PM EDT on ABC. New York can restore control of the series at home; a loss would make it a 2-2 series with San Antonio back in the fight. The June 10 morning dispatch frames it as the Garden's chance to stop the Spurs' road response from becoming a full reset.
 
 ## Sources
 
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Knicks lose Game 3 to the Spurs, 115-111, at Madison Square Garden; New York leads the NBA Finals 2-1.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition confirms the 2-1 series lead and lists Game 4 for June 10 on ABC.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Game 4 is tonight in New York; the Knicks can restore series control at home or let San Antonio force a 2-2 reset.
 
 ## Related
 
