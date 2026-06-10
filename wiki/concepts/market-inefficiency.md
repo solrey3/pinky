@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-09"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets]
-source_count: 6
+source_count: 7
 ---
 
 # Market Inefficiency
@@ -20,6 +20,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Prediction-market fragments and split-tape equity behavior show information quality varies sharply by market venue and asset class.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — The close preserved the split tape, while Polymarket chatter and blocked Kalshi extraction showed that forecast signals can be degraded by data-access and parsing constraints.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Polymarket again returned unstructured trending text and Kalshi extraction failed/blocked, while the equity tape remained internally split between growth losers and value/quality winners.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Polymarket returned Spurs and Peru-election fragments without clean movement deltas, while Kalshi extraction failed/blocked; the source is useful as a provenance warning more than as a forecast signal.
 
 ## Related Concepts
 
@@ -36,3 +37,5 @@ Market inefficiency is the shared engine of three very different stories: a base
 The June 8 newsletters' fragmented prediction-market extraction is a reminder that market signals are only as good as their liquidity, access, and data quality. A number like "Spurs 22%," fuzzy Spurs/Knicks chatter, or a blocked Kalshi scrape is not just a forecast; it is also an artifact of collection constraints.
 
 June 9 repeats the warning. When prediction-market extraction fails on consecutive dispatches, the right inference is not "no signal"; it is "collection pipeline degraded." Treat those fields as provenance notes until a cleaner feed is available.
+
+The evening edition confirms that discipline: Spurs 38% and Peru-election snippets are not enough to infer movement. Without deltas, liquidity context, and clean question identifiers, prediction-market blurbs are weak evidence.

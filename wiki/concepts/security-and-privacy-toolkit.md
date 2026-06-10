@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-09"
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety]
-source_count: 8
+source_count: 9
 ---
 
 # Security & Privacy Toolkit
@@ -22,6 +22,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Breach-disclosure lag, cloud-data expiry, and an AI gun-detection lawsuit broaden the toolkit from tools/configuration into vendor accountability and incident-response timing.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories laced with credential stealers put software supply-chain integrity and AI coding-agent workflows into the security toolkit.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — AI developer password theft, package compromise, and potential continental-scale GPS jamming extend the toolkit from local/user defense into software supply-chain and infrastructure resilience.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — High-severity Linux CVE, npm v12 breaking changes, and Anthropic model-boundary debate show the security perimeter spanning kernel correctness, package compatibility, and AI-governance policy.
 
 ## Related Concepts
 
@@ -35,4 +36,6 @@ The security stack reflects a "trust nothing, verify everything" posture. Tailsc
 
 The June 8 newsletters add an accountability layer: good security is not only encryption and tooling, but also how quickly vendors disclose breaches, how clearly cloud providers communicate retention/expiry rules, whether AI safety products can survive courtroom scrutiny when they fail in the field, and whether package/action ecosystems can resist credential-stealing supply-chain attacks.
 
-The June 9 dispatch widens the perimeter again. If AI developer passwords can be harvested through trusted open-source tools, then developer identity is part of the security boundary. If GPS can be jammed at continental scale, then navigation and timing infrastructure belongs in the same operational-risk map as cloud, identity, and endpoint defense.
+The June 9 morning dispatch widens the perimeter again. If AI developer passwords can be harvested through trusted open-source tools, then developer identity is part of the security boundary. If GPS can be jammed at continental scale, then navigation and timing infrastructure belongs in the same operational-risk map as cloud, identity, and endpoint defense.
+
+The June 9 evening edition adds a software-infrastructure version of the same point: one faulty character in Linux can become a high-severity CVE, npm breaking changes can ripple through build systems, and Anthropic's model refusals are now part of security governance because model access governs what capabilities developers and adversaries can operationalize.

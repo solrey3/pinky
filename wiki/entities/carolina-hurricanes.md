@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-09
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 15
+source_count: 16
 ---
 
 # Carolina Hurricanes
@@ -36,7 +36,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **SCF Game 3:** Saturday June 6, 8:00 PM EDT, ABC — at Vegas. Whoever wins Game 3 controls the series momentum. Carolina is now 1-1 with two road games ahead; VGK is 1-1 with two home games ahead. The series is structurally even but the venue advantage now flips.
 
-**Next listed SCF slot:** Tuesday June 9, 8:00 PM EDT, ABC — Carolina Hurricanes at Vegas Golden Knights. The June 8 and June 9 morning newsletters do not report the intervening game result; they preserve the upcoming ABC slot.
+**Next listed SCF slot:** Tuesday June 9, 8:00 PM EDT, ABC — Carolina Hurricanes at Vegas Golden Knights. The June 8 and June 9 newsletters do not report the intervening game result; they preserve the upcoming ABC slot.
 
 ## Sources
 
@@ -55,6 +55,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — Game 2 OT win confirmed in evening edition. **Game 3 Saturday June 6, 8:00 PM EDT, ABC at Vegas.** Series tied 1-1. Whoever wins Game 3 controls momentum. Hurricanes now playing two road games.
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Next listed Stanley Cup Finals slot: Carolina Hurricanes at Vegas Golden Knights, Tuesday June 9, 8:00 PM EDT on ABC. No intervening result included in this source.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Carolina at Vegas remains the Tuesday June 9 ABC hockey slot; the dispatch does not provide a new series result.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition again lists Carolina at Vegas on ABC with no new SCF result.
 
 ## Related
 

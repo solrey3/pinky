@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-06-09
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu]
-source_count: 5
+source_count: 6
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -25,6 +25,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-05-28 (Morning)**: AEW content confirmed leaving NJPW World for Japanese subscribers in September — a structural separation formalizing the commercial divergence between the two promotions following Bushiroad's exit.
 - **2026-06-08 (Morning)**: Best of the Super Juniors 33 has wrapped in Tokyo; the dispatch points to the final-review cycle around YOH vs. Kosei Fujita without adding enough detail to name the winner in the wiki voice.
 - **2026-06-09 (Morning)**: NJPW vs. DDT Part 2 results appear in the wrestling digest, keeping New Japan active in the cross-promotional results stream after BOSJ.
+- **2026-06-09 (Evening)**: Nick Wayne says the 2026 Best of the Super Juniors was the best performance run and experience of his life, adding a talent-development note to the tournament's aftermath.
 
 ## Sources
 
@@ -33,6 +34,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](sources/newsletter-2026-05-28.md) — AEW content leaving NJPW World for Japanese subscribers in September. The AEW/NJPW partnership is dissolving in distribution as well as booking.
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — BOSJ 33 final-review cycle flagged in Tokyo; YOH vs. Kosei Fujita headline noted, but this source does not preserve enough detail to record the tournament winner safely.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — NJPW vs. DDT Part 2 results linked in the wrestling digest; no match-level detail extracted into this wiki beyond the cross-promotional results note.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Nick Wayne reflects on BOSJ 2026 as the best performance stretch and experience of his life.
 
 ## Related
 

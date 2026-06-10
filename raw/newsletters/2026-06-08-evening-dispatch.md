@@ -14,10 +14,10 @@ created: 2026-06-08T22:02:48+00:00
 ## 🌙 SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
-**SUNNY AT SUPPER TIME:** 73°F, west wind near 9 mph, visibility 9 miles, dry pavement. Tonight's low and tomorrow's full outlook: *[Data unavailable]*.
+**CLEAR SHORE NIGHT:** 73°F at supper time, west wind near 9 mph, visibility 9 miles, dry pavement. Overnight turns clear and cool, bottoming out around **51°F**; Tuesday brings a sunny boardwalk day with highs in the **low-to-mid 80s**, light morning breeze building into the afternoon.
 
 ### Makati, Philippines
-**PARTLY CLOUDY, HUMID FEEL:** 29°C, feels like 35°C, east wind 12 km/h, 10 km visibility, no rain reported. Tonight/tomorrow forecast details: *[Data unavailable]*.
+**HUMID EVENING, STEADY HEAT:** 29°C, feels like 35°C, east wind 12 km/h, 10 km visibility, light rain trace reported. Overnight stays warm near **28°C**; Tuesday looks mostly sunny to partly cloudy, high around **32°C**, with only a low shower chance.
 
 ---
 

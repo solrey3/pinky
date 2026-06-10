@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-09
 tags: [markets, investing, risk-off, equities, crypto, rotation]
-source_count: 3
+source_count: 4
 ---
 
 # Risk-Off Market Rotation
@@ -17,6 +17,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Nasdaq, S&P, Russell, TSLA, AMD, AMZN, and Bitcoin sold off while BRK.B, SCHW, COST, UPS, and VNQ were green or resilient.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — End-of-day close confirmed the same pattern: Nasdaq -4.27% and S&P -2.56% while SCHD, VBR, VNQ, BRK.B, COST, RL, and TGT held up or gained.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The next morning preserved the split: AI/growth names remained pressured while dividend, value, real estate, consumer, and Berkshire-style quality pockets were resilient.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — The close intensified the pattern: Nasdaq -5.22%, S&P 500 -2.93%, and Russell 2000 -2.21%, while dividend, value, real estate, Berkshire, select financials, retail, and Costco-style quality names held up or gained.
 
 ## Related Concepts
 
@@ -31,3 +32,5 @@ The June 8 dispatches are a clean example of non-uniform risk aversion. Investor
 The evening close strengthens the read because the rotation survived a full trading day. High-beta AI/growth exposure was punished, but dividends, value, real estate, consumer staples, and Berkshire-style quality found buyers.
 
 The June 9 morning dispatch makes the pattern feel like a regime rather than a one-day print: the Nasdaq and S&P remain near their 52-week highs, but the internal leadership has narrowed sharply.
+
+The June 9 evening close strengthens the regime call. A -5% Nasdaq day can look like panic at index level, but the green pockets in SCHD, VBR, VNQ, BRK.B, RL, TGT, COST, AXP, and SCHW show preference sorting rather than universal de-risking.
