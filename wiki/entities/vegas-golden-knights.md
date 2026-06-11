@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-03
 updated: 2026-06-10
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 9
+source_count: 10
 ---
 
 # Vegas Golden Knights
@@ -47,9 +47,10 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Vegas hosts Carolina in the listed Tuesday June 9 ABC slot; no new result is recorded.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition again lists Vegas hosting Carolina on ABC with no new result.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** Vegas loses at home, and the Final is tied 2-2.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Evening edition confirms the 5-3 home loss and best-of-three reset; Vegas travels to Carolina for Game 5 on June 11.
 
 ## Related
 
-- [[Carolina Hurricanes]] — the Eastern Conference representative; tied 1-1 after Canes won Game 2 in OT
+- [[Carolina Hurricanes]] — the Eastern Conference representative; 2026 Stanley Cup Final opponent, series tied 2-2
 - [[Stanley Cup Finals 2026]] — the series context; VGK-CAR best-of-seven
-- [[NBA Finals 2026]] — parallel championship series running simultaneously on ABC; Knicks at Spurs Game 1 tonight
+- [[NBA Finals 2026]] — parallel championship series running simultaneously on ABC; Spurs at Knicks Game 4 is the June 10 hinge

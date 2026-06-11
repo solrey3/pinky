@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-10
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 17
+source_count: 18
 ---
 
 # Carolina Hurricanes
@@ -58,9 +58,10 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Carolina at Vegas remains the Tuesday June 9 ABC hockey slot; the dispatch does not provide a new series result.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition again lists Carolina at Vegas on ABC with no new SCF result.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** The Hurricanes tie the series 2-2, converting the Final into a best-of-three.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Evening edition confirms the Game 4 win and the 2-2 Stanley Cup Final reset; next listed game is Vegas at Carolina on June 11.
 
 ## Related
 
 - [[Stanley Cup Playoffs 2026]] — they are in the Finals vs. Vegas
-- [[Vegas Golden Knights]] — Western Conference representative; leads SCF 1-0 after stealing Game 1; now tied 1-1 after OT loss in Game 2
-- [[NBA Finals 2026]] — parallel championship series also underway; Knicks lead Spurs 1-0
+- [[Vegas Golden Knights]] — Western Conference representative; 2026 Stanley Cup Final opponent, series tied 2-2
+- [[NBA Finals 2026]] — parallel championship series also underway; Spurs at Knicks Game 4 is the June 10 hinge

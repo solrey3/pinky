@@ -4,9 +4,9 @@ title: Kazuchika Okada
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-10
+tags: [person, wrestling, njpw, wrestle-kingdom, meltzer]
+source_count: 2
 ---
 
 # Kazuchika Okada (The Rainmaker)
@@ -35,7 +35,10 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/kazuchika-okada.md)
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — The wrestling-rating table lists **Hiroshi Tanahashi vs. Kazuchika Okada** at NJPW Wrestle Kingdom 20 as the top 2026 match shown, rated 6 stars.
 
 ## Related
+
+- [[NJPW]] — promotion where the Tanahashi/Okada rivalry became era-defining
 
 

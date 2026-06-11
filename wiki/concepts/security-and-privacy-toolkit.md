@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-10"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux]
-source_count: 10
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure]
+source_count: 11
 ---
 
 # Security & Privacy Toolkit
@@ -24,6 +24,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — AI developer password theft, package compromise, and potential continental-scale GPS jamming extend the toolkit from local/user defense into software supply-chain and infrastructure resilience.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — High-severity Linux CVE, npm v12 breaking changes, and Anthropic model-boundary debate show the security perimeter spanning kernel correctness, package compatibility, and AI-governance policy.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — CVE-2026-23111 keeps Linux implementation risk on the sysadmin board, while Claude Fable 5 boundary concerns keep AI governance inside the security perimeter.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Suspected Chinese websites seeking sensitive U.S. information and GitHub API authentication trouble show the perimeter spanning OSINT/counterintelligence and developer-platform identity reliability.
 
 ## Related Concepts
 
@@ -42,3 +43,5 @@ The June 9 morning dispatch widens the perimeter again. If AI developer password
 The June 9 evening edition adds a software-infrastructure version of the same point: one faulty character in Linux can become a high-severity CVE, npm breaking changes can ripple through build systems, and Anthropic's model refusals are now part of security governance because model access governs what capabilities developers and adversaries can operationalize.
 
 The June 10 morning source confirms this is not a one-off: the same Linux CVE stays in the news cycle, and model-boundary controversy remains adjacent to operational tooling. Security practice must treat kernel defects, package churn, and model-provider policy as parts of the same availability and trust surface.
+
+The June 10 evening source broadens the same perimeter into collection and identity. Suspicious websites seeking sensitive information are classic counterintelligence/OSINT risk, while GitHub API auth problems are a reminder that developer identity infrastructure is production infrastructure.
