@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-10"
-tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets]
-source_count: 9
+updated: "2026-06-11"
+tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance]
+source_count: 10
 ---
 
 # Market Inefficiency
@@ -23,6 +23,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Polymarket returned Spurs and Peru-election fragments without clean movement deltas, while Kalshi extraction failed/blocked; the source is useful as a provenance warning more than as a forecast signal.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Polymarket again returns partial Spurs and Peru-election snippets while Kalshi is unavailable, preserving the distinction between market signal and collection artifact.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Both Polymarket and Kalshi are unavailable in the raw fetch, turning the prediction-market section into a provenance failure rather than a forecast input.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Polymarket returns only discussion chatter and Kalshi is unavailable, again making collection quality the useful signal rather than any forecast movement.
 
 ## Related Concepts
 
@@ -45,3 +46,5 @@ The evening edition confirms that discipline: Spurs 38% and Peru-election snippe
 The June 10 source repeats the same failure mode. When the same prediction-market fields arrive as snippets across multiple dispatches, the wiki should track the provenance problem itself rather than treat the numbers as clean forecasts.
 
 The June 10 evening source is even cleaner as a warning: no Polymarket or Kalshi data is available at all. That absence is information about the data pipeline, not information about the underlying forecast markets.
+
+The June 11 morning source preserves the same lesson with a slightly different failure mode: chatter without a clean mover is still not a forecast. Prediction-market notes need market identifiers, prices, deltas, and liquidity context before they can be treated as evidence.

@@ -4,9 +4,9 @@ title: Swerve Strickland
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-11
+tags: [person, wrestling, aew, owen-hart-tournament]
+source_count: 2
 ---
 
 # Swerve Strickland
@@ -26,6 +26,7 @@ source_count: 1
 
 ## Highlights
 
+- Advanced to the Men's Owen Hart Foundation Tournament Final on June 10, 2026 by defeating Brody King.
 - AEW World Champion (2024)
 - His matches with Hangman Adam Page are AEW's best feud of 2023
 - The Swerve Stomp (double stomp from the top rope to the floor) is wrestling's most dangerous-looking spot
@@ -35,6 +36,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/swerve-strickland.md)
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Defeats Brody King to advance to the Men's Owen Hart Foundation Tournament Final.
 
 ## Related
 

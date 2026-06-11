@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-10
-tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer]
-source_count: 7
+updated: 2026-06-11
+tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door]
+source_count: 8
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -27,6 +27,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-09 (Morning)**: NJPW vs. DDT Part 2 results appear in the wrestling digest, keeping New Japan active in the cross-promotional results stream after BOSJ.
 - **2026-06-09 (Evening)**: Nick Wayne says the 2026 Best of the Super Juniors was the best performance run and experience of his life, adding a talent-development note to the tournament's aftermath.
 - **2026-06-10 (Morning)**: The Meltzer 5-star-plus list in the dispatch keeps Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 visible as the standout NJPW match note of the cycle.
+- **2026-06-11 (Morning)**: Forbidden Door build continues through the Kenny Omega vs. Zack Sabre Jr. announcement, while the ratings table again keeps Tanahashi vs. Okada at Wrestle Kingdom 20 as the top NJPW marker.
 
 ## Sources
 
@@ -37,6 +38,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — NJPW vs. DDT Part 2 results linked in the wrestling digest; no match-level detail extracted into this wiki beyond the cross-promotional results note.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Nick Wayne reflects on BOSJ 2026 as the best performance stretch and experience of his life.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Meltzer 5-star-plus table lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as a 6-star NJPW match.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Kenny Omega vs. Zack Sabre Jr. is set for AEW x NJPW Forbidden Door; Tanahashi vs. Okada remains the top NJPW match on the ratings table.
 
 ## Related
 

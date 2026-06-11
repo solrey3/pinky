@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-10
+updated: 2026-06-11
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 18
+source_count: 19
 ---
 
 # Carolina Hurricanes
@@ -39,6 +39,8 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **SCF Game 4 result (June 9, 2026): CAR 5, VGK 3.** Carolina wins in Las Vegas and ties the Stanley Cup Final **2-2**. The series is now a best-of-three. This is the cleanest reset since Game 2: Carolina has answered twice after Vegas threatened to take control.
 
+**SCF Game 5:** Thursday June 11, 8:00 PM EDT on ABC — Vegas at Carolina. The series is tied 2-2; Game 5 creates the first 3-2 edge of the Final.
+
 ## Sources
 
 - [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](sources/newsletter-2026-05-27-evening.md) — Hurricanes referenced in ECF context; Vegas Golden Knights sweeping Colorado in the Western Conference.
@@ -59,6 +61,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition again lists Carolina at Vegas on ABC with no new SCF result.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** The Hurricanes tie the series 2-2, converting the Final into a best-of-three.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Evening edition confirms the Game 4 win and the 2-2 Stanley Cup Final reset; next listed game is Vegas at Carolina on June 11.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Game 5 listed for tonight: Vegas at Carolina, June 11, 8:00 PM EDT on ABC, with the series tied 2-2.
 
 ## Related
 

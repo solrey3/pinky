@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-10
-tags: [markets, investing, risk-off, equities, crypto, rotation]
-source_count: 6
+updated: 2026-06-11
+tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors]
+source_count: 7
 ---
 
 # Risk-Off Market Rotation
@@ -20,6 +20,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — The close intensified the pattern: Nasdaq -5.22%, S&P 500 -2.93%, and Russell 2000 -2.21%, while dividend, value, real estate, Berkshire, select financials, retail, and Costco-style quality names held up or gained.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — The morning dispatch preserves the same red-index/green-pocket structure: AI and growth are hit while SCHD, VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — The close worsens the selloff: Nasdaq -6.27%, S&P 500 -3.80%, and AMD -16.61%, but VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, SCHD, and VBR still show selective demand.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — The morning repeats the severe split tape: Nasdaq -6.27%, S&P 500 -3.80%, AMD -16.61%, NVDA and TSM down sharply, while VNQ, SCHD, VBR, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient or green.
 
 ## Related Concepts
 
@@ -40,3 +41,5 @@ The June 9 evening close strengthens the regime call. A -5% Nasdaq day can look 
 The June 10 morning edition does not overturn the diagnosis; it carries it forward. The same tickers and 52-week context show a market still sorting exposures rather than abandoning equities across the board.
 
 The June 10 evening close makes the regime more severe without changing its character. A -6% Nasdaq print and -16% AMD move are panic-looking numbers, but the persistence of green or resilient defensive, real-estate, consumer, financial, and quality names means the market is still voting by exposure type rather than simply exiting equities.
+
+The June 11 morning dispatch confirms persistence rather than reversal. The same extreme semiconductor and Nasdaq damage is carried forward alongside the same green pockets, while inflation, Iran, and USMCA uncertainty add macro reasons for investors to demand cash-flow quality and shorter-duration exposure.

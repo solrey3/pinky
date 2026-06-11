@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-10"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure]
-source_count: 11
+updated: "2026-06-11"
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition]
+source_count: 12
 ---
 
 # Security & Privacy Toolkit
@@ -25,6 +25,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — High-severity Linux CVE, npm v12 breaking changes, and Anthropic model-boundary debate show the security perimeter spanning kernel correctness, package compatibility, and AI-governance policy.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — CVE-2026-23111 keeps Linux implementation risk on the sysadmin board, while Claude Fable 5 boundary concerns keep AI governance inside the security perimeter.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Suspected Chinese websites seeking sensitive U.S. information and GitHub API authentication trouble show the perimeter spanning OSINT/counterintelligence and developer-platform identity reliability.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Anthropic Fable guardrail criticism, an AI agent running amok, and a facial-recognition false-arrest lawsuit put model policy, agent control, and biometric evidence handling inside the security perimeter.
 
 ## Related Concepts
 
@@ -45,3 +46,5 @@ The June 9 evening edition adds a software-infrastructure version of the same po
 The June 10 morning source confirms this is not a one-off: the same Linux CVE stays in the news cycle, and model-boundary controversy remains adjacent to operational tooling. Security practice must treat kernel defects, package churn, and model-provider policy as parts of the same availability and trust surface.
 
 The June 10 evening source broadens the same perimeter into collection and identity. Suspicious websites seeking sensitive information are classic counterintelligence/OSINT risk, while GitHub API auth problems are a reminder that developer identity infrastructure is production infrastructure.
+
+The June 11 source shows why the toolkit cannot stop at endpoint hardening. Biometric matches, model guardrails, and agent permissions are all security controls once they influence arrests, vulnerability research, package ecosystems, or production automation.

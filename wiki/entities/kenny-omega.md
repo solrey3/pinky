@@ -4,9 +4,9 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-11
+tags: [person, wrestling, aew, njpw, forbidden-door]
+source_count: 2
 ---
 
 # Kenny Omega
@@ -26,6 +26,7 @@ source_count: 1
 
 ## Highlights
 
+- Set to face Zack Sabre Jr. at AEW x NJPW Forbidden Door in the June 2026 build.
 - IWGP Heavyweight Champion; AEW World Champion; AEW All-Atlantic Champion
 - The Okada IV match at NJPW Dominion 2018 (7 stars, Meltzer) is considered the greatest match ever by many metrics
 - His Bullet Club run (2014–2018) made NJPW internationally commercially viable
@@ -35,6 +36,7 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/kenny-omega.md)
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Forbidden Door build sets Kenny Omega vs. Zack Sabre Jr.
 
 ## Related
 
