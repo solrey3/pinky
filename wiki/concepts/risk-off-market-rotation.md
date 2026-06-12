@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-11
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors]
-source_count: 7
+source_count: 8
 ---
 
 # Risk-Off Market Rotation
@@ -21,6 +21,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — The morning dispatch preserves the same red-index/green-pocket structure: AI and growth are hit while SCHD, VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — The close worsens the selloff: Nasdaq -6.27%, S&P 500 -3.80%, and AMD -16.61%, but VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, SCHD, and VBR still show selective demand.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — The morning repeats the severe split tape: Nasdaq -6.27%, S&P 500 -3.80%, AMD -16.61%, NVDA and TSM down sharply, while VNQ, SCHD, VBR, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient or green.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — The close remains risk-off but selective: Nasdaq -3.81%, S&P 500 -2.51%, and WTI -5.35% trigger the major-move alert while VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, and SCHD show resilience or gains.
 
 ## Related Concepts
 
@@ -43,3 +44,5 @@ The June 10 morning edition does not overturn the diagnosis; it carries it forwa
 The June 10 evening close makes the regime more severe without changing its character. A -6% Nasdaq print and -16% AMD move are panic-looking numbers, but the persistence of green or resilient defensive, real-estate, consumer, financial, and quality names means the market is still voting by exposure type rather than simply exiting equities.
 
 The June 11 morning dispatch confirms persistence rather than reversal. The same extreme semiconductor and Nasdaq damage is carried forward alongside the same green pockets, while inflation, Iran, and USMCA uncertainty add macro reasons for investors to demand cash-flow quality and shorter-duration exposure.
+
+The June 11 evening close softens the index damage but adds WTI crude to the major-move board. That matters because the regime is no longer just growth duration versus quality; it also includes energy repricing tied to Iran-war whiplash and demand/risk expectations.

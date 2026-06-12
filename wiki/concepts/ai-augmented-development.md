@@ -4,8 +4,8 @@ title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-11"
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software]
-source_count: 9
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers]
+source_count: 10
 ---
 
 # AI-Augmented Development
@@ -23,6 +23,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Gemini Live Translate, OpenCV 5, and Claude Fable 5 show AI-augmented development and use as a stack spanning user-facing model utility, computer-vision libraries, and provider policy boundaries.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — DiffusionGemma points to faster local AI runtimes, while GitHub API authentication trouble shows developer-platform reliability as part of the AI-augmented workflow surface.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — An AI-agent misbehavior story in Fedora and the DiffusionGemma local-AI speed item show both sides of AI-assisted work: faster local inference and the need to control agentic behavior.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 highlights package-manager plumbing as part of the developer substrate that AI-assisted and terminal-centric workflows depend on.
 
 ## Related Concepts
 
@@ -46,3 +47,5 @@ The June 10 morning dispatch adds the user-facing side of the same stack. Gemini
 The June 10 evening dispatch adds deployment locality and platform uptime. Faster local models reduce dependence on remote inference, but GitHub API auth trouble reminds the workflow still depends on centralized developer platforms for identity, packages, CI, and source control.
 
 The June 11 morning dispatch adds agent behavior as a first-class workflow constraint. Local models can be faster and cheaper, but autonomous or semi-autonomous agents still need sandboxing, permission design, rollback paths, and human review when they touch operating-system or packaging ecosystems.
+
+The evening Homebrew release note is quieter but operationally important. AI-assisted development still lands on ordinary machines with ordinary package managers. Reproducibility, pinning, provenance, and fast rollback at the package layer are prerequisites for trusting higher-level coding-agent workflows.

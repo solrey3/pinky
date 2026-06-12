@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-03
 updated: 2026-06-11
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 11
+source_count: 12
 ---
 
 # Vegas Golden Knights
@@ -36,7 +36,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 **SCF Game 4 result (June 9, 2026): VGK 3, CAR 5 — LOSS.** Vegas loses at home and the Stanley Cup Final is tied **2-2**. After splitting the first two in Raleigh, VGK had a home-ice chance to tilt the series; instead the Final resets to a best-of-three.
 
-**SCF Game 5:** Thursday June 11, 8:00 PM EDT on ABC — Vegas at Carolina. VGK goes back to Raleigh needing a road answer after losing Game 4 at home.
+**SCF Game 5:** Thursday June 11, 8:00 PM EDT on ABC — Vegas at Carolina. VGK goes back to Raleigh needing a road answer after losing Game 4 at home. The evening dispatch still lists Game 5 as upcoming rather than final.
 
 ## Sources
 
@@ -51,6 +51,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** Vegas loses at home, and the Final is tied 2-2.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Evening edition confirms the 5-3 home loss and best-of-three reset; Vegas travels to Carolina for Game 5 on June 11.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Vegas at Carolina is tonight's Stanley Cup Final Game 5 listing, with the series tied 2-2.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition again lists Game 5 at Carolina; the source provides schedule context but no final result.
 
 ## Related
 

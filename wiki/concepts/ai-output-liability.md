@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-10
 updated: 2026-06-11
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition]
-source_count: 2
+source_count: 3
 ---
 
 # AI Output Liability
@@ -16,6 +16,7 @@ AI output liability is the accountability problem created when generated answers
 
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — A court ruling against Google AI search answers frames generated search output as legally attributable to Google, while DiffusionGemma shows local AI capability continuing to improve.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — A German ruling treats Google AI Overviews as Google's own words, and a Florida facial-recognition false-match lawsuit shows algorithmic output becoming actionable harm in policing.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — The facial-recognition false-arrest case stays in the evening AI/tech desk, reinforcing that algorithmic matches become liability events when police treat them as decisive evidence.
 
 ## Related Concepts
 
@@ -29,3 +30,5 @@ AI output liability is the accountability problem created when generated answers
 The June 10 evening dispatch makes the legal turn explicit: generated answers are not merely UX decoration layered over search results. If courts treat AI search responses as the platform's own words, then AI deployment carries editorial and legal responsibility. This changes the calculus for search engines, assistants, local models, and any product that replaces citations or links with synthesized claims.
 
 The June 11 morning dispatch widens the frame from search to public-sector algorithmic action. A faulty facial-recognition match can become an arrest if institutional actors treat model output as determinative instead of probabilistic. Liability is therefore not only about text; it is about any generated or inferred output that gets laundered into official action.
+
+The evening edition confirms this is not a one-line curiosity. When the same facial-recognition case remains in the close, the operational lesson is evidence handling: institutions need audit trails, thresholds, corroboration rules, and accountability for humans who convert probabilistic outputs into coercive state action.

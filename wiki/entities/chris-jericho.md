@@ -4,9 +4,9 @@ title: Chris Jericho
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27
-tags: [person, wrestling, music]
-source_count: 2
+updated: 2026-06-11
+tags: [person, wrestling, music, aew]
+source_count: 3
 ---
 
 # Chris Jericho
@@ -36,6 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/chris-jericho.md)
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — Jericho vs. Ricochet Lights Out Philly Street Fight scheduled for AEW Dynamite tonight (5/27). Match announced for the Philadelphia building.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Jericho comments on the "Tommy's Mommy" line from AEW Dynamite, a minor but live character/promo-cycle note.
 
 ## Related
 

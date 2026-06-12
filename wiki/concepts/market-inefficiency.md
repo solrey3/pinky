@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-11"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance]
-source_count: 10
+source_count: 11
 ---
 
 # Market Inefficiency
@@ -24,6 +24,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Polymarket again returns partial Spurs and Peru-election snippets while Kalshi is unavailable, preserving the distinction between market signal and collection artifact.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Both Polymarket and Kalshi are unavailable in the raw fetch, turning the prediction-market section into a provenance failure rather than a forecast input.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Polymarket returns only discussion chatter and Kalshi is unavailable, again making collection quality the useful signal rather than any forecast movement.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Polymarket returns World Cup and Iran-war chatter without clean mover percentages, while Kalshi extraction fails or is blocked; provenance failure remains the signal.
 
 ## Related Concepts
 
@@ -48,3 +49,5 @@ The June 10 source repeats the same failure mode. When the same prediction-marke
 The June 10 evening source is even cleaner as a warning: no Polymarket or Kalshi data is available at all. That absence is information about the data pipeline, not information about the underlying forecast markets.
 
 The June 11 morning source preserves the same lesson with a slightly different failure mode: chatter without a clean mover is still not a forecast. Prediction-market notes need market identifiers, prices, deltas, and liquidity context before they can be treated as evidence.
+
+The evening source repeats the same failure mode around World Cup and Iran-war markets. The wiki should treat this as a collection-pipeline issue until the feed supplies clean market IDs, prices, movement deltas, and liquidity.
