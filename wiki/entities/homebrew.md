@@ -4,9 +4,9 @@ title: Homebrew
 type: entity
 entity_type: product
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-12
 tags: [developer-tools, package-manager, macos, linux, cli, homebrew]
-source_count: 1
+source_count: 2
 ---
 
 # Homebrew
@@ -15,11 +15,12 @@ Open-source package manager used primarily on macOS and Linux developer machines
 
 ## 2026 Notes
 
-**June 11, 2026:** Homebrew 6.0.0 appeared on the AI/tech desk as a Hacker News item. The release matters less as a single version bump and more as infrastructure hygiene: package managers shape how quickly developers can install, update, pin, audit, and recover tooling.
+**June 11-12, 2026:** Homebrew 6.0.0 appeared on the AI/tech desk as a Hacker News item across consecutive dispatches. The release matters less as a single version bump and more as infrastructure hygiene: package managers shape how quickly developers can install, update, pin, audit, and recover tooling.
 
 ## Sources
 
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 is the developer-infrastructure item in the AI/tech desk.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Homebrew 6.0.0 persists into the next morning feed, reinforcing package managers as basic developer infrastructure.
 
 ## Related
 

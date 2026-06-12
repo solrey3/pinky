@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-11"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations]
-source_count: 13
+updated: "2026-06-12"
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security]
+source_count: 14
 ---
 
 # Security & Privacy Toolkit
@@ -27,6 +27,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Suspected Chinese websites seeking sensitive U.S. information and GitHub API authentication trouble show the perimeter spanning OSINT/counterintelligence and developer-platform identity reliability.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Anthropic Fable guardrail criticism, an AI agent running amok, and a facial-recognition false-arrest lawsuit put model policy, agent control, and biometric evidence handling inside the security perimeter.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI's likely-China influence-operations claim, AMD RCE criticism, and the facial-recognition lawsuit show security spanning information ops, hardware/software vulnerability handling, and policing evidence controls.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — AI-agent cost blowups, facial-recognition policing, Homebrew package plumbing, and macOS 27 breaking Asahi Linux show the trust perimeter spanning automation limits, biometric evidence, package managers, and platform boot chains.
 
 ## Related Concepts
 
@@ -51,3 +52,5 @@ The June 10 evening source broadens the same perimeter into collection and ident
 The June 11 source shows why the toolkit cannot stop at endpoint hardening. Biometric matches, model guardrails, and agent permissions are all security controls once they influence arrests, vulnerability research, package ecosystems, or production automation.
 
 The evening edition adds the physical and political layer. If data-center campaigns can be framed as foreign influence operations, and if an unfixed RCE becomes a public vendor-trust issue, then the toolkit must include attribution skepticism, vulnerability disclosure discipline, and infrastructure-siting awareness.
+
+The June 12 morning source adds platform dependency and automation budgets. An AI agent that can spend a human into bankruptcy is a permissioning failure; a macOS beta that breaks Asahi Linux is a boot-chain dependency issue. Both belong next to biometric policing and package-manager provenance because all four are trust-boundary problems.

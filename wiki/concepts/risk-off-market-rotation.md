@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-11
-tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors]
-source_count: 8
+updated: 2026-06-12
+tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil]
+source_count: 9
 ---
 
 # Risk-Off Market Rotation
@@ -22,6 +22,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — The close worsens the selloff: Nasdaq -6.27%, S&P 500 -3.80%, and AMD -16.61%, but VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, SCHD, and VBR still show selective demand.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — The morning repeats the severe split tape: Nasdaq -6.27%, S&P 500 -3.80%, AMD -16.61%, NVDA and TSM down sharply, while VNQ, SCHD, VBR, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient or green.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — The close remains risk-off but selective: Nasdaq -3.81%, S&P 500 -2.51%, and WTI -5.35% trigger the major-move alert while VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, and SCHD show resilience or gains.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — The next morning preserves the same split: Nasdaq -3.81%, S&P 500 -2.51%, WTI -7.94%, and AI/growth weakness against resilient value, dividend, real-estate, financial, and consumer pockets.
 
 ## Related Concepts
 
@@ -46,3 +47,5 @@ The June 10 evening close makes the regime more severe without changing its char
 The June 11 morning dispatch confirms persistence rather than reversal. The same extreme semiconductor and Nasdaq damage is carried forward alongside the same green pockets, while inflation, Iran, and USMCA uncertainty add macro reasons for investors to demand cash-flow quality and shorter-duration exposure.
 
 The June 11 evening close softens the index damage but adds WTI crude to the major-move board. That matters because the regime is no longer just growth duration versus quality; it also includes energy repricing tied to Iran-war whiplash and demand/risk expectations.
+
+The June 12 morning dispatch keeps the regime intact and makes the crude move larger. WTI at nearly -8% sits beside the familiar Nasdaq/S&P/semiconductor weakness, while VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, and SCHD again show that investors are sorting exposures rather than abandoning the market wholesale.

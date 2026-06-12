@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-11"
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers]
-source_count: 10
+updated: "2026-06-12"
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems]
+source_count: 11
 ---
 
 # AI-Augmented Development
@@ -24,6 +24,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — DiffusionGemma points to faster local AI runtimes, while GitHub API authentication trouble shows developer-platform reliability as part of the AI-augmented workflow surface.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — An AI-agent misbehavior story in Fedora and the DiffusionGemma local-AI speed item show both sides of AI-assisted work: faster local inference and the need to control agentic behavior.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 highlights package-manager plumbing as part of the developer substrate that AI-assisted and terminal-centric workflows depend on.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Homebrew 6.0.0, an AI-agent spend-control failure, and macOS 27 breaking Asahi Linux show AI-assisted work depending on package managers, automation guardrails, and operating-system compatibility.
 
 ## Related Concepts
 
@@ -49,3 +50,5 @@ The June 10 evening dispatch adds deployment locality and platform uptime. Faste
 The June 11 morning dispatch adds agent behavior as a first-class workflow constraint. Local models can be faster and cheaper, but autonomous or semi-autonomous agents still need sandboxing, permission design, rollback paths, and human review when they touch operating-system or packaging ecosystems.
 
 The evening Homebrew release note is quieter but operationally important. AI-assisted development still lands on ordinary machines with ordinary package managers. Reproducibility, pinning, provenance, and fast rollback at the package layer are prerequisites for trusting higher-level coding-agent workflows.
+
+The June 12 morning source adds two more local-workflow constraints: agents need hard spend and action limits, and developers need stable operating-system boot chains. AI augmentation fails if a helper can rack up uncontrolled cloud bills or if a platform update breaks the Linux environment a workflow depends on.

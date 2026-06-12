@@ -4,9 +4,9 @@ title: Vegas Golden Knights
 type: entity
 entity_type: organization
 created: 2026-06-03
-updated: 2026-06-11
+updated: 2026-06-12
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 12
+source_count: 13
 ---
 
 # Vegas Golden Knights
@@ -21,6 +21,7 @@ NHL franchise based in Las Vegas, NV. The league's most successful expansion tea
 | SCF Game 1 | @ Carolina Hurricanes | **VGK 5, CAR 4 — W** |
 | SCF Game 2 | @ Carolina Hurricanes | **VGK 3, CAR 4 (OT) — L** — Series tied 1-1 |
 | SCF Game 4 | vs. Carolina Hurricanes | **VGK 3, CAR 5 — L** — Series tied 2-2 |
+| SCF Game 5 | @ Carolina Hurricanes | **VGK 2, CAR 4 — L** — Vegas trails 3-2 |
 
 **WCF:** Swept the defending-capable Avalanche in four games. The sweep meant VGK entered the Finals rested — Carolina was battle-tested across a 5-game ECF against Montréal, but VGK had the legs.
 
@@ -36,7 +37,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 **SCF Game 4 result (June 9, 2026): VGK 3, CAR 5 — LOSS.** Vegas loses at home and the Stanley Cup Final is tied **2-2**. After splitting the first two in Raleigh, VGK had a home-ice chance to tilt the series; instead the Final resets to a best-of-three.
 
-**SCF Game 5:** Thursday June 11, 8:00 PM EDT on ABC — Vegas at Carolina. VGK goes back to Raleigh needing a road answer after losing Game 4 at home. The evening dispatch still lists Game 5 as upcoming rather than final.
+**SCF Game 5 result (June 11, 2026): VGK 2, CAR 4 — LOSS.** Vegas loses in Raleigh and now trails the Stanley Cup Final **3-2**. The Golden Knights need a response to force Game 7; the series has shifted from reset to elimination pressure.
 
 ## Sources
 
@@ -52,9 +53,10 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Evening edition confirms the 5-3 home loss and best-of-three reset; Vegas travels to Carolina for Game 5 on June 11.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Vegas at Carolina is tonight's Stanley Cup Final Game 5 listing, with the series tied 2-2.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition again lists Game 5 at Carolina; the source provides schedule context but no final result.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — **SCF Game 5: Vegas 2, Carolina 4.** The Golden Knights trail 3-2 and need a response to avoid Carolina's closeout.
 
 ## Related
 
-- [[Carolina Hurricanes]] — the Eastern Conference representative; 2026 Stanley Cup Final opponent, series tied 2-2
+- [[Carolina Hurricanes]] — the Eastern Conference representative; 2026 Stanley Cup Final opponent, leading Vegas 3-2
 - [[Stanley Cup Finals 2026]] — the series context; VGK-CAR best-of-seven
 - [[NBA Finals 2026]] — parallel championship series running simultaneously on ABC; Spurs at Knicks Game 4 is the June 10 hinge
