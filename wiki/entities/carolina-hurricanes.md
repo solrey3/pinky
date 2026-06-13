@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-12
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 21
+source_count: 22
 ---
 
 # Carolina Hurricanes
@@ -22,6 +22,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 | ECF | Montréal Canadiens | **Won 4-1 — STANLEY CUP FINALS** |
 | SCF Game 4 | @ Vegas Golden Knights | **CAR 5, VGK 3 — W** — Series tied 2-2 |
 | SCF Game 5 | vs. Vegas Golden Knights | **CAR 4, VGK 2 — W** — Carolina leads 3-2 |
+| SCF Game 6 | @ Vegas Golden Knights | **June 14, 2026** — Carolina can win the Cup |
 
 **ECF Game 4 (May 28):** Carolina 4, Montréal 0 — shutout win at home.  
 **ECF Game 5 (May 29):** Carolina 6, Montréal 1 — dominant close. Carolina wins the series **4-1** and advances to the **Stanley Cup Finals vs. the Vegas Golden Knights**. They didn't just beat Montréal — they took them apart across four of five games, outscoring them 22-7 across the series.
@@ -41,6 +42,8 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 **SCF Game 4 result (June 9, 2026): CAR 5, VGK 3.** Carolina wins in Las Vegas and ties the Stanley Cup Final **2-2**. The series is now a best-of-three. This is the cleanest reset since Game 2: Carolina has answered twice after Vegas threatened to take control.
 
 **SCF Game 5 result (June 11, 2026): CAR 4, VGK 2.** Carolina wins at home and leads the Stanley Cup Final **3-2**. The Hurricanes now have the first closeout edge of the series after converting the best-of-three reset into a one-win cushion.
+
+**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Hurricanes can close out the Stanley Cup on the road.
 
 ## Sources
 
@@ -65,6 +68,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Game 5 listed for tonight: Vegas at Carolina, June 11, 8:00 PM EDT on ABC, with the series tied 2-2.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition again lists Vegas at Carolina for Game 5; the source records the setup but no final score.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — **SCF Game 5: Carolina 4, Vegas 2.** The Hurricanes lead the Final 3-2 and move within one win of the Stanley Cup.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms Carolina's 3-2 lead and lists Game 6 at Vegas on June 14, with the Cup in reach.
 
 ## Related
 

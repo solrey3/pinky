@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-06-12] ingest | Evening Brief — Friday, June 12, 2026
+- Source: `pinky/raw/newsletters/2026-06-12-evening-dispatch.md`
+- Summary: Friday June 12 evening dispatch — broad indexes closed green near 52-week highs, but the strongest signal was rotational: Russell 2000 +3.90%, VBR +2.99%, VNQ +1.78%, SCHD +1.61%, Target +10.33%, Ralph Lauren +10.21%, and WTI -7.68%. Iran deal headlines remain close-but-not-final. AI/security coverage adds Google's lawsuit against alleged Gemini-enabled scam operators and a PeopleSoft zero-day tied to mass data theft. NBA Finals Game 5 remains Knicks at Spurs on June 13; Carolina leads Vegas 3-2 with Game 6 set for June 14.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-06-12-evening.md` (new), `pinky/wiki/entities/peoplesoft.md` (new), `pinky/wiki/entities/google.md`, `pinky/wiki/entities/new-york-knicks.md`, `pinky/wiki/entities/san-antonio-spurs.md`, `pinky/wiki/entities/carolina-hurricanes.md`, `pinky/wiki/entities/vegas-golden-knights.md`, `pinky/wiki/concepts/risk-off-market-rotation.md`, `pinky/wiki/concepts/security-and-privacy-toolkit.md`, `pinky/wiki/concepts/market-inefficiency.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: the risk-off regime softened into a rotational relief close rather than a simple all-clear, while AI abuse and enterprise-app zero-days belong in the same practical security perimeter.
+
 ## [2026-06-12] ingest | Newsletter 2026-06-12 — Morning Dispatch
 - Source: `pinky/raw/newsletters/2026-06-12-morning-dispatch.md`
 - Summary: Friday June 12 morning dispatch — the selective risk-off regime persists: Nasdaq -3.81%, S&P 500 -2.51%, and WTI -7.94% triggered major-move attention while value/dividend/real-estate/quality and selected consumer/financial names stayed resilient. Policy risk centers on tariff litigation and Iran de-escalation headlines without final detail. AI/tech coverage adds Homebrew 6.0.0 persistence, facial-recognition arrest liability, an AI-agent cost-control failure, and macOS 27 beta breaking Asahi Linux boot support. Sports moved toward dual closeout watches: Knicks at Spurs Game 5 is June 13 with New York up 3-1, while Carolina beat Vegas 4-2 and leads the Stanley Cup Final 3-2.

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-12"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance]
-source_count: 12
+source_count: 13
 ---
 
 # Market Inefficiency
@@ -26,6 +26,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Polymarket returns only discussion chatter and Kalshi is unavailable, again making collection quality the useful signal rather than any forecast movement.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Polymarket returns World Cup and Iran-war chatter without clean mover percentages, while Kalshi extraction fails or is blocked; provenance failure remains the signal.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Polymarket shows World Cup, Iran-war, and SpaceX IPO markets without clean IDs, prices, deltas, or liquidity context, while Kalshi is unavailable.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Polymarket returns topic text around United States-Paraguay and SpaceX IPO market cap without usable odds or movement; Kalshi extraction again fails or is blocked.
 
 ## Related Concepts
 
@@ -54,3 +55,5 @@ The June 11 morning source preserves the same lesson with a slightly different f
 The evening source repeats the same failure mode around World Cup and Iran-war markets. The wiki should treat this as a collection-pipeline issue until the feed supplies clean market IDs, prices, movement deltas, and liquidity.
 
 The June 12 morning dispatch extends the warning to SpaceX IPO markets alongside World Cup and Iran-war markets. Topic labels alone are not enough; without question IDs, current prices, previous prices, volume/liquidity, and timestamps, prediction-market blurbs should not drive conclusions.
+
+The evening dispatch repeats the same issue with fewer topics but no more evidence. A match label or IPO-market label is not a forecast without price, delta, liquidity, and timestamp context. The data pipeline is still producing provenance notes, not tradeable prediction signals.

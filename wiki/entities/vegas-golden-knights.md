@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-03
 updated: 2026-06-12
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 13
+source_count: 14
 ---
 
 # Vegas Golden Knights
@@ -22,6 +22,7 @@ NHL franchise based in Las Vegas, NV. The league's most successful expansion tea
 | SCF Game 2 | @ Carolina Hurricanes | **VGK 3, CAR 4 (OT) — L** — Series tied 1-1 |
 | SCF Game 4 | vs. Carolina Hurricanes | **VGK 3, CAR 5 — L** — Series tied 2-2 |
 | SCF Game 5 | @ Carolina Hurricanes | **VGK 2, CAR 4 — L** — Vegas trails 3-2 |
+| SCF Game 6 | vs. Carolina Hurricanes | **June 14, 2026** — Vegas must win to force Game 7 |
 
 **WCF:** Swept the defending-capable Avalanche in four games. The sweep meant VGK entered the Finals rested — Carolina was battle-tested across a 5-game ECF against Montréal, but VGK had the legs.
 
@@ -39,6 +40,8 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 **SCF Game 5 result (June 11, 2026): VGK 2, CAR 4 — LOSS.** Vegas loses in Raleigh and now trails the Stanley Cup Final **3-2**. The Golden Knights need a response to force Game 7; the series has shifted from reset to elimination pressure.
 
+**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Golden Knights must win at home to extend the series.
+
 ## Sources
 
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — VGK 5, CAR 4 in SCF Game 1. Golden Knights steal home ice on the road in Raleigh; lead series 1-0.
@@ -54,6 +57,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Vegas at Carolina is tonight's Stanley Cup Final Game 5 listing, with the series tied 2-2.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition again lists Game 5 at Carolina; the source provides schedule context but no final result.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — **SCF Game 5: Vegas 2, Carolina 4.** The Golden Knights trail 3-2 and need a response to avoid Carolina's closeout.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms Vegas trails 3-2 and hosts Game 6 on June 14 needing a win to force Game 7.
 
 ## Related
 

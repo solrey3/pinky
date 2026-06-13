@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-12"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security]
-source_count: 14
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security]
+source_count: 15
 ---
 
 # Security & Privacy Toolkit
@@ -28,6 +28,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Anthropic Fable guardrail criticism, an AI agent running amok, and a facial-recognition false-arrest lawsuit put model policy, agent control, and biometric evidence handling inside the security perimeter.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI's likely-China influence-operations claim, AMD RCE criticism, and the facial-recognition lawsuit show security spanning information ops, hardware/software vulnerability handling, and policing evidence controls.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — AI-agent cost blowups, facial-recognition policing, Homebrew package plumbing, and macOS 27 breaking Asahi Linux show the trust perimeter spanning automation limits, biometric evidence, package managers, and platform boot chains.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Google suing alleged Gemini-enabled scam operators and a PeopleSoft zero-day tied to mass data theft show security spanning AI-abuse controls and enterprise application patching.
 
 ## Related Concepts
 
@@ -54,3 +55,5 @@ The June 11 source shows why the toolkit cannot stop at endpoint hardening. Biom
 The evening edition adds the physical and political layer. If data-center campaigns can be framed as foreign influence operations, and if an unfixed RCE becomes a public vendor-trust issue, then the toolkit must include attribution skepticism, vulnerability disclosure discipline, and infrastructure-siting awareness.
 
 The June 12 morning source adds platform dependency and automation budgets. An AI agent that can spend a human into bankruptcy is a permissioning failure; a macOS beta that breaks Asahi Linux is a boot-chain dependency issue. Both belong next to biometric policing and package-manager provenance because all four are trust-boundary problems.
+
+The evening source adds abuse automation and enterprise-app exposure. If Gemini can be used to scale scams, model providers need detection, rate limits, abuse telemetry, and legal enforcement. If PeopleSoft zero-days can produce gigabytes of theft across hundreds of organizations, ordinary patch cadence and asset inventory become core security controls, not back-office chores.

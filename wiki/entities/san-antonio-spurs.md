@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-09
 updated: 2026-06-12
 tags: [nba, basketball, san-antonio-spurs, nba-finals, organization, sports]
-source_count: 7
+source_count: 8
 ---
 
 # San Antonio Spurs
@@ -19,7 +19,7 @@ NBA franchise based in San Antonio, Texas. In the 2026 newsletter stream, the Sp
 
 **Game 4 (June 10, 2026):** San Antonio lost to New York **107-106**. The Spurs now trail the NBA Finals **3-1**, so the series moves from a possible best-of-three reset into elimination-pressure territory.
 
-**Game 5:** Saturday June 13, 8:30 PM EDT on ABC — Knicks at Spurs. San Antonio returns home needing to win three straight to claim the title. The June 12 morning dispatch keeps the Spurs in waiting mode: no new result, only the looming elimination game.
+**Game 5:** Saturday June 13, 8:30 PM EDT on ABC — Knicks at Spurs. San Antonio returns home needing to win three straight to claim the title. The June 12 morning and evening dispatches keep the Spurs in waiting mode: no new result, only the looming elimination game.
 
 ## Sources
 
@@ -30,6 +30,7 @@ NBA franchise based in San Antonio, Texas. In the 2026 newsletter stream, the Sp
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Spurs lose Game 4 by one point, 107-106; New York leads the Finals 3-1.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition confirms the 3-1 deficit and lists Game 5 in San Antonio for June 13; the Spurs are now under elimination pressure.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Game 5 remains the next NBA Finals slot in San Antonio, with the Spurs needing three straight wins to avoid a Knicks title.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms the same Game 5 setup: San Antonio faces elimination at home on June 13.
 
 ## Related
 
