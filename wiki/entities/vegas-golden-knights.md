@@ -4,9 +4,9 @@ title: Vegas Golden Knights
 type: entity
 entity_type: organization
 created: 2026-06-03
-updated: 2026-06-12
+updated: 2026-06-13
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 14
+source_count: 15
 ---
 
 # Vegas Golden Knights
@@ -40,7 +40,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 **SCF Game 5 result (June 11, 2026): VGK 2, CAR 4 — LOSS.** Vegas loses in Raleigh and now trails the Stanley Cup Final **3-2**. The Golden Knights need a response to force Game 7; the series has shifted from reset to elimination pressure.
 
-**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Golden Knights must win at home to extend the series.
+**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Golden Knights must win at home to extend the series. The June 13 morning dispatch keeps the setup unchanged: no new result, only the looming elimination game.
 
 ## Sources
 
@@ -58,6 +58,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition again lists Game 5 at Carolina; the source provides schedule context but no final result.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — **SCF Game 5: Vegas 2, Carolina 4.** The Golden Knights trail 3-2 and need a response to avoid Carolina's closeout.
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms Vegas trails 3-2 and hosts Game 6 on June 14 needing a win to force Game 7.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Morning edition again lists Game 6 for June 14 on ABC; Vegas needs a home win to force Game 7.
 
 ## Related
 

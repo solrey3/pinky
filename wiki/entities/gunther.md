@@ -4,9 +4,9 @@ title: Gunther (WALTER)
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-05
+updated: 2026-06-13
 tags: [person, wrestling]
-source_count: 5
+source_count: 6
 ---
 
 # Gunther (WALTER)
@@ -40,6 +40,7 @@ source_count: 5
 - [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation of loss. King and Queen of the Ring 2026 brackets being revealed on Raw tonight — Gunther's next chapter likely in this tournament or the road to the next major PLE.
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Gunther in the main event vs. Cody Rhodes. Cody pulled out the Stardust cartwheel mid-match; the crowd and a ringside Stardust cosplayer popped huge. Per r/SquaredCircle: *"The guy cosplaying Stardust at ringside absolutely lost it."* The Cody/Gunther dynamic has enough residual heat to draw house-show main events in Europe.
 - [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletter-2026-06-05-evening.md) — **WWE SmackDown Bologna**: Cody Rhodes **agrees to defend the Undisputed WWE Title vs. Gunther on June 19 SmackDown**. Stipulation to be revealed June 12. Gunther gets another title shot on television — the feud is officially re-booked.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up advertises Gunther's June 19 WWE Championship rematch against Cody Rhodes.
 
 ## Related
 

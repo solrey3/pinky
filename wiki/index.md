@@ -161,6 +161,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-06-11-evening](sources/newsletter-2026-06-11-evening.md) | Evening Brief — Thursday, June 11, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-off, nasdaq, s-and-p-500, wti, iran, openai, homebrew, facial-recognition, amd, solar, nba-finals, knicks, spurs, stanley-cup, carolina-hurricanes, vgk, wrestling, wwe, aew, njpw] | 2026-06-11 |
 | [newsletter-2026-06-12](sources/newsletter-2026-06-12.md) | Newsletter 2026-06-12 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, risk-off, nasdaq, s-and-p-500, wti, tariffs, iran, homebrew, facial-recognition, asahi-linux, apple, nba-finals, knicks, spurs, stanley-cup, carolina-hurricanes, vgk, wrestling] | 2026-06-12 |
 | [newsletter-2026-06-12-evening](sources/newsletter-2026-06-12-evening.md) | Evening Brief — Friday, June 12, 2026 | newsletter | [newsletter, evening-dispatch, markets, rotation, russell-2000, retail, wti, iran, google, gemini, peoplesoft, cybersecurity, nba-finals, knicks, spurs, stanley-cup, carolina-hurricanes, vgk, wrestling] | 2026-06-12 |
+| [newsletter-2026-06-13](sources/newsletter-2026-06-13.md) | Newsletter 2026-06-13 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, rotation, russell-2000, wti, iran, anthropic, fable, mythos, google, gemini, peoplesoft, ffmpeg, cybersecurity, nba-finals, knicks, spurs, stanley-cup, carolina-hurricanes, vgk, wrestling] | 2026-06-13 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -259,7 +260,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Christian Cage](entities/christian-cage.md) | person | person, wrestling | 1 |
 | [Claudio Castagnoli](entities/claudio-castagnoli.md) | person | person, wrestling | 1 |
 | [CM Punk](entities/cm-punk.md) | person | person, wrestling, wwe, backstage-rumors | 4 |
-| [Cody Rhodes](entities/cody-rhodes.md) | person | person, wrestling | 5 |
+| [Cody Rhodes](entities/cody-rhodes.md) | person | person, wrestling | 6 |
 | [Curt Hennig](entities/curt-hennig.md) | person | person, wrestling | 1 |
 | [Darby Allin](entities/darby-allin.md) | person | person, wrestling | 2 |
 | [Davey Boy Smith](entities/davey-boy-smith.md) | person | person, wrestling | 1 |
@@ -271,7 +272,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Edge](entities/edge.md) | person | person, wrestling | 1 |
 | [Goldberg](entities/goldberg.md) | person | person, wrestling | 1 |
 | [The Great Muta](entities/the-great-muto.md) | person | person, wrestling | 1 |
-| [Gunther (WALTER)](entities/gunther.md) | person | person, wrestling | 5 |
+| [Gunther (WALTER)](entities/gunther.md) | person | person, wrestling | 6 |
 | [Hangman Adam Page](entities/hangman-adam-page.md) | person | person, wrestling | 1 |
 | [Harley Race](entities/harley-race.md) | person | person, wrestling | 1 |
 | [Hulk Hogan](entities/hulk-hogan.md) | person | person, wrestling | 1 |
@@ -312,7 +313,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [The Rock](entities/the-rock.md) | person | person, wrestling | 1 |
 | [Roman Reigns](entities/roman-reigns.md) | person | person, wrestling | 5 |
 | [Rowdy Roddy Piper](entities/rowdy-roddy-piper.md) | person | person, wrestling | 1 |
-| [Sami Zayn](entities/sami-zayn.md) | person | person, wrestling | 1 |
+| [Sami Zayn](entities/sami-zayn.md) | person | person, wrestling | 3 |
 | [Samoa Joe](entities/samoa-joe.md) | person | person, wrestling | 1 |
 | [Scott Hall](entities/scott-hall.md) | person | person, wrestling | 1 |
 | [Seth Rollins](entities/seth-rollins.md) | person | person, wrestling | 2 |
@@ -553,21 +554,21 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Sports Organizations, Clubs & Other
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo, fable, guardrails | 9 |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo, fable, guardrails, government-directive | 10 |
 | [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos | 3 |
 | [Asahi Linux](entities/asahi-linux.md) | product | linux, apple-silicon, macos, operating-systems, developer-tools | 1 |
 | [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london | 5 |
 | [Blue Origin](entities/blue-origin.md) | organization | space, launch, rocket, blue-origin, new-glenn, jeff-bezos | 3 |
-| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 22 |
-| [Google](entities/google.md) | organization | technology, ai, google, gemini, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams | 6 |
+| [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup | 23 |
+| [Google](entities/google.md) | organization | technology, ai, google, gemini, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams | 7 |
 | [Homebrew](entities/homebrew.md) | product | developer-tools, package-manager, macos, linux, cli, homebrew | 2 |
 | [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, build-2026, supply-chain-security | 6 |
 | [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 1 |
-| [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals | 8 |
+| [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals | 9 |
 | [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers | 1 |
-| [San Antonio Spurs](entities/san-antonio-spurs.md) | organization | nba, basketball, san-antonio-spurs, nba-finals | 8 |
+| [San Antonio Spurs](entities/san-antonio-spurs.md) | organization | nba, basketball, san-antonio-spurs, nba-finals | 9 |
 | [Social Security](entities/social-security.md) | organization | public-policy, retirement, entitlement, fiscal-policy, united-states | 1 |
-| [Vegas Golden Knights](entities/vegas-golden-knights.md) | organization | nhl, hockey, vegas, golden-knights, stanley-cup | 14 |
+| [Vegas Golden Knights](entities/vegas-golden-knights.md) | organization | nhl, hockey, vegas, golden-knights, stanley-cup | 15 |
 
 ### Films
 | Entity | Type | Tags | Sources |
@@ -648,6 +649,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Datadog CLI (datadog-ci)](entities/datadog-cli.md) | product | cli, cli | 1 |
 | [doctl](entities/doctl.md) | product | cli, cli | 1 |
 | [Fabric](entities/fabric.md) | product | cli, cli | 1 |
+| [FFmpeg](entities/ffmpeg.md) | product | media, cli, audio, video, ffmpeg, cybersecurity, zero-days | 2 |
 | [FiveThirtyEight](entities/fivethirtyeight.md) | organization | media, analytics, statistics, forecasting, sports, politics | 1 |
 | [fzf](entities/fzf.md) | product | cli, cli | 1 |
 | [Ghostty](entities/ghostty.md) | product | cli, cli | 1 |
@@ -665,7 +667,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [npm](entities/npm.md) | product | javascript, package-manager, nodejs, developer-tools, supply-chain | 1 |
 | [Obsidian](entities/obsidian.md) | product | knowledge-management, markdown, tools | 2 |
 | [OpenCV](entities/opencv.md) | product | computer-vision, open-source, ai, image-processing, developer-tools | 2 |
-| [PeopleSoft](entities/peoplesoft.md) | product | enterprise-software, oracle, peoplesoft, cybersecurity, cve, data-theft | 1 |
+| [PeopleSoft](entities/peoplesoft.md) | product | enterprise-software, oracle, peoplesoft, cybersecurity, cve, data-theft | 2 |
 | [Pi (pi-coding-agent)](entities/pi.md) | product | cli, cli | 1 |
 | [qmd](entities/qmd.md) | product | search, cli, markdown, llm | 1 |
 | [ripgrep (rg)](entities/ripgrep.md) | product | cli, cli | 1 |
@@ -682,7 +684,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | --- | --- | --- |
 | [Advantage Play](concepts/advantage-play.md) | [gambling, mathematics, poker, strategy, skill, risk] | 3 |
 | [AI-Augmented Development](concepts/ai-augmented-development.md) | [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems] | 11 |
-| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails] | 3 |
+| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control] | 4 |
 | [AI Output Liability](concepts/ai-output-liability.md) | [ai, law, liability, search, accountability, generated-output, facial-recognition, policing] | 4 |
 | [Approximate RAPTOR](concepts/approximate-raptor.md) | [basketball, nba, analytics, history, statistics] | 1 |
 | [Bayesian Thinking](concepts/bayesian-thinking.md) | [statistics, probability, reasoning, forecasting, decision-making, epistemology] | 4 |
@@ -700,7 +702,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Game Theory Optimal (GTO)](concepts/game-theory-optimal.md) | [game-theory, poker, mathematics, equilibrium, strategy, decision-making] | 2 |
 | [Idealism vs Realism](concepts/idealism-vs-realism.md) | [literature, philosophy, epistemology, psychology] | 1 |
 | [LLM Wiki pattern](concepts/llm-wiki-pattern.md) | [llm, architecture, knowledge-management, karpathy] | 1 |
-| [Market Inefficiency](concepts/market-inefficiency.md) | [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance] | 13 |
+| [Market Inefficiency](concepts/market-inefficiency.md) | [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance] | 14 |
 | [Metafiction](concepts/metafiction.md) | [literature, narrative, postmodernism, self-reference] | 1 |
 | [PARA](concepts/para.md) | [organization, knowledge-management, actionability, productivity] | 1 |
 | [Player Tracking Data](concepts/player-tracking-data.md) | [basketball, nba, analytics, data, technology] | 1 |
@@ -711,9 +713,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [RAPTOR](concepts/raptor.md) | [basketball, nba, analytics, statistics, plus-minus] | 1 |
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail] | 10 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail] | 11 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
-| [Security & Privacy Toolkit](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security] | 15 |
+| [Security & Privacy Toolkit](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security] | 16 |
 | [Self-Reliance](concepts/self-reliance.md) | [individualism, philosophy, transcendentalism, nonconformity, america, identity] | 2 |
 | [Social Invisibility](concepts/social-invisibility.md) | [identity, race, society, perception, power, literature] | 2 |
 | [Strategic Deception](concepts/strategic-deception.md) | [strategy, military, game-theory, psychology, conflict] | 4 |

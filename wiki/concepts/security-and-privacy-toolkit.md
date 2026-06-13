@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-12"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security]
-source_count: 15
+updated: "2026-06-13"
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security]
+source_count: 16
 ---
 
 # Security & Privacy Toolkit
@@ -29,6 +29,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI's likely-China influence-operations claim, AMD RCE criticism, and the facial-recognition lawsuit show security spanning information ops, hardware/software vulnerability handling, and policing evidence controls.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — AI-agent cost blowups, facial-recognition policing, Homebrew package plumbing, and macOS 27 breaking Asahi Linux show the trust perimeter spanning automation limits, biometric evidence, package managers, and platform boot chains.
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Google suing alleged Gemini-enabled scam operators and a PeopleSoft zero-day tied to mass data theft show security spanning AI-abuse controls and enterprise application patching.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Anthropic access suspension, Gemini-enabled scam litigation, PeopleSoft zero-day coverage, and FFmpeg zero-day research put model access, fraud automation, enterprise apps, and media parsing inside one defense perimeter.
 
 ## Related Concepts
 
@@ -57,3 +58,5 @@ The evening edition adds the physical and political layer. If data-center campai
 The June 12 morning source adds platform dependency and automation budgets. An AI agent that can spend a human into bankruptcy is a permissioning failure; a macOS beta that breaks Asahi Linux is a boot-chain dependency issue. Both belong next to biometric policing and package-manager provenance because all four are trust-boundary problems.
 
 The evening source adds abuse automation and enterprise-app exposure. If Gemini can be used to scale scams, model providers need detection, rate limits, abuse telemetry, and legal enforcement. If PeopleSoft zero-days can produce gigabytes of theft across hundreds of organizations, ordinary patch cadence and asset inventory become core security controls, not back-office chores.
+
+The June 13 morning dispatch widens the same map to media parsing and model availability. FFmpeg zero-day research matters because media libraries consume hostile inputs at scale; Anthropic Fable/Mythos access suspension matters because model access itself can become a security and governance control plane.

@@ -4,9 +4,9 @@ title: New York Knicks
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-06-12
+updated: 2026-06-13
 tags: [nba, basketball, new-york-knicks, nba-finals, organization, sports]
-source_count: 8
+source_count: 9
 ---
 
 # New York Knicks
@@ -19,7 +19,7 @@ NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks 
 
 **Game 4 (June 10, 2026):** New York beat San Antonio **107-106**. The Knicks now lead the NBA Finals **3-1**, turning the June 10 hinge into a command point instead of a series reset. One point preserved home-court narrative control and put the Spurs under elimination pressure.
 
-**Game 5:** Saturday June 13, 8:30 PM EDT on ABC — Knicks at Spurs. New York has its first closeout chance of the series. The June 12 morning and evening dispatches preserve the setup without a new NBA result: one more night before the Knicks can finish the series.
+**Game 5:** Saturday June 13, 8:30 PM EDT on ABC — Knicks at Spurs. New York has its first closeout chance of the series. The June 13 morning dispatch is the final pregame bridge: no new NBA result yet, only the title-clinching opportunity tonight.
 
 ## Sources
 
@@ -31,6 +31,7 @@ NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks 
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition confirms the one-point Game 4 win and lists Game 5 at San Antonio for June 13, with New York one win from the championship.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Game 5 remains the next NBA Finals slot: Knicks at Spurs, June 13 on ABC, with New York still one win from the title.
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition again lists Game 5 for June 13, leaving the Knicks in one-win-from-title waiting mode.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Game 5 arrives tonight on ABC; New York remains one win from the NBA championship.
 
 ## Related
 

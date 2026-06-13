@@ -4,9 +4,9 @@ title: Sami Zayn
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-30T22:02:45Z
+updated: 2026-06-13
 tags: [person, wrestling]
-source_count: 2
+source_count: 3
 ---
 
 # Sami Zayn
@@ -36,6 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/sami-zayn.md)
 - [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — Featured prominently in SmackDown’s Barcelona go-home show for Clash in Italy. His post-show social post — “The Spanish can spot honesty, integrity & world class talent a mile away” — the kind of self-aware character work that makes him the most universally beloved figure in the current product. Described in the dispatch as “firing on all cylinders.”
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up notes Sami Zayn as referee for the WWE title-match setup, keeping him active in the Cody/Gunther orbit.
 
 ## Related
 

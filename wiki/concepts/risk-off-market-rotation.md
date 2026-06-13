@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-12
+updated: 2026-06-13
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail]
-source_count: 10
+source_count: 11
 ---
 
 # Risk-Off Market Rotation
@@ -24,6 +24,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — The close remains risk-off but selective: Nasdaq -3.81%, S&P 500 -2.51%, and WTI -5.35% trigger the major-move alert while VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, and SCHD show resilience or gains.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — The next morning preserves the same split: Nasdaq -3.81%, S&P 500 -2.51%, WTI -7.94%, and AI/growth weakness against resilient value, dividend, real-estate, financial, and consumer pockets.
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — The close partially reverses the risk-off damage but keeps rotation as the structure: Russell 2000 +3.90%, VBR +2.99%, VNQ +1.78%, SCHD +1.61%, TGT +10.33%, RL +10.21%, and WTI -7.68%.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Weekend tables preserve the relief-rotation structure: weekly green indexes, Russell 2000 +3.90%, VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI down hard.
 
 ## Related Concepts
 
@@ -52,3 +53,5 @@ The June 11 evening close softens the index damage but adds WTI crude to the maj
 The June 12 morning dispatch keeps the regime intact and makes the crude move larger. WTI at nearly -8% sits beside the familiar Nasdaq/S&P/semiconductor weakness, while VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, and SCHD again show that investors are sorting exposures rather than abandoning the market wholesale.
 
 The June 12 evening close is the first clean relief-rally version of the same rotation. Indexes turn green, but leadership remains specific: small caps, small-value, REITs, dividends, retail, and selected semiconductors do the heavy lifting while crude keeps falling. That makes the concept less about permanent bearishness and more about internal market leadership: the tape can improve without returning to one-dimensional mega-cap risk appetite.
+
+The June 13 morning dispatch does not add fresh Saturday trading, but it validates the weekly close as a regime marker. The rotation can be read across weekly indexes, ETFs, single stocks, and commodities at once: Russell/small-value/retail up, crude down, and broad indexes near highs.

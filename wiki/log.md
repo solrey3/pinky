@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-06-13] ingest | Newsletter 2026-06-13 — Morning Dispatch
+- Source: `pinky/raw/newsletters/2026-06-13-morning-dispatch.md`
+- Summary: Saturday June 13 morning dispatch — weekend market tables preserve Friday's relief-rotation close: Russell 2000 +3.90%, VBR/VNQ/SCHD strength, retail breakouts in Target and Ralph Lauren, AMD +9.69%, and WTI down hard. AI/security coverage centers on Anthropic Fable/Mythos access suspension, Google's Gemini-enabled scam lawsuit, a PeopleSoft zero-day, and FFmpeg zero-day research. NBA Finals Game 5 is Knicks at Spurs tonight; Stanley Cup Final Game 6 is Carolina at Vegas on June 14.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-06-13.md` (new), `pinky/wiki/entities/ffmpeg.md` (new), `pinky/wiki/entities/anthropic.md`, `pinky/wiki/entities/google.md`, `pinky/wiki/entities/peoplesoft.md`, `pinky/wiki/entities/new-york-knicks.md`, `pinky/wiki/entities/san-antonio-spurs.md`, `pinky/wiki/entities/carolina-hurricanes.md`, `pinky/wiki/entities/vegas-golden-knights.md`, `pinky/wiki/entities/cody-rhodes.md`, `pinky/wiki/entities/gunther.md`, `pinky/wiki/entities/sami-zayn.md`, `pinky/wiki/concepts/risk-off-market-rotation.md`, `pinky/wiki/concepts/ai-model-safety-boundaries.md`, `pinky/wiki/concepts/security-and-privacy-toolkit.md`, `pinky/wiki/concepts/market-inefficiency.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: the market improvement is still rotational, while AI/security risk now spans model access, model abuse, enterprise-app zero-days, and media-library attack surface.
+
 ## [2026-06-12] ingest | Evening Brief — Friday, June 12, 2026
 - Source: `pinky/raw/newsletters/2026-06-12-evening-dispatch.md`
 - Summary: Friday June 12 evening dispatch — broad indexes closed green near 52-week highs, but the strongest signal was rotational: Russell 2000 +3.90%, VBR +2.99%, VNQ +1.78%, SCHD +1.61%, Target +10.33%, Ralph Lauren +10.21%, and WTI -7.68%. Iran deal headlines remain close-but-not-final. AI/security coverage adds Google's lawsuit against alleged Gemini-enabled scam operators and a PeopleSoft zero-day tied to mass data theft. NBA Finals Game 5 remains Knicks at Spurs on June 13; Carolina leads Vegas 3-2 with Game 6 set for June 14.
