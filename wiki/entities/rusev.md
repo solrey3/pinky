@@ -4,9 +4,9 @@ title: Miro (Rusev)
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-14
+tags: [person, wrestling, wwe, raw]
+source_count: 2
 ---
 
 # Miro (Rusev)
@@ -32,10 +32,16 @@ source_count: 1
 - The Accolade (Camel Clutch variant) is among wrestling's most convincing submission holds
 - His legitimate Bulgarian Olympic weightlifting credentials gave his character authentic physical credibility
 
+## 2026 WWE Feed
+
+The June 14 morning dispatch lists **Chad Gable vs. Rusev** for Monday's WWE Raw, keeping Rusev active in the weekly WWE match-booking stream.
+
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/rusev.md)
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Rusev is advertised for Monday's WWE Raw against Chad Gable.
 
 ## Related
 
+- [[Chad Gable]] — Raw opponent listed in the June 14 dispatch
 

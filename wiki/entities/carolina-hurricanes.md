@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-13
+updated: 2026-06-14
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 24
+source_count: 25
 ---
 
 # Carolina Hurricanes
@@ -43,7 +43,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **SCF Game 5 result (June 11, 2026): CAR 4, VGK 2.** Carolina wins at home and leads the Stanley Cup Final **3-2**. The Hurricanes now have the first closeout edge of the series after converting the best-of-three reset into a one-win cushion.
 
-**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Hurricanes can close out the Stanley Cup on the road. The June 13 morning and evening dispatches preserve this as the next hockey inflection point.
+**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Hurricanes can close out the Stanley Cup on the road. The June 13 and June 14 morning dispatches preserve this as the next hockey inflection point.
 
 ## Sources
 
@@ -71,6 +71,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms Carolina's 3-2 lead and lists Game 6 at Vegas on June 14, with the Cup in reach.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Morning edition again lists Game 6 for June 14 on ABC; Carolina remains one win from the Stanley Cup.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard again lists Carolina at Vegas for June 14 on ABC, keeping the Hurricanes' Cup-clinching chance unchanged.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Game 6 remains tonight on ABC: Carolina at Vegas, with the Hurricanes one win from the Stanley Cup.
 
 ## Related
 

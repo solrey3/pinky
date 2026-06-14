@@ -4,14 +4,14 @@ title: New York Knicks
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-06-13
-tags: [nba, basketball, new-york-knicks, nba-finals, organization, sports]
-source_count: 10
+updated: 2026-06-14
+tags: [nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports]
+source_count: 11
 ---
 
 # New York Knicks
 
-NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks are tracked through their NBA Finals series against [[Victor Wembanyama]] and the [[San Antonio Spurs]].
+NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks are tracked through their NBA Finals series against [[Victor Wembanyama]] and the [[San Antonio Spurs]]. The June 14 morning dispatch records the endpoint: New York wins the 2026 NBA championship.
 
 ## 2026 NBA Finals
 
@@ -19,7 +19,7 @@ NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks 
 
 **Game 4 (June 10, 2026):** New York beat San Antonio **107-106**. The Knicks now lead the NBA Finals **3-1**, turning the June 10 hinge into a command point instead of a series reset. One point preserved home-court narrative control and put the Spurs under elimination pressure.
 
-**Game 5:** Saturday June 13, 8:30 PM EDT on ABC — Knicks at Spurs. New York has its first closeout chance of the series. The June 13 morning and evening dispatches are pregame bridge sources: no new NBA result yet, only the title-clinching opportunity tonight.
+**Game 5 (June 13, 2026):** New York beat San Antonio **94-90**. The Knicks win the NBA Finals **4-1**, converting their first closeout chance into a championship. The June 14 morning dispatch turns the prior pregame bridge into an outcome record: the Garden gets its banner.
 
 ## Sources
 
@@ -33,6 +33,7 @@ NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks 
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition again lists Game 5 for June 13, leaving the Knicks in one-win-from-title waiting mode.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Game 5 arrives tonight on ABC; New York remains one win from the NBA championship.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard still lists Knicks at Spurs as upcoming, preserving the pre-closeout setup before any title result is recorded.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Knicks 94, Spurs 90 in Game 5; New York wins the NBA Finals 4-1.
 
 ## Related
 

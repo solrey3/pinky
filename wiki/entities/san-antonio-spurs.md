@@ -4,14 +4,14 @@ title: San Antonio Spurs
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-06-13
+updated: 2026-06-14
 tags: [nba, basketball, san-antonio-spurs, nba-finals, organization, sports]
-source_count: 10
+source_count: 11
 ---
 
 # San Antonio Spurs
 
-NBA franchise based in San Antonio, Texas. In the 2026 newsletter stream, the Spurs are tracked through [[Victor Wembanyama]]'s run to the NBA Finals and the championship series against the [[New York Knicks]].
+NBA franchise based in San Antonio, Texas. In the 2026 newsletter stream, the Spurs are tracked through [[Victor Wembanyama]]'s run to the NBA Finals and the championship series against the [[New York Knicks]]. The June 14 morning dispatch records San Antonio's Finals endpoint: a Game 5 loss and a 4-1 series defeat.
 
 ## 2026 NBA Finals
 
@@ -19,7 +19,7 @@ NBA franchise based in San Antonio, Texas. In the 2026 newsletter stream, the Sp
 
 **Game 4 (June 10, 2026):** San Antonio lost to New York **107-106**. The Spurs now trail the NBA Finals **3-1**, so the series moves from a possible best-of-three reset into elimination-pressure territory.
 
-**Game 5:** Saturday June 13, 8:30 PM EDT on ABC — Knicks at Spurs. San Antonio returns home needing to win three straight to claim the title. The June 13 morning and evening dispatches are pregame bridge sources: no new result yet, only the elimination game tonight.
+**Game 5 (June 13, 2026):** San Antonio lost to New York **94-90**. The Spurs lose the NBA Finals **4-1**, ending the elimination-game thread that had been building through the June 13 pregame dispatches.
 
 ## Sources
 
@@ -33,6 +33,7 @@ NBA franchise based in San Antonio, Texas. In the 2026 newsletter stream, the Sp
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms the same Game 5 setup: San Antonio faces elimination at home on June 13.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Game 5 arrives tonight on ABC; San Antonio must win at home to keep the Finals alive.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard still lists Knicks at Spurs as upcoming, preserving San Antonio's elimination-game setup before any result is recorded.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Spurs lose Game 5 to the Knicks, 94-90; San Antonio falls in the Finals 4-1.
 
 ## Related
 

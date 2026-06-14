@@ -4,9 +4,9 @@ title: Vegas Golden Knights
 type: entity
 entity_type: organization
 created: 2026-06-03
-updated: 2026-06-13
+updated: 2026-06-14
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 16
+source_count: 17
 ---
 
 # Vegas Golden Knights
@@ -40,7 +40,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 **SCF Game 5 result (June 11, 2026): VGK 2, CAR 4 — LOSS.** Vegas loses in Raleigh and now trails the Stanley Cup Final **3-2**. The Golden Knights need a response to force Game 7; the series has shifted from reset to elimination pressure.
 
-**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Golden Knights must win at home to extend the series. The June 13 morning and evening dispatches keep the setup unchanged: no new result, only the looming elimination game.
+**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Golden Knights must win at home to extend the series. The June 13 and June 14 morning dispatches keep the setup unchanged: no new result, only the looming elimination game.
 
 ## Sources
 
@@ -60,6 +60,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms Vegas trails 3-2 and hosts Game 6 on June 14 needing a win to force Game 7.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Morning edition again lists Game 6 for June 14 on ABC; Vegas needs a home win to force Game 7.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard again lists Carolina at Vegas for June 14 on ABC, preserving Vegas's home elimination-game setup.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Game 6 remains tonight on ABC: Vegas hosts Carolina needing a win to force Game 7.
 
 ## Related
 
