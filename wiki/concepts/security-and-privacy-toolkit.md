@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-13"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security]
-source_count: 16
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy]
+source_count: 17
 ---
 
 # Security & Privacy Toolkit
@@ -30,6 +30,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — AI-agent cost blowups, facial-recognition policing, Homebrew package plumbing, and macOS 27 breaking Asahi Linux show the trust perimeter spanning automation limits, biometric evidence, package managers, and platform boot chains.
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Google suing alleged Gemini-enabled scam operators and a PeopleSoft zero-day tied to mass data theft show security spanning AI-abuse controls and enterprise application patching.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Anthropic access suspension, Gemini-enabled scam litigation, PeopleSoft zero-day coverage, and FFmpeg zero-day research put model access, fraud automation, enterprise apps, and media parsing inside one defense perimeter.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — PeopleSoft zero-day coverage, alleged AI-created evidence, Census statistical-noise policy, and Fable/Mythos access suspension extend the perimeter into enterprise apps, evidentiary integrity, public-data privacy, and model availability.
 
 ## Related Concepts
 
@@ -60,3 +61,5 @@ The June 12 morning source adds platform dependency and automation budgets. An A
 The evening source adds abuse automation and enterprise-app exposure. If Gemini can be used to scale scams, model providers need detection, rate limits, abuse telemetry, and legal enforcement. If PeopleSoft zero-days can produce gigabytes of theft across hundreds of organizations, ordinary patch cadence and asset inventory become core security controls, not back-office chores.
 
 The June 13 morning dispatch widens the same map to media parsing and model availability. FFmpeg zero-day research matters because media libraries consume hostile inputs at scale; Anthropic Fable/Mythos access suspension matters because model access itself can become a security and governance control plane.
+
+The evening dispatch adds record integrity and statistical privacy. A hostile or careless actor using AI to create evidence is a security failure inside the justice system, while Census noise policy shows that privacy controls can also affect public-data quality and trust.

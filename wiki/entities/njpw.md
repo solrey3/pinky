@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-11
-tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door]
-source_count: 9
+updated: 2026-06-13
+tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion]
+source_count: 10
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -29,6 +29,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-10 (Morning)**: The Meltzer 5-star-plus list in the dispatch keeps Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 visible as the standout NJPW match note of the cycle.
 - **2026-06-11 (Morning)**: Forbidden Door build continues through the Kenny Omega vs. Zack Sabre Jr. announcement, while the ratings table again keeps Tanahashi vs. Okada at Wrestle Kingdom 20 as the top NJPW marker.
 - **2026-06-11 (Evening)**: Drilla Moloney's comments on staying with NJPW keep talent-retention and post-ownership-transition sentiment in the feed. The Meltzer 5-star-plus table again lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as the standout NJPW match note.
+- **2026-06-13 (Evening)**: NJPW Dominion 2026 preview appears in the wrestling digest, while the Meltzer 5-star-plus table still keeps Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as the top New Japan marker of the cycle.
 
 ## Sources
 
@@ -41,6 +42,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Meltzer 5-star-plus table lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as a 6-star NJPW match.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Kenny Omega vs. Zack Sabre Jr. is set for AEW x NJPW Forbidden Door; Tanahashi vs. Okada remains the top NJPW match on the ratings table.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Drilla Moloney discusses choosing to stay with NJPW; Tanahashi vs. Okada at Wrestle Kingdom 20 remains the top 2026 match shown in the ratings table.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — NJPW Dominion 2026 preview is listed for June 14, and Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star benchmark in the ratings table.
 
 ## Related
 

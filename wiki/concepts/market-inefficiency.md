@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-13"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance]
-source_count: 14
+source_count: 15
 ---
 
 # Market Inefficiency
@@ -28,6 +28,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Polymarket shows World Cup, Iran-war, and SpaceX IPO markets without clean IDs, prices, deltas, or liquidity context, while Kalshi is unavailable.
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Polymarket returns topic text around United States-Paraguay and SpaceX IPO market cap without usable odds or movement; Kalshi extraction again fails or is blocked.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Polymarket returns Qatar/Switzerland, Portugal World Cup, and Trump/U.S.-Iran ceasefire chatter without clean prices or deltas; Kalshi extraction fails or is blocked.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Polymarket returns Iran-topic probabilities, but without sufficient market IDs, deltas, liquidity, and timestamp context; Kalshi extraction again fails or is blocked.
 
 ## Related Concepts
 
@@ -60,3 +61,5 @@ The June 12 morning dispatch extends the warning to SpaceX IPO markets alongside
 The evening dispatch repeats the same issue with fewer topics but no more evidence. A match label or IPO-market label is not a forecast without price, delta, liquidity, and timestamp context. The data pipeline is still producing provenance notes, not tradeable prediction signals.
 
 The June 13 morning dispatch confirms the problem is persistent across topic domains. World Cup labels and Iran ceasefire chatter may be useful watchlist prompts, but without IDs, odds, deltas, liquidity, and timestamps they are not forecast evidence.
+
+The evening dispatch supplies more specific Iran-topic percentages, but the same discipline applies. Probabilities without clean question IDs, previous prices, liquidity, and collection timestamps are watchlist prompts, not actionable forecast evidence.

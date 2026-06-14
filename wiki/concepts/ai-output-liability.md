@@ -3,9 +3,9 @@ id: 5ff9d159-4899-45de-a577-c78666bd6d33
 title: AI Output Liability
 type: concept
 created: 2026-06-10
-updated: 2026-06-12
-tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing]
-source_count: 4
+updated: 2026-06-13
+tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity]
+source_count: 5
 ---
 
 # AI Output Liability
@@ -18,6 +18,7 @@ AI output liability is the accountability problem created when generated answers
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — A German ruling treats Google AI Overviews as Google's own words, and a Florida facial-recognition false-match lawsuit shows algorithmic output becoming actionable harm in policing.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — The facial-recognition false-arrest case stays in the evening AI/tech desk, reinforcing that algorithmic matches become liability events when police treat them as decisive evidence.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — The Florida facial-recognition lawsuit persists in the AI/tech desk, keeping biometric match quality and police corroboration duties inside the AI liability frame.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — A police officer is investigated for allegedly using AI to create evidence, moving the liability frame from mistaken algorithmic matches into evidentiary fabrication and record integrity.
 
 ## Related Concepts
 
@@ -35,3 +36,5 @@ The June 11 morning dispatch widens the frame from search to public-sector algor
 The evening edition confirms this is not a one-line curiosity. When the same facial-recognition case remains in the close, the operational lesson is evidence handling: institutions need audit trails, thresholds, corroboration rules, and accountability for humans who convert probabilistic outputs into coercive state action.
 
 The June 12 morning dispatch makes persistence itself the signal. Repeated coverage of the same facial-recognition suit means this is becoming a standing governance issue, not a novelty: law enforcement needs independent evidence standards before algorithmic matches become arrest decisions.
+
+The June 13 evening dispatch widens the policing lane from AI-assisted identification to alleged AI-generated evidence creation. That is a more severe evidentiary-integrity problem: it requires chain-of-custody controls, provenance metadata, audit logs, and penalties for laundering generated material into official records.

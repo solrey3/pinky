@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-06-13] ingest | Evening Brief — Saturday, June 13, 2026
+- Source: `pinky/raw/newsletters/2026-06-13-evening-dispatch.md`
+- Summary: Saturday June 13 evening dispatch — weekend close preserves Friday's relief-rotation tape: Russell 2000 +3.90%, small-value/international/dividend/real-estate strength, Target and Ralph Lauren +10%+, AMD +9.69%, and WTI -7.03%. Policy/security coverage adds Social Security reform options, Anthropic Fable/Mythos access suspension, PeopleSoft zero-day data theft, Census statistical-noise debate, and alleged AI-created evidence in policing. Knicks-Spurs Game 5 and Hurricanes-Golden Knights Game 6 remain closeout setups, not recorded results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-06-13-evening.md` (new), `pinky/wiki/entities/social-security.md`, `pinky/wiki/entities/anthropic.md`, `pinky/wiki/entities/peoplesoft.md`, `pinky/wiki/entities/new-york-knicks.md`, `pinky/wiki/entities/san-antonio-spurs.md`, `pinky/wiki/entities/carolina-hurricanes.md`, `pinky/wiki/entities/vegas-golden-knights.md`, `pinky/wiki/entities/njpw.md`, `pinky/wiki/entities/sami-zayn.md`, `pinky/wiki/concepts/risk-off-market-rotation.md`, `pinky/wiki/concepts/ai-model-safety-boundaries.md`, `pinky/wiki/concepts/ai-output-liability.md`, `pinky/wiki/concepts/security-and-privacy-toolkit.md`, `pinky/wiki/concepts/market-inefficiency.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: markets are improving through exposure rotation, while AI/security governance now includes model availability, enterprise-app zero-days, statistical privacy, and evidence provenance.
+
 ## [2026-06-13] ingest | Newsletter 2026-06-13 — Morning Dispatch
 - Source: `pinky/raw/newsletters/2026-06-13-morning-dispatch.md`
 - Summary: Saturday June 13 morning dispatch — weekend market tables preserve Friday's relief-rotation close: Russell 2000 +3.90%, VBR/VNQ/SCHD strength, retail breakouts in Target and Ralph Lauren, AMD +9.69%, and WTI down hard. AI/security coverage centers on Anthropic Fable/Mythos access suspension, Google's Gemini-enabled scam lawsuit, a PeopleSoft zero-day, and FFmpeg zero-day research. NBA Finals Game 5 is Knicks at Spurs tonight; Stanley Cup Final Game 6 is Carolina at Vegas on June 14.

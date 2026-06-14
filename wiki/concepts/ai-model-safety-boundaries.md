@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-09
 updated: 2026-06-13
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control]
-source_count: 4
+source_count: 5
 ---
 
 # AI Model Safety Boundaries
@@ -18,6 +18,7 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Claude Fable 5 remains the leading AI item, with commentary framing competitive refusal/sabotage concerns as part of the model-safety boundary problem.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Cybersecurity researchers object to Anthropic Fable guardrails, showing how safety boundaries can collide with legitimate security-research access.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — U.S. government directive to suspend access to Anthropic Fable 5 and Mythos 5 shows safety boundaries moving from output refusals into access-control and state-directed availability.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage keeps the Fable/Mythos suspension in the AI desk, reinforcing that model safety boundaries include platform availability and government-pressure response.
 
 ## Related Concepts
 
@@ -34,4 +35,4 @@ The June 10 follow-up adds competition as a boundary stressor. If a model's refu
 
 The June 11 Fable item adds a researcher-access stressor. A guardrail can reduce misuse and still degrade defensive work if it blocks auditors, bug hunters, or incident responders from studying the behavior they need to understand.
 
-The June 13 item adds an availability stressor. If a government directive can suspend model access, then model safety boundaries are no longer only about what a model says; they also include who may access it, under what legal authority, and how quickly provider policy can be overridden by state pressure.
+The June 13 item adds an availability stressor. If a government directive can suspend model access, then model safety boundaries are no longer only about what a model says; they also include who may access it, under what legal authority, and how quickly provider policy can be overridden by state pressure. The evening repeat matters because it shows the story persisting beyond a single morning feed item.
