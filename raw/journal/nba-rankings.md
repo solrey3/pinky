@@ -1,5 +1,5 @@
 # NBA Rankings
-date: 2026-05-25
+date: 2026-06-14
 tags: nba, basketball, rankings, personal
 
 ## Pyramid
@@ -21,10 +21,10 @@ tags: nba, basketball, rankings, personal
 1. Oscar Robertson
 1. Moses Malone
 1. Dr. J
-1. Dirk
 1. Kevin Garnett
-1. Karl Malone
-1. Dwayne Wade #Tier5
+1. Dirk
+1. Karl Malone #Tier5
+1. Dwayne Wade
 1. Isaiah Thomas
 1. Nikola Jokic
 1. Kawhi Leonard
@@ -38,18 +38,21 @@ tags: nba, basketball, rankings, personal
 
 ## Level 2
 
-1. Allen Iverson
 1. Bob Pettit
 1. Bob Cousy
-1. Shai Gilgeous-Alexander
-1. Vince Carter
+1. Jalen Brunson
 1. Rick Barry
 1. Bill Walton
 1. Willis Reed
+1. Shai Gilgeous-Alexander
 1. Kyrie Irving
 1. Jason Kidd
+1. Victor Wembanyama
+1. Allen Iverson
 1. James Harden
+1. Vince Carter
 1. Tracy McGrady
+1. Paul Pierce
 1. Chris Paul
 1. Steve Nash
 1. Walt Frazier
@@ -62,13 +65,12 @@ tags: nba, basketball, rankings, personal
 1. Kevin McHale
 1. Dennis Rodman
 1. George Mikan
-1. Russell Westbrook
 1. Robert Parish
 1. Dave Cowens
 
 ## Level 1
 
-1. Paul Pierce
+1. Russell Westbrook
 1. Gary Payton
 1. Wes Unseld
 1. Ray Allen
@@ -76,13 +78,16 @@ tags: nba, basketball, rankings, personal
 1. Dominique Wilkins
 1. James Worthy
 1. Reggie Miller
-1. Jimmy Butler
 1. Pau Gasol
+1. Jimmy Butler
 1. Dwight Howard
+1. Karl-Anthony Towns
 1. Damian Lillard
 1. Tim Hardaway
 1. Earl Monroe
+1. Tyrese Haliburton
 1. Nate Thurmond
+1. Jaylen Brown
 1. Bernard King
 1. Dave DeBusschere
 1. Hal Greer
@@ -92,9 +97,12 @@ tags: nba, basketball, rankings, personal
 1. Jerry Lucas
 1. Alex English
 1. Pete Maravich
+1. Jayson Tatum
 1. Adrian Dantley
+1. OG Anunoby
 1. David Thompson
 1. Lenny Wilkens
+1. Paul George
 1. Chris Webber
 1. Sidney Moncrief
 1. Artis Gilmore
