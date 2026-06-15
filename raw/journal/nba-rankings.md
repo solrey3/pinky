@@ -16,8 +16,8 @@ tags: nba, basketball, rankings, personal
 1. Hakeem
 1. Shaq
 1. Tim Duncan
-1. Kevin Durant
-1. Jerry West #Tier4
+1. Kevin Durant #Tier4
+1. Jerry West
 1. Oscar Robertson
 1. Moses Malone
 1. Dr. J

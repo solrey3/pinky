@@ -37,9 +37,9 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 10. Hakeem Olajuwon
 11. Shaquille O'Neal
 12. Tim Duncan
-13. Kevin Durant
 
 ### Tier 4 (Elite)
+13. Kevin Durant
 14. Jerry West
 15. Oscar Robertson
 16. Moses Malone
