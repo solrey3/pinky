@@ -48,12 +48,12 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 19. Dirk Nowitzki
 
 ### Tier 5 (Star)
-20. Karl Malone
-21. Dwayne Wade
-22. Isaiah Thomas
-23. Nikola Jokic
-24. Kawhi Leonard
-25. Giannis Antetokounmpo
+20. Dwayne Wade
+21. Isaiah Thomas
+22. Nikola Jokic
+23. Kawhi Leonard
+24. Giannis Antetokounmpo
+25. Karl Malone
 26. Elgin Baylor
 27. Scottie Pippen
 28. John Havlicek

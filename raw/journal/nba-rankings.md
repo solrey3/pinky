@@ -23,12 +23,12 @@ tags: nba, basketball, rankings, personal
 1. Dr. J
 1. Kevin Garnett
 1. Dirk
-1. Karl Malone #Tier5
-1. Dwayne Wade
+1. Dwayne Wade #Tier5
 1. Isaiah Thomas
 1. Nikola Jokic
 1. Kawhi Leonard
 1. Giannis
+1. Karl Malone
 1. Elgin Baylor
 1. Scottie Pippen
 1. John Havlicek
