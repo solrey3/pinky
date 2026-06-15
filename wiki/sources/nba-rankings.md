@@ -62,7 +62,7 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 31. Charles Barkley
 
 ### Level 2 (Notable Stars)
-Bob Pettit · Bob Cousy · Jalen Brunson · Rick Barry · Bill Walton · Willis Reed · Shai Gilgeous-Alexander · Kyrie Irving · Jason Kidd · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Paul Pierce · Chris Paul · Steve Nash · Walt Frazier · George Gervin · Luka Dončić · Carmelo Anthony · Anthony Davis · Sam Jones · Patrick Ewing · Kevin McHale · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
+Bob Pettit · Bob Cousy · Jalen Brunson · Rick Barry · Bill Walton · Willis Reed · Kyrie Irving · Jason Kidd · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Paul Pierce · Shai Gilgeous-Alexander · Chris Paul · Steve Nash · Walt Frazier · George Gervin · Luka Dončić · Carmelo Anthony · Anthony Davis · Sam Jones · Patrick Ewing · Kevin McHale · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
 
 ### Level 1 (Very Good)
 Russell Westbrook · Gary Payton · Wes Unseld · Ray Allen · Clyde Drexler · Dominique Wilkins · James Worthy · Reggie Miller · Pau Gasol · Jimmy Butler · Dwight Howard · Karl-Anthony Towns · Damian Lillard · Tim Hardaway · Earl Monroe · Tyrese Haliburton · Nate Thurmond · Jaylen Brown · Bernard King · Dave DeBusschere · Hal Greer · Dennis Johnson · Nate Archibald · Bob McAdoo · Jerry Lucas · Alex English · Pete Maravich · Rasheed Wallace · Jayson Tatum · Adrian Dantley · OG Anunoby · David Thompson · Lenny Wilkens · Paul George · Chris Webber · Sidney Moncrief · Artis Gilmore · Klay Thompson · Manu Ginóbili · Tony Parker · Joe Dumars · Chris Mullin
@@ -75,7 +75,7 @@ Billy Cunningham · Elvin Hayes · Dolph Schayes · Bill Sharman · Paul Arizin 
 - **Jordan #1, LeBron #2** — the canonical mainstream GOAT ordering with LeBron as the only real challenger
 - **Wilt at #9 in Tier 3, below Russell (#4) in Tier 2** — a clear valuation of winning and team impact over raw statistical dominance
 - **Steph Curry at #6 (Tier 2)** — high placement reflects recognition of the 3-point revolution and dynasty-era dominance
-- **Shai Gilgeous-Alexander in Level 2** — contemporary player already earning historical respect; positioned behind Willis Reed
+- **Shai Gilgeous-Alexander in Level 2** — contemporary player already earning historical respect; positioned behind Paul Pierce
 - **Victor Wembanyama added in Level 2** — placed behind Jason Kidd as an early-career historical projection
 - **"Too Old School For Me" category** — a rare honest admission of era bias in personal rankings; respects reputation without false enthusiasm
 

@@ -44,7 +44,6 @@ tags: nba, basketball, rankings, personal
 1. Rick Barry
 1. Bill Walton
 1. Willis Reed
-1. Shai Gilgeous-Alexander
 1. Kyrie Irving
 1. Jason Kidd
 1. Victor Wembanyama
@@ -53,6 +52,7 @@ tags: nba, basketball, rankings, personal
 1. Vince Carter
 1. Tracy McGrady
 1. Paul Pierce
+1. Shai Gilgeous-Alexander
 1. Chris Paul
 1. Steve Nash
 1. Walt Frazier
