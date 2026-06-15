@@ -62,10 +62,10 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 31. Charles Barkley
 
 ### Level 2 (Notable Stars)
-Bob Pettit · Bob Cousy · Jalen Brunson · Rick Barry · Bill Walton · Willis Reed · Kyrie Irving · Jason Kidd · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Paul Pierce · Shai Gilgeous-Alexander · Chris Paul · Steve Nash · Walt Frazier · George Gervin · Luka Dončić · Carmelo Anthony · Anthony Davis · Sam Jones · Patrick Ewing · Kevin McHale · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
+Bob Pettit · Bob Cousy · Jalen Brunson · Rick Barry · Bill Walton · Willis Reed · Kyrie Irving · Jason Kidd · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Paul Pierce · Shai Gilgeous-Alexander · Chris Paul · Steve Nash · Walt Frazier · George Gervin · Luka Dončić · Carmelo Anthony · Anthony Davis · Sam Jones · Patrick Ewing · Kevin McHale · James Worthy · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
 
 ### Level 1 (Very Good)
-Russell Westbrook · Gary Payton · Wes Unseld · Ray Allen · Clyde Drexler · Dominique Wilkins · James Worthy · Reggie Miller · Pau Gasol · Jimmy Butler · Dwight Howard · Karl-Anthony Towns · Damian Lillard · Tim Hardaway · Earl Monroe · Tyrese Haliburton · Nate Thurmond · Jaylen Brown · Bernard King · Dave DeBusschere · Hal Greer · Dennis Johnson · Nate Archibald · Bob McAdoo · Jerry Lucas · Alex English · Pete Maravich · Rasheed Wallace · Jayson Tatum · Adrian Dantley · OG Anunoby · David Thompson · Lenny Wilkens · Paul George · Chris Webber · Sidney Moncrief · Artis Gilmore · Klay Thompson · Manu Ginóbili · Tony Parker · Joe Dumars · Chris Mullin
+Russell Westbrook · Gary Payton · Wes Unseld · Ray Allen · Clyde Drexler · Dominique Wilkins · Reggie Miller · Pau Gasol · Jimmy Butler · Dwight Howard · Karl-Anthony Towns · Damian Lillard · Tim Hardaway · Earl Monroe · Tyrese Haliburton · Nate Thurmond · Jaylen Brown · Bernard King · Dave DeBusschere · Hal Greer · Dennis Johnson · Nate Archibald · Bob McAdoo · Jerry Lucas · Alex English · Pete Maravich · Rasheed Wallace · Jayson Tatum · Adrian Dantley · OG Anunoby · David Thompson · Lenny Wilkens · Paul George · Chris Webber · Sidney Moncrief · Artis Gilmore · Klay Thompson · Manu Ginóbili · Tony Parker · Joe Dumars · Chris Mullin
 
 ### Too Old School For Me
 Billy Cunningham · Elvin Hayes · Dolph Schayes · Bill Sharman · Paul Arizin · Tom Heinsohn · Dan Issel · Paul Westphal · Bob Dandridge · Dave Bing · Cliff Hagan

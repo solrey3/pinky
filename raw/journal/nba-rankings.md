@@ -63,6 +63,7 @@ tags: nba, basketball, rankings, personal
 1. Sam Jones
 1. Patrick Ewing
 1. Kevin McHale
+1. James Worthy
 1. Dennis Rodman
 1. George Mikan
 1. Robert Parish
@@ -76,7 +77,6 @@ tags: nba, basketball, rankings, personal
 1. Ray Allen
 1. Clyde Drexler
 1. Dominique Wilkins
-1. James Worthy
 1. Reggie Miller
 1. Pau Gasol
 1. Jimmy Butler
