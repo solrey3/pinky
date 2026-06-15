@@ -31,10 +31,10 @@ tags: nba, basketball, rankings, personal
 1. Giannis
 1. Elgin Baylor
 1. Scottie Pippen
-1. John Stockton
 1. John Havlicek
-1. David Robinson
 1. Charles Barkley
+1. David Robinson
+1. John Stockton
 
 ## Level 2
 

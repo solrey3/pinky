@@ -56,10 +56,10 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 25. Giannis Antetokounmpo
 26. Elgin Baylor
 27. Scottie Pippen
-28. John Stockton
-29. John Havlicek
+28. John Havlicek
+29. Charles Barkley
 30. David Robinson
-31. Charles Barkley
+31. John Stockton
 
 ### Level 2 (Notable Stars)
 Bob Pettit · Bob Cousy · Jalen Brunson · Rick Barry · Bill Walton · Willis Reed · Kyrie Irving · Jason Kidd · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Paul Pierce · Shai Gilgeous-Alexander · Chris Paul · Steve Nash · Walt Frazier · George Gervin · Luka Dončić · Carmelo Anthony · Anthony Davis · Sam Jones · Patrick Ewing · Kevin McHale · James Worthy · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
