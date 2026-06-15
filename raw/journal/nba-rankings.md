@@ -75,8 +75,8 @@ tags: nba, basketball, rankings, personal
 1. Gary Payton
 1. Wes Unseld
 1. Ray Allen
-1. Clyde Drexler
 1. Dominique Wilkins
+1. Clyde Drexler
 1. Reggie Miller
 1. Pau Gasol
 1. Jimmy Butler
