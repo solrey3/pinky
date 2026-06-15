@@ -12,10 +12,10 @@ tags: nba, basketball, rankings, personal
 1. Steph
 1. Magic #Tier3
 1. Bird
+1. Wilt
 1. Hakeem
 1. Shaq
 1. Tim Duncan
-1. Wilt
 1. Kevin Durant
 1. Jerry West #Tier4
 1. Oscar Robertson

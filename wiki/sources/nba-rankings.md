@@ -33,10 +33,10 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 ### Tier 3 (Inner Circle)
 7. Magic Johnson
 8. Larry Bird
-9. Hakeem Olajuwon
-10. Shaquille O'Neal
-11. Tim Duncan
-12. Wilt Chamberlain
+9. Wilt Chamberlain
+10. Hakeem Olajuwon
+11. Shaquille O'Neal
+12. Tim Duncan
 13. Kevin Durant
 
 ### Tier 4 (Elite)
@@ -73,7 +73,7 @@ Billy Cunningham · Elvin Hayes · Dolph Schayes · Bill Sharman · Paul Arizin 
 ## Key Observations
 
 - **Jordan #1, LeBron #2** — the canonical mainstream GOAT ordering with LeBron as the only real challenger
-- **Wilt at #12 in Tier 3, below Russell (#4) in Tier 2** — a clear valuation of winning and team impact over raw statistical dominance
+- **Wilt at #9 in Tier 3, below Russell (#4) in Tier 2** — a clear valuation of winning and team impact over raw statistical dominance
 - **Steph Curry at #6 (Tier 2)** — high placement reflects recognition of the 3-point revolution and dynasty-era dominance
 - **Shai Gilgeous-Alexander in Level 2** — contemporary player already earning historical respect; positioned behind Willis Reed
 - **Victor Wembanyama added in Level 2** — placed behind Jason Kidd as an early-career historical projection
