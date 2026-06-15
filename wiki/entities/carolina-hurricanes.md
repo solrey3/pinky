@@ -4,9 +4,9 @@ title: Carolina Hurricanes
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-14
-tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports]
-source_count: 26
+updated: 2026-06-15
+tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports, stanley-cup-champions]
+source_count: 27
 ---
 
 # Carolina Hurricanes
@@ -22,7 +22,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 | ECF | Montréal Canadiens | **Won 4-1 — STANLEY CUP FINALS** |
 | SCF Game 4 | @ Vegas Golden Knights | **CAR 5, VGK 3 — W** — Series tied 2-2 |
 | SCF Game 5 | vs. Vegas Golden Knights | **CAR 4, VGK 2 — W** — Carolina leads 3-2 |
-| SCF Game 6 | @ Vegas Golden Knights | **June 14, 2026** — Carolina can win the Cup |
+| SCF Game 6 | @ Vegas Golden Knights | **CAR 3, VGK 0 — W** — Carolina wins series 4-2 and the Stanley Cup |
 
 **ECF Game 4 (May 28):** Carolina 4, Montréal 0 — shutout win at home.  
 **ECF Game 5 (May 29):** Carolina 6, Montréal 1 — dominant close. Carolina wins the series **4-1** and advances to the **Stanley Cup Finals vs. the Vegas Golden Knights**. They didn't just beat Montréal — they took them apart across four of five games, outscoring them 22-7 across the series.
@@ -43,7 +43,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 
 **SCF Game 5 result (June 11, 2026): CAR 4, VGK 2.** Carolina wins at home and leads the Stanley Cup Final **3-2**. The Hurricanes now have the first closeout edge of the series after converting the best-of-three reset into a one-win cushion.
 
-**SCF Game 6:** Sunday June 14, 8:00 PM EDT on ABC — Carolina at Vegas. The Hurricanes can close out the Stanley Cup on the road. The June 13 and June 14 dispatches preserve this as the next hockey inflection point.
+**SCF Game 6 result (June 14, 2026): CAR 3, VGK 0.** Carolina wins on the road in Las Vegas and takes the Stanley Cup Final **4-2**. The shutout close is the clean endpoint of the Hurricanes' playoff arc: after falling behind 1-0 in the Final, they won four of the next five and finished with the handshake-line result in enemy ice.
 
 ## Sources
 
@@ -73,9 +73,10 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard again lists Carolina at Vegas for June 14 on ABC, keeping the Hurricanes' Cup-clinching chance unchanged.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Game 6 remains tonight on ABC: Carolina at Vegas, with the Hurricanes one win from the Stanley Cup.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening scoreboard again lists Carolina at Vegas at 8:00 PM EDT, preserving the Hurricanes' road closeout setup before a Game 6 result is recorded.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — **SCF Game 6: Carolina 3, Vegas 0.** The Hurricanes close the series 4-2 and win the Stanley Cup.
 
 ## Related
 
 - [[Stanley Cup Playoffs 2026]] — they are in the Finals vs. Vegas
-- [[Vegas Golden Knights]] — Western Conference representative; 2026 Stanley Cup Final opponent, Carolina leads 3-2
+- [[Vegas Golden Knights]] — Western Conference representative; 2026 Stanley Cup Final opponent, Carolina won 4-2
 - [[NBA Finals 2026]] — parallel championship series also underway; Spurs at Knicks Game 4 is the June 10 hinge

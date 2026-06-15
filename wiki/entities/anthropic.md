@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-14
+updated: 2026-06-15
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive]
-source_count: 12
+source_count: 13
 ---
 
 # Anthropic
@@ -16,6 +16,8 @@ AI safety company and frontier model lab, founded 2021 by Dario Amodei, Daniela 
 Anthropic's commercial trajectory through early 2026 tracked closely with Claude's market adoption — particularly among enterprise API customers and AI coding workflows where Claude's instruction-following and context handling were preferred by a segment of developers. By May 2026, Anthropic had overtaken OpenAI in paper valuation terms.
 
 ## 2026 Milestones
+
+- **June 15, 2026**: The morning dispatch again frames the Fable/Mythos shutdown as following a Trump administration directive, extending the model-availability story into another daily cycle and keeping state-mediated access control in Anthropic's governance profile.
 
 - **June 14, 2026**: The evening dispatch keeps the reported Trump administration directive against Fable/Mythos access in the AI desk, confirming that the access-suspension story remains live beyond the first weekend cycle.
 
@@ -50,6 +52,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — U.S. government directive to suspend access to Fable 5 and Mythos 5 extends the safety-boundary story into state-directed availability and platform governance.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage keeps Fable/Mythos suspension in the AI desk, reinforcing government-directed availability as part of Anthropic's safety and platform-governance profile.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, extending the state-mediated availability story.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — The Fable/Mythos shutdown remains in the AI desk, reinforcing model availability as a state-pressure and platform-governance issue.
 
 ## Related
 

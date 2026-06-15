@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-14
+updated: 2026-06-15
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion]
-source_count: 12
+source_count: 13
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -32,6 +32,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-13 (Evening)**: NJPW Dominion 2026 preview appears in the wrestling digest, while the Meltzer 5-star-plus table still keeps Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as the top New Japan marker of the cycle.
 - **2026-06-14 (Morning)**: Dominion moves from preview to result: Shota Umino wins the IWGP Global Heavyweight title and is attacked by Gabe Kidd, while Aaron Wolf becomes a two-time NEVER Openweight Champion. The ratings table again preserves Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star benchmark.
 - **2026-06-14 (Evening)**: Dominion results expand: Yota Tsuji regains the IWGP Heavyweight title in a rematch with Callum Newman, and Shota Umino pins Andrade El Idolo to win the IWGP Global Heavyweight title.
+- **2026-06-15 (Morning)**: The next dispatch keeps Yota Tsuji's Dominion title win in the lead wrestling slot and preserves Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star benchmark on the 2026 ratings table.
 
 ## Sources
 
@@ -47,6 +48,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — NJPW Dominion 2026 preview is listed for June 14, and Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star benchmark in the ratings table.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Dominion 2026 produces title changes: Shota Umino wins the IWGP Global Heavyweight title, and Aaron Wolf wins the NEVER Openweight title again.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Dominion 6.14 coverage adds Yota Tsuji regaining the IWGP Heavyweight title and Shota Umino pinning Andrade El Idolo for the IWGP Global Heavyweight title.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Dominion 6.14 remains the lead NJPW item, with Yota Tsuji regaining the IWGP Heavyweight title and the Tanahashi vs. Okada Wrestle Kingdom 20 rating still anchoring the 2026 table.
 
 ## Related
 

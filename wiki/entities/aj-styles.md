@@ -4,9 +4,9 @@ title: AJ Styles
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-08
+updated: 2026-06-15
 tags: [person, wrestling, wwe]
-source_count: 2
+source_count: 3
 ---
 
 # AJ Styles
@@ -35,11 +35,13 @@ source_count: 2
 ## Current Notes
 
 - **2026-06-08:** Styles said there is a place for blood in wrestling, but he does not expect WWE to move away from its PG rating. The note is useful because it separates style preference from corporate content lane.
+- **2026-06-15:** Styles said wrestlers walked more timidly under Vince McMahon and can now ask questions without being yelled at. The note belongs less to match analysis than to WWE workplace/culture-change tracking under the post-Vince regime.
 
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/aj-styles.md)
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Fightful headline: Styles sees a place for blood in wrestling but expects WWE's PG rating to remain.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Styles says wrestlers were more timid under Vince McMahon and are freer to ask questions now.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-14
+updated: 2026-06-15
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail]
-source_count: 14
+source_count: 15
 ---
 
 # Risk-Off Market Rotation
@@ -28,6 +28,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening tables keep the same relief-rotation shape: Russell +3.90%, VXUS/VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI -7.03%.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Sunday tables preserve the same weekly structure: major indexes green, Russell 2000 +3.90%, small-value/dividend/international/REIT strength, RL and TGT +10%+, and WTI -6.25%.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening weekend tables repeat the relief-rotation structure: small caps lead, VXUS/VBR/VNQ/SCHD sit near upper rails, RL/TGT remain +10% retail standouts, Bitcoin rebounds, and WTI stays down on the week.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Monday morning board keeps the relief rotation intact: major indexes green near highs, Russell 2000 +3.90%, VBR/VXUS/VNQ/SCHD strong, RL/TGT +10%+, and WTI -10.95%.
 
 ## Related Concepts
 
@@ -64,3 +65,5 @@ The June 13 evening dispatch preserves the same conclusion. Its incremental valu
 The June 14 morning dispatch is not fresh trading, but it is still useful as a regime confirmation. The same weekly close supports the relief-rotation read: indexes recovered, breadth improved, but leadership remained concentrated in small caps, small value, dividends, international equities, real estate, retail, and selected chips rather than a clean speculative-growth melt-up.
 
 The June 14 evening dispatch confirms the same interpretation and adds a useful caution: the table is still weekend data, not a new Sunday session. Its value is cross-asset consistency, not freshness — small caps, retail, international, small-value, dividends, and REITs hold the leadership shape while crude remains the release valve.
+
+The June 15 morning dispatch carries the same structure into a new daily source. The important distinction remains: green indexes near highs do not erase rotation. Leadership is still in small caps, small value, dividends, international, real estate, and retail, while WTI's double-digit drop remains the macro counter-signal.

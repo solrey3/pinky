@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-06-14
+updated: 2026-06-15
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control]
-source_count: 6
+source_count: 7
 ---
 
 # AI Model Safety Boundaries
@@ -20,6 +20,7 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — U.S. government directive to suspend access to Anthropic Fable 5 and Mythos 5 shows safety boundaries moving from output refusals into access-control and state-directed availability.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage keeps the Fable/Mythos suspension in the AI desk, reinforcing that model safety boundaries include platform availability and government-pressure response.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, showing the availability boundary persisting across multiple dispatches.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Anthropic Fable/Mythos shutdown remains in the AI desk, extending the availability-boundary story into another daily cycle.
 
 ## Related Concepts
 
@@ -39,3 +40,5 @@ The June 11 Fable item adds a researcher-access stressor. A guardrail can reduce
 The June 13 item adds an availability stressor. If a government directive can suspend model access, then model safety boundaries are no longer only about what a model says; they also include who may access it, under what legal authority, and how quickly provider policy can be overridden by state pressure. The evening repeat matters because it shows the story persisting beyond a single morning feed item.
 
 The June 14 evening dispatch keeps that availability stressor alive. Persistence matters here: a one-off access item could be read as a feed artifact, but repeated placement in the AI desk means state-mediated model availability belongs in the model-safety boundary concept.
+
+The June 15 morning dispatch confirms the same point. Model safety boundaries now include access revocation and government pressure alongside refusals, classifiers, and content policies.

@@ -4,14 +4,14 @@ title: PeopleSoft
 type: entity
 entity_type: product
 created: 2026-06-12
-updated: 2026-06-14
+updated: 2026-06-15
 tags: [enterprise-software, oracle, peoplesoft, cybersecurity, cve, data-theft]
-source_count: 5
+source_count: 6
 ---
 
 # PeopleSoft
 
-Oracle-owned enterprise application suite used for HR, finance, campus, and administrative systems. In the June 2026 newsletter stream, PeopleSoft appears as a high-impact enterprise-security exposure rather than as ordinary business software. The June 13 and June 14 dispatches keep the zero-day in the live security feed, suggesting the issue has not yet burned out as a one-cycle alert.
+Oracle-owned enterprise application suite used for HR, finance, campus, and administrative systems. In the June 2026 newsletter stream, PeopleSoft appears as a high-impact enterprise-security exposure rather than as ordinary business software. The June 13-15 dispatches keep the zero-day in the live security feed, suggesting the issue has not yet burned out as a one-cycle alert.
 
 ## Sources
 
@@ -20,6 +20,7 @@ Oracle-owned enterprise application suite used for HR, finance, campus, and admi
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage again lists the PeopleSoft zero-day affecting hundreds of organizations and stealing gigabytes of data.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — PeopleSoft CVE-2026-35273 remains in the AI/tech desk as an enterprise-security data-theft risk affecting hundreds of organizations.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening tech desk again lists the PeopleSoft zero-day as a gigabytes-of-data theft event affecting hundreds of organizations.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — The PeopleSoft zero-day remains the top AI/tech security item, still framed as mass data theft across hundreds of organizations.
 
 ## Related
 

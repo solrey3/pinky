@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-14"
+updated: "2026-06-15"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance]
-source_count: 17
+source_count: 18
 ---
 
 # Market Inefficiency
@@ -31,6 +31,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Polymarket returns Iran-topic probabilities, but without sufficient market IDs, deltas, liquidity, and timestamp context; Kalshi extraction again fails or is blocked.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Polymarket surfaces U.S.-Iran peace-deal and Portugal World Cup chatter without a clean odds/mover table, while Kalshi extraction fails or is blocked.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Polymarket shows sports and Iran-deal demand snippets, including oil-sanction relief and uranium-enrichment probabilities, but Kalshi extraction fails and the section still lacks clean IDs, liquidity, deltas, and timestamps.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Polymarket lists Iran peace-deal probabilities, including oil-sanction relief, uranium enrichment, Strait transit fees, and asset-unfreezing, but Kalshi extraction fails and the feed still lacks enough context for forecast use.
 
 ## Related Concepts
 
@@ -69,3 +70,5 @@ The evening dispatch supplies more specific Iran-topic percentages, but the same
 The June 14 morning dispatch confirms the pipeline problem across another cycle. U.S.-Iran and World Cup prediction-market references may identify topics worth watching, but without odds, deltas, liquidity, identifiers, and timestamps they remain provenance artifacts rather than forecast evidence.
 
 The evening dispatch supplies more specific topic labels and a couple of percentages, but not enough context to upgrade the evidence. A probability attached to “Oil Sanction Relief” or “Enrichment of Uranium” still needs market identity, prior price, liquidity, timestamp, and resolution language before it can be treated as a forecast rather than a collection artifact.
+
+The June 15 morning dispatch repeats that limitation. The Iran probabilities are useful as a watchlist of live questions, but not as clean forecast evidence until the pipeline provides market IDs, resolution text, liquidity, prior prices, and collection timestamps.
