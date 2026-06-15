@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-14"
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy]
-source_count: 18
+source_count: 19
 ---
 
 # Security & Privacy Toolkit
@@ -32,6 +32,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Anthropic access suspension, Gemini-enabled scam litigation, PeopleSoft zero-day coverage, and FFmpeg zero-day research put model access, fraud automation, enterprise apps, and media parsing inside one defense perimeter.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — PeopleSoft zero-day coverage, alleged AI-created evidence, Census statistical-noise policy, and Fable/Mythos access suspension extend the perimeter into enterprise apps, evidentiary integrity, public-data privacy, and model availability.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — PeopleSoft zero-day coverage, Gemini scam automation, Census noise-infusion policy, and fraud-economy coverage keep enterprise apps, model abuse, public-data privacy, and economic fraud in one operational-trust frame.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — PeopleSoft CVE-2026-35273, Arch Linux AUR malware, Anthropic access suspension, and Rio LLM provenance concerns put enterprise apps, community packages, model availability, and model provenance inside one software-trust perimeter.
 
 ## Related Concepts
 
@@ -67,3 +68,5 @@ The June 13 morning dispatch widens the same map to media parsing and model avai
 The evening dispatch adds record integrity and statistical privacy. A hostile or careless actor using AI to create evidence is a security failure inside the justice system, while Census noise policy shows that privacy controls can also affect public-data quality and trust.
 
 The June 14 morning dispatch keeps the same perimeter but clarifies the public-data layer. PeopleSoft exploitation and Gemini-enabled scam automation are direct security issues; Census noise-infusion policy is a trust issue over the data environment itself. All three require provenance, auditability, and explicit controls.
+
+The evening dispatch shifts the same control logic back toward software supply chains. PeopleSoft is institutional enterprise exposure; Arch AUR malware is community-package exposure; Rio's LLM provenance question is model-lineage exposure; Anthropic's access suspension is availability governance. The shared defense is provenance, review, signed/verified artifacts where possible, and skepticism toward unlabeled automation.

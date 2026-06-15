@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-06-14
 tags: [person, wrestling, wwe, raw]
-source_count: 2
+source_count: 3
 ---
 
 # Miro (Rusev)
@@ -34,12 +34,13 @@ source_count: 2
 
 ## 2026 WWE Feed
 
-The June 14 morning dispatch lists **Chad Gable vs. Rusev** for Monday's WWE Raw, keeping Rusev active in the weekly WWE match-booking stream.
+The June 14 dispatches list **Chad Gable vs. Rusev** for Monday's WWE Raw, keeping Rusev active in the weekly WWE match-booking stream.
 
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/rusev.md)
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Rusev is advertised for Monday's WWE Raw against Chad Gable.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening wrestling feed repeats Rusev's Raw match listing against Chad Gable.
 
 ## Related
 

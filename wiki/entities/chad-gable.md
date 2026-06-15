@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-05
 updated: 2026-06-14
 tags: [wrestling, wwe, smackdown, raw, chad-gable, el-grande-americano, lucha-libre, king-of-the-ring, redemption-arc, person]
-source_count: 2
+source_count: 3
 ---
 
 # Chad Gable
@@ -33,12 +33,13 @@ The Bologna pop was notable: a European crowd recognizing the babyface turn of a
 
 This is the kind of WWE long-form storytelling that works when executed correctly: take a beloved worker, run him through a demeaning/misaligned character, let the audience miss who he really is, then return him to that identity as a genuine emotional moment.
 
-The June 14 morning dispatch keeps Gable in the active weekly WWE feed by advertising **Chad Gable vs. Rusev** for Monday's Raw. That moves him from comeback segment into ordinary match-booking continuity.
+The June 14 dispatches keep Gable in the active weekly WWE feed by advertising **Chad Gable vs. Rusev** for Monday's Raw. That moves him from comeback segment into ordinary match-booking continuity.
 
 ## Sources
 
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Chad Gable returns to WWE** on SmackDown Bologna. Unmasked as El Grande Americano. Monster pop from the Italian crowd. Apologized to Rey Fenix for mocking lucha libre. War Raiders appeared. Redemption arc begins. "That was the night."
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Chad Gable is listed for Monday's WWE Raw against Rusev.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — The evening wrestling feed again advertises Gable's comeback match against Rusev on Raw.
 
 ## Related
 

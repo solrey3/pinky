@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-06-12
 updated: 2026-06-14
 tags: [enterprise-software, oracle, peoplesoft, cybersecurity, cve, data-theft]
-source_count: 4
+source_count: 5
 ---
 
 # PeopleSoft
@@ -19,6 +19,7 @@ Oracle-owned enterprise application suite used for HR, finance, campus, and admi
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — The PeopleSoft zero-day remains in the AI/tech/security desk as an enterprise-application data-theft risk.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage again lists the PeopleSoft zero-day affecting hundreds of organizations and stealing gigabytes of data.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — PeopleSoft CVE-2026-35273 remains in the AI/tech desk as an enterprise-security data-theft risk affecting hundreds of organizations.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening tech desk again lists the PeopleSoft zero-day as a gigabytes-of-data theft event affecting hundreds of organizations.
 
 ## Related
 

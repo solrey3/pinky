@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-14
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail]
-source_count: 13
+source_count: 14
 ---
 
 # Risk-Off Market Rotation
@@ -27,6 +27,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Weekend tables preserve the relief-rotation structure: weekly green indexes, Russell 2000 +3.90%, VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI down hard.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening tables keep the same relief-rotation shape: Russell +3.90%, VXUS/VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI -7.03%.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Sunday tables preserve the same weekly structure: major indexes green, Russell 2000 +3.90%, small-value/dividend/international/REIT strength, RL and TGT +10%+, and WTI -6.25%.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening weekend tables repeat the relief-rotation structure: small caps lead, VXUS/VBR/VNQ/SCHD sit near upper rails, RL/TGT remain +10% retail standouts, Bitcoin rebounds, and WTI stays down on the week.
 
 ## Related Concepts
 
@@ -61,3 +62,5 @@ The June 13 morning dispatch does not add fresh Saturday trading, but it validat
 The June 13 evening dispatch preserves the same conclusion. Its incremental value is the confirmation that the close reads consistently across asset buckets: small caps, small value, international, dividends, REITs, and retail are strong while crude keeps falling.
 
 The June 14 morning dispatch is not fresh trading, but it is still useful as a regime confirmation. The same weekly close supports the relief-rotation read: indexes recovered, breadth improved, but leadership remained concentrated in small caps, small value, dividends, international equities, real estate, retail, and selected chips rather than a clean speculative-growth melt-up.
+
+The June 14 evening dispatch confirms the same interpretation and adds a useful caution: the table is still weekend data, not a new Sunday session. Its value is cross-asset consistency, not freshness — small caps, retail, international, small-value, dividends, and REITs hold the leadership shape while crude remains the release valve.
