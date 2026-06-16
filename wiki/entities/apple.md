@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-15
+updated: 2026-06-16
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization]
-source_count: 4
+source_count: 5
 ---
 
 # Apple
@@ -19,6 +19,7 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Gemini-backed architecture story persisted into the morning feed alongside macOS Golden Gate/Gemini Siri coverage.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — macOS 27 beta reportedly breaks Asahi Linux boot support, showing how Apple platform updates can disrupt alternate OS workflows on Apple Silicon.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Ars Technica's 20-year Intel Mac retrospective puts Apple's architecture strategy in context: PowerPC to Intel, then Intel to Apple Silicon.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The Intel Mac retrospective remains in the morning feed, keeping Apple's architecture transitions visible as a long-run platform-control story.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 5ff9d159-4899-45de-a577-c78666bd6d33
 title: AI Output Liability
 type: concept
 created: 2026-06-10
-updated: 2026-06-15
+updated: 2026-06-16
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews]
-source_count: 6
+source_count: 7
 ---
 
 # AI Output Liability
@@ -20,6 +20,7 @@ AI output liability is the accountability problem created when generated answers
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — The Florida facial-recognition lawsuit persists in the AI/tech desk, keeping biometric match quality and police corroboration duties inside the AI liability frame.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — A police officer is investigated for allegedly using AI to create evidence, moving the liability frame from mistaken algorithmic matches into evidentiary fabrication and record integrity.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — A German court ruling says Google can be held liable for false AI Overview answers, returning the concept to generated search summaries as legally attributable platform output.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The same German AI Overview liability ruling remains in the around-the-web feed, confirming the issue has enough persistence to track as a standing platform-risk theme.
 
 ## Related Concepts
 
@@ -41,3 +42,5 @@ The June 12 morning dispatch makes persistence itself the signal. Repeated cover
 The June 13 evening dispatch widens the policing lane from AI-assisted identification to alleged AI-generated evidence creation. That is a more severe evidentiary-integrity problem: it requires chain-of-custody controls, provenance metadata, audit logs, and penalties for laundering generated material into official records.
 
 The June 15 evening dispatch returns the issue to search. If AI Overview answers are treated as Google's own statements, then retrieval-augmented summaries need citation quality, correction workflows, audit logs, and clear liability allocation rather than vague product disclaimers.
+
+The June 16 morning dispatch adds persistence as signal. Repeated coverage of the same ruling means generated-search accountability is no longer just a legal novelty; it is a product-risk category that search platforms, publishers, and users will have to price into trust decisions.
