@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-06-15] ingest | Evening Brief — Monday, June 15, 2026
+- Source: `pinky/raw/newsletters/2026-06-15-evening-dispatch.md`
+- Summary: Monday June 15 evening dispatch — a broad risk-on close replaces the morning's relief-rotation framing: S&P 500 +2.01%, Nasdaq +2.91%, Russell 2000 +3.84%, AMD +11.61%, RL +10.60%, Bitcoin +4.39%, and WTI -9.85%. News remains energy- and Iran-sensitive, with the SPR at its lowest level since 1983 and U.S.-Iran pact details contested. AI/security coverage adds Nvidia's $25B+ bond plan, a LinkedIn job-offer backdoor, Iroh 1.0, and Google AI Overview liability. Carolina's 3-0 Game 6 shutout over Vegas remains the Stanley Cup endpoint; NJPW pivots toward G1 Climax 36 play-ins and AEW adds Will Ospreay/Alex Windsor plus West End musical notes.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-06-15-evening.md` (new), `pinky/wiki/entities/nvidia.md` (new), `pinky/wiki/entities/google.md`, `pinky/wiki/entities/apple.md`, `pinky/wiki/entities/carolina-hurricanes.md`, `pinky/wiki/entities/vegas-golden-knights.md`, `pinky/wiki/entities/njpw.md`, `pinky/wiki/entities/will-ospreay.md`, `pinky/wiki/concepts/risk-off-market-rotation.md`, `pinky/wiki/concepts/security-and-privacy-toolkit.md`, `pinky/wiki/concepts/ai-output-liability.md`, `pinky/wiki/concepts/market-inefficiency.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: the June rotation has entered a broad risk-on phase, while AI/security provenance spans capital financing, recruiting-channel malware, and generated-search liability.
+
 ## [2026-06-15] ingest | Newsletter 2026-06-15 — Morning Dispatch
 - Source: `pinky/raw/newsletters/2026-06-15-morning-dispatch.md`
 - Summary: Monday June 15 morning dispatch — U.S.-Iran peace-deal and Strait of Hormuz reopening headlines frame the news board while markets preserve the relief-rotation tape: green indexes near highs, Russell 2000 +3.90%, VBR/VXUS/VNQ/SCHD strength, RL/TGT +10%+, and WTI -10.95%. Security coverage keeps PeopleSoft CVE-2026-35273, Anthropic Fable/Mythos access suspension, curl's July vulnerability-report pause, and Arch AUR malware in the provenance/control perimeter. Carolina shuts out Vegas 3-0 to win the Stanley Cup Final 4-2; NJPW Dominion and WWE culture-change notes lead wrestling.

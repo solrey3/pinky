@@ -4,14 +4,14 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-14
+updated: 2026-06-15
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams]
-source_count: 8
+source_count: 9
 ---
 
 # Google
 
-American technology company and AI lab/operator behind Search, Android, Google Cloud, and the Gemini model family. In the June 2026 newsletter stream, Google appears both as a direct AI builder and as model infrastructure for other major platforms. Gemini is showing up in two lanes at once: as hidden plumbing for platform partners and as direct user-facing utility such as voice translation. The June 10 evening dispatch adds a third lane: legal accountability for AI-generated search answers. The June 11 morning dispatch keeps both the capability and liability threads alive: DiffusionGemma stays in the feed, and a German ruling frames AI Overviews as Google's own words when they are false. The June 12 evening dispatch adds an abuse-and-enforcement lane: Google sues a Chinese cybercrime network it says used Gemini to automate scams. The June 13 and June 14 morning dispatches keep that lane alive as a core AI/security item, making Gemini abuse detection and enforcement part of Google's model-platform story.
+American technology company and AI lab/operator behind Search, Android, Google Cloud, and the Gemini model family. In the June 2026 newsletter stream, Google appears both as a direct AI builder and as model infrastructure for other major platforms. Gemini is showing up in two lanes at once: as hidden plumbing for platform partners and as direct user-facing utility such as voice translation. The June 10 evening dispatch adds a third lane: legal accountability for AI-generated search answers. The June 11 morning dispatch keeps both the capability and liability threads alive: DiffusionGemma stays in the feed, and a German ruling frames AI Overviews as Google's own words when they are false. The June 12 evening dispatch adds an abuse-and-enforcement lane: Google sues a Chinese cybercrime network it says used Gemini to automate scams. The June 13 and June 14 morning dispatches keep that lane alive as a core AI/security item, making Gemini abuse detection and enforcement part of Google's model-platform story. The June 15 evening dispatch returns to the liability lane through a German court ruling that Google can be held responsible for false AI Overview answers.
 
 ## Sources
 
@@ -23,6 +23,7 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Google sues a Chinese cybercrime network that allegedly used Gemini to automate scam operations.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — The Gemini-enabled scam-automation lawsuit remains a top AI/security item, reinforcing abuse prevention as part of the model-provider role.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Google's lawsuit over alleged Gemini-automated scams stays in the AI/security desk, keeping model-abuse controls and legal enforcement in the Google story.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — A German court ruling says Google can be held liable for false AI Overview answers, keeping generated search summaries in the platform-accountability frame.
 
 ## Related
 

@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-15"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security]
-source_count: 20
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering]
+source_count: 21
 ---
 
 # Security & Privacy Toolkit
@@ -34,6 +34,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — PeopleSoft zero-day coverage, Gemini scam automation, Census noise-infusion policy, and fraud-economy coverage keep enterprise apps, model abuse, public-data privacy, and economic fraud in one operational-trust frame.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — PeopleSoft CVE-2026-35273, Arch Linux AUR malware, Anthropic access suspension, and Rio LLM provenance concerns put enterprise apps, community packages, model availability, and model provenance inside one software-trust perimeter.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — PeopleSoft zero-day coverage, curl's July vulnerability-report pause, Arch AUR malware, and Anthropic model-access suspension show the perimeter spanning enterprise patching, disclosure windows, package provenance, and AI availability governance.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — A LinkedIn job-offer backdoor shows recruiting and professional-network trust as malware delivery channels, while Google AI Overview liability keeps generated-output provenance in the security frame.
 
 ## Related Concepts
 
@@ -73,3 +74,5 @@ The June 14 morning dispatch keeps the same perimeter but clarifies the public-d
 The evening dispatch shifts the same control logic back toward software supply chains. PeopleSoft is institutional enterprise exposure; Arch AUR malware is community-package exposure; Rio's LLM provenance question is model-lineage exposure; Anthropic's access suspension is availability governance. The shared defense is provenance, review, signed/verified artifacts where possible, and skepticism toward unlabeled automation.
 
 The June 15 morning dispatch adds maintainer-capacity and intake-process risk through curl. Security programs cannot assume every upstream project accepts vulnerability reports continuously; operational defense needs alternate escalation paths, patch-monitoring discipline, and local compensating controls when normal disclosure channels pause.
+
+The June 15 evening dispatch adds social context as attack surface. A job offer is not just a message; it is a trust-bearing workflow with attachments, links, identity claims, urgency, and career incentives. Recruiting security therefore belongs beside package provenance and vulnerability disclosure as a practical operational control.

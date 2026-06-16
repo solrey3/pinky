@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-15
 tags: [nhl, hockey, carolina-hurricanes, stanley-cup, organization, sports, stanley-cup-champions]
-source_count: 27
+source_count: 28
 ---
 
 # Carolina Hurricanes
@@ -74,6 +74,7 @@ The Hurricanes entered the 2026 playoffs as the Eastern Conference's dominant te
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Game 6 remains tonight on ABC: Carolina at Vegas, with the Hurricanes one win from the Stanley Cup.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening scoreboard again lists Carolina at Vegas at 8:00 PM EDT, preserving the Hurricanes' road closeout setup before a Game 6 result is recorded.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — **SCF Game 6: Carolina 3, Vegas 0.** The Hurricanes close the series 4-2 and win the Stanley Cup.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Evening scoreboard repeats the final outcome: Carolina shuts out Vegas 3-0, wins the Final 4-2, and takes the Cup.
 
 ## Related
 

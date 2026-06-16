@@ -4,20 +4,21 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-12
+updated: 2026-06-15
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization]
-source_count: 3
+source_count: 4
 ---
 
 # Apple
 
-American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race and through Mac platform-control issues that affect alternate operating-system workflows.
+American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, and through architecture-transition history from PowerPC to Intel to Apple Silicon.
 
 ## Sources
 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Siri/Apple Intelligence was a Hacker News item, and MacRumors reported Apple revealing an AI architecture built around Google Gemini models.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Gemini-backed architecture story persisted into the morning feed alongside macOS Golden Gate/Gemini Siri coverage.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — macOS 27 beta reportedly breaks Asahi Linux boot support, showing how Apple platform updates can disrupt alternate OS workflows on Apple Silicon.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Ars Technica's 20-year Intel Mac retrospective puts Apple's architecture strategy in context: PowerPC to Intel, then Intel to Apple Silicon.
 
 ## Related
 

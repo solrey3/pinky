@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-03
 updated: 2026-06-15
 tags: [nhl, hockey, vegas, golden-knights, stanley-cup, organization, sports]
-source_count: 19
+source_count: 20
 ---
 
 # Vegas Golden Knights
@@ -63,6 +63,7 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Game 6 remains tonight on ABC: Vegas hosts Carolina needing a win to force Game 7.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening scoreboard again lists Vegas hosting Carolina at 8:00 PM EDT, preserving the Golden Knights' home elimination-game setup.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — **SCF Game 6: Vegas 0, Carolina 3.** The Golden Knights lose the Final 4-2.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Evening scoreboard repeats the shutout close: Vegas loses 3-0 at home and drops the Stanley Cup Final 4-2.
 
 ## Related
 
