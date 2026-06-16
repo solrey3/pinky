@@ -16,7 +16,7 @@ source_path: raw/journal/nba-rankings.md
 
 ## Summary
 
-Personal all-time NBA player rankings organized as a tiered pyramid with five primary tiers plus two additional "Level" groupings and a "Too Old School For Me" category. 113 players ranked total. The pyramid reflects a personal basketball canon, not an objective statistical ranking — acknowledges era bias ("Too Old School For Me" is a candid admission).
+Personal all-time NBA player rankings organized as a tiered pyramid with five primary tiers plus two additional "Level" groupings and a "Too Old School For Me" category. 111 players ranked total. The pyramid reflects a personal basketball canon, not an objective statistical ranking — acknowledges era bias ("Too Old School For Me" is a candid admission).
 
 ## Tier Structure
 
@@ -62,10 +62,10 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 31. John Stockton
 
 ### Level 2 (Notable Stars)
-Bob Pettit · Bob Cousy · Jalen Brunson · Rick Barry · Bill Walton · Willis Reed · Kyrie Irving · Jason Kidd · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Paul Pierce · Shai Gilgeous-Alexander · Chris Paul · Steve Nash · Walt Frazier · George Gervin · Luka Dončić · Carmelo Anthony · Anthony Davis · Sam Jones · Patrick Ewing · Kevin McHale · James Worthy · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
+Bob Pettit · Bob Cousy · Jalen Brunson · Rick Barry · Bill Walton · Willis Reed · Kyrie Irving · Jason Kidd · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Paul Pierce · Walt Frazier · Shai Gilgeous-Alexander · Chris Paul · Steve Nash · George Gervin · Carmelo Anthony · Anthony Davis · Sam Jones · Patrick Ewing · Kevin McHale · James Worthy · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
 
 ### Level 1 (Very Good)
-Russell Westbrook · Gary Payton · Wes Unseld · Ray Allen · Dominique Wilkins · Clyde Drexler · Reggie Miller · Pau Gasol · Jimmy Butler · Dwight Howard · Karl-Anthony Towns · Damian Lillard · Tim Hardaway · Earl Monroe · Tyrese Haliburton · Nate Thurmond · Jaylen Brown · Bernard King · Dave DeBusschere · Hal Greer · Dennis Johnson · Nate Archibald · Bob McAdoo · Jerry Lucas · Alex English · Pete Maravich · Rasheed Wallace · Jayson Tatum · Adrian Dantley · OG Anunoby · David Thompson · Lenny Wilkens · Paul George · Chris Webber · Sidney Moncrief · Artis Gilmore · Klay Thompson · Manu Ginóbili · Tony Parker · Joe Dumars · Chris Mullin
+Russell Westbrook · Luka Dončić · Gary Payton · Wes Unseld · Ray Allen · Dominique Wilkins · Clyde Drexler · Reggie Miller · Pau Gasol · Jimmy Butler · Dwight Howard · Karl-Anthony Towns · Earl Monroe · Damian Lillard · Tyrese Haliburton · Nate Thurmond · Bernard King · Dave DeBusschere · Hal Greer · Dennis Johnson · Nate Archibald · Bob McAdoo · Jerry Lucas · Alex English · Pete Maravich · Rasheed Wallace · Adrian Dantley · OG Anunoby · David Thompson · Lenny Wilkens · Paul George · Chris Webber · Sidney Moncrief · Artis Gilmore · Klay Thompson · Manu Ginóbili · Tim Hardaway · Tony Parker · Joe Dumars · Chris Mullin
 
 ### Too Old School For Me
 Billy Cunningham · Elvin Hayes · Dolph Schayes · Bill Sharman · Paul Arizin · Tom Heinsohn · Dan Issel · Paul Westphal · Bob Dandridge · Dave Bing · Cliff Hagan
@@ -87,7 +87,7 @@ The [[raptor]] and [[plus-minus-statistics]] analytics concepts from the FiveThi
 
 ## Entities Mentioned
 
-- [[Michael Jordan]] · [[LeBron James]] · [[Stephen Curry]] · [[James Harden]] · [[Victor Wembanyama]] · [[Shai Gilgeous-Alexander]] (2026 NBA MVP) · [[Jalen Brunson]] · [[Rasheed Wallace]] · [[Jayson Tatum]]
+- [[Michael Jordan]] · [[LeBron James]] · [[Stephen Curry]] · [[James Harden]] · [[Victor Wembanyama]] · [[Shai Gilgeous-Alexander]] (2026 NBA MVP) · [[Jalen Brunson]] · [[Rasheed Wallace]]
 
 ## Related Concepts
 

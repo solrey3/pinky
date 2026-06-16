@@ -52,12 +52,11 @@ tags: nba, basketball, rankings, personal
 1. Vince Carter
 1. Tracy McGrady
 1. Paul Pierce
+1. Walt Frazier
 1. Shai Gilgeous-Alexander
 1. Chris Paul
 1. Steve Nash
-1. Walt Frazier
 1. George Gervin
-1. Luka Dončić
 1. Carmelo Anthony
 1. Anthony Davis
 1. Sam Jones
@@ -72,6 +71,7 @@ tags: nba, basketball, rankings, personal
 ## Level 1
 
 1. Russell Westbrook
+1. Luka Dončić
 1. Gary Payton
 1. Wes Unseld
 1. Ray Allen
@@ -82,12 +82,10 @@ tags: nba, basketball, rankings, personal
 1. Jimmy Butler
 1. Dwight Howard
 1. Karl-Anthony Towns
-1. Damian Lillard
-1. Tim Hardaway
 1. Earl Monroe
+1. Damian Lillard
 1. Tyrese Haliburton
 1. Nate Thurmond
-1. Jaylen Brown
 1. Bernard King
 1. Dave DeBusschere
 1. Hal Greer
@@ -98,7 +96,6 @@ tags: nba, basketball, rankings, personal
 1. Alex English
 1. Pete Maravich
 1. Rasheed Wallace
-1. Jayson Tatum
 1. Adrian Dantley
 1. OG Anunoby
 1. David Thompson
@@ -109,6 +106,7 @@ tags: nba, basketball, rankings, personal
 1. Artis Gilmore
 1. Klay Thompson
 1. Manu Ginóbili
+1. Tim Hardaway
 1. Tony Parker
 1. Joe Dumars
 1. Chris Mullin
