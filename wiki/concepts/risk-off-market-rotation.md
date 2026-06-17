@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-17
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury]
-source_count: 18
+source_count: 19
 ---
 
 # Risk-Off Market Rotation
@@ -32,6 +32,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — The close turns the relief rotation into a broader risk-on tape: S&P 500 +2.01%, Nasdaq +2.91%, Russell 2000 +3.84%, AMD +11.61%, RL +10.60%, Bitcoin +4.39%, and WTI -9.85%.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The morning board preserves the broad risk-on phase: major indexes and ETFs press 52-week highs, AMD/RL/TGT/AXP lead single-stock risk appetite, and WTI falls -11.13%.
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — The close confirms the risk-on phase: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, WTI -13.54%, and the 30-year Treasury down 10 bps.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Morning tables preserve the risk-on close: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, and WTI still down double digits at -11.48%.
 
 ## Related Concepts
 
@@ -76,3 +77,5 @@ The June 15 evening close is the clearest risk-on phase of the same regime. The 
 The June 16 morning dispatch confirms the tone shift rather than adding a new market regime. The same broad green board persists, but leadership still has shape: small caps, tech, cyclicals, international exposure, dividends, REITs, and selected chips are leading while crude oil remains the release valve.
 
 The June 16 evening close turns that confirmation into a stronger regime marker. Indexes, ETFs, small caps, tech, international equities, financials, and retail all rally while crude collapses another 13.54% and long rates ease. The market is risk-on in equities, but the energy move remains too large to treat as simple good news.
+
+The June 17 morning dispatch carries the same signal into the next cycle. The equity board remains broadly green and near highs, while WTI's double-digit drop persists. That makes the regime risk-on at the equity level but still mixed at the macro level: crude is not behaving like a quiet background variable.

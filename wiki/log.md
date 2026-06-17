@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-06-17] ingest | Newsletter 2026-06-17 — Morning Dispatch
+- Source: `pinky/raw/newsletters/2026-06-17-morning-dispatch.md`
+- Summary: Wednesday June 17 morning dispatch — the broad risk-on tape persists: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, ETFs near highs, and WTI -11.48% remains the major macro counter-signal. Top stories center on Trump-related primaries, U.S.-Iran peace-deal claims, habeas-corpus emergency-power reporting, court action on Idaho's transgender bathroom ban, and voting-access polarization. AI/tech adds local-model practicality, GrapheneOS Android 17 support, and Anthropic pausing token-based Claude Agent SDK billing. Wrestling coverage creates new CMLL/ROH/NXT promotion anchors.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-06-17.md` (new), `pinky/wiki/entities/donald-trump.md` (new), `pinky/wiki/entities/cmll.md` (new), `pinky/wiki/entities/roh.md` (new), `pinky/wiki/entities/wwe-nxt.md` (new), `pinky/wiki/entities/anthropic.md`, `pinky/wiki/entities/grapheneos.md`, `pinky/wiki/concepts/constitutional-emergency-powers.md` (new), `pinky/wiki/concepts/risk-off-market-rotation.md`, `pinky/wiki/concepts/ai-augmented-development.md`, `pinky/wiki/concepts/security-and-privacy-toolkit.md`, `pinky/wiki/concepts/market-inefficiency.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: equities remain risk-on but oil keeps the macro read mixed; AI tooling is now a local-inference/pricing/security problem; and habeas-corpus coverage introduces a constitutional-emergency-power watchlist.
+
 ## [2026-06-16] ingest | Evening Brief — Tuesday, June 16, 2026
 - Source: `pinky/raw/newsletters/2026-06-16-evening-dispatch.md`
 - Summary: Tuesday June 16 evening dispatch — broad risk-on close confirmed: S&P 500 +1.69%, Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, ETFs near highs, WTI -13.54%, and the 30-year Treasury down 10 bps. Tech/security coverage adds local-model viability, reported SpaceX-Cursor/Anysphere acquisition, GrapheneOS Android 17 support, and a critical GitHub Copilot vulnerability involving 2FA-code theft. Sports is scoreboard maintenance; wrestling is personnel/contract heavy with Tessa Blanchard, WWE visa issues, Jack Perry, Kris Statlander, WWE Raw Netflix views, and the continuing Tanahashi/Okada six-star benchmark.

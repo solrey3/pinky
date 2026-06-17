@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-15
-tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive]
-source_count: 13
+updated: 2026-06-17
+tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing]
+source_count: 14
 ---
 
 # Anthropic
@@ -16,6 +16,8 @@ AI safety company and frontier model lab, founded 2021 by Dario Amodei, Daniela 
 Anthropic's commercial trajectory through early 2026 tracked closely with Claude's market adoption — particularly among enterprise API customers and AI coding workflows where Claude's instruction-following and context handling were preferred by a segment of developers. By May 2026, Anthropic had overtaken OpenAI in paper valuation terms.
 
 ## 2026 Milestones
+
+- **June 17, 2026**: Anthropic paused token-based billing for the Claude Agent SDK, adding pricing and metering design to the model-governance story. Agentic developer tools now need sustainable billing mechanics as much as safety boundaries and capability releases.
 
 - **June 15, 2026**: The morning dispatch again frames the Fable/Mythos shutdown as following a Trump administration directive, extending the model-availability story into another daily cycle and keeping state-mediated access control in Anthropic's governance profile.
 
@@ -53,6 +55,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage keeps Fable/Mythos suspension in the AI desk, reinforcing government-directed availability as part of Anthropic's safety and platform-governance profile.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, extending the state-mediated availability story.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — The Fable/Mythos shutdown remains in the AI desk, reinforcing model availability as a state-pressure and platform-governance issue.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Token-based billing is paused for the Claude Agent SDK, making agent-tool pricing and metering part of Anthropic's developer-platform governance.
 
 ## Related
 

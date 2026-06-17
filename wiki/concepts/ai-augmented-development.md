@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-16"
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms]
-source_count: 12
+updated: "2026-06-17"
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing]
+source_count: 13
 ---
 
 # AI-Augmented Development
@@ -26,6 +26,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 highlights package-manager plumbing as part of the developer substrate that AI-assisted and terminal-centric workflows depend on.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Homebrew 6.0.0, an AI-agent spend-control failure, and macOS 27 breaking Asahi Linux show AI-assisted work depending on package managers, automation guardrails, and operating-system compatibility.
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Local models are framed as good enough for daily use, Cursor/Anysphere is reportedly acquired for $60B, and a Copilot vulnerability shows AI coding tools as both infrastructure and attack surface.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Local models remain a practical developer workflow story, while Anthropic pausing token-based Claude Agent SDK billing shows agent-tool economics are still unsettled.
 
 ## Related Concepts
 
@@ -55,3 +56,5 @@ The evening Homebrew release note is quieter but operationally important. AI-ass
 The June 12 morning source adds two more local-workflow constraints: agents need hard spend and action limits, and developers need stable operating-system boot chains. AI augmentation fails if a helper can rack up uncontrolled cloud bills or if a platform update breaks the Linux environment a workflow depends on.
 
 The June 16 evening dispatch treats AI development tools as strategic infrastructure. Local inference is good enough to matter, Cursor's reported mega-acquisition price implies coding environments are platform assets, and Copilot's 2FA-related flaw shows why AI coding assistants need the same scrutiny as browsers, terminals, package managers, and credential stores.
+
+The June 17 morning dispatch adds pricing and locality to the operational checklist. A useful AI development stack is not just a model choice; it needs predictable metering, local fallback where appropriate, safe credential boundaries, and a billing model that does not punish normal agentic workflows.

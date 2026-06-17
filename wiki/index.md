@@ -169,6 +169,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-06-15-evening](sources/newsletter-2026-06-15-evening.md) | Evening Brief — Monday, June 15, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, russell-2000, amd, nvidia, wti, iran, ai-security, ai-output-liability, stanley-cup, carolina-hurricanes, vgk, njpw, will-ospreay, wrestling] | 2026-06-15 |
 | [newsletter-2026-06-16](sources/newsletter-2026-06-16.md) | Newsletter 2026-06-16 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, risk-on, russell-2000, amd, nvidia, wti, iran, linkedin, iroh, google, ai-output-liability, wrestling, njpw, wwe-raw] | 2026-06-16 |
 | [newsletter-2026-06-16-evening](sources/newsletter-2026-06-16-evening.md) | Evening Brief — Tuesday, June 16, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, russell-2000, wti, treasury, spacex, cursor, github-copilot, grapheneos, local-ai, ai-security, privacy, wrestling] | 2026-06-16 |
+| [newsletter-2026-06-17](sources/newsletter-2026-06-17.md) | Newsletter 2026-06-17 — Morning Dispatch | newsletter | [newsletter, morning-dispatch, markets, risk-on, russell-2000, wti, iran, trump, habeas-corpus, local-ai, grapheneos, anthropic, claude-agent-sdk, wrestling] | 2026-06-17 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -306,7 +307,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Miro (Rusev)](entities/rusev.md) | person | person, wrestling, wwe, raw | 4 |
 | [Mercedes Moné](entities/mercedes-mone.md) | person | person, wrestling, aew, wwe | 1 |
 | [MJF](entities/mjf.md) | person | person, wrestling | 6 |
+| [CMLL](entities/cmll.md) | organization | wrestling, lucha-libre, mexico, promotion, cmll | 1 |
 | [NJPW](entities/njpw.md) | organization | wrestling, njpw, japan, strong-style, puroresu, meltzer, forbidden-door, dominion | 15 |
+| [ROH](entities/roh.md) | organization | wrestling, promotion, ring-of-honor, roh, aew | 1 |
 | [Owen Hart](entities/owen-hart.md) | person | person, wrestling | 1 |
 | [PAC](entities/pac.md) | person | person, wrestling | 1 |
 | [Penta](entities/penta.md) | person | person, wrestling, wwe, lucha-libre, intercontinental-title | 1 |
@@ -337,6 +340,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Ultimate Warrior](entities/ultimate-warrior.md) | person | person, wrestling | 1 |
 | [The Undertaker](entities/the-undertaker.md) | person | person, wrestling | 1 |
 | [Will Ospreay](entities/will-ospreay.md) | person | person, wrestling | 4 |
+| [WWE NXT](entities/wwe-nxt.md) | organization | wrestling, wwe, nxt, developmental, television | 1 |
 | [Zaria](entities/zaria.md) | person | person, wrestling, wwe, nxt, womens-wrestling, north-american-title | 1 |
 
 ### Musicians & Bands
@@ -521,6 +525,11 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Vannevar Bush](entities/vannevar-bush.md) | person | history, computing, knowledge-management | 1 |
 | [Virgil](entities/virgil.md) | person | poet, author, rome, epic, augustan, literature | 1 |
 
+### Political Figures & Government
+| Entity | Type | Tags | Sources |
+| --- | --- | --- | --- |
+| [Donald Trump](entities/donald-trump.md) | person | politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus | 1 |
+
 ### Sports Analytics
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
@@ -561,7 +570,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Sports Organizations, Clubs & Other
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo, fable, guardrails, government-directive | 13 |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, claude, anthropic, organization, ipo, fable, guardrails, government-directive, agent-sdk, pricing | 14 |
 | [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos | 5 |
 | [Asahi Linux](entities/asahi-linux.md) | product | linux, apple-silicon, macos, operating-systems, developer-tools | 1 |
 | [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london | 5 |
@@ -669,7 +678,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [fzf](entities/fzf.md) | product | cli, cli | 1 |
 | [Ghostty](entities/ghostty.md) | product | cli, cli | 1 |
 | [GitHub Copilot](entities/github-copilot.md) | product | ai, developer-tools, coding-assistant, github, microsoft, security | 1 |
-| [GrapheneOS](entities/grapheneos.md) | product | android, privacy, security, mobile-os, open-source | 1 |
+| [GrapheneOS](entities/grapheneos.md) | product | android, privacy, security, mobile-os, open-source | 2 |
 | [k9s](entities/k9s.md) | product | cli, cli | 1 |
 | [Kali Linux](entities/kali-linux.md) | platform | platform, platform | 1 |
 | [kubectl](entities/kubectl.md) | product | cli, cli | 1 |
@@ -700,7 +709,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Concept | Tags | Sources |
 | --- | --- | --- |
 | [Advantage Play](concepts/advantage-play.md) | [gambling, mathematics, poker, strategy, skill, risk] | 3 |
-| [AI-Augmented Development](concepts/ai-augmented-development.md) | [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms] | 12 |
+| [AI-Augmented Development](concepts/ai-augmented-development.md) | [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing] | 13 |
 | [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control] | 7 |
 | [AI Output Liability](concepts/ai-output-liability.md) | [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews] | 7 |
 | [Approximate RAPTOR](concepts/approximate-raptor.md) | [basketball, nba, analytics, history, statistics] | 1 |
@@ -712,6 +721,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Collective Intelligence](concepts/collective-intelligence.md) | [cognition, economics, decision-making, social-science, markets, aggregation] | 3 |
 | [Compounding knowledge](concepts/compounding-knowledge.md) | [knowledge-management, llm, epistemology] | 1 |
 | [Container Orchestration](concepts/container-orchestration.md) | [containers, kubernetes, docker, devops, infrastructure] | 4 |
+| [Constitutional Emergency Powers](concepts/constitutional-emergency-powers.md) | [politics, law, constitution, emergency-powers, habeas-corpus, due-process, executive-power] | 1 |
 | [DevOps & Observability](concepts/devops-and-observability.md) | [devops, monitoring, observability, git, ci-cd, automation] | 4 |
 | [Digital Gardens](concepts/digital-gardens.md) | [knowledge-management, web, publishing, metaphor] | 1 |
 | [DRAYMOND](concepts/draymond-defense.md) | [basketball, nba, analytics, defense, statistics] | 1 |
@@ -719,7 +729,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Game Theory Optimal (GTO)](concepts/game-theory-optimal.md) | [game-theory, poker, mathematics, equilibrium, strategy, decision-making] | 2 |
 | [Idealism vs Realism](concepts/idealism-vs-realism.md) | [literature, philosophy, epistemology, psychology] | 1 |
 | [LLM Wiki pattern](concepts/llm-wiki-pattern.md) | [llm, architecture, knowledge-management, karpathy] | 1 |
-| [Market Inefficiency](concepts/market-inefficiency.md) | [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance] | 21 |
+| [Market Inefficiency](concepts/market-inefficiency.md) | [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance] | 22 |
 | [Metafiction](concepts/metafiction.md) | [literature, narrative, postmodernism, self-reference] | 1 |
 | [PARA](concepts/para.md) | [organization, knowledge-management, actionability, productivity] | 1 |
 | [Player Tracking Data](concepts/player-tracking-data.md) | [basketball, nba, analytics, data, technology] | 1 |
@@ -730,9 +740,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [RAPTOR](concepts/raptor.md) | [basketball, nba, analytics, statistics, plus-minus] | 1 |
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury] | 18 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury] | 19 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
-| [Security & Privacy Toolkit](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants] | 23 |
+| [Security & Privacy Toolkit](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai] | 24 |
 | [Statistical Privacy](concepts/statistical-privacy.md) | [statistics, privacy, public-data, census, disclosure-avoidance, governance] | 2 |
 | [Self-Reliance](concepts/self-reliance.md) | [individualism, philosophy, transcendentalism, nonconformity, america, identity] | 2 |
 | [Social Invisibility](concepts/social-invisibility.md) | [identity, race, society, perception, power, literature] | 2 |
@@ -940,7 +950,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ---
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-17*
 
 
 ## Sources & Knowledge Bases
@@ -987,10 +997,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [cmatrix Cheatsheet](sources/cmatrix.md) | Cheatsheet | [cmatrix](../raw/cheatsheets/cmatrix.md) |
 | [gawk Cheatsheet](sources/gawk.md) | Cheatsheet | [gawk](../raw/cheatsheets/gawk.md) |
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-17*
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-17*
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-17*
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-17*
