@@ -4,9 +4,9 @@ title: Microsoft
 type: entity
 entity_type: organization
 created: 2026-06-02
-updated: 2026-06-09
-tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, atom-computing, supply-chain-security]
-source_count: 6
+updated: 2026-06-16
+tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, atom-computing, supply-chain-security, github-copilot]
+source_count: 7
 ---
 
 # Microsoft
@@ -33,6 +33,8 @@ The irony of announcing major developer tooling at Build while a 1-click credent
 
 **Supply-chain credential-stealer incident (June 8–9):** StepSecurity/Ars/TechCrunch coverage reported another Microsoft-linked package/repository compromise involving credential stealers, with Azure Functions action and dozens of repositories disabled after a supply-chain attack targeting AI coding agents and AI developer passwords. This extends the earlier VSCode token-stealing concern from a single developer-product exploit into the broader package/action trust layer.
 
+**GitHub Copilot vulnerability (June 16):** Ars coverage in the evening dispatch reports a critical Copilot flaw that allowed attackers to steal 2FA codes. That keeps Microsoft's developer-tooling risk in the identity/security lane: coding assistants, editors, browsers, and authentication flows are one connected attack surface.
+
 ## Context
 
 Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake in OpenAI (whose models power GitHub Copilot, Azure OpenAI Service, and Bing), while simultaneously building its own MAI model family. This dual-track approach mirrors what Google has done (Gemini + Vertex AI) and what Meta has done (Llama open weights + internal inference). The big-tech proprietary model wave — Microsoft, Google, Meta, Apple — is structurally different from the pure-AI-company models (OpenAI, Anthropic) in one way: distribution is already built in. Azure, Windows, Office, GitHub — Microsoft's model deployment surface is enormous before the first customer API call.
@@ -45,6 +47,7 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Microsoft open-sources pg_durable** — in-database durable execution for Postgres (HN 245 pts). Drop persistent, transactional workflow orchestration directly into a Postgres instance without sidecars. A new pattern for teams already on Postgres: durable execution without a separate service like Temporal or Conductor.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories were reportedly laced with credential stealers, with Azure Functions action and 72 other repositories disabled after a supply-chain attack targeting AI coding agents.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — TechCrunch/HN item framed the same compromise as Microsoft open-source tools hacked to steal passwords from AI developers, keeping supply-chain trust at the top of the AI desk.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — A critical GitHub Copilot vulnerability reportedly allowed 2FA-code theft, adding authentication-adjacent AI coding assistants to Microsoft's security surface.
 
 ## Related
 

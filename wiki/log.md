@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-06-16] ingest | Evening Brief — Tuesday, June 16, 2026
+- Source: `pinky/raw/newsletters/2026-06-16-evening-dispatch.md`
+- Summary: Tuesday June 16 evening dispatch — broad risk-on close confirmed: S&P 500 +1.69%, Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, ETFs near highs, WTI -13.54%, and the 30-year Treasury down 10 bps. Tech/security coverage adds local-model viability, reported SpaceX-Cursor/Anysphere acquisition, GrapheneOS Android 17 support, and a critical GitHub Copilot vulnerability involving 2FA-code theft. Sports is scoreboard maintenance; wrestling is personnel/contract heavy with Tessa Blanchard, WWE visa issues, Jack Perry, Kris Statlander, WWE Raw Netflix views, and the continuing Tanahashi/Okada six-star benchmark.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-06-16-evening.md` (new), `pinky/wiki/entities/spacex.md` (new), `pinky/wiki/entities/cursor.md` (new), `pinky/wiki/entities/grapheneos.md` (new), `pinky/wiki/entities/github-copilot.md` (new), `pinky/wiki/entities/microsoft.md`, `pinky/wiki/concepts/risk-off-market-rotation.md`, `pinky/wiki/concepts/ai-augmented-development.md`, `pinky/wiki/concepts/security-and-privacy-toolkit.md`, `pinky/wiki/concepts/market-inefficiency.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: equities are broadly risk-on, but oil's collapse remains the macro caveat; AI developer tools now belong in the same infrastructure/security frame as terminals, browsers, credentials, and mobile identity devices.
+
 ## [2026-06-16] ingest | Newsletter 2026-06-16 — Morning Dispatch
 - Source: `pinky/raw/newsletters/2026-06-16-morning-dispatch.md`
 - Summary: Tuesday June 16 morning dispatch — Monday's broad risk-on tape carries forward: S&P 500 +2.01%, Nasdaq +2.91%, Russell 2000 +3.84%, AMD +11.61%, RL +10.60%, TGT +7.42%, AXP +7.39%, and WTI -11.13%. Top stories remain Iran/Hormuz- and policy-sensitive, while tech/security coverage keeps Nvidia's $25B+ bond plan, a LinkedIn job-offer backdoor, Iroh 1.0, Apple architecture history, and Google AI Overview liability in view. Sports shifts from championship closeout to scoreboard maintenance; wrestling centers on WWE Raw King/Queen of the Ring movement, Seth Rollins vs. Bron Breakker, and NJPW Josh Barnett/Blue Justice notes.

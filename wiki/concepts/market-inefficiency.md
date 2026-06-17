@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-16"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance]
-source_count: 20
+source_count: 21
 ---
 
 # Market Inefficiency
@@ -34,6 +34,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Polymarket lists Iran peace-deal probabilities, including oil-sanction relief, uranium enrichment, Strait transit fees, and asset-unfreezing, but Kalshi extraction fails and the feed still lacks enough context for forecast use.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Polymarket returns partial World Cup percentages for Saudi Arabia-Uruguay and Iran-New Zealand while Kalshi is unavailable; sports odds are present, but provenance remains thin.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — Kalshi is unavailable and Polymarket returns only chatter/headlines, so the prediction-market field remains a provenance warning rather than usable forecast evidence.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Polymarket fetches odds for Argentina-Algeria, Iraq-Norway, and Royals-Nationals without mover deltas, while Kalshi remains unavailable; the field is still a data-quality note, not a forecast input.
 
 ## Related Concepts
 
@@ -78,3 +79,5 @@ The June 15 morning dispatch repeats that limitation. The Iran probabilities are
 The June 15 evening dispatch shows the same failure mode in sports markets. A pair of team percentages can orient attention, but without market IDs, prior prices, liquidity, and timestamps, the numbers are watchlist context rather than reliable probabilistic evidence.
 
 The June 16 morning dispatch downgrades the prediction-market section even further: no Kalshi data and no usable Polymarket mover data. The correct interpretation is collection failure, not market calm.
+
+The June 16 evening dispatch continues the same failure mode with sports odds. Team names and fetched probabilities are not enough to infer movement or conviction without deltas, liquidity, market IDs, collection time, and resolution language.

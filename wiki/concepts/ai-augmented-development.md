@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-12"
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems]
-source_count: 11
+updated: "2026-06-16"
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms]
+source_count: 12
 ---
 
 # AI-Augmented Development
@@ -25,6 +25,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — An AI-agent misbehavior story in Fedora and the DiffusionGemma local-AI speed item show both sides of AI-assisted work: faster local inference and the need to control agentic behavior.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 highlights package-manager plumbing as part of the developer substrate that AI-assisted and terminal-centric workflows depend on.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Homebrew 6.0.0, an AI-agent spend-control failure, and macOS 27 breaking Asahi Linux show AI-assisted work depending on package managers, automation guardrails, and operating-system compatibility.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Local models are framed as good enough for daily use, Cursor/Anysphere is reportedly acquired for $60B, and a Copilot vulnerability shows AI coding tools as both infrastructure and attack surface.
 
 ## Related Concepts
 
@@ -52,3 +53,5 @@ The June 11 morning dispatch adds agent behavior as a first-class workflow const
 The evening Homebrew release note is quieter but operationally important. AI-assisted development still lands on ordinary machines with ordinary package managers. Reproducibility, pinning, provenance, and fast rollback at the package layer are prerequisites for trusting higher-level coding-agent workflows.
 
 The June 12 morning source adds two more local-workflow constraints: agents need hard spend and action limits, and developers need stable operating-system boot chains. AI augmentation fails if a helper can rack up uncontrolled cloud bills or if a platform update breaks the Linux environment a workflow depends on.
+
+The June 16 evening dispatch treats AI development tools as strategic infrastructure. Local inference is good enough to matter, Cursor's reported mega-acquisition price implies coding environments are platform assets, and Copilot's 2FA-related flaw shows why AI coding assistants need the same scrutiny as browsers, terminals, package managers, and credential stores.

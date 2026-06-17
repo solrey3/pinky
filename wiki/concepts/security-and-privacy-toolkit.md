@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-16"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering]
-source_count: 22
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants]
+source_count: 23
 ---
 
 # Security & Privacy Toolkit
@@ -36,6 +36,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — PeopleSoft zero-day coverage, curl's July vulnerability-report pause, Arch AUR malware, and Anthropic model-access suspension show the perimeter spanning enterprise patching, disclosure windows, package provenance, and AI availability governance.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — A LinkedIn job-offer backdoor shows recruiting and professional-network trust as malware delivery channels, while Google AI Overview liability keeps generated-output provenance in the security frame.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The LinkedIn backdoor story persists into the morning feed, reinforcing recruiting workflows as identity/social-engineering attack surface.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — A critical Copilot vulnerability involving 2FA-code theft and GrapheneOS's Android 17 port put coding assistants and mobile operating systems inside the practical security perimeter.
 
 ## Related Concepts
 
@@ -79,3 +80,5 @@ The June 15 morning dispatch adds maintainer-capacity and intake-process risk th
 The June 15 evening dispatch adds social context as attack surface. A job offer is not just a message; it is a trust-bearing workflow with attachments, links, identity claims, urgency, and career incentives. Recruiting security therefore belongs beside package provenance and vulnerability disclosure as a practical operational control.
 
 The June 16 morning dispatch confirms that this is not just a one-off story but a recurring control point. Professional-network messages should be handled like any other inbound executable or credential-bearing workflow: verify identity out of band, sandbox attachments, distrust urgent install steps, and keep job-search devices/accounts segmented where possible.
+
+The June 16 evening dispatch adds two controls to the same map. First, AI coding assistants need authentication-boundary review because browser/editor integrations can expose 2FA and session flows. Second, hardened mobile OSes such as GrapheneOS matter because phones are identity devices: SMS, authenticator apps, passkeys, email, and push approvals all live there.
