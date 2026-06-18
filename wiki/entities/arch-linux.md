@@ -4,9 +4,9 @@ title: Arch Linux
 type: entity
 entity_type: product
 created: 2026-06-14
-updated: 2026-06-15
-tags: [linux, operating-systems, arch-linux, aur, package-manager, supply-chain-security]
-source_count: 2
+updated: 2026-06-17
+tags: [linux, operating-systems, arch-linux, aur, package-manager, supply-chain-security, malware]
+source_count: 3
 ---
 
 # Arch Linux
@@ -17,6 +17,7 @@ Rolling-release Linux distribution known for minimalism, user control, and the A
 
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — The personal Linux feed flags another, more sophisticated AUR malware wave, making Arch/AUR package provenance part of the active security watchlist.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — The r/linux feed repeats the more sophisticated AUR malware wave, keeping Arch package provenance in the daily security watchlist.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — r/linux flags AUR registrations being blocked amid an ongoing malware mess, showing community-package defenses shifting from detection toward account/intake controls.
 
 ## Related
 

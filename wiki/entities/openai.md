@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-06-11
-tags: [ai, llm, organization, openai, influence-operations, data-centers]
-source_count: 1
+updated: 2026-06-17
+tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models]
+source_count: 2
 ---
 
 # OpenAI
@@ -20,10 +20,12 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 ## Sources
 
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI attributes an anti-data-center campaign in the U.S. to likely Chinese influence operators, tying AI infrastructure to information warfare and local political conflict.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Leaked financial documents are reported as showing OpenAI losing billions annually, foregrounding the cost structure of closed frontier-model operations.
 
 ## Related
 
 - [[Anthropic]] — frontier-model competitor and AI-safety peer
 - [[Google]] — competing big-tech AI platform and infrastructure operator
+- [[Open-Weights AI]] — open-model competition is the contrast case to closed frontier-model economics
 - [[Security & Privacy Toolkit]] — influence operations and infrastructure trust belong inside the operational security perimeter
 - [[AI-Augmented Development]] — AI tooling depends on physical and platform infrastructure

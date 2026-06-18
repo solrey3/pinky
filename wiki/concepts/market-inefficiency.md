@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-17"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance]
-source_count: 22
+source_count: 23
 ---
 
 # Market Inefficiency
@@ -36,6 +36,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — Kalshi is unavailable and Polymarket returns only chatter/headlines, so the prediction-market field remains a provenance warning rather than usable forecast evidence.
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Polymarket fetches odds for Argentina-Algeria, Iraq-Norway, and Royals-Nationals without mover deltas, while Kalshi remains unavailable; the field is still a data-quality note, not a forecast input.
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Polymarket returns Portugal/World Cup chatter without clean mover odds, while Kalshi remains unavailable; the prediction-market section remains provenance context rather than forecast evidence.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Polymarket returns World Cup matchup percentages without enough IDs, deltas, liquidity, timestamps, or resolution text, while Kalshi remains unavailable.
 
 ## Related Concepts
 
@@ -84,3 +85,5 @@ The June 16 morning dispatch downgrades the prediction-market section even furth
 The June 16 evening dispatch continues the same failure mode with sports odds. Team names and fetched probabilities are not enough to infer movement or conviction without deltas, liquidity, market IDs, collection time, and resolution language.
 
 The June 17 morning dispatch preserves the collection warning. “Chatter around Portugal/World Cup” may identify a watchlist topic, but without clean odds, prior prices, liquidity, market IDs, timestamps, and resolution text, it should not be treated as a forecast signal.
+
+The June 17 evening dispatch is slightly more numeric but not materially cleaner. Team percentages are better than chatter, yet still weak without question IDs, prior prices, liquidity, collection timestamps, and resolution language. The prediction-market field remains a watchlist aid, not a forecast basis.

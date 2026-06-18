@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-17"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai]
-source_count: 24
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur]
+source_count: 25
 ---
 
 # Security & Privacy Toolkit
@@ -38,6 +38,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The LinkedIn backdoor story persists into the morning feed, reinforcing recruiting workflows as identity/social-engineering attack surface.
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — A critical Copilot vulnerability involving 2FA-code theft and GrapheneOS's Android 17 port put coding assistants and mobile operating systems inside the practical security perimeter.
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — GrapheneOS Android 17 support persists, while local-model practicality and agent-SDK billing keep AI tooling inside operational trust boundaries.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Secure Boot key-update deadlines and Arch AUR registration blocks amid malware show security as routine trust-chain maintenance, not only emergency patching.
 
 ## Related Concepts
 
@@ -85,3 +86,5 @@ The June 16 morning dispatch confirms that this is not just a one-off story but 
 The June 16 evening dispatch adds two controls to the same map. First, AI coding assistants need authentication-boundary review because browser/editor integrations can expose 2FA and session flows. Second, hardened mobile OSes such as GrapheneOS matter because phones are identity devices: SMS, authenticator apps, passkeys, email, and push approvals all live there.
 
 The June 17 morning dispatch keeps that perimeter intact. If local models are now good enough for daily work, they become part of the security architecture: local inference can reduce data exposure, but it also shifts responsibility for model files, prompts, outputs, and tool permissions back onto the operator. GrapheneOS remains the mobile identity hardening piece.
+
+The June 17 evening dispatch adds the maintenance layer. Secure Boot keys are not glamorous, but stale trust anchors can become platform risk. The Arch AUR registration block shows the same principle at the community-package layer: when malware pressure rises, intake controls, signer/account trust, and package provenance become part of ordinary system hygiene.
