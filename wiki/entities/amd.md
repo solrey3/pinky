@@ -1,0 +1,25 @@
+---
+id: 0f1b81a7-5f01-46f5-9a30-10b0fada9277
+title: AMD
+type: entity
+entity_type: organization
+created: 2026-06-18
+updated: 2026-06-18
+tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen]
+source_count: 1
+---
+
+# AMD
+
+Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerators, and platform chipsets. In the newsletter graph, AMD appears both as an AI-chip market proxy and as a hardware-trust/security actor when platform capabilities change.
+
+## Sources
+
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — AMD is the major single-stock mover at **+13.28%**, while a Tom's Hardware/HN item reports that memory encryption disappeared from consumer Ryzen CPUs after newer AGESA firmware, turning AMD from a market ticker into a hardware-security provenance issue.
+
+## Related
+
+- [[Nvidia]]
+- [[Microsoft]]
+- [[Security & Privacy Toolkit]]
+- [[Risk-Off Market Rotation]]

@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-17
-tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury]
-source_count: 20
+updated: 2026-06-18
+tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
+source_count: 21
 ---
 
 # Risk-Off Market Rotation
@@ -34,6 +34,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — The close confirms the risk-on phase: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, WTI -13.54%, and the 30-year Treasury down 10 bps.
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Morning tables preserve the risk-on close: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, and WTI still down double digits at -11.48%.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The evening close strengthens the risk-on phase: S&P 500 +2.11%, Dow +3.15%, Nasdaq +3.39%, Russell 2000 +2.91%, AMD +13.28%, and WTI -11.63%.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Morning tables carry forward the broad risk-on tape: S&P 500 +2.11%, Dow +3.15%, Nasdaq +3.39%, Russell 2000 +2.91%, semiconductors and financials strong, and WTI still sharply lower at -8.46%.
 
 ## Related Concepts
 
@@ -82,3 +83,5 @@ The June 16 evening close turns that confirmation into a stronger regime marker.
 The June 17 morning dispatch carries the same signal into the next cycle. The equity board remains broadly green and near highs, while WTI's double-digit drop persists. That makes the regime risk-on at the equity level but still mixed at the macro level: crude is not behaving like a quiet background variable.
 
 The June 17 evening close is the strongest risk-on confirmation yet, but it preserves the same caveat. Indexes, chips, financials, retail, and international exposure rally broadly; crude remains the air pocket. The concept should now be read as an internal-leadership and cross-asset-dissonance tracker rather than a simple bearish/risk-off label.
+
+The June 18 morning dispatch confirms continuity rather than reversal. The equity leadership remains broad and enthusiastic, but the WTI decline is still large enough to require interpretation. Cheaper crude can help inflation, gasoline, and margins, yet it can also reflect geopolitics, demand repricing, or position stress. Keep the two signals separate: equities are risk-on; energy is still dissonant.

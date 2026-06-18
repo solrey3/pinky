@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-17
-tags: [wrestling, lucha-libre, mexico, promotion, cmll]
-source_count: 1
+updated: 2026-06-18
+tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico]
+source_count: 2
 ---
 
 # CMLL
@@ -16,6 +16,7 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 ## Sources
 
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Overnight CMLL Martes de Arena México results were included in the squared-circle digest.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — CMLL announces the 2026 Men's Grand Prix for August 7 at Arena México, keeping the promotion in the summer lucha-libre calendar.
 
 ## Related
 

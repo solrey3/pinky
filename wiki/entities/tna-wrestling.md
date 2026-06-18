@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-17
+updated: 2026-06-18
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction]
-source_count: 1
+source_count: 2
 ---
 
 # TNA Wrestling
@@ -16,6 +16,7 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 ## Sources
 
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — TNA announces a workforce reduction; reporting confirms departures involving Tommy Dreamer and Tessa Blanchard, with Sami Callihan also confirming his exit.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — The workforce-reduction story persists into the morning feed, confirming that TNA's promotion-level instability remains the durable wrestling business item.
 
 ## Related
 

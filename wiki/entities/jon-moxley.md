@@ -4,9 +4,9 @@ title: Jon Moxley
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-02
-tags: [person, wrestling]
-source_count: 2
+updated: 2026-06-18
+tags: [person, wrestling, aew, continental-championship, forbidden-door]
+source_count: 3
 ---
 
 # Jon Moxley
@@ -36,6 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/jon-moxley.md)
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Tony Khan: *"Jon Moxley has been doing a great job backstage and has been at everything."* Khan's public praise signals Moxley is functioning as a locker-room leader and institutional anchor for AEW, not just a title-holder.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Bandido is announced as Moxley's challenger for the AEW Continental Championship at AEW x NJPW Forbidden Door.
 
 ## Related
 

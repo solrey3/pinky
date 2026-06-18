@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-17"
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics]
-source_count: 14
+updated: "2026-06-18"
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics]
+source_count: 15
 ---
 
 # AI-Augmented Development
@@ -28,6 +28,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Local models are framed as good enough for daily use, Cursor/Anysphere is reportedly acquired for $60B, and a Copilot vulnerability shows AI coding tools as both infrastructure and attack surface.
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Local models remain a practical developer workflow story, while Anthropic pausing token-based Claude Agent SDK billing shows agent-tool economics are still unsettled.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — GLM-5.2 leading an open-weights benchmark and OpenAI's reported annual losses put model availability and model economics into the same operational AI stack.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Nvidia's robot-instruction research applies AI coding-agent techniques to physical tasks, while Lore and Midjourney Medical keep developer tooling and specialized AI products in the same workflow-adjacent feed.
 
 ## Related Concepts
 
@@ -61,3 +62,5 @@ The June 16 evening dispatch treats AI development tools as strategic infrastruc
 The June 17 morning dispatch adds pricing and locality to the operational checklist. A useful AI development stack is not just a model choice; it needs predictable metering, local fallback where appropriate, safe credential boundaries, and a billing model that does not punish normal agentic workflows.
 
 The June 17 evening dispatch adds the open-vs-closed economics layer. Open-weights models such as GLM-5.2 improve the local and self-hosted side of the stack, while OpenAI's reported losses show why frontier closed-model APIs may face pricing, capital, and margin pressure. Developer AI strategy should track both capability and business-model durability.
+
+The June 18 morning dispatch extends the coding-agent frame into robotics. If a model can translate procedural code/task knowledge into robot actions like GPU installation or cable management, AI-augmented development starts to overlap with embodied operations. The same controls still apply — scoped permissions, test environments, rollback plans, and human review — but the failure modes now include physical damage, safety, and hardware handling.

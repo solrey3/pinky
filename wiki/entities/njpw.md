@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-16
+updated: 2026-06-18
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion]
-source_count: 15
+source_count: 16
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -35,6 +35,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-15 (Morning)**: The next dispatch keeps Yota Tsuji's Dominion title win in the lead wrestling slot and preserves Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star benchmark on the 2026 ratings table.
 - **2026-06-15 (Evening)**: NJPW announces G1 Climax 36 play-in matches, moving the New Japan feed from Dominion fallout into summer tournament qualification.
 - **2026-06-16 (Morning)**: Josh Barnett returns to NJPW as part of Yuji Nagata's Blue Justice XVIII, while the ratings table again keeps Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as the six-star 2026 benchmark.
+- **2026-06-18 (Morning)**: AEW x NJPW Forbidden Door build continues through Bandido challenging Jon Moxley for the AEW Continental Championship, and the Meltzer table again keeps Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star NJPW benchmark.
 
 ## Sources
 
@@ -53,6 +54,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Dominion 6.14 remains the lead NJPW item, with Yota Tsuji regaining the IWGP Heavyweight title and the Tanahashi vs. Okada Wrestle Kingdom 20 rating still anchoring the 2026 table.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — NJPW reveals G1 Climax 36 play-in matches, shifting coverage toward summer tournament qualification.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — Josh Barnett returns for Blue Justice XVIII, and the 2026 ratings table keeps Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star NJPW benchmark.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Forbidden Door build appears through Bandido vs. Jon Moxley for the AEW Continental Championship, while Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star NJPW ratings-table anchor.
 
 ## Related
 
