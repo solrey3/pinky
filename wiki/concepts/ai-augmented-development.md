@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-18"
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics]
-source_count: 16
+updated: "2026-06-19"
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance]
+source_count: 17
 ---
 
 # AI-Augmented Development
@@ -30,6 +30,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — GLM-5.2 leading an open-weights benchmark and OpenAI's reported annual losses put model availability and model economics into the same operational AI stack.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Nvidia's robot-instruction research applies AI coding-agent techniques to physical tasks, while Lore and Midjourney Medical keep developer tooling and specialized AI products in the same workflow-adjacent feed.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Noam Shazeer joining OpenAI is a talent-market signal, while Trojanized GitHub repositories show that AI-assisted workflows still depend on ordinary repository hygiene and developer-platform trust.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — MIT building a custom operating system for chip study and the recurring Trojanized-GitHub story reinforce that AI-assisted development still rests on low-level systems literacy and source-provenance discipline.
 
 ## Related Concepts
 
@@ -67,3 +68,5 @@ The June 17 evening dispatch adds the open-vs-closed economics layer. Open-weigh
 The June 18 morning dispatch extends the coding-agent frame into robotics. If a model can translate procedural code/task knowledge into robot actions like GPU installation or cable management, AI-augmented development starts to overlap with embodied operations. The same controls still apply — scoped permissions, test environments, rollback plans, and human review — but the failure modes now include physical damage, safety, and hardware handling.
 
 The June 18 evening source adds two quieter but important dependencies: frontier labs compete for scarce model-building talent, and developers still pull code from public repositories. AI-assisted development should therefore track both human capital at model providers and mundane repository provenance at the point where agents or humans clone, install, and execute code.
+
+The June 19 morning source sharpens the foundation layer. MIT's operating-system-for-chip-study item is a reminder that better agents do not erase the need to understand kernels, hardware behavior, and runtime assumptions. Repository malware supplies the parallel control: agents can speed up cloning and execution, so provenance checks need to happen before automation multiplies the blast radius.

@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-06-17
-tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets]
-source_count: 1
+updated: 2026-06-19
+tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
+source_count: 2
 ---
 
 # Monetary Policy Forward Guidance
@@ -15,6 +15,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 ## Sources
 
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The Federal Reserve is reported to be moving away from forward guidance under Kevin Warsh, shifting market interpretation toward data dependence and away from forecast anchoring.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — The rate snapshot and July 50+ bps hike prediction-market snippet provide expectations context, but they are not forward guidance; this distinction keeps policy communication separate from market-implied odds.
 
 ## Related Concepts
 
@@ -25,3 +26,5 @@ A central-bank communication strategy that attempts to shape expectations by sig
 ## Notes
 
 This concept matters because central-bank communication is itself market infrastructure. A move away from forward guidance does not merely change press-conference style; it changes how traders price uncertainty, how analysts read rate paths, and how much weight markets put on each new inflation, labor, or growth print.
+
+The June 19 dispatch is useful mainly as a boundary marker. A target range, EFFR print, and prediction-market probability describe the current rate environment and market expectations; they do not replace Fed communication. Keep actual Fed guidance, analyst inference, and prediction-market odds as separate evidence types.

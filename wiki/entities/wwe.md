@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-18
-tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring]
-source_count: 2
+updated: 2026-06-19
+tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title]
+source_count: 3
 ---
 
 # WWE
@@ -17,10 +17,13 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — George Barrios explains his decision to return to WWE's board amid allegations against Vince McMahon, keeping WWE's governance story in the wrestling feed.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — WWE appears through a King of the Ring semifinal set for the June 19 SmackDown, shifting this cycle from boardroom governance back to television tournament booking.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — SmackDown's June 19 lineup advertises a world-title match, keeping WWE's feed presence on television-card promotion rather than corporate governance.
 
 ## Related
 
 - [[AEW]]
 - [[TNA Wrestling]]
+- [[AAA]]
+- [[ROH]]
 - [[WWE NXT]]
 - [[NJPW]]

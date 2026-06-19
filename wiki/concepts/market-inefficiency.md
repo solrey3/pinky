@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-18"
+updated: "2026-06-19"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 25
+source_count: 26
 ---
 
 # Market Inefficiency
@@ -39,6 +39,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Polymarket returns World Cup matchup percentages without enough IDs, deltas, liquidity, timestamps, or resolution text, while Kalshi remains unavailable.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Polymarket surfaces World Cup chatter and a July Fed-decision snippet, but Kalshi remains unavailable and the section still lacks market IDs, deltas, liquidity, timestamps, and resolution language.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Polymarket surfaces Mexico/Korea Republic, July Fed-decision, and Iranian-demand topics without verified mover percentages, while Kalshi remains unavailable.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Polymarket provides U.S. Open winner and July Fed 50+ bps hike snippets, while Kalshi is unavailable; isolated odds remain watchlist context rather than forecast-grade evidence.
 
 ## Related Concepts
 
@@ -93,3 +94,5 @@ The June 17 evening dispatch is slightly more numeric but not materially cleaner
 The June 18 morning dispatch repeats the same discipline. A Fed-decision line showing “50+ bps increase <1%” may be directionally plausible, but without market identity, timestamp, liquidity, and previous price it should stay in the provenance bucket. The useful signal remains the pipeline limitation, not the isolated probability.
 
 The June 18 evening dispatch makes the provenance problem explicit by saying verified mover percentages were not available. Treat those topics as a watchlist — World Cup, Fed decision, Iranian demands — not as probabilistic evidence until the feed includes clean market IDs, prices, previous prices, liquidity, timestamps, and resolution terms.
+
+The June 19 morning dispatch does not fix the pipeline. A U.S. Open winner probability and a Fed-hike snippet may orient attention, but without IDs, liquidity, previous prices, timestamps, and resolution language they should stay in the provenance bucket.

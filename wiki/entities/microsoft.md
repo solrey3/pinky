@@ -4,9 +4,9 @@ title: Microsoft
 type: entity
 entity_type: organization
 created: 2026-06-02
-updated: 2026-06-18
-tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot]
-source_count: 9
+updated: 2026-06-19
+tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
+source_count: 10
 ---
 
 # Microsoft
@@ -35,6 +35,8 @@ The irony of announcing major developer tooling at Build while a 1-click credent
 
 **GitHub Copilot vulnerability (June 16):** Ars coverage in the evening dispatch reports a critical Copilot flaw that allowed attackers to steal 2FA codes. That keeps Microsoft's developer-tooling risk in the identity/security lane: coding assistants, editors, browsers, and authentication flows are one connected attack surface.
 
+**Crypto-clipper/backdoor reporting (June 19):** Microsoft security reporting describes a lightweight backdoor that steals cryptocurrency and uses Tor plus worm-like propagation for persistence/control. This keeps Microsoft's security relevance split between developer-platform defense and broader endpoint/wallet malware telemetry.
+
 ## Context
 
 Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake in OpenAI (whose models power GitHub Copilot, Azure OpenAI Service, and Bing), while simultaneously building its own MAI model family. This dual-track approach mirrors what Google has done (Gemini + Vertex AI) and what Meta has done (Llama open weights + internal inference). The big-tech proprietary model wave — Microsoft, Google, Meta, Apple — is structurally different from the pure-AI-company models (OpenAI, Anthropic) in one way: distribution is already built in. Azure, Windows, Office, GitHub — Microsoft's model deployment surface is enormous before the first customer API call.
@@ -50,6 +52,7 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories were reportedly laced with credential stealers, with Azure Functions action and 72 other repositories disabled after a supply-chain attack targeting AI coding agents.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — TechCrunch/HN item framed the same compromise as Microsoft open-source tools hacked to steal passwords from AI developers, keeping supply-chain trust at the top of the AI desk.
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — A critical GitHub Copilot vulnerability reportedly allowed 2FA-code theft, adding authentication-adjacent AI coding assistants to Microsoft's security surface.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Microsoft reports a lightweight crypto-clipper/backdoor that uses Tor and worm-like propagation, extending the Microsoft security thread from developer identity into wallet/clipboard malware and endpoint persistence.
 
 ## Related
 

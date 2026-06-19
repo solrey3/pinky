@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-18
-tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico]
-source_count: 3
+updated: 2026-06-19
+tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion]
+source_count: 4
 ---
 
 # CMLL
@@ -18,9 +18,11 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Overnight CMLL Martes de Arena México results were included in the squared-circle digest.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — CMLL announces the 2026 Men's Grand Prix for August 7 at Arena México, keeping the promotion in the summer lucha-libre calendar.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — CMLL/NJPW Fantastica Mania appears among MyAEW additions, connecting CMLL to the AEW/NJPW distribution and crossover ecosystem.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — ROH x CMLL x Stardom Global Wars discussion keeps CMLL in the cross-promotional wrestling ecosystem alongside U.S. and Japanese partners.
 
 ## Related
 
 - [[WWE NXT]]
 - [[ROH]]
+- [[AAA]]
 - [[NJPW]]

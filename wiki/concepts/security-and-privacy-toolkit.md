@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-18"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware]
-source_count: 27
+updated: "2026-06-19"
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery]
+source_count: 28
 ---
 
 # Security & Privacy Toolkit
@@ -41,6 +41,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Secure Boot key-update deadlines and Arch AUR registration blocks amid malware show security as routine trust-chain maintenance, not only emergency patching.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Reported removal of memory encryption from consumer AMD Ryzen CPUs after AGESA firmware changes shows hardware feature drift as a security and privacy trust-boundary issue.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Trojanized GitHub repositories, Android app-verification controls, and a Beats Studio Buds eavesdropping CVE show the perimeter spanning repository discovery, mobile app identity, and consumer-device firmware.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Trojanized GitHub repository discovery persists, while Microsoft's crypto-clipper/backdoor report adds clipboard/wallet theft, Tor persistence, and worm-like propagation to the practical defense perimeter.
 
 ## Related Concepts
 
@@ -94,3 +95,5 @@ The June 17 evening dispatch adds the maintenance layer. Secure Boot keys are no
 The June 18 AMD item adds hardware capability drift to that same maintenance model. Security features such as memory encryption should not be assumed from product family names or old spec sheets; firmware, AGESA versions, SKU segmentation, and vendor communication can change the actual protection surface. Practical defense needs verification commands, changelog monitoring, and procurement notes that distinguish advertised platform capability from enabled capability.
 
 The June 18 evening source widens the same lesson across the user/developer stack. GitHub repository discovery can route users into malware; Android verification can reduce abuse while constraining sideloading freedom; and earbuds can carry high-severity eavesdropping bugs. Practical security therefore has to cover where code is found, how apps are authorized, and how small connected devices get patched.
+
+The June 19 morning source keeps repository discovery in view and adds wallet/clipboard behavior. Crypto-clippers are a reminder that malware does not need spectacular privilege escalation to matter; watching addresses, clipboard contents, startup persistence, and outbound Tor traffic can be enough to steal value. Repository hygiene and endpoint behavior monitoring belong in the same operational checklist.
