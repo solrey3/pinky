@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-18"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption]
-source_count: 26
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware]
+source_count: 27
 ---
 
 # Security & Privacy Toolkit
@@ -40,6 +40,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — GrapheneOS Android 17 support persists, while local-model practicality and agent-SDK billing keep AI tooling inside operational trust boundaries.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Secure Boot key-update deadlines and Arch AUR registration blocks amid malware show security as routine trust-chain maintenance, not only emergency patching.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Reported removal of memory encryption from consumer AMD Ryzen CPUs after AGESA firmware changes shows hardware feature drift as a security and privacy trust-boundary issue.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Trojanized GitHub repositories, Android app-verification controls, and a Beats Studio Buds eavesdropping CVE show the perimeter spanning repository discovery, mobile app identity, and consumer-device firmware.
 
 ## Related Concepts
 
@@ -91,3 +92,5 @@ The June 17 morning dispatch keeps that perimeter intact. If local models are no
 The June 17 evening dispatch adds the maintenance layer. Secure Boot keys are not glamorous, but stale trust anchors can become platform risk. The Arch AUR registration block shows the same principle at the community-package layer: when malware pressure rises, intake controls, signer/account trust, and package provenance become part of ordinary system hygiene.
 
 The June 18 AMD item adds hardware capability drift to that same maintenance model. Security features such as memory encryption should not be assumed from product family names or old spec sheets; firmware, AGESA versions, SKU segmentation, and vendor communication can change the actual protection surface. Practical defense needs verification commands, changelog monitoring, and procurement notes that distinguish advertised platform capability from enabled capability.
+
+The June 18 evening source widens the same lesson across the user/developer stack. GitHub repository discovery can route users into malware; Android verification can reduce abuse while constraining sideloading freedom; and earbuds can carry high-severity eavesdropping bugs. Practical security therefore has to cover where code is found, how apps are authorized, and how small connected devices get patched.

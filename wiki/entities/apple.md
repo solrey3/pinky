@@ -4,14 +4,14 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-16
-tags: [technology, ai, apple, siri, apple-intelligence, macos, organization]
-source_count: 5
+updated: 2026-06-18
+tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats]
+source_count: 6
 ---
 
 # Apple
 
-American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, and through architecture-transition history from PowerPC to Intel to Apple Silicon.
+American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, through architecture-transition history from PowerPC to Intel to Apple Silicon, and through consumer-device security updates.
 
 ## Sources
 
@@ -20,6 +20,7 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — macOS 27 beta reportedly breaks Asahi Linux boot support, showing how Apple platform updates can disrupt alternate OS workflows on Apple Silicon.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Ars Technica's 20-year Intel Mac retrospective puts Apple's architecture strategy in context: PowerPC to Intel, then Intel to Apple Silicon.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The Intel Mac retrospective remains in the morning feed, keeping Apple's architecture transitions visible as a long-run platform-control story.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Apple patches a high-severity eavesdropping vulnerability in Beats Studio Buds, showing that peripheral firmware belongs in the same security-maintenance perimeter as phones and Macs.
 
 ## Related
 

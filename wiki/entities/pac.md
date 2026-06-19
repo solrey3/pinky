@@ -4,9 +4,9 @@ title: PAC
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
-tags: [person, wrestling]
-source_count: 1
+updated: 2026-06-18
+tags: [person, wrestling, aew, njpw, forbidden-door, iwgp]
+source_count: 2
 ---
 
 # PAC
@@ -35,7 +35,10 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/pac.md)
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — PAC is booked for AEW Collision and challenges NJPW's Shota Umino for the IWGP Global Heavyweight title at Forbidden Door.
 
 ## Related
 
+- [[AEW]]
+- [[NJPW]]
 

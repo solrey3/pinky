@@ -4,14 +4,14 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-06-17
-tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models]
-source_count: 2
+updated: 2026-06-18
+tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent]
+source_count: 3
 ---
 
 # OpenAI
 
-AI lab and platform company behind ChatGPT, frontier models, and AI infrastructure products. In the newsletter stream, OpenAI appears as both a frontier-model actor and a public voice on AI-adjacent information operations.
+AI lab and platform company behind ChatGPT, frontier models, and AI infrastructure products. In the newsletter stream, OpenAI appears as both a frontier-model actor and a public voice on AI-adjacent information operations. The June 18 evening item adds a talent-market layer: marquee researchers remain strategic assets even as frontier-model economics look capital-intensive.
 
 ## 2026 Notes
 
@@ -21,6 +21,7 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI attributes an anti-data-center campaign in the U.S. to likely Chinese influence operators, tying AI infrastructure to information warfare and local political conflict.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Leaked financial documents are reported as showing OpenAI losing billions annually, foregrounding the cost structure of closed frontier-model operations.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Noam Shazeer says he is joining OpenAI, a talent-market signal that frontier competition is about personnel as well as compute, models, and distribution.
 
 ## Related
 
