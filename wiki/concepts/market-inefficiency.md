@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-19"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 26
+source_count: 27
 ---
 
 # Market Inefficiency
@@ -40,6 +40,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Polymarket surfaces World Cup chatter and a July Fed-decision snippet, but Kalshi remains unavailable and the section still lacks market IDs, deltas, liquidity, timestamps, and resolution language.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Polymarket surfaces Mexico/Korea Republic, July Fed-decision, and Iranian-demand topics without verified mover percentages, while Kalshi remains unavailable.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Polymarket provides U.S. Open winner and July Fed 50+ bps hike snippets, while Kalshi is unavailable; isolated odds remain watchlist context rather than forecast-grade evidence.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Polymarket extraction returns mixed items without a clean notable mover, while Kalshi is unavailable; the section remains a data-pipeline warning, not a forecast signal.
 
 ## Related Concepts
 
@@ -96,3 +97,5 @@ The June 18 morning dispatch repeats the same discipline. A Fed-decision line sh
 The June 18 evening dispatch makes the provenance problem explicit by saying verified mover percentages were not available. Treat those topics as a watchlist — World Cup, Fed decision, Iranian demands — not as probabilistic evidence until the feed includes clean market IDs, prices, previous prices, liquidity, timestamps, and resolution terms.
 
 The June 19 morning dispatch does not fix the pipeline. A U.S. Open winner probability and a Fed-hike snippet may orient attention, but without IDs, liquidity, previous prices, timestamps, and resolution language they should stay in the provenance bucket.
+
+The evening dispatch degrades the signal further: “mixed items” and no Kalshi data are not a market read. Treat this as collection health metadata until the pipeline returns clean questions, prices, deltas, liquidity, and timestamps.

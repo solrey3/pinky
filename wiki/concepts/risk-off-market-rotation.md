@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-19
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 23
+source_count: 24
 ---
 
 # Risk-Off Market Rotation
@@ -37,6 +37,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Morning tables carry forward the broad risk-on tape: S&P 500 +2.11%, Dow +3.15%, Nasdaq +3.39%, Russell 2000 +2.91%, semiconductors and financials strong, and WTI still sharply lower at -8.46%.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Evening close stays risk-on in equities: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, but WTI -6.48% and Bitcoin -4.30% keep cross-asset dissonance alive.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Morning tables preserve the same risk-on/cross-asset split: major indexes near highs, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, while Bitcoin -5.98% and WTI -6.25% cross negative alert lines.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Evening close confirms equity risk appetite: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, TSM +9.75%, but WTI -5.21% and Bitcoin -4.89% keep cross-asset confirmation weak.
 
 ## Related Concepts
 
@@ -91,3 +92,5 @@ The June 18 morning dispatch confirms continuity rather than reversal. The equit
 The June 18 evening close preserves that read and adds Bitcoin as a second non-confirmation. Nasdaq, Russell 2000, AMD, TSM, and Nvidia show equity risk appetite, but WTI and BTC both decline. That makes the regime bullish inside stocks but still mixed across assets; do not flatten it into a single “risk-on everywhere” label.
 
 The June 19 morning dispatch confirms continuity rather than a fresh regime. The same equity prints carry forward while Bitcoin weakens further and WTI remains down hard. The useful synthesis is persistence: stock leadership is broad enough to call risk-on, but the non-confirming assets remain too loud to ignore.
+
+The June 19 evening close keeps the same diagnosis. Indexes, small caps, and chips are decisively risk-on, but crude and Bitcoin still fail to confirm. The regime label should therefore stay two-part: equity enthusiasm above, energy/crypto dissonance underneath.

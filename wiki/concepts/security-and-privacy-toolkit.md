@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-19"
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery]
-source_count: 28
+source_count: 29
 ---
 
 # Security & Privacy Toolkit
@@ -42,6 +42,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Reported removal of memory encryption from consumer AMD Ryzen CPUs after AGESA firmware changes shows hardware feature drift as a security and privacy trust-boundary issue.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Trojanized GitHub repositories, Android app-verification controls, and a Beats Studio Buds eavesdropping CVE show the perimeter spanning repository discovery, mobile app identity, and consumer-device firmware.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Trojanized GitHub repository discovery persists, while Microsoft's crypto-clipper/backdoor report adds clipboard/wallet theft, Tor persistence, and worm-like propagation to the practical defense perimeter.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The Microsoft crypto-clipper/backdoor remains the evening security item, reinforcing wallet-address monitoring, clipboard hygiene, Tor traffic detection, and worm-like persistence as operator controls.
 
 ## Related Concepts
 
@@ -97,3 +98,5 @@ The June 18 AMD item adds hardware capability drift to that same maintenance mod
 The June 18 evening source widens the same lesson across the user/developer stack. GitHub repository discovery can route users into malware; Android verification can reduce abuse while constraining sideloading freedom; and earbuds can carry high-severity eavesdropping bugs. Practical security therefore has to cover where code is found, how apps are authorized, and how small connected devices get patched.
 
 The June 19 morning source keeps repository discovery in view and adds wallet/clipboard behavior. Crypto-clippers are a reminder that malware does not need spectacular privilege escalation to matter; watching addresses, clipboard contents, startup persistence, and outbound Tor traffic can be enough to steal value. Repository hygiene and endpoint behavior monitoring belong in the same operational checklist.
+
+The evening repeat makes the control point durable rather than incidental. For crypto-capable systems, practical security should include address verification before signing transactions, clipboard monitoring skepticism, startup-item review, and alerts on unexpected Tor or worm-like lateral movement.

@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-06-19
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 2
+source_count: 3
 ---
 
 # Monetary Policy Forward Guidance
@@ -16,6 +16,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The Federal Reserve is reported to be moving away from forward guidance under Kevin Warsh, shifting market interpretation toward data dependence and away from forecast anchoring.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — The rate snapshot and July 50+ bps hike prediction-market snippet provide expectations context, but they are not forward guidance; this distinction keeps policy communication separate from market-implied odds.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The evening rate snapshot again supplies EFFR/target-range context without adding a new Fed communication signal.
 
 ## Related Concepts
 
@@ -28,3 +29,5 @@ A central-bank communication strategy that attempts to shape expectations by sig
 This concept matters because central-bank communication is itself market infrastructure. A move away from forward guidance does not merely change press-conference style; it changes how traders price uncertainty, how analysts read rate paths, and how much weight markets put on each new inflation, labor, or growth print.
 
 The June 19 dispatch is useful mainly as a boundary marker. A target range, EFFR print, and prediction-market probability describe the current rate environment and market expectations; they do not replace Fed communication. Keep actual Fed guidance, analyst inference, and prediction-market odds as separate evidence types.
+
+The evening dispatch repeats that boundary. A stable EFFR print tells us where policy is, not how the Fed is trying to steer expectations.

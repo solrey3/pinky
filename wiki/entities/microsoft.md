@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-02
 updated: 2026-06-19
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 10
+source_count: 11
 ---
 
 # Microsoft
@@ -53,6 +53,7 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — TechCrunch/HN item framed the same compromise as Microsoft open-source tools hacked to steal passwords from AI developers, keeping supply-chain trust at the top of the AI desk.
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — A critical GitHub Copilot vulnerability reportedly allowed 2FA-code theft, adding authentication-adjacent AI coding assistants to Microsoft's security surface.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Microsoft reports a lightweight crypto-clipper/backdoor that uses Tor and worm-like propagation, extending the Microsoft security thread from developer identity into wallet/clipboard malware and endpoint persistence.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The crypto-clipper/backdoor remains the evening AI/security anchor, reinforcing wallet/clipboard monitoring and Tor-based persistence as practical endpoint concerns.
 
 ## Related
 
