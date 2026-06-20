@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-06-19
+updated: 2026-06-20
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children]
-source_count: 8
+source_count: 9
 ---
 
 # AI Model Safety Boundaries
@@ -22,6 +22,7 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, showing the availability boundary persisting across multiple dispatches.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Anthropic Fable/Mythos shutdown remains in the AI desk, extending the availability-boundary story into another daily cycle.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Norway's near-ban on AI in elementary school shows safety boundaries applying to age, pedagogy, and institutional setting, not only model output categories or national-security availability.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Norway's elementary-school AI restriction repeats, confirming education as a durable deployment-boundary domain rather than a one-off headline.
 
 ## Related Concepts
 
@@ -45,3 +46,5 @@ The June 14 evening dispatch keeps that availability stressor alive. Persistence
 The June 15 morning dispatch confirms the same point. Model safety boundaries now include access revocation and government pressure alongside refusals, classifiers, and content policies.
 
 The June 19 evening dispatch adds education as a separate boundary domain. A school AI ban is not a model refusal policy, but it is still a deployment boundary: institutions can decide that age, cognitive development, assessment integrity, or classroom dependency risks justify restricting access before the model ever answers a prompt.
+
+The June 20 repeat matters because deployment boundaries become policy only when they persist across cycles. The school setting adds child development, assessment integrity, teacher workload, and dependency formation to the same governance map as refusals, access controls, and national-security restrictions.

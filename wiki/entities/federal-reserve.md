@@ -4,9 +4,9 @@ title: Federal Reserve
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-19
+updated: 2026-06-20
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr]
-source_count: 5
+source_count: 6
 ---
 
 # Federal Reserve
@@ -20,6 +20,7 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Evening rate snapshot keeps EFFR at **3.63%** inside the **3.50%–3.75%** target range, with July Fed-decision prediction-market chatter still provenance-limited.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Morning rate snapshot again lists EFFR at **3.63%** inside the **3.50%–3.75%** target range, while the July 50+ bps hike snippet is **<1%** but lacks full market provenance.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Evening rate snapshot holds EFFR at **3.63%** inside the **3.50%–3.75%** target range, adding continuity rather than new Fed guidance.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning rate snapshot again lists EFFR at **3.63%** inside the **3.50%–3.75%** target range, confirming continuity without adding new Fed communication.
 
 ## Related
 

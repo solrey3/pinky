@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-19
+updated: 2026-06-20
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 24
+source_count: 25
 ---
 
 # Risk-Off Market Rotation
@@ -38,6 +38,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Evening close stays risk-on in equities: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, but WTI -6.48% and Bitcoin -4.30% keep cross-asset dissonance alive.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Morning tables preserve the same risk-on/cross-asset split: major indexes near highs, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, while Bitcoin -5.98% and WTI -6.25% cross negative alert lines.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Evening close confirms equity risk appetite: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, TSM +9.75%, but WTI -5.21% and Bitcoin -4.89% keep cross-asset confirmation weak.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning tables preserve the same split: major indexes and chips remain green near highs, while WTI -5.21% and Bitcoin -2.99% keep the cross-asset read mixed.
 
 ## Related Concepts
 
@@ -94,3 +95,5 @@ The June 18 evening close preserves that read and adds Bitcoin as a second non-c
 The June 19 morning dispatch confirms continuity rather than a fresh regime. The same equity prints carry forward while Bitcoin weakens further and WTI remains down hard. The useful synthesis is persistence: stock leadership is broad enough to call risk-on, but the non-confirming assets remain too loud to ignore.
 
 The June 19 evening close keeps the same diagnosis. Indexes, small caps, and chips are decisively risk-on, but crude and Bitcoin still fail to confirm. The regime label should therefore stay two-part: equity enthusiasm above, energy/crypto dissonance underneath.
+
+The June 20 morning dispatch is mostly a weekend carry-forward, not a fresh trading session, but it is still useful confirmation. The same levels support the two-part label: risk-on inside equities, especially semiconductors and small caps; dissonance underneath from oil and Bitcoin.

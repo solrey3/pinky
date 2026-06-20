@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-06-19
+updated: 2026-06-20
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on]
-source_count: 6
+source_count: 7
 ---
 
 # Nvidia
@@ -21,6 +21,7 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Nvidia remains green at **+2.84%** as the AI bellwether, though AMD and TSM are the louder semiconductor movers in the evening tape.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Nvidia is still green at **+2.84%**, functioning as part of the AI/semiconductor leadership basket even though AMD and TSM remain the larger movers.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Nvidia closes at **$210.69**, **+2.84%**, still green as the AI bellwether while AMD and TSM make the louder semiconductor moves.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket even though AMD and TSM carry the larger percentage moves.
 
 ## Related
 
