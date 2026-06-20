@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-20
 tags: [wrestling, promotion, aew, television, dynamite, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel]
-source_count: 5
+source_count: 6
 ---
 
 # AEW
@@ -20,6 +20,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — AEW remains the hub of the wrestling feed through Dynamite discussion, PAC/Hurt Syndicate Collision booking, Forbidden Door title-challenge build, and MyAEW additions.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — AEW appears through WatchAEW FAST Channel/Tubi distribution news and Matt Sydal status reporting, making distribution and talent availability the evening update.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — The WatchAEW FAST Channel/Tubi item repeats, reinforcing AEW's distribution strategy as part of the promotion's newsletter-relevant business story.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Forbidden Door build continues as Shota Umino says he will defend the IWGP Global Title against PAC, keeping AEW's NJPW crossover lane active.
 
 ## Related
 
@@ -28,3 +29,5 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [[NJPW]]
 - [[ROH]]
 - [[Kazuchika Okada]]
+- [[PAC]]
+- [[STARDOM]]

@@ -4,14 +4,14 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-18
+updated: 2026-06-20
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification]
-source_count: 11
+source_count: 12
 ---
 
 # Google
 
-American technology company and AI lab/operator behind Search, Android, Google Cloud, and the Gemini model family. In the June 2026 newsletter stream, Google appears both as a direct AI builder and as model infrastructure for other major platforms. Gemini is showing up in two lanes at once: as hidden plumbing for platform partners and as direct user-facing utility such as voice translation. The June 10 evening dispatch adds a third lane: legal accountability for AI-generated search answers. The June 11 morning dispatch keeps both the capability and liability threads alive: DiffusionGemma stays in the feed, and a German ruling frames AI Overviews as Google's own words when they are false. The June 12 evening dispatch adds an abuse-and-enforcement lane: Google sues a Chinese cybercrime network it says used Gemini to automate scams. The June 13 and June 14 morning dispatches keep that lane alive as a core AI/security item, making Gemini abuse detection and enforcement part of Google's model-platform story. The June 15 evening dispatch returns to the liability lane through a German court ruling that Google can be held responsible for false AI Overview answers. The June 16 morning dispatch keeps that same ruling in the wider web feed, making AI Overview liability a recurring rather than one-off platform-risk item. The June 18 evening source shifts from AI liability to Android platform governance: app verification makes malware control and sideloading freedom part of the same Google story.
+American technology company and AI lab/operator behind Search, Android, Google Cloud, and the Gemini model family. In the June 2026 newsletter stream, Google appears both as a direct AI builder and as model infrastructure for other major platforms. Gemini is showing up in two lanes at once: as hidden plumbing for platform partners and as direct user-facing utility such as voice translation. The June 10 evening dispatch adds a third lane: legal accountability for AI-generated search answers. The June 11 morning dispatch keeps both the capability and liability threads alive: DiffusionGemma stays in the feed, and a German ruling frames AI Overviews as Google's own words when they are false. The June 12 evening dispatch adds an abuse-and-enforcement lane: Google sues a Chinese cybercrime network it says used Gemini to automate scams. The June 13 and June 14 morning dispatches keep that lane alive as a core AI/security item, making Gemini abuse detection and enforcement part of Google's model-platform story. The June 15 evening dispatch returns to the liability lane through a German court ruling that Google can be held responsible for false AI Overview answers. The June 16 morning dispatch keeps that same ruling in the wider web feed, making AI Overview liability a recurring rather than one-off platform-risk item. The June 18 evening source shifts from AI liability to Android platform governance: app verification makes malware control and sideloading freedom part of the same Google story. The June 20 evening dispatch keeps that Android verification timeline in view, confirming mobile app identity as a recurring Google platform-governance issue.
 
 ## Sources
 
@@ -26,6 +26,7 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — A German court ruling says Google can be held liable for false AI Overview answers, keeping generated search summaries in the platform-accountability frame.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — gHacks keeps the German AI Overview liability ruling in the around-the-web feed, reinforcing that generated search answers are being treated as platform statements.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Ars Technica reports Google's Android verification timeline and supported app stores, turning app identity, sideloading controls, and malware prevention into a mobile-platform-governance issue.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Android verification remains on the tech desk, reinforcing app-store support, developer identity, and sideloading limits as live Google platform-governance questions.
 
 ## Related
 

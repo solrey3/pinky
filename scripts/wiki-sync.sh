@@ -65,7 +65,7 @@ read -r -d '' PROMPT << 'PROMPT_EOF' || true
 Read the wiki-ingest skill at ~/.pi/agent/skills/wiki-ingest/SKILL.md and follow it exactly to ingest each file listed below into ~/pinky/wiki/.
 
 Rules for this run:
-- Newsletter files: batch same-week morning+evening pairs into one source page (matching the existing pattern in wiki/sources/).
+- Newsletter files: batch same-week daytime+evening pairs into one source page (treat legacy morning dispatches as daytime; match the existing pattern in wiki/sources/).
 - All other file types: create individual source pages.
 - Skip any file already covered (double-check before writing).
 - Update wiki/index.md and wiki/log.md after all ingestions.

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-20"
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 28
+source_count: 29
 ---
 
 # Market Inefficiency
@@ -42,6 +42,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Polymarket provides U.S. Open winner and July Fed 50+ bps hike snippets, while Kalshi is unavailable; isolated odds remain watchlist context rather than forecast-grade evidence.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Polymarket extraction returns mixed items without a clean notable mover, while Kalshi is unavailable; the section remains a data-pipeline warning, not a forecast signal.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Polymarket surfaces U.S. Open winner odds for Schauffele, Fitzpatrick, and Scheffler, while Kalshi is unavailable; the odds are watchlist context without market IDs, deltas, liquidity, or timestamps.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Polymarket returns trending market labels for World Cup matchups, a Fed decision, and the next UK prime minister, while Kalshi remains unavailable; the section is still watchlist metadata, not forecast evidence.
 
 ## Related Concepts
 
@@ -102,3 +103,5 @@ The June 19 morning dispatch does not fix the pipeline. A U.S. Open winner proba
 The evening dispatch degrades the signal further: “mixed items” and no Kalshi data are not a market read. Treat this as collection health metadata until the pipeline returns clean questions, prices, deltas, liquidity, and timestamps.
 
 The June 20 morning source has numbers, but not enough structure. U.S. Open winner percentages can orient attention, yet without market identifiers, prior prices, liquidity, timestamps, and resolution rules they remain provenance-limited watchlist data.
+
+The evening source is even more clearly a provenance note. Trending labels for Germany-Côte d'Ivoire, Ecuador-Curaçao, Tunisia-Japan, Fed Decision in July, and next UK prime minister identify topics, but not tradable forecast evidence.

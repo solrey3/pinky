@@ -20,7 +20,7 @@ pinky/
 │   ├── books/          # Book chapters, reading notes
 │   ├── cheatsheets/    # CLI tool quick-reference guides
 │   ├── gists/          # Captured gists and frameworks
-│   ├── newsletters/    # Daily Morning Dispatch & Evening Brief
+│   ├── newsletters/    # Daily Daytime Dispatch & Evening Brief
 │   └── assets/         # Images, PDFs, downloaded attachments
 └── wiki/
     ├── README.md       # Wiki schema

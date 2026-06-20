@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-20
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 25
+source_count: 26
 ---
 
 # Risk-Off Market Rotation
@@ -39,6 +39,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Morning tables preserve the same risk-on/cross-asset split: major indexes near highs, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, while Bitcoin -5.98% and WTI -6.25% cross negative alert lines.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Evening close confirms equity risk appetite: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, TSM +9.75%, but WTI -5.21% and Bitcoin -4.89% keep cross-asset confirmation weak.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning tables preserve the same split: major indexes and chips remain green near highs, while WTI -5.21% and Bitcoin -2.99% keep the cross-asset read mixed.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Evening tables confirm the carry-forward: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, while WTI -5.21% and Bitcoin -2.57% remain non-confirming.
 
 ## Related Concepts
 
@@ -97,3 +98,5 @@ The June 19 morning dispatch confirms continuity rather than a fresh regime. The
 The June 19 evening close keeps the same diagnosis. Indexes, small caps, and chips are decisively risk-on, but crude and Bitcoin still fail to confirm. The regime label should therefore stay two-part: equity enthusiasm above, energy/crypto dissonance underneath.
 
 The June 20 morning dispatch is mostly a weekend carry-forward, not a fresh trading session, but it is still useful confirmation. The same levels support the two-part label: risk-on inside equities, especially semiconductors and small caps; dissonance underneath from oil and Bitcoin.
+
+The evening dispatch repeats that same structure and adds a useful narrative mismatch: Hormuz headlines sound oil-bullish, but WTI still sells off sharply. That makes the source a reminder to separate geopolitical headline risk from actual price confirmation.

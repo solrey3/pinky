@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-20
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions]
-source_count: 5
+source_count: 6
 ---
 
 # WWE
@@ -20,6 +20,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — SmackDown's June 19 lineup advertises a world-title match, keeping WWE's feed presence on television-card promotion rather than corporate governance.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — WWE appears through reports that a Cincinnati SmackDown taping was listed as canceled, shifting the evening update from card promotion to event/logistics uncertainty.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — WWE coverage shifts back to event build: Cody/Gunther/Sami and Stratton/Cargill are listed for Night of Champions, Liv Morgan reaches the Queen of the Ring final, and Jey Uso advances toward a King of the Ring final against Oba Femi.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — WWE remains in event-build mode, with Cody vs. Gunther vs. Sami and Stratton vs. Cargill among the confirmed Night of Champions 2026 matches.
 
 ## Related
 
@@ -29,3 +30,4 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [[ROH]]
 - [[WWE NXT]]
 - [[NJPW]]
+- [[STARDOM]]

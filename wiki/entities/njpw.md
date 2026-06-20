@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-06-20
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania]
-source_count: 18
+source_count: 19
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -38,6 +38,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-18 (Morning)**: AEW x NJPW Forbidden Door build continues through Bandido challenging Jon Moxley for the AEW Continental Championship, and the Meltzer table again keeps Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star NJPW benchmark.
 - **2026-06-18 (Evening)**: Forbidden Door build expands with PAC challenging Shota Umino for the IWGP Global Heavyweight title, while CMLL/NJPW Fantastica Mania appears among MyAEW additions.
 - **2026-06-20 (Morning)**: Yuji Nagata Produce Blue Justice XVIII appears as the live discussion thread, while CMLL x NJPW Fantastica Mania Mexico results keep New Japan in the lucha crossover feed. The Meltzer table again preserves Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as the six-star benchmark.
+- **2026-06-20 (Evening)**: Forbidden Door build continues with Shota Umino saying he will defend the IWGP Global Title against PAC, keeping New Japan's AEW crossover story active after Dominion fallout.
 
 ## Sources
 
@@ -59,6 +60,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Forbidden Door build appears through Bandido vs. Jon Moxley for the AEW Continental Championship, while Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star NJPW ratings-table anchor.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — PAC challenges Shota Umino for the IWGP Global Heavyweight title at Forbidden Door, and CMLL/NJPW Fantastica Mania is listed among MyAEW additions.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Yuji Nagata Produce Blue Justice XVIII is the NJPW live-thread item, CMLL x NJPW Fantastica Mania Mexico results appear, and Tanahashi vs. Okada remains the top 2026 ratings-table match.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Shota Umino's IWGP Global title defense against PAC at Forbidden Door keeps NJPW's AEW crossover title program in the daily digest.
 
 ## Related
 

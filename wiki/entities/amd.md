@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-06-20
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on]
-source_count: 5
+source_count: 6
 ---
 
 # AMD
@@ -20,10 +20,12 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — AMD's **+10.02%** move persists as one of the morning's major alert-line items, keeping the stock as the clearest semiconductor expression of the risk-on tape.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — AMD closes at **$537.37**, **+10.02%**, confirming the chip-stock risk-on signal into the evening close.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — AMD remains one of the strongest stock-watch movers at **$537.37**, **+10.02%**, keeping the semiconductor basket at the center of the risk-on equity read.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — AMD again appears at **$537.37**, **+10.02%**, confirming semiconductor leadership into the evening wrap.
 
 ## Related
 
 - [[Nvidia]]
+- [[TSM]]
 - [[Microsoft]]
 - [[Security & Privacy Toolkit]]
 - [[Risk-Off Market Rotation]]

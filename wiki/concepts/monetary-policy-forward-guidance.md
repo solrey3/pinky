@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-06-20
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 4
+source_count: 5
 ---
 
 # Monetary Policy Forward Guidance
@@ -18,6 +18,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — The rate snapshot and July 50+ bps hike prediction-market snippet provide expectations context, but they are not forward guidance; this distinction keeps policy communication separate from market-implied odds.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The evening rate snapshot again supplies EFFR/target-range context without adding a new Fed communication signal.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning rate data repeats EFFR **3.63%** and the **3.50%–3.75%** target range, providing current-rate context but no new forward-guidance signal.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Evening rate data repeats the same EFFR/target-range context, while a Polymarket Fed-decision trend remains prediction-market metadata rather than Fed guidance.
 
 ## Related Concepts
 
@@ -34,3 +35,5 @@ The June 19 dispatch is useful mainly as a boundary marker. A target range, EFFR
 The evening dispatch repeats that boundary. A stable EFFR print tells us where policy is, not how the Fed is trying to steer expectations.
 
 The June 20 morning dispatch is the same kind of evidence. It is useful for anchoring the rate environment, but it should not be confused with a Fed communication, projection, or deliberate expectations-management signal.
+
+The evening dispatch repeats the boundary. A Fed Decision in July prediction-market label may show what traders are watching, but it is not a substitute for policy communication or a verified market-implied path.

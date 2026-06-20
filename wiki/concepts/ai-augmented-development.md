@@ -4,8 +4,8 @@ title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: "2026-06-20"
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java]
-source_count: 19
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards]
+source_count: 20
 ---
 
 # AI-Augmented Development
@@ -33,6 +33,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — MIT building a custom operating system for chip study and the recurring Trojanized-GitHub story reinforce that AI-assisted development still rests on low-level systems literacy and source-provenance discipline.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Project Valhalla/JDK 28 and Hyundai's Boston Dynamics control story broaden the AI workflow substrate from agents and repositories into runtimes, performance engineering, and embodied robotics platforms.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Project Valhalla/JDK 28 repeats in the AI/tech desk, reinforcing that AI-era developer workflows still depend on language runtimes, performance engineering, and low-level systems understanding.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare temporary accounts for AI agents, PostgresBench, and free SMPTE standards show AI-era development depending on identity design, reproducible benchmarks, and open technical baselines.
 
 ## Related Concepts
 
@@ -76,3 +77,5 @@ The June 19 morning source sharpens the foundation layer. MIT's operating-system
 The evening source adds runtime and robotics ownership to the same foundation layer. Java performance work and robot-platform control are not glamorous model demos, but they shape where AI-assisted systems can run efficiently and what physical-world capabilities companies can integrate.
 
 The June 20 repeat strengthens the foundation-layer lesson. Coding agents can generate Java, but Project Valhalla-style runtime work determines object layout, value types, memory behavior, and performance ceilings that agents still have to respect.
+
+The evening dispatch adds the operational wrapper around that foundation. Agents need scoped accounts before they can safely act, databases need reproducible benchmarks before performance claims mean much, and media/tooling ecosystems need accessible standards before interoperability can compound.
