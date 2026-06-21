@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-21"
+updated: 2026-06-21
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 30
+source_count: 31
 ---
 
 # Market Inefficiency
@@ -44,6 +44,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Polymarket surfaces U.S. Open winner odds for Schauffele, Fitzpatrick, and Scheffler, while Kalshi is unavailable; the odds are watchlist context without market IDs, deltas, liquidity, or timestamps.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Polymarket returns trending market labels for World Cup matchups, a Fed decision, and the next UK prime minister, while Kalshi remains unavailable; the section is still watchlist metadata, not forecast evidence.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Polymarket trending topics include UK PM Starmer, PGA U.S. Open, Spain-Saudi Arabia, and July Fed chatter, while Kalshi remains unavailable; still watchlist metadata, not forecast evidence.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Polymarket shows a Colombia presidential-election snapshot led by Abelardo de la Espriella at **99%**, while Kalshi is unavailable; without IDs, deltas, liquidity, timestamps, and resolution text, it remains watchlist metadata.
 
 ## Related Concepts
 
@@ -108,3 +110,5 @@ The June 20 morning source has numbers, but not enough structure. U.S. Open winn
 The evening source is even more clearly a provenance note. Trending labels for Germany-Côte d'Ivoire, Ecuador-Curaçao, Tunisia-Japan, Fed Decision in July, and next UK prime minister identify topics, but not tradable forecast evidence.
 
 The June 21 daytime dispatch preserves the same limitation. Starmer headlines, PGA winner markets, Spain-Saudi Arabia, and Fed-decision chatter are useful watchlist topics, but without prices, IDs, deltas, liquidity, timestamps, and resolution text they remain provenance artifacts.
+
+The June 21 evening prediction-market field is more numeric than some prior snippets, but it still lacks enough structure for forecast-grade use. A 99% label without market metadata is a prompt for follow-up, not a clean probability input.

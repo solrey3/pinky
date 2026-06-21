@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-21
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel]
-source_count: 7
+source_count: 8
 ---
 
 # AEW
@@ -22,6 +22,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — The WatchAEW FAST Channel/Tubi item repeats, reinforcing AEW's distribution strategy as part of the promotion's newsletter-relevant business story.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Forbidden Door build continues as Shota Umino says he will defend the IWGP Global Title against PAC, keeping AEW's NJPW crossover lane active.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — AEW Collision results include Maya World vs. Moné in the Owen Hart final, Chris Jericho bloodied by Ciampa, Matt Sydal's return, and Forbidden Door card additions with NJPW/CMLL talent.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — AEW Collision discussion and Forbidden Door build remain central, with Maya World, Moné, Jericho, Ciampa, Matt Sydal, and FTR all in the evening wrestling cycle.
 
 ## Related
 

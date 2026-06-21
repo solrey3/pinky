@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-17
-tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing]
-source_count: 14
+updated: 2026-06-21
+tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification]
+source_count: 15
 ---
 
 # Anthropic
@@ -56,6 +56,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, extending the state-mediated availability story.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — The Fable/Mythos shutdown remains in the AI desk, reinforcing model availability as a state-pressure and platform-governance issue.
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Token-based billing is paused for the Claude Agent SDK, making agent-tool pricing and metering part of Anthropic's developer-platform governance.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification appears on the AI desk, adding account provenance and user-verification friction to Anthropic's platform-governance story.
 
 ## Related
 

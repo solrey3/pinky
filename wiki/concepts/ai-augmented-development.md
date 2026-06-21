@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-21"
+updated: 2026-06-21
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux]
-source_count: 21
+source_count: 22
 ---
 
 # AI-Augmented Development
@@ -35,6 +35,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Project Valhalla/JDK 28 repeats in the AI/tech desk, reinforcing that AI-era developer workflows still depend on language runtimes, performance engineering, and low-level systems understanding.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare temporary accounts for AI agents, PostgresBench, and free SMPTE standards show AI-era development depending on identity design, reproducible benchmarks, and open technical baselines.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Reliable agentic AI systems, epoll vs. io_uring, and Linux memory-safety cleanup show AI-era development as agent design plus low-level systems literacy.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification, Apertus sovereign-AI coverage, and Apple Swift-in-the-kernel discussion show AI-era development spanning provider accounts, open model control, and low-level platform internals.
 
 ## Related Concepts
 
@@ -82,3 +84,5 @@ The June 20 repeat strengthens the foundation-layer lesson. Coding agents can ge
 The evening dispatch adds the operational wrapper around that foundation. Agents need scoped accounts before they can safely act, databases need reproducible benchmarks before performance claims mean much, and media/tooling ecosystems need accessible standards before interoperability can compound.
 
 The June 21 daytime dispatch turns agentic AI back toward reliability engineering. The practical stack is not “agent plus API”; it is agent behavior, permissions, benchmarks, runtimes, kernel interfaces, and memory-safe foundations all being maintained together.
+
+The evening source ties three layers together: who can authenticate to frontier-model platforms, who can operate open foundation models independently, and what platform internals developers build on. AI-assisted development is therefore an access, sovereignty, and systems-literacy problem at once.

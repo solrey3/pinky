@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-02
 updated: 2026-06-21
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 14
+source_count: 15
 ---
 
 # Microsoft
@@ -57,6 +57,8 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — The same crypto-clipper/backdoor item remains in the morning tech desk, keeping wallet-address substitution, clipboard monitoring, Tor control, and worm-like propagation in Microsoft's security-research thread.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — The crypto-clipper/backdoor story persists into the evening dispatch, turning wallet/clipboard hygiene and Tor/persistence monitoring into a repeated operational checklist item.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — The crypto-clipper/backdoor item repeats again, confirming wallet-address verification, clipboard skepticism, Tor egress monitoring, and persistence review as durable operator controls.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Microsoft's crypto-clipper/backdoor item persists into the evening dispatch, keeping wallet-address verification, clipboard distrust, Tor monitoring, and persistence review active.
 
 ## Related
 

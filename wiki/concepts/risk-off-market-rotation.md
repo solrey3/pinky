@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-21
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 27
+source_count: 28
 ---
 
 # Risk-Off Market Rotation
@@ -41,6 +41,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning tables preserve the same split: major indexes and chips remain green near highs, while WTI -5.21% and Bitcoin -2.99% keep the cross-asset read mixed.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Evening tables confirm the carry-forward: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, while WTI -5.21% and Bitcoin -2.57% remain non-confirming.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Sunday tables carry the same two-part regime: major indexes and semiconductors remain risk-on near highs, while WTI and Bitcoin remain non-confirming.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Evening tables repeat the two-part regime: indexes and semiconductors are risk-on near highs, while WTI and Bitcoin remain non-confirming.
 
 ## Related Concepts
 
@@ -103,3 +105,5 @@ The June 20 morning dispatch is mostly a weekend carry-forward, not a fresh trad
 The evening dispatch repeats that same structure and adds a useful narrative mismatch: Hormuz headlines sound oil-bullish, but WTI still sells off sharply. That makes the source a reminder to separate geopolitical headline risk from actual price confirmation.
 
 The June 21 daytime dispatch is not a fresh market session, but it confirms the weekend carry-forward. The label remains: equity risk-on, semiconductor-led, with macro dissonance from crude and Bitcoin. Vance/Iran/Hormuz headlines make that separation between narrative risk and price confirmation especially important.
+
+The June 21 evening dispatch keeps the same interpretation intact. Equities, small caps, and chips still show risk appetite, but crude and Bitcoin remain weak enough that the macro board should not be summarized as an all-asset rally.

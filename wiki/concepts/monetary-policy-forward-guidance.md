@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-06-21
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 6
+source_count: 7
 ---
 
 # Monetary Policy Forward Guidance
@@ -20,6 +20,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning rate data repeats EFFR **3.63%** and the **3.50%–3.75%** target range, providing current-rate context but no new forward-guidance signal.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Evening rate data repeats the same EFFR/target-range context, while a Polymarket Fed-decision trend remains prediction-market metadata rather than Fed guidance.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** range; this is current-rate context, not new Fed guidance.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not a new Fed communication signal.
 
 ## Related Concepts
 
@@ -40,3 +42,5 @@ The June 20 morning dispatch is the same kind of evidence. It is useful for anch
 The evening dispatch repeats the boundary. A Fed Decision in July prediction-market label may show what traders are watching, but it is not a substitute for policy communication or a verified market-implied path.
 
 The June 21 daytime dispatch is another context-only rate print. It matters because stable EFFR anchors the market tables, but it does not add policy intent, projections, or a changed communication strategy.
+
+The June 21 evening dispatch repeats the same boundary: a stable EFFR/target-range snapshot helps anchor the market tables, but it does not communicate a policy path or substitute for formal Fed guidance.

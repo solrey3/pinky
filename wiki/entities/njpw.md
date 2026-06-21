@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-06-21
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania]
-source_count: 20
+source_count: 21
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -63,6 +63,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Yuji Nagata Produce Blue Justice XVIII is the NJPW live-thread item, CMLL x NJPW Fantastica Mania Mexico results appear, and Tanahashi vs. Okada remains the top 2026 ratings-table match.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Shota Umino's IWGP Global title defense against PAC at Forbidden Door keeps NJPW's AEW crossover title program in the daily digest.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include NJPW-linked talent, and Tanahashi vs. Okada remains the six-star ratings-table anchor.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Forbidden Door build continues through an open challenge for the IWGP Tag Titles, keeping NJPW tied into AEW crossover booking.
 
 ## Related
 

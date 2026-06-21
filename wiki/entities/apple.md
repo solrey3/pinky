@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-18
-tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats]
-source_count: 6
+updated: 2026-06-21
+tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift]
+source_count: 7
 ---
 
 # Apple
@@ -21,6 +21,8 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Ars Technica's 20-year Intel Mac retrospective puts Apple's architecture strategy in context: PowerPC to Intel, then Intel to Apple Silicon.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The Intel Mac retrospective remains in the morning feed, keeping Apple's architecture transitions visible as a long-run platform-control story.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Apple patches a high-severity eavesdropping vulnerability in Beats Studio Buds, showing that peripheral firmware belongs in the same security-maintenance perimeter as phones and Macs.
+
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apple appears through iOS 27 feature coverage and a Swift-in-the-kernel item, extending the platform story from consumer features into systems-language internals.
 
 ## Related
 
