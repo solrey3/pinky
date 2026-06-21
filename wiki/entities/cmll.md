@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-20
-tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania]
-source_count: 5
+updated: 2026-06-21
+tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door]
+source_count: 6
 ---
 
 # CMLL
@@ -20,6 +20,7 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — CMLL/NJPW Fantastica Mania appears among MyAEW additions, connecting CMLL to the AEW/NJPW distribution and crossover ecosystem.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — ROH x CMLL x Stardom Global Wars discussion keeps CMLL in the cross-promotional wrestling ecosystem alongside U.S. and Japanese partners.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — CMLL x NJPW Fantastica Mania Mexico results keep CMLL in the lucha crossover and Japan/Mexico partnership thread.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include CMLL-linked lucha talent alongside AEW and NJPW names, extending the cross-promotional lane.
 
 ## Related
 

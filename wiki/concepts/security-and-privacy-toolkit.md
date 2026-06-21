@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-20"
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control]
-source_count: 31
+updated: "2026-06-21"
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety]
+source_count: 32
 ---
 
 # Security & Privacy Toolkit
@@ -45,6 +45,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The Microsoft crypto-clipper/backdoor remains the evening security item, reinforcing wallet-address monitoring, clipboard hygiene, Tor traffic detection, and worm-like persistence as operator controls.
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — The crypto-clipper/backdoor item persists into the morning dispatch, keeping wallet-address verification, clipboard skepticism, Tor egress alerts, and startup/persistence review on the operational checklist.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Microsoft crypto-clipper reporting repeats, Android verification stays in view, and Cloudflare temporary accounts for AI agents add scoped agent identity to the security perimeter.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Crypto-clipper reporting persists, while Linux eliminating `strncpy` adds memory-safety cleanup to the same practical security perimeter.
 
 ## Related Concepts
 
@@ -106,3 +107,5 @@ The evening repeat makes the control point durable rather than incidental. For c
 The June 20 morning repeat turns this from a single-item alert into a checklist item. Wallet workflows should be treated like credential workflows: verify the destination out of band, distrust clipboard-only transfer, monitor unexpected privacy-network traffic, and inspect persistence mechanisms after any suspicious download or repository interaction.
 
 The evening dispatch adds identity design for agents to the same checklist. Temporary, scoped AI-agent accounts are a cleaner pattern than letting automation borrow human credentials; they make revocation, auditing, and least privilege operational instead of aspirational.
+
+The June 21 daytime dispatch keeps wallet malware in the active checklist and adds a slower security lesson from Linux: dangerous legacy APIs can take years and hundreds of patches to eliminate. Security hygiene is therefore both immediate endpoint monitoring and long-cycle removal of sharp edges from foundational code.
