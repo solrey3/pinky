@@ -178,6 +178,23 @@ Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.
 - Phillies 15, Mets 3 — rough one in Philly; burn the tape. TV: MLB.TV
 - Twins 16, Diamondbacks 8 — crooked numbers everywhere. TV: MLB.TV, Twins.TV, DBACKS.TV
 
+**Upcoming MLB:**
+- Reds at Yankees — 1:35 PM EDT | TV: MLB.TV, Reds.TV, YES
+- Brewers at Braves — 1:35 PM EDT | TV: ESPN Unlmtd, BravesVision
+- White Sox at Tigers — 1:40 PM EDT | TV: MLB.TV, Tigers.TV, CHSN
+- Giants at Marlins — 1:40 PM EDT | TV: MLB.TV, NBC Sports BA, Marlins.TV
+- Nationals at Rays — 1:40 PM EDT | TV: MLB.TV, Rays.TV, Nationals.TV
+- Guardians at Astros — 2:10 PM EDT | TV: MLB.TV, CLEGuardians.TV, Space City Home Network
+- Cardinals at Royals — 2:10 PM EDT | TV: MLB.TV, Royals.TV, Cardinals.TV
+- Blue Jays at Cubs — 2:20 PM EDT | TV: MLB.TV, Marquee Sports Net, Sportsnet
+- Padres at Rangers — 2:35 PM EDT | TV: MLB.TV, Padres.TV, Rangers Sports Network
+- Pirates at Rockies — 3:10 PM EDT | TV: MLB.TV, Rockies.TV
+- Twins at Diamondbacks — 3:15 PM EDT | TV: Peacock
+- Angels at Athletics — 4:05 PM EDT | TV: MLB.TV, NBC Sports CA, Angels.TV
+- Orioles at Dodgers — 4:10 PM EDT | TV: MLB.TV, Sportsnet LA, MASN
+- Red Sox at Mariners — 4:10 PM EDT | TV: MLB.TV, Mariners.TV, NESN
+- Mets at Phillies — 7:20 PM EDT | TV: NBC
+
 ### 🏒 NHL
 - Upcoming: Winnipeg Jets at Edmonton Oilers | 9/19 - 8:00 PM EDT | TV: N/A
 
