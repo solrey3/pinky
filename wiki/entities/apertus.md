@@ -4,9 +4,9 @@ title: Apertus
 type: entity
 entity_type: product
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [ai, open-foundation-model, open-weights, sovereign-ai, model-governance]
-source_count: 1
+source_count: 2
 ---
 
 # Apertus
@@ -16,6 +16,8 @@ Apertus is tracked here as an open foundation model associated with the sovereig
 ## Sources
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apertus appears as an "Open Foundation Model for Sovereign AI," making it relevant to both open-weights/local-control strategy and institutional AI autonomy.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus again appears as an open foundation model for sovereign AI, confirming that the item is part of an ongoing model-control and institutional-autonomy thread.
 
 ## Related
 

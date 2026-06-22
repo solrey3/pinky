@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on]
-source_count: 10
+source_count: 11
 ---
 
 # Nvidia
@@ -26,6 +26,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Nvidia remains green at **$210.69**, **+2.84%**, still the AI bellwether while AMD and TSM carry the larger percentage moves.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket behind larger AMD and TSM moves.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket behind larger AMD and TSM moves.
 
 ## Related
 

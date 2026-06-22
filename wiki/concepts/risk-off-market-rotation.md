@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 28
+source_count: 29
 ---
 
 # Risk-Off Market Rotation
@@ -43,6 +43,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Sunday tables carry the same two-part regime: major indexes and semiconductors remain risk-on near highs, while WTI and Bitcoin remain non-confirming.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Evening tables repeat the two-part regime: indexes and semiconductors are risk-on near highs, while WTI and Bitcoin remain non-confirming.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Monday tables keep the risk-on equity phase intact: indexes and semiconductors are strong near highs, while oil is softer and Bitcoin is only bouncing from low-range territory.
 
 ## Related Concepts
 
@@ -107,3 +109,5 @@ The evening dispatch repeats that same structure and adds a useful narrative mis
 The June 21 daytime dispatch is not a fresh market session, but it confirms the weekend carry-forward. The label remains: equity risk-on, semiconductor-led, with macro dissonance from crude and Bitcoin. Vance/Iran/Hormuz headlines make that separation between narrative risk and price confirmation especially important.
 
 The June 21 evening dispatch keeps the same interpretation intact. Equities, small caps, and chips still show risk appetite, but crude and Bitcoin remain weak enough that the macro board should not be summarized as an all-asset rally.
+
+The June 22 daytime dispatch continues the two-part regime. The equity read is risk-on and semiconductor-led, but oil softness and Bitcoin’s low-range bounce keep the cross-asset board from becoming a clean all-risk rally. Hormuz normalization language makes price confirmation more important than headline tone.

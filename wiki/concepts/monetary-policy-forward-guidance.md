@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 7
+source_count: 8
 ---
 
 # Monetary Policy Forward Guidance
@@ -22,6 +22,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** range; this is current-rate context, not new Fed guidance.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not a new Fed communication signal.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is rate context, not new forward guidance.
 
 ## Related Concepts
 
@@ -44,3 +46,5 @@ The evening dispatch repeats the boundary. A Fed Decision in July prediction-mar
 The June 21 daytime dispatch is another context-only rate print. It matters because stable EFFR anchors the market tables, but it does not add policy intent, projections, or a changed communication strategy.
 
 The June 21 evening dispatch repeats the same boundary: a stable EFFR/target-range snapshot helps anchor the market tables, but it does not communicate a policy path or substitute for formal Fed guidance.
+
+The June 22 rate print is another boundary marker. A repeated EFFR/target-range snapshot helps anchor markets, but it does not reveal a reaction function, projection path, or deliberate expectations-management signal.

@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on]
-source_count: 8
+source_count: 9
 ---
 
 # AMD
@@ -24,6 +24,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — AMD remains at **$537.37**, **+10.02%**, making it the loudest single-name expression of the semiconductor-led risk-on tape.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — AMD again closes at **$537.37**, **+10.02%**, remaining the clearest single-name expression of semiconductor-led equity risk appetite.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — AMD remains at **$537.37**, **+10.02%**, still the loudest single-name expression of semiconductor-led equity risk appetite.
 
 ## Related
 

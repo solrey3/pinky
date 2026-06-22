@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification]
-source_count: 33
+source_count: 34
 ---
 
 # Security & Privacy Toolkit
@@ -48,6 +48,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Crypto-clipper reporting persists, while Linux eliminating `strncpy` adds memory-safety cleanup to the same practical security perimeter.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification and Microsoft crypto-clipper reporting keep account provenance, wallet-address verification, clipboard distrust, Tor monitoring, and persistence review in the active security perimeter.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Claude identity verification keeps account provenance and high-value AI account access controls in the active security perimeter.
 
 ## Related Concepts
 
@@ -113,3 +115,5 @@ The evening dispatch adds identity design for agents to the same checklist. Temp
 The June 21 daytime dispatch keeps wallet malware in the active checklist and adds a slower security lesson from Linux: dangerous legacy APIs can take years and hundreds of patches to eliminate. Security hygiene is therefore both immediate endpoint monitoring and long-cycle removal of sharp edges from foundational code.
 
 The evening dispatch adds account identity to the same practical checklist as wallet malware. Model-provider identity verification may feel like friction, but it belongs in the security graph because AI accounts increasingly carry billing authority, workspace access, API keys, and agent permissions.
+
+The June 22 repeat keeps AI account identity in the practical checklist. Claude/AI-provider accounts increasingly carry workspace access, billing authority, API access, and agent permissions, so identity verification belongs beside credential hygiene rather than in a separate “policy friction” bucket.

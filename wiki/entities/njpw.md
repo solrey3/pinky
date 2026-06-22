@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania]
-source_count: 21
+source_count: 22
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -41,6 +41,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-20 (Evening)**: Forbidden Door build continues with Shota Umino saying he will defend the IWGP Global Title against PAC, keeping New Japan's AEW crossover story active after Dominion fallout.
 - **2026-06-21 (Daytime)**: Forbidden Door card additions keep NJPW in the AEW crossover lane, while the ratings table again preserves Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star 2026 benchmark.
 
+- **2026-06-22 (Daytime)**: Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan in AEW crossover booking after Dominion fallout.
+
 ## Sources
 
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](sources/newsletter-2026-05-27.md) — Bushiroad transfers all NJPW shares to TV Asahi and CyberAgent; Tanahashi statement issued.
@@ -65,6 +67,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include NJPW-linked talent, and Tanahashi vs. Okada remains the six-star ratings-table anchor.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Forbidden Door build continues through an open challenge for the IWGP Tag Titles, keeping NJPW tied into AEW crossover booking.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan tied to AEW crossover title booking.
 
 ## Related
 

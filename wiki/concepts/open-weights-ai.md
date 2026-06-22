@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai]
-source_count: 2
+source_count: 3
 ---
 
 # Open-Weights AI
@@ -18,6 +18,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apertus appears as an open foundation model for sovereign AI, extending the open-weights thread from benchmark leadership into institutional autonomy.
 
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus repeats as an open foundation model for sovereign AI, confirming open weights/open models as governance infrastructure rather than only developer convenience.
+
 ## Related Concepts
 
 - [[AI-Augmented Development]]
@@ -29,3 +31,5 @@ AI models whose trained weights are released for outside use, inspection, adapta
 Open weights sit between fully closed frontier APIs and fully open reproducible systems. They can improve local control, cost predictability, privacy, and experimentation, but they also shift operational responsibility to the user: provenance, quantization quality, deployment security, eval discipline, and misuse controls no longer live entirely with a provider.
 
 The Apertus item broadens open weights from developer convenience to governance strategy. The key question is not only whether a model can be downloaded, but whether an institution can audit, host, adapt, and sustain it without depending entirely on closed external providers.
+
+The June 22 dispatch confirms the governance reading: open models become strategically important when they let institutions reduce provider dependency, run local or jurisdiction-specific infrastructure, and audit behavior under their own constraints.

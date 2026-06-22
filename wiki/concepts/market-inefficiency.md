@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-21
+updated: 2026-06-22
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 31
+source_count: 32
 ---
 
 # Market Inefficiency
@@ -46,6 +46,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Polymarket trending topics include UK PM Starmer, PGA U.S. Open, Spain-Saudi Arabia, and July Fed chatter, while Kalshi remains unavailable; still watchlist metadata, not forecast evidence.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Polymarket shows a Colombia presidential-election snapshot led by Abelardo de la Espriella at **99%**, while Kalshi is unavailable; without IDs, deltas, liquidity, timestamps, and resolution text, it remains watchlist metadata.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Polymarket shows World Cup and July Fed-decision trending labels while Kalshi is unavailable; the section remains watchlist metadata rather than forecast-grade evidence.
 
 ## Related Concepts
 
@@ -112,3 +114,5 @@ The evening source is even more clearly a provenance note. Trending labels for G
 The June 21 daytime dispatch preserves the same limitation. Starmer headlines, PGA winner markets, Spain-Saudi Arabia, and Fed-decision chatter are useful watchlist topics, but without prices, IDs, deltas, liquidity, timestamps, and resolution text they remain provenance artifacts.
 
 The June 21 evening prediction-market field is more numeric than some prior snippets, but it still lacks enough structure for forecast-grade use. A 99% label without market metadata is a prompt for follow-up, not a clean probability input.
+
+The June 22 dispatch repeats the same data-quality issue. Trending labels around World Cup and Fed decisions can identify topics worth checking manually, but without market IDs, odds, deltas, liquidity, timestamps, and resolution text, they should not be used as probability inputs.

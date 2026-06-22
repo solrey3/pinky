@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-06-20
+updated: 2026-06-22
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz]
-source_count: 5
+source_count: 6
 ---
 
 # Donald Trump
@@ -20,6 +20,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — The electronically signed Iran memorandum remains not final, while Trump frames ending the war as necessary to keep the economy from tanking.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Appears through continued Iran/negotiation feed context and a headline that a Qatar-gifted Boeing jet would become the new Air Force One storyline.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Defends the Iran MOU amid criticism while Hormuz-status ambiguity and Switzerland diplomacy keep Trump tied to the foreign-policy/economic-risk thread.
+
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Renews threats toward the New York Times over Iran coverage, keeping Trump in the press/institutional-conflict and Iran-policy thread.
 
 ## Related
 
