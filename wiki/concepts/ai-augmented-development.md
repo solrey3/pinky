@@ -4,8 +4,8 @@ title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-22
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux]
-source_count: 23
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls]
+source_count: 24
 ---
 
 # AI-Augmented Development
@@ -39,6 +39,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification, Apertus sovereign-AI coverage, and Apple Swift-in-the-kernel discussion show AI-era development spanning provider accounts, open model control, and low-level platform internals.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Deno Desktop, Claude identity verification, and Apertus sovereign-AI coverage show AI-era development spanning local runtimes, provider-account governance, and open-model control.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Codex logging, Steam Machine/SteamOS hardware chatter, and Anthropic export-ban coverage show AI-era development depending on ordinary tooling hygiene, OS/hardware platforms, and geopolitical access controls.
 
 ## Related Concepts
 
@@ -90,3 +92,5 @@ The June 21 daytime dispatch turns agentic AI back toward reliability engineerin
 The evening source ties three layers together: who can authenticate to frontier-model platforms, who can operate open foundation models independently, and what platform internals developers build on. AI-assisted development is therefore an access, sovereignty, and systems-literacy problem at once.
 
 The June 22 dispatch ties the software stack together vertically. Deno Desktop is runtime/application surface; Claude verification is account identity; Apertus is model-control strategy. AI-augmented development depends on all three layers staying trustworthy and operable.
+
+The June 22 evening source keeps AI development grounded in ordinary systems. A coding assistant that fills disks, a SteamOS hardware launch, and export-control pressure on model access all show that AI-era workflows depend on storage discipline, platform/runtime choices, and policy constraints as much as model capability.

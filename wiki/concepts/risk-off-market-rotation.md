@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-22
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 29
+source_count: 30
 ---
 
 # Risk-Off Market Rotation
@@ -45,6 +45,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Evening tables repeat the two-part regime: indexes and semiconductors are risk-on near highs, while WTI and Bitcoin remain non-confirming.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Monday tables keep the risk-on equity phase intact: indexes and semiconductors are strong near highs, while oil is softer and Bitcoin is only bouncing from low-range territory.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Monday evening closes with a cleaner risk-on board: S&P 500 +0.56%, Dow +1.00%, Nasdaq +1.07%, Russell 2000 +2.05%, TSM +10.32%, AMD +7.83%, Bitcoin +2.14%, and WTI +0.64%, though retail/REIT/Netflix pockets remain weak.
 
 ## Related Concepts
 
@@ -111,3 +113,5 @@ The June 21 daytime dispatch is not a fresh market session, but it confirms the 
 The June 21 evening dispatch keeps the same interpretation intact. Equities, small caps, and chips still show risk appetite, but crude and Bitcoin remain weak enough that the macro board should not be summarized as an all-asset rally.
 
 The June 22 daytime dispatch continues the two-part regime. The equity read is risk-on and semiconductor-led, but oil softness and Bitcoin’s low-range bounce keep the cross-asset board from becoming a clean all-risk rally. Hormuz normalization language makes price confirmation more important than headline tone.
+
+The June 22 evening close softens the prior caveat. Equities remain risk-on, but Bitcoin and WTI also turn positive, making the board less cross-asset-dissonant than the preceding weekend/daytime carry-forward. The weakness in retail, REITs, SCHD, and Netflix keeps the read selective rather than euphoric.

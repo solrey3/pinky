@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-06-18
-tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent]
-source_count: 3
+updated: 2026-06-22
+tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools]
+source_count: 4
 ---
 
 # OpenAI
@@ -22,6 +22,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI attributes an anti-data-center campaign in the U.S. to likely Chinese influence operators, tying AI infrastructure to information warfare and local political conflict.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Leaked financial documents are reported as showing OpenAI losing billions annually, foregrounding the cost structure of closed frontier-model operations.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Noam Shazeer says he is joining OpenAI, a talent-market signal that frontier competition is about personnel as well as compute, models, and distribution.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — A Codex logging bug may write terabytes to local SSDs, making OpenAI developer tooling a local reliability, storage, and operational-hygiene issue.
 
 ## Related
 

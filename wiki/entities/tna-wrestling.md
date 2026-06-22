@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-19
+updated: 2026-06-22
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts]
-source_count: 5
+source_count: 6
 ---
 
 # TNA Wrestling
@@ -20,6 +20,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — TNA and OVW are reportedly working toward a partnership, adding a business-development note after the workforce-reduction cycle.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — TNA Impact results appear in the morning wrestling digest, shifting the promotion's feed presence from workforce/partnership news back to weekly television output.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — TNA remains in the digest through arrivals/departures reporting and Trey Miguel signing a new deal, keeping roster stability and contracts in focus.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Tommy Dreamer accusations after a creative ouster keep TNA in a personnel/conduct and organizational-stability lane.
 
 ## Related
 

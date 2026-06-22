@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-06-22
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy]
-source_count: 4
+source_count: 5
 ---
 
 # Iran
@@ -21,6 +21,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Switzerland talks and Strait of Hormuz oil-flow normalization headlines keep Iran at the center of diplomacy, shipping risk, and crude-price interpretation.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Iran remains connected to media conflict, Strait of Hormuz oil-flow normalization, and the interpretation of softer crude prices.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Vance says Iran will allow nuclear inspectors into the country, keeping the Iran thread focused on diplomacy, verification, and oil/geopolitical risk.
 
 ## Related
 

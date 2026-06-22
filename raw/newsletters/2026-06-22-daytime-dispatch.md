@@ -195,4 +195,4 @@ created: 2026-06-22T10:02:02+00:00
 
 ## 👋 SIGN-OFF
 
-Have a good one, folks. Hydrate like you’re walking the Seaside boards in July, and don’t let the market tape steal your Taylor ham.
+Have a good one, folks. Hydrate like you’re walking the Seaside boards in July, and don’t let the market tape steal your pork roll.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-22
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions]
-source_count: 9
+source_count: 10
 ---
 
 # WWE
@@ -26,6 +26,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — WWE Raw in London is framed around King and Queen of the Ring finalist segments, keeping WWE in tournament-build mode.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — WWE Raw in London is previewed around King and Queen of the Ring finalist segments, keeping WWE in tournament-build mode.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Raw results shift from preview to outcome: Street Profits win the World Tag Titles, Lyra Valkyria turns on Bayley, and Joe Hendry returns.
 
 ## Related
 

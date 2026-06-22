@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-06-22
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz]
-source_count: 6
+source_count: 7
 ---
 
 # Donald Trump
@@ -22,6 +22,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Defends the Iran MOU amid criticism while Hormuz-status ambiguity and Switzerland diplomacy keep Trump tied to the foreign-policy/economic-risk thread.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Renews threats toward the New York Times over Iran coverage, keeping Trump in the press/institutional-conflict and Iran-policy thread.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Signs orders to boost quantum research and security, adding strategic technology policy to the current Trump/Iran/executive-action stream.
 
 ## Related
 

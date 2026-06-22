@@ -5,8 +5,8 @@ type: entity
 entity_type: organization
 created: 2026-05-28
 updated: 2026-06-22
-tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification]
-source_count: 16
+tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls]
+source_count: 17
 ---
 
 # Anthropic
@@ -60,6 +60,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification appears on the AI desk, adding account provenance and user-verification friction to Anthropic's platform-governance story.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Claude identity verification remains on the AI desk, reinforcing account provenance and access friction as part of Anthropic platform governance.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Coverage asks how Anthropic may have talked itself into an AI export ban, tying model-safety rhetoric and geopolitical access controls together.
 
 ## Related
 

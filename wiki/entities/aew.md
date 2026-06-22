@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-22
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel]
-source_count: 9
+source_count: 10
 ---
 
 # AEW
@@ -26,6 +26,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — AEW Collision discussion and Forbidden Door build remain central, with Maya World, Moné, Jericho, Ciampa, Matt Sydal, and FTR all in the evening wrestling cycle.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — AEW stays central through Forbidden Door/IWGP Tag Title open-challenge build, with Gates of Agony responding and NJPW crossover stakes attached.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — AEW appears through Swerve Strickland explaining meniscus surgery after All In Texas, keeping talent health and availability in the promotion feed.
 
 ## Related
 

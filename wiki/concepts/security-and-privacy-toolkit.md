@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-22
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification]
-source_count: 34
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging]
+source_count: 35
 ---
 
 # Security & Privacy Toolkit
@@ -50,6 +50,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification and Microsoft crypto-clipper reporting keep account provenance, wallet-address verification, clipboard distrust, Tor monitoring, and persistence review in the active security perimeter.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Claude identity verification keeps account provenance and high-value AI account access controls in the active security perimeter.
+
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — AMD memory-encryption reinstatement, Tesla Autopilot scrutiny, and a Codex logging bug show trust boundaries at firmware, autonomy/safety, and developer-tool storage layers.
 
 ## Related Concepts
 
@@ -117,3 +119,5 @@ The June 21 daytime dispatch keeps wallet malware in the active checklist and ad
 The evening dispatch adds account identity to the same practical checklist as wallet malware. Model-provider identity verification may feel like friction, but it belongs in the security graph because AI accounts increasingly carry billing authority, workspace access, API keys, and agent permissions.
 
 The June 22 repeat keeps AI account identity in the practical checklist. Claude/AI-provider accounts increasingly carry workspace access, billing authority, API access, and agent permissions, so identity verification belongs beside credential hygiene rather than in a separate “policy friction” bucket.
+
+The June 22 evening source is a clean operational-trust bundle. Memory encryption proves hardware security features need verification and vendor accountability; Autopilot scrutiny shows autonomy failures can harm bystanders outside the vehicle; and Codex logging shows AI developer tools can fail through mundane local-resource exhaustion rather than exotic model behavior.
