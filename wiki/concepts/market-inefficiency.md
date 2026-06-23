@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-23
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 34
+source_count: 35
 ---
 
 # Market Inefficiency
@@ -52,6 +52,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Polymarket shows a July Fed 50+ bps hike at **<1%** and World Cup fragments while Kalshi is unavailable; without IDs, deltas, liquidity, timestamps, and resolution text, the section remains provenance-limited.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Polymarket shows Colombia presidential-election probabilities led by Abelardo de la Espriella at **99%**, while Kalshi extraction fails; without market metadata, it remains watchlist context.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Polymarket trending topics include Colombia vs. DR Congo, World Cup Golden Boot, U.S.-Iran nuclear deal, Fed decision in July, and NBA Draft No. 1 pick; Kalshi remains unavailable, so the field stays watchlist metadata.
 
 ## Related Concepts
 
@@ -124,3 +126,5 @@ The June 22 dispatch repeats the same data-quality issue. Trending labels around
 The June 22 evening field is another provenance warning. A headline probability for a Fed decision can be directionally interesting, but without clean market metadata it should remain a prompt for manual checking rather than an input to a forecast.
 
 The June 23 Polymarket item is numeric but still weak. A 99% Colombia-election label may be worth checking manually, but without market ID, liquidity, previous price, timestamp, and resolution text it should not be treated as forecast-grade evidence.
+
+The evening prediction-market section broadens the topic list but not the evidence quality. Labels for World Cup, U.S.-Iran, Fed decisions, and the NBA Draft are useful prompts for manual checking; they are not probabilities until the feed includes IDs, liquidity, timestamps, deltas, and resolution text.

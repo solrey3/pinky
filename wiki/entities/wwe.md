@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-23
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw]
-source_count: 11
+source_count: 12
 ---
 
 # WWE
@@ -30,6 +30,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Raw results shift from preview to outcome: Street Profits win the World Tag Titles, Lyra Valkyria turns on Bayley, and Joe Hendry returns.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Raw fallout remains the lead wrestling item: Street Profits' tag-title win and Lyra Valkyria turning on Bayley carry into the daytime digest.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — WWE appears through Trick Williams and Lash Legend's marriage item and SmackDown spoiler chatter, shifting the evening feed from Raw results to personality/news-cycle coverage.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-23
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla]
-source_count: 7
+source_count: 8
 ---
 
 # CMLL
@@ -23,6 +23,8 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include CMLL-linked lucha talent alongside AEW and NJPW names, extending the cross-promotional lane.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — CMLL Lunes Clásico results from Arena Puebla keep Mexico-based lucha coverage in the squared-circle digest.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Mistico's challenge for a ROH title in CMLL keeps the promotion in the CMLL/ROH crossover lane.
 
 ## Related
 

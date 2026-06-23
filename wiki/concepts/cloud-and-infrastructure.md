@@ -4,8 +4,8 @@ title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-23
-tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http]
-source_count: 9
+tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors]
+source_count: 10
 ---
 
 # Cloud & Infrastructure
@@ -25,6 +25,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Texas requiring data centers to bring their own power and reuse water, plus HTTP QUERY protocol coverage, ties cloud infrastructure to physical resources and web/API semantics.
 
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Oracle's debt-funded AI investment/layoff framing and Samsung's stacked-FET item show AI infrastructure as capital structure, labor allocation, and semiconductor physics.
+
 ## Related Concepts
 
 - [[Container Orchestration]]
@@ -42,3 +44,5 @@ The June 20 evening dispatch adds two platform-operation primitives. Temporary a
 The June 21 daytime dispatch adds quieter plumbing. IPv6 adoption is not flashy, but crossing the 50% mark at Google scale indicates real network transition. Linux I/O APIs matter for the same reason: kernel primitives become application architecture constraints once workloads hit scale.
 
 The June 23 daytime dispatch makes the physical layer impossible to ignore. Data centers are not abstract cloud boxes; they are power, water, siting, regulation, and local politics. HTTP QUERY supplies the opposite end of the stack: tiny protocol semantics that still shape service behavior once traffic hits production.
+
+The evening dispatch adds the financing and silicon layers. Oracle's AI investment story connects infrastructure growth to debt and workforce cuts, while Samsung's 3D stacked-FET item shows that cloud capacity ultimately rests on transistor architecture as much as data-center siting.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-23
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 11
+source_count: 12
 ---
 
 # AEW
@@ -30,6 +30,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — AEW appears through Swerve Strickland explaining meniscus surgery after All In Texas, keeping talent health and availability in the promotion feed.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — AEW's June 24 Dynamite build includes Team MJF and Team Briscoe speaking, keeping television-promo setup in the promotion feed.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Tony Khan's “new pillars” framing and Kenny Omega vs. Zack Sabre Jr. Forbidden Door poster chatter keep AEW in talent-positioning and crossover-event build.
 
 ## Related
 

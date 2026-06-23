@@ -4,8 +4,8 @@ title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-23
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity]
-source_count: 25
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling]
+source_count: 26
 ---
 
 # AI-Augmented Development
@@ -43,6 +43,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Codex logging, Steam Machine/SteamOS hardware chatter, and Anthropic export-ban coverage show AI-era development depending on ordinary tooling hygiene, OS/hardware platforms, and geopolitical access controls.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — OpenAI DayBreak/GPT-5.5-Cyber, the HTTP QUERY method, Steam Machine hardware, and Jellyfin RCE notes show AI-era development sitting on security models, web semantics, platform hardware, and patch hygiene.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Oracle layoffs for AI investment, Stanford HAI hiring-bias findings, Unlimited OCR, and Samsung stacked-FET work show applied AI as labor economics, governance, parsing tools, and hardware physics at once.
 
 ## Related Concepts
 
@@ -98,3 +100,5 @@ The June 22 dispatch ties the software stack together vertically. Deno Desktop i
 The June 22 evening source keeps AI development grounded in ordinary systems. A coding assistant that fills disks, a SteamOS hardware launch, and export-control pressure on model access all show that AI-era workflows depend on storage discipline, platform/runtime choices, and policy constraints as much as model capability.
 
 The June 23 daytime source adds protocol and cyber-defense layers. Security-specialized models may help defenders, but development practice still depends on boring correctness: HTTP semantics, media-server patching, hardware security-feature verification, and platform compatibility.
+
+The evening source adds the institutional layer. AI tooling is not only code generation: OCR expands document automation, hiring algorithms create employment-governance risk, Oracle's restructuring shows financing and labor costs, and Samsung's transistor work reminds us that model capability still depends on physical compute progress.

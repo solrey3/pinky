@@ -5,8 +5,8 @@ type: entity
 entity_type: person
 created: 2026-06-17
 updated: 2026-06-23
-tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan]
-source_count: 8
+tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers]
+source_count: 9
 ---
 
 # Donald Trump
@@ -26,6 +26,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Signs orders to boost quantum research and security, adding strategic technology policy to the current Trump/Iran/executive-action stream.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Endorses John James in Michigan's governor race, keeping Trump in the 2026 electoral-map and Republican-primary influence thread.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — A Senate Iran war-powers resolution directs Trump to withdraw troops from the conflict, moving the Iran thread into congressional constraint and Republican defection territory.
 
 ## Related
 

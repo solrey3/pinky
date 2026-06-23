@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-23
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 31
+source_count: 32
 ---
 
 # Risk-Off Market Rotation
@@ -49,6 +49,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Monday evening closes with a cleaner risk-on board: S&P 500 +0.56%, Dow +1.00%, Nasdaq +1.07%, Russell 2000 +2.05%, TSM +10.32%, AMD +7.83%, Bitcoin +2.14%, and WTI +0.64%, though retail/REIT/Netflix pockets remain weak.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Tuesday tables keep equities risk-on near highs, led by Russell 2000 **+2.05%**, TSM **+10.32%**, and AMD **+7.83%**, while oil **-4.43%** and low-range Bitcoin restore some cross-asset caution.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — The close flips the read back toward risk-off rotation: S&P 500 **-2.50%**, Nasdaq **-4.11%**, Nvidia **-5.84%**, AMD **-5.01%**, and NFLX **-10.84%**, while Russell 2000 stays slightly green and oil/Bitcoin fall.
 
 ## Related Concepts
 
@@ -119,3 +121,5 @@ The June 22 daytime dispatch continues the two-part regime. The equity read is r
 The June 22 evening close softens the prior caveat. Equities remain risk-on, but Bitcoin and WTI also turn positive, making the board less cross-asset-dissonant than the preceding weekend/daytime carry-forward. The weakness in retail, REITs, SCHD, and Netflix keeps the read selective rather than euphoric.
 
 The June 23 daytime dispatch restores the two-part warning. Equities and semiconductors still show strong risk appetite, but oil's sharp drop and Bitcoin's low-range position mean the cross-asset board is again less convincing than the stock-index board.
+
+The June 23 evening close is a fast reversal of the daytime interpretation. Small caps are resilient, but the Nasdaq, Nvidia, AMD, Tesla, Netflix, oil, and Bitcoin all weaken enough to make the regime look like selective risk-off rotation again rather than semiconductor-led risk-on.

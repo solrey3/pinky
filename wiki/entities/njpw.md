@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-22
-tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania]
-source_count: 22
+updated: 2026-06-23
+tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
+source_count: 23
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -42,6 +42,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-21 (Daytime)**: Forbidden Door card additions keep NJPW in the AEW crossover lane, while the ratings table again preserves Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star 2026 benchmark.
 
 - **2026-06-22 (Daytime)**: Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan in AEW crossover booking after Dominion fallout.
+- **2026-06-23 (Evening)**: Road to G1 Climax results add Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot; the ratings table again preserves Tanahashi vs. Okada as the six-star 2026 benchmark.
 
 ## Sources
 
@@ -69,6 +70,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Forbidden Door build continues through an open challenge for the IWGP Tag Titles, keeping NJPW tied into AEW crossover booking.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan tied to AEW crossover title booking.
+
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Road to G1 Climax results move NJPW into summer tournament mode, adding Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot.
 
 ## Related
 
