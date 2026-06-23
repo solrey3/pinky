@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-22
-tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel]
-source_count: 10
+updated: 2026-06-23
+tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
+source_count: 11
 ---
 
 # AEW
@@ -28,6 +28,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — AEW stays central through Forbidden Door/IWGP Tag Title open-challenge build, with Gates of Agony responding and NJPW crossover stakes attached.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — AEW appears through Swerve Strickland explaining meniscus surgery after All In Texas, keeping talent health and availability in the promotion feed.
+
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — AEW's June 24 Dynamite build includes Team MJF and Team Briscoe speaking, keeping television-promo setup in the promotion feed.
 
 ## Related
 

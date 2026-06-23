@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-22
+updated: 2026-06-23
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 33
+source_count: 34
 ---
 
 # Market Inefficiency
@@ -50,6 +50,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Polymarket shows World Cup and July Fed-decision trending labels while Kalshi is unavailable; the section remains watchlist metadata rather than forecast-grade evidence.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Polymarket shows a July Fed 50+ bps hike at **<1%** and World Cup fragments while Kalshi is unavailable; without IDs, deltas, liquidity, timestamps, and resolution text, the section remains provenance-limited.
+
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Polymarket shows Colombia presidential-election probabilities led by Abelardo de la Espriella at **99%**, while Kalshi extraction fails; without market metadata, it remains watchlist context.
 
 ## Related Concepts
 
@@ -120,3 +122,5 @@ The June 21 evening prediction-market field is more numeric than some prior snip
 The June 22 dispatch repeats the same data-quality issue. Trending labels around World Cup and Fed decisions can identify topics worth checking manually, but without market IDs, odds, deltas, liquidity, timestamps, and resolution text, they should not be used as probability inputs.
 
 The June 22 evening field is another provenance warning. A headline probability for a Fed decision can be directionally interesting, but without clean market metadata it should remain a prompt for manual checking rather than an input to a forecast.
+
+The June 23 Polymarket item is numeric but still weak. A 99% Colombia-election label may be worth checking manually, but without market ID, liquidity, previous price, timestamp, and resolution text it should not be treated as forecast-grade evidence.

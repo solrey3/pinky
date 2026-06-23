@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-22
+updated: 2026-06-23
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 30
+source_count: 31
 ---
 
 # Risk-Off Market Rotation
@@ -47,6 +47,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Monday tables keep the risk-on equity phase intact: indexes and semiconductors are strong near highs, while oil is softer and Bitcoin is only bouncing from low-range territory.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Monday evening closes with a cleaner risk-on board: S&P 500 +0.56%, Dow +1.00%, Nasdaq +1.07%, Russell 2000 +2.05%, TSM +10.32%, AMD +7.83%, Bitcoin +2.14%, and WTI +0.64%, though retail/REIT/Netflix pockets remain weak.
+
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Tuesday tables keep equities risk-on near highs, led by Russell 2000 **+2.05%**, TSM **+10.32%**, and AMD **+7.83%**, while oil **-4.43%** and low-range Bitcoin restore some cross-asset caution.
 
 ## Related Concepts
 
@@ -115,3 +117,5 @@ The June 21 evening dispatch keeps the same interpretation intact. Equities, sma
 The June 22 daytime dispatch continues the two-part regime. The equity read is risk-on and semiconductor-led, but oil softness and Bitcoin’s low-range bounce keep the cross-asset board from becoming a clean all-risk rally. Hormuz normalization language makes price confirmation more important than headline tone.
 
 The June 22 evening close softens the prior caveat. Equities remain risk-on, but Bitcoin and WTI also turn positive, making the board less cross-asset-dissonant than the preceding weekend/daytime carry-forward. The weakness in retail, REITs, SCHD, and Netflix keeps the read selective rather than euphoric.
+
+The June 23 daytime dispatch restores the two-part warning. Equities and semiconductors still show strong risk appetite, but oil's sharp drop and Bitcoin's low-range position mean the cross-asset board is again less convincing than the stock-index board.

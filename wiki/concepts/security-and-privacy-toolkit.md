@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-22
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging]
-source_count: 35
+updated: 2026-06-23
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak]
+source_count: 36
 ---
 
 # Security & Privacy Toolkit
@@ -52,6 +52,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Claude identity verification keeps account provenance and high-value AI account access controls in the active security perimeter.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — AMD memory-encryption reinstatement, Tesla Autopilot scrutiny, and a Codex logging bug show trust boundaries at firmware, autonomy/safety, and developer-tool storage layers.
+
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — AMD memory-encryption reinstatement persists, OpenAI DayBreak/GPT-5.5-Cyber appears as a security-focused model item, and a Jellyfin RCE warning for versions below **10.11.7** puts self-hosted media servers back on the patch checklist.
 
 ## Related Concepts
 
@@ -121,3 +123,5 @@ The evening dispatch adds account identity to the same practical checklist as wa
 The June 22 repeat keeps AI account identity in the practical checklist. Claude/AI-provider accounts increasingly carry workspace access, billing authority, API access, and agent permissions, so identity verification belongs beside credential hygiene rather than in a separate “policy friction” bucket.
 
 The June 22 evening source is a clean operational-trust bundle. Memory encryption proves hardware security features need verification and vendor accountability; Autopilot scrutiny shows autonomy failures can harm bystanders outside the vehicle; and Codex logging shows AI developer tools can fail through mundane local-resource exhaustion rather than exotic model behavior.
+
+The June 23 daytime source reinforces the same full-stack perimeter. Hardware features, frontier cyber models, self-hosted media servers, and protocol/API changes all create operational trust boundaries; the practical response is verification, patching, scoped exposure, and skepticism toward defaults.

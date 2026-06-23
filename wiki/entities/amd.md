@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-06-22
+updated: 2026-06-23
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on]
-source_count: 10
+source_count: 11
 ---
 
 # AMD
@@ -28,6 +28,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — AMD remains at **$537.37**, **+10.02%**, still the loudest single-name expression of semiconductor-led equity risk appetite.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — AMD gains **+7.83%** and reinstates memory encryption in consumer CPUs after user backlash, combining semiconductor risk appetite with hardware-security provenance.
+
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — AMD remains up **+7.83%** near its 52-week high, while the memory-encryption reinstatement story keeps hardware-security provenance attached to the ticker.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: ROH
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-19
-tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title]
-source_count: 2
+updated: 2026-06-23
+tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings]
+source_count: 3
 ---
 
 # ROH
@@ -17,6 +17,8 @@ Ring of Honor, a professional wrestling promotion historically associated with w
 
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — ROH TV results were included in the overnight squared-circle digest, including Marina Shafir, AR Fox, and Katsuyori Shibata notes.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — ROH Global Wars Cincinnati results lead the wrestling digest, including multiple title matches and Lio Rush winning the ROH TV Title.
+
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — A Deonna Purrazzo bout stoppage at ROH tapings appears in the wrestling news feed, keeping ROH tied to AEW-adjacent talent and taping coverage.
 
 ## Related
 

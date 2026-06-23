@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-06-22
-tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools]
-source_count: 4
+updated: 2026-06-23
+tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak]
+source_count: 5
 ---
 
 # OpenAI
@@ -24,6 +24,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Noam Shazeer says he is joining OpenAI, a talent-market signal that frontier competition is about personnel as well as compute, models, and distribution.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — A Codex logging bug may write terabytes to local SSDs, making OpenAI developer tooling a local reliability, storage, and operational-hygiene issue.
+
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — OpenAI DayBreak / GPT-5.5-Cyber appears as a security-focused AI item, shifting the OpenAI thread from tooling reliability back toward cyber-defense capability.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-06-21"
-tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux]
-source_count: 8
+updated: 2026-06-23
+tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http]
+source_count: 9
 ---
 
 # Cloud & Infrastructure
@@ -23,6 +23,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare temporary accounts for AI agents and PostgresBench's reproducible benchmarking both belong to platform operations: identity, access, performance baselines, and service comparison.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Google reaching **50% IPv6** and Linux epoll/io_uring discussion are infrastructure signals: protocol adoption and kernel I/O primitives shape how services scale.
 
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Texas requiring data centers to bring their own power and reuse water, plus HTTP QUERY protocol coverage, ties cloud infrastructure to physical resources and web/API semantics.
+
 ## Related Concepts
 
 - [[Container Orchestration]]
@@ -38,3 +40,5 @@ The June 16 Iroh 1.0 note is not part of the current homelab stack, but it belon
 The June 20 evening dispatch adds two platform-operation primitives. Temporary agent accounts are identity infrastructure for automation, while PostgresBench-style reproducible tests are measurement infrastructure for database selection and capacity planning.
 
 The June 21 daytime dispatch adds quieter plumbing. IPv6 adoption is not flashy, but crossing the 50% mark at Google scale indicates real network transition. Linux I/O APIs matter for the same reason: kernel primitives become application architecture constraints once workloads hit scale.
+
+The June 23 daytime dispatch makes the physical layer impossible to ignore. Data centers are not abstract cloud boxes; they are power, water, siting, regulation, and local politics. HTTP QUERY supplies the opposite end of the stack: tiny protocol semantics that still shape service behavior once traffic hits production.
