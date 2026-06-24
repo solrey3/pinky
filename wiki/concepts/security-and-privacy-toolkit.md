@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-23
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems]
-source_count: 37
+updated: 2026-06-24
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure]
+source_count: 38
 ---
 
 # Security & Privacy Toolkit
@@ -56,6 +56,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — AMD memory-encryption reinstatement persists, OpenAI DayBreak/GPT-5.5-Cyber appears as a security-focused model item, and a Jellyfin RCE warning for versions below **10.11.7** puts self-hosted media servers back on the patch checklist.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Stanford HAI's AI hiring-bias item puts automated employment screening into the trust perimeter, where validation, auditability, appeals, and adverse-impact testing become operational controls.
+
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Post-quantum cryptography deadlines and normalized vulnerability-reporting practice turn security into migration planning plus ordinary disclosure triage.
 
 ## Related Concepts
 
@@ -129,3 +131,5 @@ The June 22 evening source is a clean operational-trust bundle. Memory encryptio
 The June 23 daytime source reinforces the same full-stack perimeter. Hardware features, frontier cyber models, self-hosted media servers, and protocol/API changes all create operational trust boundaries; the practical response is verification, patching, scoped exposure, and skepticism toward defaults.
 
 The evening source extends trust boundaries into hiring. If an automated screen can systemically reject protected groups, then model validation, data provenance, adverse-impact analysis, human review, and appeal channels are security/privacy-adjacent controls because they govern access to jobs and institutional due process.
+
+The June 24 source adds two operational chores. Post-quantum migration requires inventories, protocol replacement, and staged testing; vulnerability reports require reproducible templates, triage queues, severity rules, and maintainer capacity. Both are security work becoming normal operations.

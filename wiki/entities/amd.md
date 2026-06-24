@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-06-23
+updated: 2026-06-24
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 12
+source_count: 13
 ---
 
 # AMD
@@ -32,6 +32,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — AMD remains up **+7.83%** near its 52-week high, while the memory-encryption reinstatement story keeps hardware-security provenance attached to the ticker.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — AMD falls **-5.01%** into the close, reversing the earlier chip-led risk-on signal and putting semiconductors back into the risk-off/rotation frame.
+
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — AMD remains down **-5.01%**, confirming that the prior chip-led risk-on signal has reversed into semiconductor pressure.
 
 ## Related
 

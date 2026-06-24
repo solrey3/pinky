@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-06-23
-tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers]
-source_count: 9
+updated: 2026-06-24
+tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries]
+source_count: 10
 ---
 
 # Donald Trump
@@ -28,6 +28,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Endorses John James in Michigan's governor race, keeping Trump in the 2026 electoral-map and Republican-primary influence thread.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — A Senate Iran war-powers resolution directs Trump to withdraw troops from the conflict, moving the Iran thread into congressional constraint and Republican defection territory.
+
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Trump appears through primary-election framing: Mamdani's New York result is discussed in Trump-era terms and a Trump-endorsed candidate wins a GOP primary for Stefanik's House seat.
 
 ## Related
 

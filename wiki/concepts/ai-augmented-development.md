@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-23
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling]
-source_count: 26
+updated: 2026-06-24
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi]
+source_count: 27
 ---
 
 # AI-Augmented Development
@@ -45,6 +45,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — OpenAI DayBreak/GPT-5.5-Cyber, the HTTP QUERY method, Steam Machine hardware, and Jellyfin RCE notes show AI-era development sitting on security models, web semantics, platform hardware, and patch hygiene.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Oracle layoffs for AI investment, Stanford HAI hiring-bias findings, Unlimited OCR, and Samsung stacked-FET work show applied AI as labor economics, governance, parsing tools, and hardware physics at once.
+
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Vulnerability-report normalization, Raspberry Pi Pico W USB Wi-Fi tooling, and repeated Oracle AI-investment layoffs show AI-era development as security process, small hardware, and infrastructure economics.
 
 ## Related Concepts
 
@@ -102,3 +104,5 @@ The June 22 evening source keeps AI development grounded in ordinary systems. A 
 The June 23 daytime source adds protocol and cyber-defense layers. Security-specialized models may help defenders, but development practice still depends on boring correctness: HTTP semantics, media-server patching, hardware security-feature verification, and platform compatibility.
 
 The evening source adds the institutional layer. AI tooling is not only code generation: OCR expands document automation, hiring algorithms create employment-governance risk, Oracle's restructuring shows financing and labor costs, and Samsung's transistor work reminds us that model capability still depends on physical compute progress.
+
+The June 24 source adds the maintenance layer around that institutional frame. Developer/operator work includes ordinary vulnerability-report queues, post-quantum migration pressure, cheap hardware experiments, and the financing/labor reality behind AI infrastructure.

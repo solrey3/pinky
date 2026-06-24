@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-06-23
+updated: 2026-06-24
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 11
+source_count: 12
 ---
 
 # Monetary Policy Forward Guidance
@@ -30,6 +30,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not new forward guidance.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — The same EFFR/target-range snapshot anchors the evening selloff; it is rate-environment context, not a changed Fed reaction function.
+
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is rate context, not new Fed forward guidance.
 
 ## Related Concepts
 
@@ -60,3 +62,5 @@ The June 22 evening rate snapshot repeats the boundary: a current EFFR/target-ra
 The June 23 rate snapshot is the same evidence class. Stable EFFR helps interpret asset prices, but it does not communicate policy intent or update the reaction function.
 
 The evening dispatch repeats the boundary under different market conditions. A tech-led selloff can happen while EFFR is unchanged; do not turn a stable rate print into a policy narrative without actual Fed communication.
+
+The June 24 daytime dispatch keeps the same boundary in place. Repeated EFFR/target-range data helps anchor the market dashboard, but it still says nothing about the Fed's preferred path or reaction function.

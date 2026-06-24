@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-23
+updated: 2026-06-24
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 35
+source_count: 36
 ---
 
 # Market Inefficiency
@@ -54,6 +54,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Polymarket shows Colombia presidential-election probabilities led by Abelardo de la Espriella at **99%**, while Kalshi extraction fails; without market metadata, it remains watchlist context.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Polymarket trending topics include Colombia vs. DR Congo, World Cup Golden Boot, U.S.-Iran nuclear deal, Fed decision in July, and NBA Draft No. 1 pick; Kalshi remains unavailable, so the field stays watchlist metadata.
+
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Polymarket surfaces U.S.-Iran nuclear-deal timing and Switzerland-Canada topics, but no clean movement percentages are fetched and Kalshi remains unavailable.
 
 ## Related Concepts
 
@@ -128,3 +130,5 @@ The June 22 evening field is another provenance warning. A headline probability 
 The June 23 Polymarket item is numeric but still weak. A 99% Colombia-election label may be worth checking manually, but without market ID, liquidity, previous price, timestamp, and resolution text it should not be treated as forecast-grade evidence.
 
 The evening prediction-market section broadens the topic list but not the evidence quality. Labels for World Cup, U.S.-Iran, Fed decisions, and the NBA Draft are useful prompts for manual checking; they are not probabilities until the feed includes IDs, liquidity, timestamps, deltas, and resolution text.
+
+The June 24 daytime section repeats the same failure mode. Topic labels around a U.S.-Iran nuclear deal and Switzerland-Canada are watchlist prompts only; without movement percentages, market IDs, timestamps, liquidity, and resolution language, the feed remains provenance metadata.
