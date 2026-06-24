@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-24
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure]
-source_count: 38
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use]
+source_count: 39
 ---
 
 # Security & Privacy Toolkit
@@ -58,6 +58,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Stanford HAI's AI hiring-bias item puts automated employment screening into the trust perimeter, where validation, auditability, appeals, and adverse-impact testing become operational controls.
 
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Post-quantum cryptography deadlines and normalized vulnerability-reporting practice turn security into migration planning plus ordinary disclosure triage.
+
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — FCC prepaid-phone ID policy and Gemini computer-use capability both put identity, permissioning, auditability, and privacy tradeoffs back into the operational security perimeter.
 
 ## Related Concepts
 
@@ -133,3 +135,5 @@ The June 23 daytime source reinforces the same full-stack perimeter. Hardware fe
 The evening source extends trust boundaries into hiring. If an automated screen can systemically reject protected groups, then model validation, data provenance, adverse-impact analysis, human review, and appeal channels are security/privacy-adjacent controls because they govern access to jobs and institutional due process.
 
 The June 24 source adds two operational chores. Post-quantum migration requires inventories, protocol replacement, and staged testing; vulnerability reports require reproducible templates, triage queues, severity rules, and maintainer capacity. Both are security work becoming normal operations.
+
+The evening source adds identity-policy pressure at two layers. Agentic computer use needs scoped permissions, logs, and human-visible controls; prepaid-phone ID mandates may reduce abuse but also narrow lawful anonymity. Both should be evaluated as control design, not only as capability or crime-prevention headlines.

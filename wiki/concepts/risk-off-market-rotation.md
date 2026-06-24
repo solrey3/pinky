@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-24
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 33
+source_count: 34
 ---
 
 # Risk-Off Market Rotation
@@ -53,6 +53,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — The close flips the read back toward risk-off rotation: S&P 500 **-2.50%**, Nasdaq **-4.11%**, Nvidia **-5.84%**, AMD **-5.01%**, and NFLX **-10.84%**, while Russell 2000 stays slightly green and oil/Bitcoin fall.
 
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Wednesday morning preserves the risk-off/split-tape read: Nasdaq **-4.11%**, S&P 500 **-2.50%**, Nvidia **-5.84%**, AMD **-5.01%**, oil **-5.93%**, and Bitcoin **-2.61%**, while Russell 2000 stays slightly green.
+
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — The close remains selective risk-off: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-8.79%**, and Bitcoin **-4.89%**, while Russell 2000 **+1.61%**, TSM **+3.52%**, and AMD **+2.45%** keep the tape from being uniform liquidation.
 
 ## Related Concepts
 
@@ -127,3 +129,5 @@ The June 23 daytime dispatch restores the two-part warning. Equities and semicon
 The June 23 evening close is a fast reversal of the daytime interpretation. Small caps are resilient, but the Nasdaq, Nvidia, AMD, Tesla, Netflix, oil, and Bitcoin all weaken enough to make the regime look like selective risk-off rotation again rather than semiconductor-led risk-on.
 
 The June 24 daytime dispatch confirms that this was not just an evening blip. The same numbers carry forward: tech remains weak, oil and Bitcoin confirm caution, and Russell 2000 resilience keeps the pattern selective rather than an indiscriminate liquidation.
+
+The June 24 evening close preserves that diagnosis but makes the semiconductor read less one-sided. Nvidia remains weak, but AMD and TSM rebound; the Russell 2000 is green near highs while oil and Bitcoin sell off. This is a rotation/sorting tape, not a clean all-asset panic.

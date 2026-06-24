@@ -4,8 +4,8 @@ title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-24
-tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware]
-source_count: 11
+tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes]
+source_count: 12
 ---
 
 # Cloud & Infrastructure
@@ -29,6 +29,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Oracle's AI-investment layoffs repeat, while a Raspberry Pi Pico W USB Wi-Fi adapter project keeps small hardware/networking in the operator-infrastructure frame.
 
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — OpenAI/Broadcom custom silicon and Qualcomm's Modular acquisition show AI infrastructure spanning chips, compilers, runtimes, and platform economics.
+
 ## Related Concepts
 
 - [[Container Orchestration]]
@@ -50,3 +52,5 @@ The June 23 daytime dispatch makes the physical layer impossible to ignore. Data
 The evening dispatch adds the financing and silicon layers. Oracle's AI investment story connects infrastructure growth to debt and workforce cuts, while Samsung's 3D stacked-FET item shows that cloud capacity ultimately rests on transistor architecture as much as data-center siting.
 
 The June 24 source keeps infrastructure grounded at both ends of the stack: Oracle shows cloud/AI expansion as capital allocation and layoffs, while a Pico W Wi-Fi-adapter project shows useful infrastructure can also be tiny, cheap, and hardware-hacker shaped.
+
+The evening source adds vertical integration to the infrastructure frame. AI capacity is shaped not only by data centers but also by custom accelerators, foundry partnerships, compilers, runtimes, app-store economics, and the business deals that bind those layers together.

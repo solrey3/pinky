@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-06-24
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off]
-source_count: 15
+source_count: 16
 ---
 
 # Nvidia
@@ -36,6 +36,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Nvidia drops **-5.84%** in the evening close, making the AI-chip bellwether part of the Nasdaq-led selloff rather than a stabilizing leader.
 
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Nvidia remains down **-5.84%**, keeping the AI-chip bellwether inside the Nasdaq-led risk-off tape.
+
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Nvidia closes **-4.05%**, still a pressure point in the Nasdaq-led selloff even as AMD and TSM recover.
 
 ## Related
 

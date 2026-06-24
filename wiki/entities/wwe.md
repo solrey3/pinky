@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-23
-tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw]
-source_count: 12
+updated: 2026-06-24
+tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt]
+source_count: 13
 ---
 
 # WWE
@@ -32,6 +32,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Raw fallout remains the lead wrestling item: Street Profits' tag-title win and Lyra Valkyria turning on Bayley carry into the daytime digest.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — WWE appears through Trick Williams and Lash Legend's marriage item and SmackDown spoiler chatter, shifting the evening feed from Raw results to personality/news-cycle coverage.
+
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — WWE appears through Cody Rhodes/Brandi Rhodes chatter and NXT fallout, keeping the promotion in personality-news and developmental-TV lanes.
 
 ## Related
 

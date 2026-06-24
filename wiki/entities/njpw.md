@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-23
+updated: 2026-06-24
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 23
+source_count: 24
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -43,6 +43,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 
 - **2026-06-22 (Daytime)**: Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan in AEW crossover booking after Dominion fallout.
 - **2026-06-23 (Evening)**: Road to G1 Climax results add Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot; the ratings table again preserves Tanahashi vs. Okada as the six-star 2026 benchmark.
+- **2026-06-24 (Evening)**: Full G1 Climax lineups are released and Forbidden Door coverage stays active through AEW/NJPW items, keeping New Japan in both summer tournament and crossover-event lanes.
 
 ## Sources
 
@@ -72,6 +73,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan tied to AEW crossover title booking.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Road to G1 Climax results move NJPW into summer tournament mode, adding Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot.
+
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — NJPW releases full G1 Climax lineups while Forbidden Door items keep the AEW/NJPW crossover story active.
 
 ## Related
 

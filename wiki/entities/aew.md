@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-24
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 13
+source_count: 14
 ---
 
 # AEW
@@ -34,6 +34,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Tony Khan's “new pillars” framing and Kenny Omega vs. Zack Sabre Jr. Forbidden Door poster chatter keep AEW in talent-positioning and crossover-event build.
 
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — The June 24 Dynamite card keeps AEW in live-TV card-building mode alongside NXT and CMLL results.
+
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — AEW Dynamite preview and Forbidden Door notes keep AEW in live-card build and NJPW crossover mode.
 
 ## Related
 
