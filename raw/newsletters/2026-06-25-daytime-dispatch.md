@@ -142,7 +142,7 @@ Tour de France standings: *[Data unavailable]*
 ### ⚽ Soccer — FIFA World Cup
 **Completed:** Bosnia-Herzegovina 3, Qatar 1; Switzerland 2, Canada 1; Morocco 4, Haiti 2; Brazil 3, Scotland 0; South Africa 1, South Korea 0; Mexico 3, Czechia 0.
 
-**Upcoming:** Germany vs Ecuador and Ivory Coast vs Curaçao at 4:00 PM EDT; Sweden vs Japan and Netherlands vs Tunisia at 7:00 PM EDT; Australia vs Paraguay at 10:00 PM EDT.
+**Upcoming:** Germany vs Ecuador and Ivory Coast vs Curaçao at 4:00 PM EDT; Sweden vs Japan and Netherlands vs Tunisia at 7:00 PM EDT; Australia vs Paraguay and **United States vs Türkiye** at 10:00 PM EDT. **USA–Türkiye is on FOX / FOX One / Tele.**
 
 ### 📦 Team Reports
 > **NY Mets:** Lost both ends vs Cubs, **10–3** and **10–5**; Cubs again tonight at **7:10 PM EDT** on MLB.TV/Marquee/SNY.  
