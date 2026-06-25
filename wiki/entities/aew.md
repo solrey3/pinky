@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-25
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 15
+source_count: 16
 ---
 
 # AEW
@@ -38,6 +38,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — AEW Dynamite preview and Forbidden Door notes keep AEW in live-card build and NJPW crossover mode.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — AEW Dynamite results include Konosuke Takeshita defending the International title against Ricochet on the Forbidden Door go-home show, keeping AEW in live-results and crossover-build mode.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — AEW leads the evening wrestling digest through Forbidden Door logistics, Tony Khan media-call notes, and Dynamite go-home results.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-25
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 38
+source_count: 39
 ---
 
 # Market Inefficiency
@@ -60,6 +60,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Polymarket trending boards include World Cup props, a July Fed decision, SAVE Act/Save America Act, and U.S.-Iran nuclear-deal markets, while Kalshi remains unavailable.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Polymarket surfaces U.S.-Iran nuclear-deal and World Cup Golden Boot topics while Kalshi is unavailable; without odds, deltas, liquidity, IDs, and timestamps, the section remains watchlist metadata.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Polymarket provides World Cup matchup percentages, but Kalshi remains unavailable and the feed still lacks IDs, deltas, liquidity, timestamps, and resolution terms.
 
 ## Related Concepts
 
@@ -140,3 +142,5 @@ The June 24 daytime section repeats the same failure mode. Topic labels around a
 The evening section broadens the watchlist but not the evidence quality. World Cup, Fed, SAVE Act, and U.S.-Iran labels are useful prompts; without IDs, liquidity, deltas, timestamps, and resolution terms, they remain collection metadata rather than forecast inputs.
 
 The June 25 prediction-market section repeats the same provenance failure. Topic labels are useful prompts, but no odds or movement values means the feed cannot be treated as forecast-grade evidence.
+
+The evening dispatch has more numbers than the daytime item, but still not enough structure. United States 55% vs. Türkiye 25% and Netherlands 89% vs. Tunisia 4% are watchlist prompts; without market identity, liquidity, prior prices, timestamps, and resolution language, they are not forecast-grade evidence.

@@ -3,9 +3,9 @@ id: 3cd688d5-2486-4f40-be9a-1a20476b4c97
 title: LLM Wiki pattern
 type: concept
 created: 2026-05-09
-updated: 2026-05-09
-tags: [llm, architecture, knowledge-management, karpathy]
-source_count: 1
+updated: 2026-06-25
+tags: [llm, architecture, knowledge-management, karpathy, ai-first-notes, openknowledge]
+source_count: 2
 ---
 
 # LLM Wiki Pattern
@@ -43,9 +43,11 @@ The pattern has three layers:
 ## Sources
 
 - [2026-05-09: LLM Wiki — A Pattern for Building Personal Knowledge Bases Using LLMs](../sources/karpathy-llm-wiki-pattern.md) — Original proposal.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — OpenKnowledge appears as an open-source AI-first alternative to Obsidian/Notion, showing that LLM-native knowledge bases are becoming a visible product category.
 
 ## Related Concepts
 
 - [[Compounding knowledge]] — the key advantage of this pattern over RAG
 - [[Zettelkasten]] — the linked-note philosophy our wiki architecture implements
 - [[PARA]] — the actionability framework governing raw-source lifecycle
+- [[OpenKnowledge]] — an AI-first knowledge-management product appearing in the June 25 evening dispatch

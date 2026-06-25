@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-06-25
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 14
+source_count: 15
 ---
 
 # Monetary Policy Forward Guidance
@@ -36,6 +36,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — The evening rate snapshot repeats EFFR **3.63%** inside the **3.50%–3.75%** target range; it anchors the market table without adding a Fed reaction-function update.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the print anchors the market dashboard but does not add a Fed communication update.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Evening EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not forward guidance.
 
 ## Related Concepts
 
@@ -72,3 +74,5 @@ The June 24 daytime dispatch keeps the same boundary in place. Repeated EFFR/tar
 The evening dispatch repeats the same evidence class under a different close. Stable EFFR can coexist with a Nasdaq-led selloff, so it should remain context rather than a causal explanation without actual Fed communication.
 
 The June 25 rate snapshot repeats the same boundary. Stable EFFR is useful context for markets, but without Fed communication it should not be read as a forward-guidance signal or reaction-function change.
+
+The evening snapshot repeats the same evidence class under a small-cap-led split close. The rate print anchors the dashboard, but the source provides no Fed communication, projection, or deliberate expectations-management signal.

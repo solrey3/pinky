@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-06-25
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba]
-source_count: 18
+source_count: 19
 ---
 
 # Anthropic
@@ -17,7 +17,9 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## 2026 Milestones
 
-- **June 25, 2026**: Anthropic says Alibaba illicitly extracted Claude model capabilities. The governance issue is not only what Claude refuses or allows, but whether a third party can copy capabilities through prohibited probing or distillation.
+- **June 25, 2026 (Evening)**: The Alibaba/Claude cloning allegation remains in the evening cycle, confirming capability extraction as a durable platform-security issue rather than a single daytime headline.
+
+- **June 25, 2026 (Daytime)**: Anthropic says Alibaba illicitly extracted Claude model capabilities. The governance issue is not only what Claude refuses or allows, but whether a third party can copy capabilities through prohibited probing or distillation.
 
 - **June 17, 2026**: Anthropic paused token-based billing for the Claude Agent SDK, adding pricing and metering design to the model-governance story. Agentic developer tools now need sustainable billing mechanics as much as safety boundaries and capability releases.
 
@@ -66,6 +68,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Coverage asks how Anthropic may have talked itself into an AI export ban, tying model-safety rhetoric and geopolitical access controls together.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic says Alibaba illicitly extracted Claude model capabilities, shifting the Anthropic governance thread from refusals and access controls into capability-protection and platform-abuse monitoring.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Anthropic/Alibaba cloning allegation remains in the evening AI desk, reinforcing model-capability extraction as a standing security and platform-enforcement concern.
 
 ## Related
 

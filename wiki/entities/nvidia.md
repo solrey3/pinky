@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-06-25
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 17
+source_count: 18
 ---
 
 # Nvidia
@@ -40,6 +40,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Nvidia closes **-4.05%**, still a pressure point in the Nasdaq-led selloff even as AMD and TSM recover.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Nvidia falls **-4.05%** in the stock watch and appears through a 45°C liquid-cooling design that claims near-zero data-center water use, tying the AI-chip story to facility engineering.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Nvidia drops **-4.35%**, keeping the AI bellwether in the pressured mega-cap/tech side of the split tape while AMD and TSM hold up better.
 
 ## Related
 

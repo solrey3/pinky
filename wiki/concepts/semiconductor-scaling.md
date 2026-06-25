@@ -4,8 +4,8 @@ title: Semiconductor Scaling
 type: concept
 created: 2026-06-23
 updated: 2026-06-25
-tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling]
-source_count: 3
+tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer]
+source_count: 4
 ---
 
 # Semiconductor Scaling
@@ -18,6 +18,8 @@ Semiconductor scaling is the continued improvement of chip density, performance,
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — OpenAI's Broadcom-built custom chip and Qualcomm's Modular acquisition extend the scaling story from transistor geometry into accelerator specialization and compiler/runtime integration.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — OpenAI/Broadcom's custom inference chip and Nvidia's high-temperature liquid-cooling item extend semiconductor scaling into workload-specific accelerators and facility-level thermal/resource design.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — IBM's claimed sub-1 nanometer chip technology pulls the scaling thread back toward process/transistor breakthroughs alongside AI-infrastructure economics.
 
 ## Related Concepts
 
@@ -32,3 +34,5 @@ The newsletter item is a reminder that AI capability is not just a model-archite
 The June 24 evening source adds the stack-integration side of scaling. Custom accelerators and compiler/runtime acquisitions are not transistor breakthroughs, but they can still improve effective performance per dollar by matching models, kernels, memory movement, and deployment software more tightly to the hardware.
 
 The June 25 daytime source broadens scaling again. Custom inference chips improve effective performance and cost by matching silicon to LLM deployment, while liquid-cooling design reminds us that compute scaling also depends on heat rejection, water use, power density, and data-center engineering.
+
+The June 25 evening source adds IBM's process-technology claim. Even when the AI market conversation focuses on accelerators, racks, and cooling, the underlying race still includes smaller devices, new materials, transistor architecture, and manufacturable process nodes.

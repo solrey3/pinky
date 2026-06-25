@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-06-25
 tags: [person, wrestling, aew, championship]
-source_count: 3
+source_count: 4
 ---
 
 # Konosuke Takeshita
@@ -38,6 +38,8 @@ source_count: 3
 - [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](../sources/newsletter-2026-05-31.md) — **Retains AEW championship on AEW Collision (May 30)**; mass brawl erupts post-match. Survival of the Fittest tournament announced to crown new TBS Champion; Finals set for Jul 1 Dynamite. STARDOM's Hazuki debuts in AEW on the same show, signaling renewed women's division investment.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Takeshita defends the AEW International title against Ricochet on Dynamite, extending his 2026 AEW champion thread.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Dynamite result remains in the evening wrestling digest, keeping Takeshita's International-title defense in the Forbidden Door go-home narrative.
 
 ## Related
 

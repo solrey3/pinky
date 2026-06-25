@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-25
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 35
+source_count: 36
 ---
 
 # Risk-Off Market Rotation
@@ -57,6 +57,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — The close remains selective risk-off: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-8.79%**, and Bitcoin **-4.89%**, while Russell 2000 **+1.61%**, TSM **+3.52%**, and AMD **+2.45%** keep the tape from being uniform liquidation.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Thursday morning preserves the selective risk-off read: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-7.12%**, and Bitcoin **-2.52%** are weak, but Russell 2000 **+1.61%**, AMD **+2.45%**, and TSM **+3.52%** remain resilient.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The evening close sharpens the split: Nasdaq **-2.55%** and Bitcoin **-5.08%** are weak, while Russell 2000 **+3.08%**, Dow **+0.83%**, AMD **+3.92%**, and TSM **+0.66%** show internal risk appetite.
 
 ## Related Concepts
 
@@ -135,3 +137,5 @@ The June 24 daytime dispatch confirms that this was not just an evening blip. Th
 The June 24 evening close preserves that diagnosis but makes the semiconductor read less one-sided. Nvidia remains weak, but AMD and TSM rebound; the Russell 2000 is green near highs while oil and Bitcoin sell off. This is a rotation/sorting tape, not a clean all-asset panic.
 
 The June 25 daytime dispatch confirms the rotation/sorting diagnosis. The pressure is real in Nasdaq, mega-cap growth, oil, and Bitcoin, but small caps and selected chip/foundry exposure still hold up. That makes this a split tape rather than a broad liquidation signal.
+
+The June 25 evening close strengthens that conclusion. Small caps are no longer merely resilient; Russell 2000 is the loud positive move at +3.08%. Bitcoin and mega-cap tech remain pressured, so the regime is still split rather than risk-on everywhere.

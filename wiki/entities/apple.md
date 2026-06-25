@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-21
+updated: 2026-06-25
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift]
-source_count: 7
+source_count: 8
 ---
 
 # Apple
@@ -23,6 +23,8 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Apple patches a high-severity eavesdropping vulnerability in Beats Studio Buds, showing that peripheral firmware belongs in the same security-maintenance perimeter as phones and Macs.
 
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apple appears through iOS 27 feature coverage and a Swift-in-the-kernel item, extending the platform story from consumer features into systems-language internals.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Apple raises prices on Macs and iPads, adding consumer-hardware affordability and platform-pricing pressure to the Apple thread.
 
 ## Related
 

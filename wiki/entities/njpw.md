@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-24
+updated: 2026-06-25
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 24
+source_count: 25
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -44,6 +44,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-22 (Daytime)**: Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan in AEW crossover booking after Dominion fallout.
 - **2026-06-23 (Evening)**: Road to G1 Climax results add Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot; the ratings table again preserves Tanahashi vs. Okada as the six-star 2026 benchmark.
 - **2026-06-24 (Evening)**: Full G1 Climax lineups are released and Forbidden Door coverage stays active through AEW/NJPW items, keeping New Japan in both summer tournament and crossover-event lanes.
+- **2026-06-25 (Evening)**: NOAH Legacy Rise coverage and the recurring Tanahashi/Okada Wrestle Kingdom 20 rating keep NJPW visible through puroresu ecosystem news even when the lead item is not a New Japan card.
 
 ## Sources
 
@@ -75,6 +76,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Road to G1 Climax results move NJPW into summer tournament mode, adding Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot.
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — NJPW releases full G1 Climax lineups while Forbidden Door items keep the AEW/NJPW crossover story active.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — NOAH Legacy Rise coverage appears alongside the recurring Tanahashi vs. Okada Wrestle Kingdom 20 ratings-table benchmark, keeping Japanese-promotion context in the daily wrestling graph.
 
 ## Related
 

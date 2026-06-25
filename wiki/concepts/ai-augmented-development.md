@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-25
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling]
-source_count: 29
+source_count: 30
 ---
 
 # AI-Augmented Development
@@ -51,6 +51,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Gemini 3.5 Flash computer use, OpenAI/Broadcom custom silicon, and Qualcomm's Modular acquisition show the AI developer stack tightening across agents, chips, compilers, and runtimes.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — OpenAI/Broadcom inference silicon, Anthropic/Alibaba capability-extraction allegations, and Nvidia data-center cooling show the AI stack spanning hardware, provider security, and physical deployment constraints.
+
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — IBM sub-1 nm chip claims, repeated Anthropic/Alibaba cloning allegations, and OpenKnowledge's AI-first note-taking/productivity angle show AI-era development spanning hardware, provider security, and knowledge-work tooling.
 
 ## Related Concepts
 
@@ -114,3 +116,5 @@ The June 24 source adds the maintenance layer around that institutional frame. D
 The evening source adds vertical integration. AI development is no longer just models and prompts: computer-use agents need desktop/browser control boundaries, custom chips shape cost and availability, and compiler/runtime acquisitions decide which workloads run efficiently on which hardware.
 
 The June 25 source adds capability protection to the developer/operator stack. AI tooling depends on inference economics and data-center thermals, but it also depends on providers being able to detect and deter illicit capability extraction from their APIs and products.
+
+The evening source adds the knowledge-work surface. AI-first alternatives to Obsidian and Notion matter because developer workflows increasingly merge coding, notes, retrieval, automation, and agent-maintained context into one operational environment.
