@@ -4,14 +4,14 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-06-24
-tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom]
-source_count: 6
+updated: 2026-06-25
+tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip]
+source_count: 7
 ---
 
 # OpenAI
 
-AI lab and platform company behind ChatGPT, frontier models, and AI infrastructure products. In the newsletter stream, OpenAI appears as both a frontier-model actor and a public voice on AI-adjacent information operations. The June 18 evening item adds a talent-market layer: marquee researchers remain strategic assets even as frontier-model economics look capital-intensive. The June 24 evening item adds a custom-silicon lane through a Broadcom-built OpenAI chip.
+AI lab and platform company behind ChatGPT, frontier models, and AI infrastructure products. In the newsletter stream, OpenAI appears as both a frontier-model actor and a public voice on AI-adjacent information operations. The June 18 evening item adds a talent-market layer: marquee researchers remain strategic assets even as frontier-model economics look capital-intensive. The June 24 evening and June 25 daytime items add a custom-silicon lane through a Broadcom-built OpenAI inference chip.
 
 ## 2026 Notes
 
@@ -28,6 +28,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — OpenAI DayBreak / GPT-5.5-Cyber appears as a security-focused AI item, shifting the OpenAI thread from tooling reliability back toward cyber-defense capability.
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — OpenAI unveils its first custom chip, built by Broadcom, extending the company's infrastructure strategy into vertically integrated AI hardware.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — OpenAI and Broadcom announce a custom inference chip for LLM deployment at scale, reinforcing OpenAI's move from model/API provider into vertically integrated AI infrastructure.
 
 ## Related
 

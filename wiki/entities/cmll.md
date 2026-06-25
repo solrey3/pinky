@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-24
-tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla]
-source_count: 9
+updated: 2026-06-25
+tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
+source_count: 10
 ---
 
 # CMLL
@@ -27,6 +27,8 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Mistico's challenge for a ROH title in CMLL keeps the promotion in the CMLL/ROH crossover lane.
 
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Martes de Arena México results keep CMLL in the regular lucha-results stream alongside AEW and NXT card/results coverage.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — CMLL Verano results keep the promotion in the regular lucha-libre results stream.
 
 ## Related
 

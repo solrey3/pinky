@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-24
+updated: 2026-06-25
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 37
+source_count: 38
 ---
 
 # Market Inefficiency
@@ -58,6 +58,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Polymarket surfaces U.S.-Iran nuclear-deal timing and Switzerland-Canada topics, but no clean movement percentages are fetched and Kalshi remains unavailable.
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Polymarket trending boards include World Cup props, a July Fed decision, SAVE Act/Save America Act, and U.S.-Iran nuclear-deal markets, while Kalshi remains unavailable.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Polymarket surfaces U.S.-Iran nuclear-deal and World Cup Golden Boot topics while Kalshi is unavailable; without odds, deltas, liquidity, IDs, and timestamps, the section remains watchlist metadata.
 
 ## Related Concepts
 
@@ -136,3 +138,5 @@ The evening prediction-market section broadens the topic list but not the eviden
 The June 24 daytime section repeats the same failure mode. Topic labels around a U.S.-Iran nuclear deal and Switzerland-Canada are watchlist prompts only; without movement percentages, market IDs, timestamps, liquidity, and resolution language, the feed remains provenance metadata.
 
 The evening section broadens the watchlist but not the evidence quality. World Cup, Fed, SAVE Act, and U.S.-Iran labels are useful prompts; without IDs, liquidity, deltas, timestamps, and resolution terms, they remain collection metadata rather than forecast inputs.
+
+The June 25 prediction-market section repeats the same provenance failure. Topic labels are useful prompts, but no odds or movement values means the feed cannot be treated as forecast-grade evidence.

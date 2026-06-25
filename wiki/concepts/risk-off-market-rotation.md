@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-24
+updated: 2026-06-25
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 34
+source_count: 35
 ---
 
 # Risk-Off Market Rotation
@@ -55,6 +55,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Wednesday morning preserves the risk-off/split-tape read: Nasdaq **-4.11%**, S&P 500 **-2.50%**, Nvidia **-5.84%**, AMD **-5.01%**, oil **-5.93%**, and Bitcoin **-2.61%**, while Russell 2000 stays slightly green.
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — The close remains selective risk-off: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-8.79%**, and Bitcoin **-4.89%**, while Russell 2000 **+1.61%**, TSM **+3.52%**, and AMD **+2.45%** keep the tape from being uniform liquidation.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Thursday morning preserves the selective risk-off read: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-7.12%**, and Bitcoin **-2.52%** are weak, but Russell 2000 **+1.61%**, AMD **+2.45%**, and TSM **+3.52%** remain resilient.
 
 ## Related Concepts
 
@@ -131,3 +133,5 @@ The June 23 evening close is a fast reversal of the daytime interpretation. Smal
 The June 24 daytime dispatch confirms that this was not just an evening blip. The same numbers carry forward: tech remains weak, oil and Bitcoin confirm caution, and Russell 2000 resilience keeps the pattern selective rather than an indiscriminate liquidation.
 
 The June 24 evening close preserves that diagnosis but makes the semiconductor read less one-sided. Nvidia remains weak, but AMD and TSM rebound; the Russell 2000 is green near highs while oil and Bitcoin sell off. This is a rotation/sorting tape, not a clean all-asset panic.
+
+The June 25 daytime dispatch confirms the rotation/sorting diagnosis. The pressure is real in Nasdaq, mega-cap growth, oil, and Bitcoin, but small caps and selected chip/foundry exposure still hold up. That makes this a split tape rather than a broad liquidation signal.

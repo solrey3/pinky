@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-24
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers]
-source_count: 28
+updated: 2026-06-25
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling]
+source_count: 29
 ---
 
 # AI-Augmented Development
@@ -49,6 +49,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Vulnerability-report normalization, Raspberry Pi Pico W USB Wi-Fi tooling, and repeated Oracle AI-investment layoffs show AI-era development as security process, small hardware, and infrastructure economics.
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Gemini 3.5 Flash computer use, OpenAI/Broadcom custom silicon, and Qualcomm's Modular acquisition show the AI developer stack tightening across agents, chips, compilers, and runtimes.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — OpenAI/Broadcom inference silicon, Anthropic/Alibaba capability-extraction allegations, and Nvidia data-center cooling show the AI stack spanning hardware, provider security, and physical deployment constraints.
 
 ## Related Concepts
 
@@ -110,3 +112,5 @@ The evening source adds the institutional layer. AI tooling is not only code gen
 The June 24 source adds the maintenance layer around that institutional frame. Developer/operator work includes ordinary vulnerability-report queues, post-quantum migration pressure, cheap hardware experiments, and the financing/labor reality behind AI infrastructure.
 
 The evening source adds vertical integration. AI development is no longer just models and prompts: computer-use agents need desktop/browser control boundaries, custom chips shape cost and availability, and compiler/runtime acquisitions decide which workloads run efficiently on which hardware.
+
+The June 25 source adds capability protection to the developer/operator stack. AI tooling depends on inference economics and data-center thermals, but it also depends on providers being able to detect and deter illicit capability extraction from their APIs and products.

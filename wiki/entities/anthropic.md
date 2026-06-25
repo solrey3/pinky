@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-22
-tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls]
-source_count: 17
+updated: 2026-06-25
+tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba]
+source_count: 18
 ---
 
 # Anthropic
@@ -16,6 +16,8 @@ AI safety company and frontier model lab, founded 2021 by Dario Amodei, Daniela 
 Anthropic's commercial trajectory through early 2026 tracked closely with Claude's market adoption — particularly among enterprise API customers and AI coding workflows where Claude's instruction-following and context handling were preferred by a segment of developers. By May 2026, Anthropic had overtaken OpenAI in paper valuation terms.
 
 ## 2026 Milestones
+
+- **June 25, 2026**: Anthropic says Alibaba illicitly extracted Claude model capabilities. The governance issue is not only what Claude refuses or allows, but whether a third party can copy capabilities through prohibited probing or distillation.
 
 - **June 17, 2026**: Anthropic paused token-based billing for the Claude Agent SDK, adding pricing and metering design to the model-governance story. Agentic developer tools now need sustainable billing mechanics as much as safety boundaries and capability releases.
 
@@ -63,8 +65,12 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Coverage asks how Anthropic may have talked itself into an AI export ban, tying model-safety rhetoric and geopolitical access controls together.
 
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic says Alibaba illicitly extracted Claude model capabilities, shifting the Anthropic governance thread from refusals and access controls into capability-protection and platform-abuse monitoring.
+
 ## Related
 
+- [[Alibaba]] — accused in this source of illicitly extracting Claude capabilities
+- [[AI Model Capability Extraction]] — capability theft/probing is the concept introduced by the June 25 source
 - [[AI Arms Race 2026]] — Anthropic and OpenAI are the two primary protagonists
 - [[Claude Opus 4.8]] — model released May 28, 2026
 - [[LLM Belief Correction Limits]] — arxiv paper surfacing the same day; the company building frontier models operates alongside research showing structural model limits

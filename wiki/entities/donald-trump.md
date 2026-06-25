@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-06-24
-tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act]
-source_count: 11
+updated: 2026-06-25
+tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data]
+source_count: 12
 ---
 
 # Donald Trump
@@ -32,6 +32,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Trump appears through primary-election framing: Mamdani's New York result is discussed in Trump-era terms and a Trump-endorsed candidate wins a GOP primary for Stefanik's House seat.
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Trump clashes with senators over the SAVE America Act and Iran, keeping election rules, congressional constraint, and foreign policy in the same institutional-conflict frame.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Senate Republicans realign with Trump over Iran, while a Postal Service/voter-data story keeps Trump tied to election-administration and institutional-conflict coverage.
 
 ## Related
 

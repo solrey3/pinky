@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-06-24
+updated: 2026-06-25
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal]
-source_count: 7
+source_count: 8
 ---
 
 # Iran
@@ -27,6 +27,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Senate war-powers action turns the Iran conflict into a congressional/executive-power issue while prediction-market chatter keeps a U.S.-Iran nuclear-deal question on the watchlist.
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Iran remains central to war-powers aftermath, Trump-senator conflict, Israel-support polling context, and U.S.-Iran nuclear-deal prediction-market chatter.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Iran remains central through Senate GOP alignment with Trump over the war, a late Congress/war-powers timing critique, and U.S.-Iran nuclear-deal prediction-market watchlist topics.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Broadcom
 type: entity
 entity_type: organization
 created: 2026-06-24
-updated: 2026-06-24
-tags: [technology, semiconductors, networking, ai-hardware, custom-silicon]
-source_count: 1
+updated: 2026-06-25
+tags: [technology, semiconductors, networking, ai-hardware, custom-silicon, inference-chip]
+source_count: 2
 ---
 
 # Broadcom
@@ -16,6 +16,8 @@ Broadcom is a semiconductor and infrastructure-technology company. In the newsle
 ## Sources
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Broadcom is identified as the builder of OpenAI's first custom chip, tying the company to model-provider vertical integration and AI accelerator supply.
+
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — The OpenAI/Broadcom custom inference-chip announcement repeats in the daytime dispatch, reinforcing Broadcom's role as an AI-accelerator and model-provider infrastructure partner.
 
 ## Related
 
