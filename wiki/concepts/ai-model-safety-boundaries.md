@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-06-25
-tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction]
-source_count: 10
+updated: 2026-06-26
+tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models]
+source_count: 11
 ---
 
 # AI Model Safety Boundaries
@@ -25,6 +25,7 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 - [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Norway's elementary-school AI restriction repeats, confirming education as a durable deployment-boundary domain rather than a one-off headline.
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic's allegation that Alibaba extracted Claude capabilities shows model safety boundaries extending into capability protection, platform-abuse monitoring, and competitive misuse.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol access reportedly being vetted by the U.S. government shows model safety boundaries extending to state-mediated user eligibility.
 
 ## Related Concepts
 
@@ -52,3 +53,5 @@ The June 19 evening dispatch adds education as a separate boundary domain. A sch
 The June 20 repeat matters because deployment boundaries become policy only when they persist across cycles. The school setting adds child development, assessment integrity, teacher workload, and dependency formation to the same governance map as refusals, access controls, and national-security restrictions.
 
 The June 25 source adds extraction as a safety-boundary stressor. A model can refuse dangerous prompts and still be vulnerable to systematic probing that transfers capabilities; platform defenses therefore need to watch behavior over sessions and accounts, not only individual outputs.
+
+The June 26 evening source adds an explicit access-governance version of the same concept. If a government helps decide who may use a frontier model, then safety boundaries are no longer just refusals and monitoring; they are also eligibility rules, approval processes, and political accountability.

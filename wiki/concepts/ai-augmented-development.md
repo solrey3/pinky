@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-26
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling]
-source_count: 31
+source_count: 32
 ---
 
 # AI-Augmented Development
@@ -55,6 +55,7 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — IBM sub-1 nm chip claims, repeated Anthropic/Alibaba cloning allegations, and OpenKnowledge's AI-first note-taking/productivity angle show AI-era development spanning hardware, provider security, and knowledge-work tooling.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM chip scaling, Framework USB-C module complexity, Herculaneum scroll recovery, and Claude capability-protection all show AI-era development depending on hardware, tools, and governance.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol and AWS MicroVMs show the AI developer stack moving simultaneously toward stronger models, stricter access control, and better execution sandboxes.
 
 ## Related Concepts
 
@@ -122,3 +123,5 @@ The June 25 source adds capability protection to the developer/operator stack. A
 The evening source adds the knowledge-work surface. AI-first alternatives to Obsidian and Notion matter because developer workflows increasingly merge coding, notes, retrieval, automation, and agent-maintained context into one operational environment.
 
 The June 26 source broadens AI-augmented development beyond coding agents. Applied compute now includes archival reconstruction, physical hardware interfaces, semiconductor scaling, and provider-side governance against capability extraction.
+
+The evening source adds a capability/access/isolation triad. Frontier model progress is meaningful only if developers can access it, governments/providers permit it, and workloads can be executed in controlled sandboxes such as MicroVMs.

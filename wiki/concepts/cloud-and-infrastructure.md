@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-26
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency]
-source_count: 14
+source_count: 15
 ---
 
 # Cloud & Infrastructure
@@ -34,6 +34,7 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Nvidia's 45°C cooling design and OpenAI/Broadcom inference silicon tie AI infrastructure to thermals, water use, power density, and custom hardware supply.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM process-scaling claims and Framework's 10G Ethernet/USB-C complexity show that AI-era infrastructure depends on chips, ports, modules, and operational reliability.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — AWS Lambda MicroVMs and SpaceX Starlink mobile service extend the infrastructure graph into sandbox lifecycle control and satellite-to-phone network reach.
 
 ## Related Concepts
 

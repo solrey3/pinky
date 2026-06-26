@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-06-26
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 17
+source_count: 18
 ---
 
 # AMD
@@ -42,6 +42,7 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — AMD gains **+3.92%** near its 52-week high while Nasdaq remains weak, reinforcing AMD as a resilient chip-stock counter-signal inside the split tape.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — AMD gains **+3.92%** near its 52-week high while Nasdaq sells off, reinforcing AMD as a resilient semiconductor counter-signal.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — AMD falls **-2.94%** but remains near its high, turning the prior green counter-signal into a softer but still relatively high-range semiconductor read.
 
 ## Related
 

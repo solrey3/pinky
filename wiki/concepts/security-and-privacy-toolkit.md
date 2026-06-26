@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-26
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security]
-source_count: 42
+source_count: 43
 ---
 
 # Security & Privacy Toolkit
@@ -66,6 +66,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Repeated Claude cloning allegations keep model-capability extraction, API-abuse monitoring, audit logs, account provenance, and enforcement controls inside the active security perimeter.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Model-cloning allegations, API-abuse enforcement, and platform provenance keep frontier-model operations inside the practical security toolkit.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Facial-recognition evidence transparency, GPT-5.6 Sol access vetting, Netflix profile identity, and AWS MicroVM sandboxing all reinforce auditability, identity, and isolation as security controls.
 
 ## Related Concepts
 
@@ -149,3 +150,5 @@ The June 25 source adds model-capability extraction as a practical security conc
 The evening repeat reinforces that this belongs in ordinary platform security, not just AI policy. A frontier model API now resembles a high-value production system whose valuable behavior can itself be the target of theft.
 
 The June 26 daytime dispatch keeps model-extraction controls in scope for everyday security work. Frontier-model platforms need logging, anomaly detection, identity verification, contractual enforcement, and defensible evidence trails.
+
+The evening dispatch widens the same control frame. Courts want transparency around facial-recognition evidence; model providers may face government-mediated access; account platforms are tightening identity; and cloud providers are selling isolation as a lifecycle primitive. The common security word is auditability.

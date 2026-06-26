@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-26
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 37
+source_count: 38
 ---
 
 # Risk-Off Market Rotation
@@ -61,6 +61,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The evening close sharpens the split: Nasdaq **-2.55%** and Bitcoin **-5.08%** are weak, while Russell 2000 **+3.08%**, Dow **+0.83%**, AMD **+3.92%**, and TSM **+0.66%** show internal risk appetite.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Friday morning keeps the split-tape diagnosis: Nasdaq **-2.55%**, Bitcoin **-6.83%**, and WTI **-7.43%** are weak, while Russell 2000 **+3.08%**, AMD **+3.92%**, TSM **+0.66%**, VBR, and VNQ hold up.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — The close is harsher risk-off in growth and cross-assets: Nasdaq **-4.60%**, Bitcoin **-6.47%**, WTI **-6.12%**, Nvidia **-8.62%**, and TSM **-6.44%**, while Dow/Russell/VBR/VNQ/SCHD/TGT remain green.
 
 ## Related Concepts
 
@@ -143,3 +144,5 @@ The June 25 daytime dispatch confirms the rotation/sorting diagnosis. The pressu
 The June 25 evening close strengthens that conclusion. Small caps are no longer merely resilient; Russell 2000 is the loud positive move at +3.08%. Bitcoin and mega-cap tech remain pressured, so the regime is still split rather than risk-on everywhere.
 
 The June 26 daytime dispatch extends the June 25 split-tape read. Small caps and selected chip/foundry exposure remain resilient, but Nasdaq, Bitcoin, WTI, Nvidia, Tesla, and Netflix are weak enough that the regime still cannot be called clean risk-on.
+
+The June 26 evening close makes the same regime more severe. Nasdaq, crypto, oil, and AI semiconductors all sell off together, but positive Dow/Russell/value/REIT/dividend/retail pockets keep the correct label at selective risk-off rather than indiscriminate liquidation.

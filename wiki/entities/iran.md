@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-06-25
-tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal]
-source_count: 9
+updated: 2026-06-26
+tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk]
+source_count: 10
 ---
 
 # Iran
@@ -31,6 +31,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Iran remains central through Senate GOP alignment with Trump over the war, a late Congress/war-powers timing critique, and U.S.-Iran nuclear-deal prediction-market watchlist topics.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — A reported ship-fire incident in the Strait of Hormuz keeps Iran tied to shipping-risk and oil-market interpretation, even as WTI falls into the close.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — U.S. strikes on Iranian missile/radar sites after a reported cargo-ship attack keep Iran tied to Hormuz shipping risk, regional-framework diplomacy, and war-powers disputes.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-26
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 40
+source_count: 41
 ---
 
 # Market Inefficiency
@@ -64,6 +64,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Polymarket provides World Cup matchup percentages, but Kalshi remains unavailable and the feed still lacks IDs, deltas, liquidity, timestamps, and resolution terms.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Polymarket was fetched but did not yield clean mover data and Kalshi was unavailable, making prediction-market evidence unusable for this edition.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Polymarket provides World Cup matchup probabilities, but Kalshi is unavailable; without timestamps, liquidity, and market IDs, the probabilities remain weak evidence.
 
 ## Related Concepts
 
