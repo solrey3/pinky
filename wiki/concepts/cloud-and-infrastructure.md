@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-25
+updated: 2026-06-26
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency]
-source_count: 13
+source_count: 14
 ---
 
 # Cloud & Infrastructure
@@ -33,6 +33,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Nvidia's 45°C cooling design and OpenAI/Broadcom inference silicon tie AI infrastructure to thermals, water use, power density, and custom hardware supply.
 
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM process-scaling claims and Framework's 10G Ethernet/USB-C complexity show that AI-era infrastructure depends on chips, ports, modules, and operational reliability.
+
 ## Related Concepts
 
 - [[Container Orchestration]]
@@ -58,3 +60,5 @@ The June 24 source keeps infrastructure grounded at both ends of the stack: Orac
 The evening source adds vertical integration to the infrastructure frame. AI capacity is shaped not only by data centers but also by custom accelerators, foundry partnerships, compilers, runtimes, app-store economics, and the business deals that bind those layers together.
 
 The June 25 source keeps infrastructure physical. AI capacity is limited not only by chips and money but also by facility engineering: water loops, liquid cooling, operating temperatures, heat reuse, and permitting around power/water constraints.
+
+The June 26 daytime dispatch adds a hardware-interface reminder to the infrastructure graph. Cloud and AI systems ride on physical constraints: silicon process, interconnects, USB-C behavior, cooling, power, and reliable data extraction.

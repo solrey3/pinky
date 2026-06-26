@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-25
+updated: 2026-06-26
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 39
+source_count: 40
 ---
 
 # Market Inefficiency
@@ -62,6 +62,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Polymarket surfaces U.S.-Iran nuclear-deal and World Cup Golden Boot topics while Kalshi is unavailable; without odds, deltas, liquidity, IDs, and timestamps, the section remains watchlist metadata.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Polymarket provides World Cup matchup percentages, but Kalshi remains unavailable and the feed still lacks IDs, deltas, liquidity, timestamps, and resolution terms.
+
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Polymarket was fetched but did not yield clean mover data and Kalshi was unavailable, making prediction-market evidence unusable for this edition.
 
 ## Related Concepts
 
@@ -144,3 +146,5 @@ The evening section broadens the watchlist but not the evidence quality. World C
 The June 25 prediction-market section repeats the same provenance failure. Topic labels are useful prompts, but no odds or movement values means the feed cannot be treated as forecast-grade evidence.
 
 The evening dispatch has more numbers than the daytime item, but still not enough structure. United States 55% vs. Türkiye 25% and Netherlands 89% vs. Tunisia 4% are watchlist prompts; without market identity, liquidity, prior prices, timestamps, and resolution language, they are not forecast-grade evidence.
+
+The June 26 daytime dispatch reinforces a provenance rule: absence of clean extraction is data, but not a signal. Prediction-market sections should not be overinterpreted when Polymarket/Kalshi capture fails.

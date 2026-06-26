@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-06-25
+updated: 2026-06-26
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 15
+source_count: 16
 ---
 
 # Monetary Policy Forward Guidance
@@ -38,6 +38,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the print anchors the market dashboard but does not add a Fed communication update.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Evening EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not forward guidance.
+
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the dispatch provides rate context but no new Fed signal.
 
 ## Related Concepts
 
@@ -76,3 +78,5 @@ The evening dispatch repeats the same evidence class under a different close. St
 The June 25 rate snapshot repeats the same boundary. Stable EFFR is useful context for markets, but without Fed communication it should not be read as a forward-guidance signal or reaction-function change.
 
 The evening snapshot repeats the same evidence class under a small-cap-led split close. The rate print anchors the dashboard, but the source provides no Fed communication, projection, or deliberate expectations-management signal.
+
+The June 26 daytime source is another context-only Fed datapoint. Stable EFFR matters for market interpretation, but no new forward guidance appears.

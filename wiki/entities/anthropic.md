@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-25
+updated: 2026-06-26
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba]
-source_count: 19
+source_count: 20
 ---
 
 # Anthropic
@@ -16,6 +16,8 @@ AI safety company and frontier model lab, founded 2021 by Dario Amodei, Daniela 
 Anthropic's commercial trajectory through early 2026 tracked closely with Claude's market adoption — particularly among enterprise API customers and AI coding workflows where Claude's instruction-following and context handling were preferred by a segment of developers. By May 2026, Anthropic had overtaken OpenAI in paper valuation terms.
 
 ## 2026 Milestones
+
+- **June 26, 2026**: The Alibaba/Claude cloning allegation appears again, turning capability extraction into a repeated platform-security watch item across consecutive dispatches.
 
 - **June 25, 2026 (Evening)**: The Alibaba/Claude cloning allegation remains in the evening cycle, confirming capability extraction as a durable platform-security issue rather than a single daytime headline.
 
@@ -70,6 +72,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic says Alibaba illicitly extracted Claude model capabilities, shifting the Anthropic governance thread from refusals and access controls into capability-protection and platform-abuse monitoring.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Anthropic/Alibaba cloning allegation remains in the evening AI desk, reinforcing model-capability extraction as a standing security and platform-enforcement concern.
+
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Anthropic again says Alibaba should be punished for the Claude cloning/capability-extraction attack, making model extraction a repeated platform-security issue.
 
 ## Related
 

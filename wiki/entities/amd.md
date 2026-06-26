@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-06-25
+updated: 2026-06-26
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 16
+source_count: 17
 ---
 
 # AMD
@@ -40,6 +40,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — AMD rises **+2.45%** even as the Nasdaq remains sharply red, making chip exposure a relative pocket of resilience rather than uniform risk-off.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — AMD gains **+3.92%** near its 52-week high while Nasdaq remains weak, reinforcing AMD as a resilient chip-stock counter-signal inside the split tape.
+
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — AMD gains **+3.92%** near its 52-week high while Nasdaq sells off, reinforcing AMD as a resilient semiconductor counter-signal.
 
 ## Related
 

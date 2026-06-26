@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-25
+updated: 2026-06-26
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts]
-source_count: 7
+source_count: 8
 ---
 
 # TNA Wrestling
@@ -24,6 +24,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Tommy Dreamer accusations after a creative ouster keep TNA in a personnel/conduct and organizational-stability lane.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Tony Khan says he has no interest in buying TNA for **$40 million**, putting TNA back in the broader promotion-business rumor cycle.
+
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — TNA Impact results and sale-rumor chatter remain active, with Tony Khan again rejecting interest in a TNA purchase.
 
 ## Related
 
