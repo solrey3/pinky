@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-27
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security]
-source_count: 44
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days]
+source_count: 45
 ---
 
 # Security & Privacy Toolkit
@@ -68,6 +68,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Model-cloning allegations, API-abuse enforcement, and platform provenance keep frontier-model operations inside the practical security toolkit.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Facial-recognition evidence transparency, GPT-5.6 Sol access vetting, Netflix profile identity, and AWS MicroVM sandboxing all reinforce auditability, identity, and isolation as security controls.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — New Jersey facial-recognition evidence transparency, government-vetted GPT-5.6 Sol access, federally permitted Mythos access, and Netflix profile identity keep auditability at the center of the security/privacy graph.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Alleged undisclosed GitHub zero-days, Netflix profile identity, and AI inference infrastructure keep provenance, disclosure discipline, and account auditability in the active perimeter.
 
 ## Related Concepts
 
@@ -155,3 +156,5 @@ The June 26 daytime dispatch keeps model-extraction controls in scope for everyd
 The evening dispatch widens the same control frame. Courts want transparency around facial-recognition evidence; model providers may face government-mediated access; account platforms are tightening identity; and cloud providers are selling isolation as a lifecycle primitive. The common security word is auditability.
 
 The June 27 daytime repeat confirms this is not a single-cycle theme. Evidentiary transparency, model eligibility, account identity, and release permissions all ask the same operational question: who did what, under which authority, and with what audit trail?
+
+The evening GitHub item adds disclosure discipline back into the same map. Dumping alleged 0-days without provenance, coordination, or reproducibility turns a developer platform into a security incident surface; the control response is source validation, sandboxed reproduction, vendor notification, and skepticism toward exploit claims until evidence is checked.

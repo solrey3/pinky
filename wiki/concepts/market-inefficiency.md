@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-27
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 42
+source_count: 43
 ---
 
 # Market Inefficiency
@@ -66,6 +66,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Polymarket was fetched but did not yield clean mover data and Kalshi was unavailable, making prediction-market evidence unusable for this edition.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Polymarket provides World Cup matchup probabilities, but Kalshi is unavailable; without timestamps, liquidity, and market IDs, the probabilities remain weak evidence.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Polymarket returns U.S.-Iran nuclear/Hormuz and Portugal/Colombia World Cup chatter, but no clean numeric mover; Kalshi remains unavailable.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Polymarket supplies World Cup matchup percentages, but Kalshi is unavailable and the feed still lacks market IDs, deltas, liquidity, timestamps, and resolution text.
 
 ## Related Concepts
 
@@ -152,3 +153,5 @@ The evening dispatch has more numbers than the daytime item, but still not enoug
 The June 26 daytime dispatch reinforces a provenance rule: absence of clean extraction is data, but not a signal. Prediction-market sections should not be overinterpreted when Polymarket/Kalshi capture fails.
 
 The June 27 daytime dispatch repeats that rule. Topic chatter can tell us what the scraper saw, but without clean market IDs, odds, movement, timestamps, liquidity, and resolution language, it remains metadata rather than evidence.
+
+The evening dispatch has more numeric World Cup percentages, but not enough structure to change the evidence class. Percentages without market identity, liquidity, prior price, timestamp, and resolution terms are still watchlist prompts, not forecast-grade probabilities.
