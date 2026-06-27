@@ -42,71 +42,71 @@ created: 2026-06-27T22:03:35+00:00
 ## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
 
 ### The Numbers (with 52W Range)
-| Index | Price | Change | % | 52-Week Range | Note |
-|---|---:|---:|---:|---|---|
-| S&P 500 | 7354.02 | -146.56 | -1.95% | 6174.97 – 7620.9 | Still in the upper part of its yearly band, but Saturday’s review shows tech pressure tugging the tape lower. |
-| Dow 30 | 51876.11 | 311.41 | 0.60% | 43340.68 – 52655.66 | Near its 52-week high; old-economy ballast did its job while growth names sagged. |
-| Nasdaq | 25297.617 | -1220.31 | -4.60% | 20105.41 – 27190.21 | Big weekly hit; still above mid-range, but momentum took a proper boardwalk spill. |
-| Russell 2000 | 3010.0845 | 30.31 | 1.02% | 2143.43 – 3033.75 | Right near the 52-week high, small caps bucked the mega-cap tech slide. |
+| Index | Price | Change | % | 52-Week Range |
+| --- | ---: | ---: | ---: | --- |
+| S&P 500 | 7354.02 | -146.56 | -1.95% | 6174.97 – 7620.9 |
+| Dow 30 | 51876.11 | 311.41 | 0.60% | 43340.68 – 52655.66 |
+| Nasdaq | 25297.617 | -1220.31 | -4.60% | 20105.41 – 27190.21 |
+| Russell 2000 | 3010.0845 | 30.31 | 1.02% | 2143.43 – 3033.75 |
 
 ### Federal Funds Rate
 Effective Rate (EFFR): **3.63%**. Fed Target Range: **3.50% – 3.75%**.
 
 ### Treasury Rates (with 52W Range)
-| Security | Rate | Change | 52-Week Range | Note |
-|---|---:|---:|---|---|
-| 30-Year Treasury | 4.864 | 0.01 / 0.12% | 0.0 – 5.152 | Long yields sit near the fetched range high, keeping mortgage math tight. |
-| 90-Day T-Bill | 3.663 | -0.02 / -0.46% | 0.0 – 5.348 | Front-end yield is below last year’s upper zone, matching a lower Fed target backdrop. |
+| Security | Rate | Change | 52-Week Range |
+| --- | ---: | ---: | --- |
+| 30-Year Treasury | 4.864 | 0.01 / 0.12% | 0.0 – 5.152 |
+| 90-Day T-Bill | 3.663 | -0.02 / -0.46% | 0.0 – 5.348 |
 
 ### Forex (with 52W Range)
-| Pair | Rate | Change | % | 52-Week Range | Note |
-|---|---:|---:|---:|---|---|
-| PHP/USD | 61.28 | 0.64 | 1.05% | 52.1 – 61.886 | Peso quote is near the weak end of the fetched range versus the dollar. |
-| EUR/USD | 1.139 | -0.01 | -0.64% | 1.1325 – 1.2024 | Euro is close to its 52-week low, a soft read for dollar-based travelers. |
-| CNY/USD | 6.7897 | 0.02 | 0.31% | 6.757 – 7.2116 | Yuan sits near the strong side of its range, not far from the low quote. |
+| Pair | Rate | Change | % | 52-Week Range |
+| --- | ---: | ---: | ---: | --- |
+| PHP/USD | 61.28 | 0.64 | 1.05% | 52.1 – 61.886 |
+| EUR/USD | 1.139 | -0.01 | -0.64% | 1.1325 – 1.2024 |
+| CNY/USD | 6.7897 | 0.02 | 0.31% | 6.757 – 7.2116 |
 
 ### ETFs (with 52W Range)
-| ETF (Symbol — Name) | Price | Change | % | 52-Week Range | Note |
-|---|---:|---:|---:|---|---|
-| ONEQ — Fidelity Nasdaq Composite ETF | 99.38 | -4.87 | -4.67% | 79.04 – 107.07 | Nasdaq proxy got hit with the same tech downdraft. |
-| SCHD — Schwab U.S. Dividend Equity ETF | 32.09 | 0.23 | 0.72% | 26.21 – 32.92 | Dividend sleeve is near its 52-week high, classic defensive lean. |
-| VXUS — Vanguard Total International Stock ETF | 84.48 | -2.29 | -2.64% | 67.85 – 88.62 | International stocks pulled back but remain in the upper range. |
-| VBR — Vanguard Small-Cap Value ETF | 242.77 | 4.37 | 1.83% | 193.0 – 244.3 | Small value is parked near its yearly high. |
-| VNQ — Vanguard Real Estate ETF | 98.67 | 3.11 | 3.25% | 86.84 – 99.15 | REITs are brushing the range ceiling despite elevated rate pressure. |
+| ETF (Symbol — Name) | Price | Change | % | 52-Week Range |
+| --- | ---: | ---: | ---: | --- |
+| ONEQ — Fidelity Nasdaq Composite ETF | 99.38 | -4.87 | -4.67% | 79.04 – 107.07 |
+| SCHD — Schwab U.S. Dividend Equity ETF | 32.09 | 0.23 | 0.72% | 26.21 – 32.92 |
+| VXUS — Vanguard Total International Stock ETF | 84.48 | -2.29 | -2.64% | 67.85 – 88.62 |
+| VBR — Vanguard Small-Cap Value ETF | 242.77 | 4.37 | 1.83% | 193.0 – 244.3 |
+| VNQ — Vanguard Real Estate ETF | 98.67 | 3.11 | 3.25% | 86.84 – 99.15 |
 
 ### Stock Watch (with 52W Range)
-| Ticker | Price | Change | % | 52-Week Range | Note |
-|---|---:|---:|---:|---|---|
-| NVDA | 192.53 | -18.16 | -8.62% | 151.49 – 236.54 | Sharp chip slide, but still above the lower half of the yearly band. |
-| TSM | 432.35 | -29.77 | -6.44% | 221.18 – 476.79 | Pulled back from near-high territory; semis were not the safe lane. |
-| AMD | 521.58 | -15.79 | -2.94% | 133.5 – 562.99 | Still close to its 52-week high despite the weekly dip. |
-| AMZN | 232.69 | -11.70 | -4.79% | 196.0 – 278.56 | Middle-upper range; consumer/cloud megacap cooled off. |
-| NFLX | 73.81 | -3.57 | -4.61% | 70.86 – 134.115 | Near its 52-week low — the weakest range position on this board. |
-| TSLA | 379.71 | -20.78 | -5.19% | 288.77 – 498.83 | Down hard but still mid-range, classic volatility tax. |
-| PYPL | 44.29 | 1.78 | 4.19% | 38.46 – 79.5 | Bounce from near the low end, but the long chart still looks heavy. |
-| BRK.B | 498.66 | 9.20 | 1.88% | 455.19 – 516.85 | Near the high; defensive quality held up. |
-| AXP | 340.36 | 2.36 | 0.70% | 288.34 – 387.49 | Middle-upper range, steady consumer-credit read. |
-| SCHW | 90.67 | -1.03 | -1.12% | 83.96 – 107.5 | Banking/brokerage name sits lower-middle in range. |
-| RL | 411.16 | -1.85 | -0.45% | 266.2 – 421.6 | Still near the 52-week high; luxury held its cut. |
-| TGT | 140.39 | 9.65 | 7.38% | 83.44 – 142.82 | Big weekly retail pop, now near the top of the range. |
-| COST | 952.54 | 1.09 | 0.11% | 844.06 – 1096.5 | Middle of its range; steady, not flashy. |
-| UPS | 108.14 | 3.28 | 3.13% | 82.0 – 122.41 | Logistics bounced into the upper half of its yearly lane. |
+| Ticker | Price | Change | % | 52-Week Range |
+| --- | ---: | ---: | ---: | --- |
+| NVDA | 192.53 | -18.16 | -8.62% | 151.49 – 236.54 |
+| TSM | 432.35 | -29.77 | -6.44% | 221.18 – 476.79 |
+| AMD | 521.58 | -15.79 | -2.94% | 133.5 – 562.99 |
+| AMZN | 232.69 | -11.70 | -4.79% | 196.0 – 278.56 |
+| NFLX | 73.81 | -3.57 | -4.61% | 70.86 – 134.115 |
+| TSLA | 379.71 | -20.78 | -5.19% | 288.77 – 498.83 |
+| PYPL | 44.29 | 1.78 | 4.19% | 38.46 – 79.5 |
+| BRK.B | 498.66 | 9.20 | 1.88% | 455.19 – 516.85 |
+| AXP | 340.36 | 2.36 | 0.70% | 288.34 – 387.49 |
+| SCHW | 90.67 | -1.03 | -1.12% | 83.96 – 107.5 |
+| RL | 411.16 | -1.85 | -0.45% | 266.2 – 421.6 |
+| TGT | 140.39 | 9.65 | 7.38% | 83.44 – 142.82 |
+| COST | 952.54 | 1.09 | 0.11% | 844.06 – 1096.5 |
+| UPS | 108.14 | 3.28 | 3.13% | 82.0 – 122.41 |
 
 ### Weekly Market Review
 **Saturday tape, weekly lens.** Indexes split: S&P 500 **-1.95%**, Nasdaq **-4.60%**, Dow **+0.60%**, Russell 2000 **+1.02%**. Weekly pressure centered on tech and growth, while small caps, dividends, real estate, and select retail names held up.
 
-| Area | Biggest Fetched Moves | Note |
-|---|---|---|
-| Rates / Macro | 30-YR Treasury latest weekly close 4.901; 90-Day T-Bill 3.658 | Long rates remain elevated enough to keep housing and duration trades honest. |
-| Commodities / Crypto | Bitcoin -6.09%; Oil (WTI) -9.62% | Risk appetite cooled and crude took the harder hit. |
-| ETFs | ONEQ -4.67%; VNQ +3.25%; VBR +1.83% | Rotation showed up: tech down, real estate/small value up. |
-| Stocks | NVDA -8.62%; TSM -6.44%; TGT +7.38% | Semis slipped; Target delivered the week’s upside retail surprise. |
+| Area | Biggest Fetched Moves |
+| --- | --- |
+| Rates / Macro | 30-YR Treasury latest weekly close 4.901; 90-Day T-Bill 3.658 |
+| Commodities / Crypto | Bitcoin -6.09%; Oil (WTI) -9.62% |
+| ETFs | ONEQ -4.67%; VNQ +3.25%; VBR +1.83% |
+| Stocks | NVDA -8.62%; TSM -6.44%; TGT +7.38% |
 
 ### Commodities & Crypto
-| Ticker | Price | Change | % | 52-Week Range | Note |
-|---|---:|---:|---:|---|---|
-| Bitcoin | 60063.95 | -2604.07 | -4.16% | 58075.92 – 126198.07 | Just above the 52-week low; crypto’s risk bid is thin tonight. |
-| Oil (WTI) | 69.23 | -5.59 | -7.47% | 54.98 – 119.48 | Crude broke hard, easing inflation pressure but hinting at demand nerves. |
+| Ticker | Price | Change | % | 52-Week Range |
+| --- | ---: | ---: | ---: | --- |
+| Bitcoin | 60063.95 | -2604.07 | -4.16% | 58075.92 – 126198.07 |
+| Oil (WTI) | 69.23 | -5.59 | -7.47% | 54.98 – 119.48 |
 
 ### 📢 Major Move Alert
 📢 **Nasdaq -4.60%** as the tech complex dragged the week lower; **Oil (WTI) -7.47%** gave drivers a macro break but flashed growth concerns.
@@ -139,29 +139,29 @@ Effective Rate (EFFR): **3.63%**. Fed Target Range: **3.50% – 3.75%**.
 
 #### ⚾ MLB
 **Completed / Live**
-| Matchup | Final / Status | Note |
-|---|---|---|
-| Diamondbacks at Rays | Rays 6, Diamondbacks 1 | Tampa Bay handled it clean. |
-| Reds at Pirates | Reds 6, Pirates 4 | Cincinnati took the opener. |
-| Astros at Tigers | Tigers 8, Astros 0 | Detroit posted the shutout. |
-| Yankees at Red Sox | Red Sox 6, Yankees 1 | Boston landed the rivalry punch. |
-| Phillies at Mets | Phillies 2, Mets 1 | Low-scoring NL East squeeze. |
-| Mariners at Guardians | Mariners 3, Guardians 1 | Seattle won a tight one. |
-| Rangers at Blue Jays | Rangers 5, Blue Jays 4 | One-run finish in Toronto. |
-| Nationals at Orioles | Orioles 3, Nationals 1 | Baltimore kept it tidy. |
-| Cubs at Brewers | Brewers 6, Cubs 2 | Milwaukee took the Apple TV nightcap. |
-| Rockies at Twins | Twins 9, Rockies 8 — Final/10 | Extra-innings scramble. |
-| Royals at White Sox | White Sox 22, Royals 1 | Historic South Side avalanche. |
-| Marlins at Cardinals | Marlins 4, Cardinals 0 | Miami blanked St. Louis. |
-| Athletics at Angels | Athletics 9, Angels 3 | A’s bats traveled. |
-| Braves at Giants | Braves 3, Giants 1 | Atlanta won on the road. |
-| Dodgers at Padres | Padres 7, Dodgers 1 | San Diego thumped L.A. |
-| Reds at Pirates | 🔴 Top 5th: 4–4 | Live. |
-| Astros at Tigers | Astros 8, Tigers 6 | Houston answered back. |
-| Yankees at Red Sox | Red Sox 4, Yankees 1 | Boston doubled down. |
-| Phillies at Mets | 🔴 Top 3rd: 0–0 | Live at Citi Field. |
-| Rangers at Blue Jays | 🔴 Top 9th: Rangers 7, Blue Jays 4 | Live late. |
-| Royals at White Sox | 🔴 Top 8th: 1–1 | Live. |
+| Matchup | Final / Status |
+| --- | --- |
+| Diamondbacks at Rays | Rays 6, Diamondbacks 1 |
+| Reds at Pirates | Reds 6, Pirates 4 |
+| Astros at Tigers | Tigers 8, Astros 0 |
+| Yankees at Red Sox | Red Sox 6, Yankees 1 |
+| Phillies at Mets | Phillies 2, Mets 1 |
+| Mariners at Guardians | Mariners 3, Guardians 1 |
+| Rangers at Blue Jays | Rangers 5, Blue Jays 4 |
+| Nationals at Orioles | Orioles 3, Nationals 1 |
+| Cubs at Brewers | Brewers 6, Cubs 2 |
+| Rockies at Twins | Twins 9, Rockies 8 — Final/10 |
+| Royals at White Sox | White Sox 22, Royals 1 |
+| Marlins at Cardinals | Marlins 4, Cardinals 0 |
+| Athletics at Angels | Athletics 9, Angels 3 |
+| Braves at Giants | Braves 3, Giants 1 |
+| Dodgers at Padres | Padres 7, Dodgers 1 |
+| Reds at Pirates | 🔴 Top 5th: 4–4 |
+| Astros at Tigers | Astros 8, Tigers 6 |
+| Yankees at Red Sox | Red Sox 4, Yankees 1 |
+| Phillies at Mets | 🔴 Top 3rd: 0–0 |
+| Rangers at Blue Jays | 🔴 Top 9th: Rangers 7, Blue Jays 4 |
+| Royals at White Sox | 🔴 Top 8th: 1–1 |
 
 **Upcoming**
 | Time | Matchup | TV |
@@ -188,14 +188,14 @@ Effective Rate (EFFR): **3.63%**. Fed Target Range: **3.50% – 3.75%**.
 | 6/28 - 2:15 PM EDT | Miami Marlins at St. Louis Cardinals | TV: MLB.TV, Cardinals.TV, Marlins.TV |
 
 #### 🌎 FIFA World Cup
-| Matchup | Final / Status | Note |
-|---|---|---|
-| Iran at Egypt | 1–1 FT | Shared points. |
-| Belgium at New Zealand | Belgium 5, New Zealand 1 FT | Belgium rolled. |
-| Saudi Arabia at Cape Verde | 0–0 FT | Scoreless draw. |
-| Spain at Uruguay | Spain 1, Uruguay 0 FT | Spain edged it. |
-| Ghana at Croatia | 🔴 HT: Croatia 1, Ghana 0 | Live. |
-| England at Panama | 🔴 HT: 0–0 | Live. |
+| Matchup | Final / Status |
+| --- | --- |
+| Iran at Egypt | 1–1 FT |
+| Belgium at New Zealand | Belgium 5, New Zealand 1 FT |
+| Saudi Arabia at Cape Verde | 0–0 FT |
+| Spain at Uruguay | Spain 1, Uruguay 0 FT |
+| Ghana at Croatia | 🔴 HT: Croatia 1, Ghana 0 |
+| England at Panama | 🔴 HT: 0–0 |
 
 | Time | Matchup | TV |
 |---|---|---|
@@ -206,9 +206,9 @@ Effective Rate (EFFR): **3.63%**. Fed Target Range: **3.50% – 3.75%**.
 | Sun, June 28th at 3:00 PM EDT | Canada at South Africa | TV: FOX |
 
 #### 🏀 NCAAB
-| Matchup | Final | Note |
-|---|---|---|
-| UConn Huskies at Michigan Wolverines | Michigan 69, UConn 63 | Big East/national-title board item from fetched AP context. |
+| Matchup | Final |
+| --- | --- |
+| UConn Huskies at Michigan Wolverines | Michigan 69, UConn 63 |
 
 #### 🏈 NCAAF
 AP Top 25 fetched with Indiana #1, Miami #2, Ole Miss #3, Oregon #4, Ohio State #5. Next fetched spotlight starts Aug. 29: North Carolina at TCU, San José State at USC, NC State at Virginia, and more with TV listings.
