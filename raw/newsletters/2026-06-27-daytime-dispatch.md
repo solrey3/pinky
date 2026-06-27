@@ -177,26 +177,83 @@ Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.
 
 ### Scoreboard
 
-### ⚾ MLB
-**Completed:** Rays 6, Diamondbacks 1; Reds 6, Pirates 4; Tigers 8, Astros 0; Red Sox 6, Yankees 1; Phillies 2, Mets 1; Mariners 3, Guardians 1; Rangers 5, Blue Jays 4; Orioles 3, Nationals 1; Brewers 6, Cubs 2; Twins 9, Rockies 8 (10); White Sox 22, Royals 1; Marlins 4, Cardinals 0; Athletics 9, Angels 3; Braves 3, Giants 1; Padres 7, Dodgers 1. **White Sox hang 22 — somebody check the scoreboard bulbs.**
+#### ⚾ MLB — Completed
+| Matchup | Final | Note |
+|---|---:|---|
+| Diamondbacks at Rays | Rays 6, Diamondbacks 1 | Tampa handled the desert visitors. |
+| Reds at Pirates | Reds 6, Pirates 4 | Cincinnati did enough on the road. |
+| Astros at Tigers | Tigers 8, Astros 0 | Detroit blanked Houston — clean sheet, baseball edition. |
+| Yankees at Red Sox | Red Sox 6, Yankees 1 | Rivalry day went Boston’s way. |
+| Phillies at Mets | Phillies 2, Mets 1 | Citi Field groan: close, but no cigar. |
+| Mariners at Guardians | Mariners 3, Guardians 1 | Seattle kept it tidy. |
+| Rangers at Blue Jays | Rangers 5, Blue Jays 4 | One-run road squeeze. |
+| Nationals at Orioles | Orioles 3, Nationals 1 | Beltway bragging rights to Baltimore. |
+| Cubs at Brewers | Brewers 6, Cubs 2 | Milwaukee took the Central-flavored tilt. |
+| Rockies at Twins | Twins 9, Rockies 8 (10) | Free baseball, Minnesota finish. |
+| Royals at White Sox | White Sox 22, Royals 1 | Somebody check the scoreboard bulbs. |
+| Marlins at Cardinals | Marlins 4, Cardinals 0 | Miami posted the shutout. |
+| Athletics at Angels | Athletics 9, Angels 3 | A’s bats traveled. |
+| Braves at Giants | Braves 3, Giants 1 | Atlanta got enough and got out. |
+| Dodgers at Padres | Padres 7, Dodgers 1 | San Diego made noise out West. |
 
-**Upcoming:** Yankees at Red Sox | 6/27 - 1:00 PM EDT | TV: ABC; Astros at Tigers | 6/27 - 1:10 PM EDT | TV: MLB.TV, Tigers.TV, Space City Home Network; Rangers at Blue Jays | 6/27 - 3:07 PM EDT | TV: MLB.TV, Rangers Sports Network, Sportsnet; Reds at Pirates | 6/27 - 4:05 PM EDT | TV: ESPN Unlmtd, Reds.TV; Phillies at Mets | 6/27 - 4:10 PM EDT | TV: MLB.TV, NBC Sports Phil, SNY; Royals at White Sox | 6/27 - 4:10 PM EDT | TV: MLB.TV, Royals.TV, CHSN; Diamondbacks at Rays | 6/27 - 6:10 PM EDT | TV: MLB.TV, DBACKS.TV, Rays.TV; Nationals at Orioles | 6/27 - 7:05 PM EDT | TV: MLB.TV, MASN, Nationals.TV; Mariners at Guardians | 6/27 - 7:10 PM EDT | TV: MLB.TV, CLEGuardians.TV, Mariners.TV; Cubs at Brewers | 6/27 - 7:10 PM EDT | TV: MLB.TV, Marquee Sports Net, Brewers.TV; Rockies at Twins | 6/27 - 7:10 PM EDT | TV: MLB.TV, Twins.TV, Rockies.TV; Marlins at Cardinals | 6/27 - 7:15 PM EDT | TV: MLB.TV, Cardinals.TV, Marlins.TV; Dodgers at Padres | 6/27 - 8:40 PM EDT | TV: MLB.TV, Sportsnet LA, Padres.TV; Braves at Giants | 6/27 - 9:05 PM EDT | TV: MLB.TV, NBC Sports BA, BravesVision; Athletics at Angels | 6/27 - 9:38 PM EDT | TV: MLB.TV, NBC Sports CA, Angels.TV.
+#### ⚾ MLB — Today’s Card
+| Time | Matchup | TV |
+|---:|---|---|
+| 1:00 PM EDT | Yankees at Red Sox | ABC |
+| 1:10 PM EDT | Astros at Tigers | MLB.TV, Tigers.TV, Space City Home Network |
+| 3:07 PM EDT | Rangers at Blue Jays | MLB.TV, Rangers Sports Network, Sportsnet |
+| 4:05 PM EDT | Reds at Pirates | ESPN Unlmtd, Reds.TV |
+| 4:10 PM EDT | Phillies at Mets | MLB.TV, NBC Sports Phil, SNY |
+| 4:10 PM EDT | Royals at White Sox | MLB.TV, Royals.TV, CHSN |
+| 6:10 PM EDT | Diamondbacks at Rays | MLB.TV, DBACKS.TV, Rays.TV |
+| 7:05 PM EDT | Nationals at Orioles | MLB.TV, MASN, Nationals.TV |
+| 7:10 PM EDT | Mariners at Guardians | MLB.TV, CLEGuardians.TV, Mariners.TV |
+| 7:10 PM EDT | Cubs at Brewers | MLB.TV, Marquee Sports Net, Brewers.TV |
+| 7:10 PM EDT | Rockies at Twins | MLB.TV, Twins.TV, Rockies.TV |
+| 7:15 PM EDT | Marlins at Cardinals | MLB.TV, Cardinals.TV, Marlins.TV |
+| 8:40 PM EDT | Dodgers at Padres | MLB.TV, Sportsnet LA, Padres.TV |
+| 9:05 PM EDT | Braves at Giants | MLB.TV, NBC Sports BA, BravesVision |
+| 9:38 PM EDT | Athletics at Angels | MLB.TV, NBC Sports CA, Angels.TV |
 
-### 🏌️ Golf
-**PGA — Travelers Championship, Round 2 complete:** Scottie Scheffler -16 leads Viktor Hovland -14; Akshay Bhatia and Eric Cole sit -12; Bud Cauley, Ben Griffin, Matt Fitzpatrick -10; Brian Campbell, Tommy Fleetwood, Maverick McNealy -9.
+#### 🏌️ Golf Leaderboards
+| Tour | Event | Status | Leaders |
+|---|---|---|---|
+| PGA | Travelers Championship | Round 2 complete | Scottie Scheffler -16; Viktor Hovland -14; Akshay Bhatia/Eric Cole -12 |
+| LPGA | KPMG Women’s PGA Championship | Round 2 complete | Ina Yoon -12; Haeran Ryu/Nasa Hataoka/Brooke Henderson/A Lim Kim -7; Nelly Korda -6 |
 
-**LPGA — KPMG Women’s PGA Championship, Round 2 complete:** Ina Yoon -12 leads by five over Haeran Ryu, Nasa Hataoka, Brooke Henderson, and A Lim Kim at -7. Nelly Korda and Dongeun Lee are -6.
+#### 🎾 Tennis — Wimbledon
+🔴 **LIVE major window:** Wimbledon dates fetched as **2026-06-22 – 2026-07-13**.
 
-### 🎾 Tennis — Wimbledon
-🔴 **LIVE major window:** Wimbledon dates fetched as **2026-06-22 – 2026-07-13**. Recent results include Kyrian Jacquet over Timofey Skatov, Jaime Faria over Rei Sakamoto, SoonWoo Kwon over Alejandro Moro Canas, Maria Timofeeva over Heather Watson, Leolia Jeanjean over Katie Volynets, and Bianca Andreescu over Aliaksandra Sasnovich.
+| Draw | Recent results |
+|---|---|
+| Men’s singles | Kyrian Jacquet def. Timofey Skatov; Jaime Faria def. Rei Sakamoto; SoonWoo Kwon def. Alejandro Moro Canas |
+| Women’s singles | Maria Timofeeva def. Heather Watson; Leolia Jeanjean def. Katie Volynets; Bianca Andreescu def. Aliaksandra Sasnovich |
 
-### 🚴 Cycling — Tour de France
-*[Data unavailable]* — ESPN has no cycling API in the fetched raw file; standings require a separate live scrape.
+#### 🚴 Cycling — Tour de France
+| Status | Note |
+|---|---|
+| Data unavailable | ESPN has no cycling API in the fetched raw file; standings require a separate live scrape. |
 
-### ⚽ FIFA World Cup
-**Completed:** Senegal 5, Iraq 0; France 4, Norway 1; Egypt 1, Iran 1; Belgium 5, New Zealand 1; Saudi Arabia 0, Cape Verde 0; Spain 1, Uruguay 0.
+#### ⚽ FIFA World Cup — Completed
+| Matchup | Final | TV |
+|---|---:|---|
+| Iraq at Senegal | Senegal 5, Iraq 0 | FS1 |
+| France at Norway | France 4, Norway 1 | FOX |
+| Iran at Egypt | Egypt 1, Iran 1 | FS1 |
+| Belgium at New Zealand | Belgium 5, New Zealand 1 | FOX |
+| Saudi Arabia at Cape Verde | Saudi Arabia 0, Cape Verde 0 | FS1 |
+| Spain at Uruguay | Spain 1, Uruguay 0 | FOX |
 
-**Upcoming:** Ghana at Croatia | Sat, June 27th at 5:00 PM EDT | TV: FS1; England at Panama | Sat, June 27th at 5:00 PM EDT | TV: FOX; Portugal at Colombia | Sat, June 27th at 7:30 PM EDT | TV: FOX; Uzbekistan at Congo DR | Sat, June 27th at 7:30 PM EDT | TV: FS1; Argentina at Jordan | Sat, June 27th at 10:00 PM EDT | TV: FOX; Austria at Algeria | Sat, June 27th at 10:00 PM EDT | TV: FS1; Canada at South Africa | Sun, June 28th at 3:00 PM EDT | TV: FOX.
+#### ⚽ FIFA World Cup — Upcoming
+| Time | Matchup | TV |
+|---:|---|---|
+| Sat, 5:00 PM EDT | Ghana at Croatia | FS1 |
+| Sat, 5:00 PM EDT | England at Panama | FOX |
+| Sat, 7:30 PM EDT | Portugal at Colombia | FOX |
+| Sat, 7:30 PM EDT | Uzbekistan at Congo DR | FS1 |
+| Sat, 10:00 PM EDT | Argentina at Jordan | FOX |
+| Sat, 10:00 PM EDT | Austria at Algeria | FS1 |
+| Sun, 3:00 PM EDT | Canada at South Africa | FOX |
 
 ### Team Reports
 > **NY Mets:** Latest fetched result: Phillies 2, Mets 1. Upcoming team schedule feed listed postponed Rockies games only; today's Mets game is in MLB card above.
