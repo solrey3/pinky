@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-26
-tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency]
-source_count: 15
+updated: 2026-06-27
+tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
+source_count: 16
 ---
 
 # Cloud & Infrastructure
@@ -35,6 +35,7 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM process-scaling claims and Framework's 10G Ethernet/USB-C complexity show that AI-era infrastructure depends on chips, ports, modules, and operational reliability.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — AWS Lambda MicroVMs and SpaceX Starlink mobile service extend the infrastructure graph into sandbox lifecycle control and satellite-to-phone network reach.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Starlink mobile repeats as satellite-to-phone infrastructure, while DeepSeek's inference optimizations make serving efficiency part of the AI infrastructure stack.
 
 ## Related Concepts
 
@@ -63,3 +64,5 @@ The evening source adds vertical integration to the infrastructure frame. AI cap
 The June 25 source keeps infrastructure physical. AI capacity is limited not only by chips and money but also by facility engineering: water loops, liquid cooling, operating temperatures, heat reuse, and permitting around power/water constraints.
 
 The June 26 daytime dispatch adds a hardware-interface reminder to the infrastructure graph. Cloud and AI systems ride on physical constraints: silicon process, interconnects, USB-C behavior, cooling, power, and reliable data extraction.
+
+The June 27 daytime source adds two infrastructure levers at different layers: Starlink mobile expands network reach, while inference optimization reduces serving cost/latency pressure. Both change what can be deployed and where.

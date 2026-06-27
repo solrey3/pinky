@@ -4,9 +4,9 @@ title: Federal Reserve
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr]
-source_count: 19
+source_count: 20
 ---
 
 # Federal Reserve
@@ -44,6 +44,7 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the Fed is stable background context rather than new guidance.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range while the market close turns more risk-off in Nasdaq, crypto, and oil.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Weekend rate snapshot keeps EFFR at **3.63%** inside the **3.50%–3.75%** target range, adding continuity rather than new Fed communication.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 18
+source_count: 19
 ---
 
 # AEW
@@ -43,6 +43,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — AEW appears through a Trios Title bout added to Collision and Forbidden Door qualifier logistics, keeping AEW in live-card and crossover-event build mode.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Kenny Omega previewing an AEW × NJPW Forbidden Door match against Zack Sabre Jr. keeps AEW in crossover-promotion mode.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — AEW Collision's lineup includes a Trios Title match, keeping AEW in Saturday television-card mode after Forbidden Door build.
 
 ## Related
 

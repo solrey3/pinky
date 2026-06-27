@@ -4,9 +4,9 @@ title: SpaceX
 type: entity
 entity_type: organization
 created: 2026-06-16
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone]
-source_count: 2
+source_count: 3
 ---
 
 # SpaceX
@@ -17,6 +17,7 @@ American aerospace and launch company founded by Elon Musk. In the newsletter gr
 
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Reuters/Hacker News item reports SpaceX buying Cursor/Anysphere for $60B, treating an AI coding platform as strategic infrastructure.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — SpaceX plans Starlink mobile service in the U.S., extending the company from launch/satellite infrastructure into satellite-to-phone network reach.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Starlink mobile service plans repeat, keeping SpaceX in the satellite-to-phone infrastructure lane.
 
 ## Related
 

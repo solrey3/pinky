@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-26
-tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling]
-source_count: 32
+updated: 2026-06-27
+tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization]
+source_count: 33
 ---
 
 # AI-Augmented Development
@@ -56,6 +56,7 @@ The practice of integrating large language models and AI coding agents into the 
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM chip scaling, Framework USB-C module complexity, Herculaneum scroll recovery, and Claude capability-protection all show AI-era development depending on hardware, tools, and governance.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol and AWS MicroVMs show the AI developer stack moving simultaneously toward stronger models, stricter access control, and better execution sandboxes.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol, Anthropic Mythos access permission, and DeepSeek inference optimizations show AI development shaped by capability, eligibility, and serving efficiency at once.
 
 ## Related Concepts
 
@@ -125,3 +126,5 @@ The evening source adds the knowledge-work surface. AI-first alternatives to Obs
 The June 26 source broadens AI-augmented development beyond coding agents. Applied compute now includes archival reconstruction, physical hardware interfaces, semiconductor scaling, and provider-side governance against capability extraction.
 
 The evening source adds a capability/access/isolation triad. Frontier model progress is meaningful only if developers can access it, governments/providers permit it, and workloads can be executed in controlled sandboxes such as MicroVMs.
+
+The June 27 daytime source adds inference efficiency to the same triad. Developer AI strategy is not only selecting the strongest model; it also means knowing whether access is permitted, whether the model can be run cheaply enough, and whether open optimizations can narrow the operational gap.

@@ -3,9 +3,9 @@ id: abb81c4e-424b-4613-9d04-e9e0c7b84565
 title: Sovereign AI
 type: concept
 created: 2026-06-21
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [ai, sovereignty, open-weights, model-governance, infrastructure, national-strategy, access-control]
-source_count: 3
+source_count: 4
 ---
 
 # Sovereign AI
@@ -18,6 +18,7 @@ Sovereign AI is the idea that a country, region, institution, or other governing
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus returns as an open foundation model for sovereign AI, reinforcing sovereignty as operational autonomy: model access, hosting, auditability, and governance capacity.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — U.S.-government vetting of GPT-5.6 Sol access frames sovereignty from the closed-model side: state authority over who may use frontier capability.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission repeat the closed-model sovereignty pattern: state-approved eligibility for frontier capability.
 
 ## Related Concepts
 
@@ -33,3 +34,5 @@ Sovereign AI is not only a model-release label. It combines model availability, 
 The June 22 repeat matters because sovereign AI is becoming a recurring desk item rather than a one-off model announcement. The durable question is whether institutions can actually operate the stack — model files, hosting, evals, policy, identity, monitoring, and incident response — not just whether a model is labeled open.
 
 The June 26 evening source shows the mirror image of open sovereign AI. A closed frontier model can also become sovereign infrastructure if state authorities control eligibility, export-like access, or national-security screening around its use.
+
+The June 27 daytime repeat reinforces that sovereignty can be exercised through gatekeeping as well as ownership. If government approval determines who receives or uses a model, national control sits directly in the distribution layer.

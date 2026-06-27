@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events]
-source_count: 15
+source_count: 16
 ---
 
 # WWE
@@ -37,6 +37,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — WWE appears through Piper Niven's health update six weeks after neck surgery, adding a talent-health note rather than a television-booking item.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — WWE appears through Bruce Prichard reportedly returning to a backstage role and a temporary 25% live-events discount that includes SummerSlam.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Night of Champions 2026 is today's major WWE event; SmackDown results and Blake Monroe's arrival keep TV continuity active.
 
 ## Related
 

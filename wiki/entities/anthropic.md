@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba]
-source_count: 20
+source_count: 21
 ---
 
 # Anthropic
@@ -16,6 +16,8 @@ AI safety company and frontier model lab, founded 2021 by Dario Amodei, Daniela 
 Anthropic's commercial trajectory through early 2026 tracked closely with Claude's market adoption — particularly among enterprise API customers and AI coding workflows where Claude's instruction-following and context handling were preferred by a segment of developers. By May 2026, Anthropic had overtaken OpenAI in paper valuation terms.
 
 ## 2026 Milestones
+
+- **June 27, 2026**: Federal approval for Mythos release to select companies keeps Anthropic's governance story centered on state-mediated availability, eligibility, and frontier capability distribution.
 
 - **June 26, 2026**: The Alibaba/Claude cloning allegation appears again, turning capability extraction into a repeated platform-security watch item across consecutive dispatches.
 
@@ -74,6 +76,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Anthropic/Alibaba cloning allegation remains in the evening AI desk, reinforcing model-capability extraction as a standing security and platform-enforcement concern.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Anthropic again says Alibaba should be punished for the Claude cloning/capability-extraction attack, making model extraction a repeated platform-security issue.
+
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Federal permission to release Mythos to select companies makes Anthropic model availability a government-approved access-control story.
 
 ## Related
 

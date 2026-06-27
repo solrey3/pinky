@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-26
+updated: 2026-06-27
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 38
+source_count: 39
 ---
 
 # Risk-Off Market Rotation
@@ -62,6 +62,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Friday morning keeps the split-tape diagnosis: Nasdaq **-2.55%**, Bitcoin **-6.83%**, and WTI **-7.43%** are weak, while Russell 2000 **+3.08%**, AMD **+3.92%**, TSM **+0.66%**, VBR, and VNQ hold up.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — The close is harsher risk-off in growth and cross-assets: Nasdaq **-4.60%**, Bitcoin **-6.47%**, WTI **-6.12%**, Nvidia **-8.62%**, and TSM **-6.44%**, while Dow/Russell/VBR/VNQ/SCHD/TGT remain green.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Weekend tables preserve the same selective risk-off read: Nasdaq **-4.60%**, WTI sharply lower, Bitcoin weak, Nvidia/TSM/AMD red, while Dow/Russell/VBR/VNQ/SCHD/TGT/UPS remain resilient.
 
 ## Related Concepts
 
@@ -146,3 +147,5 @@ The June 25 evening close strengthens that conclusion. Small caps are no longer 
 The June 26 daytime dispatch extends the June 25 split-tape read. Small caps and selected chip/foundry exposure remain resilient, but Nasdaq, Bitcoin, WTI, Nvidia, Tesla, and Netflix are weak enough that the regime still cannot be called clean risk-on.
 
 The June 26 evening close makes the same regime more severe. Nasdaq, crypto, oil, and AI semiconductors all sell off together, but positive Dow/Russell/value/REIT/dividend/retail pockets keep the correct label at selective risk-off rather than indiscriminate liquidation.
+
+The June 27 daytime dispatch is weekend carry-forward rather than fresh trading, but it confirms the same diagnosis across weekly tables. The negative pressure is concentrated in growth, chips, oil, and Bitcoin; the positive pockets remain small caps, dividends, REITs, small value, Target, UPS, and Berkshire-style quality.
