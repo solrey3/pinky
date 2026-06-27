@@ -163,7 +163,19 @@ Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.
 
 ---
 
-## 🏟️ SPORTS SCOREBOARD — RESULTS + TODAY'S CARD
+## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
+
+### 🗞️ Sports Newswire
+- **NBA:** [Free agency spending tiers](https://www.espn.com/nba/story/_/id/49190331/nba-free-agency-2026-salary-cap-tiers-lakers-thunder-nets-bulls-knicks-30-teams) and [offseason grades](https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts) are up; ESPN also reports Isaiah Hartenstein sticking with OKC on a new three-year deal.
+- **College hoops/football:** Elliot Cadeau plans to remain at Michigan; Ohio State landed 2027 five-star OT Caden Moss.
+- **NFL:** NFC West offseason roundtable leads the quiet June football wire; Giants next up are Cowboys at Giants on Sept. 13.
+- **MLB:** Full Saturday card below; fantasy/projection wires are busy, but the real noise is Phillies-Mets at Citi and Yankees-Red Sox on ABC.
+- **NHL:** [The 2026 NHL Draft tracker](https://www.espn.com/nhl/story/_/id/49189811/2026-nhl-draft-pick-tracker-live-updates-analysis-32-teams-7-rounds-scouting-notes) is the league’s main board today; ESPN also has Brandon Carlo to St. Louis and Seth Jarvis expected out 4–6 months.
+- **NJ Devils:** [Draft Day 2 notebook](https://www.nhl.com/devils/news/2026-nhl-draft-day-2-notebook), [Devils take Command 12th overall](https://www.nhl.com/devils/news/devils-draft-notebook-6-26-26), plus roster moves for [Chisholm](https://www.nhl.com/devils/news/chisholm-acquired-from-washington-release-6-25-26) and [Lombardi](https://www.nhl.com/devils/news/lombardi-acquired-from-detroit-release-6-25-26). Hockey’s off the ice, but the Newark front office is not.
+- **Soccer:** FIFA World Cup daily coverage rolls on; Premier League/Ligue 1 rumor mill has Man City battling Arsenal, Liverpool and Real Madrid for Bouaddi. Serie A wire: AC Milan named a new CEO amid Christian Pulisic transfer chatter.
+- **Golf/Tennis:** PGA Travelers has Eric Cole/Scottie Scheffler in the frame; LPGA’s Ina Yoon widened her Women’s PGA lead. Wimbledon watch: Sinner wants tennis talk, Osaka retired injured at Bad Homburg.
+
+### Scoreboard
 
 ### ⚾ MLB
 **Completed:** Rays 6, Diamondbacks 1; Reds 6, Pirates 4; Tigers 8, Astros 0; Red Sox 6, Yankees 1; Phillies 2, Mets 1; Mariners 3, Guardians 1; Rangers 5, Blue Jays 4; Orioles 3, Nationals 1; Brewers 6, Cubs 2; Twins 9, Rockies 8 (10); White Sox 22, Royals 1; Marlins 4, Cardinals 0; Athletics 9, Angels 3; Braves 3, Giants 1; Padres 7, Dodgers 1. **White Sox hang 22 — somebody check the scoreboard bulbs.**
@@ -189,6 +201,8 @@ Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.
 ### Team Reports
 > **NY Mets:** Latest fetched result: Phillies 2, Mets 1. Upcoming team schedule feed listed postponed Rockies games only; today's Mets game is in MLB card above.
 >
+> **NJ Devils:** No games on the NHL board, but the team wire is active: Draft Day 2 notebook, the club’s “Take Command 12th Overall” draft item, and acquisitions of Chisholm from Washington plus Lombardi from Detroit.
+>
 > **NY Giants:** Upcoming: Cowboys at Giants | 9/13 - 8:20 PM EDT | TV: N/A; Giants at Rams | 9/21 - 8:15 PM EDT | TV: N/A.
 >
 > **Seton Hall Pirates:** Last fetched line: St. John’s Red Storm at Seton Hall Pirates | St. John’s W 78 | Final. No upcoming games fetched.
@@ -200,6 +214,15 @@ Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.
 ## 🤼 SQUARED CIRCLE DIGEST
 
 **Big shows on deck:** WWE Night of Champions 2026 is today, with preview/start-time coverage fetched. AEW Collision also has a lineup posted for tonight.
+
+### Upcoming TV / PLE Schedule
+| Group | Next up | Where |
+|---|---|---|
+| WWE/NXT/AAA | WWE Night of Champions today; Raw Mon, NXT Tue, SmackDown Fri; AAA events via official schedule | Netflix / CW / USA / Peacock; AAA official |
+| AEW/ROH | AEW Collision tonight; Dynamite Wed; ROH TV Thu | TNT/TBS; HonorClub |
+| TNA | iMPACT! Thu; PPVs/specials via TNA events page | AXS TV / TNA+ |
+| NJPW | Tour cards and major shows via NJPW calendar | NJPW World |
+| CMLL | Arena México Tue/Fri/Sun; Sábados de Coliseo Sat | CMLL/YouTube |
 
 - **[WWE]** [WWE SmackDown Results (6/26/2026): Rey Fenix vs. Nathan Frazer, Cody Rhodes, GUNTHER, More](https://www.fightful.com/wrestling-news/wwe-smackdown-results-6-26-2026-rey-fenix-vs-nathan-frazer-cody-rhodes-gunther-more)
 - **[WWE]** [WWE Night Of Champions 2026 Preview, Start Time, How To Watch, Location (6/27)](https://www.fightful.com/wrestling-news/wwe-night-of-champions-2026-preview-start-time-how-watch-location-6-27)
