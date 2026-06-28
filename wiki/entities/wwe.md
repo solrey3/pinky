@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-27
+updated: 2026-06-28
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 17
+source_count: 18
 ---
 
 # WWE
@@ -39,6 +39,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — WWE appears through Bruce Prichard reportedly returning to a backstage role and a temporary 25% live-events discount that includes SummerSlam.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Night of Champions 2026 is today's major WWE event; SmackDown results and Blake Monroe's arrival keep TV continuity active.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Night of Champions 2026 shifts from preview to result: Sami Zayn wins the Undisputed WWE Championship, Oba Femi wins King of the Ring, and IYO SKY wins Queen of the Ring.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — WWE stays central through Raw/SmackDown/NXT scheduling, Night of Champions fallout, Sami Zayn world-title chatter, and AAA/NXT crossover news.
 
 ## Related
 

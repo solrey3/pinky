@@ -3,9 +3,9 @@ id: 2b7532a5-db8e-4f8a-b2ac-6688d7690c48
 title: Semiconductor Scaling
 type: concept
 created: 2026-06-23
-updated: 2026-06-27
+updated: 2026-06-28
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 6
+source_count: 7
 ---
 
 # Semiconductor Scaling
@@ -23,6 +23,8 @@ Semiconductor scaling is the continued improvement of chip density, performance,
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM's sub-1 nanometer chip-technology claim remains the AI-hardware headline, keeping process/transistor scaling in the infrastructure thread.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — AI-assisted RFIC design extends the scaling thread into design automation for specialized analog/radio-frequency chips, not just digital transistor density.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — RFIC design automation frames semiconductor progress as design-tool leverage as well as transistor/process/foundry scaling.
 
 ## Related Concepts
 
@@ -43,3 +45,5 @@ The June 25 evening source adds IBM's process-technology claim. Even when the AI
 The June 26 daytime source confirms IBM's sub-1 nm item as a recurring semiconductor-scaling watch item, not just a one-off evening mention. The thread remains physical: devices, materials, manufacturing, thermals, and capital intensity beneath AI demand.
 
 The June 27 evening RFIC item adds the design-process layer. Scaling is not only smaller devices; it is also using AI to search, optimize, and validate specialized chip designs where expert intuition, simulation loops, and layout constraints are bottlenecks.
+
+The June 28 repeat makes RFIC automation a durable scaling subtheme. If AI can shorten specialized design loops, then effective semiconductor progress can come from better search and optimization over design spaces, not only from smaller process nodes or bigger capital budgets.

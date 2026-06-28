@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-27
+updated: 2026-06-28
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 40
+source_count: 41
 ---
 
 # Risk-Off Market Rotation
@@ -64,6 +64,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — The close is harsher risk-off in growth and cross-assets: Nasdaq **-4.60%**, Bitcoin **-6.47%**, WTI **-6.12%**, Nvidia **-8.62%**, and TSM **-6.44%**, while Dow/Russell/VBR/VNQ/SCHD/TGT remain green.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Weekend tables preserve the same selective risk-off read: Nasdaq **-4.60%**, WTI sharply lower, Bitcoin weak, Nvidia/TSM/AMD red, while Dow/Russell/VBR/VNQ/SCHD/TGT/UPS remain resilient.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Evening tables confirm the same regime: Nasdaq **-4.60%**, Nvidia **-8.62%**, TSM **-6.44%**, Bitcoin and WTI weak, while Dow/Russell/SCHD/VBR/VNQ/TGT/UPS/BRK.B remain resilient.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Sunday tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/Target/UPS pockets remain resilient.
 
 ## Related Concepts
 
@@ -152,3 +154,5 @@ The June 26 evening close makes the same regime more severe. Nasdaq, crypto, oil
 The June 27 daytime dispatch is weekend carry-forward rather than fresh trading, but it confirms the same diagnosis across weekly tables. The negative pressure is concentrated in growth, chips, oil, and Bitcoin; the positive pockets remain small caps, dividends, REITs, small value, Target, UPS, and Berkshire-style quality.
 
 The June 27 evening dispatch does not change the market label. It adds more closing-board confidence that this is selective risk-off: semis and growth are the pain points, but small-cap/value/dividend/REIT/retail/quality pockets keep attracting capital.
+
+The June 28 daytime dispatch is useful mainly as confirmation, not price discovery. Because it is a Sunday source using completed-week data, it should not be overread as a new market move; it validates that the active label remains selective risk-off: growth/chips/crypto/oil weak, but small-cap/value/dividend/REIT/retail/quality pockets still resilient.

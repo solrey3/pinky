@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-26
+updated: 2026-06-28
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 26
+source_count: 27
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -79,6 +79,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — NOAH Legacy Rise coverage appears alongside the recurring Tanahashi vs. Okada Wrestle Kingdom 20 ratings-table benchmark, keeping Japanese-promotion context in the daily wrestling graph.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — NJPW appears through AEW × NJPW Forbidden Door promotion and the recurring Tanahashi vs. Okada Wrestle Kingdom 20 six-star benchmark.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — NJPW stays tied to cross-promotional wrestling through Forbidden Door and tour-calendar context.
 
 ## Related
 

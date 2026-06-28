@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-27
+updated: 2026-06-28
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design]
-source_count: 34
+source_count: 35
 ---
 
 # AI-Augmented Development
@@ -58,6 +58,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol and AWS MicroVMs show the AI developer stack moving simultaneously toward stronger models, stricter access control, and better execution sandboxes.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol, Anthropic Mythos access permission, and DeepSeek inference optimizations show AI development shaped by capability, eligibility, and serving efficiency at once.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — DeepSeek DSpark/speculative decoding and AI-assisted RFIC design show AI-era development moving into inference engineering and specialized chip-design automation.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — AI-assisted RFIC design shows AI tooling moving deeper into specialized hardware-engineering workflows, not only code generation or chat interfaces.
 
 ## Related Concepts
 
@@ -131,3 +133,5 @@ The evening source adds a capability/access/isolation triad. Frontier model prog
 The June 27 daytime source adds inference efficiency to the same triad. Developer AI strategy is not only selecting the strongest model; it also means knowing whether access is permitted, whether the model can be run cheaply enough, and whether open optimizations can narrow the operational gap.
 
 The evening source makes the efficiency layer more concrete. Speculative decoding is serving engineering, not product marketing; RFIC design automation is specialized domain work, not generic chatbot use. AI-augmented development increasingly means applying models to the hidden engineering layers that make systems faster, cheaper, and physically buildable.
+
+The June 28 RFIC item is a reminder not to define AI-augmented development too narrowly as software coding. The same automation loop — propose, simulate, evaluate, refine — is moving into specialized engineering domains where the artifacts are circuits and chips, not repositories and pull requests.

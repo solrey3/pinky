@@ -4,9 +4,9 @@ title: Sami Zayn
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-27
+updated: 2026-06-28
 tags: [person, wrestling, wwe, night-of-champions, world-champion]
-source_count: 5
+source_count: 6
 ---
 
 # Sami Zayn
@@ -39,6 +39,8 @@ source_count: 5
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up notes Sami Zayn as referee for the WWE title-match setup, keeping him active in the Cody/Gunther orbit.
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening wrestling digest repeats the SmackDown result: Sami is set to referee the WWE title-match setup after Jey Uso and Charlotte Flair advance in tournament action.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Night of Champions 2026 records the major state change: Sami Zayn wins the Undisputed WWE Championship.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Zayn's first WWE world-title win remains the main-event discussion thread after Night of Champions.
 
 ## Related
 

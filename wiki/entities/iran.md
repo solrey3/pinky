@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-06-27
+updated: 2026-06-28
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 12
+source_count: 13
 ---
 
 # Iran
@@ -34,6 +34,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — U.S. strikes on Iranian missile/radar sites after a reported cargo-ship attack keep Iran tied to Hormuz shipping risk, regional-framework diplomacy, and war-powers disputes.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Weekend coverage repeats U.S. strikes, Hormuz shipping risk, regional-framework diplomacy, and U.S.-Iran nuclear/Hormuz prediction-market chatter.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Evening headlines escalate the thread through U.S.-Iran red-line testing and reported Iranian retaliatory strikes on Bahrain.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Renewed U.S. strikes and reported Iranian strikes on Bahrain and Kuwait keep Iran tied to escalation risk, fragile interim diplomacy, and oil-market interpretation.
 
 ## Related
 

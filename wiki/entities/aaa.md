@@ -4,9 +4,9 @@ title: AAA
 type: entity
 entity_type: organization
 created: 2026-06-19
-updated: 2026-06-22
+updated: 2026-06-28
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 4
+source_count: 5
 ---
 
 # AAA
@@ -21,6 +21,8 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — AAA on Fox results remain in the wrestling digest, with El Grande Americano and the revived Perros del Mal faction keeping AAA's U.S.-TV lane visible.
 
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — AAA on Fox results repeat through El Grande Americano and the revived Perros del Mal faction, keeping AAA visible in the U.S.-TV wrestling lane.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — AAA appears through AAA on Fox results and an El Hijo del Vikingo/NXT crossover item, reinforcing lucha/WWE crossover tracking.
 
 ## Related
 

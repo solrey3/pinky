@@ -3,9 +3,9 @@ id: 5ff9d159-4899-45de-a577-c78666bd6d33
 title: AI Output Liability
 type: concept
 created: 2026-06-10
-updated: 2026-06-23
+updated: 2026-06-28
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems]
-source_count: 8
+source_count: 9
 ---
 
 # AI Output Liability
@@ -23,6 +23,8 @@ AI output liability is the accountability problem created when generated answers
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The same German AI Overview liability ruling remains in the around-the-web feed, confirming the issue has enough persistence to track as a standing platform-risk theme.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Stanford HAI's AI hiring-tools bias item extends output liability from search and policing into employment screening, where algorithmic scores can become institutional rejection decisions.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The NYT/Microsoft/OpenAI supercomputer allegation keeps copyright liability attached to AI infrastructure, not only individual generated outputs.
 
 ## Related Concepts
 
@@ -48,3 +50,5 @@ The June 15 evening dispatch returns the issue to search. If AI Overview answers
 The June 16 morning dispatch adds persistence as signal. Repeated coverage of the same ruling means generated-search accountability is no longer just a legal novelty; it is a product-risk category that search platforms, publishers, and users will have to price into trust decisions.
 
 The June 23 hiring-bias item adds employment as another liability surface. A hiring score or automated rejection may not look like a generated answer, but it is still an AI-produced institutional output that can cause material harm if treated as neutral or unreviewable.
+
+The June 28 Microsoft/OpenAI allegation widens the liability frame from outputs to inputs and infrastructure. Copyright risk can attach not only when a model produces a disputed answer, but also when the compute stack is alleged to have been built or used around infringing training activity.

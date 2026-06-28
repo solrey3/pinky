@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-26
+updated: 2026-06-28
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 9
+source_count: 10
 ---
 
 # TNA Wrestling
@@ -27,6 +27,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — TNA Impact results and sale-rumor chatter remain active, with Tony Khan again rejecting interest in a TNA purchase.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — TNA leads the wrestling digest through Impact discussion and Joe Doering's death at 44 after a long battle with brain cancer.
+
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — TNA appears through iMPACT schedule context and a Slammiversary preview, keeping the promotion in the major-show watchlist.
 
 ## Related
 
