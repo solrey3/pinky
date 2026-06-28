@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-28
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 10
+source_count: 11
 ---
 
 # TNA Wrestling
@@ -29,6 +29,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — TNA leads the wrestling digest through Impact discussion and Joe Doering's death at 44 after a long battle with brain cancer.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — TNA appears through iMPACT schedule context and a Slammiversary preview, keeping the promotion in the major-show watchlist.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — TNA leads fresh wrestling headlines through Slammiversary notes: Amazing Red Hall of Fame recognition, Knockouts tag-title movement, and Cedric Alexander winning Ultimate X.
 
 ## Related
 

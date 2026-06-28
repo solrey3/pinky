@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-28
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 44
+source_count: 45
 ---
 
 # Market Inefficiency
@@ -69,6 +69,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Polymarket supplies World Cup matchup percentages, but Kalshi is unavailable and the feed still lacks market IDs, deltas, liquidity, timestamps, and resolution text.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Prediction-market evidence remains low-grade: Polymarket supplies Iran/World Cup chatter without clean odds or mover data and Kalshi is unavailable.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Polymarket Iran/World Cup topics were fetched without verified odds or move values, while Kalshi remained unavailable; the prediction-market field stays provenance-limited.
 
 ## Related Concepts
 
@@ -159,3 +161,5 @@ The June 27 daytime dispatch repeats that rule. Topic chatter can tell us what t
 The evening dispatch has more numeric World Cup percentages, but not enough structure to change the evidence class. Percentages without market identity, liquidity, prior price, timestamp, and resolution terms are still watchlist prompts, not forecast-grade probabilities.
 
 The June 28 prediction-market block reinforces an evidence-quality rule: extracted trend labels are not the same as tradable odds, liquidity, or mover data. Treat Polymarket/Kalshi snippets as weak watchlist signals until market metadata is clean.
+
+The evening prediction-market block repeats the pipeline limitation. Topic discovery is useful for watchlists, but without odds, deltas, IDs, liquidity, and timestamps it remains metadata rather than a forecast input.

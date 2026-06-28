@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-06-28
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 20
+source_count: 21
 ---
 
 # Monetary Policy Forward Guidance
@@ -45,6 +45,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Evening EFFR again remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not a Fed communication event.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — EFFR stays at **3.63%** inside the **3.50%–3.75%** target range, making Fed policy stable context rather than a fresh signal.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not new forward guidance.
 
 ## Related Concepts
 
@@ -91,3 +93,5 @@ The June 27 daytime dispatch repeats the same evidence class. A stable rate prin
 The evening dispatch adds one more context-only print. The market's risk-off rotation is observable price action; the Fed field provides the rate backdrop but no new reaction-function evidence.
 
 The June 28 daytime dispatch adds no new Fed communication, which is itself the point. EFFR and the target range function as macro context while the market story is being driven by rotation, oil, semiconductors, and geopolitical risk rather than a fresh policy signal.
+
+The evening source reinforces the boundary between rate data and guidance. EFFR/target-range continuity anchors the dashboard, but there is no new Fed reaction-function evidence.

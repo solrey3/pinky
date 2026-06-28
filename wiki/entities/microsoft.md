@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-02
 updated: 2026-06-28
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 16
+source_count: 17
 ---
 
 # Microsoft
@@ -61,6 +61,8 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Microsoft's crypto-clipper/backdoor item persists into the evening dispatch, keeping wallet-address verification, clipboard distrust, Tor monitoring, and persistence review active.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The New York Times/OpenAI complaint alleges Microsoft built copyright-infringing supercomputer capacity for OpenAI, tying Microsoft AI infrastructure to copyright and platform-liability risk.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — The New York Times/OpenAI complaint again alleges Microsoft built disputed supercomputer capacity for OpenAI, tying Microsoft AI infrastructure to copyright and platform-liability risk.
 
 ## Related
 

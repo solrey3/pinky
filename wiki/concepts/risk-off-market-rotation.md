@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-28
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 41
+source_count: 42
 ---
 
 # Risk-Off Market Rotation
@@ -66,6 +66,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Evening tables confirm the same regime: Nasdaq **-4.60%**, Nvidia **-8.62%**, TSM **-6.44%**, Bitcoin and WTI weak, while Dow/Russell/SCHD/VBR/VNQ/TGT/UPS/BRK.B remain resilient.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Sunday tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/Target/UPS pockets remain resilient.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Evening completed-week tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/retail/quality pockets remain resilient.
 
 ## Related Concepts
 
@@ -156,3 +158,5 @@ The June 27 daytime dispatch is weekend carry-forward rather than fresh trading,
 The June 27 evening dispatch does not change the market label. It adds more closing-board confidence that this is selective risk-off: semis and growth are the pain points, but small-cap/value/dividend/REIT/retail/quality pockets keep attracting capital.
 
 The June 28 daytime dispatch is useful mainly as confirmation, not price discovery. Because it is a Sunday source using completed-week data, it should not be overread as a new market move; it validates that the active label remains selective risk-off: growth/chips/crypto/oil weak, but small-cap/value/dividend/REIT/retail/quality pockets still resilient.
+
+The June 28 evening dispatch is another confirmation source, not fresh Sunday price discovery. Its value is that the completed-week board still says selective risk-off: growth, chips, crypto, and crude are weak, but capital has not fled equities uniformly.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-11
 updated: 2026-06-28
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 10
+source_count: 11
 ---
 
 # OpenAI
@@ -34,6 +34,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol remains a lead AI item, again paired with U.S.-government access vetting rather than treated as a plain model-release story.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The NYT litigation thread adds a Microsoft-built supercomputer allegation, keeping OpenAI tied to copyright liability, compute infrastructure, and provenance of model-training inputs.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — The NYT litigation thread again keeps OpenAI tied to copyright liability, model-training provenance, and the physical compute infrastructure behind frontier AI.
 
 ## Related
 

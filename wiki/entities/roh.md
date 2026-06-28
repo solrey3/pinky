@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-28
 tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings]
-source_count: 7
+source_count: 8
 ---
 
 # ROH
@@ -27,6 +27,8 @@ Ring of Honor, a professional wrestling promotion historically associated with w
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — ROH Global Wars Cincinnati results keep ROH in the cross-promotional lane with CMLL and STARDOM talent.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — ROH remains part of the weekly promotion grid through HonorClub/ROH TV schedule context.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — ROH remains in the weekly promotion grid through HonorClub/ROH TV schedule context.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-26
 updated: 2026-06-28
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 4
+source_count: 5
 ---
 
 # Netflix
@@ -20,6 +20,8 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — The profile-email requirement repeats again, confirming account identity as the durable Netflix story while the stock remains close to its 52-week low.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The unique-email profile requirement repeats, confirming account identity as the durable Netflix platform-policy story while the stock remains weak.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — The unique-email profile requirement repeats, confirming account identity as the durable Netflix platform-policy story while the stock remains weak near its 52-week low.
 
 ## Related
 

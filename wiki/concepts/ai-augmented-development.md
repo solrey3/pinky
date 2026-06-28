@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-28
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design]
-source_count: 35
+source_count: 36
 ---
 
 # AI-Augmented Development
@@ -60,6 +60,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — DeepSeek DSpark/speculative decoding and AI-assisted RFIC design show AI-era development moving into inference engineering and specialized chip-design automation.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — AI-assisted RFIC design shows AI tooling moving deeper into specialized hardware-engineering workflows, not only code generation or chat interfaces.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — GLM 5.2 cyber-benchmark claims and Claude Code MRI use show AI tooling moving into specialized security evaluation and medical-adjacent personal workflows.
 
 ## Related Concepts
 
@@ -135,3 +137,5 @@ The June 27 daytime source adds inference efficiency to the same triad. Develope
 The evening source makes the efficiency layer more concrete. Speculative decoding is serving engineering, not product marketing; RFIC design automation is specialized domain work, not generic chatbot use. AI-augmented development increasingly means applying models to the hidden engineering layers that make systems faster, cheaper, and physically buildable.
 
 The June 28 RFIC item is a reminder not to define AI-augmented development too narrowly as software coding. The same automation loop — propose, simulate, evaluate, refine — is moving into specialized engineering domains where the artifacts are circuits and chips, not repositories and pull requests.
+
+The evening source widens AI-augmented work beyond coding. Security benchmarks and personal MRI interpretation show the same toolchain entering domains where evaluation quality, provenance, and human review matter as much as raw model capability.

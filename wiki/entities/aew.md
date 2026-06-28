@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-28
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 20
+source_count: 21
 ---
 
 # AEW
@@ -46,6 +46,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — AEW Collision's lineup includes a Trios Title match, keeping AEW in Saturday television-card mode after Forbidden Door build.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — AEW remains in the digest through Collision results, Dynamite/Collision scheduling, and the AEW x NJPW Forbidden Door lineup.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — AEW remains in the digest through Dynamite/Collision scheduling and Forbidden Door headlines, including Swerve Strickland vs. Will Ospreay planning.
 
 ## Related
 

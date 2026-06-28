@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-23
 updated: 2026-06-28
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 7
+source_count: 8
 ---
 
 # Semiconductor Scaling
@@ -25,6 +25,8 @@ Semiconductor scaling is the continued improvement of chip density, performance,
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — AI-assisted RFIC design extends the scaling thread into design automation for specialized analog/radio-frequency chips, not just digital transistor density.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — RFIC design automation frames semiconductor progress as design-tool leverage as well as transistor/process/foundry scaling.
+
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Nvidia, TSM, and AMD weakness keeps the AI-infrastructure semiconductor cycle under market pressure even as design automation remains the longer-term scaling thread.
 
 ## Related Concepts
 
@@ -47,3 +49,5 @@ The June 26 daytime source confirms IBM's sub-1 nm item as a recurring semicondu
 The June 27 evening RFIC item adds the design-process layer. Scaling is not only smaller devices; it is also using AI to search, optimize, and validate specialized chip designs where expert intuition, simulation loops, and layout constraints are bottlenecks.
 
 The June 28 repeat makes RFIC automation a durable scaling subtheme. If AI can shorten specialized design loops, then effective semiconductor progress can come from better search and optimization over design spaces, not only from smaller process nodes or bigger capital budgets.
+
+The evening market table is not a scaling breakthrough, but it links semiconductor scaling to capital-market pressure. The AI infrastructure cycle is still exposed to valuation and rotation risk even when the technical scaling story remains active.
