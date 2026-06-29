@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days]
-source_count: 47
+source_count: 48
 ---
 
 # Security & Privacy Toolkit
@@ -73,6 +73,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Alleged GitHub zero-day dumping, Netflix profile identity, and AI infrastructure/copyright claims keep provenance, disclosure discipline, account identity, and audit trails in the active security frame.
 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Cyber-benchmark provenance, AI-assisted medical interpretation, Netflix profile identity, and AI copyright-infrastructure claims keep auditability across models, accounts, outputs, and compute infrastructure in the active security frame.
+
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Cyber-benchmark provenance, opaque ATS scoring, KIDS Act age checks, and AI copyright-infrastructure claims keep auditability and identity design inside the active security/privacy frame.
 
 ## Related Concepts
 
@@ -166,3 +168,6 @@ The evening GitHub item adds disclosure discipline back into the same map. Dumpi
 The June 28 daytime source ties four trust surfaces together: exploit disclosure on GitHub, account identity at Netflix, AI-assisted chip design, and copyright claims around AI compute infrastructure. Practical security review now needs provenance not only for code and accounts, but also for training data, model-serving infrastructure, and design-automation artifacts.
 
 The evening source ties auditability across domains: benchmarks should be reproducible, medical-adjacent AI use should preserve professional oversight and provenance, streaming profiles are becoming explicit account identities, and AI infrastructure can carry copyright-liability claims.
+
+The June 29 source joins identity, scoring, and provenance. Age checks can become privacy-sensitive infrastructure; ATS scores can become opaque gates to employment; model benchmarks can mislead without reproducible methods; and AI copyright claims now implicate compute infrastructure and audit trails.
+

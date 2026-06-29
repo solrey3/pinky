@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 19
+source_count: 20
 ---
 
 # WWE
@@ -43,6 +43,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — WWE stays central through Raw/SmackDown/NXT scheduling, Night of Champions fallout, Sami Zayn world-title chatter, and AAA/NXT crossover news.
 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — WWE stays central through Raw/SmackDown/NXT scheduling, Night of Champions fallout, Great American Bash preview context, and Brock Lesnar return-note chatter.
+
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — WWE appears through Raw in Atlantic City plus the Raw/SmackDown/NXT weekly schedule grid, keeping the promotion in live-event and TV-calendar mode.
 
 ## Related
 

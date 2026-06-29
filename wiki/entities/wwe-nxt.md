@@ -4,9 +4,9 @@ title: WWE NXT
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-26
+updated: 2026-06-29
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 5
+source_count: 6
 ---
 
 # WWE NXT
@@ -22,6 +22,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Nikkita Lyons winning her first WWE championship keeps NXT in the emerging-title and developmental-pipeline thread.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — NXT Women's Championship coverage for Great American Bash keeps WWE NXT in the weekly event-build feed.
+
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Great American Bash 2026 results, including Kendal Grey winning the women's title and Tony D'Angelo, Zaria, and Myles Borne retaining, keep NXT in the title-results feed.
 
 ## Related
 

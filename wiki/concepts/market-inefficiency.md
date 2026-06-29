@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 45
+source_count: 46
 ---
 
 # Market Inefficiency
@@ -71,6 +71,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Prediction-market evidence remains low-grade: Polymarket supplies Iran/World Cup chatter without clean odds or mover data and Kalshi is unavailable.
 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Polymarket Iran/World Cup topics were fetched without verified odds or move values, while Kalshi remained unavailable; the prediction-market field stays provenance-limited.
+
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Polymarket returns World Cup, Golden Boot, and U.S.-Iran nuclear-deal topics while Kalshi is unavailable; the field remains watchlist metadata, not forecast-grade evidence.
 
 ## Related Concepts
 
@@ -163,3 +165,6 @@ The evening dispatch has more numeric World Cup percentages, but not enough stru
 The June 28 prediction-market block reinforces an evidence-quality rule: extracted trend labels are not the same as tradable odds, liquidity, or mover data. Treat Polymarket/Kalshi snippets as weak watchlist signals until market metadata is clean.
 
 The evening prediction-market block repeats the pipeline limitation. Topic discovery is useful for watchlists, but without odds, deltas, IDs, liquidity, and timestamps it remains metadata rather than a forecast input.
+
+The June 29 prediction-market block remains a pipeline-health note. Topic labels around World Cup and U.S.-Iran questions are prompts for manual checking, but not usable probabilities without odds, deltas, IDs, liquidity, timestamps, and resolution language.
+

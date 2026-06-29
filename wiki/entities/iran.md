@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 14
+source_count: 15
 ---
 
 # Iran
@@ -38,6 +38,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Renewed U.S. strikes and reported Iranian strikes on Bahrain and Kuwait keep Iran tied to escalation risk, fragile interim diplomacy, and oil-market interpretation.
 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Reported Iranian attacks on Bahrain and Kuwait after U.S. strikes keep Iran tied to Gulf escalation, fragile diplomacy, and oil-market interpretation.
+
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — U.S.-Iran coverage shifts toward a temporary stand-down and resumed peace talks, moving the thread from escalation risk toward fragile diplomacy.
 
 ## Related
 

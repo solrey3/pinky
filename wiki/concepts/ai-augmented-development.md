@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design]
-source_count: 36
+source_count: 37
 ---
 
 # AI-Augmented Development
@@ -62,6 +62,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — AI-assisted RFIC design shows AI tooling moving deeper into specialized hardware-engineering workflows, not only code generation or chat interfaces.
 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — GLM 5.2 cyber-benchmark claims and Claude Code MRI use show AI tooling moving into specialized security evaluation and medical-adjacent personal workflows.
+
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — GLM 5.2 cyber-benchmark claims and HackerRank ATS tooling show AI evaluation and developer-adjacent automation moving into specialized workflows where scoring provenance matters.
 
 ## Related Concepts
 
@@ -139,3 +141,6 @@ The evening source makes the efficiency layer more concrete. Speculative decodin
 The June 28 RFIC item is a reminder not to define AI-augmented development too narrowly as software coding. The same automation loop — propose, simulate, evaluate, refine — is moving into specialized engineering domains where the artifacts are circuits and chips, not repositories and pull requests.
 
 The evening source widens AI-augmented work beyond coding. Security benchmarks and personal MRI interpretation show the same toolchain entering domains where evaluation quality, provenance, and human review matter as much as raw model capability.
+
+The June 29 AI/tech block is about evaluation infrastructure more than flashy capability. A cyber benchmark, an ATS score, and an AI copyright claim all ask whether the surrounding system can explain how it scored, trained, or served the result.
+

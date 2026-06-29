@@ -3,9 +3,9 @@ id: 5ff9d159-4899-45de-a577-c78666bd6d33
 title: AI Output Liability
 type: concept
 created: 2026-06-10
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems]
-source_count: 10
+source_count: 11
 ---
 
 # AI Output Liability
@@ -27,6 +27,8 @@ AI output liability is the accountability problem created when generated answers
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The NYT/Microsoft/OpenAI supercomputer allegation keeps copyright liability attached to AI infrastructure, not only individual generated outputs.
 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — The Microsoft/OpenAI copyright-infrastructure allegation and Claude Code MRI story extend accountability from generic generated text into physical AI infrastructure and consequential medical-adjacent advice.
+
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — NYT/Microsoft/OpenAI allegations keep copyright liability attached to AI compute infrastructure and training provenance, not just visible generated outputs.
 
 ## Related Concepts
 
@@ -56,3 +58,6 @@ The June 23 hiring-bias item adds employment as another liability surface. A hir
 The June 28 Microsoft/OpenAI allegation widens the liability frame from outputs to inputs and infrastructure. Copyright risk can attach not only when a model produces a disputed answer, but also when the compute stack is alleged to have been built or used around infringing training activity.
 
 The evening source pushes accountability into higher-consequence contexts. A medical second-opinion story raises reliance and professional-review questions, while the Microsoft/OpenAI allegation keeps infrastructure and training provenance inside the liability perimeter.
+
+The June 29 source keeps the liability perimeter wide. Copyright accountability can attach to training provenance and infrastructure decisions, while automated scoring systems show that consequential AI outputs do not have to be prose to create institutional risk.
+
