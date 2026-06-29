@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-29
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design]
-source_count: 37
+source_count: 38
 ---
 
 # AI-Augmented Development
@@ -64,6 +64,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — GLM 5.2 cyber-benchmark claims and Claude Code MRI use show AI tooling moving into specialized security evaluation and medical-adjacent personal workflows.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — GLM 5.2 cyber-benchmark claims and HackerRank ATS tooling show AI evaluation and developer-adjacent automation moving into specialized workflows where scoring provenance matters.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B and Ornith-1.0 keep local/open model workflows and self-improving agentic coding in the practical developer-tooling frame.
 
 ## Related Concepts
 

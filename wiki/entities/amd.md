@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-06-29
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 23
+source_count: 24
 ---
 
 # AMD
@@ -51,6 +51,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — AMD remains down **-2.94%** but high in its 52-week range, making it part of chip weakness without becoming the worst risk-off signal.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — AMD remains down **-2.94%** but less damaged than Nvidia and TSM, keeping its semiconductor signal negative but not capitulatory.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — AMD falls **-2.20%**, negative but less severe than Nvidia and still near the upper end of its 52-week range.
 
 ## Related
 

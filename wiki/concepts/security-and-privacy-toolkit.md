@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-29
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days]
-source_count: 48
+source_count: 49
 ---
 
 # Security & Privacy Toolkit
@@ -75,6 +75,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Cyber-benchmark provenance, AI-assisted medical interpretation, Netflix profile identity, and AI copyright-infrastructure claims keep auditability across models, accounts, outputs, and compute infrastructure in the active security frame.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Cyber-benchmark provenance, opaque ATS scoring, KIDS Act age checks, and AI copyright-infrastructure claims keep auditability and identity design inside the active security/privacy frame.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — The geofence-warrant ruling adds location-data searches to the privacy perimeter, reinforcing legal process, minimization, and audit trails for surveillance data.
 
 ## Related Concepts
 

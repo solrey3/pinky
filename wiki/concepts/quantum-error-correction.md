@@ -3,9 +3,9 @@ id: 6f8927d8-7825-48b9-9649-4c8e3ad44a35
 title: Quantum Error Correction
 type: concept
 created: 2026-06-17
-updated: 2026-06-22
+updated: 2026-06-29
 tags: [quantum-computing, error-correction, infrastructure, microsoft, research, vendor-roadmap, policy]
-source_count: 3
+source_count: 4
 ---
 
 # Quantum Error Correction
@@ -18,6 +18,8 @@ The set of techniques used to protect fragile quantum information from noise, de
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — The 2028 useful-error-correction claim repeats in the morning AI desk, upgrading it from a single evening item into a timeline worth tracking across vendor updates.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Trump quantum research/security orders provide policy backdrop for quantum infrastructure, but they do not change the technical standard for useful error correction.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — A quantum startup claim of useful error correction by 2028 is treated as a roadmap promise that still needs reproducible engineering evidence.
 
 ## Related Concepts
 

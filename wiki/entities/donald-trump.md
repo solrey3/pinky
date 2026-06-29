@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data]
-source_count: 14
+source_count: 15
 ---
 
 # Donald Trump
@@ -38,6 +38,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Appears through the Supreme Court allowing the administration to end TPS protections for Haitian and Syrian nationals, keeping immigration policy inside the institutional-conflict stream.
 
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Appears through a warning to the likely next D.C. mayor and a bipartisan housing bill headed to the White House, keeping Trump in domestic policy and institutional-conflict coverage.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Appears through Medicaid work-rule litigation against his administration and renewed pressure on Fed governor Lisa Cook, keeping executive pressure on institutions in view.
 
 ## Related
 

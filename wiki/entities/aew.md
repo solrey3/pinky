@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-29
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 22
+source_count: 23
 ---
 
 # AEW
@@ -50,6 +50,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — AEW remains in the digest through Dynamite/Collision scheduling and Forbidden Door headlines, including Swerve Strickland vs. Will Ospreay planning.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Forbidden Door fallout leads AEW coverage: Will Ospreay wins the men's Owen Hart Foundation Tournament, Mercedes Moné wins the women's tournament, and Jay White returns.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — AEW appears through Dynamite/Collision scheduling, Forbidden Door fallout, and Mark Briscoe challenging MJF for the AEW World Championship.
 
 ## Related
 

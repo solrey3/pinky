@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-29
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 43
+source_count: 44
 ---
 
 # Risk-Off Market Rotation
@@ -70,6 +70,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Evening completed-week tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/retail/quality pockets remain resilient.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Monday morning tables preserve selective risk-off: Nasdaq **-4.60%**, Nvidia **-8.62%**, TSM **-6.44%**, and AMD **-2.94%** against resilient Dow/Russell/value/dividend/REIT/retail pockets.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — The close remains selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red, while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire hold up.
 
 ## Related Concepts
 

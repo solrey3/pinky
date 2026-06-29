@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-06-27
+updated: 2026-06-29
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 5
+source_count: 6
 ---
 
 # Open-Weights AI
@@ -21,6 +21,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus repeats as an open foundation model for sovereign AI, confirming open weights/open models as governance infrastructure rather than only developer convenience.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — DeepSeek open-sources inference optimizations claiming **60–85%** faster generation, shifting the open-model thread from weights alone into serving efficiency.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — DeepSeek DSpark/speculative decoding repeats the serving-efficiency theme, keeping open/local deployment practicality tied to inference engineering.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B and Ornith-1.0 reinforce the open/local path for capable development and agentic-coding workflows.
 
 ## Related Concepts
 

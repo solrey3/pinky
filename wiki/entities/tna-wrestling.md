@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-29
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 12
+source_count: 13
 ---
 
 # TNA Wrestling
@@ -33,6 +33,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — TNA leads fresh wrestling headlines through Slammiversary notes: Amazing Red Hall of Fame recognition, Knockouts tag-title movement, and Cedric Alexander winning Ultimate X.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Slammiversary fallout keeps TNA active through women's-division title changes and roster reset notes.
+
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — TNA appears through Slammiversary satisfaction reporting, creative-change details, and iMPACT!/TNA+ schedule context.
 
 ## Related
 
