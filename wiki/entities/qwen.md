@@ -4,9 +4,9 @@ title: Qwen
 type: entity
 entity_type: product
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [ai, llm, open-weights, local-ai, developer-tools, agentic-coding]
-source_count: 1
+source_count: 2
 ---
 
 # Qwen
@@ -16,6 +16,8 @@ Alibaba's Qwen family of large language models. In this wiki, Qwen is tracked as
 ## Sources
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B is described as a local-development sweet spot, reinforcing the practicality of capable local/open model use.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Qwen 3.6 27B again appears as a practical local-development model, strengthening the local/open developer-workflow thread.
 
 ## Related
 

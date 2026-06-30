@@ -4,9 +4,9 @@ title: Iridium
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [space, satellites, communications, connectivity, acquisition, infrastructure]
-source_count: 1
+source_count: 2
 ---
 
 # Iridium
@@ -16,6 +16,8 @@ A satellite communications company. In the newsletter graph, Iridium is relevant
 ## Sources
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Appears as the acquisition target in Rocket Lab's announced deal, making satellite connectivity part of the consolidation story.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Iridium remains the acquisition target in the Rocket Lab item, keeping satellite connectivity inside the infrastructure graph.
 
 ## Related
 

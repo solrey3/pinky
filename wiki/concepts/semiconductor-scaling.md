@@ -3,9 +3,9 @@ id: 2b7532a5-db8e-4f8a-b2ac-6688d7690c48
 title: Semiconductor Scaling
 type: concept
 created: 2026-06-23
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 10
+source_count: 11
 ---
 
 # Semiconductor Scaling
@@ -31,6 +31,8 @@ Semiconductor scaling is the continued improvement of chip density, performance,
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Nvidia, TSM, and AMD price pressure links the AI-infrastructure semiconductor cycle to capital-market rotation even without a new process-node breakthrough.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Nvidia **-6.56%**, TSM **-2.69%**, and AMD **-2.20%** keep AI-infrastructure chip exposure tied to the market-rotation story.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Nvidia/TSM/AMD price pressure and South Korea's chip/robot investment keep semiconductor capacity and industrial policy central to the AI infrastructure cycle.
 
 ## Related Concepts
 

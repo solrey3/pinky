@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 21
+source_count: 22
 ---
 
 # WWE
@@ -47,6 +47,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — WWE appears through Raw in Atlantic City plus the Raw/SmackDown/NXT weekly schedule grid, keeping the promotion in live-event and TV-calendar mode.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — WWE Raw/SmackDown scheduling and Raw headlines around Oba Femi, IYO SKY, Chad Gable, JD McDonagh, and Joe Hendry keep WWE as the lead weekly-TV wrestling node.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — SummerSlam build items around Roman Reigns vs. Seth Rollins and Brock Lesnar vs. Oba Femi keep WWE in major-event booking mode.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days]
-source_count: 49
+source_count: 50
 ---
 
 # Security & Privacy Toolkit
@@ -77,6 +77,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Cyber-benchmark provenance, opaque ATS scoring, KIDS Act age checks, and AI copyright-infrastructure claims keep auditability and identity design inside the active security/privacy frame.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — The geofence-warrant ruling adds location-data searches to the privacy perimeter, reinforcing legal process, minimization, and audit trails for surveillance data.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Geofence warrants, kids online-safety legislation, and Signal/WhatsApp hacking coverage connect location privacy, identity checks, and secure communications.
 
 ## Related Concepts
 

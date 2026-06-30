@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 26
+source_count: 27
 ---
 
 # Nvidia
@@ -55,6 +55,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Nvidia remains the sharpest AI-chip risk-off signal at **-8.62%** in the Monday morning stock board.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Nvidia falls **-6.56%**, keeping AI-chip exposure as the clearest single-name pain point in the selective risk-off close.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Falls **-6.56%**, making AI-chip weakness the clearest single-stock risk-off signal in the table.
 
 ## Related
 

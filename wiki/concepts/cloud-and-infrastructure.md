@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 17
+source_count: 18
 ---
 
 # Cloud & Infrastructure
@@ -38,6 +38,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Starlink mobile repeats as satellite-to-phone infrastructure, while DeepSeek's inference optimizations make serving efficiency part of the AI infrastructure stack.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Rocket Lab's planned Iridium acquisition adds satellite communications and space-sector consolidation to the infrastructure watchlist.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Rocket Lab/Iridium extends infrastructure tracking into satellite connectivity and vertically integrated space-network assets.
 
 ## Related Concepts
 

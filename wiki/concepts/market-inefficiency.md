@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 47
+source_count: 48
 ---
 
 # Market Inefficiency
@@ -75,6 +75,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Polymarket returns World Cup, Golden Boot, and U.S.-Iran nuclear-deal topics while Kalshi is unavailable; the field remains watchlist metadata, not forecast-grade evidence.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Polymarket topics around Netherlands-Morocco, Wimbledon, and a U.S.-Iran nuclear deal appear without clean odds/liquidity context, while Kalshi is unavailable.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Prediction-market extraction surfaces U.S.-Iran and World Cup topics without clean odds, while congressional-betting restrictions show incentive-conflict risk in political markets.
 
 ## Related Concepts
 

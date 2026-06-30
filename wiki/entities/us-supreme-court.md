@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment]
-source_count: 1
+source_count: 2
 ---
 
 # U.S. Supreme Court
@@ -16,6 +16,8 @@ The highest court in the United States. In the newsletter graph, it is tracked w
 ## Sources
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Rules that geofence warrants count as Fourth Amendment searches, adding a constitutional privacy boundary around location-data investigations.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — The geofence-warrant ruling remains a lead privacy/legal headline, reinforcing the Court as a boundary-setter for bulk location-data searches.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 0d3fc2c8-8720-44a5-ae00-9b092bf19198
 title: Geofence Warrants
 type: concept
 created: 2026-06-29
-updated: 2026-06-29
+updated: 2026-06-30
 tags: [privacy, fourth-amendment, location-data, warrants, surveillance, constitutional-law]
-source_count: 1
+source_count: 2
 ---
 
 # Geofence Warrants
@@ -15,6 +15,8 @@ A geofence warrant asks a platform or data broker to identify devices that were 
 ## Sources
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Treats the Supreme Court's ruling that geofence warrants count as Fourth Amendment searches as a major privacy boundary for location-data investigations.
+
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Keeps the Supreme Court geofence-warrant ruling in the headline stack, confirming it as an ongoing privacy/legal watch item.
 
 ## Related Concepts
 
