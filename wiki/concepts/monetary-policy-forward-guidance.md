@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-06-30
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 24
+source_count: 25
 ---
 
 # Monetary Policy Forward Guidance
@@ -53,6 +53,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, but Trump/Lisa Cook pressure adds institutional-independence context rather than rate guidance.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies rate context but no new Fed communication.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the evening equity rally is price action, not a new Fed communication.
 
 ## Related Concepts
 
@@ -104,3 +106,4 @@ The evening source reinforces the boundary between rate data and guidance. EFFR/
 
 The June 29 rate field repeats the same boundary condition: EFFR is useful context, but without a Fed speech, statement, projection, or reaction-function update, it should not be upgraded into forward guidance.
 
+The June 30 evening dispatch repeats the boundary: stable EFFR is useful context, but it does not explain a risk-on equity close as policy guidance. Keep rate snapshots separate from Fed communication and market reaction.

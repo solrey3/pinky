@@ -4,8 +4,8 @@ title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-06-30
-tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days]
-source_count: 50
+tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
+source_count: 51
 ---
 
 # Security & Privacy Toolkit
@@ -79,6 +79,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — The geofence-warrant ruling adds location-data searches to the privacy perimeter, reinforcing legal process, minimization, and audit trails for surveillance data.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Geofence warrants, kids online-safety legislation, and Signal/WhatsApp hacking coverage connect location privacy, identity checks, and secure communications.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Claude Code prompt marking, AI-browser guardrail-bypass research, and CitrixBleed chatter put hidden context, browsing-agent control, and enterprise patching inside the active security perimeter.
 
 ## Related Concepts
 
@@ -175,3 +177,4 @@ The evening source ties auditability across domains: benchmarks should be reprod
 
 The June 29 source joins identity, scoring, and provenance. Age checks can become privacy-sensitive infrastructure; ATS scores can become opaque gates to employment; model benchmarks can mislead without reproducible methods; and AI copyright claims now implicate compute infrastructure and audit trails.
 
+The June 30 evening AI-security block adds hidden context and browsing environments to the practical checklist. If a coding agent can mark requests invisibly or a browser agent can be coaxed into a false operating context, then provenance, logs, visible prompts, scoped permissions, and revocation are not UX niceties; they are controls.

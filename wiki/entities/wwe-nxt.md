@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-30
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 7
+source_count: 8
 ---
 
 # WWE NXT
@@ -26,6 +26,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Great American Bash 2026 results, including Kendal Grey winning the women's title and Tony D'Angelo, Zaria, and Myles Borne retaining, keep NXT in the title-results feed.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — NXT TV and a Latin American Title Match sit in the weekly wrestling calendar.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — NXT TV remains on the weekly schedule, with AAA crossover framing continuing to link developmental WWE programming to lucha talent flow.
 
 ## Related
 

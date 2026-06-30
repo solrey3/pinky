@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-30
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr]
-source_count: 26
+source_count: 27
 ---
 
 # Federal Reserve
@@ -56,6 +56,8 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, while renewed Trump pressure on Lisa Cook adds central-bank-independence context.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, adding continuity rather than new Fed guidance.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the evening risk-on equity close is not tied to new Fed guidance.
 
 ## Related
 

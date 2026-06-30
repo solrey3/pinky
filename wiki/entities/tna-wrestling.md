@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-06-30
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 14
+source_count: 15
 ---
 
 # TNA Wrestling
@@ -37,6 +37,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — TNA appears through Slammiversary satisfaction reporting, creative-change details, and iMPACT!/TNA+ schedule context.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — iMPACT! remains in the weekly wrestling calendar through AXS TV/TNA+.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Knockouts TV Title tournament news and Mike Santana exit reporting keep TNA in title-creation and roster-change mode.
 
 ## Related
 

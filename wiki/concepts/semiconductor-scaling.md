@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-23
 updated: 2026-06-30
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 11
+source_count: 12
 ---
 
 # Semiconductor Scaling
@@ -34,6 +34,8 @@ Semiconductor scaling is the continued improvement of chip density, performance,
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Nvidia/TSM/AMD price pressure and South Korea's chip/robot investment keep semiconductor capacity and industrial policy central to the AI infrastructure cycle.
 
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — AMD **+11.75%** and TSM **+9.44%** restore semiconductor leadership in the evening risk-on equity tape, while Nvidia is flat.
+
 ## Related Concepts
 
 - [[AI-Augmented Development]]
@@ -60,3 +62,4 @@ The evening market table is not a scaling breakthrough, but it links semiconduct
 
 The June 29 market table adds no technical scaling breakthrough, but it matters as context: AI hardware progress and chip-market valuation risk are linked. Scaling work continues under a market regime that is punishing parts of the semiconductor basket.
 
+The June 30 evening close is market evidence rather than process-node evidence, but it still matters for the semiconductor graph: investors again rewarded chip and foundry exposure after the daytime pullback, showing how AI-infrastructure expectations transmit through AMD/TSM/Nvidia price action.

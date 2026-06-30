@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-06-30
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 45
+source_count: 46
 ---
 
 # Risk-Off Market Rotation
@@ -74,6 +74,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — The close remains selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red, while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire hold up.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Tuesday morning preserves selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire remain resilient.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — The close flips equities risk-on: S&P 500 **+1.82%**, Nasdaq **+2.45%**, Russell 2000 **+1.64%**, AMD **+11.75%**, TSM **+9.44%**, and TSLA **+10.22%**, while Bitcoin and WTI lag.
 
 ## Related Concepts
 
@@ -169,3 +171,4 @@ The June 28 evening dispatch is another confirmation source, not fresh Sunday pr
 
 The June 29 daytime dispatch is the first Monday carry-forward after the weekend confirmation sources. It does not change the label: growth, AI chips, and Nasdaq remain under pressure, but small caps, value, dividends, REITs, Target, UPS, PayPal, and Berkshire-style quality keep the tape selective rather than indiscriminate.
 
+The June 30 evening close is a genuine reversal from the daytime risk-off read inside equities. Semiconductors and high-beta growth recover sharply, but Bitcoin near its 52-week low and weaker WTI keep the cross-asset warning alive. Treat it as risk-on equities with crypto/energy dissonance, not universal risk appetite.

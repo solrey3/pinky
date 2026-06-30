@@ -3,9 +3,9 @@ id: 6e82360a-fc59-4f2e-817e-3e3721216c69
 title: Agentic Access Control
 type: concept
 created: 2026-06-20
-updated: 2026-06-20
-tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege]
-source_count: 1
+updated: 2026-06-30
+tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
+source_count: 2
 ---
 
 # Agentic Access Control
@@ -16,6 +16,8 @@ Agentic access control is the practice of treating AI agents as explicit securit
 
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare's temporary accounts for AI agents make scoped, revocable, time-limited agent identity a concrete cloud-platform pattern.
 
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — AI-browser guardrail-bypass coverage shows why browser agents need scoped permissions, visible state, logs, and revocation rather than broad ambient user authority.
+
 ## Related Concepts
 
 - [[Security & Privacy Toolkit]]
@@ -25,3 +27,5 @@ Agentic access control is the practice of treating AI agents as explicit securit
 ## Notes
 
 The practical control is separation: human accounts, service accounts, and agent accounts should not collapse into one credential pool. Agents need narrowly scoped rights, short lifetimes, observable action logs, and a kill switch. That turns automation from a blind delegation problem into an identity-governance problem.
+
+The June 30 evening AI-browser item generalizes Cloudflare-style scoped agent identity into the browser. A browsing agent should not inherit unlimited user authority simply because it can see a page; it needs bounded tools, clear state, and auditable action trails.

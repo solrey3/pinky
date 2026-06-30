@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-06-30
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 31
+source_count: 32
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -89,6 +89,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — NJPW appears through Forbidden Door fallout and Shota Umino defending the IWGP Global Heavyweight Title against Gabe Kidd on the Road to G1 card.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Shota Umino vs. Gabe Kidd on the Road to G1 card keeps NJPW active in title-defense and tournament-build coverage.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Forbidden Door speculation and a six-star Tanahashi/Okada Wrestle Kingdom rating keep NJPW tied to both crossover booking and match-quality canon.
 
 ## Related
 

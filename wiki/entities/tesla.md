@@ -4,9 +4,9 @@ title: Tesla
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-06-22
-tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation]
-source_count: 1
+updated: 2026-06-30
+tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on]
+source_count: 2
 ---
 
 # Tesla
@@ -16,6 +16,8 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 ## Sources
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — NHTSA investigates an alleged Tesla Autopilot crash that killed a woman in her home, extending driver-assist risk beyond vehicle occupants into public/private space safety.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Rallies **+10.22%**, functioning here as a high-beta risk-on market signal rather than an autonomy/regulatory update.
 
 ## Related
 

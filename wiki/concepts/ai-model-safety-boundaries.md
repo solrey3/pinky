@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-06-27
-tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models]
-source_count: 12
+updated: 2026-06-30
+tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai]
+source_count: 13
 ---
 
 # AI Model Safety Boundaries
@@ -27,6 +27,8 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic's allegation that Alibaba extracted Claude capabilities shows model safety boundaries extending into capability protection, platform-abuse monitoring, and competitive misuse.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol access reportedly being vetted by the U.S. government shows model safety boundaries extending to state-mediated user eligibility.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission show safety boundaries as eligibility, approval, and distribution controls.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — AI-browser attack coverage shows guardrails can fail when the surrounding browsing environment convinces the agent it is operating in a different context.
 
 ## Related Concepts
 
@@ -58,3 +60,5 @@ The June 25 source adds extraction as a safety-boundary stressor. A model can re
 The June 26 evening source adds an explicit access-governance version of the same concept. If a government helps decide who may use a frontier model, then safety boundaries are no longer just refusals and monitoring; they are also eligibility rules, approval processes, and political accountability.
 
 The June 27 daytime source adds the provider-release side of the same boundary. Anthropic Mythos being permitted only for select companies means the boundary can operate at model distribution time, before user prompts or refusals ever occur.
+
+The AI-browser item adds an interface-layer failure mode. Safety boundaries are not just refusals inside the model; they depend on the agent correctly interpreting environment state, page provenance, user intent, and tool authority.

@@ -5,8 +5,8 @@ type: entity
 entity_type: organization
 created: 2026-06-29
 updated: 2026-06-30
-tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment]
-source_count: 2
+tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
+source_count: 3
 ---
 
 # U.S. Supreme Court
@@ -18,6 +18,8 @@ The highest court in the United States. In the newsletter graph, it is tracked w
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Rules that geofence warrants count as Fourth Amendment searches, adding a constitutional privacy boundary around location-data investigations.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — The geofence-warrant ruling remains a lead privacy/legal headline, reinforcing the Court as a boundary-setter for bulk location-data searches.
+
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Blocks Trump's anti-birthright-citizenship push, adding a citizenship/immigration constitutional boundary one day after geofence-warrant privacy coverage.
 
 ## Related
 
