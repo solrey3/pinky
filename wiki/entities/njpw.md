@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 32
+source_count: 33
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -91,6 +91,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Shota Umino vs. Gabe Kidd on the Road to G1 card keeps NJPW active in title-defense and tournament-build coverage.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Forbidden Door speculation and a six-star Tanahashi/Okada Wrestle Kingdom rating keep NJPW tied to both crossover booking and match-quality canon.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Yota Tsuji inviting Tony Khan to an NJPW event in Chicago keeps NJPW tied to the AEW crossover and business-relationship lane.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 46
+source_count: 47
 ---
 
 # Risk-Off Market Rotation
@@ -76,6 +76,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Tuesday morning preserves selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire remain resilient.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — The close flips equities risk-on: S&P 500 **+1.82%**, Nasdaq **+2.45%**, Russell 2000 **+1.64%**, AMD **+11.75%**, TSM **+9.44%**, and TSLA **+10.22%**, while Bitcoin and WTI lag.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Wednesday daytime carries forward the risk-on equity board: S&P 500 **+1.82%**, Nasdaq **+2.45%**, Russell 2000 **+1.64%**, AMD **+11.75%**, TSM **+9.44%**, and TSLA **+10.22%**, with Bitcoin and WTI still non-confirming.
 
 ## Related Concepts
 
@@ -172,3 +174,5 @@ The June 28 evening dispatch is another confirmation source, not fresh Sunday pr
 The June 29 daytime dispatch is the first Monday carry-forward after the weekend confirmation sources. It does not change the label: growth, AI chips, and Nasdaq remain under pressure, but small caps, value, dividends, REITs, Target, UPS, PayPal, and Berkshire-style quality keep the tape selective rather than indiscriminate.
 
 The June 30 evening close is a genuine reversal from the daytime risk-off read inside equities. Semiconductors and high-beta growth recover sharply, but Bitcoin near its 52-week low and weaker WTI keep the cross-asset warning alive. Treat it as risk-on equities with crypto/energy dissonance, not universal risk appetite.
+
+The July 1 daytime dispatch confirms the June 30 evening equity reversal rather than resetting the whole macro board. Semiconductors, small caps, and high-beta equities are risk-on, but Bitcoin near its 52-week low and softer WTI keep the regime mixed across assets.

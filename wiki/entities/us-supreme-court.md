@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 3
+source_count: 4
 ---
 
 # U.S. Supreme Court
@@ -21,8 +21,11 @@ The highest court in the United States. In the newsletter graph, it is tracked w
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Blocks Trump's anti-birthright-citizenship push, adding a citizenship/immigration constitutional boundary one day after geofence-warrant privacy coverage.
 
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Birthright-citizenship fallout and Gorsuch civil-liberties coverage keep the Court in the constitutional-boundary thread.
+
 ## Related
 
+- [[Birthright Citizenship]]
 - [[Geofence Warrants]]
 - [[Security & Privacy Toolkit]]
 - [[Donald Trump]]

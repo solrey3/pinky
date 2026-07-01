@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 25
+source_count: 26
 ---
 
 # AEW
@@ -56,6 +56,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Mark Briscoe challenging MJF for the AEW World Championship on Dynamite keeps AEW centered on weekly-TV title programming.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Big Bill/WWE-return reporting, Dynamite scheduling, and Brian Cage Continental Classic interest keep AEW in talent-movement and weekly-TV mode.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Dynamite scheduling, AEW Redemption timing, and Big Bill/WWE-return reporting keep AEW in weekly-TV, PPV logistics, and talent-movement mode.
 
 ## Related
 

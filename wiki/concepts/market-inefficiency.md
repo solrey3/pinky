@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 49
+source_count: 50
 ---
 
 # Market Inefficiency
@@ -79,6 +79,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Prediction-market extraction surfaces U.S.-Iran and World Cup topics without clean odds, while congressional-betting restrictions show incentive-conflict risk in political markets.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Polymarket lists LeBron James next-team odds led by Golden State at **49%** and Cleveland at **29%**, while Kalshi is unavailable; without metadata, it remains watchlist context.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Prediction-market trends appear, but the actionable signal remains limited by thin context and mixed market categories rather than clean forecast extraction.
 
 ## Related Concepts
 
@@ -175,3 +177,5 @@ The evening prediction-market block repeats the pipeline limitation. Topic disco
 The June 29 prediction-market block remains a pipeline-health note. Topic labels around World Cup and U.S.-Iran questions are prompts for manual checking, but not usable probabilities without odds, deltas, IDs, liquidity, timestamps, and resolution language.
 
 The June 30 evening prediction-market field is more usable than some prior fragments because it includes percentages, but it still lacks liquidity, market ID, timestamp, resolution text, and movement history. Treat the LeBron odds as a rumor/attention gauge, not forecast-grade evidence.
+
+The July 1 prediction-market block is more watchlist than thesis. It lists sports and event markets, but without pricing depth, liquidity, or resolution context the better lesson is provenance discipline: a market mention is not yet a usable forecast.

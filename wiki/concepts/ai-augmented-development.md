@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 40
+source_count: 41
 ---
 
 # AI-Augmented Development
@@ -70,6 +70,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Qwen 3.6 27B is framed as a local-development sweet spot, reinforcing practical LLM use in developer workflows.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Claude Sonnet 5, Claude Code prompt-steganography reporting, and browser Kubernetes show AI-era development spanning model releases, coding-agent trust, and unusual systems experiments.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Claude Sonnet 5, Claude Code provenance concerns, Godot’s AI-code contribution ban, and AI-browser security show AI-era development as capability plus governance, not capability alone.
 
 ## Related Concepts
 
@@ -151,3 +153,5 @@ The evening source widens AI-augmented work beyond coding. Security benchmarks a
 The June 29 AI/tech block is about evaluation infrastructure more than flashy capability. A cyber benchmark, an ATS score, and an AI copyright claim all ask whether the surrounding system can explain how it scored, trained, or served the result.
 
 The June 30 evening source shifts the developer-tooling frame from local/open models back to Anthropic and coding-agent trust. A stronger Claude release matters for capability, but Claude Code prompt marking matters for operability: developers need to know what hidden context, telemetry, or request transformations their tools apply.
+
+The July 1 source shows the maturing AI-development tradeoff. Better models increase coding leverage, but open-source projects and developer tools now need policies for generated-code authorship, hidden request metadata, and browser-agent environmental attacks.

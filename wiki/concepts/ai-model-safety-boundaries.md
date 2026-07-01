@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai]
-source_count: 13
+source_count: 14
 ---
 
 # AI Model Safety Boundaries
@@ -29,6 +29,8 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission show safety boundaries as eligibility, approval, and distribution controls.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — AI-browser attack coverage shows guardrails can fail when the surrounding browsing environment convinces the agent it is operating in a different context.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — AI-browser attack coverage and Godot’s AI-code policy show safety boundaries depending on surrounding interface context, contributor provenance, and maintainability responsibility.
 
 ## Related Concepts
 
@@ -62,3 +64,5 @@ The June 26 evening source adds an explicit access-governance version of the sam
 The June 27 daytime source adds the provider-release side of the same boundary. Anthropic Mythos being permitted only for select companies means the boundary can operate at model distribution time, before user prompts or refusals ever occur.
 
 The AI-browser item adds an interface-layer failure mode. Safety boundaries are not just refusals inside the model; they depend on the agent correctly interpreting environment state, page provenance, user intent, and tool authority.
+
+The July 1 source adds maintainability as a boundary domain. A project can reject AI-authored code not because the model produced a forbidden answer, but because responsibility, comprehension, and future repair obligations are unclear. That is a deployment boundary at the human-review layer.

@@ -4,9 +4,9 @@ title: WWE NXT
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 8
+source_count: 9
 ---
 
 # WWE NXT
@@ -28,6 +28,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — NXT TV and a Latin American Title Match sit in the weekly wrestling calendar.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — NXT TV remains on the weekly schedule, with AAA crossover framing continuing to link developmental WWE programming to lucha talent flow.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — NXT spoilers and Kendal Grey vs. Nattie for the NXT Women’s Championship keep the brand in taped-TV and title-programming mode.
 
 ## Related
 

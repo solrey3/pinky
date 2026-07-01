@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-06-30
+updated: 2026-07-01
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 51
+source_count: 52
 ---
 
 # Security & Privacy Toolkit
@@ -81,6 +81,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Geofence warrants, kids online-safety legislation, and Signal/WhatsApp hacking coverage connect location privacy, identity checks, and secure communications.
 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Claude Code prompt marking, AI-browser guardrail-bypass research, and CitrixBleed chatter put hidden context, browsing-agent control, and enterprise patching inside the active security perimeter.
+
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Claude Code request marking, AI-browser attacks, and Godot’s AI-authored-code ban put provenance, visible logs, scoped authority, and maintainability review into the practical security checklist.
 
 ## Related Concepts
 
@@ -178,3 +180,5 @@ The evening source ties auditability across domains: benchmarks should be reprod
 The June 29 source joins identity, scoring, and provenance. Age checks can become privacy-sensitive infrastructure; ATS scores can become opaque gates to employment; model benchmarks can mislead without reproducible methods; and AI copyright claims now implicate compute infrastructure and audit trails.
 
 The June 30 evening AI-security block adds hidden context and browsing environments to the practical checklist. If a coding agent can mark requests invisibly or a browser agent can be coaxed into a false operating context, then provenance, logs, visible prompts, scoped permissions, and revocation are not UX niceties; they are controls.
+
+The July 1 source adds maintainability and hidden context to the checklist. Code provenance is a security property when maintainers cannot tell who authored a patch, and browser/coding agents need visible logs because hidden request shaping or false browsing context can silently change what an agent is doing.
