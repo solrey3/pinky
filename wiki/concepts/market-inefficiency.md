@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-01
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 50
+source_count: 51
 ---
 
 # Market Inefficiency
@@ -81,6 +81,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Polymarket lists LeBron James next-team odds led by Golden State at **49%** and Cleveland at **29%**, while Kalshi is unavailable; without metadata, it remains watchlist context.
 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Prediction-market trends appear, but the actionable signal remains limited by thin context and mixed market categories rather than clean forecast extraction.
+
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Polymarket LeBron next-team odds appear as a sports-attention market; the useful signal is provenance-aware tracking rather than assuming the market is efficient or complete.
 
 ## Related Concepts
 

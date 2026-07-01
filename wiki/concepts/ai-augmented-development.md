@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-01
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 41
+source_count: 42
 ---
 
 # AI-Augmented Development
@@ -72,6 +72,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Claude Sonnet 5, Claude Code prompt-steganography reporting, and browser Kubernetes show AI-era development spanning model releases, coding-agent trust, and unusual systems experiments.
 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Claude Sonnet 5, Claude Code provenance concerns, Godot’s AI-code contribution ban, and AI-browser security show AI-era development as capability plus governance, not capability alone.
+
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — ZCode enters the Claude-style coding-tool conversation, extending the developer-agent tooling field beyond Anthropic Claude Code.
 
 ## Related Concepts
 

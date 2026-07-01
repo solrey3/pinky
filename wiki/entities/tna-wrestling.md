@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-01
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 16
+source_count: 17
 ---
 
 # TNA Wrestling
@@ -41,6 +41,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Knockouts TV Title tournament news and Mike Santana exit reporting keep TNA in title-creation and roster-change mode.
 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — The first Knockouts Television Champion bracket creates a new title/tournament thread for TNA’s women’s division.
+
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — TNA coverage centers on Eric Young's release, the company statement, and the regular iMPACT!/TNA+ calendar slot.
 
 ## Related
 

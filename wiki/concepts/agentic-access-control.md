@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-20
 updated: 2026-07-01
 tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
-source_count: 3
+source_count: 4
 ---
 
 # Agentic Access Control
@@ -19,6 +19,8 @@ Agentic access control is the practice of treating AI agents as explicit securit
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — AI-browser guardrail-bypass coverage shows why browser agents need scoped permissions, visible state, logs, and revocation rather than broad ambient user authority.
 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — AI-browser attack coverage repeats the need for bounded agent authority, visible state, revocation, and auditable tool use in browsing workflows.
+
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Cloudflare x402 is not an AI-agent item directly, but it reinforces scoped platform enforcement at the edge: who can access a resource, under what credential/payment condition, with auditable policy.
 
 ## Related Concepts
 
