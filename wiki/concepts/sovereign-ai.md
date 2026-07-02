@@ -3,9 +3,9 @@ id: abb81c4e-424b-4613-9d04-e9e0c7b84565
 title: Sovereign AI
 type: concept
 created: 2026-06-21
-updated: 2026-06-27
+updated: 2026-07-02
 tags: [ai, sovereignty, open-weights, model-governance, infrastructure, national-strategy, access-control]
-source_count: 4
+source_count: 5
 ---
 
 # Sovereign AI
@@ -19,6 +19,8 @@ Sovereign AI is the idea that a country, region, institution, or other governing
 - [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus returns as an open foundation model for sovereign AI, reinforcing sovereignty as operational autonomy: model access, hosting, auditability, and governance capacity.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — U.S.-government vetting of GPT-5.6 Sol access frames sovereignty from the closed-model side: state authority over who may use frontier capability.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission repeat the closed-model sovereignty pattern: state-approved eligibility for frontier capability.
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — A reported Spanish blacklist of Palantir frames AI/data-platform procurement as sovereignty and trust policy, not only vendor selection.
 
 ## Related Concepts
 

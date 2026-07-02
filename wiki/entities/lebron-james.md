@@ -6,7 +6,7 @@ entity_type: person
 created: "2026-05-14T23:10:00-0400"
 updated: 2026-07-02
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 4
+source_count: 5
 ---
 
 # LeBron James
@@ -22,6 +22,8 @@ NBA forward with one of the longest and most productive careers in league histor
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Polymarket next-team odds show Cleveland and Golden State near the top, keeping LeBron as a prediction-market/sports-attention asset.
 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Polymarket trending topics again include LeBron James next-team markets, keeping his late-career movement in the prediction-market watchlist.
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — ESPN reports the 76ers entering the LeBron James mix, while prediction-market topics keep late-career team movement in the attention graph.
 
 ## Related
 

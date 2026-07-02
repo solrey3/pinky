@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-02
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 26
+source_count: 27
 ---
 
 # WWE
@@ -57,6 +57,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — WWE remains in the weekly calendar through Raw/SmackDown listings, Netflix replay handling, Ari Emanuel/Vince McMahon legal-audio reporting, and Legends Deal chatter.
 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — WWE remains in weekly-TV calendar mode through Raw/SmackDown listings, while the wider digest keeps WWE/NXT/AAA crossover context alive.
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — WWE remains in weekly-TV mode through Raw/SmackDown listings, Sami Zayn title chatter, and CM Punk status reporting.
 
 ## Related
 

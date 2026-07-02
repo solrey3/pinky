@@ -3,9 +3,9 @@ id: "019e1b12-d1a1-7ea1-ff02-ab7f7a8b9c41"
 title: "Container Orchestration"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-05-10T15:45:00-0400"
+updated: 2026-07-02
 tags: [containers, kubernetes, docker, devops, infrastructure]
-source_count: 4
+source_count: 5
 ---
 
 # Container Orchestration
@@ -18,6 +18,8 @@ The automated deployment, scaling, and management of containerized applications.
 - [2026-05-10: k9s Cheatsheet](sources/k9s.md) — Terminal UI for navigating and managing Kubernetes clusters
 - [2026-05-10: lazydocker Cheatsheet](sources/lazydocker.md) — Terminal UI for Docker container management
 - [2026-05-10: nginx Cheatsheet](sources/nginx.md) — Reverse proxy and load balancer commonly deployed as a container
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Podman v6.0.0 updates the container runtime/tooling layer adjacent to orchestration, especially for rootless and daemonless operator workflows.
 
 ## Related Concepts
 

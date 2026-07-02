@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-07-02
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 35
+source_count: 36
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -97,6 +97,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — NJPW remains in the digest through calendar listings and Hiroshi Tanahashi saying he had a productive AEW/NJPW conversation with Tony Khan.
 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — NJPW stays in the digest through tour-calendar tracking and Hiroshi Tanahashi comments about retired legends contributing to NJPW.
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — NJPW remains in the digest through tour-card tracking and Callum Newman injury/G1 comments.
 
 ## Related
 

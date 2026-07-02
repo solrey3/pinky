@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-02
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 18
+source_count: 19
 ---
 
 # TNA Wrestling
@@ -45,6 +45,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — TNA coverage centers on Eric Young's release, the company statement, and the regular iMPACT!/TNA+ calendar slot.
 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — TNA appears through iMPACT! scheduling and Eric Young reportedly exiting the roster.
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — TNA appears through iMPACT! scheduling, Kiera Hogan return-interest coverage, and Leon Slater vs. Eddie Edwards booking.
 
 ## Related
 

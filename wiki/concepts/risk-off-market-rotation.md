@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-02
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 49
+source_count: 50
 ---
 
 # Risk-Off Market Rotation
@@ -82,6 +82,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — The equity close stays risk-on: S&P 500 **+1.70%**, Nasdaq **+2.21%**, Russell 2000 **+0.87%**, and Tesla **+13.25%**, but the 30-year Treasury yield rising **11 bps** keeps the cross-asset read mixed.
 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — The equity board stays risk-on with S&P 500 **+1.70%**, Nasdaq **+2.21%**, Tesla **+13.25%**, and AMD **+4.07%**, but the 30-year Treasury near its yearly high keeps cross-asset confirmation mixed.
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — The close is big-index risk-on: S&P 500 **+1.71%**, Dow **+1.89%**, Nasdaq **+1.87%**, but Russell 2000 **-0.39%**, mixed semiconductors, and a **+12 bps** 30-year Treasury keep breadth and rates from confirming fully.
 
 ## Related Concepts
 

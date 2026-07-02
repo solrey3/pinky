@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 17
+source_count: 18
 ---
 
 # Donald Trump
@@ -44,6 +44,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — His anti-birthright-citizenship push is quashed by the Supreme Court, keeping Trump in the executive-power and constitutional-boundary thread.
 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Appears through SAVE America Act politics, birthright-citizenship fallout, and crypto-sale disclosure, keeping executive power, election rules, and personal financial exposure in the same feed.
+
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Appears through the Supreme Court firing-power test, keeping Trump tied to executive-power and institutional-control litigation.
 
 ## Related
 
