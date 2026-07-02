@@ -4,9 +4,9 @@ title: WWE NXT
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 10
+source_count: 11
 ---
 
 # WWE NXT
@@ -32,6 +32,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — NXT spoilers and Kendal Grey vs. Nattie for the NXT Women’s Championship keep the brand in taped-TV and title-programming mode.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — NXT stays active through the July 7 TV listing, the 6/30 discussion thread, and Nikki Blackheart debut reporting.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — NXT appears through the July 7 TV listing and the El Hijo del Vikingo injury report tied to WWE/NXT/AAA crossover activity.
 
 ## Related
 

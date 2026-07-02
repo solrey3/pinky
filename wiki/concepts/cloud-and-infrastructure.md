@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 19
+source_count: 20
 ---
 
 # Cloud & Infrastructure
@@ -42,6 +42,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Rocket Lab/Iridium extends infrastructure tracking into satellite connectivity and vertically integrated space-network assets.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — DOE heat-wave grid orders and Cloudflare x402 both treat infrastructure as an active control surface: one for reliability under stress, the other for edge monetization.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — T-Mobile's reported VMware migration turns Broadcom/VMware fallout into enterprise infrastructure planning: licensing risk, migration cost, and virtualization platform dependence.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: PlayStation
 type: entity
 entity_type: product
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [gaming, console, sony, digital-distribution, physical-media, platform]
-source_count: 1
+source_count: 2
 ---
 
 # PlayStation
@@ -16,6 +16,8 @@ Sony's console-gaming platform. In the newsletter graph, PlayStation is relevant
 ## Sources
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Reported end of physical-disc production for new PlayStation games in January 2028 signals another hard move toward all-digital console distribution.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Reported 2028 end of new-game physical-disc production stays in the feed, reinforcing PlayStation as a digital-distribution and preservation-risk platform.
 
 ## Related
 

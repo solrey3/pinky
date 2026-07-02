@@ -4,9 +4,9 @@ title: Russia
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [russia, geopolitics, war, ukraine, security]
-source_count: 1
+source_count: 2
 ---
 
 # Russia
@@ -16,6 +16,8 @@ Russia is tracked here mainly through geopolitical and military-risk coverage. I
 ## Sources
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Appears through Zelensky's warning of a large planned strike on Ukraine.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Russia appears through Zelensky's warning of a possible massive strike on Ukraine.
 
 ## Related
 

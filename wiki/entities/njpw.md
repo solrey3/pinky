@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 34
+source_count: 35
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -95,6 +95,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Yota Tsuji inviting Tony Khan to an NJPW event in Chicago keeps NJPW tied to the AEW crossover and business-relationship lane.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — NJPW remains in the digest through calendar listings and Hiroshi Tanahashi saying he had a productive AEW/NJPW conversation with Tony Khan.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — NJPW stays in the digest through tour-calendar tracking and Hiroshi Tanahashi comments about retired legends contributing to NJPW.
 
 ## Related
 

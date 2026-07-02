@@ -4,9 +4,9 @@ title: Federal Reserve
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr]
-source_count: 29
+source_count: 30
 ---
 
 # Federal Reserve
@@ -62,6 +62,8 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the equity rally is price action, not new Fed guidance.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the risk-on equity close is complicated by a 30-year Treasury yield jump.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the risk-on equity board is still complicated by long rates near yearly highs.
 
 ## Related
 

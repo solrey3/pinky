@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 27
+source_count: 28
 ---
 
 # AEW
@@ -60,6 +60,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Dynamite scheduling, AEW Redemption timing, and Big Bill/WWE-return reporting keep AEW in weekly-TV, PPV logistics, and talent-movement mode.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — AEW appears through Dynamite/Collision scheduling, Kevin Knight vs. Lio Rush booking, Thunder Rosa Day, and Tanahashi/Tony Khan NJPW-crossover comments.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — AEW leads the wrestling headlines with Dynamite results, Hikaru Shida winning the TBS title, and Collision match announcements.
 
 ## Related
 

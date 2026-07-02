@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-06-24
+updated: 2026-07-02
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 14
+source_count: 15
 ---
 
 # Google
@@ -29,6 +29,8 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Android verification remains on the tech desk, reinforcing app-store support, developer identity, and sideloading limits as live Google platform-governance questions.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Google crossing **50% IPv6** is tracked as an internet-plumbing milestone and a public adoption signal for core network infrastructure.
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Gemini 3.5 Flash computer-use coverage adds agentic interface control to Google's AI lane, while Play Store fee cuts under the Epic settlement keep platform economics in view.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — An F-Droid “Android malware from Google” item keeps Google in the mobile security, sideloading, and app-store governance lane.
 
 ## Related
 

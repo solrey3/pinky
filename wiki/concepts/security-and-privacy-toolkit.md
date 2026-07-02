@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 53
+source_count: 54
 ---
 
 # Security & Privacy Toolkit
@@ -85,6 +85,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Claude Code request marking, AI-browser attacks, and Godot’s AI-authored-code ban put provenance, visible logs, scoped authority, and maintainability review into the practical security checklist.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Youth social-media bans, Cloudflare edge monetization, and all-digital platform shifts all raise practical identity, access, privacy, and auditability questions.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — F-Droid's Android/Google malware critique keeps mobile app-store governance, sideloading, and platform-security tradeoffs inside the practical security perimeter.
 
 ## Related Concepts
 

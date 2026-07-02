@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-01
+updated: 2026-07-02
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 28
+source_count: 29
 ---
 
 # AMD
@@ -61,6 +61,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Remains the loudest stock-watch mover at **+11.75%**, reinforcing a semiconductor-led equity risk-on read.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — AMD rises **+4.07%**, confirming continued equity risk appetite in AI/semiconductor exposure even as long rates back up.
+
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — AMD gains **+4.07%**, keeping semiconductor exposure in the risk-on lane, though the move is quieter than the prior surge.
 
 ## Related
 
