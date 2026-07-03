@@ -4,9 +4,9 @@ title: Sami Zayn
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-28
+updated: 2026-07-03
 tags: [person, wrestling, wwe, night-of-champions, world-champion]
-source_count: 6
+source_count: 7
 ---
 
 # Sami Zayn
@@ -41,6 +41,8 @@ source_count: 6
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Night of Champions 2026 records the major state change: Sami Zayn wins the Undisputed WWE Championship.
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Zayn's first WWE world-title win remains the main-event discussion thread after Night of Champions.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Industry reaction, career-reflection quotes, and SmackDown preview coverage keep Sami Zayn’s WWE Championship reign as the lead WWE story.
 
 ## Related
 

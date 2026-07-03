@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-03
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 43
+source_count: 44
 ---
 
 # AI-Augmented Development
@@ -76,6 +76,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — ZCode enters the Claude-style coding-tool conversation, extending the developer-agent tooling field beyond Anthropic Claude Code.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Safari MCP server coverage turns browser developer tools into an explicit model-facing interface for AI-assisted web development.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Local LLM operation and TLA+-based bug hunting both broaden the developer stack from coding assistants into self-hosted model operations and verification discipline.
 
 ## Related Concepts
 

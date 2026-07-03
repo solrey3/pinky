@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-03
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 2
+source_count: 3
 ---
 
 # New Jersey Devils
@@ -18,6 +18,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Devils free-agency and offer-sheet items appear in the team-report stack, making the update a local sports continuity marker.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Devils free-agency takeaways, notebook items, and the Barrett Hayton offer sheet keep the offseason roster-construction thread active.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Devils features and releases on Gritsyuk, Lombardi, and David Rittich keep the team in the offseason notebook.
 
 ## Related
 

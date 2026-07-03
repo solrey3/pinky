@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-07-03
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 17
+source_count: 18
 ---
 
 # Google
@@ -35,6 +35,8 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google reports AI buildout drove a **37%** electricity-use increase in 2025, turning AI scale into a power-grid and data-center-capacity issue.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — EU appeal loss on the Android antitrust fine keeps Google in the mobile-platform bundling, default-search, and app-ecosystem power lane.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — EU appeal loss on the Android antitrust fine repeats the mobile-platform bundling and default-search governance story.
 
 ## Related
 

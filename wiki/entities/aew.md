@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-03
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 30
+source_count: 31
 ---
 
 # AEW
@@ -66,6 +66,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — AEW appears through Dynamite: Beach Break booking, MJF vs. Kenny Omega, Collision spoilers, and the regular TV calendar.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Collision results and an upcoming ROH title match on AEW Collision keep AEW tied to both TV scheduling and cross-brand title logistics.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — AEW scheduling continues and the reported long-term MJF vs. Kenny Omega plan keeps the promotion’s world-title direction in view.
 
 ## Related
 

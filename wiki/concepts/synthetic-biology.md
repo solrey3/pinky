@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-01
 updated: 2026-07-03
 tags: [biology, engineering, biotechnology, synthetic-cells, science, research]
-source_count: 3
+source_count: 4
 ---
 
 # Synthetic Biology
@@ -19,6 +19,8 @@ Synthetic biology is the engineering of biological systems, often by designing g
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — The scratch-built cell that grows and divides remains in the AI/tech desk, keeping bottom-up cell construction as a live research pointer.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Artificial-cell division coverage extends the bottom-up biology milestone watch.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Artificial-cell division coverage repeats the bottom-up biology milestone watch.
 
 ## Related Concepts
 

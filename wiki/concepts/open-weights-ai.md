@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-06-30
+updated: 2026-07-03
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 7
+source_count: 8
 ---
 
 # Open-Weights AI
@@ -25,6 +25,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B and Ornith-1.0 reinforce the open/local path for capable development and agentic-coding workflows.
 
 - [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Qwen 3.6 27B keeps capable local/open model use in view as an alternative to hosted frontier systems.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — A guide to running SOTA LLMs locally shifts open/local AI from model availability into practical operator workflow.
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ id: dce8ff03-4a21-40d5-bd7b-efc17d11b52e
 title: Birthright Citizenship
 type: concept
 created: 2026-06-30
-updated: 2026-07-01
+updated: 2026-07-03
 tags: [constitutional-law, citizenship, immigration, fourteenth-amendment, civil-liberties, supreme-court]
-source_count: 2
+source_count: 3
 ---
 
 # Birthright Citizenship
@@ -17,6 +17,8 @@ Birthright citizenship is the rule that people born within a country's jurisdict
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — The Supreme Court blocks Trump's anti-birthright-citizenship push, framing citizenship by birth as a constitutional guardrail and practical protection for children of immigrants.
 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Vance criticism and practical coverage for children of immigrants keep the Supreme Court ruling active as both constitutional doctrine and lived immigration-policy risk.
+
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Legal analysis of the court opinions keeps birthright citizenship active as a constitutional-boundary and executive-power question.
 
 ## Related Concepts
 
