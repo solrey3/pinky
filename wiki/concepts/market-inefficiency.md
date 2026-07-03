@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-02
+updated: 2026-07-03
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 53
+source_count: 54
 ---
 
 # Market Inefficiency
@@ -87,6 +87,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Polymarket trending topics include Switzerland/Algeria, Wimbledon, LeBron next-team, and Spain/Austria markets while Kalshi is unavailable, leaving the section as watchlist metadata rather than forecast-grade evidence.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Polymarket topics appear without clean mover deltas and Kalshi extraction fails, so prediction-market content remains watchlist metadata rather than forecast-grade signal.
+
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — LeBron next-team Polymarket snippets are interesting attention signals but still too thin/provenance-limited to treat as forecast-grade evidence.
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ id: 731227c6-ecdc-429b-aea5-c7ba4e7ef025
 title: Nicotine Harm Reduction
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-03
 tags: [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda]
-source_count: 1
+source_count: 2
 ---
 
 # Nicotine Harm Reduction
@@ -15,6 +15,8 @@ Nicotine harm reduction is the policy frame that distinguishes nicotine risk fro
 ## Sources
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — FDA permission for Zyn to say it is safer than smoking makes comparative-risk labeling the central public-health issue.
+
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Zyn safer-than-smoking messaging appears again, confirming comparative-risk labeling as a recurring public-health communication problem.
 
 ## Related Concepts
 

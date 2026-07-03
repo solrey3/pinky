@@ -4,9 +4,9 @@ title: ROH
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-02
+updated: 2026-07-03
 tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings]
-source_count: 16
+source_count: 17
 ---
 
 # ROH
@@ -45,6 +45,8 @@ Ring of Honor, a professional wrestling promotion historically associated with w
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — ROH remains in the weekly schedule grid with ROH TV listed for July 2 on HonorClub.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — ROH remains in the weekly schedule grid with ROH TV listed for July 2 on HonorClub.
+
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — ROH TV scheduling and a title match set for AEW Collision keep Ring of Honor embedded in AEW-adjacent programming.
 
 ## Related
 

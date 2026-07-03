@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-02
+updated: 2026-07-03
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 55
+source_count: 56
 ---
 
 # Security & Privacy Toolkit
@@ -89,6 +89,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — F-Droid's Android/Google malware critique keeps mobile app-store governance, sideloading, and platform-security tradeoffs inside the practical security perimeter.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — X privacy-order advocacy, Palantir blacklist reporting, and AI/data-center trust concerns keep privacy enforcement, procurement trust, and platform governance inside the operational security perimeter.
+
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Virginia geolocation-data sale limits, Android antitrust/platform control, and browser-agent tooling keep privacy, ecosystem governance, and scoped automation in the active perimeter.
 
 ## Related Concepts
 

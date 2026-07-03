@@ -4,9 +4,9 @@ title: WWE NXT
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-02
+updated: 2026-07-03
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 12
+source_count: 13
 ---
 
 # WWE NXT
@@ -36,6 +36,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — NXT appears through the July 7 TV listing and the El Hijo del Vikingo injury report tied to WWE/NXT/AAA crossover activity.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — NXT stays in the weekly wrestling calendar through the July 7 TV listing.
+
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — NXT TV remains on the coming-week wrestling calendar, keeping the WWE developmental brand in the ecosystem watch.
 
 ## Related
 

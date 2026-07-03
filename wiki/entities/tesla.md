@@ -4,9 +4,9 @@ title: Tesla
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-07-02
+updated: 2026-07-03
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on]
-source_count: 6
+source_count: 7
 ---
 
 # Tesla
@@ -26,6 +26,8 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Tesla jumps **+13.25%**, again functioning as the loudest high-beta risk-on signal in the stock-watch table.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Tesla gains **+4.89%**, keeping high-beta risk appetite visible even as semiconductors are mixed.
+
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Tesla gains **+4.89%**, staying in the high-beta risk-on column even as chips lag.
 
 ## Related
 
