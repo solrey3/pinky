@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-03
+updated: 2026-07-04
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 31
+source_count: 32
 ---
 
 # AEW
@@ -68,6 +68,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Collision results and an upcoming ROH title match on AEW Collision keep AEW tied to both TV scheduling and cross-brand title logistics.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — AEW scheduling continues and the reported long-term MJF vs. Kenny Omega plan keeps the promotion’s world-title direction in view.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — AEW remains in weekly-TV/event mode through Collision scheduling, a Young Bucks/Hangman Page item, and Forbidden Door ratings afterglow.
 
 ## Related
 

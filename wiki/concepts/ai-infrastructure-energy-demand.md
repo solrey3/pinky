@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-04
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google]
-source_count: 1
+source_count: 2
 ---
 
 # AI Infrastructure Energy Demand
@@ -15,6 +15,8 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 ## Sources
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google reports its AI buildout drove a 37% increase in electricity use in 2025, making AI scaling a grid and data-center-capacity issue.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Online data demand is listed alongside air conditioning as a grid-load driver, tying AI/data infrastructure growth to power-system stress.
 
 ## Related Concepts
 

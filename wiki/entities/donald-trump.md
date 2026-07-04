@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-02
+updated: 2026-07-04
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 18
+source_count: 19
 ---
 
 # Donald Trump
@@ -46,6 +46,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Appears through SAVE America Act politics, birthright-citizenship fallout, and crypto-sale disclosure, keeping executive power, election rules, and personal financial exposure in the same feed.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Appears through the Supreme Court firing-power test, keeping Trump tied to executive-power and institutional-control litigation.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Mount Rushmore Fourth of July speech ties America 250 symbolism to Trump-era anti-communist and civic-memory politics.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-07-03
+updated: 2026-07-04
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 34
+source_count: 35
 ---
 
 # Nvidia
@@ -71,6 +71,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Nvidia declines **-0.46%** while indexes rise, keeping AI-chip leadership from fully confirming the rally.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Nvidia slips **0.46%** as the S&P, Dow, and Nasdaq rise, keeping AI-chip leadership mixed rather than cleanly risk-on.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Nvidia is slightly red at **-0.46%**, so AI-chip exposure does not confirm the S&P/Dow/Nasdaq rally.
 
 ## Related
 

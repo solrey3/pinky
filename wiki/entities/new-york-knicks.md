@@ -4,9 +4,9 @@ title: New York Knicks
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-06-14
+updated: 2026-07-04
 tags: [nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports]
-source_count: 12
+source_count: 13
 ---
 
 # New York Knicks
@@ -35,6 +35,8 @@ NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks 
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard still lists Knicks at Spurs as upcoming, preserving the pre-closeout setup before any title result is recorded.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Knicks 94, Spurs 90 in Game 5; New York wins the NBA Finals 4-1.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening scoreboard repeats the title endpoint: New York wins Game 5 by four and takes the Finals 4-1.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Andre Drummond’s reported one-year, **$3.9M** Knicks deal keeps NBA free agency in the New York team graph.
 
 ## Related
 

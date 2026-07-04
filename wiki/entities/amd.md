@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-03
+updated: 2026-07-04
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 32
+source_count: 33
 ---
 
 # AMD
@@ -69,6 +69,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — AMD falls **-2.77%**, making semiconductors a non-confirming pocket despite the big-index risk-on board.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — AMD falls **2.77%** while headline indexes rise, making chips a non-confirming pocket in the risk-on close.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — AMD falls **-2.77%**, keeping semiconductors a non-confirming pocket despite the big-index risk-on board.
 
 ## Related
 

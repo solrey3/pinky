@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-03
+updated: 2026-07-04
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 21
+source_count: 22
 ---
 
 # TNA Wrestling
@@ -51,6 +51,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Impact results feature Eddie Edwards pinning Leon Slater and the Knockouts TV Title tournament beginning.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — TNA appears through iMPACT!/TNA+ scheduling, Trey Miguel’s clearance, and JBL/Road Dogg creative chatter.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — TNA updates include Trey Miguel being cleared after a knee injury plus the continuing iMPACT!/events calendar.
 
 ## Related
 

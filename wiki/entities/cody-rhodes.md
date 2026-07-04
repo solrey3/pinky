@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-13
+updated: 2026-07-04
 tags: [person, wrestling]
-source_count: 6
+source_count: 7
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -41,6 +41,8 @@ source_count: 6
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Cody Rhodes faced Gunther in the house show main event. Mid-match, Cody threw the **Stardust cartwheel** — a callback to his pre-WWE persona — and a fan at ringside cosplaying as Stardust absolutely lost it. The moment went viral on r/SquaredCircle. Cody vs. Gunther: the feud travels even to European house shows.
 - [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletter-2026-06-05-evening.md) — **WWE SmackDown Bologna**: Cody Rhodes **agrees to defend the Undisputed WWE Title vs. Gunther on June 19 SmackDown**. Stipulation to be revealed June 12. The feud continues — now officially booked for television.
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up advertises **Cody Rhodes vs. Gunther** for the WWE Championship rematch on June 19.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Cody Rhodes defeats Jey Uso on SmackDown and is positioned to challenge Sami Zayn for the WWE title on Raw.
 
 ## Related
 

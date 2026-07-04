@@ -4,9 +4,9 @@ title: "LeBron James"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-03
+updated: 2026-07-04
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 6
+source_count: 7
 ---
 
 # LeBron James
@@ -26,6 +26,8 @@ NBA forward with one of the longest and most productive careers in league histor
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — ESPN reports the 76ers entering the LeBron James mix, while prediction-market topics keep late-career team movement in the attention graph.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Polymarket team-market chatter lists Cleveland, Golden State, and Philadelphia as speculative next-team outcomes.
+
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Polymarket and r/nba chatter keep LeBron next-team speculation active, including a Timberwolves push rumor.
 
 ## Related
 
