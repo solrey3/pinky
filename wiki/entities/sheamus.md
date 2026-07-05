@@ -4,9 +4,9 @@ title: Sheamus
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-05
+updated: 2026-07-05
 tags: [person, wrestling, wwe, return, injury]
-source_count: 2
+source_count: 3
 ---
 
 # Sheamus
@@ -36,6 +36,8 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/sheamus.md)
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **Sheamus reportedly training at the WWE Performance Center** (per Cageside Seats) — WWE return incoming after shoulder injury recovery.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Reportedly set to leave WWE after rejecting a restructured contract extension, shifting the Sheamus node from return-watch to free-agency/exit-watch.
 
 ## Related
 

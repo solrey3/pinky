@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-05
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 33
+source_count: 34
 ---
 
 # Monetary Policy Forward Guidance
@@ -71,6 +71,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Fed policy is unchanged at **3.63%** EFFR inside the **3.50%–3.75%** range; this is current-rate context, not new forward guidance.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, making this another continuity update rather than new forward guidance.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, making this another continuity update rather than new guidance.
 
 ## Related Concepts
 

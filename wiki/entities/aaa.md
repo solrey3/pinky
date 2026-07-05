@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-19
 updated: 2026-07-05
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 18
+source_count: 19
 ---
 
 # AAA
@@ -49,6 +49,8 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — AAA appears as a calendar/verification item and remains tied to the broader lucha and WWE crossover ecosystem.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — AAA leads the squared-circle digest with July 4 AAA on Fox results, Damian Priest arrival coverage, and a Rey Mysterio/Bad Bunny tease.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — AAA on Fox results repeat as a cross-promotional signal, with Damian Priest arrival coverage and Los Perros del Mal activity in the feed.
 
 ## Related
 

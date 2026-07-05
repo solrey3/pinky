@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-05
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 54
+source_count: 55
 ---
 
 # Risk-Off Market Rotation
@@ -92,6 +92,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Big indexes remain risk-on and Bitcoin jumps **+6.61%**, but Russell weakness, high long rates, and soft chips keep confirmation incomplete.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Sunday carry-forward data keep big indexes risk-on, but Russell weakness, soft semiconductors, and the 30-year Treasury near its high keep confirmation incomplete.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Sunday evening data keep big indexes risk-on and add a **+5.00%** Bitcoin confirmation, but Russell weakness, soft semiconductors, and high long rates still prevent a clean all-asset rally label.
 
 ## Related Concepts
 

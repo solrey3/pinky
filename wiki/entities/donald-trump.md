@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-07-05
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 20
+source_count: 21
 ---
 
 # Donald Trump
@@ -50,6 +50,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Mount Rushmore Fourth of July speech ties America 250 symbolism to Trump-era anti-communist and civic-memory politics.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — America 250 speech coverage keeps Trump central to the anniversary news cycle, mixing patriotic rhetoric with partisan jabs after weather delays.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Appears through immigrant-normalization pressure, AI-model restrictions/open-source policy, Iran diplomacy, SAVE America Act politics, and a FIFA/Balogun intervention headline.
 
 ## Related
 

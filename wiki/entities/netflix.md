@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-26
 updated: 2026-07-05
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 8
+source_count: 9
 ---
 
 # Netflix
@@ -28,6 +28,8 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Netflix gains **+9.52%**, a major consumer/platform winner inside the strong big-index tape.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Netflix is up **+9.52%**, extending the consumer/platform strength side of the split market tape.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Netflix remains up **+9.52%**, reinforcing consumer/platform strength inside the split market tape.
 
 ## Related
 

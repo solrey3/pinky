@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-02
+updated: 2026-07-05
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 16
+source_count: 17
 ---
 
 # Iran
@@ -42,6 +42,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — U.S.-Iran coverage shifts toward a temporary stand-down and resumed peace talks, moving the thread from escalation risk toward fragile diplomacy.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Iran-U.S. talks show cautious positive progress while the ceasefire holds, shifting the Iran thread from immediate escalation toward diplomacy watch.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Iran returns as a diplomacy headline rather than an escalation headline, keeping the Trump foreign-policy thread active.
 
 ## Related
 

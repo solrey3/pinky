@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-05
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 23
+source_count: 24
 ---
 
 # TNA Wrestling
@@ -55,6 +55,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — TNA updates include Trey Miguel being cleared after a knee injury plus the continuing iMPACT!/events calendar.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — TNA stays active through the July 9 iMPACT! listing plus Leon Slater/Ricky Sosa and Trey Miguel health-status items.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — TNA stays active through the July 9 iMPACT! listing on AXS/TNA+.
 
 ## Related
 

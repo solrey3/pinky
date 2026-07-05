@@ -4,9 +4,9 @@ title: Aryna Sabalenka
 type: entity
 entity_type: person
 created: 2026-06-02
-updated: 2026-06-04
+updated: 2026-07-05
 tags: [tennis, wta, belarus, grand-slam, roland-garros, person, sports]
-source_count: 5
+source_count: 6
 ---
 
 # Aryna Sabalenka
@@ -37,6 +37,8 @@ At the **2026 Roland Garros**, with Swiatek (the three-time defending champion) 
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — QF win anticipated; SF field projected. Women's SF four: Sabalenka, Kostyuk, Shnaider, Andreeva noted.
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — **ELIMINATED in QF by (25) Diana Shnaider, 3-6, 7-5, 6-0.** The WTA No. 1 and tournament favorite is out. The third set was a 6-0 dismantling — Shnaider didn't just beat Sabalenka, she closed by bageling the world's best player. A generational statement result.
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Morning confirmation of elimination. The three pre-tournament favorites (Swiatek, Gauff, Sabalenka) are all out before the semis — the most historically open women's Roland Garros draw in recent memory. Women's SF field: Shnaider, Kostyuk, Andreeva, +1.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Sabalenka loses to Naomi Osaka at Wimbledon, adding a notable upset to her grand-slam result thread.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Naomi Osaka
 type: entity
 entity_type: person
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-07-05
 tags: [tennis, wta, japan, grand-slam, roland-garros, person, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Naomi Osaka
@@ -32,6 +32,8 @@ Her 2026 Roland Garros run reached **Round 4 as the 16-seed** before she was eli
 ## Sources
 
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Osaka (16-seed) eliminated by Sabalenka (1) 7-5, 6-3 in Roland Garros R4. Osaka's clay-court ceiling remains evident against the tour's best; Sabalenka now the clear tournament favorite.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Osaka upsets Aryna Sabalenka at Wimbledon, giving her node a grass-court major result beyond the earlier Roland-Garros thread.
 
 ## Related
 

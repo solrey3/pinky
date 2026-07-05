@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-05
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 46
+source_count: 47
 ---
 
 # AI-Augmented Development
@@ -82,6 +82,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Agentic coding notes from Galapagos Island turn AI-assisted development into a loop-design and workflow-practice problem, not just model selection.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Shadcn/UI defaulting to Base UI and Codex reasoning-token complaints show AI-era development depending on both ordinary stack defaults and coding-agent reliability.
+
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Flipper Zero roadmap attention and open-source AI policy connect developer/hacker tooling to maintainability, governance, and operator control.
 
 ## Related Concepts
 
