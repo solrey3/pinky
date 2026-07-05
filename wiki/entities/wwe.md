@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-04
+updated: 2026-07-05
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 30
+source_count: 31
 ---
 
 # WWE
@@ -65,6 +65,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Raw/SmackDown scheduling continues while Sami Zayn championship-reign coverage keeps WWE in post-title-change storyline mode.
 
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — SmackDown fallout has Cody Rhodes defeating Jey Uso and setting a Raw WWE title match against Sami Zayn, while Raw/SmackDown scheduling continues.
+
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Raw/SmackDown scheduling continues while Cody Rhodes vs. Sami Zayn for the Undisputed WWE Title remains the main WWE title-program note.
 
 ## Related
 

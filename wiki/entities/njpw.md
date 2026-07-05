@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-07-04
+updated: 2026-07-05
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 39
+source_count: 40
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -105,6 +105,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — NJPW remains in the tour-calendar lane while AEW/NJPW/Stardom/CMLL Forbidden Door matches stay in the Meltzer ratings table.
 
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — NJPW remains calendar-based in the digest, with Wrestle Kingdom 20’s Tanahashi/Okada rating still anchoring the Meltzer table.
+
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — NJPW appears through Road To G1 Climax results and Tomoaki Honma retirement news, keeping the G1-season calendar active.
 
 ## Related
 

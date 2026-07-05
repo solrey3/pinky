@@ -4,9 +4,9 @@ title: Sami Zayn
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-04
+updated: 2026-07-05
 tags: [person, wrestling, wwe, night-of-champions, world-champion]
-source_count: 8
+source_count: 9
 ---
 
 # Sami Zayn
@@ -45,6 +45,8 @@ source_count: 8
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Industry reaction, career-reflection quotes, and SmackDown preview coverage keep Sami Zayn’s WWE Championship reign as the lead WWE story.
 
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Sami Zayn’s title reign moves into a Raw defense/program against Cody Rhodes after SmackDown fallout.
+
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Sami Zayn remains the WWE title node as Cody Rhodes is positioned as his Raw challenger; r/squaredcircle also carries Zayn celebration chatter.
 
 ## Related
 

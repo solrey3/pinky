@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-04
+updated: 2026-07-05
 tags: [person, wrestling]
-source_count: 7
+source_count: 8
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -43,6 +43,8 @@ source_count: 7
 - [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up advertises **Cody Rhodes vs. Gunther** for the WWE Championship rematch on June 19.
 
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Cody Rhodes defeats Jey Uso on SmackDown and is positioned to challenge Sami Zayn for the WWE title on Raw.
+
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Cody Rhodes' SmackDown win over Jey Uso carries forward as the setup for an Undisputed WWE Title challenge against Sami Zayn on Raw.
 
 ## Related
 
