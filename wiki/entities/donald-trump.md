@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 21
+source_count: 22
 ---
 
 # Donald Trump
@@ -52,6 +52,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — America 250 speech coverage keeps Trump central to the anniversary news cycle, mixing patriotic rhetoric with partisan jabs after weather delays.
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Appears through immigrant-normalization pressure, AI-model restrictions/open-source policy, Iran diplomacy, SAVE America Act politics, and a FIFA/Balogun intervention headline.
+
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Appears through Trump Accounts market optics, NATO diplomacy with Zelensky, AI-model restrictions/open-source pressure, and tariff-history debate.
 
 ## Related
 

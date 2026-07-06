@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 34
+source_count: 35
 ---
 
 # AEW
@@ -74,6 +74,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — AEW remains in the weekly calendar through Dynamite/Collision listings, with Cash Wheeler/Randy Orton nostalgia and Lance Archer injury notes in the feed.
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — AEW remains in the weekly calendar through Dynamite/Collision listings, while Will Ospreay reflection and Forbidden Door ratings keep major-match context active.
+
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Dynamite/Collision scheduling, Will Ospreay coverage, and Forbidden Door Meltzer ratings keep AEW prominent in the wrestling ecosystem.
 
 ## Related
 

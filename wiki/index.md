@@ -206,6 +206,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-07-04-daytime](sources/newsletter-2026-07-04-daytime.md) | Daytime Dispatch — Saturday, July 4, 2026 | newsletter | [newsletter, daytime-dispatch, july-fourth, markets, risk-on, federal-reserve, treasury, bitcoin, power-grid, ai-infrastructure-energy-demand, synthetic-biology, agentic-coding, semiconductors, amd, tsm, nvidia, tesla, netflix, lebron-james, new-jersey-devils, wrestling, wwe, cody-rhodes, sami-zayn, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon] | 2026-07-04 |
 | [newsletter-2026-07-05-daytime](sources/newsletter-2026-07-05-daytime.md) | Daytime Dispatch — Sunday, July 5, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, semiconductors, amd, tsm, nvidia, tesla, netflix, plex, youtube, openai-codex, shadcn-ui, base-ui, security, privacy, digital-media, lebron-james, new-jersey-devils, wrestling, wwe, cody-rhodes, sami-zayn, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon] | 2026-07-05 |
 | [newsletter-2026-07-05-evening](sources/newsletter-2026-07-05-evening.md) | Evening Brief — Sunday, July 5, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, open-source-ai, open-weights, organic-maps, flipper-zero, macos-malware, trump, immigration, iran, semiconductors, amd, tsm, nvidia, tesla, netflix, mets, new-jersey-devils, wrestling, wwe, sheamus, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon] | 2026-07-05 |
+| [newsletter-2026-07-06-daytime](sources/newsletter-2026-07-06-daytime.md) | Daytime Dispatch — Monday, July 6, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, open-source-ai, open-weights, organic-maps, openprinter, trump, ukraine, zelensky, nato, vaccines, covid-stimulus, inflation, semiconductors, amd, tsm, nvidia, tesla, netflix, lebron-james, new-jersey-devils, wrestling, wwe, sheamus, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon] | 2026-07-06 |
 | [newsletter-2026-05-31-evening](sources/newsletter-2026-05-31-evening.md) | Evening Brief — Sunday, May 31, 2026 | newsletter | [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen] | 2026-05-31 |
 | [newsletter-2026-05-30-evening](sources/newsletter-2026-05-30-evening.md) | Newsletter 2026-05-30 — Evening Dispatch | newsletter | [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer] | 2026-05-30 |
 
@@ -255,7 +256,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Kobe Bryant](entities/kobe-bryant.md) | person | person, basketball, nba | 1 |
 | [Kyrie Irving](entities/kyrie-irving.md) | person | person, basketball, nba | 1 |
 | [Larry Bird](entities/larry-bird.md) | person | person, basketball, nba | 1 |
-| [LeBron James](entities/lebron-james.md) | person | basketball, nba, player, longevity, analytics, lakers, prediction-markets | 8 |
+| [LeBron James](entities/lebron-james.md) | person | basketball, nba, player, longevity, analytics, lakers, prediction-markets | 9 |
 | [Luka Dončić](entities/luka-doncic.md) | person | person, basketball, nba | 1 |
 | [Magic Johnson](entities/magic-johnson.md) | person | person, basketball, nba | 1 |
 | [Manu Ginobili](entities/manu-ginobili.md) | person | person, basketball, nba | 1 |
@@ -288,7 +289,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
 | [Adam Cole](entities/adam-cole.md) | person | person, wrestling | 1 |
-| [AEW](entities/aew.md) | organization | wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf | 34 |
+| [AEW](entities/aew.md) | organization | wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf | 35 |
 | [AJ Styles](entities/aj-styles.md) | person | person, wrestling, wwe | 3 |
 | [Andrade / Andrade El Idolo](entities/andrade.md) | person | person, wrestling | 2 |
 | [André the Giant](entities/andre-the-giant.md) | person | person, wrestling | 1 |
@@ -345,10 +346,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Miro (Rusev)](entities/rusev.md) | person | person, wrestling, wwe, raw | 4 |
 | [Mercedes Moné](entities/mercedes-mone.md) | person | person, wrestling, aew, wwe, owen-hart-cup | 3 |
 | [MJF](entities/mjf.md) | person | person, wrestling | 9 |
-| [AAA](entities/aaa.md) | organization | wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal | 19 |
-| [CMLL](entities/cmll.md) | organization | wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano | 27 |
-| [NJPW (New Japan Pro-Wrestling)](entities/njpw.md) | organization | wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax | 41 |
-| [ROH](entities/roh.md) | organization | wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings | 21 |
+| [AAA](entities/aaa.md) | organization | wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal | 20 |
+| [CMLL](entities/cmll.md) | organization | wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano | 28 |
+| [NJPW (New Japan Pro-Wrestling)](entities/njpw.md) | organization | wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax | 42 |
+| [ROH](entities/roh.md) | organization | wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings | 22 |
 | [Owen Hart](entities/owen-hart.md) | person | person, wrestling | 1 |
 | [PAC](entities/pac.md) | person | person, wrestling, aew, njpw, forbidden-door, iwgp | 2 |
 | [Penta](entities/penta.md) | person | person, wrestling, wwe, lucha-libre, intercontinental-title | 1 |
@@ -368,9 +369,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Seth Rollins](entities/seth-rollins.md) | person | person, wrestling, wwe, king-of-the-ring | 3 |
 | [Sol Ruca](entities/sol-ruca.md) | person | person, wrestling, wwe, women, ic-champion | 3 |
 | [Steve Maclin](entities/steve-maclin.md) | person | person, wrestling, tna, free-agent | 1 |
-| [TNA Wrestling](entities/tna-wrestling.md) | organization | wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary | 24 |
+| [TNA Wrestling](entities/tna-wrestling.md) | organization | wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary | 25 |
 | [Shawn Michaels](entities/shawn-michaels.md) | person | person, wrestling | 1 |
-| [Sheamus](entities/sheamus.md) | person | person, wrestling | 3 |
+| [Sheamus](entities/sheamus.md) | person | person, wrestling | 4 |
 | [Shinsuke Nakamura](entities/shinsuke-nakamura.md) | person | person, wrestling | 1 |
 | [Sting](entities/sting.md) | person | person, wrestling | 1 |
 | [Stone Cold Steve Austin](entities/stone-cold-steve-austin.md) | person | person, wrestling | 1 |
@@ -380,8 +381,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Ultimate Warrior](entities/ultimate-warrior.md) | person | person, wrestling | 1 |
 | [The Undertaker](entities/the-undertaker.md) | person | person, wrestling | 1 |
 | [Will Ospreay](entities/will-ospreay.md) | person | person, wrestling | 4 |
-| [WWE](entities/wwe.md) | organization | wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn | 32 |
-| [WWE NXT](entities/wwe-nxt.md) | organization | wrestling, wwe, nxt, developmental, television, nikkita-lyons | 13 |
+| [WWE](entities/wwe.md) | organization | wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn | 33 |
+| [WWE NXT](entities/wwe-nxt.md) | organization | wrestling, wwe, nxt, developmental, television, nikkita-lyons | 14 |
 | [STARDOM](entities/stardom.md) | organization | wrestling, joshi, promotion, japan, stardom, 5star-grand-prix | 3 |
 | [Zaria](entities/zaria.md) | person | person, wrestling, wwe, nxt, womens-wrestling, north-american-title | 1 |
 
@@ -570,23 +571,26 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Political Figures & Government
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Donald Trump](entities/donald-trump.md) | person | politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration | 21 |
+| [Donald Trump](entities/donald-trump.md) | person | politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration | 22 |
 | [Elon Musk](entities/elon-musk.md) | person | technology, tesla, spacex, openai, politics, lawsuits, election-law | 3 |
 | [FCC](entities/fcc.md) | organization | government, telecommunications, privacy, identity, regulation | 1 |
 | [Ecuador](entities/ecuador.md) | place | ecuador, geopolitics, latin-america, security, terrorism-designation | 1 |
 | [Chone Killers](entities/chone-killers.md) | organization | ecuador, gang, terrorism-designation, security, latin-america | 1 |
 | [Federal Trade Commission](entities/federal-trade-commission.md) | organization | government, regulation, privacy, consumer-protection, ftc, platforms | 1 |
+| [Robert F. Kennedy Jr.](entities/robert-f-kennedy-jr.md) | person | politics, public-health, vaccines, hhs, misinformation, united-states | 1 |
+| [NATO](entities/nato.md) | organization | geopolitics, security, alliance, europe, ukraine, diplomacy | 1 |
+| [Centers for Disease Control and Prevention](entities/centers-for-disease-control-and-prevention.md) | organization | public-health, government, cdc, vaccines, disease-control, united-states | 1 |
 | [U.S. Food and Drug Administration](entities/us-food-and-drug-administration.md) | organization | government, public-health, regulation, fda, nicotine, tobacco, united-states | 2 |
-| [Federal Reserve](entities/federal-reserve.md) | organization | monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr | 36 |
+| [Federal Reserve](entities/federal-reserve.md) | organization | monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr | 37 |
 | [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 5 |
 | [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain | 17 |
 | [U.S. Department of Energy](entities/us-department-of-energy.md) | organization | government, energy, power-grid, emergency-orders, infrastructure, united-states | 1 |
 | [U.S. Environmental Protection Agency](entities/us-environmental-protection-agency.md) | organization | government, environment, regulation, pesticides, pfas, public-health, united-states | 1 |
 | [California](entities/california.md) | place | california, state, regulation, consumer-protection, food-labels, united-states | 1 |
 | [Virginia](entities/virginia.md) | place | virginia, state, privacy, geolocation-data, regulation, united-states | 1 |
-| [Ukraine](entities/ukraine.md) | place | ukraine, geopolitics, war, russia, europe, security | 2 |
+| [Ukraine](entities/ukraine.md) | place | ukraine, geopolitics, war, russia, europe, security | 3 |
 | [Russia](entities/russia.md) | place | russia, geopolitics, war, ukraine, security | 2 |
-| [Volodymyr Zelensky](entities/volodymyr-zelensky.md) | person | person, ukraine, geopolitics, war, russia | 2 |
+| [Volodymyr Zelensky](entities/volodymyr-zelensky.md) | person | person, ukraine, geopolitics, war, russia | 3 |
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 3 |
 
 ### Sports Analytics
@@ -601,7 +605,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
 | [Alexander Zverev](entities/alexander-zverev.md) | person | tennis, atp, germany, roland-garros, grand-slam, next-gen, sports | 1 |
-| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 6 |
+| [Aryna Sabalenka](entities/aryna-sabalenka.md) | person | tennis, wta, belarus, grand-slam, roland-garros, sports | 7 |
 | [Diana Shnaider](entities/diana-shnaider.md) | person | tennis, wta, russia, roland-garros, next-gen, sports | 3 |
 | [Flavio Cobolli](entities/flavio-cobolli.md) | person | tennis, atp, italy, roland-garros, grand-slam, unseeded, sports | 1 |
 | [Iga Swiatek](entities/iga-swiatek.md) | person | tennis, roland-garros, poland, grand-slam, wta, sports | 1 |
@@ -610,8 +614,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Maja Chwalinska](entities/maja-chwalinska.md) | person | tennis, wta, poland, roland-garros, unseeded, upset-specialist, sports | 1 |
 | [Marta Kostyuk](entities/marta-kostyuk.md) | person | tennis, wta, ukraine, roland-garros, grand-slam, sports | 5 |
 | [Mirra Andreeva](entities/mirra-andreeva.md) | person | tennis, wta, russia, roland-garros, next-gen, grand-slam, sports | 1 |
-| [Naomi Osaka](entities/naomi-osaka.md) | person | tennis, wta, japan, grand-slam, roland-garros, sports | 2 |
-| [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 3 |
+| [Naomi Osaka](entities/naomi-osaka.md) | person | tennis, wta, japan, grand-slam, roland-garros, sports | 3 |
+| [Novak Djokovic](entities/novak-djokovic.md) | person | tennis, roland-garros, serbia, goat, sports | 4 |
 
 ### Golfers
 | Entity | Type | Tags | Sources |
@@ -632,8 +636,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Alibaba](entities/alibaba.md) | organization | technology, ai, china, cloud, llm, model-extraction | 3 |
 | [AWS](entities/aws.md) | organization | cloud, infrastructure, aws, lambda, microvms, sandboxing, serverless | 1 |
 | [Base UI](entities/base-ui.md) | product | frontend, react, component-library, developer-tools, ui | 1 |
-| [Bitcoin](entities/bitcoin.md) | product | crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on | 2 |
-| [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off | 35 |
+| [Bitcoin](entities/bitcoin.md) | product | crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on | 3 |
+| [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off | 36 |
 | [Android](entities/android.md) | product | android, mobile, operating-system, google, app-stores, sideloading, security | 3 |
 | [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography | 23 |
 | [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, security, firmware, beats, ios, swift | 9 |
@@ -661,17 +665,18 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, build-2026, supply-chain-security, github-copilot, quantum-error-correction, cryptocurrency-malware | 18 |
 | [Modular](entities/modular.md) | organization | technology, ai, compilers, runtimes, ai-infrastructure, acquisition | 1 |
 | [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 1 |
-| [Netflix](entities/netflix.md) | organization | streaming, platform, accounts, identity, subscriptions, media | 9 |
+| [Netflix](entities/netflix.md) | organization | streaming, platform, accounts, identity, subscriptions, media | 10 |
 | [Paramount](entities/paramount.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 1 |
 | [Warner Bros. Discovery](entities/warner-bros-discovery.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 1 |
 | [Plex](entities/plex.md) | product | media, streaming, self-hosting, subscriptions, platform | 1 |
 | [PlayStation](entities/playstation.md) | product | gaming, console, sony, digital-distribution, physical-media, platform | 2 |
-| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers | 37 |
+| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers | 38 |
 | [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals, nba-champions | 13 |
 | [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control | 13 |
-| [OpenAI Codex](entities/openai-codex.md) | product | ai, coding-agent, developer-tools, openai, reliability, codex | 1 |
+| [OpenAI Codex](entities/openai-codex.md) | product | ai, coding-agent, developer-tools, openai, reliability, codex | 2 |
 | [OpenKnowledge](entities/openknowledge.md) | product | knowledge-management, ai, open-source, notes, second-brain, obsidian, notion | 1 |
-| [Organic Maps](entities/organic-maps.md) | product | maps, open-source, privacy, navigation, openstreetmap, mobile | 1 |
+| [OpenPrinter](entities/openprinter.md) | product | hardware, open-source, printing, maker-tools, developer-tools | 1 |
+| [Organic Maps](entities/organic-maps.md) | product | maps, open-source, privacy, navigation, openstreetmap, mobile | 2 |
 | [Qwen](entities/qwen.md) | product | ai, llm, open-weights, local-ai, developer-tools, agentic-coding | 2 |
 | [Oracle](entities/oracle.md) | organization | technology, cloud, enterprise-software, ai-infrastructure, layoffs, debt, capex | 2 |
 | [Qualcomm](entities/qualcomm.md) | organization | technology, semiconductors, mobile, ai-chips, acquisition, runtime | 1 |
@@ -684,13 +689,13 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [SpaceX](entities/spacex.md) | organization | space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone | 3 |
 | [Rocket Lab](entities/rocket-lab.md) | organization | space, launch, satellites, connectivity, acquisition, infrastructure | 2 |
 | [Iridium](entities/iridium.md) | organization | space, satellites, communications, connectivity, acquisition, infrastructure | 2 |
-| [TSM](entities/tsm.md) | organization | technology, semiconductors, foundry, ai-chips, markets, risk-on, risk-off | 30 |
-| [Tesla](entities/tesla.md) | organization | automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on | 11 |
+| [TSM](entities/tsm.md) | organization | technology, semiconductors, foundry, ai-chips, markets, risk-on, risk-off | 31 |
+| [Tesla](entities/tesla.md) | organization | automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on | 12 |
 | [Valve](entities/valve.md) | organization | gaming, steam, steamos, hardware, linux, steam-machine, game-tech | 3 |
 | [U.S. Census Bureau](entities/us-census-bureau.md) | organization | government, statistics, census, public-data, privacy, statistical-privacy | 2 |
 | [YouTube](entities/youtube.md) | product | video, platform, creators, privacy, google, media | 1 |
 | [Vegas Golden Knights](entities/vegas-golden-knights.md) | organization | nhl, hockey, vegas, golden-knights, stanley-cup | 20 |
-| [New Jersey Devils](entities/new-jersey-devils.md) | organization | nhl, hockey, new-jersey, devils, sports, free-agency | 6 |
+| [New Jersey Devils](entities/new-jersey-devils.md) | organization | nhl, hockey, new-jersey, devils, sports, free-agency | 7 |
 
 ### Films
 | Entity | Type | Tags | Sources |
@@ -818,7 +823,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | --- | --- | --- |
 | [Advantage Play](concepts/advantage-play.md) | [gambling, mathematics, poker, strategy, skill, risk] | 3 |
 | [Agentic Access Control](concepts/agentic-access-control.md) | [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents] | 4 |
-| [AI-Augmented Development](concepts/ai-augmented-development.md) | [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography] | 47 |
+| [AI-Augmented Development](concepts/ai-augmented-development.md) | [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography] | 48 |
 | [AI Hiring Bias](concepts/ai-hiring-bias.md) | [ai, hiring, bias, employment, discrimination, governance, automated-decision-systems, algorithmic-accountability] | 2 |
 | [AI Infrastructure Energy Demand](concepts/ai-infrastructure-energy-demand.md) | [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google] | 2 |
 | [AI Model Capability Extraction](concepts/ai-model-capability-extraction.md) | [ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance] | 3 |
@@ -842,6 +847,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [DRAYMOND](concepts/draymond-defense.md) | [basketball, nba, analytics, defense, statistics] | 1 |
 | [Eschatology](concepts/eschatology.md) | [religion, theology, apocalypse, time, narrative, destiny] | 2 |
 | [Formal Methods](concepts/formal-methods.md) | [software-engineering, verification, reliability, tla-plus, model-checking, databases, infrastructure] | 1 |
+| [Vaccine Misinformation](concepts/vaccine-misinformation.md) | [public-health, vaccines, misinformation, risk-communication, institutions, trust] | 1 |
+| [Fiscal Stimulus and Inflation](concepts/fiscal-stimulus-and-inflation.md) | [economics, inflation, fiscal-policy, stimulus, covid, macroeconomics] | 1 |
 | [Game Theory Optimal (GTO)](concepts/game-theory-optimal.md) | [game-theory, poker, mathematics, equilibrium, strategy, decision-making] | 2 |
 | [Geofence Warrants](concepts/geofence-warrants.md) | [privacy, fourth-amendment, location-data, warrants, surveillance, constitutional-law] | 2 |
 | [Geolocation Data Privacy](concepts/geolocation-data-privacy.md) | [privacy, location-data, geolocation, data-brokers, regulation, surveillance, mobile] | 1 |
@@ -849,10 +856,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Idealism vs Realism](concepts/idealism-vs-realism.md) | [literature, philosophy, epistemology, psychology] | 1 |
 | [Indoor Air Quality and Cognition](concepts/indoor-air-quality-and-cognition.md) | [health, cognition, indoor-air-quality, co2, ventilation, decision-making, productivity] | 1 |
 | [LLM Wiki pattern](concepts/llm-wiki-pattern.md) | [llm, architecture, knowledge-management, karpathy, ai-first-notes, openknowledge] | 2 |
-| [Market Inefficiency](concepts/market-inefficiency.md) | [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket] | 58 |
+| [Market Inefficiency](concepts/market-inefficiency.md) | [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket] | 59 |
 | [mRNA Vaccine Safety](concepts/mrna-vaccine-safety.md) | [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication] | 2 |
 | [Nicotine Harm Reduction](concepts/nicotine-harm-reduction.md) | [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda] | 2 |
-| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets] | 34 |
+| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets] | 35 |
 | [Online Age Verification](concepts/online-age-verification.md) | [internet, identity, age-verification, privacy, children, regulation, access-control] | 4 |
 | [Metafiction](concepts/metafiction.md) | [literature, narrative, postmodernism, self-reference] | 1 |
 | [PARA](concepts/para.md) | [organization, knowledge-management, actionability, productivity] | 1 |
@@ -861,7 +868,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Plus-Minus Statistics](concepts/plus-minus-statistics.md) | [basketball, nba, analytics, statistics] | 1 |
 | [Political Realism](concepts/political-realism.md) | [politics, philosophy, power, statecraft, ethics] | 3 |
 | [Power Grid Resilience](concepts/power-grid-resilience.md) | [energy, infrastructure, power-grid, resilience, heat-wave, emergency-orders, climate] | 3 |
-| [Open-Weights AI](concepts/open-weights-ai.md) | [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding] | 9 |
+| [Open-Weights AI](concepts/open-weights-ai.md) | [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding] | 10 |
 | [PREDATOR](concepts/predator.md) | [basketball, nba, analytics, forecasting, projections] | 1 |
 | [Pythagorean Expectation](concepts/pythagorean-expectation.md) | [basketball, nba, analytics, statistics, forecasting] | 1 |
 | [Quantum Error Correction](concepts/quantum-error-correction.md) | [quantum-computing, error-correction, infrastructure, microsoft, research, vendor-roadmap, policy] | 4 |
@@ -869,7 +876,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [RAPTOR](concepts/raptor.md) | [basketball, nba, analytics, statistics, plus-minus] | 1 |
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy] | 55 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy] | 56 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
 | [Security & Privacy Toolkit](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed] | 60 |
 | [Semiconductor Scaling](concepts/semiconductor-scaling.md) | [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation] | 15 |

@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 6
+source_count: 7
 ---
 
 # New Jersey Devils
@@ -26,6 +26,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Devils feed items continue through Gritsyuk, Lombardi, Rittich, and free-agency coverage, adding roster/offseason continuity rather than a thesis change.
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Devils coverage continues through Gritsyuk and Lombardi items, adding offseason roster/feed continuity rather than a major thesis change.
+
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Team feed continues through Gritsyuk feature coverage plus Lombardi and Rittich contract items.
 
 ## Related
 

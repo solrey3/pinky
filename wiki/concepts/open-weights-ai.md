@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 9
+source_count: 10
 ---
 
 # Open-Weights AI
@@ -29,6 +29,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — A guide to running SOTA LLMs locally shifts open/local AI from model availability into practical operator workflow.
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Trump administration AI restrictions push attention back toward open-source/private model alternatives, connecting open weights to policy resilience rather than only local convenience.
+
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Trump administration restrictions on private AI models again make open-source/open-weight alternatives a policy-resilience topic.
 
 ## Related Concepts
 

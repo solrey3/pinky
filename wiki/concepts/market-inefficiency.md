@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 58
+source_count: 59
 ---
 
 # Market Inefficiency
@@ -97,6 +97,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — LeBron next-team odds provide a sentiment snapshot, while the Kalshi scrape failure is a reminder that prediction-market signals need provenance checks.
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Polymarket extraction returns noisy mixed text and Kalshi remains unavailable, preserving prediction-market provenance limits rather than adding a usable forecast signal.
+
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Polymarket supplies a LeBron next-team probability while Kalshi is unavailable, reinforcing prediction-market feeds as useful but provenance-limited inputs.
 
 ## Related Concepts
 

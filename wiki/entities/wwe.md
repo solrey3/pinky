@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 32
+source_count: 33
 ---
 
 # WWE
@@ -69,6 +69,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Raw/SmackDown scheduling continues while Cody Rhodes vs. Sami Zayn for the Undisputed WWE Title remains the main WWE title-program note.
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — WWE adds a personnel-state-change story as Sheamus is reportedly set to leave after rejecting a restructured extension, while Raw title-match scheduling continues.
+
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Raw/SmackDown schedule, three Raw title matches, Scarlett Guillen news, and another Sheamus exit report keep WWE as the main wrestling feed node.
 
 ## Related
 

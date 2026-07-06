@@ -4,9 +4,9 @@ title: Organic Maps
 type: entity
 entity_type: product
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [maps, open-source, privacy, navigation, openstreetmap, mobile]
-source_count: 1
+source_count: 2
 ---
 
 # Organic Maps
@@ -16,6 +16,8 @@ Open-source, privacy-oriented mapping and navigation software built around open 
 ## Sources
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Heavy Hacker News attention around Organic Maps keeps open mapping in the same trust-and-control frame as open AI and self-managed tooling.
+
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Returns as a high-scoring Hacker News item, reinforcing open/offline mapping as part of the operator-control tool stack.
 
 ## Related
 
