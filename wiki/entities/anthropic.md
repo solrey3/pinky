@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-07-01
+updated: 2026-07-07
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 23
+source_count: 24
 ---
 
 # Anthropic
@@ -84,6 +84,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Claude Sonnet 5 leads the AI desk while Claude Code prompt-steganography reporting adds hidden-context/provenance risk to Anthropic's developer-tooling story.
 
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Claude Sonnet 5 remains the lead AI item while Claude Code request-marking keeps hidden context and developer-tool provenance in the Anthropic governance story.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Claude Code prompt-steganography/tracker concerns and global-workspace research keep Anthropic in the model-trust, telemetry, and interpretability frame.
 
 ## Related
 

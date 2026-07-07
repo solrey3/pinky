@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-05
+updated: 2026-07-07
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 60
+source_count: 61
 ---
 
 # Security & Privacy Toolkit
@@ -99,6 +99,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — YouTube private-video leakage and Codex reliability complaints extend the trust boundary from endpoints into creator platforms and AI coding tools.
 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — PamStealer macOS malware and open-tool attention around Organic Maps/Flipper Zero keep platform trust, endpoint security, and inspectable tooling in the same operator stack.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — FCC broadband fee-disclosure rollback, Claude Code tracking/provenance concerns, and OpenWrt One open-router attention all put transparency and inspectable infrastructure inside the practical trust perimeter.
 
 ## Related Concepts
 

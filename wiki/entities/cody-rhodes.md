@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-05
+updated: 2026-07-07
 tags: [person, wrestling]
-source_count: 8
+source_count: 9
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -45,6 +45,8 @@ source_count: 8
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Cody Rhodes defeats Jey Uso on SmackDown and is positioned to challenge Sami Zayn for the WWE title on Raw.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Cody Rhodes' SmackDown win over Jey Uso carries forward as the setup for an Undisputed WWE Title challenge against Sami Zayn on Raw.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — The Raw title report frames Cody Rhodes as replaced by CM Punk in the Undisputed WWE Championship match.
 
 ## Related
 

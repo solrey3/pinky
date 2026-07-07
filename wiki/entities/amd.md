@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-06
+updated: 2026-07-07
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 36
+source_count: 37
 ---
 
 # AMD
@@ -77,6 +77,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — AMD remains soft at **-2.77%**, keeping semiconductors as a non-confirming pocket beneath big-index strength.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Falls **-2.77%**, keeping semiconductors soft even as the broad large-cap tape is risk-on.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — AMD participates in the high-beta risk-on tape at **+5.84%**, close to the upper half of its 52-week range.
 
 ## Related
 

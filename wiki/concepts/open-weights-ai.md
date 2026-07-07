@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-06
+updated: 2026-07-07
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 10
+source_count: 11
 ---
 
 # Open-Weights AI
@@ -31,6 +31,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Trump administration AI restrictions push attention back toward open-source/private model alternatives, connecting open weights to policy resilience rather than only local convenience.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Trump administration restrictions on private AI models again make open-source/open-weight alternatives a policy-resilience topic.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — GLM 5.2 margin-collapse discussion keeps open/low-cost model economics in the same thread as operator control and inference-cost pressure.
 
 ## Related Concepts
 

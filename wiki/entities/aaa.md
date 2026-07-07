@@ -4,9 +4,9 @@ title: AAA
 type: entity
 entity_type: organization
 created: 2026-06-19
-updated: 2026-07-06
+updated: 2026-07-07
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 20
+source_count: 21
 ---
 
 # AAA
@@ -53,6 +53,8 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — AAA on Fox results repeat as a cross-promotional signal, with Damian Priest arrival coverage and Los Perros del Mal activity in the feed.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — AAA schedule and AAA on Fox results keep lucha/WWE crossover attention active.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — AAA remains in the wrestling calendar and news feed, including El Hijo del Vikingo saying he will undergo surgery.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-11
+updated: 2026-07-07
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 4
+source_count: 5
 ---
 
 # CM Punk
@@ -38,6 +38,8 @@ source_count: 4
 - [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletter-2026-06-03-evening.md) — **Logan Paul publicly apologized to CM Punk** after suffering a tricep tear injury, admitting he "was wrong" in their prior confrontation. Separately, **Ryan Nemeth** appeared to accuse Punk of PED use on social media — the kind of salvo that turns into a full-blown narrative if Punk responds.
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Wrestling desk keeps Punk in the feed through a backstage-rumor update on alleged conflict between CM Punk and WWE.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — A report on when Punk could return to WWE TV keeps his comeback timing in the rumor cycle.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Reportedly replaced Cody Rhodes and defeated Sami Zayn to win the Undisputed WWE Championship on WWE Raw.
 
 ## Related
 

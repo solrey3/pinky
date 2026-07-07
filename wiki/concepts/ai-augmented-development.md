@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-06
+updated: 2026-07-07
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 48
+source_count: 49
 ---
 
 # AI-Augmented Development
@@ -86,6 +86,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Flipper Zero roadmap attention and open-source AI policy connect developer/hacker tooling to maintainability, governance, and operator control.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Codex model-rumor attention and OpenPrinter hardware interest keep developer/operator tooling tied to capability, openness, and maintainability.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Claude Code prompt-steganography/tracker concerns show coding-agent usefulness now depends on hidden-context visibility, telemetry boundaries, and operator auditability.
 
 ## Related Concepts
 

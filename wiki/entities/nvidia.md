@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-07-06
+updated: 2026-07-07
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 38
+source_count: 39
 ---
 
 # Nvidia
@@ -79,6 +79,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Nvidia is down **-0.46%**, so AI-chip leadership still does not fully confirm the large-cap risk-on board.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Drops **-0.46%**, leaving AI-chip leadership a weak spot in an otherwise positive large-cap tape.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Nvidia is positive at **+1.57%**, participating in the chip recovery but less forcefully than AMD or TSM.
 
 ## Related
 

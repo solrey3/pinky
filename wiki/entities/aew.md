@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-06
+updated: 2026-07-07
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 35
+source_count: 36
 ---
 
 # AEW
@@ -76,6 +76,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — AEW remains in the weekly calendar through Dynamite/Collision listings, while Will Ospreay reflection and Forbidden Door ratings keep major-match context active.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Dynamite/Collision scheduling, Will Ospreay coverage, and Forbidden Door Meltzer ratings keep AEW prominent in the wrestling ecosystem.
+
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — AEW Dynamite viewership is reported up despite Team USA World Cup competition; Forbidden Door 5-star ratings remain in the Meltzer table.
 
 ## Related
 
