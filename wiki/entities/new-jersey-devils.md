@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-07
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 8
+source_count: 9
 ---
 
 # New Jersey Devils
@@ -30,6 +30,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Team feed continues through Gritsyuk feature coverage plus Lombardi and Rittich contract items.
 
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Sports newswire notes Malek signing a two-year deal and the Devils re-signing Steeves, adding offseason roster continuity.
+
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — The Devils appear through Malek signing a two-year deal and Steeves re-signing, continuing the offseason roster-maintenance thread.
 
 ## Related
 

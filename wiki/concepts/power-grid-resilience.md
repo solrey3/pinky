@@ -3,9 +3,9 @@ id: 530ce36f-3c5b-4f40-8942-fcabf4e87ccd
 title: Power Grid Resilience
 type: concept
 created: 2026-07-01
-updated: 2026-07-04
+updated: 2026-07-07
 tags: [energy, infrastructure, power-grid, resilience, heat-wave, emergency-orders, climate]
-source_count: 3
+source_count: 4
 ---
 
 # Power Grid Resilience
@@ -19,6 +19,8 @@ Power grid resilience is the ability of electrical systems to maintain or restor
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google's AI-driven electricity-use increase adds structural data-center load growth to the grid-resilience thread alongside heat-wave emergency stress.
 
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Consumer AC demand and online/data demand are explicitly framed as combined stressors on the Northeast power grid.
+
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Data-center electricity demand is tied to regional power-bill pressure and construction-site theft, linking digital infrastructure growth to grid capacity and physical supply-chain security.
 
 ## Related Concepts
 

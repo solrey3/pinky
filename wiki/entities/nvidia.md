@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-07-07
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 39
+source_count: 40
 ---
 
 # Nvidia
@@ -81,6 +81,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Drops **-0.46%**, leaving AI-chip leadership a weak spot in an otherwise positive large-cap tape.
 
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Nvidia is positive at **+1.57%**, participating in the chip recovery but less forcefully than AMD or TSM.
+
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Nvidia gains **1.01%**, but the broader chip read is mixed because AMD and TSM sell off sharply in the same table.
 
 ## Related
 

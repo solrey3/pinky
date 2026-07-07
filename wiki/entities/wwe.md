@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-07
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 34
+source_count: 35
 ---
 
 # WWE
@@ -73,6 +73,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Raw/SmackDown schedule, three Raw title matches, Scarlett Guillen news, and another Sheamus exit report keep WWE as the main wrestling feed node.
 
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Raw coverage reports CM Punk replacing Cody Rhodes and defeating Sami Zayn for the Undisputed WWE Championship, with Roman Reigns and Brock Lesnar also advertised for 7/13 Raw.
+
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Raw coverage reports CM Punk taking the Undisputed title off Sami Zayn, while Raw/SmackDown scheduling keeps WWE as the lead wrestling calendar node.
 
 ## Related
 

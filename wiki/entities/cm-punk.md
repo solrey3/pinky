@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-07
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 5
+source_count: 6
 ---
 
 # CM Punk
@@ -40,6 +40,8 @@ source_count: 5
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — A report on when Punk could return to WWE TV keeps his comeback timing in the rumor cycle.
 
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Reportedly replaced Cody Rhodes and defeated Sami Zayn to win the Undisputed WWE Championship on WWE Raw.
+
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — CM Punk is reported to return on Raw and take the Undisputed WWE Championship from Sami Zayn, extending the July 7 daytime title-change node.
 
 ## Related
 

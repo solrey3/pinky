@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-07
 tags: [person, wrestling, wwe, night-of-champions, world-champion]
-source_count: 10
+source_count: 11
 ---
 
 # Sami Zayn
@@ -49,6 +49,8 @@ source_count: 10
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Sami Zayn remains the WWE title node as Cody Rhodes is positioned as his Raw challenger; r/squaredcircle also carries Zayn celebration chatter.
 
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Lost the reported Undisputed WWE Championship match to CM Punk after Cody Rhodes was replaced.
+
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Sami Zayn is named as the Raw title loser when CM Punk returns and takes the Undisputed championship, shifting his title-reign thread into aftermath.
 
 ## Related
 

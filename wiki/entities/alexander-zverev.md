@@ -4,9 +4,9 @@ title: Alexander Zverev
 type: entity
 entity_type: person
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-07-07
 tags: [tennis, atp, germany, roland-garros, grand-slam, next-gen, person, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Alexander Zverev
@@ -39,6 +39,8 @@ The 2026 Roland Garros men's draw produced a final that nobody quite predicted: 
 ## Sources
 
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Roland Garros SF win**: def. (26) Jakub Menšík 7-5, 6-2, 3-6, 6-3. Men's Final confirmed: Zverev vs. Cobolli. Morning confirmation of finalist status and match details.
+
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Zverev appears in Polymarket Wimbledon-winner chatter at **10%**, a prediction-market datapoint rather than a match result.
 
 ## Related
 
