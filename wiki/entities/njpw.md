@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-07-08
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 45
+source_count: 46
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -117,6 +117,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — NJPW appears through schedule tracking and Tiger Mask IV retirement coverage, adding a historical-retirement note to the puroresu thread.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Tiger Mask IV retirement coverage and NJPW tour-calendar tracking keep NJPW active in the wrestling graph.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — NJPW remains part of the weekly tour-calendar watch in the wrestling digest.
 
 ## Related
 

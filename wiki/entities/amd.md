@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-08
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 39
+source_count: 40
 ---
 
 # AMD
@@ -83,6 +83,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — AMD falls **4.33%** while Nvidia rises and TSM falls, making semiconductor participation mixed rather than a clean risk-on confirmation.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — AMD falls **4.33%** while Nvidia rises, keeping semiconductor leadership split inside an otherwise large-cap-positive tape.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — AMD falls **10.93%**, making semiconductor weakness one of the clearest stress points in the evening tape.
 
 ## Related
 

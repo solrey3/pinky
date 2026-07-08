@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-05
+updated: 2026-07-08
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 13
+source_count: 14
 ---
 
 # OpenAI
@@ -40,6 +40,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — The NYT litigation thread again ties OpenAI to copyright, model-training provenance, and the physical compute stack behind frontier AI.
 
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — OpenAI appears through Codex reliability complaints about reasoning-token clustering and degraded performance, extending the developer-tool trust thread.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — GPT-Live and coding-evaluation quality keep OpenAI tied to live AI interfaces, benchmark design, and developer-tool trust.
 
 ## Related
 

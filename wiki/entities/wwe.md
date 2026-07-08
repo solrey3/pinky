@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-08
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 36
+source_count: 37
 ---
 
 # WWE
@@ -77,6 +77,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Raw coverage reports CM Punk taking the Undisputed title off Sami Zayn, while Raw/SmackDown scheduling keeps WWE as the lead wrestling calendar node.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — WWE Raw, SmackDown, and NXT calendar items keep WWE in the weekly wrestling schedule graph.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Raw/SmackDown/NXT scheduling continues, while Big E credits Bryan Danielson and Brock Lesnar is advertised for July 27 Raw.
 
 ## Related
 

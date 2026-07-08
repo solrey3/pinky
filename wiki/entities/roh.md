@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-08
 tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings]
-source_count: 25
+source_count: 26
 ---
 
 # ROH
@@ -63,6 +63,8 @@ Ring of Honor, a professional wrestling promotion historically associated with w
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — ROH remains active through the weekly HonorClub calendar and AEW/ROH/CMLL cross-promotional context around Claudio in Arena México.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — A ROH Tag Team Title bout announced for a CMLL event keeps ROH in the cross-promotional wrestling graph.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — ROH TV remains on the weekly wrestling calendar through HonorClub.
 
 ## Related
 

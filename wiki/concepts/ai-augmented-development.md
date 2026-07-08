@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-08
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 51
+source_count: 52
 ---
 
 # AI-Augmented Development
@@ -92,6 +92,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Kokoro local CPU-friendly TTS and StreetComplete/OpenStreetMap contribution tooling extend the operator-control pattern from coding agents into local media generation and map-maintenance workflows.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — AI tools appear as security-sensitive developer infrastructure: useful for automation, but capable of repository exposure and botnet abuse if boundaries fail.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — GPT-Live and OpenAI coding-evaluation commentary keep AI tooling tied to live interfaces, developer workflows, and benchmark quality.
 
 ## Related Concepts
 

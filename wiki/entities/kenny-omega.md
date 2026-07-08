@@ -4,9 +4,9 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-03
+updated: 2026-07-08
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 4
+source_count: 5
 ---
 
 # Kenny Omega
@@ -40,6 +40,8 @@ source_count: 4
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — r/SquaredCircle highlights the official Kenny Omega vs. Zack Sabre Jr. Forbidden Door poster, keeping the match visible in the crossover-event build.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Reported MJF vs. Kenny Omega planning keeps Omega in AEW’s long-range world-title storyline.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Omega vs. MJF at Dynamite Beach Break becomes the leading AEW TV-match graphic/discussion item.
 
 ## Related
 

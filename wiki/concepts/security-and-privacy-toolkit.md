@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-08
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 63
+source_count: 64
 ---
 
 # Security & Privacy Toolkit
@@ -105,6 +105,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Local CPU TTS, open map contribution, data-center physical theft, and custody/civil-liberties headlines all reinforce practical control, auditability, and institutional-trust boundaries.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — AI-tool botnet abuse, GitHub-agent private-repo leakage, and Tenda firmware backdoors make operational security span agents, credentials, and embedded devices.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — EU message-scanning revival and AI-cheating coverage connect communications privacy, institutional integrity, and surveillance tradeoffs.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: Giannis Antetokounmpo
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-07-08
 tags: [person, basketball, nba]
-source_count: 1
+source_count: 2
 ---
 
 # Giannis Antetokounmpo
@@ -34,6 +34,8 @@ The Greek Freak. The most physically unique player in the modern NBA — a 6'11"
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/giannis-antetokounmpo.md)
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Bucks GM Jon Horst says trading Giannis would be very difficult, keeping the superstar-trade watch alive.
 
 ## Related
 

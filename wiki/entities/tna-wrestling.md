@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-08
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 28
+source_count: 29
 ---
 
 # TNA Wrestling
@@ -65,6 +65,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — TNA appears through iMPACT!/TNA+ scheduling, keeping it as a weekly wrestling ecosystem node rather than a major news driver in this source.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — TNA iMPACT! remains on the weekly wrestling schedule board.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — TNA iMPACT! scheduling continues, with Nic Nemeth vs. Jeff Hardy and Mike Santana free-agency hints as story notes.
 
 ## Related
 

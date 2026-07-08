@@ -4,9 +4,9 @@ title: MJF
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-03
+updated: 2026-07-08
 tags: [person, wrestling]
-source_count: 9
+source_count: 10
 ---
 
 # MJF
@@ -45,6 +45,8 @@ He retained the AEW World Title vs. RUSH on June 3 Dynamite (No Count-Out match)
 - [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletter-2026-06-05-evening.md) — **AEW × NJPW Forbidden Door creative plans confirmed ‘not in jeopardy’** despite MJF’s knee injury. Booking around MJF survives; the event goes forward on current trajectory.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Reported long-term planning for MJF vs. Kenny Omega keeps MJF central to AEW’s world-title direction.
+
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — MJF is tied to the Kenny Omega Dynamite Beach Break match and AEW TV-big-match discussion.
 
 ## Related
 
