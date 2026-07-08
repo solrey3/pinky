@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-07
+updated: 2026-07-08
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 37
+source_count: 38
 ---
 
 # AEW
@@ -80,6 +80,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — AEW Dynamite viewership is reported up despite Team USA World Cup competition; Forbidden Door 5-star ratings remain in the Meltzer table.
 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — AEW appears through Dynamite scheduling, Beach Break ticket momentum, Tony Khan/Cody Rhodes commentary, and WBD/Twitch creator-experience chatter.
+
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — AEW Dynamite Beach Break and Ryan Nemeth arbitration coverage keep AEW active as both calendar and legal/business node.
 
 ## Related
 

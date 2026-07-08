@@ -4,14 +4,14 @@ title: DeepSeek
 type: entity
 entity_type: organization
 created: 2026-06-27
-updated: 2026-07-07
-tags: [ai, llm, open-weights, inference, optimization, speculative-decoding, china]
-source_count: 3
+updated: 2026-07-08
+tags: [ai, llm, open-weights, inference, optimization, speculative-decoding, sovereign-ai, ai-chips, china]
+source_count: 4
 ---
 
 # DeepSeek
 
-DeepSeek is an AI lab and model developer tracked here mainly through open model and inference-efficiency work. In the newsletter graph, it is the open/optimization counterweight to closed frontier-model access control.
+DeepSeek is an AI lab and model developer tracked here through open model work, inference-efficiency work, and export-control-driven hardware strategy. In the newsletter graph, it is both an open/optimization counterweight to closed frontier-model access control and a sovereign-AI chip-supply node.
 
 ## Sources
 
@@ -19,6 +19,8 @@ DeepSeek is an AI lab and model developer tracked here mainly through open model
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — DSpark/speculative decoding leads the AI/tech desk as another inference-acceleration item, reinforcing DeepSeek's role in open/local serving efficiency.
 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — DeepSeek is reported to be developing its own AI chips in response to U.S. export controls, shifting its wiki role from open inference optimization toward sovereign AI hardware autonomy.
+
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — DeepSeek chip-development reporting repeats the July 7 sovereign-AI hardware theme under U.S. export-control pressure.
 
 ## Related
 

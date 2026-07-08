@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-07
+updated: 2026-07-08
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
-source_count: 30
+source_count: 31
 ---
 
 # CMLL
@@ -68,6 +68,8 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — CMLL remains in the weekly calendar, while Rey Bucanero announces departure after 34 years.
 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — CMLL appears through Arena México scheduling and a Místico tag-title defense / Claudio vs. Blue Panther item, reinforcing the AEW/ROH/CMLL crossover lane.
+
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — CMLL Arena México dates and the ROH tag-title bout keep CMLL central to the cross-promotional calendar.
 
 ## Related
 

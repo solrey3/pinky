@@ -3,9 +3,9 @@ id: 6e82360a-fc59-4f2e-817e-3e3721216c69
 title: Agentic Access Control
 type: concept
 created: 2026-06-20
-updated: 2026-07-01
+updated: 2026-07-08
 tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
-source_count: 4
+source_count: 5
 ---
 
 # Agentic Access Control
@@ -21,6 +21,8 @@ Agentic access control is the practice of treating AI agents as explicit securit
 - [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — AI-browser attack coverage repeats the need for bounded agent authority, visible state, revocation, and auditable tool use in browsing workflows.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Cloudflare x402 is not an AI-agent item directly, but it reinforces scoped platform enforcement at the edge: who can access a resource, under what credential/payment condition, with auditable policy.
+
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — GitLost turns the abstract least-privilege problem into a private-repository leakage scenario for GitHub AI agents.
 
 ## Related Concepts
 

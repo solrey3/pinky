@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-07
+updated: 2026-07-08
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 19
+source_count: 20
 ---
 
 # Iran
@@ -48,6 +48,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — A tanker struck by a projectile near the Strait of Hormuz keeps Gulf energy-risk headlines active, though WTI is only **+1.05%** in the market table.
 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Reported U.S. strikes and revocation of an Iran oil-sanctions waiver after Strait of Hormuz strikes keep Iran tied to sanctions, shipping risk, and WTI's **+5.28%** move.
+
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Iran diplomacy and oil-sanctions-waiver revocation connect foreign-policy decisions to WTI crude's **8.65%** jump.
 
 ## Related
 

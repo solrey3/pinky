@@ -4,9 +4,9 @@ title: GitHub
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-06-28
-tags: [technology, developer-platform, version-control, git, security, supply-chain-security, malware, repository-discovery, zero-days, vulnerability-disclosure]
-source_count: 4
+updated: 2026-07-08
+tags: [technology, developer-platform, version-control, git, security, supply-chain-security, malware, repository-discovery, zero-days, vulnerability-disclosure, agentic-access-control]
+source_count: 5
 ---
 
 # GitHub
@@ -21,9 +21,12 @@ GitHub is the dominant hosted Git and developer-collaboration platform. In the n
 
 - [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The alleged undisclosed zero-day dump remains active in the AI/tech desk, keeping GitHub in the vulnerability-disclosure and exploit-provenance frame.
 
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — GitLost research claims a GitHub AI agent could be tricked into leaking private repositories, making agent permissions a developer-platform security issue.
+
 ## Related
 
 - [[GitHub Copilot]]
 - [[Microsoft]]
 - [[AI-Augmented Development]]
+- [[Agentic Access Control]]
 - [[Security & Privacy Toolkit]]

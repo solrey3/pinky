@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-07
+updated: 2026-07-08
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 27
+source_count: 28
 ---
 
 # TNA Wrestling
@@ -63,6 +63,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — TNA remains part of the weekly wrestling calendar through iMPACT! on AXS TV / TNA+.
 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — TNA appears through iMPACT!/TNA+ scheduling, keeping it as a weekly wrestling ecosystem node rather than a major news driver in this source.
+
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — TNA iMPACT! remains on the weekly wrestling schedule board.
 
 ## Related
 
