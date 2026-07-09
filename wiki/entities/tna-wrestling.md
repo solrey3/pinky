@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-09
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 30
+source_count: 31
 ---
 
 # TNA Wrestling
@@ -69,6 +69,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — TNA iMPACT! scheduling continues, with Nic Nemeth vs. Jeff Hardy and Mike Santana free-agency hints as story notes.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — TNA iMPACT! is listed for July 9 on AXS TV/TNA+ in the weekly wrestling calendar.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — TNA coverage includes Steve Maclin discussing next steps after his exit plus iMPACT! calendar continuity.
 
 ## Related
 

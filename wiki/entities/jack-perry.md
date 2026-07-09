@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-09
 updated: 2026-07-09
 tags: [wrestling, aew, contract, sports-entertainment]
-source_count: 1
+source_count: 2
 ---
 
 # Jack Perry
@@ -16,6 +16,8 @@ Jack Perry is tracked as an AEW wrestler whose contract and storyline status app
 ## Sources
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AEW notes say Perry re-signed, keeping him part of the promotion's active roster graph.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — AEW announces Jack Perry re-signing, keeping him in the promotion-continuity graph.
 
 ## Related
 

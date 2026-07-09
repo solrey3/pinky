@@ -4,9 +4,9 @@ title: "LeBron James"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 10
+source_count: 11
 ---
 
 # LeBron James
@@ -34,6 +34,8 @@ NBA forward with one of the longest and most productive careers in league histor
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Polymarket prices Cleveland as the leading next-team destination at **59%**, keeping prediction markets attached to late-career NBA movement.
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Austin Reaves texting LeBron after departure rumors keeps the Lakers/LeBron status thread active.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — NBA news notes teams sending recruiting voice notes to LeBron James via Rich Paul, keeping late-career destination speculation active.
 
 ## Related
 

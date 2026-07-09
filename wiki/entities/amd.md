@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-09
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 41
+source_count: 42
 ---
 
 # AMD
@@ -87,6 +87,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — AMD falls **10.93%**, making semiconductor weakness one of the clearest stress points in the evening tape.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AMD falls **10.93%**, keeping semiconductor exposure on the stress side of the market board.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — AMD rises 1.08%, a partial rebound inside a semiconductor tape still split against weaker TSM and stronger Nvidia.
 
 ## Related
 

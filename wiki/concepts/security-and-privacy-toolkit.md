@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-09
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 65
+source_count: 66
 ---
 
 # Security & Privacy Toolkit
@@ -109,6 +109,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — EU message-scanning revival and AI-cheating coverage connect communications privacy, institutional integrity, and surveillance tradeoffs.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Secret Service aircraft-security advice, Los Alamos clearance reporting, AI-cheating detection, and right-to-repair enforcement all turn trust into an operational-control question.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — ICE accountability, Chat Control 1.0, and war-on-terror authority criticism all sit in the same surveillance/accountability toolkit: coercive systems need audit trails and credible limits.
 
 ## Related Concepts
 

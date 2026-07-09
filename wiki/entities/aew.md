@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-09
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 40
+source_count: 41
 ---
 
 # AEW
@@ -86,6 +86,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Dynamite Beach Break, Kenny Omega vs. MJF promotion, All In ticket distribution, and Reddit discussion keep AEW central to the wrestling feed.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AEW notes include Kenny Omega defeating MJF for the world title, Jack Perry re-signing, Willow Nightingale returning, and Kyle Fletcher winning the International Title.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — AEW headlines include Kenny Omega capturing gold, Jack Perry re-signing, and Dynamite/Collision schedule continuity.
 
 ## Related
 

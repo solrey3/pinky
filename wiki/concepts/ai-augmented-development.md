@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-09
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 53
+source_count: 54
 ---
 
 # AI-Augmented Development
@@ -96,6 +96,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — GPT-Live and OpenAI coding-evaluation commentary keep AI tooling tied to live interfaces, developer workflows, and benchmark quality.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Bun's Rust rewrite, Grok 4.5 attention, and Cloudflare Drop keep AI/developer infrastructure in the same operational watchlist.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — GPT-5.6 model attention and a PostgreSQL rewrite in Rust passing the regression suite show AI-era development spanning frontier models, databases, language/runtime choices, and compatibility testing.
 
 ## Related Concepts
 

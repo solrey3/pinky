@@ -4,9 +4,9 @@ title: Alexander Zverev
 type: entity
 entity_type: person
 created: 2026-06-05
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [tennis, atp, germany, roland-garros, grand-slam, next-gen, person, sports]
-source_count: 4
+source_count: 5
 ---
 
 # Alexander Zverev
@@ -45,6 +45,8 @@ The 2026 Roland Garros men's draw produced a final that nobody quite predicted: 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Zverev appears through Wimbledon/prediction-market context around Fritz vs. Zverev discussion.
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Zverev appears both as a Wimbledon result node and as Polymarket’s trending 2026 men’s Wimbledon winner candidate at **23%**.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Zverev defeating Jiri Lehecka in four sets.
 
 ## Related
 

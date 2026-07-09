@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-09
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 64
+source_count: 65
 ---
 
 # Market Inefficiency
@@ -109,6 +109,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Polymarket surfaces Alexander Zverev at **23%** for the 2026 men’s Wimbledon winner while Kalshi is unavailable, preserving the provenance/coverage caveat.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Prediction-market data remain incomplete: Polymarket fetched but produced no clean mover table, and Kalshi was unavailable.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Prediction-market extraction remains low-signal: Polymarket yields chatter around Wimbledon and World Cup themes, while Kalshi is unavailable.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: "Stephen Curry"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: "2026-06-02"
+updated: 2026-07-09
 tags: [basketball, nba, player, shooting, analytics, endorsement, li-ning]
-source_count: 2
+source_count: 3
 ---
 
 # Stephen Curry
@@ -21,6 +21,8 @@ On **June 2, 2026** (per r/sports), Curry signed with **Li-Ning** — a Chinese 
 
 - [2026-05-14: How Our RAPTOR Metric Works](sources/fivethirtyeight-raptor-metric.md) — Archetype of the ball-dominant scorer/spacer RAPTOR rates as phenomenally good
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Curry signs with Li-Ning after Under Armour split; significant endorsement shift with commercial and geopolitical undertones
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Curry acknowledges the appeal of playing with LeBron James, adding a player-voice signal to LeBron recruitment speculation.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 5ff9d159-4899-45de-a577-c78666bd6d33
 title: AI Output Liability
 type: concept
 created: 2026-06-10
-updated: 2026-06-29
+updated: 2026-07-09
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems]
-source_count: 11
+source_count: 12
 ---
 
 # AI Output Liability
@@ -29,6 +29,8 @@ AI output liability is the accountability problem created when generated answers
 - [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — The Microsoft/OpenAI copyright-infrastructure allegation and Claude Code MRI story extend accountability from generic generated text into physical AI infrastructure and consequential medical-adjacent advice.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — NYT/Microsoft/OpenAI allegations keep copyright liability attached to AI compute infrastructure and training provenance, not just visible generated outputs.
+
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Publisher requests for court sanctions against OpenAI in a copyright case keep training provenance, discovery obligations, and AI platform liability in the legal-risk frame.
 
 ## Related Concepts
 
