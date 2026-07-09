@@ -4,9 +4,9 @@ title: Federal Trade Commission
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-09
 tags: [government, regulation, privacy, consumer-protection, ftc, platforms]
-source_count: 1
+source_count: 2
 ---
 
 # Federal Trade Commission
@@ -16,6 +16,8 @@ The Federal Trade Commission is a U.S. regulator for consumer protection, compet
 ## Sources
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Receives pressure from EFF and allies not to waive or weaken X privacy-violation order requirements.
+
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — The FTC/John Deere settlement gives farm-equipment owners a concrete right-to-repair win.
 
 ## Related
 

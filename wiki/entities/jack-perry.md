@@ -1,0 +1,24 @@
+---
+id: 0c501225-0557-4ff0-a390-c53c0f508934
+title: Jack Perry
+type: entity
+entity_type: person
+created: 2026-07-09
+updated: 2026-07-09
+tags: [wrestling, aew, contract, sports-entertainment]
+source_count: 1
+---
+
+# Jack Perry
+
+Jack Perry is tracked as an AEW wrestler whose contract and storyline status appear in wrestling-news updates.
+
+## Sources
+
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AEW notes say Perry re-signed, keeping him part of the promotion's active roster graph.
+
+## Related
+
+- [[AEW]]
+- [[Kenny Omega]]
+- [[MJF]]

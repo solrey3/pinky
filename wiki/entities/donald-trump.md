@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 23
+source_count: 24
 ---
 
 # Donald Trump
@@ -56,6 +56,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Appears through Trump Accounts market optics, NATO diplomacy with Zelensky, AI-model restrictions/open-source pressure, and tariff-history debate.
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Appears through Iran-war rhetoric, a failed election-claim subpoena story, and the E. Jean Carroll judgment-payment headline.
+
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Secret Service advice against flying a Qatari-gifted Air Force One, Kennedy Center naming litigation, and Iran rhetoric keep Trump in legal and national-security headlines.
 
 ## Related
 

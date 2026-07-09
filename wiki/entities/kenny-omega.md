@@ -4,9 +4,9 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 5
+source_count: 6
 ---
 
 # Kenny Omega
@@ -42,6 +42,8 @@ source_count: 5
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Reported MJF vs. Kenny Omega planning keeps Omega in AEW’s long-range world-title storyline.
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Omega vs. MJF at Dynamite Beach Break becomes the leading AEW TV-match graphic/discussion item.
+
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Omega defeats MJF to win the AEW World Championship, making him the key AEW state-change node in this dispatch.
 
 ## Related
 

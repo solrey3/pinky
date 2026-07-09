@@ -4,9 +4,9 @@ title: AAA
 type: entity
 entity_type: organization
 created: 2026-06-19
-updated: 2026-07-08
+updated: 2026-07-09
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 24
+source_count: 25
 ---
 
 # AAA
@@ -61,6 +61,8 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — AAA remains in the weekly wrestling schedule board as a calendar-verification node.
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — AAA remains in the wrestling schedule graph and adds Scarlett Bordeaux/Vikingo notes.
+
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AAA remains part of the weekly lucha libre verification calendar, with cards varying by official feed.
 
 ## Related
 
