@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 13
+source_count: 14
 ---
 
 # New Jersey Devils
@@ -40,6 +40,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Devils coverage adds a Conrad Fondrk prospect profile and a two-year Malek deal.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Devils coverage points to Summer Session takeaways and a two-year Malek deal, adding offseason/prospect continuity.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Devils summer-session takeaways keep the club in offseason roster/prospect tracking rather than game-result mode.
 
 ## Related
 

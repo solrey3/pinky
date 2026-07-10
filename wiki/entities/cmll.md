@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
-source_count: 34
+source_count: 35
 ---
 
 # CMLL
@@ -76,6 +76,8 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — CMLL updates include Men's Grand Prix participants and Persephone vs. Tessa Blanchard set for July 31.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — CMLL remains in the wrestling calendar through Arena México Friday/Sunday/Tuesday schedule notes.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — CMLL remains in the Arena México schedule and cross-promotion context alongside AEW/NJPW/STARDOM/Forbidden Door notes.
 
 ## Related
 

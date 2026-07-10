@@ -4,9 +4,9 @@ title: Mitch McConnell
 type: entity
 entity_type: person
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [politics, senate, republican-party, kentucky, health]
-source_count: 1
+source_count: 2
 ---
 
 # Mitch McConnell
@@ -16,6 +16,8 @@ Mitch McConnell is tracked as a U.S. Senate Republican figure whose health and p
 ## Sources
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — NewsNation reports McConnell is hospitalized for an undisclosed ailment.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — A second dispatch repeats reporting that McConnell is hospitalized for an undisclosed ailment, keeping his health a political-continuity watch item.
 
 ## Related
 

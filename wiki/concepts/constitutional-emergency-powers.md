@@ -3,9 +3,9 @@ id: 9d0684ac-a7e0-463e-8a5b-91e8df9b548c
 title: Constitutional Emergency Powers
 type: concept
 created: 2026-06-17
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [politics, law, constitution, emergency-powers, habeas-corpus, due-process, executive-power, civil-liberties]
-source_count: 3
+source_count: 4
 ---
 
 # Constitutional Emergency Powers
@@ -18,6 +18,8 @@ The contested boundary between crisis governance and constitutional restraint: w
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — A survey headline that most Americans see civil liberties under threat broadens the watchlist from specific habeas/emergency-power reporting into public rights-and-freedoms anxiety.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Former Bush and Obama officials calling for a reset of war-on-terror powers extends the emergency-authority thread beyond a single administration or crisis.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Former Bush and Obama officials criticizing war-on-terror powers extend the emergency-authority accountability thread.
 
 ## Related Concepts
 

@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 65
+source_count: 66
 ---
 
 # Market Inefficiency
@@ -111,6 +111,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Prediction-market data remain incomplete: Polymarket fetched but produced no clean mover table, and Kalshi was unavailable.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Prediction-market extraction remains low-signal: Polymarket yields chatter around Wimbledon and World Cup themes, while Kalshi is unavailable.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Prediction-market extraction remains noisy: Polymarket returns Wimbledon chatter while Kalshi is unavailable.
 
 ## Related Concepts
 

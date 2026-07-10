@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 41
+source_count: 42
 ---
 
 # Monetary Policy Forward Guidance
@@ -87,6 +87,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — EFFR stays at **3.63%** inside the **3.50%–3.75%** range while the 30-year Treasury remains elevated at **5.065%**.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — EFFR is stable at 3.62% inside the 3.50%–3.75% target range while the 30-year Treasury at 5.053% keeps long-duration pressure in the market interpretation.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Stable EFFR at 3.62% contrasts with a 30-year Treasury above 5% and mortgage rates near 6.6%, making long rates the market signal.
 
 ## Related Concepts
 

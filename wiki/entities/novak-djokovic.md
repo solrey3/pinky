@@ -4,9 +4,9 @@ title: Novak Djokovic
 type: entity
 entity_type: person
 created: 2026-05-29
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [tennis, roland-garros, serbia, goat, person, sports]
-source_count: 7
+source_count: 8
 ---
 
 # Novak Djokovic
@@ -44,6 +44,8 @@ Djokovic led 2-0 sets against the 19-year-old Brazilian before losing the next t
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Djokovic surviving a five-set Wimbledon match is part of the day's tennis result stack.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Djokovic defeating Felix Auger-Aliassime in five sets.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Wimbledon results include Djokovic defeating Auger-Aliassime, adding tennis-scoreboard continuity.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 23
+source_count: 24
 ---
 
 # Iran
@@ -56,6 +56,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Iran says attacks on U.S. bases could expand if U.S. strikes continue, while ceasefire breakdown keeps WTI crude up **7.10%**.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Iran targeting U.S. military sites after strikes keeps the Gulf escalation thread tied to WTI crude rising 4.76%.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Iran remains central through an alleged plot against Trump, U.S. terrorism labeling around Hormuz attacks, and continued diplomacy alongside WTI crude strength.
 
 ## Related
 

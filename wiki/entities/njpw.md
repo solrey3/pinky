@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 48
+source_count: 49
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -123,6 +123,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — NJPW tour-card verification remains part of the multi-promotion wrestling calendar.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — NJPW remains in the wrestling calendar as a tour-card/schedule node.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — NJPW remains in the digest through official tour-card schedule tracking and the latest 5-star table context.
 
 ## Related
 

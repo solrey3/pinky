@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 7
+source_count: 8
 ---
 
 # CM Punk
@@ -44,6 +44,8 @@ source_count: 7
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — CM Punk is reported to return on Raw and take the Undisputed WWE Championship from Sami Zayn, extending the July 7 daytime title-change node.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Reports expect CM Punk to have a lengthy Undisputed WWE Title run and a full-time summer schedule.
+
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — CM Punk is listed for the July 10 SmackDown lineup, adding weekly-TV appearance continuity.
 
 ## Related
 
