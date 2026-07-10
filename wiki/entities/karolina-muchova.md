@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-09
 updated: 2026-07-10
 tags: [tennis, wta, czech-republic, grand-slam, wimbledon, sports]
-source_count: 2
+source_count: 3
 ---
 
 # Karolina Muchova
@@ -18,6 +18,8 @@ Karolina Muchova is tracked as a WTA tennis player in Grand Slam and Wimbledon s
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Muchova defeating Coco Gauff in three sets.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Wimbledon results include Muchova wins over Osaka and Gauff, adding women’s-draw scoreboard continuity.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Wimbledon coverage has Muchova defeating Coco Gauff **6-2, 1-6, 7-6 (12-10)**, making her one of the evening tennis state changes.
 
 ## Related
 

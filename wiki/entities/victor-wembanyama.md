@@ -4,9 +4,9 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-07-10
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 19
+source_count: 20
 ---
 
 # Victor Wembanyama
@@ -40,6 +40,8 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — **Spurs 115, Knicks 111** in NBA Finals Game 3 at Madison Square Garden. New York leads 2-1, but San Antonio's road response resets the series pressure.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition preserves the Game 3 result and Game 4 calendar: Spurs at Knicks, June 10, 8:30 PM EDT on ABC.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Game 4 is tonight at Madison Square Garden; Wembanyama and the Spurs can tie the Finals 2-2 with a second straight road win.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — An ESPN item reports a Wembanyama Panini Kaboom! card selling for **$1.4 million**, extending his tracked footprint from playoff performance into memorabilia-market valuation.
 
 ## Related
 

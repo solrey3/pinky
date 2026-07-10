@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-10
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 32
+source_count: 33
 ---
 
 # TNA Wrestling
@@ -73,6 +73,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — TNA coverage includes Steve Maclin discussing next steps after his exit plus iMPACT! calendar continuity.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — TNA Impact results foreground Knockouts title and tournament action, keeping TNA in weekly-results continuity.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — TNA coverage adds Jeff Hardy cinematic-match teasing and an earlier Lockdown start time, keeping the promotion in the multi-company wrestling calendar.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-10
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr]
-source_count: 44
+source_count: 45
 ---
 
 # Federal Reserve
@@ -92,6 +92,8 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — EFFR is reported at 3.62% inside the 3.50%–3.75% target range while the 30-year Treasury remains elevated at 5.053%.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — EFFR is reported at 3.62% inside the 3.50%–3.75% target range while the 30-year Treasury remains elevated at 5.053%.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — EFFR holds at **3.62%** inside the **3.50%–3.75%** target range while the 30-year Treasury at **5.071%** keeps long-rate pressure alive.
 
 ## Related
 

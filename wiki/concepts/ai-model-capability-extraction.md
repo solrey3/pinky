@@ -3,9 +3,9 @@ id: 35f3a760-677d-4dc3-9016-5f611d87e165
 title: AI Model Capability Extraction
 type: concept
 created: 2026-06-25
-updated: 2026-06-26
+updated: 2026-07-10
 tags: [ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance]
-source_count: 3
+source_count: 4
 ---
 
 # AI Model Capability Extraction
@@ -19,6 +19,8 @@ AI model capability extraction is the attempt to copy, distill, infer, or reprod
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The same Anthropic/Alibaba allegation remains in the evening AI desk, confirming capability extraction as a durable watch item rather than a one-off link.
 
 - [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — The Anthropic/Alibaba Claude cloning allegation repeats, making capability extraction a multi-dispatch security and enforcement theme.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — The Apple/OpenAI trade-secret headline extends capability-protection concerns from model-output cloning to alleged transfer of proprietary AI development know-how.
 
 ## Related Concepts
 

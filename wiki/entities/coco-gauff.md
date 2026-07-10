@@ -4,9 +4,9 @@ title: Coco Gauff
 type: entity
 entity_type: person
 created: 2026-07-08
-updated: 2026-07-09
+updated: 2026-07-10
 tags: [tennis, wta, united-states, grand-slam, wimbledon, sports]
-source_count: 3
+source_count: 4
 ---
 
 # Coco Gauff
@@ -20,6 +20,8 @@ Coco Gauff is an American tennis player tracked in the sports graph through Gran
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Gauff appears in Wimbledon results after beating Jessica Pegula in women’s singles coverage.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Coco Gauff losing to Karolina Muchova in three sets.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Wimbledon coverage includes Karolina Muchova defeating Coco Gauff in a three-set match decided by a long final-set tiebreak.
 
 ## Related
 

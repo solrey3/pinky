@@ -4,9 +4,9 @@ title: Shohei Ohtani
 type: entity
 entity_type: person
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-07-10
 tags: [person, baseball, mlb, dodgers, japan, two-way]
-source_count: 1
+source_count: 2
 ---
 
 # Shohei Ohtani
@@ -27,6 +27,8 @@ The two-way player model was theoretical until Ohtani made it empirical. Basebal
 ## Sources
 
 - [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](sources/newsletter-2026-05-28.md) — Leadoff HR + 6 no-hit innings vs. Rockies on Thursday morning; Dodgers 4-1.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — ESPN reports Ohtani dealing with knee irritation and missing the All-Star Game, making health management the current baseball-news state change.
 
 ## Related
 

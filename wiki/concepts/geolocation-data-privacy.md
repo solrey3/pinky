@@ -3,9 +3,9 @@ id: 730c6187-26a0-439a-8223-057e70299727
 title: Geolocation Data Privacy
 type: concept
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-07-10
 tags: [privacy, location-data, geolocation, data-brokers, regulation, surveillance, mobile]
-source_count: 1
+source_count: 2
 ---
 
 # Geolocation Data Privacy
@@ -15,6 +15,8 @@ Geolocation data privacy is the governance problem around precise location trail
 ## Sources
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Virginia's ban on geolocation-data sale makes commercial data brokerage a direct privacy-regulation target.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — A Florida officer allegedly using a mass-surveillance network to stalk a romantic interest shows location/surveillance risk through insider misuse, not only brokers or warrants.
 
 ## Related Concepts
 

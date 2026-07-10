@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-10
 updated: 2026-07-10
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems]
-source_count: 13
+source_count: 14
 ---
 
 # AI Output Liability
@@ -33,6 +33,8 @@ AI output liability is the accountability problem created when generated answers
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Publisher requests for court sanctions against OpenAI in a copyright case keep training provenance, discovery obligations, and AI platform liability in the legal-risk frame.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Publisher requests for OpenAI sanctions keep copyright litigation tied to model provenance, discovery conduct, and output/training accountability.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Apple's reported trade-secret lawsuit against OpenAI widens AI legal risk from copyright/output provenance into alleged misappropriation of proprietary model-building knowledge.
 
 ## Related Concepts
 

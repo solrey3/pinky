@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-10
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift]
-source_count: 9
+source_count: 10
 ---
 
 # Apple
@@ -27,6 +27,8 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Apple raises prices on Macs and iPads, adding consumer-hardware affordability and platform-pricing pressure to the Apple thread.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Apple/WebKit introduces a Safari MCP server, tying browser developer tools to AI-assisted workflows and browser automation.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Apple reportedly sues OpenAI over alleged trade-secret theft, moving Apple from AI-platform dependency into direct AI litigation and IP/provenance conflict.
 
 ## Related
 

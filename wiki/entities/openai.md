@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-11
 updated: 2026-07-10
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 16
+source_count: 17
 ---
 
 # OpenAI
@@ -46,6 +46,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — GPT-5.6 tops Hacker News attention while publishers ask a court to sanction OpenAI in a copyright case, pairing frontier-model capability with legal/provenance risk.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — GPT-5.6 leads Hacker News attention while publishers seek sanctions in copyright litigation, pairing frontier-model capability with provenance and legal-risk pressure.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Apple trade-secret litigation and GPT-5.6 app-building comparisons keep OpenAI tied to frontier capability, provenance, and legal-risk pressure.
 
 ## Related
 

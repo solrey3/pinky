@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-09
 updated: 2026-07-10
 tags: [tennis, atp, italy, grand-slam, wimbledon, sports]
-source_count: 2
+source_count: 3
 ---
 
 # Jannik Sinner
@@ -18,6 +18,8 @@ Jannik Sinner is tracked as an ATP tennis player in Grand Slam and Wimbledon sco
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Sinner defeating Jan-Lennard Struff in straight sets.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Wimbledon results include Sinner defeating Struff, adding tennis-scoreboard continuity.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Wimbledon coverage has Sinner beating Novak Djokovic in straight sets, a major scoreboard state change in the men's draw.
 
 ## Related
 

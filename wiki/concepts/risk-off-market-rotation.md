@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-10
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 63
+source_count: 64
 ---
 
 # Risk-Off Market Rotation
@@ -110,6 +110,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — The close is large-index green — S&P +0.81%, Dow +0.35%, Nasdaq +0.64% — but Russell 2000 falls 0.67%, WTI rises 4.76%, Tesla drops 4.41%, and semiconductors are split, so the read is risk-on but not breadth-clean.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Headline indexes are green and near 52-week highs, but Russell 2000 weakness, WTI strength, Tesla weakness, and split semiconductors keep the read from becoming clean risk-on.
+
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — The close is tech-led risk-on — S&P 500 **+1.23%**, Nasdaq **+1.74%**, Nvidia/AMD surging — but Dow **-0.50%**, Russell **-0.61%**, and elevated long rates keep breadth confirmation incomplete.
 
 ## Related Concepts
 
