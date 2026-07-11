@@ -4,9 +4,9 @@ title: Marta Kostyuk
 type: entity
 entity_type: person
 created: 2026-06-01
-updated: 2026-06-05
+updated: 2026-07-11
 tags: [tennis, wta, ukraine, roland-garros, grand-slam, sports]
-source_count: 5
+source_count: 6
 ---
 
 # Marta Kostyuk
@@ -34,6 +34,8 @@ Ukrainian WTA player seeded 15th at the 2026 Roland Garros. Known as a powerful 
 - [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — QF result fully confirmed in the evening roundup: def. Svitolina 6-3, 2-6, 6-2. Advancing to the Roland Garros 2026 SF alongside Diana Shnaider, Maja Chwalinska, and a fourth finalist TBD. The women's draw is the most open in recent memory after Swiatek, Gauff, and now Sabalenka (shocked by Shnaider) all exited.
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Morning confirmation of SF position. Women's SF field is Shnaider, Kostyuk, Andreeva, +1. Kostyuk is a live contender for the Coupe Suzanne-Lenglen after beating two top seeds en route.
 - [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **SF LOSS: defeated by (8) Mirra Andreeva 6-1, 6-3.** Roland Garros 2026 ends in the semifinal. A comprehensive result — the 6-1 first set reflects Andreeva's superior baseline control on the day. Kostyuk's run — beating Swiatek and Svitolina, reaching the SF — is the best Grand Slam result of her career to date.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Kostyuk appears in the Wimbledon scoreboard through a straight-sets loss to Linda Noskova.
 
 ## Related
 

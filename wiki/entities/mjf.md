@@ -4,9 +4,9 @@ title: MJF
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-09
+updated: 2026-07-11
 tags: [person, wrestling]
-source_count: 11
+source_count: 12
 ---
 
 # MJF
@@ -49,6 +49,8 @@ He retained the AEW World Title vs. RUSH on June 3 Dynamite (No Count-Out match)
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — MJF is tied to the Kenny Omega Dynamite Beach Break match and AEW TV-big-match discussion.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — MJF loses the AEW World Championship to Kenny Omega in the dispatch's top AEW result note.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — MJF appears in the Meltzer 5.5-star listing for a match with Kenny Omega at AEW Dynamite Beach Break.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-07
+updated: 2026-07-11
 tags: [person, wrestling]
-source_count: 11
+source_count: 12
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -49,6 +49,8 @@ source_count: 11
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — The Raw title report frames Cody Rhodes as replaced by CM Punk in the Undisputed WWE Championship match.
 
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Tony Khan commentary about Cody Rhodes never challenging for the AEW World Title again appears alongside WWE Raw fallout, keeping Cody connected to both WWE and AEW memory.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Cody Rhodes is advertised alongside CM Punk against Gunther and Sami Zayn at Saturday Night’s Main Event.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 43
+source_count: 44
 ---
 
 # AEW
@@ -92,6 +92,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — AEW remains in schedule and talent-news mode through Dynamite/Collision listings and Jack Perry re-signing coverage.
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — AEW coverage adds Brawl in the Ballpark match listings, Jim Ross brain-surgery news, Dynamite Beach Break viewership, and an MJF/Omega 5.5-star rating.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — AEW calendar coverage continues through Collision/Dynamite, Hangman Page’s Collision return, Dark Order re-signing, and a Meltzer-rated MJF vs. Kenny Omega match.
 
 ## Related
 

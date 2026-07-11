@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 25
+source_count: 26
 ---
 
 # Iran
@@ -60,6 +60,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Iran remains central through an alleged plot against Trump, U.S. terrorism labeling around Hormuz attacks, and continued diplomacy alongside WTI crude strength.
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Reports of new airstrikes after a claimed end to strikes keep Iran and Middle East conflict risk in the oil/geopolitics watchlist.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — U.S. officials press Iran for a public Strait of Hormuz pledge after strike exchanges, keeping Hormuz and oil risk attached to the Iran thread.
 
 ## Related
 

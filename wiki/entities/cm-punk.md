@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 8
+source_count: 9
 ---
 
 # CM Punk
@@ -46,6 +46,8 @@ source_count: 8
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Reports expect CM Punk to have a lengthy Undisputed WWE Title run and a full-time summer schedule.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — CM Punk is listed for the July 10 SmackDown lineup, adding weekly-TV appearance continuity.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — CM Punk is advertised for a tag match with Cody Rhodes against Gunther and Sami Zayn at Saturday Night’s Main Event.
 
 ## Related
 

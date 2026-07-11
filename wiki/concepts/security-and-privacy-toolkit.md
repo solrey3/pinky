@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 68
+source_count: 69
 ---
 
 # Security & Privacy Toolkit
@@ -115,6 +115,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Iran threats, Hormuz terrorism labeling, EU Chat Control, and war-on-terror authority critiques all reinforce civil-liberties and operational-risk monitoring.
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Ransomware-negotiator conflict reporting, police surveillance misuse, and deceptive subscription practices all reinforce auditability, incentive checks, and revocation/exit rights as trust controls.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Hormuz access, ICE shooting accountability, QuadRF sensing, and subscription-cancellation rules all sit in the auditability/control part of the security toolkit.
 
 ## Related Concepts
 

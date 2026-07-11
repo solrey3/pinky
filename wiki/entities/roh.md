@@ -4,9 +4,9 @@ title: ROH
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings]
-source_count: 30
+source_count: 31
 ---
 
 # ROH
@@ -73,6 +73,8 @@ Ring of Honor, a professional wrestling promotion historically associated with w
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — ROH TV results include Bandido defending the ROH title, keeping the promotion in weekly-results continuity.
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — ROH remains in the weekly wrestling calendar via the Thursday HonorClub slot and AEW/ROH ecosystem coverage.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — ROH remains in the weekly wrestling calendar through its HonorClub TV window.
 
 ## Related
 

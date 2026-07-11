@@ -4,9 +4,9 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-09
+updated: 2026-07-11
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 7
+source_count: 8
 ---
 
 # Kenny Omega
@@ -46,6 +46,8 @@ source_count: 7
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Omega defeats MJF to win the AEW World Championship, making him the key AEW state-change node in this dispatch.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Kenny Omega is reported as capturing AEW gold, making him the main AEW state-change node in this wrestling digest.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Kenny Omega appears in the Meltzer 5.5-star listing for a match with MJF at AEW Dynamite Beach Break.
 
 ## Related
 

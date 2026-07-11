@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 15
+source_count: 16
 ---
 
 # New Jersey Devils
@@ -44,6 +44,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Devils summer-session takeaways keep the club in offseason roster/prospect tracking rather than game-result mode.
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Devils coverage adds Ben Kevan prospect profile, summer-session takeaways, and Malek two-year deal notes, keeping offseason roster/prospect tracking active.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Devils notes remain offseason-prospect focused through Ben Kevan and summer-session updates.
 
 ## Related
 

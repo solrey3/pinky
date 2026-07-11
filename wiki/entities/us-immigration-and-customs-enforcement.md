@@ -4,9 +4,9 @@ title: U.S. Immigration and Customs Enforcement
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-09
+updated: 2026-07-11
 tags: [government, immigration, enforcement, ice, civil-liberties, united-states]
-source_count: 2
+source_count: 3
 ---
 
 # U.S. Immigration and Customs Enforcement
@@ -18,6 +18,8 @@ U.S. Immigration and Customs Enforcement (ICE) is tracked here where immigration
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — A fatal Houston traffic-stop shooting by an ICE officer keeps immigration enforcement in the civil-liberties and accountability frame.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Mexico seeking a criminal investigation after a fatal Houston ICE incident keeps immigration enforcement inside the civil-liberties, accountability, and diplomatic-risk frame.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — The fatal ICE shooting of Lorenzo Salgado Araujo is summarized as an immigration-enforcement accountability story.
 
 ## Related
 

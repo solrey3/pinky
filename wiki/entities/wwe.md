@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 41
+source_count: 42
 ---
 
 # WWE
@@ -87,6 +87,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — SmackDown/Raw/NXT calendar notes and a CM Punk SmackDown appearance listing keep WWE in weekly-TV continuity.
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — SmackDown/Raw/NXT calendar items continue while Alexa Bliss vs. Jade Cargill, Sheamus farewell chatter, and SummerSlam ticket concerns add weekly-news state.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — WWE calendar and headline items include Raw/SmackDown windows plus CM Punk & Cody Rhodes vs. Gunther & Sami Zayn and Baron Corbin’s SmackDown return.
 
 ## Related
 

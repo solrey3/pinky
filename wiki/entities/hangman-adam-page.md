@@ -4,9 +4,9 @@ title: Hangman Adam Page
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-07-11T03:20:14Z
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Hangman Adam Page
@@ -35,6 +35,8 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/hangman-adam-page.md)
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Hangman Page returns to AEW programming on a live edition of Collision.
 
 ## Related
 

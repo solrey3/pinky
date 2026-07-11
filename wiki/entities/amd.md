@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 44
+source_count: 45
 ---
 
 # AMD
@@ -93,6 +93,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — AMD gains 1.08%, continuing its rebound from the prior stress day but still inside a mixed semiconductor tape.
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — AMD gains **7.74%**, joining Nvidia as the evening board's strongest semiconductor risk-on signal.
+
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — AMD rises 7.74% for the week, tracking Nvidia as a leading AI-chip/risk-on signal.
 
 ## Related
 

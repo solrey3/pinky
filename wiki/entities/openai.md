@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 17
+source_count: 18
 ---
 
 # OpenAI
@@ -49,11 +49,16 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Apple trade-secret litigation and GPT-5.6 app-building comparisons keep OpenAI tied to frontier capability, provenance, and legal-risk pressure.
 
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Apple trade-secret allegations keep OpenAI tied to frontier-model capability, legal exposure, and provenance of model-building know-how.
+
 ## Related
 
 - [[Anthropic]] — frontier-model competitor and AI-safety peer
 - [[Google]] — competing big-tech AI platform and infrastructure operator
+- [[Apple]] — July 2026 trade-secret/provenance litigation counterparty
 - [[Broadcom]] — custom-silicon partner in this source
 - [[Open-Weights AI]] — open-model competition is the contrast case to closed frontier-model economics
+- [[AI Output Liability]] — legal exposure around model behavior, training provenance, and AI operations
+- [[AI Model Capability Extraction]] — capability/provenance risk adjacent to the Apple trade-secret claim
 - [[Security & Privacy Toolkit]] — influence operations and infrastructure trust belong inside the operational security perimeter
 - [[AI-Augmented Development]] — AI tooling depends on physical and platform infrastructure
