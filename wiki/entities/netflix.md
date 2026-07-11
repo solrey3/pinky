@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-26
 updated: 2026-07-11
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 12
+source_count: 13
 ---
 
 # Netflix
@@ -36,6 +36,8 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Netflix falls **5.51%**, one of the weaker single-stock prints inside an otherwise tech-led close.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Netflix falls 5.51%, standing out as a consumer/growth laggard in an otherwise tech-led week.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Netflix falls 5.51%, making it the main growth-stock laggard inside an otherwise tech-led weekly close.
 
 ## Related
 

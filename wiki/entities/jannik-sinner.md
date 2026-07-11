@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-09
 updated: 2026-07-11
 tags: [tennis, atp, italy, grand-slam, wimbledon, sports]
-source_count: 4
+source_count: 5
 ---
 
 # Jannik Sinner
@@ -22,6 +22,8 @@ Jannik Sinner is tracked as an ATP tennis player in Grand Slam and Wimbledon sco
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Wimbledon coverage has Sinner beating Novak Djokovic in straight sets, a major scoreboard state change in the men's draw.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Sinner defeats Novak Djokovic in straight sets in Wimbledon men’s singles coverage.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Sinner is listed as beating Novak Djokovic in straight sets in recent Wimbledon results.
 
 ## Related
 

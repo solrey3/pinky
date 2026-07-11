@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-11
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 8
+source_count: 9
 ---
 
 # Kenny Omega
@@ -48,6 +48,8 @@ source_count: 8
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Kenny Omega is reported as capturing AEW gold, making him the main AEW state-change node in this wrestling digest.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Kenny Omega appears in the Meltzer 5.5-star listing for a match with MJF at AEW Dynamite Beach Break.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Kenny Omega remains prominent through the 5.5-star MJF vs. Omega rating and AEW title-storyline context.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-11
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 68
+source_count: 69
 ---
 
 # Market Inefficiency
@@ -117,6 +117,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Prediction-market snippets surface Max Holloway/Conor McGregor, Athletics/White Sox, and Zverev Wimbledon odds, but the source explicitly lacks clean mover data.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Prediction-market data is still noisy: Polymarket returns garbled trending text and Kalshi is unavailable.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Prediction-market extraction remains low-signal: Polymarket fetched without clean numeric movers and Kalshi data is unavailable.
 
 ## Related Concepts
 

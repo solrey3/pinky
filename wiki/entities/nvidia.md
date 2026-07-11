@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-07-11
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 47
+source_count: 48
 ---
 
 # Nvidia
@@ -97,6 +97,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Nvidia jumps **8.28%**, making AI-chip exposure the clearest large-cap leadership signal in the evening close.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Nvidia rises 8.28% for the week, reinforcing AI-chip leadership in the tech-led market tape.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Nvidia gains 8.28% for the week, making AI-chip leadership the clearest stock-watch signal.
 
 ## Related
 

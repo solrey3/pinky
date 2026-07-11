@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-07-11
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 51
+source_count: 52
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -129,6 +129,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — NJPW remains in the wrestling calendar, while the Meltzer table keeps Wrestle Kingdom 20 and Forbidden Door ratings in view.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — NJPW remains in the wrestling calendar and Meltzer ratings context via Wrestle Kingdom 20 and Forbidden Door listings.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — NJPW remains in the wrestling calendar, with Tiger Mask tag booking for PRODUCE Volume 3 extending the Japan thread.
 
 ## Related
 

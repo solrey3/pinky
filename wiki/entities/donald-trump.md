@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-10
+updated: 2026-07-11
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 25
+source_count: 26
 ---
 
 # Donald Trump
@@ -60,6 +60,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Secret Service advice against flying a Qatari-gifted Air Force One, Kennedy Center naming litigation, and Iran rhetoric keep Trump in legal and national-security headlines.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Israeli warning about an alleged Iran plot to kill Trump and renewed U.S.-Iran diplomacy keep him central to the national-security thread.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Trump appears through NewsNation coverage of the Iran war's rising cost and uncertainty over its endpoint.
 
 ## Related
 

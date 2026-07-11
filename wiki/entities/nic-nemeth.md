@@ -4,9 +4,9 @@ title: Nic Nemeth
 type: entity
 entity_type: person
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-11
 tags: [wrestling, tna, champion]
-source_count: 1
+source_count: 2
 ---
 
 # Nic Nemeth
@@ -16,6 +16,8 @@ Nic Nemeth is tracked as a TNA wrestler and title-holder in the wrestling news g
 ## Sources
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Listed for a TNA title defense against Jeff Hardy on July 30 iMPACT!.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Nemeth explains why his TNA world-title win means more to him than his WWE World Heavyweight reign.
 
 ## Related
 

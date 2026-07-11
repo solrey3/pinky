@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-11
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 44
+source_count: 45
 ---
 
 # AEW
@@ -94,6 +94,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — AEW coverage adds Brawl in the Ballpark match listings, Jim Ross brain-surgery news, Dynamite Beach Break viewership, and an MJF/Omega 5.5-star rating.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — AEW calendar coverage continues through Collision/Dynamite, Hangman Page’s Collision return, Dark Order re-signing, and a Meltzer-rated MJF vs. Kenny Omega match.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — AEW remains active through Collision/Dynamite scheduling, Hangman Page's return, Tony Khan strategy coverage, and the MJF vs. Kenny Omega 5.5-star rating.
 
 ## Related
 

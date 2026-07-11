@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-11
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 34
+source_count: 35
 ---
 
 # TNA Wrestling
@@ -77,6 +77,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — TNA coverage adds Jeff Hardy cinematic-match teasing and an earlier Lockdown start time, keeping the promotion in the multi-company wrestling calendar.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — TNA remains in the weekly wrestling calendar through its iMPACT!/TNA+ window.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — TNA appears through iMPACT! scheduling and Nic Nemeth's comments on why his TNA title win means more than his WWE reign.
 
 ## Related
 

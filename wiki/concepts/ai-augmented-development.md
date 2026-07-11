@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-11
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 57
+source_count: 58
 ---
 
 # AI-Augmented Development
@@ -104,6 +104,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — GPT-5.6, Grok, Claude, and Muse Spark are compared by building the same apps, keeping AI capability grounded in practical developer-workflow outcomes.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — GPT-5.6 attention, QuadRF sensing, and practical app/tool evaluation keep AI-era capability grounded in operator workflows.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Ant, PgBouncer scaling, and SQLite strict tables show developer tooling focused on runtime choice, throughput, and data correctness.
 
 ## Related Concepts
 

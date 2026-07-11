@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-02
+updated: 2026-07-11
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 21
+source_count: 22
 ---
 
 # Cloud & Infrastructure
@@ -46,6 +46,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — T-Mobile's reported VMware migration turns Broadcom/VMware fallout into enterprise infrastructure planning: licensing risk, migration cost, and virtualization platform dependence.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google AI electricity demand, Podman v6.0.0, and Palantir procurement concerns all widen infrastructure from servers and runtimes into energy and trust policy.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — PgBouncer throughput scaling highlights backend connection management as practical infrastructure work, not just database trivia.
 
 ## Related Concepts
 

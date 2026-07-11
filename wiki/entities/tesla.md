@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-22
 updated: 2026-07-11
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on]
-source_count: 20
+source_count: 21
 ---
 
 # Tesla
@@ -54,6 +54,8 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Tesla rises **3.64%** in a tech-led rally, adding high-beta support after earlier mixed tape readings.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Tesla gains 3.64% in the weekly stock-watch table, participating in growth-stock strength.
+
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Tesla gains 3.64% on the weekly stock-watch board, supporting high-beta risk appetite but not leading the tape.
 
 ## Related
 
