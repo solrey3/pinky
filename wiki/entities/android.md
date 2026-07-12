@@ -4,9 +4,9 @@ title: Android
 type: entity
 entity_type: product
 created: 2026-07-02
-updated: 2026-07-03
+updated: 2026-07-12
 tags: [android, mobile, operating-system, google, app-stores, sideloading, security]
-source_count: 3
+source_count: 4
 ---
 
 # Android
@@ -20,6 +20,7 @@ Android is Google's mobile operating-system platform. In the newsletter graph, i
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — The upheld EU Android antitrust fine keeps Android governance tied to bundling, default search, and mobile ecosystem control.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Google losing the long-running EU appeal keeps Android governance tied to bundling, default search, and mobile ecosystem power.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — A feed item criticizing Android developer verification keeps app-platform security and gatekeeping in the privacy/control graph.
 
 ## Related
 

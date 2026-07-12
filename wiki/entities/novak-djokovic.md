@@ -4,9 +4,9 @@ title: Novak Djokovic
 type: entity
 entity_type: person
 created: 2026-05-29
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [tennis, roland-garros, serbia, goat, person, sports]
-source_count: 11
+source_count: 12
 ---
 
 # Novak Djokovic
@@ -52,6 +52,7 @@ Djokovic led 2-0 sets against the 19-year-old Brazilian before losing the next t
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Djokovic loses to Jannik Sinner in the Wimbledon men’s singles scoreboard.
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Djokovic appears through a straight-sets Wimbledon loss to Jannik Sinner in the fetched results.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Djokovic loses to Jannik Sinner in the Wimbledon men's singles result.
 
 ## Related
 

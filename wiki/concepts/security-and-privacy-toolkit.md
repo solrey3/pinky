@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 70
+source_count: 71
 ---
 
 # Security & Privacy Toolkit
@@ -119,6 +119,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Hormuz access, ICE shooting accountability, QuadRF sensing, and subscription-cancellation rules all sit in the auditability/control part of the security toolkit.
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Strict database schemas, quantum recalibration, and noisy prediction-market extraction all reinforce the broader need for trustworthy, auditable systems under pressure.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Meta's privacy reversal, Android developer-verification criticism, Chat Control chatter, and Hormuz operational risk all reinforce auditability and control boundaries.
 
 ## Related Concepts
 

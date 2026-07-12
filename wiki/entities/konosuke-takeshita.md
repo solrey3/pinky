@@ -4,9 +4,9 @@ title: Konosuke Takeshita
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-25
+updated: 2026-07-12
 tags: [person, wrestling, aew, championship]
-source_count: 4
+source_count: 5
 ---
 
 # Konosuke Takeshita
@@ -40,6 +40,7 @@ source_count: 4
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Takeshita defends the AEW International title against Ricochet on Dynamite, extending his 2026 AEW champion thread.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Dynamite result remains in the evening wrestling digest, keeping Takeshita's International-title defense in the Forbidden Door go-home narrative.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Takeshita loses to Yota Tsuji in NJPW G1 Climax 36 Night 1 coverage.
 
 ## Related
 

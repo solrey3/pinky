@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 10
+source_count: 11
 ---
 
 # CM Punk
@@ -50,6 +50,7 @@ source_count: 10
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — CM Punk is advertised for a tag match with Cody Rhodes against Gunther and Sami Zayn at Saturday Night’s Main Event.
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — CM Punk is part of the SummerSlam title-match setup against Cody Rhodes.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Cody vs. Punk at SummerSlam is the WWE SmackDown review hook in the wrestling digest.
 
 ## Related
 

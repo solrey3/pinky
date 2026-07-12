@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 66
+source_count: 67
 ---
 
 # Risk-Off Market Rotation
@@ -116,6 +116,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — The July 11 daytime board is tech-led risk-on, but Dow/Russell weakness, high long rates, and real-estate lag keep breadth caveats intact.
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — The weekly board is tech-led risk-on — S&P 500 +1.23%, Nasdaq +1.74%, Nvidia/AMD strong — but Dow, Russell, VNQ, Netflix, and Costco lag, so breadth is still incomplete.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — The dispatch reinforces a tech-led but breadth-limited read: S&P/Nasdaq lead while Dow, Russell, REITs, and consumer names lag.
 
 ## Related Concepts
 

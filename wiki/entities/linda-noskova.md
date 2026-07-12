@@ -4,9 +4,9 @@ title: Linda Noskova
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [tennis, wta, czech-republic, grand-slam, wimbledon, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Linda Noskova
@@ -16,6 +16,7 @@ Linda Noskova is a WTA player tracked in the newsletter graph through Grand Slam
 ## Sources
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Noskova beats Karolina Muchova 6-2, 5-7, 6-3 in an all-Czech Wimbledon final.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Noskova beats Karolina Muchova in the Wimbledon women's singles result listed by the dispatch.
 
 ## Related
 

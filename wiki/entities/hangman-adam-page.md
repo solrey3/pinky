@@ -4,9 +4,9 @@ title: Hangman Adam Page
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [person, wrestling]
-source_count: 3
+source_count: 4
 ---
 
 # Hangman Adam Page
@@ -39,6 +39,7 @@ source_count: 3
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Hangman Page returns to AEW programming on a live edition of Collision.
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Hangman Page returns to AEW programming on Collision, keeping him active in the promotion's television cycle.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Hangman returns on Collision and vows not to challenge for the AEW World Championship, adding a major AEW storyline beat.
 
 ## Related
 
