@@ -4,9 +4,9 @@ title: Alexander Zverev
 type: entity
 entity_type: person
 created: 2026-06-05
-updated: 2026-07-11
+updated: 2026-07-12
 tags: [tennis, atp, germany, roland-garros, grand-slam, next-gen, person, sports]
-source_count: 9
+source_count: 10
 ---
 
 # Alexander Zverev
@@ -55,6 +55,8 @@ The 2026 Roland Garros men's draw produced a final that nobody quite predicted: 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Zverev appears both in noisy prediction-market text and in the Wimbledon scoreboard with a straight-sets win over Arthur Fery.
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Zverev remains in the Wimbledon result stream as an advanced player in fetched results.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Zverev loses to Jannik Sinner in the Wimbledon men's singles result line.
 
 ## Related
 

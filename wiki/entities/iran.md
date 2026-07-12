@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-07-12
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 28
+source_count: 29
 ---
 
 # Iran
@@ -65,6 +65,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Iran remains central through war-cost and end-state uncertainty, keeping foreign-policy risk connected to crude and macro interpretation.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Renewed U.S. strikes and Strait of Hormuz closure headlines keep Iran as the dispatch's main geopolitical and crude-risk anchor.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — NewsNation reports Iran targeting Gulf Arab nations amid new U.S. strikes, keeping Middle East escalation tied to oil and shipping risk.
 
 ## Related
 

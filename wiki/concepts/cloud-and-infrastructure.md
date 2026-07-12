@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-12
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 23
+source_count: 24
 ---
 
 # Cloud & Infrastructure
@@ -49,6 +49,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — PgBouncer throughput scaling highlights backend connection management as practical infrastructure work, not just database trivia.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Distributed AI on Iroh, reusable-rocket recovery, and extraction reliability all keep infrastructure framed as repeatable operation under constraints.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Agent context overhead, quantum recalibration, prediction-market extraction, and reusable rockets all connect reliability to infrastructure operations.
 
 ## Related Concepts
 

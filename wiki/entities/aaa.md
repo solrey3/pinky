@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-19
 updated: 2026-07-12
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 31
+source_count: 32
 ---
 
 # AAA
@@ -74,6 +74,8 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — AAA appears through event-calendar continuity and Los Perros del Mal being set for AAA on FOX.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — AAA updates include FOX results with El Grande Americano and Dominik Mysterio, Verano de Escándalo becoming a three-week event, and the Latin American Championship being vacated.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — AAA appears in the schedule table and in Fox results where Vikingo's title is vacated and Dominik Mysterio aligns with El Grande Americano.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-06-16
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 3
+source_count: 4
 ---
 
 # Seth Rollins
@@ -37,6 +37,8 @@ source_count: 3
 - [2026-06-01: Evening Brief — June 1, 2026](sources/newsletter-2026-06-01-evening.md) — **King of the Ring 2026, Raw (June 1):** Defeats Bron Breakker after Breakker speared Paul Heyman through a barricade, allowing Rollins to capitalize. Advances in the King of the Ring tournament. The Visionary gets a tournament slot on the same night the bracket opens.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — WWE Raw coverage sets Rollins against Bron Breakker in a steel cage match at WWE Night of Champions.
 - [2026-05-27: Raw notes](../../raw/people/seth-rollins.md)
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — A Seth Rollins and Roman Reigns contract signing is added to the July 13 WWE Raw card.
 
 ## Related
 

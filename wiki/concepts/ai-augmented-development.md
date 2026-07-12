@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-12
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 59
+source_count: 60
 ---
 
 # AI-Augmented Development
@@ -107,6 +107,8 @@ The practice of integrating large language models and AI coding agents into the 
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Ant, PgBouncer scaling, and SQLite strict tables show developer tooling focused on runtime choice, throughput, and data correctness.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Mesh LLM on Iroh and Ant as a new JavaScript runtime show developer tooling expanding through distributed AI compute and runtime experimentation.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Claude Code/OpenCode token-overhead comparison and modern coding-agent workflow coverage make hidden context, cost, and practical app-building core AI-dev concerns.
 
 ## Related Concepts
 

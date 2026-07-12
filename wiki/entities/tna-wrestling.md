@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-12
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 36
+source_count: 37
 ---
 
 # TNA Wrestling
@@ -80,6 +80,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — TNA appears through iMPACT! scheduling and Nic Nemeth's comments on why his TNA title win means more than his WWE reign.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — TNA remains on the weekly wrestling calendar with iMPACT! on Thursday.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — TNA appears on the weekly calendar and in Bully Ray criticism of the company's top-level issues.
 
 ## Related
 

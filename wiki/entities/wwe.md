@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-12
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 44
+source_count: 45
 ---
 
 # WWE
@@ -92,6 +92,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — WWE coverage centers on Raw/SmackDown schedule continuity, Rhea Ripley's meniscus tear, and Cody Rhodes vs. CM Punk for SummerSlam.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — WWE programming continues through Raw/SmackDown schedule notes, Rhea Ripley injury coverage, and Cody Rhodes vs. CM Punk SummerSlam setup.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — WWE's next Raw/SmackDown windows and a Roman Reigns/Seth Rollins contract-signing item keep the promotion calendar current.
 
 ## Related
 
