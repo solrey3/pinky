@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-11
+updated: 2026-07-13
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift]
-source_count: 11
+source_count: 12
 ---
 
 # Apple
@@ -31,6 +31,8 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Apple reportedly sues OpenAI over alleged trade-secret theft, moving Apple from AI-platform dependency into direct AI litigation and IP/provenance conflict.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — The Apple/OpenAI trade-secret lawsuit remains a lead AI-governance item, turning Apple into a direct litigant over AI provenance and employee movement.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Apple sues OpenAI after an ex-engineer allegedly used a bug to steal trade secrets, and its SpeechAnalyzer API appears in speech-recognition benchmarking.
 
 ## Related
 

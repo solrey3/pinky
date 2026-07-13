@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 11
+source_count: 12
 ---
 
 # CM Punk
@@ -51,6 +51,8 @@ source_count: 11
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — CM Punk is part of the SummerSlam title-match setup against Cody Rhodes.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Cody vs. Punk at SummerSlam is the WWE SmackDown review hook in the wrestling digest.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — A SquaredCircle item quotes Punk on listening to the live crowd instead of Twitter.
 
 ## Related
 

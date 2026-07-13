@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-13
 tags: [retail, consumer, markets, big-box]
-source_count: 3
+source_count: 4
 ---
 
 # Target
@@ -20,6 +20,8 @@ Target is tracked as a big-box retail and consumer-demand indicator.
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Target rises 3.79%, one of the stronger consumer names in the stock-watch table.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Target gains 3.79%, standing out among consumer names while the broader board remains mixed.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Target jumps **6.88%**, one of the evening's sharpest single-stock positives.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-13
 updated: 2026-07-13
 tags: [golf, lpga, evian-championship, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Haeran Ryu
@@ -16,6 +16,8 @@ Haeran Ryu is a professional golfer tracked here when LPGA major results enter t
 ## Sources
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Ryu wins the Amundi Evian Championship at -20, one shot ahead of Brooke Henderson.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Haeran Ryu wins the Amundi Evian Championship at **-20**, one ahead of Brooke Henderson.
 
 ## Related
 

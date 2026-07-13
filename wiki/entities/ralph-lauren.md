@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-13
 tags: [retail, apparel, consumer-discretionary, markets]
-source_count: 3
+source_count: 4
 ---
 
 # Ralph Lauren
@@ -20,6 +20,8 @@ Ralph Lauren is tracked as a consumer-discretionary and apparel-market indicator
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Ralph Lauren falls 0.83%, adding a discretionary-retail laggard to the market read.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Ralph Lauren is modestly negative, part of the consumer-stock lag under the headline market strength.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Ralph Lauren falls **5.51%**, adding consumer-discretionary weakness to the market read.
 
 ## Related
 

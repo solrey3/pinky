@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-13
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 38
+source_count: 39
 ---
 
 # TNA Wrestling
@@ -84,6 +84,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — TNA appears on the weekly calendar and in Bully Ray criticism of the company's top-level issues.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — TNA remains in the weekly wrestling schedule through iMPACT!/TNA+ listing.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — TNA iMPACT is listed for July 16, with KC Navarro and Lockdown-poster items adding newswire continuity.
 
 ## Related
 

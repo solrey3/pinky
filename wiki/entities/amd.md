@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-13
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 49
+source_count: 50
 ---
 
 # AMD
@@ -102,6 +102,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — AMD gains 7.74%, reinforcing the AI-chip leadership theme alongside Nvidia.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — AMD joins Nvidia as the strongest chip/risk-on signal, rising 7.74% in the stock-watch table.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — AMD falls **3.20%**, reinforcing that the evening is not a clean AI-chip rally.
 
 ## Related
 

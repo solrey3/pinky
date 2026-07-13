@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-13
 updated: 2026-07-13
 tags: [cycling, tour-de-france, stage-winner, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Mathieu van der Poel
@@ -16,6 +16,8 @@ Mathieu van der Poel is a cyclist tracked here when Tour de France stage results
 ## Sources
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Van der Poel wins Tour de France Stage 9 from Malemort to Ussel.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Van der Poel wins Tour de France Stage 9 while the GC picture remains headed by Tadej Pogacar.
 
 ## Related
 

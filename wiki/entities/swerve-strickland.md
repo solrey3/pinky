@@ -4,9 +4,9 @@ title: Swerve Strickland
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-22
+updated: 2026-07-13
 tags: [person, wrestling, aew, owen-hart-tournament]
-source_count: 3
+source_count: 4
 ---
 
 # Swerve Strickland
@@ -39,6 +39,8 @@ source_count: 3
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Defeats Brody King to advance to the Men's Owen Hart Foundation Tournament Final.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Explains that he underwent meniscus surgery after AEW All In Texas, adding an injury/recovery note to his AEW profile.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Swerve's Forbidden Door match with Will Ospreay remains on the latest 5-star+ table.
 
 ## Related
 

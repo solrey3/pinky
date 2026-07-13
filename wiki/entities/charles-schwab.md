@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-08
 updated: 2026-07-13
 tags: [finance, brokerage, markets, schw, brokerages, risk-assets]
-source_count: 11
+source_count: 12
 ---
 
 # Charles Schwab
@@ -35,6 +35,8 @@ Charles Schwab is a brokerage and financial-services firm tracked in the newslet
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Charles Schwab gains 6.31%, one of the stronger non-chip moves in the stock-watch table.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Charles Schwab rises 6.31%, one of the strongest non-chip financial names in the stock-watch table.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Charles Schwab gains **1.75%** and stays near the upper boards.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-13
 tags: [logistics, shipping, transportation, markets]
-source_count: 3
+source_count: 4
 ---
 
 # UPS
@@ -20,6 +20,8 @@ UPS is tracked as a logistics and economic-activity bellwether.
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — UPS gains 1.64%, keeping logistics in the evening stock-watch list.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — UPS rises 1.64%, adding a small transport/cyclical green pocket to the mixed tape.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — UPS gains **2.61%** and remains near the upper end of its 52-week range.
 
 ## Related
 

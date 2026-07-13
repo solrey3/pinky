@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-13
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 12
+source_count: 13
 ---
 
 # Kenny Omega
@@ -55,6 +55,8 @@ source_count: 12
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — The Meltzer ratings table lists Kenny Omega vs. MJF at 5.5 stars for Dynamite Beach Break.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Omega is central to AEW title-planning chatter and appears in the newest 5.5-star Meltzer entry against MJF.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Omega's match with MJF tops the latest fetched 5-star+ ratings table.
 
 ## Related
 

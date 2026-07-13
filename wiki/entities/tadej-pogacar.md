@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-07-13
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 3
+source_count: 4
 ---
 
 # Tadej Pogacar
@@ -20,6 +20,8 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Pogacar retains the Tour de France general-classification lead after Stage 9.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Pogacar remains Tour de France GC leader after Stage 9, preserving the race-continuity node.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Pogacar remains in yellow after Stage 9 with a **2:42** lead over Jonas Vingegaard Hansen.
 
 ## Related
 

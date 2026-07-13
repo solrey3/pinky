@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-13
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 48
+source_count: 49
 ---
 
 # AEW
@@ -101,6 +101,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — AEW schedule/results coverage includes Dynamite/Collision windows, Hangman targeting new gold, Willow speaking, and a major MJF/Omega Meltzer rating.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — AEW remains active through Dynamite/Collision scheduling, title-change timing chatter, and Meltzer-rated matches.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — AEW announces Full Gear for Phoenix on Nov. 14, and MJF vs. Kenny Omega tops the latest fetched Meltzer table.
 
 ## Related
 

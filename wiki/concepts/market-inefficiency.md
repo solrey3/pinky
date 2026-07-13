@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-13
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 72
+source_count: 73
 ---
 
 # Market Inefficiency
@@ -124,6 +124,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Prediction-market extraction produces discussion snippets but no verified odds, while Kalshi remains unavailable.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Prediction-market adoption is notable, but the newsletter still cannot extract a clean Polymarket/Kalshi mover table, keeping signal provenance fragile.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Polymarket only yields a Home Run Derby snippet and Kalshi is unavailable, reinforcing the data-provenance caveat around prediction-market use.
 
 ## Related Concepts
 

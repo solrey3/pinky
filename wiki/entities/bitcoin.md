@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-04
 updated: 2026-07-13
 tags: [crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on]
-source_count: 16
+source_count: 17
 ---
 
 # Bitcoin
@@ -45,6 +45,8 @@ Bitcoin is the largest cryptocurrency and a recurring cross-asset risk-sentiment
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Bitcoin rises 2.40% in the commodities/crypto table, keeping crypto in the broader risk-asset watchlist.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Bitcoin is slightly negative in the commodity/crypto table, leaving the risk-on equity signal without crypto confirmation.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Bitcoin falls **1.86%** to **$62,015.76**, confirming the evening's risk-off tone rather than offsetting it.
 
 ## Related
 

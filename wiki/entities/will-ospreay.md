@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-15
+updated: 2026-07-13
 tags: [person, wrestling]
-source_count: 4
+source_count: 5
 ---
 
 # Will Ospreay
@@ -38,6 +38,8 @@ source_count: 4
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **Owen Hart Men's Tournament Semi-Final (June 3 Dynamite):** Ospreay defeats Mark Davis in a chaotic semi-final. Advances to the **Owen Hart Men's Final** and earns a spot at **AEW Forbidden Door**. The Summer Blockbuster season is Ospreay's showcase moment heading into the summer PPV calendar.
 - [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Owen Hart Cup SF win confirmed in evening recap. r/squaredcircle called the match "full chaotic closing stretch." Ospreay is in the Final heading into Forbidden Door.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — AEW feed note: Will Ospreay and Alex Windsor have tied the knot.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Will Ospreay vs. Swerve Strickland remains listed as a **5.5-star** Forbidden Door match.
 
 ## Related
 

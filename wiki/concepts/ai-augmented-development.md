@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-13
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 61
+source_count: 62
 ---
 
 # AI-Augmented Development
@@ -111,6 +111,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Claude Code/OpenCode token-overhead comparison and modern coding-agent workflow coverage make hidden context, cost, and practical app-building core AI-dev concerns.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Anthropic developer debate, workplace AI toggles, and AI/security tooling keep the trust boundary around AI-assisted development live.
+
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — SpeechAnalyzer benchmarking and world-model limits move AI tooling evaluation from hype to measurable quality and bounded use.
 
 ## Related Concepts
 
