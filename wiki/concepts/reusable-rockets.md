@@ -3,9 +3,9 @@ id: ead09783-c768-4d80-9909-abe078302a30
 title: Reusable Rockets
 type: concept
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [space, launch, rockets, infrastructure, china, competition]
-source_count: 2
+source_count: 3
 ---
 
 # Reusable Rockets
@@ -17,6 +17,8 @@ Reusable rockets are launch systems designed to recover and fly major vehicle co
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — China reportedly recovers its first reusable rocket and demonstrates a new recovery approach, widening launch-infrastructure competition.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — China's reusable-rocket recovery remains in the tech desk as another marker of repeatable launch-infrastructure competition.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — China's reusable-rocket recovery extends the launch-infrastructure competition and repeatability thread.
 
 ## Related Concepts
 

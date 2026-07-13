@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 54
+source_count: 55
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -134,6 +134,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — NJPW G1 Climax 36 Night 1 results include Yota Tsuji defeating Konosuke Takeshita and Aaron Wolf winning in his tournament debut.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — NJPW remains on the calendar and adds G1 Climax 36 Night 1 results coverage.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — NJPW's G1 Climax 36 opening-night coverage and tour schedule keep the promotion active in the digest.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 24
+source_count: 25
 ---
 
 # Cloud & Infrastructure
@@ -51,6 +51,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Distributed AI on Iroh, reusable-rocket recovery, and extraction reliability all keep infrastructure framed as repeatable operation under constraints.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Agent context overhead, quantum recalibration, prediction-market extraction, and reusable rockets all connect reliability to infrastructure operations.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — GhostLock, Hue firmware recovery, quantum recalibration, rocket reuse, and prediction-market extraction all show infrastructure value depends on operability under failure.
 
 ## Related Concepts
 

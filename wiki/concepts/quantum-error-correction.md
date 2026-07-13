@@ -3,9 +3,9 @@ id: 6f8927d8-7825-48b9-9649-4c8e3ad44a35
 title: Quantum Error Correction
 type: concept
 created: 2026-06-17
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [quantum-computing, error-correction, infrastructure, microsoft, research, vendor-roadmap, policy]
-source_count: 8
+source_count: 9
 ---
 
 # Quantum Error Correction
@@ -27,6 +27,8 @@ The set of techniques used to protect fragile quantum information from noise, de
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Ars coverage of constant quantum-processor recalibration again frames error correction as operational reliability engineering.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Ars coverage of constant quantum-processor recalibration repeats, strengthening the reliability-engineering framing.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Ars Technica coverage frames quantum error correction as continuous processor recalibration, preserving the reliability-engineering interpretation.
 
 ## Related Concepts
 

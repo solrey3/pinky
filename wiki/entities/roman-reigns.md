@@ -4,9 +4,9 @@ title: Roman Reigns
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-01
+updated: 2026-07-13
 tags: [person, wrestling, bloodline]
-source_count: 6
+source_count: 7
 ---
 
 # Roman Reigns
@@ -41,6 +41,8 @@ source_count: 6
 - [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation: Jacob Fatu must now acknowledge Roman Reigns; Bloodline civil war resolved. Cody vs. Roman III narrative building. WWE Raw tonight.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — A Roman Reigns and Seth Rollins contract signing is added to the July 13 WWE Raw card.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Roman Reigns is tied to the newly added SummerSlam contract signing with Seth Rollins on WWE Raw.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 19
+source_count: 20
 ---
 
 # New Jersey Devils
@@ -51,6 +51,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Devils notes include prospect profiles for Ben Kevan and Conrad Fondrk plus summer-session takeaways.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — The sports newswire repeats Devils prospect/session/Malek contract links, keeping offseason roster and prospect tracking current.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The sports wire points to Devils prospect and summer-session items as continuing NHL offseason notes.
 
 ## Related
 

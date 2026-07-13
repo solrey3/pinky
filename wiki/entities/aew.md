@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 47
+source_count: 48
 ---
 
 # AEW
@@ -99,6 +99,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — AEW updates include Hangman Page returning on Collision, a Kenny Omega title celebration, Collision results, and new Meltzer ratings.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — AEW schedule/results coverage includes Dynamite/Collision windows, Hangman targeting new gold, Willow speaking, and a major MJF/Omega Meltzer rating.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — AEW remains active through Dynamite/Collision scheduling, title-change timing chatter, and Meltzer-rated matches.
 
 ## Related
 

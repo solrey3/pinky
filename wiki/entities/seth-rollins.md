@@ -4,9 +4,9 @@ title: Seth Rollins
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-16
+updated: 2026-07-13
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 4
+source_count: 5
 ---
 
 # Seth Rollins
@@ -39,6 +39,8 @@ source_count: 4
 - [2026-05-27: Raw notes](../../raw/people/seth-rollins.md)
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — A Seth Rollins and Roman Reigns contract signing is added to the July 13 WWE Raw card.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Seth Rollins is tied to the SummerSlam contract-signing angle opposite Roman Reigns.
 
 ## Related
 

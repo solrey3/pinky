@@ -4,9 +4,9 @@ title: Target
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-07-13
 tags: [retail, consumer, markets, big-box]
-source_count: 2
+source_count: 3
 ---
 
 # Target
@@ -18,6 +18,8 @@ Target is tracked as a big-box retail and consumer-demand indicator.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — TGT gains **3.79%**, a positive retail note inside an otherwise mixed consumer board.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Target rises 3.79%, one of the stronger consumer names in the stock-watch table.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Target gains 3.79%, standing out among consumer names while the broader board remains mixed.
 
 ## Related
 
