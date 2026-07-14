@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [person, wrestling]
-source_count: 5
+source_count: 6
 ---
 
 # Will Ospreay
@@ -40,6 +40,8 @@ source_count: 5
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — AEW feed note: Will Ospreay and Alex Windsor have tied the knot.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Will Ospreay vs. Swerve Strickland remains listed as a **5.5-star** Forbidden Door match.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Will Ospreay remains linked to the 5.5-star Forbidden Door match against Swerve Strickland.
 
 ## Related
 

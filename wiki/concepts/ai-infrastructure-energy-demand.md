@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google]
-source_count: 4
+source_count: 5
 ---
 
 # AI Infrastructure Energy Demand
@@ -21,6 +21,8 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Reuters/Ars coverage frames data-center power demand as raising electricity pressure for Rust Belt factories, moving AI energy demand from abstract cloud capex to real-economy grid costs.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Microsoft's emissions rising **25%** in 2025 makes AI data-center growth a climate-ledger issue.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — New York's statewide hyperscale data-center freeze turns AI/data-center expansion into a grid, permitting, and public-policy constraint story.
 
 ## Related Concepts
 

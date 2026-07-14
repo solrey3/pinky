@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 31
+source_count: 32
 ---
 
 # Iran
@@ -71,6 +71,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — CENTCOM strike reporting keeps Iran as the main geopolitical, oil-risk, and security-policy node in the dispatch.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Renewed U.S. strike and Strait of Hormuz blockade headlines keep Iran tied to WTI crude's **6.09%** jump and broader risk-off interpretation.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — The UAE tanker allegation keeps Iran tied to Gulf shipping risk and WTI crude's **11.46%** jump.
 
 ## Related
 

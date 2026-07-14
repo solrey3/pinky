@@ -4,9 +4,9 @@ title: AAA
 type: entity
 entity_type: organization
 created: 2026-06-19
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 34
+source_count: 35
 ---
 
 # AAA
@@ -80,6 +80,8 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — AAA coverage centers on Vikingo's title being vacated and Dominik Mysterio aligning with El Grande Americano.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — AAA remains a calendar-verification node, while the latest Meltzer table still includes AAA/WWE Noche de Los Grandes.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — AAA remains in the weekly wrestling schedule grid with cards varying by official feed verification.
 
 ## Related
 

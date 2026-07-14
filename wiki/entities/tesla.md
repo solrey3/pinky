@@ -4,9 +4,9 @@ title: Tesla
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on]
-source_count: 25
+source_count: 26
 ---
 
 # Tesla
@@ -63,6 +63,8 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Tesla rises 3.64%, adding to the large-cap risk-on side of the board without fixing breadth weakness.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Tesla drops **5.96%**, adding to the high-beta weakness in the close.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Tesla falls **5.96%**, a high-beta confirmation of the day's risk-off market tone.
 
 ## Related
 

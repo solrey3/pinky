@@ -4,9 +4,9 @@ title: Swerve Strickland
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [person, wrestling, aew, owen-hart-tournament]
-source_count: 4
+source_count: 5
 ---
 
 # Swerve Strickland
@@ -41,6 +41,8 @@ source_count: 4
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Explains that he underwent meniscus surgery after AEW All In Texas, adding an injury/recovery note to his AEW profile.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Swerve's Forbidden Door match with Will Ospreay remains on the latest 5-star+ table.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Swerve Strickland remains linked to the 5.5-star Forbidden Door match against Will Ospreay.
 
 ## Related
 

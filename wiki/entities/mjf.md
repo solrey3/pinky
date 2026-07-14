@@ -4,9 +4,9 @@ title: MJF
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [person, wrestling]
-source_count: 17
+source_count: 18
 ---
 
 # MJF
@@ -60,6 +60,8 @@ He retained the AEW World Title vs. RUSH on June 3 Dynamite (No Count-Out match)
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — MJF appears in the newest 5.5-star Meltzer entry against Kenny Omega and ongoing AEW title-change timing discourse.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — MJF vs. Kenny Omega at AEW Dynamite Beach Break is the latest fetched **5.5-star** Meltzer match.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — MJF vs. Kenny Omega remains listed as a 5.5-star Meltzer-rated AEW Dynamite Beach Break match.
 
 ## Related
 

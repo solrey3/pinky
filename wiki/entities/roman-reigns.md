@@ -4,9 +4,9 @@ title: Roman Reigns
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [person, wrestling, bloodline]
-source_count: 7
+source_count: 8
 ---
 
 # Roman Reigns
@@ -43,6 +43,8 @@ source_count: 7
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — A Roman Reigns and Seth Rollins contract signing is added to the July 13 WWE Raw card.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Roman Reigns is tied to the newly added SummerSlam contract signing with Seth Rollins on WWE Raw.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Roman Reigns is the target of Seth Rollins' Raw attack angle, keeping their feud in the headline feed.
 
 ## Related
 

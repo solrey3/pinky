@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-07-13
+updated: 2026-07-14
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 70
+source_count: 71
 ---
 
 # Risk-Off Market Rotation
@@ -123,6 +123,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The dispatch repeats the tech-led but breadth-limited regime: S&P 500/Nasdaq and chips lead while Dow, Russell, REITs, Netflix, Costco, and Berkshire lag.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — All major indexes close lower, Russell 2000 is weakest at **-1.87%**, Bitcoin falls, and WTI jumps, making the evening a clearer risk-off print.
+
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — All four major equity indexes are negative, Russell 2000 is weakest at **-1.87%**, Bitcoin falls, and WTI jumps **11.46%**, making the day an explicit risk-off print with energy stress.
 
 ## Related Concepts
 
