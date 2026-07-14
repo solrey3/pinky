@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-07-14
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 53
+source_count: 54
 ---
 
 # Nvidia
@@ -108,6 +108,9 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Nvidia gains **4.08%**, standing out as the main positive AI-chip exception in an otherwise weaker tape.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Nvidia gains **4.08%**, standing out as the main positive AI-chip exception while TSM and AMD fall.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Nvidia jumps **7.55%**, making AI-chip leadership the main reason the Nasdaq outperforms despite broader macro stress.
+
 
 ## Related
 

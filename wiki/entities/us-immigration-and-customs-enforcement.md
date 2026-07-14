@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-08
 updated: 2026-07-14
 tags: [government, immigration, enforcement, ice, civil-liberties, united-states]
-source_count: 5
+source_count: 6
 ---
 
 # U.S. Immigration and Customs Enforcement
@@ -24,6 +24,9 @@ U.S. Immigration and Customs Enforcement (ICE) is tracked here where immigration
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Maine senators seek an independent investigation after the Biddeford ICE shooting, extending the accountability thread.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — DHS says an ICE officer fatally shot a man in Maine after fearing for public safety, keeping law-enforcement accountability in the civil-liberties file.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — ICE pauses most traffic stops after a fatal Maine shooting, shifting the enforcement thread toward accountability and operational restraint.
+
 
 ## Related
 

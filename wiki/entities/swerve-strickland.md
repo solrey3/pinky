@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-14
 tags: [person, wrestling, aew, owen-hart-tournament]
-source_count: 5
+source_count: 6
 ---
 
 # Swerve Strickland
@@ -43,6 +43,9 @@ source_count: 5
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Swerve's Forbidden Door match with Will Ospreay remains on the latest 5-star+ table.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Swerve Strickland remains linked to the 5.5-star Forbidden Door match against Will Ospreay.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Swerve Strickland remains in the Forbidden Door 5.5-star ratings continuity against Will Ospreay.
+
 
 ## Related
 

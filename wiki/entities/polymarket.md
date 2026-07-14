@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-14
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 3
+source_count: 4
 ---
 
 # Polymarket
@@ -20,6 +20,9 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Polymarket returns a Home Run Derby trend snippet showing Munetaka Murakami at **13%**, but not a full verified table.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Polymarket is fetched but produces no clean notable mover, keeping prediction-market extraction useful but unreliable.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Polymarket returns raw trending chatter around England-Argentina and the MLB All-Star Game, but no verified price movement is fetched.
+
 
 ## Related
 

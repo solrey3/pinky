@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-13
 updated: 2026-07-14
 tags: [prediction-markets, regulated-markets, forecasting, elections]
-source_count: 3
+source_count: 4
 ---
 
 # Kalshi
@@ -20,6 +20,9 @@ Kalshi is a regulated prediction-market venue tracked here when event-contract p
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Kalshi data remains unavailable, continuing the extraction-quality caveat.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Kalshi data is unavailable, preserving the gap between prediction-market interest and dependable ingest output.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Kalshi data is unavailable again, preserving the prediction-market extraction-quality caveat.
+
 
 ## Related
 

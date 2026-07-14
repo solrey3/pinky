@@ -3,9 +3,9 @@ id: 9e345ca5-6f38-4d7f-9916-4aa13c59a44d
 title: AI Hiring Bias
 type: concept
 created: 2026-06-23
-updated: 2026-06-29
+updated: 2026-07-14
 tags: [ai, hiring, bias, employment, discrimination, governance, automated-decision-systems, algorithmic-accountability]
-source_count: 2
+source_count: 3
 ---
 
 # AI Hiring Bias
@@ -17,6 +17,9 @@ AI hiring bias is the risk that automated résumé screening, candidate scoring,
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Stanford HAI item reports that AI hiring tools can yield racial bias and systemic rejection, including cited rejection effects for Black and Asian candidates.
 
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — HackerRank's open-source ATS/resume-score inconsistency turns automated hiring opacity from a fairness abstraction into a concrete scoring/provenance problem.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — The Meta layoff lawsuit extends automated-employment risk from screening and scoring into termination/layoff decision workflows.
+
 
 ## Related Concepts
 

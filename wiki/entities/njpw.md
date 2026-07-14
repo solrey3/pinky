@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-07-14
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 57
+source_count: 58
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -140,6 +140,9 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — NJPW remains a schedule-verification node, and Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 remains the table's six-star anchor.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — NJPW appears through tour-calendar continuity and G1 Climax 36 Night 1 review coverage.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — NJPW stays in the schedule/ratings graph, including the Wrestle Kingdom 20 Tanahashi-Okada six-star marker.
+
 
 ## Related
 

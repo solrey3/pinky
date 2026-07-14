@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-14
 tags: [retail, consumer, markets, big-box]
-source_count: 5
+source_count: 6
 ---
 
 # Target
@@ -24,6 +24,9 @@ Target is tracked as a big-box retail and consumer-demand indicator.
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Target jumps **6.88%**, one of the evening's sharpest single-stock positives.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Target jumps **6.88%**, the clearest retail upside exception in the day's soft equity board.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Target gains **5.06%**, a strong retail counterweight to Ralph Lauren and Costco weakness.
+
 
 ## Related
 

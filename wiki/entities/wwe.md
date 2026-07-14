@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-14
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 48
+source_count: 49
 ---
 
 # WWE
@@ -100,6 +100,9 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — WWE Raw/SmackDown calendar items, Survivor Series: War Games in Houston, and Club WWE's $99 annual fee update the promotion node.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — WWE coverage includes Raw/SmackDown schedule continuity plus Seth Rollins attacking Roman Reigns and Chad Gable earning an IC-title shot against Penta at SummerSlam.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — WWE calendar and storyline coverage centers on Raw/SmackDown scheduling and Roman Reigns promising to close the door on Seth Rollins at SummerSlam.
+
 
 ## Related
 

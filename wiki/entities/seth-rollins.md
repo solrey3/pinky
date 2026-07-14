@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-14
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 6
+source_count: 7
 ---
 
 # Seth Rollins
@@ -43,6 +43,9 @@ source_count: 6
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Seth Rollins is tied to the SummerSlam contract-signing angle opposite Roman Reigns.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Seth Rollins takes down Roman Reigns with a Pedigree and Stomp after a Raw verbal exchange, extending their SummerSlam build.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Seth Rollins is the target of Roman Reigns' SummerSlam storyline quote in the WWE headline stack.
+
 
 ## Related
 

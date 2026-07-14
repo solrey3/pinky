@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-14
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 14
+source_count: 15
 ---
 
 # Kenny Omega
@@ -59,6 +59,9 @@ source_count: 14
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Omega's match with MJF tops the latest fetched 5-star+ ratings table.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Kenny Omega remains linked to the 5.5-star MJF match on AEW Dynamite Beach Break.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Kenny Omega stays in the ratings continuity through the **5.5-star** MJF match listed from Dynamite Beach Break.
+
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-19
 updated: 2026-07-14
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 35
+source_count: 36
 ---
 
 # AAA
@@ -82,6 +82,9 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — AAA remains a calendar-verification node, while the latest Meltzer table still includes AAA/WWE Noche de Los Grandes.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — AAA remains in the weekly wrestling schedule grid with cards varying by official feed verification.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — AAA remains in the wrestling calendar as a promotion whose upcoming cards require official-feed verification.
+
 
 ## Related
 

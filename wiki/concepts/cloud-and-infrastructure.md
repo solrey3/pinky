@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-14
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 27
+source_count: 28
 ---
 
 # Cloud & Infrastructure
@@ -57,6 +57,9 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Data-center emissions, open-data archive recovery, speech APIs, and market-data extraction all frame infrastructure as accountable operations.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Data-center permitting, battery recycling, router security, Xcode-free build workflows, and Starship test cadence all appear as infrastructure reliability problems.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Data-center moratorium coverage, phone-class local-model claims, GitHub Actions OIDC/AWS troubleshooting, and ServiceNow sandbox RCE chatter keep infrastructure reliability and access control in focus.
+
 
 ## Related Concepts
 

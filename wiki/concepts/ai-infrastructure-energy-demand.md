@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-02
 updated: 2026-07-14
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google]
-source_count: 5
+source_count: 6
 ---
 
 # AI Infrastructure Energy Demand
@@ -23,6 +23,9 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Microsoft's emissions rising **25%** in 2025 makes AI data-center growth a climate-ledger issue.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — New York's statewide hyperscale data-center freeze turns AI/data-center expansion into a grid, permitting, and public-policy constraint story.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — New York's one-year data-center construction ban repeats that AI compute scaling is now a grid, permitting, and public-policy constraint.
+
 
 ## Related Concepts
 

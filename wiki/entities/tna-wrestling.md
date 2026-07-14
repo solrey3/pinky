@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-14
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 40
+source_count: 41
 ---
 
 # TNA Wrestling
@@ -88,6 +88,9 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — TNA iMPACT is listed for July 16, with KC Navarro and Lockdown-poster items adding newswire continuity.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — TNA remains in the weekly calendar through the July 16 iMPACT! window on AXS TV/TNA+.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — TNA remains in the calendar and headline file with a July 30 iMPACT! tag-match announcement.
+
 
 ## Related
 
