@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 4
+source_count: 5
 ---
 
 # Polymarket
@@ -22,6 +22,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Polymarket is fetched but produces no clean notable mover, keeping prediction-market extraction useful but unreliable.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Polymarket returns raw trending chatter around England-Argentina and the MLB All-Star Game, but no verified price movement is fetched.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Extraction returns an England 35% / Argentina 32% snapshot but no movement data, keeping Polymarket useful but incomplete.
 
 
 ## Related

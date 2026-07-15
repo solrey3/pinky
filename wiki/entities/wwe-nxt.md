@@ -4,9 +4,9 @@ title: WWE NXT
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 17
+source_count: 18
 ---
 
 # WWE NXT
@@ -46,6 +46,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — NXT remains on the weekly schedule with a July 14 TV window on The CW/Peacock.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — NXT remains in the weekly schedule and injury-news file after Layla Diggs is pulled from a title shot.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — NXT remains active through July 14 review/results coverage and the next TV window.
 
 
 ## Related

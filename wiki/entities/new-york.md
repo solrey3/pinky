@@ -4,9 +4,9 @@ title: New York
 type: entity
 entity_type: place
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states]
-source_count: 2
+source_count: 3
 ---
 
 # New York
@@ -18,6 +18,8 @@ New York is tracked in the newsletter graph as a state-level policy and infrastr
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — A first-in-the-nation statewide freeze on hyperscale data centers turns New York into a policy test case for AI infrastructure energy demand, grid capacity, and permitting restraint.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Reuters/Ars coverage repeats New York's one-year data-center construction ban, confirming the state as a test case for AI infrastructure siting and grid constraints.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — The data-center ban remains the state-level brake on AI infrastructure growth and power/permitting capacity.
 
 
 ## Related

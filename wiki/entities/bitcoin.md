@@ -4,9 +4,9 @@ title: Bitcoin
 type: entity
 entity_type: product
 created: 2026-07-04
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on]
-source_count: 19
+source_count: 20
 ---
 
 # Bitcoin
@@ -51,6 +51,8 @@ Bitcoin is the largest cryptocurrency and a recurring cross-asset risk-sentiment
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Bitcoin falls **2.39%**, confirming the day's risk-off cross-asset tone rather than offsetting equity weakness.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Bitcoin closes at **$64,564.01**, up **0.68%**, a modest positive move despite crude-oil and geopolitical stress.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Bitcoin trades **+1.33%** at **$64,650**, positive but far below its 52-week high during a crude-led macro alert.
 
 
 ## Related

@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 51
+source_count: 52
 ---
 
 # AEW
@@ -107,6 +107,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — AEW updates include Dynamite/Collision scheduling and Full Gear being announced for Phoenix on November 14.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — AEW remains central through Dynamite/Collision scheduling, a sponsorship-fee lawsuit, roster-page movement around Big Bill, and the MJF/Omega 5.5-star continuity marker.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — AEW is tracked through Dynamite/Collision scheduling, litigation over sponsorship fees, Buddy Matthews return chatter, and Meltzer-rated matches.
 
 
 ## Related

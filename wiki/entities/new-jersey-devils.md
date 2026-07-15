@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 23
+source_count: 24
 ---
 
 # New Jersey Devils
@@ -59,6 +59,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — The Devils appear through a David Rozsival prospect profile and fan threads about attending multiple games and third-party merch.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — The Devils appear through prospect-profile continuity for David Rozsival and Ben Kevan.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Devils prospect coverage centers on David Rozsival while the NHL/newswire continuity continues.
 
 
 ## Related

@@ -4,9 +4,9 @@ title: Ralph Lauren
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [retail, apparel, consumer-discretionary, markets]
-source_count: 6
+source_count: 7
 ---
 
 # Ralph Lauren
@@ -26,6 +26,8 @@ Ralph Lauren is tracked as a consumer-discretionary and apparel-market indicator
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Ralph Lauren drops **5.51%**, keeping discretionary/retail sensitivity visible in the stock-watch table.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Ralph Lauren drops **6.66%**, the sharpest retail/consumer discretionary weakness on the stock-watch board.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Ralph Lauren drops **6.66%**, the clearest consumer/retail warning in the stock-watch table.
 
 
 ## Related

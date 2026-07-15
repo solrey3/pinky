@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 33
+source_count: 34
 ---
 
 # Iran
@@ -75,6 +75,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — The UAE tanker allegation keeps Iran tied to Gulf shipping risk and WTI crude's **11.46%** jump.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — CENTCOM strike and Strait of Hormuz blockade headlines keep Iran tied to WTI crude's **10.75%** jump and energy-risk interpretation.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Additional U.S. strike and infrastructure-threat headlines keep Iran tied to WTI crude's **12.10%** jump and energy-market stress.
 
 
 ## Related

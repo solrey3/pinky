@@ -4,9 +4,9 @@ title: Costco
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [retail, consumer-staples, warehouse-club, markets]
-source_count: 6
+source_count: 7
 ---
 
 # Costco
@@ -26,6 +26,8 @@ Costco is tracked as a defensive/consumer-staples retail bellwether.
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Costco falls **2.51%**, adding to the consumer/quality-name weakness alongside the broader risk-off read.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Costco falls **2.72%**, keeping consumer-staples/quality exposure from confirming a clean defensive bid.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Costco falls **2.72%**, weakening a usual quality-consumer reference point.
 
 
 ## Related

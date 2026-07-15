@@ -4,9 +4,9 @@ title: European Union
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-10
+updated: 2026-07-15
 tags: [government, europe, privacy, regulation, message-scanning]
-source_count: 3
+source_count: 4
 ---
 
 # European Union
@@ -20,6 +20,8 @@ The European Union is tracked as a regulatory and geopolitical actor, especially
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — EU Parliament greenlighting Chat Control 1.0 makes private-message scanning a live child-safety versus encryption/privacy issue.
 
 - [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — EU Parliament greenlighting Chat Control 1.0 again frames the EU as a privacy, child-safety, and communications-inspection regulator.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — EU consideration of a child social-media ban keeps Europe in the online age-verification and platform-access debate.
+
 
 ## Related
 

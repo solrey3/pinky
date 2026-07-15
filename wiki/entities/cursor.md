@@ -4,9 +4,9 @@ title: Cursor
 type: entity
 entity_type: product
 created: 2026-06-16
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [ai, developer-tools, coding-agent, ide, anysphere]
-source_count: 2
+source_count: 3
 ---
 
 # Cursor
@@ -18,6 +18,8 @@ AI-assisted coding environment developed by Anysphere. In this wiki, Cursor belo
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Reported $60B SpaceX acquisition of Cursor/Anysphere makes AI coding platforms look like strategic infrastructure rather than niche productivity tools.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — A Cursor 0day disclosure item puts the coding-agent IDE back into the security file: vulnerability timing, disclosure incentives, and user protection.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Cursor 0day disclosure coverage keeps coding-agent security tied to full disclosure, patch timing, and user protection.
 
 
 ## Related

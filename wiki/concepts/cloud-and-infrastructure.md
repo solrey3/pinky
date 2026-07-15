@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 28
+source_count: 29
 ---
 
 # Cloud & Infrastructure
@@ -59,6 +59,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Data-center permitting, battery recycling, router security, Xcode-free build workflows, and Starship test cadence all appear as infrastructure reliability problems.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Data-center moratorium coverage, phone-class local-model claims, GitHub Actions OIDC/AWS troubleshooting, and ServiceNow sandbox RCE chatter keep infrastructure reliability and access control in focus.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Data centers, Secure Boot, Tailscale SSH, Cursor, and phone-class models all show infrastructure as both physical capacity and trust-chain maintenance.
 
 
 ## Related Concepts

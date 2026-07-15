@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-14
+updated: 2026-07-15
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 49
+source_count: 50
 ---
 
 # WWE
@@ -102,6 +102,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — WWE coverage includes Raw/SmackDown schedule continuity plus Seth Rollins attacking Roman Reigns and Chad Gable earning an IC-title shot against Penta at SummerSlam.
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — WWE calendar and storyline coverage centers on Raw/SmackDown scheduling and Roman Reigns promising to close the door on Seth Rollins at SummerSlam.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — WWE calendar tracking lists Raw, SmackDown, and PLE/live-event verification paths.
 
 
 ## Related
