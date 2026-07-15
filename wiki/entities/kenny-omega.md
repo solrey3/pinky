@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-15
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 16
+source_count: 17
 ---
 
 # Kenny Omega
@@ -64,6 +64,7 @@ source_count: 16
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Kenny Omega remains tied to the MJF 5.5-star AEW Dynamite Beach Break match.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Kenny Omega remains in the Meltzer ratings archive via the 5.5-star match against MJF at Dynamite Beach Break.
 
 ## Related
 

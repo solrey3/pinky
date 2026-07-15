@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-03
+updated: 2026-07-15
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 18
+source_count: 19
 ---
 
 # Google
@@ -37,6 +37,8 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — EU appeal loss on the Android antitrust fine keeps Google in the mobile-platform bundling, default-search, and app-ecosystem power lane.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — EU appeal loss on the Android antitrust fine repeats the mobile-platform bundling and default-search governance story.
+
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Google appears through Pixel 11 teaser chatter and the Google/Epic app-store settlement path toward third-party Android app stores.
 
 ## Related
 

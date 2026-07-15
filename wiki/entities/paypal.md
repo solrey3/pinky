@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-15
 tags: [finance, payments, fintech, markets]
-source_count: 7
+source_count: 8
 ---
 
 # PayPal
@@ -29,6 +29,7 @@ PayPal is tracked as a payments and fintech-market entity when it appears in sto
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — PayPal gains **3.77%**, a positive pocket in an otherwise split stock-watch table.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — PayPal surges **24.68%**, the loudest single-stock move in the evening stock watch.
 
 ## Related
 

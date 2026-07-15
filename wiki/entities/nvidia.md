@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-07-15
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 55
+source_count: 56
 ---
 
 # Nvidia
@@ -113,6 +113,7 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Nvidia rises **7.55%**, helping Nasdaq/S&P hold near highs despite broader market splits.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Nvidia gains **4.11%**, helping the AI-chip leadership pocket support the Nasdaq/S&P close near highs.
 
 ## Related
 

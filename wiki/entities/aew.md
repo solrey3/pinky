@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-15
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 52
+source_count: 53
 ---
 
 # AEW
@@ -110,6 +110,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — AEW is tracked through Dynamite/Collision scheduling, litigation over sponsorship fees, Buddy Matthews return chatter, and Meltzer-rated matches.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — AEW Dynamite adds a tag-team title bout, while MJF vs. Kenny Omega remains a Meltzer 5.5-star ratings anchor.
 
 ## Related
 

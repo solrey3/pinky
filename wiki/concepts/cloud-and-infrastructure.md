@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-15
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 29
+source_count: 30
 ---
 
 # Cloud & Infrastructure
@@ -62,6 +62,7 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Data centers, Secure Boot, Tailscale SSH, Cursor, and phone-class models all show infrastructure as both physical capacity and trust-chain maintenance.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Open-weights AI, Grok Build, Firefox in WebAssembly, Microsoft patching, and Android app-store changes all treat infrastructure as deployable software plus governance/control surface.
 
 ## Related Concepts
 

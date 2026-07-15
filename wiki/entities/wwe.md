@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-15
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 50
+source_count: 51
 ---
 
 # WWE
@@ -105,6 +105,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — WWE calendar tracking lists Raw, SmackDown, and PLE/live-event verification paths.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — WWE remains in the wrestling calendar via Raw and SmackDown listings plus a Ludwig Kaiser legal headline.
 
 ## Related
 

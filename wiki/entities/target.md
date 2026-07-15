@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-15
 tags: [retail, consumer, markets, big-box]
-source_count: 7
+source_count: 8
 ---
 
 # Target
@@ -29,6 +29,7 @@ Target is tracked as a big-box retail and consumer-demand indicator.
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Target gains **5.06%**, a strong retail counterweight to Ralph Lauren weakness.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Target gains **4.43%**, one of the stronger retail positives in the evening stock watch.
 
 ## Related
 

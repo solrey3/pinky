@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-07-15
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 7
+source_count: 8
 ---
 
 # Tadej Pogacar
@@ -29,6 +29,7 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Pogacar leads Tour de France Stage 10 and the general classification, keeping him the cycling continuity anchor.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Tadej Pogačar keeps the Tour de France GC lead after Stage 11, with Vingegaard Hansen, Evenepoel, Ayuso, and Seixas trailing.
 
 ## Related
 

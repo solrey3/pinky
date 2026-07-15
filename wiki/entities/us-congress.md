@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-15
 tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy]
-source_count: 3
+source_count: 4
 ---
 
 # U.S. Congress
@@ -21,6 +21,7 @@ The U.S. Congress is tracked in the newsletter graph when legislative timing, ov
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — House passage of permanent daylight saving time keeps Congress in the clock-policy and default-setting file.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The House Democratic Israel-aid vote and the state-led Paramount/WBD antitrust lawsuit keep Congress/state power in the foreign-policy and media-regulation frame.
 
 ## Related
 

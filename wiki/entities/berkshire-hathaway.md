@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-15
 tags: [finance, insurance, conglomerate, markets, brk-b]
-source_count: 7
+source_count: 8
 ---
 
 # Berkshire Hathaway
@@ -29,6 +29,7 @@ Berkshire Hathaway is tracked as a diversified value and insurance-market bellwe
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Berkshire Hathaway Class B falls **2.56%**, weakening the quality/value side of the board.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Berkshire Hathaway falls **1.30%**, a quality/value pocket that does not confirm the green index close.
 
 ## Related
 

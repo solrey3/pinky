@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-15
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 53
+source_count: 54
 ---
 
 # AMD
@@ -111,6 +111,7 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — AMD gains **6.20%**, joining Nvidia as the main tech-led support under the index tape.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — AMD gains **2.27%**, adding to the AI-chip support under the Nasdaq while TSM weakens.
 
 ## Related
 

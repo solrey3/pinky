@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-15
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 73
+source_count: 74
 ---
 
 # Risk-Off Market Rotation
@@ -130,6 +130,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — S&P/Nasdaq strength and Nvidia/AMD rallies coexist with Dow/Russell weakness, Netflix/Tesla/TSM softness, and WTI **+12.10%**.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — All four major indexes close green, but WTI **+12.37%**, high long rates, TSM/Netflix/Costco weakness, and PayPal/Nvidia/AMD leadership make the tape green but still stress-sensitive.
 
 ## Related Concepts
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-15
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 24
+source_count: 25
 ---
 
 # New Jersey Devils
@@ -62,6 +62,7 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Devils prospect coverage centers on David Rozsival while the NHL/newswire continuity continues.
 
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The Devils add Anthony Mantha on a two-year deal and list the Oct. 1 home opener against the Flyers, shifting from prospect-only notes into roster/schedule news.
 
 ## Related
 
