@@ -4,9 +4,9 @@ title: "LeBron James"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-09
+updated: 2026-07-16
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 11
+source_count: 12
 ---
 
 # LeBron James
@@ -36,6 +36,8 @@ NBA forward with one of the longest and most productive careers in league histor
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Austin Reaves texting LeBron after departure rumors keeps the Lakers/LeBron status thread active.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — NBA news notes teams sending recruiting voice notes to LeBron James via Rich Paul, keeping late-career destination speculation active.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — LeBron James leads the NBA newswire with an undecided “we'll see what happens” clip, keeping late-career decision uncertainty in the sports feed.
 
 ## Related
 

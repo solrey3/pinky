@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-04
 updated: 2026-07-16
 tags: [crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on]
-source_count: 22
+source_count: 23
 ---
 
 # Bitcoin
@@ -57,6 +57,8 @@ Bitcoin is the largest cryptocurrency and a recurring cross-asset risk-sentiment
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Bitcoin rises **1.49%** to **$64,752**, a modest positive inside an equity-green but oil-stressed cross-asset board.
 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Bitcoin is up **0.43%** near **$64,034**, a modest crypto positive inside a broader green but rate-sensitive market board.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Bitcoin is slightly green at $64,178.51, a modest positive cross-asset signal in an otherwise mixed equity close.
 
 ## Related
 

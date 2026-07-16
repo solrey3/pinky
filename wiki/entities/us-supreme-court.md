@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-07-08
+updated: 2026-07-16
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 6
+source_count: 7
 ---
 
 # U.S. Supreme Court
@@ -26,6 +26,8 @@ The highest court in the United States. In the newsletter graph, it is tracked w
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Firing-power litigation keeps the Court in the executive-control and independent-agency boundary thread.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Post-Bruen gun-control coverage keeps the Court tied to Second Amendment boundaries and constitutional constraints on regulation.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Illinois home-equity reform is explicitly framed as a delayed state response to a Supreme Court property-rights ruling.
 
 ## Related
 

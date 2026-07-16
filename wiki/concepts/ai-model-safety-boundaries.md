@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-07-08
+updated: 2026-07-16
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai]
-source_count: 16
+source_count: 17
 ---
 
 # AI Model Safety Boundaries
@@ -35,6 +35,8 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Popular AI tools being usable for botnet assembly frames model/tool safety as real-world misuse prevention rather than only refusal policy.
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Grok 4.5, GPT-Live, and campus AI cheating show the safety boundary moving from refusals into evaluation, live use, and academic integrity.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Anthropic CEO's reported $1M AI-safety super PAC donation moves model-safety governance from lab policy into electoral and regulatory influence.
 
 ## Related Concepts
 

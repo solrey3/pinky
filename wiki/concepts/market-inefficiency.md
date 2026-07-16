@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-16
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 78
+source_count: 79
 ---
 
 # Market Inefficiency
@@ -136,6 +136,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Prediction-market coverage is incomplete again: Polymarket has World Cup discussion without verified price movement, and Kalshi is unavailable.
 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — PayPal's acquisition-rumor surge and incomplete Polymarket/Kalshi extraction show why price and prediction signals need provenance checks.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — PayPal's **+25.18%** move and Starship Flight Test 13 probabilities illustrate the need to separate rumor, event risk, and traded probability from confirmed fundamentals.
 
 ## Related Concepts
 

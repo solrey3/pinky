@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-07-13
+updated: 2026-07-16
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 25
+source_count: 26
 ---
 
 # Anthropic
@@ -88,6 +88,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Claude Code prompt-steganography/tracker concerns and global-workspace research keep Anthropic in the model-trust, telemetry, and interpretability frame.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — A developer-world debate around Anthropic stays in the AI tooling and coding-agent trust graph.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — A reported $1M AI-safety super PAC donation by Anthropic's CEO moves the company's safety-governance story into explicit campaign-finance and political-influence territory.
 
 ## Related
 

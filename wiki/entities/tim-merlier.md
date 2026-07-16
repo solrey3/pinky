@@ -4,9 +4,9 @@ title: Tim Merlier
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-16
 tags: [cycling, tour-de-france, belgium, sprinting, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Tim Merlier
@@ -16,6 +16,8 @@ Tim Merlier is a professional cyclist tracked when Tour de France sprint stages 
 ## Sources
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Merlier wins Tour de France Stage 8 from Périgueux to Bergerac in 3h 52' 50".
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Tim Merlier wins the Tour de France Stage 12 sprint ahead of a major pileup.
 
 ## Related
 

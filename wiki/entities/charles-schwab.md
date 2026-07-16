@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-08
 updated: 2026-07-16
 tags: [finance, brokerage, markets, schw, brokerages, risk-assets]
-source_count: 17
+source_count: 18
 ---
 
 # Charles Schwab
@@ -47,6 +47,8 @@ Charles Schwab is a brokerage and financial-services firm tracked in the newslet
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Charles Schwab gains **1.07%**, a modest positive in the brokerage/financials watchlist.
 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Charles Schwab gains **1.07%**, keeping brokerages modestly positive in the green tape.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Charles Schwab edges higher 0.87%, holding up while Nasdaq and Russell weaken.
 
 ## Related
 

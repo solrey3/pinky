@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-16
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 75
+source_count: 76
 ---
 
 # Risk-Off Market Rotation
@@ -133,6 +133,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — All four major indexes close green, but WTI **+12.37%**, high long rates, TSM/Netflix/Costco weakness, and PayPal/Nvidia/AMD leadership make the tape green but still stress-sensitive.
 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — All four major indexes are green and the S&P 500 sits near its 52-week high, but high long rates, WTI strength, TSM/Netflix/Costco weakness, and PayPal rumor-driven leadership keep the read stress-sensitive.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — The evening close is mixed: Dow is barely green and S&P nearly flat, but Nasdaq **-1.24%**, Russell **-0.60%**, AMD **-8.37%**, and TSM **-6.23%** make the tape stress-sensitive rather than clean risk-on.
 
 ## Related Concepts
 

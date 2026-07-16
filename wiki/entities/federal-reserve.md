@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-16
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr]
-source_count: 56
+source_count: 57
 ---
 
 # Federal Reserve
@@ -115,6 +115,8 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — EFFR closes at **3.63%** inside the **3.50%–3.75%** target range while long rates, mortgages, crude, and gas prices keep transmission pressure visible.
 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — EFFR is **3.63%** inside the **3.50%–3.75%** target range while the 30-year Treasury at **5.083%** and mortgage quotes near **6.62%** keep transmission restrictive.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — EFFR stays at 3.63% inside the 3.50%–3.75% target range while long rates and mortgages remain the market constraint.
 
 ## Related
 

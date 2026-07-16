@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 35
+source_count: 36
 ---
 
 # Iran
@@ -79,6 +79,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Additional U.S. strike and infrastructure-threat headlines keep Iran tied to WTI crude's **12.10%** jump and energy-market stress.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The Arabian Sea tanker action after a reimposed blockade keeps Iran tied to maritime escalation, crude oil at **+12.37%**, and gasoline-price risk.
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — A fifth straight night of U.S. strikes keeps Iran in the escalation/oil-risk frame, though WTI rises less than in the prior double-digit crude prints.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Tommaso Ciampa
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-07-16T03:20:14Z
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Tommaso Ciampa (Blackheart)
@@ -35,6 +35,8 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/tommaso-ciampa.md)
+
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Tommaso Ciampa appears in AEW All In 2026 rumor/tease coverage.
 
 ## Related
 
