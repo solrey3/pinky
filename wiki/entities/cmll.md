@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
-source_count: 46
+source_count: 47
 ---
 
 # CMLL
@@ -99,6 +99,8 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — CMLL remains in the Arena México/Sábados de Coliseo calendar and discussion-thread feed.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — CMLL appears through Arena México dates and Martes de Arena México results coverage.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — CMLL remains on the Arena México calendar and Grand Prix participant-update headline.
 
 ## Related
 

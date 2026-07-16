@@ -3,9 +3,9 @@ id: bb401f4f-67ee-4edd-bbf2-789f05d90068
 title: Press Freedom
 type: concept
 created: 2026-07-13
-updated: 2026-07-14
+updated: 2026-07-16
 tags: [first-amendment, journalism, censorship, courts, civil-liberties, media]
-source_count: 2
+source_count: 3
 ---
 
 # Press Freedom
@@ -17,6 +17,8 @@ The legal and civic protection of reporting, publication, and news gathering fro
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — A New Jersey judge's restriction on high-school-lockdown coverage is treated as a First Amendment censorship fight.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — A New Jersey judge's censorship of high-school-lockdown coverage is treated as a First Amendment press-freedom fight.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The New York Times moves to quash subpoenas tied to Air Force One coverage, extending the court/press-access accountability thread.
 
 ## Related Concepts
 

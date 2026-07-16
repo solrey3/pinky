@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-13
+updated: 2026-07-16
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 27
+source_count: 28
 ---
 
 # Donald Trump
@@ -64,6 +64,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Trump appears through NewsNation coverage of the Iran war's rising cost and uncertainty over its endpoint.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Trump is central to the evening lead through headlines that the U.S. will strike Iran hard, tying presidential rhetoric to Gulf escalation and crude risk.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The administration appears in both public-history and press-freedom context: replacing a Washington slavery exhibit and subpoena pressure around Air Force One coverage.
 
 ## Related
 

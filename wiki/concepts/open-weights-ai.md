@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 12
+source_count: 13
 ---
 
 # Open-Weights AI
@@ -35,6 +35,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — GLM 5.2 margin-collapse discussion keeps open/low-cost model economics in the same thread as operator control and inference-cost pressure.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Thinking Machines Lab introduces Inkling as an open-weights model, extending the operator-control thread around inspectable/local model deployment.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Inkling appears as an open-weights model from Thinking Machines Lab, extending the operator-control and local-deployment thread.
 
 ## Related Concepts
 

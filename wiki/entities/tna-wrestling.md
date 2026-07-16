@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 43
+source_count: 44
 ---
 
 # TNA Wrestling
@@ -94,6 +94,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — TNA stays in the Thursday iMPACT!/events-tracking slot.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — TNA remains in the wrestling calendar through Thursday iMPACT! on AXS/TNA+.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — TNA iMPACT! remains on the July 16 calendar, with Scott D’Amore's exit/buyout timeline in the headlines.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [person, wrestling]
-source_count: 9
+source_count: 10
 ---
 
 # Will Ospreay
@@ -48,6 +48,8 @@ source_count: 9
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Will Ospreay vs. Swerve Strickland remains in the 5.5-star Forbidden Door reference set.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Will Ospreay remains in the Meltzer ratings archive via the 5.5-star Forbidden Door match against Swerve Strickland.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Ospreay appears through r/SquaredCircle Wembley chatter and the Forbidden Door five-star match table.
 
 ## Related
 

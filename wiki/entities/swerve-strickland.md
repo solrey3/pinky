@@ -4,9 +4,9 @@ title: Swerve Strickland
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [person, wrestling, aew, owen-hart-tournament]
-source_count: 8
+source_count: 9
 ---
 
 # Swerve Strickland
@@ -49,6 +49,8 @@ source_count: 8
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Swerve Strickland remains tied to the Will Ospreay 5.5-star Forbidden Door match.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Swerve Strickland remains in the Meltzer ratings archive via the 5.5-star Forbidden Door match against Will Ospreay.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Swerve appears in the Forbidden Door five-star match table opposite Will Ospreay.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 61d06d6b-bc1d-4cf5-85a5-1bffd022d972
 title: Digital Media Consolidation
 type: concept
 created: 2026-07-01
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 4
+source_count: 5
 ---
 
 # Digital Media Consolidation
@@ -21,6 +21,8 @@ Digital media consolidation is the concentration of content ownership, distribut
 - [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Plex's five-year membership pass adds a pricing/subscription signal to the streaming and self-hosted media platform thread.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The twelve-state antitrust suit against the Paramount–Warner Bros. merger turns media consolidation into live litigation rather than only regulatory speculation.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The twelve-state antitrust suit against the Paramount–Warner Bros. merger keeps media consolidation in active litigation.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: Hiroshi Tanahashi
 type: entity
 entity_type: person
 created: 2026-07-13
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [wrestling, njpw]
-source_count: 5
+source_count: 6
 ---
 
 # Hiroshi Tanahashi
@@ -24,6 +24,8 @@ Japanese professional wrestler and NJPW icon.
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Tanahashi vs. Kazuchika Okada remains the 6-star Wrestle Kingdom 20 reference point.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Hiroshi Tanahashi remains in the Meltzer ratings archive via the 6-star Wrestle Kingdom 20 match against Kazuchika Okada.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Tanahashi remains tied to the six-star Wrestle Kingdom 20 match against Kazuchika Okada.
 
 ## Related
 

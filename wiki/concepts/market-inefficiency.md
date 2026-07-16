@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 77
+source_count: 78
 ---
 
 # Market Inefficiency
@@ -134,6 +134,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Polymarket provides only an England/Argentina snapshot and Kalshi is unavailable, showing prediction-market signal gaps.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Prediction-market coverage is incomplete again: Polymarket has World Cup discussion without verified price movement, and Kalshi is unavailable.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — PayPal's acquisition-rumor surge and incomplete Polymarket/Kalshi extraction show why price and prediction signals need provenance checks.
 
 ## Related Concepts
 

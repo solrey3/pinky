@@ -4,9 +4,9 @@ title: Microsoft
 type: entity
 entity_type: organization
 created: 2026-06-02
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 20
+source_count: 21
 ---
 
 # Microsoft
@@ -69,6 +69,8 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Microsoft's 2025 emissions rise **25%** as AI data centers expand, making it the edition's clearest AI energy-demand example.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — A record Microsoft patch release appears alongside a same-day Windows 0-day, reinforcing patch volume as necessary but not sufficient security work.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — A Windows 0-day arrives alongside a record 570 security patches, underscoring patch discipline and attack-surface management.
 
 ## Related
 

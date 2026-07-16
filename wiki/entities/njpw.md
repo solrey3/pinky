@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-07-15
+updated: 2026-07-16
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 60
+source_count: 61
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -146,6 +146,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — NJPW coverage includes Shota Umino concussion/G1 Climax absence and ongoing calendar tracking.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — NJPW appears through Shota Umino withdrawing from the G1 Climax due to concussion and the continuing calendar feed.
+
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — NJPW remains in the tour-card calendar and five-star ratings context through Wrestle Kingdom and Forbidden Door references.
 
 ## Related
 
