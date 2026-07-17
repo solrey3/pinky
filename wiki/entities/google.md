@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-15
+updated: 2026-07-17
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 19
+source_count: 20
 ---
 
 # Google
@@ -39,6 +39,8 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — EU appeal loss on the Android antitrust fine repeats the mobile-platform bundling and default-search governance story.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Google appears through Pixel 11 teaser chatter and the Google/Epic app-store settlement path toward third-party Android app stores.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — NotebookLM is rebranded as Gemini Notebook, keeping Google's AI story in the personal-knowledge and research-workflow lane.
 
 ## Related
 

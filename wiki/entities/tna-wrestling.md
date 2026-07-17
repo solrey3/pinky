@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 45
+source_count: 46
 ---
 
 # TNA Wrestling
@@ -98,6 +98,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — TNA iMPACT! remains on the July 16 calendar, with Scott D’Amore's exit/buyout timeline in the headlines.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — TNA remains active through iMPACT! scheduling, reported roster releases, and Mike Santana roster-page movement.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — TNA iMPACT coverage centers on an X-Division title bout and Cedric Alexander defending against Fabian Aichner.
 
 ## Related
 

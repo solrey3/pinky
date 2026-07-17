@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 14
+source_count: 15
 ---
 
 # Open-Weights AI
@@ -39,6 +39,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Inkling appears as an open-weights model from Thinking Machines Lab, extending the operator-control and local-deployment thread.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent model release thread.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent release thread beyond the prior evening's entry.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 53
+source_count: 54
 ---
 
 # WWE
@@ -110,6 +110,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — WWE Raw and SmackDown remain on the calendar while WWE-adjacent EVOLVE headlines include Harlem Lewis winning the championship.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — WWE calendar items continue, with SmackDown upcoming and Worlds Collide announced head-to-head with AEW All Out.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — WWE calendar coverage lists Raw, SmackDown, PLE/live-event verification, and a live-event result headlined by CM Punk vs. Gunther.
 
 ## Related
 

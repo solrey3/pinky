@@ -3,9 +3,9 @@ id: 2b7532a5-db8e-4f8a-b2ac-6688d7690c48
 title: Semiconductor Scaling
 type: concept
 created: 2026-06-23
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 33
+source_count: 34
 ---
 
 # Semiconductor Scaling
@@ -76,6 +76,8 @@ Semiconductor scaling is the continued improvement of chip density, performance,
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Nvidia and AMD rally while TSM falls, keeping AI-hardware leadership uneven rather than uniformly risk-on.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Nvidia strength against AMD and TSM weakness keeps AI-hardware leadership uneven and foundry/chip exposure split.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Nvidia strength against sharp AMD and TSM declines keeps the AI-hardware/foundry leadership picture split rather than uniformly risk-on.
 
 ## Related Concepts
 

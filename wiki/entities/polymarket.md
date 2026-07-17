@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 8
+source_count: 9
 ---
 
 # Polymarket
@@ -30,6 +30,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The World Cup Golden Boot market snippet was fetched, but no clean notable mover was extracted.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Polymarket returns Starship Flight Test 13 probabilities — booster explosion at 84% and successful splashdown at 77% — making launch reliability a traded probability.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Polymarket extraction produces no usable prices or movers, reverting from the prior Starship-probability signal to a data-quality caveat.
 
 ## Related
 

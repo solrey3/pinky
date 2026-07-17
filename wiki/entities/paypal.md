@@ -4,9 +4,9 @@ title: PayPal
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [finance, payments, fintech, markets]
-source_count: 10
+source_count: 11
 ---
 
 # PayPal
@@ -34,6 +34,8 @@ PayPal is tracked as a payments and fintech-market entity when it appears in sto
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — PayPal surges **24.68%** after a Reuters-sourced item says Stripe and Advent made a joint acquisition offer.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — PayPal jumps 25.18%, remaining the standout single-name major move after the daytime acquisition-speculation frame.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — PayPal jumps **25.18%**, again the standout major move after acquisition-speculation entered the prior dispatches.
 
 ## Related
 

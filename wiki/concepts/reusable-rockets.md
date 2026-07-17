@@ -3,9 +3,9 @@ id: ead09783-c768-4d80-9909-abe078302a30
 title: Reusable Rockets
 type: concept
 created: 2026-07-12
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [space, launch, rockets, infrastructure, china, competition]
-source_count: 5
+source_count: 6
 ---
 
 # Reusable Rockets
@@ -23,6 +23,8 @@ Reusable rockets are launch systems designed to recover and fly major vehicle co
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — SpaceX Starship 13th-test-flight preparation keeps reusable-launch cadence and reliability engineering in the source graph.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Polymarket Starship Flight Test 13 probabilities make booster failure and splashdown reliability explicit prediction-market variables.
+
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — SpaceX scrubs a Starship launch after some engines fail to start, turning reusable-launch cadence into an explicit engine-reliability and abort-procedure issue.
 
 ## Related Concepts
 
