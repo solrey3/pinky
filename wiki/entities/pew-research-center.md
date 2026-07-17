@@ -4,9 +4,9 @@ title: Pew Research Center
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [research, polling, public-opinion, social-media, children, internet-policy]
-source_count: 6
+source_count: 7
 ---
 
 # Pew Research Center
@@ -26,6 +26,8 @@ Pew Research Center is a nonpartisan research organization known for public-opin
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Pew reports that people in many countries now view China more positively than the United States, making global favorability a soft-power signal.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — A Pew item on how Americans engage with news, politics, religion, and civic life appears in the around-the-web feed.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Pew reports majorities of Americans say key financial milestones are harder for today's young adults, adding a household-finance/public-opinion data point.
 
 ## Related
 

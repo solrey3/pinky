@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-17
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 56
+source_count: 57
 ---
 
 # AEW
@@ -117,6 +117,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — AEW remains in the calendar and newswire through Dynamite/Collision dates, All Out counterprogramming context, and talent injury/storyline notes.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — AEW calendar and Collision-spoiler coverage continue, with Sami Callihan also appearing in the AEW-adjacent feed.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — AEW coverage includes a Redemption tag-title match addition, Collision spoilers, Mercedes Moné, and ongoing calendar verification.
 
 ## Related
 

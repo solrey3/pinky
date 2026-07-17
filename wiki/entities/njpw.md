@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-07-17
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 63
+source_count: 64
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -152,6 +152,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — NJPW remains a tour-card/calendar verification node.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — NJPW remains in the tour-card/calendar portion of the wrestling schedule watch.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — NJPW remains on the tour-card calendar and appears through Will Ospreay reflecting on leaving for AEW.
 
 ## Related
 

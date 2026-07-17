@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-17
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 15
+source_count: 16
 ---
 
 # Open-Weights AI
@@ -41,6 +41,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent model release thread.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent release thread beyond the prior evening's entry.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Kimi K3 and pelican-benchmark discussion keep open/open-adjacent frontier-model evaluation in the daily AI desk.
 
 ## Related Concepts
 

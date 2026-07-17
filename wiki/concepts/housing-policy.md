@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-12
 updated: 2026-07-17
 tags: [housing, affordability, mortgages, public-policy, congress, rates]
-source_count: 3
+source_count: 4
 ---
 
 # Housing Policy
@@ -19,6 +19,8 @@ Housing policy covers public interventions around housing supply, affordability,
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Illinois home-equity reform connects property-rights doctrine to state housing/forfeiture policy and the protection of homeowner equity.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — A **6.62%** 30-year mortgage quote keeps housing affordability tied to the rate ceiling in the daily macro board.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — A **6.62%** mortgage quote and pipeline takings litigation keep housing, land ownership, and infrastructure-cost allocation tied to the rates board.
 
 ## Related Concepts
 

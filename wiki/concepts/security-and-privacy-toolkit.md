@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-17
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 81
+source_count: 82
 ---
 
 # Security & Privacy Toolkit
@@ -140,6 +140,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — GoDaddy/MediaTemple DNS shutdown chatter and Microsoft Comic Chat open-sourcing keep platform maintenance, legacy infrastructure, and operational provenance in the feed.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — The Shark vacuum RCE item extends the consumer-IoT vulnerability thread into household devices with remote-code-execution exposure.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — OpenWrt pre-auth remote-root coverage and Pi-hole discovery of noisy device traffic extend the local-network security and observability thread.
 
 ## Related Concepts
 

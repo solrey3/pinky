@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [technology, e-commerce, cloud, markets, amzn]
-source_count: 10
+source_count: 11
 ---
 
 # Amazon
@@ -34,6 +34,8 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Amazon gains **4.65%**, adding large-cap growth strength to the green index tape.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Amazon gains 1.15%, one of the large-cap positives in a mixed close.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Amazon gains **0.77%**, a modest large-cap resilience signal while Nasdaq sells off.
 
 ## Related
 

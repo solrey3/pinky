@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-12
+updated: 2026-07-17
 tags: [person, wrestling]
-source_count: 14
+source_count: 15
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -54,6 +54,8 @@ source_count: 14
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Cody Rhodes is booked against CM Punk for SummerSlam, keeping him in WWE main-event continuity.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Cody vs. Punk at SummerSlam remains an active WWE storyline note.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Cody Rhodes is listed for the July 17 WWE SmackDown appearance slot alongside CM Punk.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-16
+updated: 2026-07-17
 tags: [person, wrestling]
-source_count: 11
+source_count: 12
 ---
 
 # Will Ospreay
@@ -52,6 +52,8 @@ source_count: 11
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Ospreay appears through r/SquaredCircle Wembley chatter and the Forbidden Door five-star match table.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Will Ospreay remains in the match-ratings table through the Forbidden Door bout with Swerve Strickland.
+
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Ospreay elaborates on leaving NJPW for AEW, adding a career-movement note to the cross-promotional graph.
 
 ## Related
 
