@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 55
+source_count: 56
 ---
 
 # WWE
@@ -114,6 +114,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — WWE calendar coverage lists Raw, SmackDown, PLE/live-event verification, and a live-event result headlined by CM Punk vs. Gunther.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — WWE remains on the weekend calendar; Cody Rhodes, CM Punk, and Big Cass drive the promotion-specific headlines.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — WWE anchors the wrestling feed through SmackDown results, SummerSlam interim women's title planning, and SNME title-stipulation setup.
 
 ## Related
 

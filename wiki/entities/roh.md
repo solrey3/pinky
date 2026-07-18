@@ -4,9 +4,9 @@ title: ROH
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings]
-source_count: 44
+source_count: 45
 ---
 
 # ROH
@@ -100,6 +100,8 @@ Ring of Honor, a professional wrestling promotion historically associated with w
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — ROH remains on the weekly calendar via HonorClub while AEW/ROH coverage shares the Collision-spoiler lane.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — ROH remains on the weekly HonorClub calendar under the AEW/ROH shared promotion-watch frame.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — ROH remains tied to AEW channels and appears through former owner Cary Silkin attending a WWE live event.
 
 ## Related
 

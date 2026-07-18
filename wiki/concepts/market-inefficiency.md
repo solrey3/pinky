@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 81
+source_count: 82
 ---
 
 # Market Inefficiency
@@ -142,6 +142,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — PayPal's **+25.18%** move and unavailable Polymarket/Kalshi extraction make provenance and data-quality checks central to interpreting market signals.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — PayPal's **22.11%** surge and partial Polymarket/failed Kalshi extraction make single-name and prediction-market provenance more important than raw moves.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — PayPal's **22.11%** jump, Polymarket prices without movement data, and Kalshi unavailability make provenance and liquidity caveats more important than raw headline moves.
 
 ## Related Concepts
 

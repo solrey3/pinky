@@ -3,9 +3,9 @@ id: 61d06d6b-bc1d-4cf5-85a5-1bffd022d972
 title: Digital Media Consolidation
 type: concept
 created: 2026-07-01
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 6
+source_count: 7
 ---
 
 # Digital Media Consolidation
@@ -25,6 +25,8 @@ Digital media consolidation is the concentration of content ownership, distribut
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The twelve-state antitrust suit against the Paramount–Warner Bros. merger keeps media consolidation in active litigation.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — FCC gift-taking from Paramount while approvals were pending adds an ethics/regulatory-capture dimension to media-consolidation oversight.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The FCC/Paramount gift story extends the media-consolidation thread from deal structure into approval-process ethics.
 
 ## Related Concepts
 

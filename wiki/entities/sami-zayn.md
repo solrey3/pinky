@@ -4,9 +4,9 @@ title: Sami Zayn
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-11
+updated: 2026-07-18
 tags: [person, wrestling, wwe, night-of-champions, world-champion]
-source_count: 12
+source_count: 13
 ---
 
 # Sami Zayn
@@ -53,6 +53,8 @@ source_count: 12
 - [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Sami Zayn is named as the Raw title loser when CM Punk returns and takes the Undisputed championship, shifting his title-reign thread into aftermath.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Sami Zayn is advertised alongside Gunther against CM Punk and Cody Rhodes at Saturday Night’s Main Event.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Sami Zayn can be added to the SummerSlam Undisputed WWE Championship match if he and Gunther beat Cody Rhodes and CM Punk at SNME.
 
 ## Related
 

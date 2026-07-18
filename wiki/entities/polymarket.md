@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 10
+source_count: 11
 ---
 
 # Polymarket
@@ -34,6 +34,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Polymarket extraction produces no usable prices or movers, reverting from the prior Starship-probability signal to a data-quality caveat.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Polymarket shows Spain at 60¢ and Argentina at 41¢ in a World Cup market, but without verified movement data or richer provenance.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Polymarket supplies World Cup prices for Spain, Argentina, France, and England but lacks usable movement data, limiting interpretation.
 
 ## Related
 

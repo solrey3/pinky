@@ -4,9 +4,9 @@ title: Rhea Ripley
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-12
+updated: 2026-07-18
 tags: [wrestling, wwe, injury, womens-wrestling, sports-entertainment]
-source_count: 2
+source_count: 3
 ---
 
 # Rhea Ripley
@@ -17,6 +17,8 @@ Rhea Ripley is a WWE wrestler tracked when major injury, title, and television-s
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Ripley reveals a meniscus tear, making her return timeline uncertain in the WWE injury thread.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Ripley's meniscus tear remains in the WWE injury thread, with her return timeline still uncertain.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Rhea Ripley is not cleared for SummerSlam, forcing WWE to crown an interim Women's Champion.
 
 ## Related
 

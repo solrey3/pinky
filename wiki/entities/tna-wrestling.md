@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 47
+source_count: 48
 ---
 
 # TNA Wrestling
@@ -102,6 +102,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — TNA iMPACT coverage centers on an X-Division title bout and Cedric Alexander defending against Fabian Aichner.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — TNA appears through a history feature and the recurring iMPACT/event-calendar lane.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — TNA stays in the calendar through iMPACT!/TNA+ scheduling and a historical Post Wrestling feature.
 
 ## Related
 

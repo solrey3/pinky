@@ -4,9 +4,9 @@ title: Netflix
 type: entity
 entity_type: organization
 created: 2026-06-26
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 24
+source_count: 25
 ---
 
 # Netflix
@@ -59,6 +59,8 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Netflix falls 1.48%, continuing the uneven large-cap growth tape.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Netflix falls **6.02%**, joining the high-beta/growth weakness in the evening tape.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Netflix falls **6.02%**, reinforcing that the risk-off move extends beyond chips into selected growth/media names.
 
 ## Related
 

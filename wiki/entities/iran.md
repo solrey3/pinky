@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 37
+source_count: 38
 ---
 
 # Iran
@@ -83,6 +83,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — A fifth straight night of U.S. strikes keeps Iran in the escalation/oil-risk frame, though WTI rises less than in the prior double-digit crude prints.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — U.S. military strikes against Iran continue for a seventh consecutive day, keeping the conflict in the active geopolitical and oil-risk frame.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — IRGC-claimed attacks on a U.S. military airbase in Jordan and U.S. strikes on Iranian bridges/energy sites keep Iran in the active escalation and oil-risk frame.
 
 ## Related
 

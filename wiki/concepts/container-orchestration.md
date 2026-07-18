@@ -3,9 +3,9 @@ id: "019e1b12-d1a1-7ea1-ff02-ab7f7a8b9c41"
 title: "Container Orchestration"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-03
+updated: 2026-07-18
 tags: [containers, kubernetes, docker, devops, infrastructure]
-source_count: 6
+source_count: 7
 ---
 
 # Container Orchestration
@@ -22,6 +22,8 @@ The automated deployment, scaling, and management of containerized applications.
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Podman v6.0.0 updates the container runtime/tooling layer adjacent to orchestration, especially for rootless and daemonless operator workflows.
 
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Podman v6.0.0 keeps container runtime/tooling maintenance in the operator stack, adjacent to orchestration workflows.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The managed-Kubernetes cost complaint frames orchestration not just as a technical abstraction but as a financial and operational-control tradeoff.
 
 ## Related Concepts
 

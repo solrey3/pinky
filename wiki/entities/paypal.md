@@ -4,9 +4,9 @@ title: PayPal
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [finance, payments, fintech, markets]
-source_count: 12
+source_count: 13
 ---
 
 # PayPal
@@ -38,6 +38,8 @@ PayPal is tracked as a payments and fintech-market entity when it appears in sto
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — PayPal jumps **25.18%**, again the standout major move after acquisition-speculation entered the prior dispatches.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — PayPal jumps **22.11%**, remaining the idiosyncratic upside outlier while broader tech sells off.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — PayPal surges **22.11%**, remaining the idiosyncratic positive outlier against AMD/Nasdaq weakness.
 
 ## Related
 

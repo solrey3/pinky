@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-13
+updated: 2026-07-18
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 19
+source_count: 20
 ---
 
 # OpenAI
@@ -52,6 +52,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Apple trade-secret allegations keep OpenAI tied to frontier-model capability, legal exposure, and provenance of model-building know-how.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — OpenAI is the defendant in Apple's trade-secret complaint, keeping provenance and employee/tool boundaries in the AI-liability graph.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Feed items note renewed copyright litigation and a Codex Micro keypad story, keeping OpenAI tied to AI-output provenance and developer-tool commercialization.
 
 ## Related
 

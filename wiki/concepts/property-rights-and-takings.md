@@ -3,9 +3,9 @@ id: a98cf4eb-606f-4a4d-ba4c-4d62a32dbb63
 title: Property Rights and Takings
 type: concept
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [law, property-rights, eminent-domain, takings, supreme-court, infrastructure]
-source_count: 1
+source_count: 2
 ---
 
 # Property Rights and Takings
@@ -15,6 +15,8 @@ Property rights and takings doctrine covers when government or state-authorized 
 ## Sources
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Reason's pipeline land-seizure item frames a Supreme Court-facing dispute over land seizure and a $383,000 bill as a takings/cost-allocation problem.
+
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The pipeline-company land-seizure case keeps eminent-domain litigation costs and owner remedies pointed toward Supreme Court review.
 
 ## Related Concepts
 
