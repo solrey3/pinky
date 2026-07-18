@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-18
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 56
+source_count: 57
 ---
 
 # WWE
@@ -116,6 +116,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — WWE remains on the weekend calendar; Cody Rhodes, CM Punk, and Big Cass drive the promotion-specific headlines.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — WWE anchors the wrestling feed through SmackDown results, SummerSlam interim women's title planning, and SNME title-stipulation setup.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — WWE stays on the calendar through Raw/SmackDown/SNME/SummerSlam chatter and AJ Styles/CM Punk items.
 
 ## Related
 

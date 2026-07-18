@@ -3,9 +3,9 @@ id: 35f3a760-677d-4dc3-9016-5f611d87e165
 title: AI Model Capability Extraction
 type: concept
 created: 2026-06-25
-updated: 2026-07-11
+updated: 2026-07-18
 tags: [ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance]
-source_count: 5
+source_count: 6
 ---
 
 # AI Model Capability Extraction
@@ -23,6 +23,7 @@ AI model capability extraction is the attempt to copy, distill, infer, or reprod
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — The Apple/OpenAI trade-secret headline extends capability-protection concerns from model-output cloning to alleged transfer of proprietary AI development know-how.
 
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Alleged trade-secret movement from Apple to OpenAI functions as a human/legal analogue to capability extraction and provenance risk.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The GPT-5.6 convex-optimization claim frames prompt-driven mathematical progress as a capability-extraction and verification problem.
 
 ## Related Concepts
 

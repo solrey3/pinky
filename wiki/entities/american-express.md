@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-18
 tags: [finance, credit-cards, consumer-credit, markets]
-source_count: 12
+source_count: 13
 ---
 
 # American Express
@@ -38,6 +38,7 @@ American Express is tracked as a consumer-credit and financial-services market i
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — American Express rises **1.36%**, one of the financial/quality pockets offsetting tech weakness.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — American Express rises **1.36%**, keeping selected financial/consumer-credit exposure resilient while tech sells off.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — American Express rises 1.36%, a resilient financial-stock pocket in the selloff.
 
 ## Related
 

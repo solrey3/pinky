@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-18
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 30
+source_count: 31
 ---
 
 # New Jersey Devils
@@ -73,6 +73,7 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — The Devils' 2026-27 regular-season schedule remains in the sports wire as a continuity item.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The Devils remain in the sports calendar through schedule items, including the Oct. 1 home opener against the Flyers.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The Devils appear through Brylin/Dinamo Minsk news and the 2026–27 schedule reveal.
 
 ## Related
 

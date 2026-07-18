@@ -4,9 +4,9 @@ title: Steve Maclin
 type: entity
 entity_type: person
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-07-18
 tags: [person, wrestling, tna, free-agent]
-source_count: 1
+source_count: 2
 ---
 
 # Steve Maclin
@@ -16,6 +16,7 @@ American professional wrestler best known in this wiki through his TNA Wrestling
 ## Sources
 
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — TNA granted Maclin's release **effective immediately**, making him a talent-movement item to monitor.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Maclin says he would love to work in ROH, linking TNA personnel to the AEW/ROH ecosystem.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-18
 tags: [person, wrestling]
-source_count: 13
+source_count: 14
 ---
 
 # Will Ospreay
@@ -56,6 +56,7 @@ source_count: 13
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Ospreay elaborates on leaving NJPW for AEW, adding a career-movement note to the cross-promotional graph.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Will Ospreay remains in the Meltzer 5-star table through the Forbidden Door match with Swerve Strickland.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Ospreay remains in the Forbidden Door 5.5-star table with Swerve Strickland.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Connor Bedard
 type: entity
 entity_type: person
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-18
 tags: [nhl, hockey, chicago-blackhawks, injury, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Connor Bedard
@@ -16,6 +16,7 @@ Connor Bedard is tracked as an NHL player whose injury status affects the league
 ## Sources
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — ESPN reports Bedard will miss the start of the season after shoulder surgery.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Bedard reportedly agrees to a five-year, $75M Blackhawks deal, a major NHL personnel note.
 
 ## Related
 

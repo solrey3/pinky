@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-18
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 14
+source_count: 15
 ---
 
 # CM Punk
@@ -57,6 +57,7 @@ source_count: 14
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — CM Punk is listed for the July 17 WWE SmackDown appearance slot alongside Cody Rhodes.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — CM Punk is part of the SNME tag stipulation and appears separately in r/SquaredCircle discussion about post-WrestleMania grief.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Punk appears through a feed item saying he took time off after WrestleMania to grieve.
 
 ## Related
 

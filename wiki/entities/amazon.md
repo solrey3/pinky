@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-18
 tags: [technology, e-commerce, cloud, markets, amzn]
-source_count: 12
+source_count: 13
 ---
 
 # Amazon
@@ -38,6 +38,7 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Amazon gains **0.77%**, a modest large-cap resilience signal while Nasdaq sells off.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Amazon rises **0.77%**, a resilient mega-cap pocket inside an otherwise red growth and tech tape.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Amazon rises 0.77%, acting as a calmer megacap counterpoint inside a red tech tape.
 
 ## Related
 

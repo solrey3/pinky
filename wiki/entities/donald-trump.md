@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-17
+updated: 2026-07-18
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 31
+source_count: 32
 ---
 
 # Donald Trump
@@ -72,6 +72,7 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — The election-focused speech and revived public-charge rule keep Trump tied to election administration and financial gatekeeping in immigration policy.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Trump threatens tariffs against Canada over wildfire smoke, turning air-quality harm into a trade-policy escalation claim.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Trump appears through Canada wildfire tariff threats and renewed Iran diplomacy/conflict rhetoric.
 
 ## Related
 

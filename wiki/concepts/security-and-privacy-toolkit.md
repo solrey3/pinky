@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-18
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 83
+source_count: 84
 ---
 
 # Security & Privacy Toolkit
@@ -144,6 +144,7 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — OpenWrt pre-auth remote-root coverage and Pi-hole discovery of noisy device traffic extend the local-network security and observability thread.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — WordPress pre-auth RCE discussion, nix-android/GrapheneOS device management, and broader security feed items keep vulnerability handling and mobile privacy in the operator graph.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — LG software delivery through Windows Update and Grafana OnCall EOL chatter extend the toolkit from vulnerability triage to vendor-channel trust and lifecycle management.
 
 ## Related Concepts
 

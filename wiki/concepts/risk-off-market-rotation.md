@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-18
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 79
+source_count: 80
 ---
 
 # Risk-Off Market Rotation
@@ -141,6 +141,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, Nvidia **-3.86%**, Netflix/Tesla weakness, and resilient dividend/value/REIT/retail/logistics pockets make the close tech-led risk-off rather than broad liquidation.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The dispatch confirms a tech-led risk-off structure: S&P 500 **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal and value/dividend/REIT/retail/logistics resilience.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The evening close confirms tech-led risk-off: Nasdaq/semis/Tesla/Netflix are weak while PayPal, dividend/value/REIT, retail, and UPS hold up.
 
 ## Related Concepts
 
