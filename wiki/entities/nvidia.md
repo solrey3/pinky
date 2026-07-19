@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers]
-source_count: 62
+source_count: 63
 ---
 
 # Nvidia
@@ -125,6 +125,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Nvidia falls **3.86%**, participating in the semiconductor-led risk-off read rather than offsetting it.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Nvidia falls 3.86%, joining the semiconductor-led risk-off signal.
+
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Nvidia falls **3.86%**, confirming that even the AI bellwether participates in the semiconductors-led risk-off move.
 
 ## Related
 

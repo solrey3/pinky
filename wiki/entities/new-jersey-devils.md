@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 31
+source_count: 32
 ---
 
 # New Jersey Devils
@@ -74,6 +74,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The Devils remain in the sports calendar through schedule items, including the Oct. 1 home opener against the Flyers.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The Devils appear through Brylin/Dinamo Minsk news and the 2026–27 schedule reveal.
+
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Devils notes include Sergei Brylin becoming Dinamo Minsk head coach and the 2026-27 regular-season schedule reveal, adding offseason continuity.
 
 ## Related
 

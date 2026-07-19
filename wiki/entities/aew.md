@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 59
+source_count: 60
 ---
 
 # AEW
@@ -122,6 +122,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — AEW remains in the calendar and ratings thread through Dynamite viewership near 800,000 and Collision/Dynamite schedule notes.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — AEW appears through Dynamite/Collision scheduling, Tony Khan/Bryan Danielson commentary talk, Sammy Guevara absence, and Meltzer-rated matches.
+
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — AEW appears through Dynamite/Collision schedule notes, Collision results, and the MJF vs. Kenny Omega 5.5-star ratings-table entry.
 
 ## Related
 

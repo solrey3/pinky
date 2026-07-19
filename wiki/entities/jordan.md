@@ -4,9 +4,9 @@ title: Jordan
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [jordan, middle-east, military, geopolitics, united-states, iran]
-source_count: 1
+source_count: 2
 ---
 
 # Jordan
@@ -16,6 +16,8 @@ Jordan is tracked in the newsletter graph as a Middle East security and basing n
 ## Sources
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — IRGC-claimed attacks on a U.S. military airbase in Jordan make the country a direct location anchor for the Iran escalation thread.
+
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Reported U.S. service-member deaths in Jordan make the country the casualty and basing anchor for the latest Iran-retaliation cycle.
 
 ## Related
 
