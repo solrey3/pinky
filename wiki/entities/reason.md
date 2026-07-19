@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-19
 tags: [media, libertarian, policy, economics]
-source_count: 1
+source_count: 2
 ---
 
 # Reason
@@ -16,6 +16,8 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 ## Sources
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — A Reason item contrasts public preference for “free market” language with the more loaded label “capitalism.”
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Reason warns that calling cartels "narcoterrorists" can convert drug enforcement into war-making logic.
 
 ## Related
 

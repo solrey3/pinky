@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-17
 updated: 2026-07-19
 tags: [public-health, food-safety, supply-chain, outbreaks, recalls]
-source_count: 3
+source_count: 4
 ---
 
 # Foodborne Outbreaks
@@ -19,6 +19,8 @@ Foodborne outbreaks are illness clusters tied to contaminated food products, sou
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Taylor Farms removing all central-Mexico iceberg lettuce extends the cyclospora outbreak thread from illness surveillance to sourcing and recall execution.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Taylor Farms expands the lettuce recall to 27 states, turning the outbreak thread into a wider recall-scope and consumer-notification problem.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — FDA-linked lettuce/cyclospora reporting extends the recurring produce-contamination and recall-execution thread.
 
 ## Related Concepts
 

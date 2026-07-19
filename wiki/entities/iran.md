@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-07-19
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 40
+source_count: 41
 ---
 
 # Iran
@@ -88,6 +88,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Reported U.S. troop deaths in Jordan and Khamenei/Trump rhetoric keep Iran in the active conflict and oil-risk frame.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — U.S. retaliatory-strike reporting after soldiers are reported killed in Jordan keeps Iran tied to military escalation, oil sensitivity, and casualty-claim provenance.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Iran remains tied to the top-story risk file through the drone-detonation casualty report and wider conflict/energy-market context.
 
 ## Related
 

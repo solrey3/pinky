@@ -4,9 +4,9 @@ title: U.S. Department of State
 type: entity
 entity_type: organization
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-07-19
 tags: [government, foreign-policy, immigration, visas, united-states]
-source_count: 1
+source_count: 2
 ---
 
 # U.S. Department of State
@@ -16,6 +16,8 @@ The U.S. Department of State is the federal department responsible for diplomacy
 ## Sources
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The State Department issues a warning to Americans living and traveling abroad, making consular-risk communication the lead headline.
 
 ## Related
 

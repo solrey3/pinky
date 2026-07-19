@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 15
+source_count: 16
 ---
 
 # CM Punk
@@ -58,6 +58,8 @@ source_count: 15
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — CM Punk is part of the SNME tag stipulation and appears separately in r/SquaredCircle discussion about post-WrestleMania grief.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Punk appears through a feed item saying he took time off after WrestleMania to grieve.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — A SquaredCircle post about why CM Punk quit Twitter keeps him in the wrestling culture feed.
 
 ## Related
 

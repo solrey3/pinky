@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-19
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 33
+source_count: 34
 ---
 
 # Cloud & Infrastructure
@@ -68,6 +68,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Space Development Agency delays and Grafana OnCall EOL discussion connect infrastructure promises to delivery cadence and lifecycle discipline.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Space Development Agency delay coverage and local speech-to-text tools frame infrastructure as delivery cadence, deployment locality, and operational control.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Space Development Agency delay coverage frames defense satellite deployment as delivery-cadence and procurement accountability.
 
 ## Related Concepts
 

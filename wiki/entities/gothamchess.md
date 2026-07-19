@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-19
 tags: [youtube, chess, creator, media]
-source_count: 1
+source_count: 2
 ---
 
 # GothamChess
@@ -16,6 +16,8 @@ GothamChess is a chess media/YouTube creator brand tracked when chess content ap
 ## Sources
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — A past-24-hours YouTube item points to “From 400 to 2200: Chess Speedrun.”
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — GothamChess appears in the YouTube feed with concern about Gukesh, preserving chess/creator continuity.
 
 ## Related
 

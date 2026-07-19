@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-27
 updated: 2026-07-19
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 67
+source_count: 68
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -159,6 +159,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — NJPW appears through G1 Climax 36 Night 2 results and the recurring calendar.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — NJPW appears through G1 Climax 36 results, with Yuya Uemura defeating Zack Sabre Jr., while Tanahashi vs. Okada remains the six-star benchmark.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — NJPW appears through the schedule table and G1 Climax 36 Night 3 results.
 
 ## Related
 

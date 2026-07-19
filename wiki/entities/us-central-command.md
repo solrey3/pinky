@@ -4,9 +4,9 @@ title: U.S. Central Command
 type: entity
 entity_type: organization
 created: 2026-07-13
-updated: 2026-07-15
+updated: 2026-07-19
 tags: [military, united-states, centcom, iran, security]
-source_count: 4
+source_count: 5
 ---
 
 # U.S. Central Command
@@ -22,6 +22,8 @@ U.S. Central Command is the U.S. combatant command tracked here when Middle East
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Additional strike reporting keeps CENTCOM central to the Iran escalation and oil-risk thread.
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Arabian Sea tanker action after a reimposed Iran blockade extends the CENTCOM/Iran escalation thread into maritime interdiction and energy-risk interpretation.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — CENTCOM reports a U.S. service member killed in Iraq during a controlled detonation of an Iran drone, keeping military provenance central.
 
 ## Related
 

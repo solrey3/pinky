@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-07-19
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 15
+source_count: 16
 ---
 
 # Tadej Pogacar
@@ -43,6 +43,8 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Pogačar wins Tour de France Stage 14 and leads the general classification.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Pogačar wins Stage 14 and leads the Tour de France general classification by **4'30''**, strengthening his control of the race narrative.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Pogacar leads the Tour de France general classification after Stage 15.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: U.S. Food and Drug Administration
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-08
+updated: 2026-07-19
 tags: [government, public-health, regulation, fda, nicotine, tobacco, gene-therapy, united-states]
-source_count: 3
+source_count: 4
 ---
 
 # U.S. Food and Drug Administration
@@ -20,6 +20,8 @@ The U.S. Food and Drug Administration regulates drugs, medical devices, food saf
 - [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Zyn/FDA coverage persists, reinforcing comparative-risk labeling as an ongoing tobacco-product regulation issue.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — FDA approval of pediatric sickle-cell gene therapy adds a public-health/regulatory milestone beside earlier nicotine and vaccine threads.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — FDA-linked lettuce testing identifies cyclospora, extending the produce-outbreak and recall-execution thread.
 
 ## Related
 

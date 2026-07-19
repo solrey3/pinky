@@ -4,9 +4,9 @@ title: Gunther (WALTER)
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [person, wrestling]
-source_count: 8
+source_count: 9
 ---
 
 # Gunther (WALTER)
@@ -45,6 +45,8 @@ source_count: 8
 - [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Gunther is advertised alongside Sami Zayn against CM Punk and Cody Rhodes at Saturday Night’s Main Event.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Gunther can be added to the SummerSlam Undisputed WWE Championship match if he and Sami Zayn beat Cody Rhodes and CM Punk at SNME.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Gunther is tied to the WWE headline making a Nick Aldis match official after a SummerSlam Kickoff altercation.
 
 ## Related
 

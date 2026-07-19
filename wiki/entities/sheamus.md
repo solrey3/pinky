@@ -4,9 +4,9 @@ title: Sheamus
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-06
+updated: 2026-07-19
 tags: [person, wrestling, wwe, return, injury]
-source_count: 4
+source_count: 5
 ---
 
 # Sheamus
@@ -40,6 +40,8 @@ source_count: 4
 - [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Reportedly set to leave WWE after rejecting a restructured contract extension, shifting the Sheamus node from return-watch to free-agency/exit-watch.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — A fresh report says Sheamus will exit WWE after rejecting a restructured extension, repeating the contract-break state change.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Sheamus is reported still under WWE contract but approaching October 1 free agency.
 
 ## Related
 

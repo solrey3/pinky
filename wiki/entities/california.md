@@ -4,9 +4,9 @@ title: California
 type: entity
 entity_type: place
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-07-19
 tags: [california, state, regulation, consumer-protection, food-labels, united-states]
-source_count: 1
+source_count: 2
 ---
 
 # California
@@ -16,6 +16,8 @@ California is a U.S. state that often functions as a large-market policy setter.
 ## Sources
 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Bans confusing “sell by” food labels, making date-label standardization a consumer-information and food-waste policy issue.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The nudify-app enforcement item links San Francisco action to California privacy and civil-code context.
 
 ## Related
 

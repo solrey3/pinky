@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-19
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 13
+source_count: 14
 ---
 
 # Polymarket
@@ -39,6 +39,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Polymarket fetches but produces no clean notable mover, keeping extraction quality as the issue.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Polymarket surfaces Spain/Argentina and Gen.G/T1 contract prices, but no clean mover data is fetched, preserving the provenance caveat.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Polymarket shows Spain at 93% and Argentina at 7% in the World Cup final snapshot.
 
 ## Related
 

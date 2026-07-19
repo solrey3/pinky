@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 17
+source_count: 18
 ---
 
 # Open-Weights AI
@@ -45,6 +45,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Kimi K3 and pelican-benchmark discussion keep open/open-adjacent frontier-model evaluation in the daily AI desk.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Kimi K3 and the pelican-benchmark discussion keep model-evaluation evidence, open/open-adjacent releases, and benchmark limits in view.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Qwen 3.8 keeps Alibaba's model family in the open/local AI ecosystem that matters for practical developer workflows.
 
 ## Related Concepts
 

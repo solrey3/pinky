@@ -4,9 +4,9 @@ title: Berkshire Hathaway
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-18
+updated: 2026-07-19
 tags: [finance, insurance, conglomerate, markets, brk-b]
-source_count: 13
+source_count: 14
 ---
 
 # Berkshire Hathaway
@@ -39,6 +39,8 @@ Berkshire Hathaway is tracked as a diversified value and insurance-market bellwe
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Berkshire Hathaway is nearly flat at **-0.57%**, preserving the quality/value counterweight in the risk-off board.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Berkshire is only slightly lower, keeping quality/value exposure steadier than high-beta tech.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Berkshire is nearly flat, a quality/defensive reference point inside the selective tape.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-19
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 85
+source_count: 86
 ---
 
 # Security & Privacy Toolkit
@@ -147,6 +147,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — LG software delivery through Windows Update and Grafana OnCall EOL chatter extend the toolkit from vulnerability triage to vendor-channel trust and lifecycle management.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — A public exploit for `wp2shell`/CVE-2026-63030 shows how feed monitoring becomes patch prioritization and exposure triage.
+
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — San Francisco's Apple/Google nudify-app removal order expands the security/privacy frame from vulnerabilities to synthetic-media abuse and platform enforcement.
 
 ## Related Concepts
 
