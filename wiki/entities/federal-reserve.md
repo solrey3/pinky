@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-20
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr]
-source_count: 64
+source_count: 65
 ---
 
 # Federal Reserve
@@ -130,6 +130,8 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range, keeping monetary policy as the ceiling over the risk-off market read.
 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range, keeping monetary policy as the rate ceiling over the market board.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while long rates stay restrictive.
 
 ## Related
 

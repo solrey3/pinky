@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-20
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 15
+source_count: 16
 ---
 
 # Polymarket
@@ -43,6 +43,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Polymarket shows Spain at 93% and Argentina at 7% in the World Cup final snapshot.
 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Surfaces LeBron James next-team probabilities, with Cleveland, Golden State, and Philadelphia as listed outcomes.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Polymarket text was fetched, but no usable prices or clear movers were available.
 
 ## Related
 

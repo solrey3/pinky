@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-23
 updated: 2026-07-20
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 40
+source_count: 41
 ---
 
 # Semiconductor Scaling
@@ -89,6 +89,8 @@ Semiconductor scaling is the continued improvement of chip density, performance,
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — AMD, TSM, and Nvidia weakness makes AI-chip exposure the clearest market stress signal in the evening brief.
 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — AMD, TSM, and Nvidia sell off together, making AI-chip exposure the clearest technology-market stress signal in the dispatch.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — TSM -4.57%, AMD -5.77%, and Nvidia slightly negative keep AI-chip/foundry exposure as a major market stress signal.
 
 ## Related Concepts
 

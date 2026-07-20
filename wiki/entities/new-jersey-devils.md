@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-20
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 34
+source_count: 35
 ---
 
 # New Jersey Devils
@@ -80,6 +80,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The Devils schedule note keeps the hockey calendar active in the daily sports continuity layer.
 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Devils notes include Sergei Brylin being named Dinamo Minsk head coach and the 2026–27 regular-season schedule release.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Devils updates include Matias Vanhanen, Sergei Brylin/Dinamo Minsk, and the 2026–27 schedule.
 
 ## Related
 

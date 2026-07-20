@@ -4,9 +4,9 @@ title: Tony Khan
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-18
+updated: 2026-07-20
 tags: [wrestling, aew, promoter, television, sports-entertainment]
-source_count: 2
+source_count: 3
 ---
 
 # Tony Khan
@@ -17,6 +17,8 @@ Tony Khan is AEW's promoter/booker figure, tracked where AEW strategy, televisio
 
 - [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Khan appears through coverage arguing that his AEW strategy is paying off in Dynamite/Collision ratings and major-match presentation.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Khan says he would like Bryan Danielson on AEW commentary regularly if Danielson were not physically beat up.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Khan praises Steven Borden as a future wrestler.
 
 ## Related
 

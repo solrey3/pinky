@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-09
 updated: 2026-07-20
 tags: [nhl, hockey, chicago-blackhawks, injury, sports]
-source_count: 4
+source_count: 5
 ---
 
 # Connor Bedard
@@ -21,6 +21,8 @@ Connor Bedard is tracked as an NHL player whose injury status affects the league
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Bedard is reported as agreeing to a five-year, $75M Blackhawks deal, making him the lead NHL contract item.
 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — The dispatch repeats coverage of Bedard's five-year, $75M deal, keeping the hockey contract thread active.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Bedard hopes to see a Chicago reunion with Patrick Kane.
 
 ## Related
 

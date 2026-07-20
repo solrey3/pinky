@@ -4,9 +4,9 @@ title: Penta
 type: entity
 entity_type: person
 created: 2026-06-08
-updated: 2026-07-14
+updated: 2026-07-20
 tags: [person, wrestling, wwe, lucha-libre, intercontinental-title]
-source_count: 2
+source_count: 3
 ---
 
 # Penta
@@ -18,6 +18,8 @@ Mexican professional wrestler associated with lucha libre style and masked prese
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Defeated Rey Mysterio and retained the WWE Men's Intercontinental Title on Raw.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Penta is positioned as Chad Gable's SummerSlam Intercontinental-title opponent after the Raw gauntlet result.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Penta is set to team with Chad Gable on Raw.
 
 ## Related
 

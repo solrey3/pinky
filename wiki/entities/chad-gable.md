@@ -4,9 +4,9 @@ title: Chad Gable
 type: entity
 entity_type: person
 created: 2026-06-05
-updated: 2026-07-14
+updated: 2026-07-20
 tags: [wrestling, wwe, smackdown, raw, chad-gable, el-grande-americano, lucha-libre, king-of-the-ring, redemption-arc, person]
-source_count: 5
+source_count: 6
 ---
 
 # Chad Gable
@@ -43,6 +43,8 @@ The June 14 and June 15 dispatches keep Gable in the active weekly WWE feed by a
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Monday morning wrestling feed again lists Gable's Raw comeback match against Rusev.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Chad Gable wins the Raw IC-title gauntlet and is set to challenge Penta at SummerSlam.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Gable is set to team with Penta on Raw.
 
 ## Related
 

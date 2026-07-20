@@ -4,9 +4,9 @@ title: New York
 type: entity
 entity_type: place
 created: 2026-07-14
-updated: 2026-07-15
+updated: 2026-07-20
 tags: [new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states]
-source_count: 3
+source_count: 4
 ---
 
 # New York
@@ -21,6 +21,8 @@ New York is tracked in the newsletter graph as a state-level policy and infrastr
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — The data-center ban remains the state-level brake on AI infrastructure growth and power/permitting capacity.
 
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — A man is arrested after setting off an explosive outside a New York federal building.
 
 ## Related
 

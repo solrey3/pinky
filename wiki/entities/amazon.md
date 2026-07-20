@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [technology, e-commerce, cloud, markets, amzn]
-source_count: 14
+source_count: 15
 ---
 
 # Amazon
@@ -41,6 +41,8 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Amazon rises 0.77%, acting as a calmer megacap counterpoint inside a red tech tape.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Amazon is a relative bright spot in megacap watch, up 0.77% while broader tech sells off.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Amazon gains 1.08%, one of the few large tech positives in the stock-watch table.
 
 ## Related
 

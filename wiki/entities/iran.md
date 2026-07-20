@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-07-20
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 42
+source_count: 43
 ---
 
 # Iran
@@ -92,6 +92,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Iran remains tied to the top-story risk file through the drone-detonation casualty report and wider conflict/energy-market context.
 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — U.S. strike reporting again makes Iran the central foreign-policy risk item in the daily news stack.
+
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Iran remains the conflict anchor through resumed-strike casualty reporting and two U.S. troops killed in Jordan.
 
 ## Related
 
