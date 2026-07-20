@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 69
+source_count: 70
 ---
 
 # AI-Augmented Development
@@ -127,6 +127,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Transcribe.cpp and Moonshine micro speech recognition/TTS extend local AI tooling into audio workflows and maker-board-scale experimentation.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Claude Code's Bun/Rust runtime item turns coding-agent implementation details into performance, trust, and operator-workflow evidence.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — The WordPress RCE reportedly found with GPT-5.6 and Claude Code's Bun/Rust runtime item both treat AI developer tooling as practical leverage with trust and security surfaces.
 
 ## Related Concepts
 

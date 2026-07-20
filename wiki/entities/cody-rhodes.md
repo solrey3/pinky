@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-18
+updated: 2026-07-20
 tags: [person, wrestling]
-source_count: 16
+source_count: 17
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -58,6 +58,8 @@ source_count: 16
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Cody Rhodes is listed for the July 17 WWE SmackDown appearance slot alongside CM Punk.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Cody Rhodes is part of the SNME tag stipulation that could expand the SummerSlam Undisputed WWE Championship match.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Cody Rhodes appears through CM Punk's paranoia/backstab promo framing.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 50
+source_count: 51
 ---
 
 # TNA Wrestling
@@ -107,6 +107,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — TNA appears through iMPACT scheduling and Jeff Jarrett discussion of Dark Side of the Ring planning.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — TNA remains in the weekly iMPACT!/TNA+ schedule table.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — TNA remains in the weekly wrestling calendar through iMPACT! and event-page verification.
 
 ## Related
 

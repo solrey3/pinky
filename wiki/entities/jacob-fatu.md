@@ -4,9 +4,9 @@ title: Jacob Fatu
 type: entity
 entity_type: person
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-07-20
 tags: [person, wrestling, wwe, bloodline, tribal-combat, acknowledgment]
-source_count: 2
+source_count: 3
 ---
 
 # Jacob Fatu
@@ -31,6 +31,8 @@ Member of the Anoa'i wrestling family — one of the most storied lineages in th
 
 - [2026-06-01: Evening Brief — June 1, 2026](sources/newsletter-2026-06-01-evening.md) — **Raw (June 1, live TV):** Jacob Fatu officially acknowledges Roman Reigns on camera. The Tribal Combat stipulation from Clash in Italy is fulfilled. The Bloodline civil war is closed on the main roster, in front of a live audience. No ambiguity remains in the hierarchy.
 - [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](sources/newsletter-2026-06-01.md) — Jacob Fatu loses Tribal Combat to Roman Reigns and must acknowledge him. Result confirmed from Clash in Italy, Turin.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Jacob Fatu vs. LA Knight is announced for WWE Raw, adding to the weekly match-card setup.
 
 ## Related
 

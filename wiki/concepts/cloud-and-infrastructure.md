@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 34
+source_count: 35
 ---
 
 # Cloud & Infrastructure
@@ -70,6 +70,8 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Space Development Agency delay coverage and local speech-to-text tools frame infrastructure as delivery cadence, deployment locality, and operational control.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Space Development Agency delay coverage frames defense satellite deployment as delivery-cadence and procurement accountability.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — India's private rocket debut, moon-base competition, and Google-backed wildfire-detection satellites extend infrastructure analysis into launch cadence, orbital sensing, and public-safety systems.
 
 ## Related Concepts
 

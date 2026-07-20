@@ -3,9 +3,9 @@ id: "019e1b12-a1e2-7ca5-f018-7e4f7a8b9c2f"
 title: "Political Realism"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-15
+updated: 2026-07-20
 tags: [politics, philosophy, power, statecraft, ethics]
-source_count: 4
+source_count: 5
 ---
 
 # Political Realism
@@ -19,6 +19,8 @@ The view that politics operates under different ethical constraints than private
 - [2026-05-10: The Aeneid — Wisdom Extracted](sources/the-aeneid.md) — Aeneas's killing of Turnus reveals the moral cost of founding states
 
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Israel-aid dissent, Arabian Sea tanker action, and Pew China/U.S. favorability data all mark statecraft as a contest over hard power, alliances, and legitimacy.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Iran/Iraq strike reporting and the Reason narcoterrorist-language critique show how security framing can expand coercive state action and blur enforcement with war-making.
 
 ## Related Concepts
 

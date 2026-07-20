@@ -4,9 +4,9 @@ title: Costco
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [retail, consumer-staples, warehouse-club, markets]
-source_count: 14
+source_count: 15
 ---
 
 # Costco
@@ -41,6 +41,8 @@ Costco is tracked as a defensive/consumer-staples retail bellwether.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Costco gains 2.69%, preserving the defensive/quality consumer pocket.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Costco gains 2.69%, keeping consumer-quality resilience in the market read.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Costco gains 2.69%, keeping consumer/quality retail on the resilient side of the board.
 
 ## Related
 

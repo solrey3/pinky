@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 16
+source_count: 17
 ---
 
 # CM Punk
@@ -60,6 +60,8 @@ source_count: 16
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Punk appears through a feed item saying he took time off after WrestleMania to grieve.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — A SquaredCircle post about why CM Punk quit Twitter keeps him in the wrestling culture feed.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — CM Punk says Cody Rhodes is paranoid he will stab him in the back, continuing the WWE character-conflict thread.
 
 ## Related
 

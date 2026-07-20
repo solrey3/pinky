@@ -4,9 +4,9 @@ title: Seth Rollins
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-14
+updated: 2026-07-20
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 7
+source_count: 8
 ---
 
 # Seth Rollins
@@ -46,6 +46,8 @@ source_count: 7
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Seth Rollins is the target of Roman Reigns' SummerSlam storyline quote in the WWE headline stack.
 
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Seth Rollins is announced to open WWE Raw, anchoring the Monday TV build.
 
 ## Related
 

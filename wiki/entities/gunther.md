@@ -4,9 +4,9 @@ title: Gunther (WALTER)
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-19
+updated: 2026-07-20
 tags: [person, wrestling]
-source_count: 9
+source_count: 10
 ---
 
 # Gunther (WALTER)
@@ -47,6 +47,8 @@ source_count: 9
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Gunther can be added to the SummerSlam Undisputed WWE Championship match if he and Sami Zayn beat Cody Rhodes and CM Punk at SNME.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Gunther is tied to the WWE headline making a Nick Aldis match official after a SummerSlam Kickoff altercation.
+
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Gunther vs. Nick Aldis is made official after a SummerSlam kickoff altercation.
 
 ## Related
 
