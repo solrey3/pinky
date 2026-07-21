@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [person, wrestling]
-source_count: 16
+source_count: 17
 ---
 
 # Will Ospreay
@@ -61,6 +61,7 @@ source_count: 16
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Will Ospreay remains attached to the 5-star-plus Forbidden Door match with Swerve Strickland.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Ospreay vs. Swerve Strickland remains a 5.5-star Forbidden Door ratings-table entry.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Ospreay appears through an AEW/NJPW pandemic-era IWGP title reflection and the Forbidden Door five-star match table.
 
 ## Related
 

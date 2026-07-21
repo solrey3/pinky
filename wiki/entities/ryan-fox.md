@@ -4,9 +4,9 @@ title: Ryan Fox
 type: entity
 entity_type: person
 created: 2026-07-19
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [golf, the-open, pga, champion]
-source_count: 3
+source_count: 4
 ---
 
 # Ryan Fox
@@ -20,6 +20,7 @@ Ryan Fox is a professional golfer tracked when major-tournament leaderboard resu
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Ryan Fox wins The Open at -10, one shot ahead of Cameron Young.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Fox wins The Open at -10, giving golf the evening’s completed major result.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Ryan Fox remains in the golf desk as still soaking in The Open win.
 
 ## Related
 

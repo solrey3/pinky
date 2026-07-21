@@ -4,9 +4,9 @@ title: Paramount
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-07-18
+updated: 2026-07-21
 tags: [media, entertainment, streaming, merger, consolidation, regulation]
-source_count: 5
+source_count: 6
 ---
 
 # Paramount
@@ -24,6 +24,7 @@ Paramount is a major media and entertainment company. In this wiki, it is tracke
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Paramount appears in an FCC ethics story about pricey gifts while approvals were pending, extending the media-regulation thread beyond antitrust.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Paramount appears as the regulated media company whose gifts to FCC officials raise approval-process and capture concerns.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — A judge halts Paramount's proposed Warner Bros. purchase, keeping the company in media-consolidation antitrust scrutiny.
 
 ## Related
 

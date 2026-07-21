@@ -4,9 +4,9 @@ title: Pew Research Center
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-07-18
+updated: 2026-07-21
 tags: [research, polling, public-opinion, social-media, children, internet-policy]
-source_count: 8
+source_count: 9
 ---
 
 # Pew Research Center
@@ -30,6 +30,7 @@ Pew Research Center is a nonpartisan research organization known for public-opin
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Pew reports majorities of Americans say key financial milestones are harder for today's young adults, adding a household-finance/public-opinion data point.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Pew coverage on young-adult financial milestones adds a household-affordability and generational-economics signal to the feed.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Pew Research appears in the around-the-web feed with a chart-based piece on changing global energy production.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 84
+source_count: 85
 ---
 
 # Risk-Off Market Rotation
@@ -150,6 +150,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Monday daytime repeats the tech-led risk-off structure: S&P **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal, REITs, dividend/value, retail, and logistics strength.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The evening close is red but selective: S&P -0.96%, Dow -1.26%, Nasdaq -1.41%, Russell -0.36%, AMD/TSM/NFLX/TSLA weak, but PayPal +19.24% and VNQ/Target/Schwab resilient.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Major indexes are red and semiconductors/high-beta tech weaken, but PayPal, VNQ, SCHD, VBR, Target, and Costco keep the move selective rather than liquidating.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: Makati
 type: entity
 entity_type: place
 created: 2026-07-19
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [philippines, metro-manila, weather]
-source_count: 4
+source_count: 5
 ---
 
 # Makati
@@ -22,6 +22,7 @@ Makati is a Metro Manila city used in the newsletter as the Philippines weather 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Partly cloudy, humid conditions and partial weather-data gaps keep Makati as the international local-weather counterpoint.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Warm, partly cloudy conditions and low rain chances keep Makati as the Philippines weather counterpart.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Weather data is unavailable for Makati, making feed reliability rather than forecast content the local-weather note.
 
 ## Related
 

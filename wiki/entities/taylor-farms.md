@@ -4,9 +4,9 @@ title: Taylor Farms
 type: entity
 entity_type: organization
 created: 2026-07-17
-updated: 2026-07-19
+updated: 2026-07-21
 tags: [food, public-health, produce, lettuce, outbreak, supply-chain]
-source_count: 3
+source_count: 4
 ---
 
 # Taylor Farms
@@ -20,6 +20,7 @@ Taylor Farms is a produce and fresh-food supplier. In the newsletter graph, it m
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Taylor Farms expands the lettuce-sourcing thread by removing all iceberg lettuce sourced from central Mexico amid cyclospora outbreak concern.
 
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Taylor Farms expands its lettuce recall to 27 states, extending the produce-sourcing, recall-scope, and consumer-risk provenance thread.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The Taco Bell/cyclospora lawsuit keeps Taylor Farms tied to the lettuce/public-health supply-chain provenance thread.
 
 ## Related
 

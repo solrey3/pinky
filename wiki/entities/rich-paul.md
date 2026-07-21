@@ -4,9 +4,9 @@ title: Rich Paul
 type: entity
 entity_type: person
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-21
 tags: [basketball, nba, agent, lebron-james, sports-business]
-source_count: 1
+source_count: 2
 ---
 
 # Rich Paul
@@ -16,6 +16,7 @@ Rich Paul is tracked as an NBA agent and sports-business figure, especially wher
 ## Sources
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — ESPN reports teams are sending recruiting voice notes to LeBron James via Rich Paul.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Rich Paul publicly says there is no rush on LeBron James' decision, making him the agent/communications node for the LeBron free-agency thread.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 63
+source_count: 64
 ---
 
 # Monetary Policy Forward Guidance
@@ -129,6 +129,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — EFFR at **3.63%**, the **3.50%–3.75%** target range, a **5.064%** 30-year Treasury, a **6.61%** mortgage quote, and $4+ gasoline keep the rate/household-cost ceiling visible.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while the 30-year Treasury rises to 5.118% and mortgages stay at 6.61%.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — EFFR at 3.63%, a 5.118% 30-year Treasury, 6.63% mortgage quote, elevated gas, FX, and WTI at $83.09 define the rate/household-cost constraint set.
 
 ## Related Concepts
 

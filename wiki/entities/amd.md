@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 64
+source_count: 65
 ---
 
 # AMD
@@ -131,6 +131,7 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — AMD falls 11.14%, again the loudest single-name semiconductor stress signal in the stock-watch table.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — AMD drops 5.77%, making it one of the loudest semiconductor weak spots in the evening tape.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — AMD falls 5.77%, reinforcing semiconductors as the weak technology center of the current risk-off board.
 
 ## Related
 
