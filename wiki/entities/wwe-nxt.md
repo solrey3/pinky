@@ -4,9 +4,9 @@ title: WWE NXT
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 28
+source_count: 29
 ---
 
 # WWE NXT
@@ -67,6 +67,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — NXT remains on the weekly TV schedule and appears through Ethan Page custom-championship coverage.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — NXT remains in the weekly TV calendar for July 21.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — NXT remains in the weekly wrestling TV calendar and preview feed.
 
 ## Related
 

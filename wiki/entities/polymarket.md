@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-21
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 17
+source_count: 18
 ---
 
 # Polymarket
@@ -46,6 +46,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Polymarket text was fetched, but no usable prices or clear movers were available.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Polymarket extraction returns only partial/noisy snippets, reinforcing prediction-market data quality as part of the signal.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Polymarket lists LeBron next-team odds led by Cleveland at 37%, but without enough metadata to treat as forecast-grade evidence.
 
 ## Related
 

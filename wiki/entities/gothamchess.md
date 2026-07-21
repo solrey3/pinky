@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-21
 tags: [youtube, chess, creator, media]
-source_count: 3
+source_count: 4
 ---
 
 # GothamChess
@@ -19,6 +19,8 @@ GothamChess is a chess media/YouTube creator brand tracked when chess content ap
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — GothamChess appears in the YouTube feed with concern about Gukesh, preserving chess/creator continuity.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — GothamChess appears in the 24-hour YouTube feed, preserving the personal feed-monitoring layer.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — GothamChess appears in the YouTube feed with a Tyler1 vs. Faker chess video.
 
 ## Related
 

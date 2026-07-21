@@ -4,9 +4,9 @@ title: Jeff Hardy
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-07-21
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Jeff Hardy
@@ -35,6 +35,8 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/jeff-hardy.md)
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Jeff Hardy is the TNA match counterpart in Nic Nemeth preview coverage.
 
 ## Related
 

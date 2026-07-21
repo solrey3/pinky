@@ -4,9 +4,9 @@ title: Jannik Sinner
 type: entity
 entity_type: person
 created: 2026-07-09
-updated: 2026-07-13
+updated: 2026-07-21
 tags: [tennis, atp, italy, grand-slam, wimbledon, sports]
-source_count: 9
+source_count: 10
 ---
 
 # Jannik Sinner
@@ -31,6 +31,8 @@ Jannik Sinner is tracked as an ATP tennis player in Grand Slam and Wimbledon sco
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Sinner's Wimbledon title is recorded as the tennis headline of the sports wire.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — ESPN coverage says Sinner's Wimbledon title turned around his year.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Sinner is listed among the US Open field headliners.
 
 ## Related
 

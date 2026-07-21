@@ -4,9 +4,9 @@ title: SCHD
 type: entity
 entity_type: product
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-07-21
 tags: [etf, dividend, markets, schwab, defensive]
-source_count: 1
+source_count: 2
 ---
 
 # SCHD
@@ -16,6 +16,8 @@ SCHD is tracked as a dividend ETF proxy in newsletter market tables.
 ## Sources
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — SCHD gains 0.58%, keeping dividend exposure resilient against the red-index close.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — SCHD rises 1.93%, keeping dividend exposure resilient against large-cap growth weakness.
 
 ## Related
 

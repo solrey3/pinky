@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-21
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 64
+source_count: 65
 ---
 
 # AEW
@@ -131,6 +131,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — AEW appears through Dynamite/Collision scheduling, Sami Callihan trial-basis reporting, Tony Khan praising Steven Borden, and the MJF/Omega rating.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — AEW appears through calendar coverage, Sami Callihan trial-basis reporting, and Meltzer 5-star match tracking.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — AEW coverage includes Bayley-interest chatter, Dynamite/Collision scheduling, and Tony Khan Double or Nothing remarks.
 
 ## Related
 

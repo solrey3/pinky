@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-21
 updated: 2026-07-21
 tags: [ai, sovereignty, open-weights, model-governance, infrastructure, national-strategy, access-control]
-source_count: 8
+source_count: 9
 ---
 
 # Sovereign AI
@@ -26,6 +26,8 @@ Sovereign AI is the idea that a country, region, institution, or other governing
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — DeepSeek's reported chip plans keep sovereign AI moving down-stack from model access into domestic silicon and export-control resilience.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The China/open-weights thread reinforces national AI autonomy: model access, local deployment, and ecosystem control become strategic infrastructure.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Gemini cybersecurity AI and Qwen-Image-3.0 keep strategic model capacity and jurisdictional/platform autonomy visible as national and industrial infrastructure.
 
 ## Related Concepts
 

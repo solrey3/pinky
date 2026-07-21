@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-21
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 62
+source_count: 63
 ---
 
 # WWE
@@ -126,6 +126,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — WWE is in the calendar through Raw/SmackDown and news that Chad Gable and Penta will team on Raw plus Tom Brady talks.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — WWE appears through the Raw/SmackDown calendar, Grant-McMahon arbitration, Danhausen SummerSlam item, and Raw women's-match criticism.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — WWE calendar and legal coverage include Raw/SmackDown scheduling and the Janel Grant/Vince McMahon/WWE arbitration move.
 
 ## Related
 

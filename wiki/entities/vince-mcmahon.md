@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-21
 updated: 2026-07-21
 tags: [wrestling, wwe, legal, governance]
-source_count: 1
+source_count: 2
 ---
 
 # Vince McMahon
@@ -16,6 +16,8 @@ WWE co-founder and wrestling executive tracked here through legal, governance, a
 ## Sources
 
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — WWE co-founder and wrestling executive tracked here through legal, governance, and arbitration coverage.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — McMahon appears in the Janel Grant/WWE arbitration item, keeping legal governance in the wrestling graph.
 
 ## Related
 

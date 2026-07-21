@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-21
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 89
+source_count: 90
 ---
 
 # Security & Privacy Toolkit
@@ -154,6 +154,8 @@ The layered defense system protecting this infrastructure: password management, 
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Romania’s land-registry wipe, a New York federal-building explosive incident, AliExpress enforcement, AT&T service litigation, and WTA gene testing all sit in operational-risk triage.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Ransomware response decisions, Linux-kernel CVE chatter, and OpenBSD WPA3 testing connect daily feeds to practical security triage.
+
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Model-evaluation security, private-land searches, civil forfeiture, and prediction-market scrape gaps all emphasize audit trails, access controls, and trusted records.
 
 ## Related Concepts
 
