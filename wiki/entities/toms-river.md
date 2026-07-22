@@ -4,9 +4,9 @@ title: Toms River
 type: entity
 entity_type: place
 created: 2026-07-19
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [new-jersey, shore, weather]
-source_count: 6
+source_count: 7
 ---
 
 # Toms River
@@ -25,6 +25,8 @@ Toms River is a Jersey Shore municipality used in the newsletter as the local we
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Weather data is unavailable for Toms River, making feed reliability rather than forecast content the local-weather note.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Weather check: partly cloudy, roughly 82–83°F, with a mild overnight low near 69°F and patchy-rain risk tomorrow.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Shore weather opens overcast around 71°F before a partly cloudy 85°F afternoon, keeping the local-read layer attached to markets and energy costs.
 
 ## Related
 

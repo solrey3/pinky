@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 65
+source_count: 66
 ---
 
 # AEW
@@ -133,6 +133,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — AEW appears through calendar coverage, Sami Callihan trial-basis reporting, and Meltzer 5-star match tracking.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — AEW coverage includes Bayley-interest chatter, Dynamite/Collision scheduling, and Tony Khan Double or Nothing remarks.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — AEW remains in the calendar through Dynamite/Collision and talent-news chatter, including Tay Melo release-request reporting.
 
 ## Related
 

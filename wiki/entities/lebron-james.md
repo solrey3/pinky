@@ -4,9 +4,9 @@ title: "LeBron James"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 16
+source_count: 17
 ---
 
 # LeBron James
@@ -45,6 +45,8 @@ NBA forward with one of the longest and most productive careers in league histor
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Rich Paul says there is no rush on LeBron James' decision, keeping his free-agency/prediction-market thread unresolved.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — LeBron next-team speculation remains active, with Polymarket showing Cleveland as the top listed destination at 37%.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Polymarket next-team odds and Miami Heat presser-link chatter keep LeBron in the sports/prediction-market rumor file.
 
 ## Related
 

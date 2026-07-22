@@ -4,9 +4,9 @@ title: U.S. Congress
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-17
+updated: 2026-07-22
 tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy]
-source_count: 6
+source_count: 7
 ---
 
 # U.S. Congress
@@ -26,6 +26,8 @@ The U.S. Congress is tracked in the newsletter graph when legislative timing, ov
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Senate Republicans blocking an attempt to end the Medicare AI prior-authorization pilot keeps Congress in the healthcare-automation and administrative-state oversight thread.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Reason coverage on Congress funding a Pentagon that cannot fully account for spending keeps congressional oversight and defense-budget accountability in view.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — The House passes a stopgap funding measure and rejects an amendment to block Ukraine security aid, extending fiscal and foreign-policy deadlines rather than resolving them.
 
 ## Related
 

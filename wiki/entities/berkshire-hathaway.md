@@ -4,9 +4,9 @@ title: Berkshire Hathaway
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [finance, insurance, conglomerate, markets, brk-b]
-source_count: 16
+source_count: 17
 ---
 
 # Berkshire Hathaway
@@ -45,6 +45,8 @@ Berkshire Hathaway is tracked as a diversified value and insurance-market bellwe
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Berkshire falls 1.13%, softening but still remaining near the high side of its yearly range.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Berkshire Hathaway is nearly flat at -0.29%, serving as a quality/defensive comparison against high-beta weakness.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Berkshire Hathaway slips 0.29%, a mild move relative to the broader split risk board.
 
 ## Related
 

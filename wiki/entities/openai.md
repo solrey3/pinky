@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 22
+source_count: 23
 ---
 
 # OpenAI
@@ -57,6 +57,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The GPT-5.6 convex-optimization claim keeps OpenAI attached to disputed AI mathematical capability and benchmark provenance.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — OpenAI and Hugging Face disclose a security incident during model evaluation, turning evaluation pipelines into a platform-trust boundary.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — OpenAI and Hugging Face remain the top AI item through a disclosed model-evaluation security incident, making eval infrastructure a platform-trust boundary.
 
 ## Related
 

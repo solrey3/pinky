@@ -3,9 +3,9 @@ id: 5ff9d159-4899-45de-a577-c78666bd6d33
 title: AI Output Liability
 type: concept
 created: 2026-06-10
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems]
-source_count: 18
+source_count: 19
 ---
 
 # AI Output Liability
@@ -43,6 +43,8 @@ AI output liability is the accountability problem created when generated answers
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The nudify-app enforcement item is a concrete synthetic-media harm case where platforms, developers, and regulators contest responsibility for AI outputs.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Anthropic's approved $1.5B copyright settlement keeps training provenance, author opt-outs, and settlement mechanics inside the AI liability frame.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Anthropic's approved $1.5B copyright settlement makes AI training provenance and copyright exposure financially material.
 
 ## Related Concepts
 

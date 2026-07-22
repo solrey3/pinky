@@ -3,9 +3,9 @@ id: 696a9c1f-7e23-4228-9285-e23cba5a16fd
 title: AI Evaluation Integrity
 type: concept
 created: 2026-07-08
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 4
+source_count: 5
 ---
 
 # AI Evaluation Integrity
@@ -21,6 +21,8 @@ AI evaluation integrity is the practice of making AI assessments, benchmarks, an
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — The GPT-5.6/Grok/Claude/Muse Spark app-building comparison shows model rankings depending on task selection, implementation criteria, and reproducible evaluation design.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The OpenAI/Hugging Face model-evaluation security incident makes eval harnesses, benchmark access, and disclosure channels part of AI trust infrastructure.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — The OpenAI/Hugging Face model-evaluation security incident keeps eval harnesses and disclosure channels inside the AI trust perimeter.
 
 ## Related Concepts
 

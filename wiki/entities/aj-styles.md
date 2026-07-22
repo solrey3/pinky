@@ -4,9 +4,9 @@ title: AJ Styles
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-18
+updated: 2026-07-22
 tags: [person, wrestling, wwe]
-source_count: 4
+source_count: 5
 ---
 
 # AJ Styles
@@ -43,6 +43,8 @@ source_count: 4
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Fightful headline: Styles sees a place for blood in wrestling but expects WWE's PG rating to remain.
 - [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Styles says wrestlers were more timid under Vince McMahon and are freer to ask questions now.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Styles comments on low SummerSlam ticket sales, adding a business/attendance note to the WWE thread.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — AJ Styles says “never say never” about wrestling again, keeping him in the retirement/return-rumor stream.
 
 ## Related
 

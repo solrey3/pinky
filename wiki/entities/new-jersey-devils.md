@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 37
+source_count: 38
 ---
 
 # New Jersey Devils
@@ -85,6 +85,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The Devils 2026-27 regular-season schedule is highlighted, continuing local NHL calendar tracking.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Devils coverage includes the 2026–27 regular-season schedule and Matias Vanhanen prospect profile.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — The Devils appear through 2026-27 schedule coverage and Matias Vanhanen prospect notes.
 
 ## Related
 

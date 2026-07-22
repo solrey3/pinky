@@ -4,9 +4,9 @@ title: "Stephen Curry"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-09
+updated: 2026-07-22
 tags: [basketball, nba, player, shooting, analytics, endorsement, li-ning]
-source_count: 3
+source_count: 4
 ---
 
 # Stephen Curry
@@ -23,6 +23,8 @@ On **June 2, 2026** (per r/sports), Curry signed with **Li-Ning** — a Chinese 
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Curry signs with Li-Ning after Under Armour split; significant endorsement shift with commercial and geopolitical undertones
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Curry acknowledges the appeal of playing with LeBron James, adding a player-voice signal to LeBron recruitment speculation.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Curry becomes the first active player with his own Hall of Fame exhibit, a legacy/recognition marker while still active.
 
 ## Related
 

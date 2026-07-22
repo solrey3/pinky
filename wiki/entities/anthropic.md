@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 27
+source_count: 28
 ---
 
 # Anthropic
@@ -92,6 +92,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — A reported $1M AI-safety super PAC donation by Anthropic's CEO moves the company's safety-governance story into explicit campaign-finance and political-influence territory.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The approved $1.5B copyright settlement makes Anthropic legal exposure financially concrete and keeps training-provenance risk in the AI governance graph.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Approval of Anthropic's $1.5B copyright settlement turns AI provenance and training/liability disputes into financially material governance.
 
 ## Related
 

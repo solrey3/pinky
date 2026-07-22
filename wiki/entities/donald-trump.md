@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 36
+source_count: 37
 ---
 
 # Donald Trump
@@ -80,6 +80,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Appears through the fresh 50% Canada tariff headline, extending the cost-of-living/trade-escalation thread while Iran pressure remains nearby.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Appears in electricity-price accountability and Canada/wildfire-blame headlines, keeping household energy and climate attribution in the political-risk file.
+
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Electricity-price coverage and broadcast-license threats keep Trump linked to household affordability politics and speech-pressure governance.
 
 ## Related
 
