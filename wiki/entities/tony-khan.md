@@ -4,9 +4,9 @@ title: Tony Khan
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [wrestling, aew, promoter, television, sports-entertainment]
-source_count: 4
+source_count: 5
 ---
 
 # Tony Khan
@@ -21,6 +21,8 @@ Tony Khan is AEW's promoter/booker figure, tracked where AEW strategy, televisio
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Khan praises Steven Borden as a future wrestler.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Tony Khan comments that Double or Nothing was AEW's biggest yet on HBO Max.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Tony Khan comments on WWE running Chicago the same day as All Out, turning wrestling scheduling into a counterprogramming story.
 
 ## Related
 

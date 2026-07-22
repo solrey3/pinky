@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-22
 tags: [technology, e-commerce, cloud, markets, amzn]
-source_count: 18
+source_count: 19
 ---
 
 # Amazon
@@ -48,6 +48,8 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Amazon is nearly flat at +0.02%, a muted megacap read inside the stock-watch board.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Amazon is nearly flat at +0.02%, a stabilizing megacap note inside a softer Nasdaq tape.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Amazon falls 3.97%, contributing to megacap pressure behind the Nasdaq-led decline.
 
 ## Related
 

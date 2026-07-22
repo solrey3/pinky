@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-22
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 19
+source_count: 20
 ---
 
 # Polymarket
@@ -50,6 +50,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Polymarket lists LeBron next-team odds led by Cleveland at 37%, but without enough metadata to treat as forecast-grade evidence.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Polymarket lists LeBron James next-team odds, useful as sports sentiment but still provenance-limited market metadata.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Polymarket shows LeBron James next-team odds led by Cleveland, Golden State, and Philadelphia, extending the sports-sentiment prediction-market thread.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: fa7ce80a-d3f8-4ea8-bd80-ec451337b546
 title: Online Age Verification
 type: concept
 created: 2026-06-29
-updated: 2026-07-15
+updated: 2026-07-22
 tags: [internet, identity, age-verification, privacy, children, regulation, access-control]
-source_count: 5
+source_count: 6
 ---
 
 # Online Age Verification
@@ -23,6 +23,8 @@ Online age verification is the policy and technical problem of determining wheth
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Pew's social-media-under-16 ban item repeats in the feeds, keeping child-safety policy tied to age gates, identity checks, and privacy tradeoffs.
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — EU consideration of a child social-media ban extends the age/access-control debate into platform eligibility rules.
 
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — France's under-15 social-media ban extends the European age-gating trend and raises the platform-access/privacy tradeoff again.
 
 ## Related Concepts
 

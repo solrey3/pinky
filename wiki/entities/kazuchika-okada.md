@@ -4,9 +4,9 @@ title: Kazuchika Okada
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [person, wrestling, njpw, wrestle-kingdom, meltzer]
-source_count: 16
+source_count: 17
 ---
 
 # Kazuchika Okada (The Rainmaker)
@@ -61,6 +61,8 @@ source_count: 16
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Okada’s Wrestle Kingdom 20 match with Tanahashi remains the 6-star table anchor.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Okada remains the top listed Meltzer-rating item via the Wrestle Kingdom 20 match with Hiroshi Tanahashi.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Kazuchika Okada remains in the Meltzer ratings table through the 6-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-07-22
 tags: [first-amendment, journalism, censorship, courts, civil-liberties, media]
-source_count: 4
+source_count: 5
 ---
 
 # Press Freedom
@@ -21,6 +21,8 @@ The legal and civic protection of reporting, publication, and news gathering fro
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The New York Times moves to quash subpoenas tied to Air Force One coverage, extending the court/press-access accountability thread.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Reason frames broadcast-license threats as speech-chilling pressure, extending press freedom beyond courts into regulatory intimidation.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Reason frames France’s under-15 social-media ban as part of a broader internet-freedom crackdown, keeping platform-access regulation in the civil-liberties graph.
 
 ## Related Concepts
 

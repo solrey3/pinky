@@ -4,9 +4,9 @@ title: Mick Foley
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-03
+updated: 2026-07-22
 tags: [person, wrestling, aew]
-source_count: 4
+source_count: 5
 ---
 
 # Mick Foley
@@ -46,6 +46,8 @@ As of **June 3, 2026**, the storyline continued: **MJF (Maxwell Jacob Friedman) 
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Foley on joining AEW: "Something Unique About Seeing the Owner So Obviously Happy" (Tony Khan reference). A credibility signal for AEW from one of wrestling's most beloved legends.
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Foley: "I think I have one last good match in me. All the stars would have to align." Confirms WWE departure was driven by Trump political connection. AEW Grand Slam Mexico (Aug 5, Arena México) is the obvious candidate event for any Foley appearance.
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — Foley still distancing from WWE over Trump ties; teasing one last match. **MJF replied with praise on Twitter** — a public endorsement from AEW's biggest homegrown star.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Mick Foley is expected to become more regular on AEW TV, adding a veteran-presence note to AEW programming.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-22
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 67
+source_count: 68
 ---
 
 # AMD
@@ -136,6 +136,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — AMD slips 0.68%, extending the recent chip/high-beta stress pattern though less sharply than prior sessions.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — AMD slips 0.68%, keeping semiconductor beta in the risk-off portion of the board.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — AMD gains 4.38% against a weak Nasdaq, preserving selective semiconductor strength inside the risk-off board.
 
 ## Related
 

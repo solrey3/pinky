@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-22
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy]
-source_count: 87
+source_count: 88
 ---
 
 # Risk-Off Market Rotation
@@ -155,6 +155,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The close remains red-but-selective: S&P -0.46%, Dow -0.54%, Nasdaq -1.03%, Russell +0.76%, with PayPal, SCHD, VBR, VNQ, retail, and UPS offsetting high-beta weakness.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Daytime tables stay selective risk-off: S&P/Dow/Nasdaq red, Russell green, oil sharply higher, PayPal/retail/logistics resilient, and high-beta tech weak.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Nasdaq closes -2.20% and megacaps sell off, but AMD/TSM, Bitcoin, oil, SCHD/VBR/VNQ, Ralph Lauren, Costco, and UPS keep the move selective rather than a uniform liquidation.
 
 ## Related Concepts
 

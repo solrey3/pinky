@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-22
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 91
+source_count: 92
 ---
 
 # Security & Privacy Toolkit
@@ -158,6 +158,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Model-evaluation security, private-land searches, civil forfeiture, and prediction-market scrape gaps all emphasize audit trails, access controls, and trusted records.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Model-evaluation security, Gemini cybersecurity AI, broadcast-license pressure, and blocked/failed prediction-market extraction all depend on auditable controls.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — AI sandboxing, Hugging Face production security, ICE body-camera gaps, drone approvals, and prediction-market extraction failures all depend on logging, audit trails, and access control.
 
 ## Related Concepts
 

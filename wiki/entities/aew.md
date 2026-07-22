@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-22
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 66
+source_count: 67
 ---
 
 # AEW
@@ -135,6 +135,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — AEW coverage includes Bayley-interest chatter, Dynamite/Collision scheduling, and Tony Khan Double or Nothing remarks.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — AEW remains in the calendar through Dynamite/Collision and talent-news chatter, including Tay Melo release-request reporting.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — AEW appears through Dynamite/Collision scheduling, Tony Khan comments about Chicago counterprogramming, and Mick Foley becoming more regular on AEW TV.
 
 ## Related
 

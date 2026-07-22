@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-22
 tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy]
-source_count: 7
+source_count: 8
 ---
 
 # U.S. Congress
@@ -28,6 +28,8 @@ The U.S. Congress is tracked in the newsletter graph when legislative timing, ov
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Reason coverage on Congress funding a Pentagon that cannot fully account for spending keeps congressional oversight and defense-budget accountability in view.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — The House passes a stopgap funding measure and rejects an amendment to block Ukraine security aid, extending fiscal and foreign-policy deadlines rather than resolving them.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Congress appears through House passage of the annual defense-policy bill and a GOP congressional stock-trading-ban bill.
 
 ## Related
 

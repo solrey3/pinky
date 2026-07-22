@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-07-22
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 37
+source_count: 38
 ---
 
 # Donald Trump
@@ -82,6 +82,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Appears in electricity-price accountability and Canada/wildfire-blame headlines, keeping household energy and climate attribution in the political-risk file.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Electricity-price coverage and broadcast-license threats keep Trump linked to household affordability politics and speech-pressure governance.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Trump is tied to reporting that his administration is considering military strikes on a Mali militant group, extending the executive-war-power thread.
 
 ## Related
 

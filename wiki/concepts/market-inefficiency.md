@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-22
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 90
+source_count: 91
 ---
 
 # Market Inefficiency
@@ -158,6 +158,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — PayPal's +17.90% move and Polymarket/Kalshi extraction limits make price/provenance discipline more useful than a naive efficient-market read.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — PayPal's 17.90% move, Polymarket LeBron odds, Kalshi's midterm hub, and a failed Kalshi extraction show useful but noisy market signals.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — The dispatch pairs sharp single-name moves, noisy LeBron prediction odds, and unavailable Kalshi data, reinforcing the need to distinguish tradable signal from feed noise.
 
 ## Related Concepts
 

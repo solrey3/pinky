@@ -4,9 +4,9 @@ title: U.S. Immigration and Customs Enforcement
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-14
+updated: 2026-07-22
 tags: [government, immigration, enforcement, ice, civil-liberties, united-states]
-source_count: 6
+source_count: 7
 ---
 
 # U.S. Immigration and Customs Enforcement
@@ -27,6 +27,8 @@ U.S. Immigration and Customs Enforcement (ICE) is tracked here where immigration
 
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — ICE pauses most traffic stops after a fatal Maine shooting, shifting the enforcement thread toward accountability and operational restraint.
 
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — ICE appears through questions about why all officers are not using body-worn cameras, reinforcing enforcement-auditability and evidence-capture concerns.
 
 ## Related
 

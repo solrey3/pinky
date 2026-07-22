@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-19
 updated: 2026-07-22
 tags: [philippines, metro-manila, weather]
-source_count: 7
+source_count: 8
 ---
 
 # Makati
@@ -27,6 +27,8 @@ Makati is a Metro Manila city used in the newsletter as the Philippines weather 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Weather check: clear and humid around 28°C/feels-like 34°C, with a mostly sunny next-day forecast.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Current conditions fail to load, but the fetched forecast shows a sunny 32°C day and patchy nearby rain Thursday, preserving data-availability as part of the weather signal.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Makati remains humid with patchy-rain risk, extending the Philippines weather-monitoring baseline.
 
 ## Related
 

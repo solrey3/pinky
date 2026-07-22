@@ -3,9 +3,9 @@ id: 0d0e40d3-69bb-4de1-ab05-cfb7ac0e9fef
 title: Regulatory Capture
 type: concept
 created: 2026-07-17
-updated: 2026-07-20
+updated: 2026-07-22
 tags: [governance, regulation, ethics, media, lobbying, oversight]
-source_count: 3
+source_count: 4
 ---
 
 # Regulatory Capture
@@ -19,6 +19,8 @@ Regulatory capture is the failure mode where agencies meant to supervise an indu
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — FCC gifts from Paramount while deal approvals were needed provide a concrete media-regulation ethics and capture signal.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — AliExpress’s EU fine and AT&T’s California basic-service ruling both show regulators forcing platform/telecom obligations rather than accepting company-preferred exit paths.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — The FCC drone reversal shows how approval and restriction can be re-opened after market entry, making regulatory gates a continuing business and governance risk.
 
 ## Related Concepts
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-22
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 30
+source_count: 31
 ---
 
 # WWE NXT
@@ -71,6 +71,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — NXT remains in the weekly wrestling TV calendar and preview feed.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — NXT appears through the July 21 results thread, including Mike Santana arriving and Tony D'Angelo retaining in a street fight.
+
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — NXT appears through the weekly TV listing and Mike Santana joining NXT.
 
 ## Related
 
