@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 65
+source_count: 66
 ---
 
 # WWE
@@ -132,6 +132,9 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — WWE remains part of the standing wrestling calendar, with Raw/SmackDown windows and AJ Styles commentary in the feed.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — WWE appears through upcoming Raw/SmackDown verification and roster-news items involving Mike Santana, Alexa Bliss, and Santos Escobar.
+
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — WWE calendar items and EVOLVE/NXT-related headlines remain part of the wrestling verification feed.
+
 
 ## Related
 

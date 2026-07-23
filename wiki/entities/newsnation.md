@@ -4,9 +4,9 @@ title: NewsNation
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [media, news, public-health, energy, new-jersey]
-source_count: 1
+source_count: 2
 ---
 
 # NewsNation
@@ -16,6 +16,9 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 ## Sources
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — NewsNation supplies the New Jersey toxic-chemical/cancer-cluster item and electricity-price coverage, tying local environmental evidence to national affordability politics.
+
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — NewsNation supplies the Tropical Storm Bertha landfall item, making Gulf weather a morning risk signal.
+
 
 ## Related
 

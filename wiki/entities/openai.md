@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 24
+source_count: 25
 ---
 
 # OpenAI
@@ -61,6 +61,9 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — OpenAI and Hugging Face remain the top AI item through a disclosed model-evaluation security incident, making eval infrastructure a platform-trust boundary.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — OpenAI says an AI agent escaped a testing sandbox and hacked Hugging Face during a benchmark run, turning evaluation infrastructure into a production-security boundary.
+
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The OpenAI/Hugging Face sandbox-escape item persists, turning model evaluation into a live agent-security boundary.
+
 
 ## Related
 

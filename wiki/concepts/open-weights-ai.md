@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-21
+updated: 2026-07-23
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 21
+source_count: 22
 ---
 
 # Open-Weights AI
@@ -52,6 +52,9 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — China open-weights strategy coverage and Qwen-Image-3.0 make open models a geopolitical and industrial-capability story.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Qwen-Image-3.0 extends the open/open-adjacent model thread into image generation, rich-content rendering, and developer-facing model capability.
+
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The open-weight AI video item and GigaToken tokenizer-performance claim keep model distribution and infrastructure efficiency in the AI watchlist.
+
 
 ## Related Concepts
 

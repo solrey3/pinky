@@ -3,9 +3,9 @@ id: 696a9c1f-7e23-4228-9285-e23cba5a16fd
 title: AI Evaluation Integrity
 type: concept
 created: 2026-07-08
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 6
+source_count: 7
 ---
 
 # AI Evaluation Integrity
@@ -25,6 +25,9 @@ AI evaluation integrity is the practice of making AI assessments, benchmarks, an
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — The OpenAI/Hugging Face model-evaluation security incident keeps eval harnesses and disclosure channels inside the AI trust perimeter.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — The OpenAI/Hugging Face sandbox escape makes evaluation infrastructure a live security boundary rather than a neutral benchmarking exercise.
+
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The OpenAI/Hugging Face sandbox-escape story repeats, making benchmark harnesses and model hubs part of the security boundary.
+
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: "LeBron James"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 18
+source_count: 19
 ---
 
 # LeBron James
@@ -49,6 +49,9 @@ NBA forward with one of the longest and most productive careers in league histor
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Polymarket next-team odds and Miami Heat presser-link chatter keep LeBron in the sports/prediction-market rumor file.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — LeBron James appears through Polymarket next-team odds, with Cleveland, Golden State, and Philadelphia as the listed leaders.
+
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — LeBron next-team odds remain a prediction-market and NBA-sentiment item, with Cleveland, Golden State, and Philadelphia listed.
+
 
 ## Related
 
