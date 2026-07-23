@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-07-15
+updated: 2026-07-23
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google]
-source_count: 7
+source_count: 8
 ---
 
 # AI Infrastructure Energy Demand
@@ -28,6 +28,7 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — New York's data-center ban keeps AI buildout constrained by grid, permitting, and state-level political capacity.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Google/Alphabet posts negative cash flow tied to massive AI spending, making AI infrastructure scale visible in corporate cash-flow pressure.
 
 ## Related Concepts
 

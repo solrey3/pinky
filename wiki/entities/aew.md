@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-23
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 68
+source_count: 69
 ---
 
 # AEW
@@ -140,6 +140,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — AEW Dynamite results, Redemption lineup changes, and Meltzer-rated matches keep AEW central in the wrestling digest.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — AEW coverage includes Tony Khan saying MJF will return soon, Tay Melo release-request reporting, August HBO Max scheduling, Dynamite discussion, and the MJF/Omega ratings anchor.
 
 ## Related
 

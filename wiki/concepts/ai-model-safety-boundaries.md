@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-09
 updated: 2026-07-23
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai]
-source_count: 19
+source_count: 20
 ---
 
 # AI Model Safety Boundaries
@@ -42,6 +42,7 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Agent sandboxing and Hyundai humanoid-robot labor tension extend safety boundaries from model behavior into test/production separation and workplace deployment.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The proposed AI Kill Switch Act would authorize federal shutdown orders for rogue AI systems, turning safety boundaries into emergency control authority.
 
 ## Related Concepts
 

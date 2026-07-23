@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-23
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 93
+source_count: 94
 ---
 
 # Security & Privacy Toolkit
@@ -163,6 +163,7 @@ The layered defense system protecting this infrastructure: password management, 
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Secret Service threat investigations, AI sandbox escape, prediction-market scraping, and unavailable weather/gas feeds all require audit trails, access controls, and reliable provenance.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Chick-fil-A customer-data exposure, Adobe/WhatsApp Web extension risk, AI shutdown authority, and unavailable data feeds all reinforce incident scope, audit trails, and boundary control.
 
 ## Related Concepts
 

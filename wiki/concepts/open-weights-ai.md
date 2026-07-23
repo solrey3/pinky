@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-23
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 22
+source_count: 23
 ---
 
 # Open-Weights AI
@@ -55,6 +55,7 @@ AI models whose trained weights are released for outside use, inspection, adapta
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The open-weight AI video item and GigaToken tokenizer-performance claim keep model distribution and infrastructure efficiency in the AI watchlist.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Startup founders urge the U.S. not to shut off Chinese open-weight AI, shifting open weights from deployment preference into a policy and geopolitical access fight.
 
 ## Related Concepts
 

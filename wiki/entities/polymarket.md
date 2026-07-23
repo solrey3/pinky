@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-23
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 21
+source_count: 22
 ---
 
 # Polymarket
@@ -55,6 +55,7 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Polymarket lists LeBron next-team odds with Cleveland leading at 25%, extending the sports-prediction-market thread.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Shows LeBron James next-team pricing at Cavaliers 28%, Warriors 15%, and 76ers 9%.
 
 ## Related
 

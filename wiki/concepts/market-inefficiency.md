@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-23
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 92
+source_count: 93
 ---
 
 # Market Inefficiency
@@ -163,6 +163,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Large single-name divergences and LeBron next-team odds show why noisy market and sports-pricing signals need provenance checks.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Tesla -18.25%, LeBron next-team odds, and unavailable Kalshi data show why noisy market moves and incomplete feeds need provenance checks before interpretation.
 
 ## Related Concepts
 

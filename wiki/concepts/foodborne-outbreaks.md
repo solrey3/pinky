@@ -3,9 +3,9 @@ id: 44e25985-74eb-4a5b-adb8-757d8d9bfeb4
 title: Foodborne Outbreaks
 type: concept
 created: 2026-07-17
-updated: 2026-07-21
+updated: 2026-07-23
 tags: [public-health, food-safety, supply-chain, outbreaks, recalls]
-source_count: 6
+source_count: 7
 ---
 
 # Foodborne Outbreaks
@@ -24,6 +24,8 @@ Foodborne outbreaks are illness clusters tied to contaminated food products, sou
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — FDA says the positive cyclospora lettuce test was a false alarm, showing why outbreak workflows need correction channels as much as alert channels.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The Taco Bell/cyclospora lawsuit extends the Taylor Farms/lettuce/public-health provenance thread from recall coverage into litigation.
+
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The FDA tracks a second cyclospora outbreak with 72 cases, extending the outbreak thread from lettuce-test corrections into fresh surveillance.
 
 ## Related Concepts
 

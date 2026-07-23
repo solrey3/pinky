@@ -4,9 +4,9 @@ title: U.S. Food and Drug Administration
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-20
+updated: 2026-07-23
 tags: [government, public-health, regulation, fda, nicotine, tobacco, gene-therapy, united-states]
-source_count: 5
+source_count: 6
 ---
 
 # U.S. Food and Drug Administration
@@ -24,6 +24,8 @@ The U.S. Food and Drug Administration regulates drugs, medical devices, food saf
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — FDA-linked lettuce testing identifies cyclospora, extending the produce-outbreak and recall-execution thread.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The FDA says a positive cyclospora test linked to lettuce was a false alarm, correcting the outbreak thread.
+
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Investigates a second cyclospora outbreak with 72 cases, extending the foodborne-outbreak surveillance and correction-channel thread.
 
 ## Related
 

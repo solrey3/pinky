@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 24
+source_count: 25
 ---
 
 # Google
@@ -49,6 +49,8 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Announces Gemini 3.6 Flash and cybersecurity AI while teasing later Gemini models, keeping Google in the AI capability and security-product release lane.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Google announces Gemini 3.6 Flash and cybersecurity AI while teasing future Gemini models, keeping its AI platform in the release-cadence and cyber-defense graph.
+
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The EU fines Google $1B and orders competitor equal treatment, while Alphabet/Google AI capex produces a negative cash-flow quarter.
 
 ## Related
 

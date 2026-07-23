@@ -4,9 +4,9 @@ title: European Union
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-20
+updated: 2026-07-23
 tags: [government, europe, privacy, regulation, message-scanning]
-source_count: 5
+source_count: 6
 ---
 
 # European Union
@@ -24,6 +24,8 @@ The European Union is tracked as a regulatory and geopolitical actor, especially
 
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — EU platform enforcement lands as a record $625M AliExpress fine after ordered fixes were not completed.
+
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Fines Google $1B and orders equal treatment for competitors, adding a platform-antitrust remedy to the EU regulation thread.
 
 ## Related
 

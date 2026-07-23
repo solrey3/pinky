@@ -6,7 +6,7 @@ entity_type: person
 created: "2026-05-14T23:10:00-0400"
 updated: 2026-07-23
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 19
+source_count: 20
 ---
 
 # LeBron James
@@ -52,6 +52,7 @@ NBA forward with one of the longest and most productive careers in league histor
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — LeBron next-team odds remain a prediction-market and NBA-sentiment item, with Cleveland, Golden State, and Philadelphia listed.
 
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Polymarket next-team odds price Cleveland at 28%, Golden State at 15%, and Philadelphia at 9%.
 
 ## Related
 
