@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-24
 tags: [media, politics, congress, policy, washington]
-source_count: 3
+source_count: 4
 ---
 
 # The Hill
@@ -19,6 +19,8 @@ The Hill is a U.S. political-news outlet tracked in the newsletter graph when co
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The Hill supplies the Secret Service threat workload, James Woolsey obituary, and measles-high public-health headlines in the top-news board.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Provides the Kagan/Supreme Court and Trump tariff-policy headlines in the top-news board.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Supplies the Trump, Canada tariffs, Paramount/Warner, and AI breach/regulation headline set.
 
 ## Related
 

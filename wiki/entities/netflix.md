@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-26
 updated: 2026-07-24
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 36
+source_count: 37
 ---
 
 # Netflix
@@ -80,6 +80,8 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Netflix falls 7.34%, another high-beta/media-platform drag in the evening market board.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Netflix falls 7.34%, adding to high-beta/consumer-platform weakness.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Netflix rises 1.65%, a small positive inside an otherwise stressed megacap board.
 
 ## Related
 

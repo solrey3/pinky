@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-07-22
+updated: 2026-07-24
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 28
+source_count: 29
 ---
 
 # Anthropic
@@ -94,6 +94,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The approved $1.5B copyright settlement makes Anthropic legal exposure financially concrete and keeps training-provenance risk in the AI governance graph.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Approval of Anthropic's $1.5B copyright settlement turns AI provenance and training/liability disputes into financially material governance.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Claude Opus 5 tops Hacker News, extending Anthropic’s frontier-model release track.
 
 ## Related
 

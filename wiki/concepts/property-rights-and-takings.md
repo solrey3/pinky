@@ -3,9 +3,9 @@ id: a98cf4eb-606f-4a4d-ba4c-4d62a32dbb63
 title: Property Rights and Takings
 type: concept
 created: 2026-07-17
-updated: 2026-07-21
+updated: 2026-07-24
 tags: [law, property-rights, eminent-domain, takings, supreme-court, infrastructure]
-source_count: 3
+source_count: 4
 ---
 
 # Property Rights and Takings
@@ -19,6 +19,8 @@ Property rights and takings doctrine covers when government or state-authorized 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The pipeline-company land-seizure case keeps eminent-domain litigation costs and owner remedies pointed toward Supreme Court review.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Pennsylvania private-land search limits and the seized-plane Supreme Court case extend property-rights tracking from compensation into search authority and forfeiture process.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Nashville considering eminent domain to block a data center near zoo animals extends takings analysis into infrastructure externalities and land-use politics.
 
 ## Related Concepts
 

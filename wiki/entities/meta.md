@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-15
+updated: 2026-07-24
 tags: [technology, social-media, ai, privacy, instagram, platforms]
-source_count: 5
+source_count: 6
 ---
 
 # Meta
@@ -25,6 +25,8 @@ Meta is tracked as a major social-media and AI platform operator, especially whe
 
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — The AI-layoff lawsuit keeps Meta tied to automated employment decisions and labor-governance risk.
 
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Meta joins Nvidia and Microsoft in warning against overregulating open-weight models.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Canada
 type: entity
 entity_type: place
 created: 2026-07-17
-updated: 2026-07-21
+updated: 2026-07-24
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 6
+source_count: 7
 ---
 
 # Canada
@@ -24,6 +24,8 @@ Canada is tracked here as a North American policy and trade counterpart when U.S
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Trump's additional 50% tariff threat keeps Canada in the trade-escalation and inflation-risk graph after wildfire-smoke tariff claims earlier in July.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Canada remains tied to wildfire and tariff/political-blame coverage as Trump attributes smoke/fire impacts northward while scientists point to climate change.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Mark Carney says Canada is ready to respond if new Trump tariffs are enacted, extending the retaliation thread.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-24
 tags: [media, news, public-health, energy, new-jersey]
-source_count: 3
+source_count: 4
 ---
 
 # NewsNation
@@ -19,6 +19,8 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — NewsNation supplies the Tropical Storm Bertha landfall item, making Gulf weather a morning risk signal.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Supplies the Iran/Kuwait regional-tension and FDA cyclospora outbreak items.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Supplies the U.S./UK Strait of Hormuz coalition-security item.
 
 ## Related
 

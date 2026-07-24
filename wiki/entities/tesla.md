@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-22
 updated: 2026-07-24
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on]
-source_count: 44
+source_count: 45
 ---
 
 # Tesla
@@ -98,6 +98,8 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Tesla plunges 18.25%, the clearest high-beta stress signal in the evening close.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Tesla drops 18.25%, the main single-name shock in the daytime market board.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Tesla falls 17.81% and trades near its 52-week low, making it the clearest high-beta stress signal.
 
 ## Related
 

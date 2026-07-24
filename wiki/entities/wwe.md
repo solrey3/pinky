@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-24
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 68
+source_count: 69
 ---
 
 # WWE
@@ -137,6 +137,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — WWE appears through Raw/SmackDown calendar listings, WWE Radio launching on SiriusXM, and a Rhea Ripley injury update.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — WWE Raw and SmackDown remain on the upcoming TV/PLE schedule, with WWE Radio also in the wrestling headlines.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — WWE calendar notes Raw and SmackDown windows, plus AJ Styles/NXT and Santos Escobar items.
 
 ## Related
 

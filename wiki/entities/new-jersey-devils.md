@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-24
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 42
+source_count: 43
 ---
 
 # New Jersey Devils
@@ -94,6 +94,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Devils items include the 2026-27 regular-season schedule reveal and a Mason Moe prospect profile.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Devils preseason and regular-season schedule notes remain in the daily sports card.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Devils notes include prospect/head-coach headlines and upcoming Flyers/Islanders preseason dates.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-24
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 24
+source_count: 25
 ---
 
 # Open-Weights AI
@@ -57,6 +57,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Startup founders urge the U.S. not to shut off Chinese open-weight AI, shifting open weights from deployment preference into a policy and geopolitical access fight.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Startup founders warn against shutting off Chinese open-weight AI, framing model access as innovation infrastructure and geopolitical policy.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Nvidia, Microsoft, and Meta warn against overregulating open-weight AI models, adding major-incumbent lobbying to the open-model policy fight.
 
 ## Related Concepts
 

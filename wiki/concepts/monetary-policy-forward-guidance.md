@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-24
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets]
-source_count: 70
+source_count: 71
 ---
 
 # Monetary Policy Forward Guidance
@@ -141,6 +141,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — EFFR stays at 3.63% inside the 3.50%–3.75% range while the 30-year Treasury at 5.171%, 6.65% mortgages, FX, gas, and WTI provide restrictive context rather than new Fed guidance.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — EFFR at 3.63%, a 3.50%–3.75% target range, a 5.171% 30-year Treasury, a 6.74% mortgage quote, FX pressure, oil, and gas define the day’s rate-transmission board.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — EFFR at 3.63%, the 3.50%–3.75% target range, a 5.162% 30-year Treasury, a 6.74% mortgage quote, PHP/USD near its high, and higher WTI update the rates and inflation-transmission board.
 
 ## Related Concepts
 

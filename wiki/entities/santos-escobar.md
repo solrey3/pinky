@@ -4,9 +4,9 @@ title: Santos Escobar
 type: entity
 entity_type: person
 created: 2026-07-22
-updated: 2026-07-22
+updated: 2026-07-24
 tags: [wrestling, wwe, lucha-libre, nxt]
-source_count: 1
+source_count: 2
 ---
 
 # Santos Escobar
@@ -16,6 +16,8 @@ Professional wrestler associated with WWE and lucha libre presentation. In the n
 ## Sources
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Escobar is cited through reports that he bid farewell to WWE, making him part of the July 22 wrestling roster-movement file.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Santos Escobar appears through a ring-name item after his no-compete expiration.
 
 ## Related
 

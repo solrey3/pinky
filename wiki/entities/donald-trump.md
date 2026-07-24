@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-07-24
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 40
+source_count: 41
 ---
 
 # Donald Trump
@@ -87,6 +87,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Administration drops the Penn Jewish-employee-list demand while tariff expirations and the proposed AI Kill Switch Act keep executive control over trade, records, and AI systems in view.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The dispatch ties Trump to double-digit tariff policy and proposed AI shutdown authority, making executive control a cross-domain theme.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Trump appears through White House Correspondents’ Dinner coverage and renewed tariff risk facing Canada.
 
 ## Related
 

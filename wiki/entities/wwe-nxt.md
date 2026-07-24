@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-24
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 33
+source_count: 34
 ---
 
 # WWE NXT
@@ -76,6 +76,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — NXT appears through TV scheduling, WWE EVOLVE notes, and Mike Santana/TNA crossover context.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — NXT TV remains on the upcoming weekly wrestling schedule.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — NXT calendar and production/personnel notes continue through AJ Styles, Tony D’Angelo/Naraku, and Katie Reynolds items.
 
 ## Related
 

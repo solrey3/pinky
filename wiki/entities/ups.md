@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-24
 tags: [logistics, shipping, transportation, markets]
-source_count: 20
+source_count: 21
 ---
 
 # UPS
@@ -52,6 +52,8 @@ UPS is tracked as a logistics and economic-activity bellwether.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — UPS rises 2.57%, keeping logistics resilience in the selective-risk-off pattern.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — UPS falls 2.63%, weakening the logistics-resilience pocket tracked in earlier dispatches.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — UPS falls 2.49%, weakening the logistics resilience pocket.
 
 ## Related
 

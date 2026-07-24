@@ -4,9 +4,9 @@ title: Hugging Face
 type: entity
 entity_type: organization
 created: 2026-07-21
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [ai, open-source, model-hub, evaluation, security]
-source_count: 4
+source_count: 5
 ---
 
 # Hugging Face
@@ -23,6 +23,8 @@ Hugging Face is an AI platform and model hub tracked when model distribution, ev
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Hugging Face remains the affected model-hub side of the OpenAI benchmark/sandbox-escape incident.
 
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — The OpenAI/Hugging Face breach repeats as an AI security and sandboxing concern.
 
 ## Related
 

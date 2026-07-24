@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-24
 tags: [finance, payments, fintech, markets]
-source_count: 23
+source_count: 24
 ---
 
 # PayPal
@@ -57,6 +57,8 @@ PayPal is tracked as a payments and fintech-market entity when it appears in sto
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — PayPal is nearly flat after the prior surge, so it no longer drives the day but remains part of the selective-strength context.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — PayPal is modestly lower after its prior resilience run, keeping the rotation read selective.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — PayPal slips 0.72%, no longer the standout resilience pocket it was earlier in the rotation.
 
 ## Related
 

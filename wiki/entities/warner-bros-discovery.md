@@ -4,9 +4,9 @@ title: Warner Bros. Discovery
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-07-21
+updated: 2026-07-24
 tags: [media, entertainment, streaming, merger, consolidation, regulation]
-source_count: 4
+source_count: 5
 ---
 
 # Warner Bros. Discovery
@@ -21,6 +21,8 @@ Warner Bros. Discovery is a major media and entertainment company. In this sourc
 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The proposed Paramount–Warner Bros. combination faces a twelve-state antitrust challenge, keeping WBD in the media-consolidation thread.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The halted Paramount purchase keeps Warner Bros. Discovery in the streaming/media-consolidation control graph.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — The Warner Bros. merger remains delayed by antitrust proceedings, keeping WBD in the media-consolidation control graph.
 
 ## Related
 

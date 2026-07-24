@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-24
 tags: [media, libertarian, policy, economics]
-source_count: 8
+source_count: 9
 ---
 
 # Reason
@@ -29,6 +29,8 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Reason supplies New Jersey gun-law and global-hunger-progress headlines, adding legal and long-run human-progress context to the dispatch.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Flags legal and economic objections to Trump’s Section 301 tariff push.
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Supplies the Flock surveillance misuse and Nashville/data-center eminent-domain items.
 
 ## Related
 
