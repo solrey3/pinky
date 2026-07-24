@@ -4,9 +4,9 @@ title: Target
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-22
+updated: 2026-07-24
 tags: [retail, consumer, markets, big-box]
-source_count: 19
+source_count: 20
 ---
 
 # Target
@@ -51,6 +51,7 @@ Target is tracked as a big-box retail and consumer-demand indicator.
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Target gains 3.34%, one of the retail names offsetting weaker tech/high-beta leadership.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Target is nearly flat and holds up better than high-beta technology, preserving part of the retail-resilience pattern.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Target falls 4.09%, reducing the prior defensive-retail support in the rotation board.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [technology, e-commerce, cloud, markets, amzn]
-source_count: 21
+source_count: 22
 ---
 
 # Amazon
@@ -54,6 +54,7 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Amazon falls 3.97%, one of the megacap/growth names contributing to Nasdaq weakness.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Amazon falls 6.49%, adding megacap pressure to the Nasdaq-led risk-off close.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Amazon falls 6.49%, making megacap consumer/tech weakness part of the risk-off board.
 
 ## Related
 

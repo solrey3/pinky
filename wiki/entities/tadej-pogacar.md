@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 24
+source_count: 25
 ---
 
 # Tadej Pogacar
@@ -60,6 +60,7 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Pogacar remains Tour de France GC leader heading into the Alpine stage watch.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Keeps the Tour de France yellow jersey after Stage 18 while Richard Carapaz wins the stage.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Pogacar remains atop the Tour de France general classification after Stage 18.
 
 ## Related
 

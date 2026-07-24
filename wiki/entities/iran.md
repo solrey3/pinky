@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 45
+source_count: 46
 ---
 
 # Iran
@@ -97,6 +97,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Hegseth/Caine testimony and commentary on limited Trump options keep Iran as the central defense-policy and oil-risk foreign-policy input.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — John Thune says Iran sanctions will be added to a Russia sanctions bill, keeping Iran in the sanctions and oil-risk policy lane.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Iran-linked regional tension stays live as strikes reach another night and Kuwait intercepts drones.
 
 ## Related
 

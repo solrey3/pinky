@@ -4,9 +4,9 @@ title: Chicago Blackhawks
 type: entity
 entity_type: organization
 created: 2026-07-18
-updated: 2026-07-21
+updated: 2026-07-24
 tags: [hockey, nhl, blackhawks]
-source_count: 4
+source_count: 5
 ---
 
 # Chicago Blackhawks
@@ -21,6 +21,7 @@ The Blackhawks are tied to Connor Bedard's reported five-year, $75M contract.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Blackhawks coverage centers on Bedard hoping for a Patrick Kane reunion.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The Blackhawks appear through Bedard's hope for a Kane reunion, tying present roster development to franchise nostalgia.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Patrick Kane’s two-year return puts Chicago back into the NHL newswire.
 
 ## Related
 

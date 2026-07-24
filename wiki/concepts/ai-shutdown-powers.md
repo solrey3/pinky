@@ -3,9 +3,9 @@ id: 23fbc027-acdf-40af-b1f0-bfd7d8d34364
 title: AI Shutdown Powers
 type: concept
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [ai, governance, emergency-powers, safety, regulation, shutdown-authority]
-source_count: 1
+source_count: 2
 ---
 
 # AI Shutdown Powers
@@ -15,6 +15,7 @@ AI shutdown powers are legal or operational authorities that let a government or
 ## Sources
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The proposed AI Kill Switch Act would let the Trump administration order shutdowns of rogue AI systems, moving AI safety from voluntary guardrails toward emergency-state authority.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The AI Kill Switch Act appears again as proposed authority for the Trump administration to shut down rogue AI systems.
 
 ## Related Concepts
 

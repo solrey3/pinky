@@ -4,9 +4,9 @@ title: China
 type: entity
 entity_type: place
 created: 2026-07-15
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [china, geopolitics, public-opinion, soft-power, united-states, pew-research]
-source_count: 4
+source_count: 5
 ---
 
 # China
@@ -21,6 +21,7 @@ China is tracked as a geopolitical, economic, and public-opinion actor in source
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Chinese model coverage frames open-weights AI as an industrial and geopolitical strategy rather than only developer convenience.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Appears through Pew polling on AI competitiveness and startup-founder opposition to cutting off Chinese open-weight AI.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Chinese open-weight AI access is framed as a U.S. startup and policy concern.
 
 ## Related
 

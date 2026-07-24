@@ -4,9 +4,9 @@ title: Berkshire Hathaway
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-22
+updated: 2026-07-24
 tags: [finance, insurance, conglomerate, markets, brk-b]
-source_count: 18
+source_count: 19
 ---
 
 # Berkshire Hathaway
@@ -49,6 +49,7 @@ Berkshire Hathaway is tracked as a diversified value and insurance-market bellwe
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Berkshire Hathaway slips 0.29%, a mild move relative to the broader split risk board.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Berkshire Hathaway is slightly green, preserving the quality/value pocket in a red index close.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Berkshire is only slightly lower, remaining part of the quality/resilience comparison set.
 
 ## Related
 

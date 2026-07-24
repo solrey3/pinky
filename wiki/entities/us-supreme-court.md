@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-07-21
+updated: 2026-07-24
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 10
+source_count: 11
 ---
 
 # U.S. Supreme Court
@@ -34,6 +34,7 @@ The highest court in the United States. In the newsletter graph, it is tracked w
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — A pipeline land-seizure case headed toward Supreme Court scrutiny keeps takings doctrine tied to infrastructure costs and property-rights remedies.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Agrees to hear the seized-plane civil-forfeiture case, extending the Court thread from takings and geofence warrants into forfeiture proportionality.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Elena Kagan defends the Court against “rubber stamp” criticism tied to Trump-era decisions.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 57
+source_count: 58
 ---
 
 # TNA Wrestling
@@ -120,7 +120,7 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — TNA appears through schedule verification and a note congratulating Mike Santana on his NXT debut.
 
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — TNA appears through iMPACT! scheduling and NXT crossover discussion around Mike Santana and Nic Nemeth.
-
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — TNA iMPACT results, including Nic Nemeth and the Hardys, keep TNA in the wrestling digest.
 
 ## Related
 

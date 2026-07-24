@@ -4,9 +4,9 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-22
+updated: 2026-07-24
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 27
+source_count: 28
 ---
 
 # Kenny Omega
@@ -83,6 +83,7 @@ source_count: 27
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Kenny Omega remains in the Meltzer 5-star ledger via the July 8 MJF match.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Kenny Omega remains in the Meltzer ratings table through the 5.5-star MJF match from AEW Dynamite Beach Break.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Kenny Omega appears through the 5.5-star MJF match in the Meltzer ratings table.
 
 ## Related
 

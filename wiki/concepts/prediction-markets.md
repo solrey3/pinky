@@ -3,9 +3,9 @@ id: 187e23f6-bd52-42bc-9643-eb7388e225d3
 title: Prediction Markets
 type: concept
 created: 2026-07-22
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 4
+source_count: 5
 ---
 
 # Prediction Markets
@@ -21,6 +21,7 @@ Prediction markets are trading venues or market-like instruments that convert ex
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Polymarket provides LeBron next-team probabilities while Kalshi extraction fails, contrasting market signal with data-access reliability.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Polymarket lists LeBron next-team odds while Kalshi is unavailable, reinforcing prediction-market feeds as useful but fragile evidence.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Polymarket’s LeBron next-team market is fetched without a clean notable mover while Kalshi remains unavailable.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-22
+updated: 2026-07-24
 tags: [person, wrestling]
-source_count: 19
+source_count: 20
 ---
 
 # Will Ospreay
@@ -66,6 +66,7 @@ source_count: 19
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Ospreay remains in the latest 5-star ledger through the Forbidden Door match with Swerve Strickland.
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Will Ospreay remains in the Meltzer ratings table through the 5.5-star Forbidden Door match with Swerve Strickland.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Will Ospreay remains in the Forbidden Door five-star-plus ratings entry against Swerve Strickland.
 
 ## Related
 

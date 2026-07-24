@@ -4,9 +4,9 @@ title: Remco Evenepoel
 type: entity
 entity_type: person
 created: 2026-07-19
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [cycling, tour-de-france, stage-winner, belgium]
-source_count: 8
+source_count: 9
 ---
 
 # Remco Evenepoel
@@ -29,6 +29,7 @@ Remco Evenepoel is a professional cyclist tracked through Tour de France stage a
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Evenepoel remains second on Tour de France GC, 4:32 behind Tadej Pogacar after Stage 17.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Listed second on Tour de France GC at +4:32 behind Tadej Pogacar after Stage 18.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Evenepoel remains in the Tour de France GC top five, keeping him in the cycling standings thread.
 
 ## Related
 

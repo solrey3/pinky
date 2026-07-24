@@ -4,9 +4,9 @@ title: Pew Research Center
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [research, polling, public-opinion, social-media, children, internet-policy]
-source_count: 10
+source_count: 11
 ---
 
 # Pew Research Center
@@ -33,6 +33,7 @@ Pew Research Center is a nonpartisan research organization known for public-opin
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Pew Research appears in the around-the-web feed with a chart-based piece on changing global energy production.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Publishes polling that Americans see China as more advanced than the U.S. on AI, adding public-opinion evidence to the AI-competition story.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Pew polling frames the economy as front and center as the 2026 midterms approach.
 
 ## Related
 
