@@ -4,9 +4,9 @@ title: Novak Djokovic
 type: entity
 entity_type: person
 created: 2026-05-29
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [tennis, roland-garros, serbia, goat, person, sports]
-source_count: 13
+source_count: 14
 ---
 
 # Novak Djokovic
@@ -55,6 +55,8 @@ Djokovic led 2-0 sets against the 19-year-old Brazilian before losing the next t
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Djokovic loses to Jannik Sinner in the Wimbledon men's singles result.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Djokovic withdraws from Montreal in the tennis notes.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Withdraws from the Montreal Masters event alongside Jannik Sinner.
 
 ## Related
 

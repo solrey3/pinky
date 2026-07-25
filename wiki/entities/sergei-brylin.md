@@ -4,9 +4,9 @@ title: Sergei Brylin
 type: entity
 entity_type: person
 created: 2026-07-18
-updated: 2026-07-20
+updated: 2026-07-25
 tags: [hockey, devils, dinamo-minsk]
-source_count: 3
+source_count: 4
 ---
 
 # Sergei Brylin
@@ -20,6 +20,8 @@ Brylin is named head coach of Dinamo Minsk, linking a Devils figure to European 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Brylin is named head coach of Dinamo Minsk in the Devils news feed.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Brylin is noted as Dinamo Minsk head coach in the Devils update stack.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Named head coach of Dinamo Minsk in a Devils blog item.
 
 ## Related
 

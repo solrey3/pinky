@@ -4,9 +4,9 @@ title: Dinamo Minsk
 type: entity
 entity_type: organization
 created: 2026-07-18
-updated: 2026-07-20
+updated: 2026-07-25
 tags: [hockey, khl, belarus]
-source_count: 3
+source_count: 4
 ---
 
 # Dinamo Minsk
@@ -20,6 +20,8 @@ Dinamo Minsk names Sergei Brylin head coach.
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Dinamo Minsk appears as Sergei Brylin's new head-coaching destination.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Dinamo Minsk appears through Sergei Brylin’s head-coach update.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears as Sergei Brylin's new head-coaching destination.
 
 ## Related
 

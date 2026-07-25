@@ -4,9 +4,9 @@ title: Michael Kim
 type: entity
 entity_type: person
 created: 2026-07-24
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [golf, pga-tour, 3m-open, 59, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Michael Kim
@@ -16,6 +16,8 @@ Professional golfer tracked here through PGA Tour results and scoring milestones
 ## Sources
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Cards the 15th-ever 59 in PGA Tour history at the 3M Open and leads at -14 during Round 2.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Leads the 3M Open at -14 after carding the 15th-ever 59 in PGA Tour history.
 
 ## Related
 

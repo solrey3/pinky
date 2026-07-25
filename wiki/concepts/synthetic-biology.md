@@ -3,9 +3,9 @@ id: 34e0ea55-7860-47cd-b797-65ecc98fd231
 title: Synthetic Biology
 type: concept
 created: 2026-07-01
-updated: 2026-07-04
+updated: 2026-07-25
 tags: [biology, engineering, biotechnology, synthetic-cells, science, research]
-source_count: 5
+source_count: 6
 ---
 
 # Synthetic Biology
@@ -23,6 +23,8 @@ Synthetic biology is the engineering of biological systems, often by designing g
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Artificial-cell division coverage repeats the bottom-up biology milestone watch.
 
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Artificial-cell division coverage continues the bottom-up synthetic-cell milestone watch.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — The AlphaFold item shows AI-assisted protein redesign entering gene-editing safety work.
 
 ## Related Concepts
 

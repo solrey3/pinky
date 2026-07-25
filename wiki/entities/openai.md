@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 26
+source_count: 27
 ---
 
 # OpenAI
@@ -66,6 +66,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — The OpenAI/Hugging Face breach remains in the AI-security headline cycle.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears in continued OpenAI/Hugging Face breach-anxiety coverage.
 
 ## Related
 

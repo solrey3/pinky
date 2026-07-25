@@ -4,9 +4,9 @@ title: "LeBron James"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 22
+source_count: 23
 ---
 
 # LeBron James
@@ -56,6 +56,8 @@ NBA forward with one of the longest and most productive careers in league histor
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Polymarket’s LeBron next-team market is checked again but without a clean mover.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Prediction-market extraction shows LeBron to the Philadelphia 76ers at 100%, though the feed requires skepticism.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Polymarket extraction shows Philadelphia 76ers at 100% in the next-team market.
 
 ## Related
 

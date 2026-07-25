@@ -4,9 +4,9 @@ title: Paramount
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [media, entertainment, streaming, merger, consolidation, regulation]
-source_count: 7
+source_count: 8
 ---
 
 # Paramount
@@ -27,6 +27,8 @@ Paramount is a major media and entertainment company. In this wiki, it is tracke
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — A judge halts Paramount's proposed Warner Bros. purchase, keeping the company in media-consolidation antitrust scrutiny.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Paramount Skydance agrees to pause the Warner Bros. merger while antitrust proceedings continue.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — The Paramount Skydance/Warner combination remains delayed by legal and antitrust process.
 
 ## Related
 

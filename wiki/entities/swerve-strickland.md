@@ -4,9 +4,9 @@ title: Swerve Strickland
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [person, wrestling, aew, owen-hart-tournament]
-source_count: 18
+source_count: 19
 ---
 
 # Swerve Strickland
@@ -67,6 +67,8 @@ source_count: 18
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Swerve Strickland remains in the Forbidden Door five-star-plus ratings entry against Will Ospreay.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Swerve Strickland is referenced through Tony Khan’s absence comments and the Forbidden Door five-star entry.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His Forbidden Door match with Will Ospreay remains listed at 5.5 stars.
 
 ## Related
 

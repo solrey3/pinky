@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 59
+source_count: 60
 ---
 
 # TNA Wrestling
@@ -123,6 +123,8 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — TNA iMPACT results, including Nic Nemeth and the Hardys, keep TNA in the wrestling digest.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — TNA notes include Victoria Crawford’s release and likely AMC crossover expansion.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — iMPACT! is listed for July 30 in the wrestling calendar.
 
 ## Related
 

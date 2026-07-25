@@ -4,9 +4,9 @@ title: Robert F. Kennedy Jr.
 type: entity
 entity_type: person
 created: 2026-07-06
-updated: 2026-07-09
+updated: 2026-07-25
 tags: [politics, public-health, vaccines, hhs, misinformation, united-states]
-source_count: 2
+source_count: 3
 ---
 
 # Robert F. Kennedy Jr.
@@ -18,6 +18,8 @@ Robert F. Kennedy Jr. is tracked here as a U.S. public-health political actor wh
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — A former CDC chief medical officer says Kennedy caused “irreparable harm,” keeping vaccine and HHS/CDC credibility debates active.
 
 - [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — RFK Jr. planning a COVID-19 vaccine-injury list keeps vaccine risk communication, evidence standards, and public-health trust in tension.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Named as one of the targets in Trump's rescheduled WHCA dinner speech.
 
 ## Related
 

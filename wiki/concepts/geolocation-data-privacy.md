@@ -3,9 +3,9 @@ id: 730c6187-26a0-439a-8223-057e70299727
 title: Geolocation Data Privacy
 type: concept
 created: 2026-07-03
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [privacy, location-data, geolocation, data-brokers, regulation, surveillance, mobile]
-source_count: 3
+source_count: 4
 ---
 
 # Geolocation Data Privacy
@@ -19,6 +19,8 @@ Geolocation data privacy is the governance problem around precise location trail
 - [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — A Florida officer allegedly using a mass-surveillance network to stalk a romantic interest shows location/surveillance risk through insider misuse, not only brokers or warrants.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Flock surveillance misuse arrests in Georgia reinforce insider abuse and auditability as core location-data risks.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Georgia arrests over Flock data misuse show license-plate surveillance can fail through credentialed insiders, not only external hacks or overbroad warrants.
 
 ## Related Concepts
 

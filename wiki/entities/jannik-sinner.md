@@ -4,9 +4,9 @@ title: Jannik Sinner
 type: entity
 entity_type: person
 created: 2026-07-09
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [tennis, atp, italy, grand-slam, wimbledon, sports]
-source_count: 11
+source_count: 12
 ---
 
 # Jannik Sinner
@@ -35,6 +35,8 @@ Jannik Sinner is tracked as an ATP tennis player in Grand Slam and Wimbledon sco
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Sinner is listed among the US Open field headliners.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Sinner withdraws from Montreal while remaining a US Open field leader.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Withdraws from the Montreal Masters event.
 
 ## Related
 

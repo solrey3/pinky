@@ -4,9 +4,9 @@ title: New York Giants
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [football, nfl, new-york-giants, schedule]
-source_count: 2
+source_count: 3
 ---
 
 # New York Giants
@@ -18,6 +18,8 @@ The New York Giants are an NFL franchise tracked for local-team scheduling, rost
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The Giants appear through the Cam Skattebo item and team-report schedule notes against the Cowboys and Rams.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Giants team-report notes upcoming Cowboys and Rams games in September.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Team report lists September games against the Cowboys and Rams.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 41
+source_count: 42
 ---
 
 # Donald Trump
@@ -89,6 +89,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The dispatch ties Trump to double-digit tariff policy and proposed AI shutdown authority, making executive control a cross-domain theme.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Trump appears through White House Correspondents’ Dinner coverage and renewed tariff risk facing Canada.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears through WHCA dinner jabs, Section 301 tariff litigation, and Smithsonian public-history disclaimers.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: New York Mets
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [baseball, mlb, new-york-mets, schedule]
-source_count: 6
+source_count: 7
 ---
 
 # New York Mets
@@ -25,6 +25,8 @@ The New York Mets are an MLB franchise tracked as a recurring local sports inter
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The sports card includes Dodgers at Mets and notes recent Mets form plus postponed Rockies entries.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Mets team-report notes last-eight results and postponed Rockies makeup entries.
+
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Lose 4–2 to the Dodgers while upcoming fetched rows remain affected by postponed Rockies dates.
 
 ## Related
 
