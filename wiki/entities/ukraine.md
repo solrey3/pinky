@@ -4,9 +4,9 @@ title: Ukraine
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-07-22
+updated: 2026-07-25
 tags: [ukraine, geopolitics, war, russia, europe, security]
-source_count: 6
+source_count: 7
 ---
 
 # Ukraine
@@ -26,6 +26,8 @@ Ukraine is a European state central to the continuing Russia-Ukraine war. In the
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The dispatch tracks Ukraine's political-strategy shift through Prime Minister Yulia Svyrydenko's resignation.
 
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — A House amendment to block Ukraine security aid fails, keeping Ukraine assistance in the active congressional-policy lane.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Joint U.S.-Ukraine drone production makes the war-support story an industrial-capacity story.
 
 ## Related
 

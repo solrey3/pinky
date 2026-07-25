@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 47
+source_count: 48
 ---
 
 # Iran
@@ -100,6 +100,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Iran-linked regional tension stays live as strikes reach another night and Kuwait intercepts drones.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Hormuz coalition talks and oil strength keep Iran tied to maritime-security and crude-risk interpretation.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — U.S. sanctions targeting Babak Zanjani keep Iranian financing in the sanctions graph.
 
 ## Related
 

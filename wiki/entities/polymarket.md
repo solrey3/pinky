@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-25
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 25
+source_count: 26
 ---
 
 # Polymarket
@@ -61,6 +61,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Polymarket extraction shows LeBron James to the Philadelphia 76ers at 100%, with title-odds chatter attached.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Shows LeBron James next-team odds at Philadelphia 76ers 100% in the fetched trend block.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Trending NBA title odds put Oklahoma City, San Antonio, and Philadelphia into the prediction-market feed.
 
 ## Related
 

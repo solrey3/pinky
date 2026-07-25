@@ -4,9 +4,9 @@ title: Konosuke Takeshita
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-12
+updated: 2026-07-25
 tags: [person, wrestling, aew, championship]
-source_count: 5
+source_count: 6
 ---
 
 # Konosuke Takeshita
@@ -41,6 +41,8 @@ source_count: 5
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Dynamite result remains in the evening wrestling digest, keeping Takeshita's International-title defense in the Forbidden Door go-home narrative.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Takeshita loses to Yota Tsuji in NJPW G1 Climax 36 Night 1 coverage.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Takes sole A Block lead at NJPW G1 Climax 36 Night 6.
 
 ## Related
 

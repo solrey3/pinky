@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-25
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 44
+source_count: 45
 ---
 
 # New Jersey Devils
@@ -98,6 +98,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Devils notes include prospect/head-coach headlines and upcoming Flyers/Islanders preseason dates.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Feed includes Gustav Hillstrom prospect coverage and Sergei Brylin being named Dinamo Minsk head coach.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Devils prospect profiles and preseason dates keep the team in the personal sports watchlist.
 
 ## Related
 

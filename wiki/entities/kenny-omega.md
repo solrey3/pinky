@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-25
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 29
+source_count: 30
 ---
 
 # Kenny Omega
@@ -86,6 +86,8 @@ source_count: 29
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Kenny Omega appears through the 5.5-star MJF match in the Meltzer ratings table.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His 5.5-star Dynamite Beach Break match with MJF stays on the ratings board.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A Reddit/AEW item promotes a Redemption match poster against Kevin Knight.
 
 ## Related
 

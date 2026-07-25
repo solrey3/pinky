@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-25
 tags: [media, news, public-health, energy, new-jersey]
-source_count: 5
+source_count: 6
 ---
 
 # NewsNation
@@ -23,6 +23,8 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Supplies the U.S./UK Strait of Hormuz coalition-security item.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Carries the France and Spain wildfire evacuation headline.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Supplies the middle-class income/inflation pressure item in the top-story mix.
 
 ## Related
 

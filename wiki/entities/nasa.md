@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-07-14
+updated: 2026-07-25
 tags: [space, science, government, artemis, moon]
-source_count: 2
+source_count: 3
 ---
 
 # NASA
@@ -18,6 +18,8 @@ NASA is the United States civilian space agency. In the newsletter stream it app
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — NASA announces the Artemis III crew, keeping the Moon-return arc active in the daily news feed.
 
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — A NewsNation item previews NASA astronaut Anil Menon's trip to the space station, keeping NASA in the orbital-operations news stream.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A wildfire forces evacuation of a Deep Space Network complex in Spain, making space communications physically fragile.
 
 ## Related
 

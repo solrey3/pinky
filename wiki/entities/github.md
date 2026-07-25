@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-25
 tags: [technology, developer-platform, version-control, git, security, supply-chain-security, malware, repository-discovery, zero-days, vulnerability-disclosure, agentic-access-control]
-source_count: 7
+source_count: 8
 ---
 
 # GitHub
@@ -26,6 +26,8 @@ GitHub is the dominant hosted Git and developer-collaboration platform. In the n
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — A Hanwha security camera allegedly shipped a GitHub admin token in its login page, making repository credentials part of the hardware-security story.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears through the Hanwha security-camera admin-token exposure.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — GitHub remains part of the developer/tooling provenance context around AI and platform operations.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-25
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 72
+source_count: 73
 ---
 
 # AEW
@@ -146,6 +146,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — AEW calendar and talent notes include Tony Khan on Swerve Strickland’s absence and Mark Davis singles expansion.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Dynamite/Collision calendar plus Bandido/Kyle Fletcher and Thunder Rosa items appear in the digest.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Dynamite/Collision calendar and San Diego Comic-Con brawl coverage keep AEW in the feed.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-25
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 97
+source_count: 98
 ---
 
 # Security & Privacy Toolkit
@@ -169,6 +169,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — AI breach coverage, a shipped GitHub admin token, Flock misuse, unavailable Kalshi extraction, and weather/feed gaps all make audit logs, credential hygiene, and provenance first-order controls.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — AI breach anxiety, a GitHub admin-token exposure, Flock misuse, unavailable data panels, and noisy prediction-market extraction all point to access-control and provenance discipline.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — ADB restrictions, platform-research access disputes, missing Kalshi/local gas/Inter Miami data, and feed gaps make provenance and auditability the operational theme.
 
 ## Related Concepts
 

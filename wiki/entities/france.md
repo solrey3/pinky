@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-22
 updated: 2026-07-25
 tags: [france, europe, regulation, social-media, age-verification]
-source_count: 2
+source_count: 3
 ---
 
 # France
@@ -18,6 +18,8 @@ European country and regulatory actor. In the newsletter stream, France appears 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — France passes a social-media ban for users under 15, extending the European age-gating and internet-freedom debate.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears in a mass-wildfire evacuation story affecting France and Spain.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — European wildfire evacuations keep France in the emergency-response and climate-risk frame.
 
 ## Related
 

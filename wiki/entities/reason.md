@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-25
 tags: [media, libertarian, policy, economics]
-source_count: 10
+source_count: 11
 ---
 
 # Reason
@@ -33,6 +33,8 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Supplies the Flock surveillance misuse and Nashville/data-center eminent-domain items.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Carries the second Section 301 tariff lawsuit and Flock surveillance-data misuse items.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Frames California goat-grazing restrictions as a property-policy/wildfire-risk dispute.
 
 ## Related
 

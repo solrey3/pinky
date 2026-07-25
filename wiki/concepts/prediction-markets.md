@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-22
 updated: 2026-07-25
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 7
+source_count: 8
 ---
 
 # Prediction Markets
@@ -26,6 +26,8 @@ Prediction markets are trading venues or market-like instruments that convert ex
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — LeBron James next-team odds become the main prediction-market item, but the source’s extraction framing warns against treating scraped odds as self-explanatory truth.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — LeBron James next-team odds appear as the main prediction-market item, but the 100% print and Kalshi outage require extraction skepticism.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Polymarket NBA title odds become the evening prediction feed, with Kalshi unavailable.
 
 ## Related Concepts
 

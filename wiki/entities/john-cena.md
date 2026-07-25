@@ -4,9 +4,9 @@ title: John Cena
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-07-25
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # John Cena (The Champ)
@@ -35,6 +35,8 @@ source_count: 1
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/john-cena.md)
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A wrestling item says he confirmed the smiling tap-out in his final WWE match was his idea.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-25
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 96
+source_count: 97
 ---
 
 # Market Inefficiency
@@ -169,6 +169,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Polymarket showing LeBron to Philadelphia at 100% and Kalshi remaining unavailable illustrate why extracted market data needs provenance checks before interpretation.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — The LeBron-to-76ers 100% Polymarket print and missing Kalshi panel are treated as feed artifacts needing provenance checks.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — LeBron/76ers odds movement and missing Kalshi data reinforce treating market-derived sports signals as noisy evidence rather than fact.
 
 ## Related Concepts
 

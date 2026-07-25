@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 26
+source_count: 27
 ---
 
 # Google
@@ -52,6 +52,8 @@ American technology company and AI lab/operator behind Search, Android, Google C
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The EU fines Google $1B and orders competitor equal treatment, while Alphabet/Google AI capex produces a negative cash-flow quarter.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — A $1B EU fine and equal-treatment order keep Google in the platform-antitrust enforcement lane.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Android ADB restrictions keep Google platform control and mobile developer workflow in the graph.
 
 ## Related
 

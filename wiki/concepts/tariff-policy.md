@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-24
 updated: 2026-07-25
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power]
-source_count: 3
+source_count: 4
 ---
 
 # Tariff Policy
@@ -19,6 +19,8 @@ Tariff policy is the use of import duties to pursue revenue, industrial policy, 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Canada’s readiness to retaliate against new Trump tariffs keeps tariff escalation in the diplomatic, inflation, and market-risk graph.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — A second Section 301 lawsuit turns tariff authority into a litigation and retaliation-risk story.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Trump tariff politics return as an election-year and pocketbook-risk story.
 
 ## Related Concepts
 

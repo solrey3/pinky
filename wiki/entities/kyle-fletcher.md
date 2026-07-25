@@ -4,9 +4,9 @@ title: Kyle Fletcher
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-09
+updated: 2026-07-25
 tags: [person, wrestling]
-source_count: 3
+source_count: 4
 ---
 
 # Kyle Fletcher
@@ -38,6 +38,8 @@ source_count: 3
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — Documented his injury recovery process publicly; confirmed he avoided surgery. Return timeline not announced.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Fletcher wins the AEW International Title, adding another title-state change to the AEW thread.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Brawls with Bandido at San Diego Comic-Con ahead of an AEW Redemption match.
 
 ## Related
 

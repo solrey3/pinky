@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google]
-source_count: 9
+source_count: 10
 ---
 
 # AI Infrastructure Energy Demand
@@ -31,6 +31,8 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Google/Alphabet posts negative cash flow tied to massive AI spending, making AI infrastructure scale visible in corporate cash-flow pressure.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — The Nashville data-center/zoo story keeps AI/data infrastructure visible as a siting, noise, power, and local-impact issue, not only a cloud-capex line item.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Open-weight AI infrastructure and wildfire-disrupted communications sites keep digital infrastructure tied to physical resilience.
 
 ## Related Concepts
 

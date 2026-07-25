@@ -4,9 +4,9 @@ title: San Antonio Spurs
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-06-14
+updated: 2026-07-25
 tags: [nba, basketball, san-antonio-spurs, nba-finals, organization, sports]
-source_count: 12
+source_count: 13
 ---
 
 # San Antonio Spurs
@@ -35,6 +35,8 @@ NBA franchise based in San Antonio, Texas. In the 2026 newsletter stream, the Sp
 - [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard still lists Knicks at Spurs as upcoming, preserving San Antonio's elimination-game setup before any result is recorded.
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Spurs lose Game 5 to the Knicks, 94-90; San Antonio falls in the Finals 4-1.
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening scoreboard confirms the endpoint again: San Antonio loses Game 5 by four and the Finals 4-1.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Polymarket lists San Antonio at 20% NBA title odds, second behind Oklahoma City.
 
 ## Related
 

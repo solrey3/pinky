@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-25
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 70
+source_count: 71
 ---
 
 # WWE
@@ -141,6 +141,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — WWE calendar notes Raw and SmackDown windows, plus AJ Styles/NXT and Santos Escobar items.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Raw/SmackDown calendar plus SmackDown and SummerSlam ladder-match items lead the wrestling digest.
+
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Raw/SmackDown schedule and SmackDown/SummerSlam headlines keep WWE in the wrestling calendar.
 
 ## Related
 
