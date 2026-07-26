@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-26
 tags: [media, politics, congress, policy, washington]
-source_count: 7
+source_count: 8
 ---
 
 # The Hill
@@ -27,6 +27,7 @@ The Hill is a U.S. political-news outlet tracked in the newsletter graph when co
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Supplies tariff, wildfire, Ukraine-drone, and Iran-sanctions headline anchors for the evening brief.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Supplies the heat-dome, mail-in-voting injunction, and Zelensky drone-production headlines that lead the top-story stack.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Leads with cyclospora-outbreak control concerns and polling that the Iran war has been harder than expected.
 
 ## Related
 

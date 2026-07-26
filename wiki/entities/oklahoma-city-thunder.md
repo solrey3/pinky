@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-25
 updated: 2026-07-26
 tags: [basketball, nba, prediction-markets, title-odds]
-source_count: 2
+source_count: 3
 ---
 
 # Oklahoma City Thunder
@@ -18,6 +18,7 @@ NBA team surfaced in the newsletter graph through prediction-market title odds.
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Polymarket trending data lists Oklahoma City at 22% NBA title odds, leading the fetched title-odds board.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Polymarket lists Oklahoma City as the top NBA-title probability at 22%.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Polymarket lists Oklahoma City as the top NBA-title probability at 22%.
 
 ## Related
 

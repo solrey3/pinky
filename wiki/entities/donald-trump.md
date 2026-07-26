@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-07-26
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration]
-source_count: 44
+source_count: 45
 ---
 
 # Donald Trump
@@ -95,6 +95,7 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Tariff politics return as an election-year liability for Republicans and a household-cost policy issue.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — An appeals court upholds an injunction against Trump's mail-in voting order, keeping election-administration authority in litigation.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Trump tariff policy is framed as a credibility problem and a GOP election-season liability.
 
 ## Related
 

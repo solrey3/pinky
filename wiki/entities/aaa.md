@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-19
 updated: 2026-07-26
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 57
+source_count: 58
 ---
 
 # AAA
@@ -124,6 +124,7 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Verano de Escándalo items and Dragon Lee/Rey Mysterio notes keep AAA in the wrestling feed.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Verano de Escándalo results, Dominik Mysterio turning on El Grande Americano, and Penta returning August 15 keep AAA in the wrestling stack.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Verano de Escándalo Night 1 fallout remains in the digest through Dominik Mysterio and El Grande Americano.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-07-26
 tags: [basketball, nba, philadelphia, lebron-james, sports]
-source_count: 4
+source_count: 5
 ---
 
 # Philadelphia 76ers
@@ -22,6 +22,7 @@ NBA franchise tracked here through player-movement, title-odds, and basketball-m
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — LeBron-related odds and Kentavious Caldwell-Pope joining after a buyout make Philadelphia the NBA news hub.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Philadelphia appears through Caldwell-Pope joining the roster and a 13% Polymarket NBA-title line.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Philadelphia appears through a 14% Polymarket NBA-title line and a viral Reddit post claiming a LeBron signing.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-26
 updated: 2026-07-26
 tags: [golf, pga-tour, 3m-open, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Jackson Koivun
@@ -16,6 +16,7 @@ Golfer mentioned in the newsletter sports wire as leading the PGA 3M Open after 
 ## Sources
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Shoots 61 and leads the 3M Open at 20-under after Round 3.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Wins the 3M Open at -25 in his third professional start, holding off Scottie Scheffler.
 
 ## Related
 

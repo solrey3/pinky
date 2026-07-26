@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-26
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket]
-source_count: 98
+source_count: 99
 ---
 
 # Market Inefficiency
@@ -173,6 +173,7 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — LeBron/76ers odds movement and missing Kalshi data reinforce treating market-derived sports signals as noisy evidence rather than fact.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — NBA title odds and the missing Kalshi panel reinforce that extracted market probabilities need liquidity, rules, and scrape-quality checks before being treated as signal.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Unavailable Kalshi data, scraped Polymarket odds, and scoreboard/feed oddities reinforce that data feeds require provenance checks before becoming signal.
 
 ## Related Concepts
 

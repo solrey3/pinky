@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-26
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 36
+source_count: 37
 ---
 
 # Cloud & Infrastructure
@@ -74,6 +74,7 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — India's private rocket debut, moon-base competition, and Google-backed wildfire-detection satellites extend infrastructure analysis into launch cadence, orbital sensing, and public-safety systems.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Cloudflare AI traffic controls and the wildfire evacuation of a NASA Deep Space Network complex connect edge-governance decisions to physical infrastructure continuity.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — AI capex, healthcare cold-chain logistics, and token-relay fraud infrastructure tie cloud/control decisions to physical and financial capacity constraints.
 
 ## Related Concepts
 

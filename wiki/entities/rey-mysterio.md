@@ -4,9 +4,9 @@ title: Rey Mysterio Jr.
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [person, wrestling, aaa, lucha-libre]
-source_count: 4
+source_count: 5
 ---
 
 # Rey Mysterio Jr.
@@ -44,6 +44,7 @@ source_count: 4
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Challenged Penta for the WWE Men's Intercontinental Title on Raw; Penta retained.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A segment is added to AAA Verano de Escándalo, tying him into AAA/WWE crossover attention.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Added to Raw in a match against Ethan Page.
 
 ## Related
 

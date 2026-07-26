@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-26
 tags: [media, news, public-health, energy, new-jersey]
-source_count: 7
+source_count: 8
 ---
 
 # NewsNation
@@ -27,6 +27,7 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Supplies the middle-class income/inflation pressure item in the top-story mix.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Carries France/Spain wildfire evacuations and middle-class inflation pressure in the top-story file.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Carries tariff-election fallout, energy-cost pressure, shark sightings, and AI-psychosis reporting.
 
 ## Related
 

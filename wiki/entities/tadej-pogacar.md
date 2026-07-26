@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-07-26
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 29
+source_count: 30
 ---
 
 # Tadej Pogacar
@@ -69,6 +69,7 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Leads the Tour de France general classification after Stage 20.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Carries the Tour de France general-classification lead into Stage 21.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Equals a record with a fifth Tour de France yellow jersey, finishing atop the general classification.
 
 ## Related
 

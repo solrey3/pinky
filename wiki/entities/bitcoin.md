@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-04
 updated: 2026-07-26
 tags: [crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on]
-source_count: 41
+source_count: 42
 ---
 
 # Bitcoin
@@ -92,6 +92,7 @@ Bitcoin is the largest cryptocurrency and a recurring cross-asset risk-sentiment
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Falls 3.31% and remains a risk-asset stress input in the evening market board.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Bitcoin falls 2.50% to about $64.4K, keeping crypto on the weak side of the selective risk-off board.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Bitcoin slips 1.09% to about $65.4K, staying on the weak side of the selective risk-off board.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-26
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 27
+source_count: 28
 ---
 
 # Polymarket
@@ -65,6 +65,7 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Trending NBA title odds put Oklahoma City, San Antonio, and Philadelphia into the prediction-market feed.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Shows NBA title odds with Oklahoma City at 22%, San Antonio at 20%, and Philadelphia at 13%.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Shows NBA title odds with Oklahoma City at 22%, San Antonio at 20%, and Philadelphia at 14%.
 
 ## Related
 

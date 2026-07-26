@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-25
 updated: 2026-07-26
 tags: [golf, lpga, womens-scottish-open, sports]
-source_count: 2
+source_count: 3
 ---
 
 # Jenny Shin
@@ -18,6 +18,7 @@ LPGA golfer mentioned as chasing her first win in more than 10 years.
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Leads/contends at the ISPS HANDA Women’s Scottish Open after Round 3, chasing a first LPGA win in over a decade.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Leads the LPGA Women's Scottish Open as the final round is in progress.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Wins the Women's Scottish Open at -9, her first LPGA victory since 2016.
 
 ## Related
 

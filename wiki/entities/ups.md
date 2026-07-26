@@ -4,9 +4,9 @@ title: UPS
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-24
+updated: 2026-07-26
 tags: [logistics, shipping, transportation, markets]
-source_count: 21
+source_count: 22
 ---
 
 # UPS
@@ -54,6 +54,7 @@ UPS is tracked as a logistics and economic-activity bellwether.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — UPS falls 2.63%, weakening the logistics-resilience pocket tracked in earlier dispatches.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — UPS falls 2.49%, weakening the logistics resilience pocket.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — UPS is part of the healthcare-logistics/cold-storage race tied to GLP-1 demand; its stock falls 2.49%.
 
 ## Related
 

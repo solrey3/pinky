@@ -3,9 +3,9 @@ id: 44e25985-74eb-4a5b-adb8-757d8d9bfeb4
 title: Foodborne Outbreaks
 type: concept
 created: 2026-07-17
-updated: 2026-07-24
+updated: 2026-07-26
 tags: [public-health, food-safety, supply-chain, outbreaks, recalls]
-source_count: 8
+source_count: 9
 ---
 
 # Foodborne Outbreaks
@@ -27,6 +27,7 @@ Foodborne outbreaks are illness clusters tied to contaminated food products, sou
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The FDA tracks a second cyclospora outbreak with 72 cases, extending the outbreak thread from lettuce-test corrections into fresh surveillance.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — FDA investigation of a second cyclospora outbreak extends the food-safety surveillance thread.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Scott Gottlieb says the cyclospora outbreak is not under control, keeping FDA communication and food-supply traceability in view.
 
 ## Related Concepts
 

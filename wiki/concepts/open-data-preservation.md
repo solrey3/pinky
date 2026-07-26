@@ -3,9 +3,9 @@ id: 47e5c4ae-e2c7-4f42-92d0-0976f71705a5
 title: Open Data Preservation
 type: concept
 created: 2026-07-13
-updated: 2026-07-20
+updated: 2026-07-26
 tags: [open-data, archives, public-data, climate, resilience, provenance]
-source_count: 2
+source_count: 3
 ---
 
 # Open Data Preservation
@@ -17,6 +17,7 @@ Preserving public information by making data open, replicable, and reusable beyo
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Climate.gov's survival through open data becomes a concrete case for archive resilience and public-data provenance.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The reported wipe of Romania’s land-registry database is a stark public-record resilience and backup-governance case.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Big Tech researcher-access stonewalling shows that externally auditable social-media research depends on platform data access, not just archive durability.
 
 ## Related Concepts
 

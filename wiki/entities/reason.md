@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-26
 tags: [media, libertarian, policy, economics]
-source_count: 12
+source_count: 13
 ---
 
 # Reason
@@ -37,6 +37,7 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Frames California goat-grazing restrictions as a property-policy/wildfire-risk dispute.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Frames California goat-grazing restrictions as a wildfire-policy problem.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Frames Trump tariffs as damaging U.S. trustworthiness and credibility.
 
 ## Related
 
