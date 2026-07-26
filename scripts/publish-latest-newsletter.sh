@@ -58,8 +58,23 @@ def meta_value(key: str) -> str:
         return ""
     return m.group(1).strip().strip("'\"")
 
+def normalize_tables(markdown: str) -> str:
+    """Make pipe tables kramdown-friendly for GitHub Pages."""
+    lines = markdown.splitlines()
+    normalized = []
+    for line in lines:
+        stripped = line.lstrip()
+        starts_table = stripped.startswith("|")
+        previous = normalized[-1] if normalized else ""
+        previous_is_table = previous.lstrip().startswith("|")
+        if starts_table and previous and not previous_is_table and previous.strip():
+            normalized.append("")
+        normalized.append(line)
+    return "\n".join(normalized)
+
 created = meta_value("created") or "unknown"
 source_title = meta_value("title") or src.stem
+body = normalize_tables(body)
 out = f"""---
 layout: page
 title: Latest Dispatch
