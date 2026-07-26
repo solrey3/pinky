@@ -105,6 +105,11 @@ def apply_news_preferences(markdown: str) -> str:
         "\\1_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_\n\n",
         markdown,
     )
+    markdown = re.sub(
+        r"(?m)^(### Meltzer 5-Star\+ Ratings\n)(?!_Source:)",
+        "\\1_Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_\n\n",
+        markdown,
+    )
     lines = [line for line in markdown.splitlines() if not re.match(r"^\|\s*TGT\s*\|", line)]
     return sanitize_link_text(linkify_bare_urls("\n".join(lines)))
 
