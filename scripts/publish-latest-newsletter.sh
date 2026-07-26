@@ -64,6 +64,15 @@ def linkify_bare_urls(markdown: str) -> str:
     return url_re.sub(lambda m: f"[{m.group(1)}]({m.group(1)})", markdown)
 
 
+def sanitize_link_text(markdown: str) -> str:
+    """Avoid kramdown treating pipes inside link text as table cells."""
+    return re.sub(
+        r"\[([^\]\n]*\|[^\]\n]*)\]\(([^)]+)\)",
+        lambda m: "[" + m.group(1).replace("|", "—") + "](" + m.group(2) + ")",
+        markdown,
+    )
+
+
 def apply_news_preferences(markdown: str) -> str:
     """Apply stable display preferences for the public latest-dispatch page."""
     markdown = re.sub(
@@ -97,7 +106,7 @@ def apply_news_preferences(markdown: str) -> str:
         markdown,
     )
     lines = [line for line in markdown.splitlines() if not re.match(r"^\|\s*TGT\s*\|", line)]
-    return linkify_bare_urls("\n".join(lines))
+    return sanitize_link_text(linkify_bare_urls("\n".join(lines)))
 
 
 def normalize_tables(markdown: str) -> str:
