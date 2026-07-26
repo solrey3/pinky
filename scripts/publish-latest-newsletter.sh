@@ -141,7 +141,7 @@ def apply_news_preferences(markdown: str) -> str:
     if "### Business Newswire" not in markdown:
         markdown = re.sub(
             r"(?m)^(## 📈 BUSINESS & MARKETS(?: — THE DAY'S CLOSE)?\n)",
-            "\\1\n### Business Newswire\n_Source feeds: [MarketWatch](https://feeds.content.dowjones.io/public/rss/mw_topstories), [WSJ](https://feeds.wsj.com/wsj/xml/rss/3_7011.xml), [Bloomberg Markets](https://feeds.bloomberg.com/markets/news.rss)_\n\n",
+            "\\1\n### Business Newswire\n_Source feeds: [MarketWatch](https://feeds.content.dowjones.io/public/rss/mw_topstories), [WSJ](https://feeds.wsj.com/wsj/xml/rss/3_7011.xml)_\n\n",
             markdown,
         )
     markdown = re.sub(
