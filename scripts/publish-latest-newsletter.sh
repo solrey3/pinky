@@ -58,6 +58,12 @@ def meta_value(key: str) -> str:
         return ""
     return m.group(1).strip().strip("'\"")
 
+def linkify_bare_urls(markdown: str) -> str:
+    """Convert bare URLs to markdown links without touching existing markdown links."""
+    url_re = re.compile(r"(?<!\]\()(?<!\()(?<!<)(https?://[^\s)\]>|]+)")
+    return url_re.sub(lambda m: f"[{m.group(1)}]({m.group(1)})", markdown)
+
+
 def apply_news_preferences(markdown: str) -> str:
     """Apply stable display preferences for the public latest-dispatch page."""
     markdown = re.sub(
@@ -80,8 +86,18 @@ def apply_news_preferences(markdown: str) -> str:
         "[Wawa #0937, 1725 Hooper Ave, Toms River NJ](https://www.wawa.com/locations/937)",
         markdown,
     )
+    markdown = re.sub(
+        r"(?m)^(### 🗞️ Sports Newswire\n)(?!_Sources:)",
+        "\\1_Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/devils/news), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_\n\n",
+        markdown,
+    )
+    markdown = re.sub(
+        r"(?m)^(### Team Reports\n)(?!_Sources:)",
+        "\\1_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_\n\n",
+        markdown,
+    )
     lines = [line for line in markdown.splitlines() if not re.match(r"^\|\s*TGT\s*\|", line)]
-    return "\n".join(lines)
+    return linkify_bare_urls("\n".join(lines))
 
 
 def normalize_tables(markdown: str) -> str:
