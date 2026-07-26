@@ -73,6 +73,49 @@ def sanitize_link_text(markdown: str) -> str:
     )
 
 
+def link_market_labels(markdown: str) -> str:
+    """Link market table labels to MarketWatch and mortgage rate to Bankrate."""
+    links = {
+        "S&P 500": "https://www.marketwatch.com/investing/index/spx",
+        "Dow 30": "https://www.marketwatch.com/investing/index/djia",
+        "Nasdaq": "https://www.marketwatch.com/investing/index/comp",
+        "Russell 2000": "https://www.marketwatch.com/investing/index/rut",
+        "30-YR Treasury": "https://www.marketwatch.com/investing/bond/tmubmusd30y",
+        "90-Day T-Bill": "https://www.marketwatch.com/investing/bond/tmubmusd03m",
+        "PHP/USD": "https://www.marketwatch.com/investing/currency/usdphp",
+        "EUR/USD": "https://www.marketwatch.com/investing/currency/eurusd",
+        "CNY/USD": "https://www.marketwatch.com/investing/currency/usdcny",
+        "ONEQ — Fidelity Nasdaq Composite ETF": "https://www.marketwatch.com/investing/fund/oneq",
+        "SCHD — Schwab U.S. Dividend Equity ETF": "https://www.marketwatch.com/investing/fund/schd",
+        "VXUS — Vanguard Total International Stock ETF": "https://www.marketwatch.com/investing/fund/vxus",
+        "VBR — Vanguard Small-Cap Value ETF": "https://www.marketwatch.com/investing/fund/vbr",
+        "VNQ — Vanguard Real Estate ETF": "https://www.marketwatch.com/investing/fund/vnq",
+        "NVDA": "https://www.marketwatch.com/investing/stock/nvda",
+        "TSM": "https://www.marketwatch.com/investing/stock/tsm",
+        "AMD": "https://www.marketwatch.com/investing/stock/amd",
+        "AMZN": "https://www.marketwatch.com/investing/stock/amzn",
+        "NFLX": "https://www.marketwatch.com/investing/stock/nflx",
+        "TSLA": "https://www.marketwatch.com/investing/stock/tsla",
+        "PYPL": "https://www.marketwatch.com/investing/stock/pypl",
+        "BRK.B": "https://www.marketwatch.com/investing/stock/brk.b",
+        "AXP": "https://www.marketwatch.com/investing/stock/axp",
+        "SCHW": "https://www.marketwatch.com/investing/stock/schw",
+        "RL": "https://www.marketwatch.com/investing/stock/rl",
+        "COST": "https://www.marketwatch.com/investing/stock/cost",
+        "UPS": "https://www.marketwatch.com/investing/stock/ups",
+        "Bitcoin": "https://www.marketwatch.com/investing/cryptocurrency/btcusd",
+        "Oil (WTI)": "https://www.marketwatch.com/investing/future/cl.1",
+    }
+    for label, url in links.items():
+        markdown = markdown.replace(f"| {label} |", f"| [{label}]({url}) |")
+    markdown = re.sub(
+        r"(?m)^- 30-Year Fixed Mortgage Rate:",
+        "- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/):",
+        markdown,
+    )
+    return markdown
+
+
 def apply_news_preferences(markdown: str) -> str:
     """Apply stable display preferences for the public latest-dispatch page."""
     markdown = re.sub(
@@ -111,7 +154,7 @@ def apply_news_preferences(markdown: str) -> str:
         markdown,
     )
     lines = [line for line in markdown.splitlines() if not re.match(r"^\|\s*TGT\s*\|", line)]
-    return sanitize_link_text(linkify_bare_urls("\n".join(lines)))
+    return sanitize_link_text(linkify_bare_urls(link_market_labels("\n".join(lines))))
 
 
 def normalize_tables(markdown: str) -> str:
