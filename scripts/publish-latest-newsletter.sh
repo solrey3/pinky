@@ -138,6 +138,12 @@ def apply_news_preferences(markdown: str) -> str:
         "[Wawa #0937, 1725 Hooper Ave, Toms River NJ](https://www.wawa.com/locations/937)",
         markdown,
     )
+    if "### Business Newswire" not in markdown:
+        markdown = re.sub(
+            r"(?m)^(## 📈 BUSINESS & MARKETS(?: — THE DAY'S CLOSE)?\n)",
+            "\\1\n### Business Newswire\n_Source feeds: [MarketWatch](https://feeds.content.dowjones.io/public/rss/mw_topstories), [WSJ](https://feeds.wsj.com/wsj/xml/rss/3_7011.xml), [Bloomberg Markets](https://feeds.bloomberg.com/markets/news.rss)_\n\n",
+            markdown,
+        )
     markdown = re.sub(
         r"(?m)^(### 🗞️ Sports Newswire\n)(?!_Sources:)",
         "\\1_Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/devils/news), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_\n\n",
