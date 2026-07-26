@@ -58,6 +58,32 @@ def meta_value(key: str) -> str:
         return ""
     return m.group(1).strip().strip("'\"")
 
+def apply_news_preferences(markdown: str) -> str:
+    """Apply stable display preferences for the public latest-dispatch page."""
+    markdown = re.sub(
+        r"(?m)^### Toms River, NJ\n(?!\[Weather\])",
+        "### Toms River, NJ\n[Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)\n",
+        markdown,
+    )
+    markdown = re.sub(
+        r"(?m)^### Makati, Philippines\n(?!\[Weather\])",
+        "### Makati, Philippines\n[Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)\n",
+        markdown,
+    )
+    markdown = re.sub(
+        r"(?<!\[)Wawa #0937 Toms River, NJ",
+        "[Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937)",
+        markdown,
+    )
+    markdown = re.sub(
+        r"(?<!\[)Wawa #0937, 1725 Hooper Ave, Toms River NJ",
+        "[Wawa #0937, 1725 Hooper Ave, Toms River NJ](https://www.wawa.com/locations/937)",
+        markdown,
+    )
+    lines = [line for line in markdown.splitlines() if not re.match(r"^\|\s*TGT\s*\|", line)]
+    return "\n".join(lines)
+
+
 def normalize_tables(markdown: str) -> str:
     """Make pipe tables kramdown-friendly for GitHub Pages."""
     lines = markdown.splitlines()
@@ -74,6 +100,7 @@ def normalize_tables(markdown: str) -> str:
 
 created = meta_value("created") or "unknown"
 source_title = meta_value("title") or src.stem
+body = apply_news_preferences(body)
 body = normalize_tables(body)
 out = f"""---
 layout: page
