@@ -22,6 +22,8 @@ pinky/
 │   ├── gists/          # Captured gists and frameworks
 │   ├── newsletters/    # Daily Daytime Dispatch & Evening Brief
 │   └── assets/         # Images, PDFs, downloaded attachments
+├── scripts/
+│   └── publish-latest-newsletter.sh  # Publishes latest dispatch to GitHub Pages /news
 └── wiki/
     ├── README.md       # Wiki schema
     ├── index.md        # Content catalog (updated on every ingest)
@@ -45,6 +47,19 @@ pinky/
 1. Ask a question
 2. LLM reads `wiki/index.md` to find relevant pages
 3. Reads those pages, synthesizes answer with citations
+
+### Publish Latest Dispatch
+The News Correspondent pipeline publishes the newest file from `raw/newsletters/` to GitHub Pages:
+
+```bash
+~/pinky/scripts/publish-latest-newsletter.sh [optional/path/to/newsletter.md]
+```
+
+This writes `~/solrey3.github.io/news/index.md`, commits it in the Pages repo, and pushes it so the latest dispatch is available at:
+
+- https://solrey3.github.io/news
+
+The publisher normalizes Markdown tables for Jekyll/kramdown, adds high-contrast table styling, linkifies required public sources, and enforces public-display preferences such as weather links, MarketWatch ticker links, sports source links, and clickable wrestling schedule URLs.
 
 ### Lint
 Periodic health check for contradictions, stale claims, orphan pages, and missing cross-references.
