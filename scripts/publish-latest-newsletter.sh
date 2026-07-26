@@ -146,7 +146,7 @@ def apply_news_preferences(markdown: str) -> str:
         )
     markdown = re.sub(
         r"(?m)^(### 🗞️ Sports Newswire\n)(?!_Sources:)",
-        "\\1_Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/devils/news), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_\n\n",
+        "\\1_Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_\n\n",
         markdown,
     )
     markdown = re.sub(
