@@ -4,9 +4,9 @@ title: Matias Vanhanen
 type: entity
 entity_type: person
 created: 2026-07-20
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [hockey, new-jersey-devils, prospects]
-source_count: 3
+source_count: 4
 ---
 
 # Matias Vanhanen
@@ -20,6 +20,8 @@ Matias Vanhanen is tracked as a Devils prospect when prospect-profile coverage a
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Vanhanen receives a Devils prospect-profile mention in the evening sports wire.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Devils prospect-profile coverage keeps Vanhanen in the team development graph.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Named in a Devils prospect-profile batch in the sports wire.
 
 ## Related
 

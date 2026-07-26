@@ -4,9 +4,9 @@ title: NASA Deep Space Network
 type: entity
 entity_type: organization
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [nasa, space, communications, infrastructure, wildfires, spain]
-source_count: 1
+source_count: 2
 ---
 
 # NASA Deep Space Network
@@ -16,6 +16,8 @@ NASA communications network used for deep-space mission contact. In the newslett
 ## Sources
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A wildfire forces evacuation of a Deep Space Network complex in Spain, connecting wildfire risk to space communications resilience.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — The Spain complex wildfire evacuation repeats as a space-infrastructure continuity warning.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Reason
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [media, libertarian, policy, economics]
-source_count: 11
+source_count: 12
 ---
 
 # Reason
@@ -35,6 +35,8 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Carries the second Section 301 tariff lawsuit and Flock surveillance-data misuse items.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Frames California goat-grazing restrictions as a property-policy/wildfire-risk dispute.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Frames California goat-grazing restrictions as a wildfire-policy problem.
 
 ## Related
 

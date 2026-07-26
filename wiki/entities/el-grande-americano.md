@@ -4,9 +4,9 @@ title: El Grande Americano
 type: entity
 entity_type: person
 created: 2026-07-12
-updated: 2026-07-13
+updated: 2026-07-26
 tags: [wrestling, aaa, wwe, lucha-libre]
-source_count: 3
+source_count: 4
 ---
 
 # El Grande Americano
@@ -20,6 +20,8 @@ El Grande Americano is tracked as a lucha/wrestling character appearing in AAA/W
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — AAA on Fox results report Dominik Mysterio aligning with El Grande Americano.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — El Grande Americano is linked with Dominik Mysterio in AAA fallout after Vikingo's title is vacated.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Betrayed by Dominik Mysterio at AAA Verano de Escándalo.
 
 ## Related
 

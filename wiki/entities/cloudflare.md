@@ -4,9 +4,9 @@ title: Cloudflare
 type: entity
 entity_type: organization
 created: 2026-06-20
-updated: 2026-07-09
+updated: 2026-07-26
 tags: [cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control]
-source_count: 3
+source_count: 4
 ---
 
 # Cloudflare
@@ -20,6 +20,8 @@ Cloudflare is a cloud infrastructure and security company. In the newsletter gra
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — x402 Monetization Gateway puts payment enforcement closer to the edge stack, extending Cloudflare from access/security plumbing into monetization infrastructure.
 
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Cloudflare Drop appears as another developer-infrastructure item drawing Hacker News attention.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Cloudflare AI traffic options put crawler governance and customer control at the edge-infrastructure layer.
 
 ## Related
 

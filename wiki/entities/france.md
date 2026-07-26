@@ -4,9 +4,9 @@ title: France
 type: entity
 entity_type: place
 created: 2026-07-22
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [france, europe, regulation, social-media, age-verification]
-source_count: 3
+source_count: 4
 ---
 
 # France
@@ -20,6 +20,8 @@ European country and regulatory actor. In the newsletter stream, France appears 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears in a mass-wildfire evacuation story affecting France and Spain.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — European wildfire evacuations keep France in the emergency-response and climate-risk frame.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — European wildfire evacuations keep France in the climate-stress and emergency-management stack.
 
 ## Related
 

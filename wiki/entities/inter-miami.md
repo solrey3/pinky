@@ -4,9 +4,9 @@ title: Inter Miami
 type: entity
 entity_type: organization
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-07-26
 tags: [soccer, mls, miami, lionel-messi]
-source_count: 1
+source_count: 2
 ---
 
 # Inter Miami
@@ -16,6 +16,8 @@ Inter Miami is tracked as Messi-adjacent MLS club coverage.
 ## Sources
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Inter Miami appears through Messi and De Paul hiatus coverage.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Inter Miami says Berterame is okay after a head collision, while schedule parsing remains unreliable.
 
 ## Related
 

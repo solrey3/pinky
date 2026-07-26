@@ -4,9 +4,9 @@ title: California
 type: entity
 entity_type: place
 created: 2026-07-02
-updated: 2026-07-20
+updated: 2026-07-26
 tags: [california, state, regulation, consumer-protection, food-labels, united-states]
-source_count: 3
+source_count: 4
 ---
 
 # California
@@ -20,6 +20,8 @@ California is a U.S. state that often functions as a large-market policy setter.
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The nudify-app enforcement item links San Francisco action to California privacy and civil-code context.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — California basic-phone-service regulation survives a key AT&T challenge.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Goat-grazing wildfire policy puts California land-management rules inside the wildfire-resilience thread.
 
 ## Related
 

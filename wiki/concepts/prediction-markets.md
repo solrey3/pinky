@@ -3,9 +3,9 @@ id: 187e23f6-bd52-42bc-9643-eb7388e225d3
 title: Prediction Markets
 type: concept
 created: 2026-07-22
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 8
+source_count: 9
 ---
 
 # Prediction Markets
@@ -28,6 +28,8 @@ Prediction markets are trading venues or market-like instruments that convert ex
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — LeBron James next-team odds appear as the main prediction-market item, but the 100% print and Kalshi outage require extraction skepticism.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Polymarket NBA title odds become the evening prediction feed, with Kalshi unavailable.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Polymarket NBA title odds put Oklahoma City at 22%, San Antonio at 20%, and Philadelphia at 13%, while Kalshi remains unavailable.
 
 ## Related Concepts
 

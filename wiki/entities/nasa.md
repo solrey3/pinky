@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [space, science, government, artemis, moon]
-source_count: 3
+source_count: 4
 ---
 
 # NASA
@@ -20,6 +20,8 @@ NASA is the United States civilian space agency. In the newsletter stream it app
 - [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — A NewsNation item previews NASA astronaut Anil Menon's trip to the space station, keeping NASA in the orbital-operations news stream.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A wildfire forces evacuation of a Deep Space Network complex in Spain, making space communications physically fragile.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — NASA enters via Deep Space Network wildfire evacuation risk in Spain.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 73
+source_count: 74
 ---
 
 # AEW
@@ -148,6 +148,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Dynamite/Collision calendar plus Bandido/Kyle Fletcher and Thunder Rosa items appear in the digest.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Dynamite/Collision calendar and San Diego Comic-Con brawl coverage keep AEW in the feed.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Collision results and an AEW World Trios title-match setup keep AEW in the weekly wrestling schedule/results flow.
 
 ## Related
 

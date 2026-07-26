@@ -4,9 +4,9 @@ title: Volodymyr Zelensky
 type: entity
 entity_type: person
 created: 2026-07-01
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [person, ukraine, geopolitics, war, russia]
-source_count: 4
+source_count: 5
 ---
 
 # Volodymyr Zelensky
@@ -22,6 +22,8 @@ President of Ukraine. In the newsletter graph, Zelensky appears as a wartime pol
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Set to huddle with Trump at the NATO Summit, keeping Ukraine diplomacy in the daily geopolitical stack.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Says the U.S. and Ukraine are moving forward on joint drone production.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Says the U.S. and Ukraine are moving forward on joint drone production.
 
 ## Related
 

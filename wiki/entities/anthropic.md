@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 31
+source_count: 32
 ---
 
 # Anthropic
@@ -100,6 +100,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Claude Opus 5 leads the AI desk/Hacker News board in the daytime dispatch.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Claude context-engineering guidance keeps Anthropic in the developer-workflow and frontier-model operations graph.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Claude 5 context-engineering guidance leads Hacker News, while Opus 5 is framed as efficiency-first rather than a capability leap.
 
 ## Related
 

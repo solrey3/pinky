@@ -4,9 +4,9 @@ title: Gustav Hillstrom
 type: entity
 entity_type: person
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [hockey, new-jersey-devils, prospects]
-source_count: 2
+source_count: 3
 ---
 
 # Gustav Hillstrom
@@ -18,6 +18,8 @@ New Jersey Devils prospect tracked through team prospect-profile coverage.
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears through a Devils prospect-profile item in the daytime sports newswire.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Devils prospect-profile coverage keeps Hillstrom in the team development graph.
+
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Named in a Devils prospect-profile batch in the sports wire.
 
 ## Related
 
