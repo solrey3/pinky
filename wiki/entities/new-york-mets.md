@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-27
 tags: [baseball, mlb, new-york-mets, schedule, sports]
-source_count: 9
+source_count: 10
 ---
 
 # New York Mets
@@ -30,6 +30,8 @@ The New York Mets are an MLB franchise tracked as a recurring local sports inter
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Mets coverage centers on an 8–3 win over the Dodgers and the note that Peralta likely made his last start for New York.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — The Mets beat the Dodgers 8–3 and host Atlanta to begin a three-game series.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — The Mets beat the Dodgers 8–3 in the prior fetched result and Juan Soto expects to return this season.
 
 ## Related
 

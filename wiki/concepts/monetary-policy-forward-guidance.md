@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-27
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 76
+source_count: 77
 ---
 
 # Monetary Policy Forward Guidance
@@ -152,6 +152,8 @@ A central-bank communication strategy that attempts to shape expectations by sig
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — EFFR 3.63%, target range 3.50–3.75%, 30-year Treasury 5.162%, 90-day bill 3.805%, mortgage 6.75%, gasoline above $4, and PHP near its range high update rate/affordability pressure.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — EFFR, target range, Treasury rates, mortgage rates, gas, FX, and oil keep the rate-transmission board current.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — EFFR is 3.63% inside a 3.50–3.75% target range, with 30-year Treasury 5.125%, 90-day bill 3.797%, mortgage 6.75%, FX, gasoline, and oil updating the rate-transmission board.
 
 ## Related Concepts
 

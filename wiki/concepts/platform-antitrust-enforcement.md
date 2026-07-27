@@ -3,9 +3,9 @@ id: 4be1896e-3540-4384-a4a5-9c08bf8f0eb3
 title: Platform Antitrust Enforcement
 type: concept
 created: 2026-07-23
-updated: 2026-07-24
+updated: 2026-07-27
 tags: [antitrust, platforms, competition, regulation, european-union, google]
-source_count: 2
+source_count: 3
 ---
 
 # Platform Antitrust Enforcement
@@ -16,6 +16,8 @@ Platform antitrust enforcement is competition-law action aimed at dominant digit
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The European Union fines Google $1B and orders equal treatment for competitors, adding a concrete remedy-and-compliance example to platform competition governance.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The EU/Google Digital Markets Act fine and equal-treatment order keep self-preferencing and platform remedies in focus.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Google’s failed DMCA anti-scraping theory and YouTube’s Peacock bundling both sit inside platform-control and distribution-power debates.
 
 ## Related Concepts
 

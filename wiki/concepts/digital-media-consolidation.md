@@ -3,9 +3,9 @@ id: 61d06d6b-bc1d-4cf5-85a5-1bffd022d972
 title: Digital Media Consolidation
 type: concept
 created: 2026-07-01
-updated: 2026-07-25
+updated: 2026-07-27
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 10
+source_count: 11
 ---
 
 # Digital Media Consolidation
@@ -32,6 +32,8 @@ Digital media consolidation is the concentration of content ownership, distribut
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Paramount Skydance agreeing to hold off on a Warner Bros. merger pending antitrust proceedings keeps consolidation controlled by courts and regulators.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Paramount Skydance agreeing to pause a Warner merger keeps media consolidation subject to legal and antitrust procedure.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — NBCUniversal embedding Peacock inside YouTube premium subscriptions extends the streaming rebundling pattern.
 
 ## Related Concepts
 

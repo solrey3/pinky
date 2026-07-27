@@ -4,9 +4,9 @@ title: Microsoft
 type: entity
 entity_type: organization
 created: 2026-06-02
-updated: 2026-07-24
+updated: 2026-07-27
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 24
+source_count: 25
 ---
 
 # Microsoft
@@ -77,6 +77,8 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Microsoft open-sources Comic Chat, adding a preservation/open-source-software-history artifact to the company's platform graph.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Microsoft joins Nvidia and Meta in warning against open-weight AI restrictions.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Microsoft earnings loom in coverage of AI-related bond cracks and AI capex credit risk.
 
 ## Related
 

@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-22
 updated: 2026-07-27
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 11
+source_count: 12
 ---
 
 # Prediction Markets
@@ -33,6 +33,8 @@ Prediction markets are trading venues or market-like instruments that convert ex
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Polymarket NBA title odds list Oklahoma City 22%, San Antonio 20%, and Philadelphia 14%, while Kalshi remains unavailable.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Polymarket and Kalshi panels are listed but unavailable, reinforcing feed reliability caveats.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Polymarket text is fetched without reliable odds/movers and Kalshi is unavailable, preserving the prediction-market feed-fragility caveat.
 
 ## Related Concepts
 

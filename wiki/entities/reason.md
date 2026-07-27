@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-27
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 14
+source_count: 15
 ---
 
 # Reason
@@ -40,6 +40,8 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Frames Trump tariffs as damaging U.S. trustworthiness and credibility.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Reason frames Trump tariffs as a credibility and trustworthiness problem for the United States.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Reason tracks the peptide gray market as FDA enforcement catches up to a consumer health trend.
 
 ## Related
 

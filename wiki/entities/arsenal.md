@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-07-27
 tags: [soccer, football, arsenal, premier-league, ucl, london, organization, sports]
-source_count: 8
+source_count: 9
 ---
 
 # Arsenal FC
@@ -39,6 +39,8 @@ London-based Premier League club, founded 1886. One of England's most storied fo
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Arsenal notes include Bruno Guimarães transfer-interest coverage and a bruised-banana away-kit item.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Arsenal appears through Bruno Guimarães/Newcastle-future transfer-interest chatter.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Arsenal appears in the soccer team-report area, with current schedule blocks fetched but no upcoming domestic/UCL games.
 
 ## Related
 

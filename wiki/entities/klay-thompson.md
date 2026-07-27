@@ -4,9 +4,9 @@ title: Klay Thompson
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-07-27T03:20:14Z
 tags: [person, basketball, nba]
-source_count: 1
+source_count: 2
 ---
 
 # Klay Thompson
@@ -34,6 +34,8 @@ Splash Bro. Four championships with Golden State, two-year recovery from Achille
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/klay-thompson.md)
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Klay Thompson is listed among names to watch in post-LeBron NBA market chatter.
 
 ## Related
 

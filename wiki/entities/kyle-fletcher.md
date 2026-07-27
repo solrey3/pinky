@@ -4,9 +4,9 @@ title: Kyle Fletcher
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-25
+updated: 2026-07-27
 tags: [person, wrestling]
-source_count: 4
+source_count: 5
 ---
 
 # Kyle Fletcher
@@ -40,6 +40,8 @@ source_count: 4
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Fletcher wins the AEW International Title, adding another title-state change to the AEW thread.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Brawls with Bandido at San Diego Comic-Con ahead of an AEW Redemption match.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Kyle Fletcher is booked against Speedball Mike Bailey for the AEW International Title at Grand Slam Mexico 2026.
 
 ## Related
 

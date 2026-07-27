@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-27
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 97
+source_count: 98
 ---
 
 # Risk-Off Market Rotation
@@ -173,6 +173,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — S&P -0.61%, Nasdaq -2.13%, Tesla -17.81%, Amazon -6.12%, AXP -8.21%, and Bitcoin -1.09% keep the tape risk-off, while AMD/TSM/Nvidia and selected ETFs preserve selectivity.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Nasdaq -2.13%, Tesla -17.81%, Amazon and AXP weakness coexist with AMD/TSM/Nvidia strength and resilient ETF pockets.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Nasdaq -2.26%, Tesla -16.33%, Amazon -7.44%, AI chips, Bitcoin, and WTI weaken while Dow/Russell and dividend/value/REIT/quality pockets stay green.
 
 ## Related Concepts
 

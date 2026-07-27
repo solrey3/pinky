@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-27
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 29
+source_count: 30
 ---
 
 # Polymarket
@@ -68,6 +68,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Shows NBA title odds with Oklahoma City at 22%, San Antonio at 20%, and Philadelphia at 14%.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Polymarket is listed in the prediction-market panel but data is unavailable, reinforcing extraction and feed-fragility caveats.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Polymarket trending text is fetched but lacks reliable odds/mover data, preserving extraction caveats.
 
 ## Related
 

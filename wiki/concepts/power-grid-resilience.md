@@ -3,9 +3,9 @@ id: 530ce36f-3c5b-4f40-8942-fcabf4e87ccd
 title: Power Grid Resilience
 type: concept
 created: 2026-07-01
-updated: 2026-07-26
+updated: 2026-07-27
 tags: [energy, infrastructure, power-grid, resilience, heat-wave, emergency-orders, climate]
-source_count: 7
+source_count: 8
 ---
 
 # Power Grid Resilience
@@ -27,6 +27,8 @@ Power grid resilience is the ability of electrical systems to maintain or restor
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Electricity-price politics, WTI +7.10%, gasoline prices, weather, and utility bills connect energy infrastructure to affordability risk.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — The central-U.S. heat dome, elevated energy costs, and wildfire disruptions keep weather stress tied to infrastructure reliability and household affordability.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Data-center power-plant exemptions make AI compute growth a grid, generation, and pollution-control issue rather than a purely digital one.
 
 ## Related Concepts
 

@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-02
 updated: 2026-07-27
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality]
-source_count: 12
+source_count: 13
 ---
 
 # AI Infrastructure Energy Demand
@@ -36,6 +36,8 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Moody's warns unprecedented AI spending could pressure Big Tech credit quality, while GLP-1 cold-chain logistics show infrastructure demand outside pure data centers.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Moody's warns that unprecedented AI spending can pressure Big Tech credit quality.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — EPA data-center power-plant pollution exemptions and AI-financing/bond worries tie compute growth to electricity, pollution rules, capex, and credit risk.
 
 ## Related Concepts
 
