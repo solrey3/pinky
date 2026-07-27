@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-26
-tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off]
-source_count: 76
+updated: 2026-07-27
+tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware]
+source_count: 77
 ---
 
 # AMD
@@ -152,6 +152,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — AMD gains 5.28%, standing out as a semiconductor pocket of strength despite a red Nasdaq.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — AMD gains 5.28%, the strongest semiconductor name in the evening stock-watch table.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — AMD is a semiconductor bright spot at +5.28% despite Nasdaq weakness.
 
 ## Related
 

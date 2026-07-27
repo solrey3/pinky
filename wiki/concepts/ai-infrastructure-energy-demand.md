@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-07-26
-tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google]
-source_count: 11
+updated: 2026-07-27
+tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality]
+source_count: 12
 ---
 
 # AI Infrastructure Energy Demand
@@ -34,6 +34,8 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Open-weight AI infrastructure and wildfire-disrupted communications sites keep digital infrastructure tied to physical resilience.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Moody's warns unprecedented AI spending could pressure Big Tech credit quality, while GLP-1 cold-chain logistics show infrastructure demand outside pure data centers.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Moody's warns that unprecedented AI spending can pressure Big Tech credit quality.
 
 ## Related Concepts
 

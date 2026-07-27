@@ -4,9 +4,9 @@ title: Berkshire Hathaway
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-24
-tags: [finance, insurance, conglomerate, markets, brk-b]
-source_count: 20
+updated: 2026-07-27
+tags: [finance, insurance, conglomerate, markets, brk-b, quality, value]
+source_count: 21
 ---
 
 # Berkshire Hathaway
@@ -52,6 +52,8 @@ Berkshire Hathaway is tracked as a diversified value and insurance-market bellwe
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Berkshire is only slightly lower, remaining part of the quality/resilience comparison set.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Berkshire Hathaway gains 0.82%, preserving a quality/value contrast with high-beta weakness.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Berkshire Hathaway is positive in the stock watch, reinforcing the split between quality/value and high-beta weakness.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Andrade / Andrade El Idolo
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-06-14
-tags: [person, wrestling]
-source_count: 2
+updated: 2026-07-27
+tags: [person, wrestling, aew]
+source_count: 3
 ---
 
 # Andrade / Andrade El Idolo
@@ -40,6 +40,8 @@ The June 14 evening dispatch places Andrade El Idolo in NJPW Dominion 6.14's IWG
 
 - [2026-05-27: Raw notes](../../raw/people/andrade.md)
 - [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Shota Umino pins Andrade El Idolo in a three-way to win the IWGP Global Heavyweight title at NJPW Dominion 6.14.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Andrade beats Mark Davis at Redemption to earn the AEW National Title.
 
 ## Related
 

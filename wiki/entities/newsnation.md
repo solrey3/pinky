@@ -4,9 +4,9 @@ title: NewsNation
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-26
-tags: [media, news, public-health, energy, new-jersey]
-source_count: 8
+updated: 2026-07-27
+tags: [media, news, public-health, energy, new-jersey, public-safety]
+source_count: 9
 ---
 
 # NewsNation
@@ -28,6 +28,8 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Carries France/Spain wildfire evacuations and middle-class inflation pressure in the top-story file.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Carries tariff-election fallout, energy-cost pressure, shark sightings, and AI-psychosis reporting.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — NewsNation anchors the public-safety lead through the deadly Seattle Space Needle shooting item.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: "LeBron James"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-26
-tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets]
-source_count: 25
+updated: 2026-07-27
+tags: [basketball, nba, player, longevity, analytics, lakers, prediction-markets, philadelphia-76ers]
+source_count: 26
 ---
 
 # LeBron James
@@ -61,6 +61,8 @@ NBA forward with one of the longest and most productive careers in league histor
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A fetched item on odds shifting after his 76ers decision drives the evening prediction-market sports note.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Reddit feed surfaces a viral claim about a two-year Philadelphia 76ers contract, best treated as feed chatter unless corroborated.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — LeBron appears in Reddit feed chatter about signing with the 76ers and projected Philadelphia economic activity.
 
 ## Related
 

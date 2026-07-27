@@ -4,9 +4,9 @@ title: Lionel Messi
 type: entity
 entity_type: person
 created: 2026-07-20
-updated: 2026-07-21
+updated: 2026-07-27
 tags: [soccer, inter-miami, argentina, mls]
-source_count: 3
+source_count: 4
 ---
 
 # Lionel Messi
@@ -19,6 +19,8 @@ Lionel Messi is tracked as a global soccer player when club or international cov
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Messi and Rodrigo De Paul are reportedly on hiatus for Inter Miami's next two games, while Argentina fan coverage keeps Messi in the soccer feed.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Messi appears in the soccer notes around returning to Rosario after the World Cup final loss.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Messi avoids another MLS suspension after skipping the All-Star Game.
 
 ## Related
 

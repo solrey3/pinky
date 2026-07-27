@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-26
-tags: [technology, e-commerce, cloud, markets, amzn]
-source_count: 27
+updated: 2026-07-27
+tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
+source_count: 28
 ---
 
 # Amazon
@@ -64,6 +64,8 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Amazon drops 6.12%, adding megacap pressure to the selective risk-off read.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Amazon drops 6.12% and appears in Moody's warning that AI spending may pressure Big Tech credit quality.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Amazon is both a weak stock-watch name and one of the companies Moody's flags for AI-spending credit-quality risk.
 
 ## Related
 

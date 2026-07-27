@@ -4,9 +4,9 @@ title: Oklahoma City Thunder
 type: entity
 entity_type: organization
 created: 2026-07-25
-updated: 2026-07-26
-tags: [basketball, nba, prediction-markets, title-odds]
-source_count: 3
+updated: 2026-07-27
+tags: [basketball, nba, prediction-markets, title-odds, sports]
+source_count: 4
 ---
 
 # Oklahoma City Thunder
@@ -19,6 +19,8 @@ NBA team surfaced in the newsletter graph through prediction-market title odds.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Polymarket lists Oklahoma City as the top NBA-title probability at 22%.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Polymarket lists Oklahoma City as the top NBA-title probability at 22%.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Oklahoma City's offer sheet to Spencer Jones is matched by Denver.
 
 ## Related
 

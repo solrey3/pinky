@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-26
+updated: 2026-07-27
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 47
+source_count: 48
 ---
 
 # New Jersey Devils
@@ -103,6 +103,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Devils notes cover Cammi Granato shifting Vancouver roles and prospect profiles for Gustav Hillstrom, Mason Moe, and Matias Vanhanen.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Devils notes point to October preseason dates and prospect profiles for Gustav Hillstrom, Mason Moe, and Matias Vanhanen.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — The Devils remain in prospect-profile mode with Hillstrom, Moe, and Vanhanen reads plus October preseason dates.
 
 ## Related
 

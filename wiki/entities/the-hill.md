@@ -4,9 +4,9 @@ title: The Hill
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-26
-tags: [media, politics, congress, policy, washington]
-source_count: 8
+updated: 2026-07-27
+tags: [media, politics, congress, policy, washington, news]
+source_count: 9
 ---
 
 # The Hill
@@ -28,6 +28,8 @@ The Hill is a U.S. political-news outlet tracked in the newsletter graph when co
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Supplies the heat-dome, mail-in-voting injunction, and Zelensky drone-production headlines that lead the top-story stack.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Leads with cyclospora-outbreak control concerns and polling that the Iran war has been harder than expected.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — The Hill leads the political stack with acting-DNI layoffs and polling on the Iran war being harder than expected.
 
 ## Related
 

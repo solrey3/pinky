@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-26
-tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain]
-source_count: 49
+updated: 2026-07-27
+tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
+source_count: 50
 ---
 
 # Iran
@@ -103,6 +103,8 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — U.S. sanctions targeting Babak Zanjani keep Iranian financing in the sanctions graph.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Polling says the Iran war has been harder than the Trump administration expected, while market coverage watches a pause in attacks.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Iran remains a foreign-policy and market-risk anchor as polling suggests the war has been harder than the Trump administration expected.
 
 ## Related
 

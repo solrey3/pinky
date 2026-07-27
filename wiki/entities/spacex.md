@@ -4,9 +4,9 @@ title: SpaceX
 type: entity
 entity_type: organization
 created: 2026-06-16
-updated: 2026-07-17
-tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone]
-source_count: 6
+updated: 2026-07-27
+tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone, starship, reusable-rockets]
+source_count: 7
 ---
 
 # SpaceX
@@ -24,6 +24,8 @@ American aerospace and launch company founded by Elon Musk. In the newsletter gr
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Starship Flight Test 13 appears through Polymarket probabilities, linking SpaceX launch reliability to public prediction markets.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Starship launch is scrubbed after some engines fail to start, shifting the SpaceX thread from launch cadence to reliability and preflight abort discipline.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — SpaceX is eyeing another Starship tower catch after Flight 13, keeping reusable-launch operations in view.
 
 ## Related
 

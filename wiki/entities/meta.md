@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-26
+updated: 2026-07-27
 tags: [technology, social-media, ai, privacy, instagram, platforms]
-source_count: 7
+source_count: 8
 ---
 
 # Meta
@@ -28,6 +28,8 @@ Meta is tracked as a major social-media and AI platform operator, especially whe
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Meta joins Nvidia and Microsoft in warning against overregulating open-weight models.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Meta is included in Moody's AI-spending credit-quality warning and in the broader Big Tech researcher-access scrutiny.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Meta appears in Moody's warning that unprecedented AI spending can pressure Big Tech credit quality.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-25
-tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding]
-source_count: 26
+updated: 2026-07-27
+tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
+source_count: 27
 ---
 
 # Open-Weights AI
@@ -61,6 +61,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Nvidia, Microsoft, and Meta warn against overregulating open-weight AI models, adding major-incumbent lobbying to the open-model policy fight.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A Hacker News item frames open-weight AI as having a Kubernetes moment, shifting attention from model release to deployment/orchestration infrastructure.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Kimi K3's Hugging Face release keeps open distribution and independent model access on the watchlist.
 
 ## Related Concepts
 

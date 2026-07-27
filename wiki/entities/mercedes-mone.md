@@ -4,9 +4,9 @@ title: Mercedes Moné
 type: entity
 entity_type: person
 created: 2026-06-04
-updated: 2026-07-17
+updated: 2026-07-27
 tags: [person, wrestling, aew, wwe, sasha-banks, women, ceo, owen-hart-cup]
-source_count: 4
+source_count: 5
 ---
 
 # Mercedes Moné
@@ -39,6 +39,8 @@ On **June 3, 2026 (AEW Dynamite — Summer Blockbuster)**, Moné returned to AEW
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — AEW Dynamite results say Moné advances to the Owen Hart Cup finals, extending her return from a one-night reintroduction into a tournament-final arc.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Mercedes Moné appears in AEW Collision spoiler coverage, keeping her in the AEW title/storyline watch.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Moné is Willow Nightingale's All In destination after the Redemption result.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-26
+updated: 2026-07-27
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 30
+source_count: 31
 ---
 
 # Tadej Pogacar
@@ -70,6 +70,8 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Carries the Tour de France general-classification lead into Stage 21.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Equals a record with a fifth Tour de France yellow jersey, finishing atop the general classification.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Pogačar tops the general classification as the 2026 Tour de France becomes the fastest-ever edition.
 
 ## Related
 

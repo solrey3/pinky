@@ -4,9 +4,9 @@ title: Willow Nightingale
 type: entity
 entity_type: person
 created: 2026-07-09
-updated: 2026-07-12
+updated: 2026-07-27
 tags: [wrestling, aew, womens-division, sports-entertainment]
-source_count: 2
+source_count: 3
 ---
 
 # Willow Nightingale
@@ -18,6 +18,8 @@ Willow Nightingale is tracked as an AEW wrestler whose returns and tournament re
 - [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AEW notes say Nightingale returned and won the Women's Casino Gauntlet.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — AEW Collision coverage notes Willow speaks, keeping her in the current AEW storyline graph.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Willow wins the AEW Women's Title off Thekla at Redemption and secures an All In match against Moné.
 
 ## Related
 

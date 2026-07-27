@@ -4,9 +4,9 @@ title: Ars Technica
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-07-26
+updated: 2026-07-27
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 4
+source_count: 5
 ---
 
 # Ars Technica
@@ -22,6 +22,8 @@ Technology and science publication tracked as a source for infrastructure, scien
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Supplies the NASA Deep Space Network wildfire-disruption and platform-transparency tech context.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Frames Opus 5 as efficiency-first and reports the wildfire evacuation of a NASA Deep Space Network complex in Spain.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Ars Technica supplies the SpaceX Starship and Big Tech researcher-access items.
 
 ## Related
 

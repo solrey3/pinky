@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-26
+updated: 2026-07-27
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 73
+source_count: 74
 ---
 
 # WWE
@@ -146,6 +146,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Raw/SmackDown calendar items and Bayley/Dragon Lee headlines keep WWE in the weekly wrestling stack.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Raw/SmackDown calendar items and new Raw matches for Je'Von Evans, Rusev, Rey Mysterio, and Ethan Page keep WWE in weekly-TV setup mode.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — WWE appears through Raw and SmackDown schedule listings plus rumor-roundup chatter about AI and Vince McMahon.
 
 ## Related
 
