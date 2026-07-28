@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-28
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 9
+source_count: 10
 ---
 
 # Seth Rollins
@@ -50,6 +50,8 @@ source_count: 9
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Seth Rollins is announced to open WWE Raw, anchoring the Monday TV build.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Raw coverage centers on Seth Rollins opposite Roman Reigns in the SummerSlam build.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raw coverage flags his face-off with Roman Reigns on the SummerSlam go-home show.
 
 ## Related
 

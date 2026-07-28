@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-28
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 101
+source_count: 102
 ---
 
 # Security & Privacy Toolkit
@@ -176,6 +176,8 @@ The layered defense system protecting this infrastructure: password management, 
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — GrapheneOS locked-device protections and token-relay fraud markets keep extraction resistance, token custody, and abuse infrastructure in the security frame.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Microsoft AI security tools and the OpenAI benchmark/cyberattack framing connect AI evaluation surfaces to enterprise defense.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Codex Security, Microsoft AI-security tools, fake wallet fraud, and criminal-justice record errors all emphasize verification and operational trust.
 
 ## Related Concepts
 

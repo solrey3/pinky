@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-28
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 31
+source_count: 32
 ---
 
 # Polymarket
@@ -72,6 +72,8 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Polymarket trending text is fetched but lacks reliable odds/mover data, preserving extraction caveats.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Trending text loads but priced mover data remain unavailable, preserving prediction-market provenance limits.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Trending text is fetched but clean notable-mover extraction remains unavailable.
 
 ## Related
 

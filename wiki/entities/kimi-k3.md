@@ -4,9 +4,9 @@ title: Kimi K3
 type: entity
 entity_type: product
 created: 2026-07-16
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [ai, llm, open-weights, frontier-models, kimi, model-release, hugging-face]
-source_count: 6
+source_count: 7
 ---
 
 # Kimi K3
@@ -26,6 +26,8 @@ Kimi K3 is tracked here as an AI model release/open-frontier-intelligence item. 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Kimi K3 releases on Hugging Face, keeping open model distribution on the AI desk.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Kimi K3 is the top Hacker News model-release item through its Hugging Face page.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — A fresh architecture overview keeps Kimi K3 in the model-inspection and open/open-adjacent AI thread.
 
 ## Related
 

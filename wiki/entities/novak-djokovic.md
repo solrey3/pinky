@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-29
 updated: 2026-07-28
 tags: [tennis, roland-garros, serbia, goat, person, sports]
-source_count: 15
+source_count: 16
 ---
 
 # Novak Djokovic
@@ -59,6 +59,8 @@ Djokovic led 2-0 sets against the 19-year-old Brazilian before losing the next t
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Withdraws from the Montreal Masters event alongside Jannik Sinner.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Listed with Aryna Sabalenka among US Open mixed-doubles headliners.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Listed with Aryna Sabalenka as a US Open mixed-doubles headliner.
 
 ## Related
 

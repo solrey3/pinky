@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-28
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 76
+source_count: 77
 ---
 
 # WWE
@@ -152,6 +152,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — WWE Raw, SmackDown, SummerSlam lineups, and Liv Morgan’s champion-without-defenses note keep WWE in the calendar thread.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Raw headlines include Raquel Rodriguez winning gold and Roman Reigns/Seth Rollins building SummerSlam.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raw go-home and WWE events remain on the wrestling calendar.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Rey Mysterio Jr.
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-26
+updated: 2026-07-28
 tags: [person, wrestling, aaa, lucha-libre]
-source_count: 5
+source_count: 6
 ---
 
 # Rey Mysterio Jr.
@@ -45,6 +45,8 @@ source_count: 5
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A segment is added to AAA Verano de Escándalo, tying him into AAA/WWE crossover attention.
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Added to Raw in a match against Ethan Page.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Discusses changes at AAA since WWE acquired it.
 
 ## Related
 

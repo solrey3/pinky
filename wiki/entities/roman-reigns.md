@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-28
 tags: [person, wrestling, bloodline]
-source_count: 10
+source_count: 11
 ---
 
 # Roman Reigns
@@ -49,6 +49,8 @@ source_count: 10
 - [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Roman Reigns headlines the WWE item by promising to close the door on Seth Rollins at SummerSlam.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Raw coverage has Reigns facing off with Seth Rollins and attempting a Shield chair callback.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raw coverage flags his face-off with Seth Rollins on the SummerSlam go-home show.
 
 ## Related
 

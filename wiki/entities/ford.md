@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-27
 updated: 2026-07-28
 tags: [autos, manufacturing, customization]
-source_count: 2
+source_count: 3
 ---
 
 # Ford
@@ -18,6 +18,8 @@ U.S. automaker with recurring relevance to industrial, consumer, and margin stor
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Ford is pursuing more customer vehicle customization as a higher-margin “shoe drop” strategy.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Business-watch item previews Ford guidance after GM results, emphasizing outlook over past-quarter numbers.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raises guidance after Q2 earnings beat and reports F-Series recovery progress.
 
 ## Related
 

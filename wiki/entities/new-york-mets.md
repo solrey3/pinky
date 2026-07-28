@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-28
 tags: [baseball, mlb, new-york-mets, schedule, sports]
-source_count: 11
+source_count: 12
 ---
 
 # New York Mets
@@ -34,6 +34,8 @@ The New York Mets are an MLB franchise tracked as a recurring local sports inter
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — The Mets beat the Dodgers 8–3 in the prior fetched result and Juan Soto expects to return this season.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Team report tracks the Mets’ 14–3 win over Atlanta and the next Braves series game.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Beat Atlanta 14–3 and face a weather-postponed Braves doubleheader setup.
 
 ## Related
 

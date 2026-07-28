@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-28
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 11
+source_count: 12
 ---
 
 # NewsNation
@@ -34,6 +34,8 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — NewsNation carries the Bryan Kohberger plea-withdrawal report.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Keeps Bryan Kohberger retrial/plea fallout in the national crime-news feed.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Covers U.S.–Iran shipping tension and Apple's iPhone lease-program economics.
 
 ## Related
 

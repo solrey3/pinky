@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-28
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 16
+source_count: 17
 ---
 
 # Reason
@@ -44,6 +44,8 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Reason tracks the peptide gray market as FDA enforcement catches up to a consumer health trend.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Covers the Second Circuit reinstating death-penalty charges in the Buffalo supermarket federal murder trial.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Covers city-run grocery discount economics and the federal halt to Minnesota's prediction-market ban.
 
 ## Related
 

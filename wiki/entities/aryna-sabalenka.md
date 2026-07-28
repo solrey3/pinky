@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-02
 updated: 2026-07-28
 tags: [tennis, wta, belarus, grand-slam, roland-garros, person, sports]
-source_count: 10
+source_count: 11
 ---
 
 # Aryna Sabalenka
@@ -47,6 +47,8 @@ At the **2026 Roland Garros**, with Swiatek (the three-time defending champion) 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Sabalenka is listed among the US Open field leaders.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Listed with Novak Djokovic among US Open mixed-doubles headliners.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Listed with Novak Djokovic as a US Open mixed-doubles headliner.
 
 ## Related
 

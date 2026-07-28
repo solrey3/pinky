@@ -4,9 +4,9 @@ title: U.S. Immigration and Customs Enforcement
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [government, immigration, enforcement, ice, civil-liberties, united-states]
-source_count: 8
+source_count: 9
 ---
 
 # U.S. Immigration and Customs Enforcement
@@ -31,6 +31,8 @@ U.S. Immigration and Customs Enforcement (ICE) is tracked here where immigration
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — ICE appears through questions about why all officers are not using body-worn cameras, reinforcing enforcement-auditability and evidence-capture concerns.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — ICE is preparing a New York City/Queens/Long Island operation, extending the immigration-enforcement accountability thread.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through the Houston ICE shooting witness-release court order.
 
 ## Related
 

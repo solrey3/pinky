@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-26
 updated: 2026-07-28
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 41
+source_count: 42
 ---
 
 # Netflix
@@ -90,6 +90,8 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Netflix gains 4.14%, one of the green pockets against Nasdaq and Tesla weakness.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Rises **+4.14%**, a green pocket against broader tech weakness.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Rises despite the risk-off tape, one of the selective green pockets.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-15
 updated: 2026-07-28
 tags: [china, geopolitics, public-opinion, soft-power, united-states, pew-research]
-source_count: 6
+source_count: 7
 ---
 
 # China
@@ -24,6 +24,8 @@ China is tracked as a geopolitical, economic, and public-opinion actor in source
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Chinese open-weight AI access is framed as a U.S. startup and policy concern.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears in Pew public-opinion coverage about Canadian and Mexican favorability versus the United States.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through Micron market pressure and semiconductor geopolitics.
 
 ## Related
 

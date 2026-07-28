@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-28
 tags: [football, nfl, new-york-giants, schedule]
-source_count: 4
+source_count: 5
 ---
 
 # New York Giants
@@ -22,6 +22,8 @@ The New York Giants are an NFL franchise tracked for local-team scheduling, rost
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Team report lists September games against the Cowboys and Rams.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Team report lists Giants schedule items against Dallas and the Rams.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Team report lists September prime-time games against Dallas and the Rams.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-19
 updated: 2026-07-28
 tags: [wrestling, njpw, technical-wrestling, g1-climax]
-source_count: 5
+source_count: 6
 ---
 
 # Zack Sabre Jr.
@@ -23,6 +23,8 @@ Zack Sabre Jr. is a technical wrestler associated with NJPW and cross-promotiona
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Loses to Gabe Kidd on NJPW G1 Climax 36 Night 7 and remains in the Meltzer 5-star table via the Yuya Uemura match.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Meltzer table lists Zack Sabre Jr. against Yuya Uemura in a five-star G1 Climax match.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears in a July 19 NJPW five-star G1 Climax match with Yuya Uemura.
 
 ## Related
 

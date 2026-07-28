@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-07-28
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift]
-source_count: 15
+source_count: 16
 ---
 
 # Apple
@@ -39,6 +39,8 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — San Francisco ordering Apple to remove nudify apps turns App Store control into a local-enforcement and synthetic-media abuse issue.
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Ships iOS/macOS 26.6 and remains in the platform-update and smart-glasses feed.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through a new iPhone lease program and fake Sparrow Wallet app litigation in Bitcoin feeds.
 
 ## Related
 
