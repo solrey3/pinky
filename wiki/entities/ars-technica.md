@@ -4,9 +4,9 @@ title: Ars Technica
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 6
+source_count: 7
 ---
 
 # Ars Technica
@@ -26,6 +26,8 @@ Technology and science publication tracked as a source for infrastructure, scien
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Ars Technica supplies the SpaceX Starship and Big Tech researcher-access items.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Ars Technica carries the ChatGPT living-author style-imitation guardrail item.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Supplies the AI-security and Apple-platform update items in the tech desk.
 
 ## Related
 

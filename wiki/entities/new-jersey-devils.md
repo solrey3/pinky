@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 49
+source_count: 50
 ---
 
 # New Jersey Devils
@@ -107,6 +107,8 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — The Devils remain in prospect-profile mode with Hillstrom, Moe, and Vanhanen reads plus October preseason dates.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — The Devils schedule and Luke Wilfley prospect profile keep the hockey team-report thread alive.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Team report lists preseason schedule items and a Luke Wilfley prospect profile.
 
 ## Related
 

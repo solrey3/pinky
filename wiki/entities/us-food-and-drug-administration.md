@@ -4,9 +4,9 @@ title: U.S. Food and Drug Administration
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [government, public-health, regulation, fda, nicotine, tobacco, gene-therapy, united-states]
-source_count: 9
+source_count: 10
 ---
 
 # U.S. Food and Drug Administration
@@ -30,6 +30,8 @@ The U.S. Food and Drug Administration regulates drugs, medical devices, food saf
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Former FDA commissioner Scott Gottlieb says the cyclospora outbreak is not yet under control.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — FDA appears through peptide gray-market enforcement and the continuing food-safety provenance backdrop.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Cyclospora-linked produce anxiety appears through a poll showing shoppers buying less produce.
 
 ## Related
 

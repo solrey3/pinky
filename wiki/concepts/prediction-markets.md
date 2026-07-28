@@ -3,9 +3,9 @@ id: 187e23f6-bd52-42bc-9643-eb7388e225d3
 title: Prediction Markets
 type: concept
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 12
+source_count: 13
 ---
 
 # Prediction Markets
@@ -35,6 +35,8 @@ Prediction markets are trading venues or market-like instruments that convert ex
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Polymarket and Kalshi panels are listed but unavailable, reinforcing feed reliability caveats.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Polymarket text is fetched without reliable odds/movers and Kalshi is unavailable, preserving the prediction-market feed-fragility caveat.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Minnesota’s prediction-market ban is paused by a federal judge while Polymarket/Kalshi extracted mover data remain unavailable.
 
 ## Related Concepts
 

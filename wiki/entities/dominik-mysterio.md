@@ -4,9 +4,9 @@ title: Dominik Mysterio
 type: entity
 entity_type: person
 created: 2026-07-12
-updated: 2026-07-26
+updated: 2026-07-28
 tags: [wrestling, wwe, aaa, lucha-libre]
-source_count: 5
+source_count: 6
 ---
 
 # Dominik Mysterio
@@ -23,6 +23,8 @@ Dominik Mysterio is tracked as a WWE wrestler when he crosses into AAA/lucha cov
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Dominik Mysterio is tied to the Danhausen SummerSlam match item.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Betrays El Grande Americano at AAA Verano de Escándalo.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through the Human Monies on a Pole SummerSlam item with Danhausen.
 
 ## Related
 

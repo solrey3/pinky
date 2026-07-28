@@ -4,9 +4,9 @@ title: Novak Djokovic
 type: entity
 entity_type: person
 created: 2026-05-29
-updated: 2026-07-25
+updated: 2026-07-28
 tags: [tennis, roland-garros, serbia, goat, person, sports]
-source_count: 14
+source_count: 15
 ---
 
 # Novak Djokovic
@@ -57,6 +57,8 @@ Djokovic led 2-0 sets against the 19-year-old Brazilian before losing the next t
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Djokovic withdraws from Montreal in the tennis notes.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Withdraws from the Montreal Masters event alongside Jannik Sinner.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Listed with Aryna Sabalenka among US Open mixed-doubles headliners.
 
 ## Related
 

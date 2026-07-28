@@ -4,9 +4,9 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 31
+source_count: 32
 ---
 
 # Kenny Omega
@@ -90,6 +90,8 @@ source_count: 31
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A Reddit/AEW item promotes a Redemption match poster against Kevin Knight.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Omega retains against Kevin Knight at AEW Redemption and attacks All In opponent Will Ospreay.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Meltzer table preserves the 5.5-star MJF vs. Kenny Omega Dynamite Beach Break match.
 
 ## Related
 

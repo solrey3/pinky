@@ -4,9 +4,9 @@ title: Linux
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-28
 tags: [linux, operating-system, open-source, security, infrastructure]
-source_count: 1
+source_count: 2
 ---
 
 # Linux
@@ -16,6 +16,8 @@ Linux is an open-source operating-system kernel and ecosystem tracked here when 
 ## Sources
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — GhostLock is described as a stack-use-after-free vulnerability that existed across Linux distributions for 15 years.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through the Valve/SteamOS story on gaming-driven Linux adoption.
 
 ## Related
 

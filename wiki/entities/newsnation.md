@@ -4,9 +4,9 @@ title: NewsNation
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 10
+source_count: 11
 ---
 
 # NewsNation
@@ -32,6 +32,8 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — NewsNation anchors the public-safety lead through the deadly Seattle Space Needle shooting item.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — NewsNation carries the Bryan Kohberger plea-withdrawal report.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Keeps Bryan Kohberger retrial/plea fallout in the national crime-news feed.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Jackson Koivun
 type: entity
 entity_type: person
 created: 2026-07-26
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [golf, pga-tour, 3m-open, sports, pga]
-source_count: 4
+source_count: 5
 ---
 
 # Jackson Koivun
@@ -21,6 +21,8 @@ Golfer mentioned in the newsletter sports wire as leading the PGA 3M Open after 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Koivun wins the 3M Open in his third pro start, holding off Scottie Scheffler.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Jackson Koivun wins the 3M Open in his third professional start.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Wins the 3M Open at **-25**, ahead of Scottie Scheffler.
 
 ## Related
 

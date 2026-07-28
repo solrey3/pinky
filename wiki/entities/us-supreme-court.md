@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 12
+source_count: 13
 ---
 
 # U.S. Supreme Court
@@ -37,6 +37,8 @@ The highest court in the United States. In the newsletter graph, it is tracked w
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Elena Kagan defends the Court against “rubber stamp” criticism tied to Trump-era decisions.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — The DOJ asks the Court to restore Trump’s mail-in voting executive order, keeping election rules in the constitutional-boundary file.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — The Trump v. Slaughter aftermath keeps Supreme Court removal-power doctrine in the agency-independence thread.
 
 ## Related
 

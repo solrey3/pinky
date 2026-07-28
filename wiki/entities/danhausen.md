@@ -4,9 +4,9 @@ title: Danhausen
 type: entity
 entity_type: person
 created: 2026-07-20
-updated: 2026-07-21
+updated: 2026-07-28
 tags: [wrestling, comedy, aew, squaredcircle, internet-culture]
-source_count: 2
+source_count: 3
 ---
 
 # Danhausen
@@ -17,6 +17,8 @@ Professional wrestler and comedy-horror wrestling persona. In the newsletter gra
 
 - [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — A r/SquaredCircle post credits Danhausen with “cursing” Argentina before the FIFA World Cup final, making him a light community-culture crossover item.
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Danhausen is added to the WWE SummerSlam 2026 card in the squared-circle digest.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through the official Human Monies on a Pole SummerSlam item with Dominik Mysterio.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: The Hill
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [media, politics, congress, policy, washington, news]
-source_count: 10
+source_count: 11
 ---
 
 # The Hill
@@ -32,6 +32,8 @@ The Hill is a U.S. political-news outlet tracked in the newsletter graph when co
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — The Hill leads the political stack with acting-DNI layoffs and polling on the Iran war being harder than expected.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — The Hill supplies the Supreme Court/mail-in-voting, ICE operation, and EPA data-center exemption headlines.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Provides the political headline stack on DCCC targets, Minnesota prediction-market litigation, and agency-independence pressure.
 
 ## Related
 

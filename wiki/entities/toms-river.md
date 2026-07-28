@@ -4,9 +4,9 @@ title: Toms River
 type: entity
 entity_type: place
 created: 2026-07-19
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [new-jersey, shore, weather]
-source_count: 17
+source_count: 18
 ---
 
 # Toms River
@@ -45,6 +45,8 @@ Toms River is a Jersey Shore municipality used in the newsletter as the local we
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Toms River opens the weather board with clear conditions, 65°F, and a sunny 87°F beach-day forecast.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Toms River closes hot and sunny at 87°F feels-like 93°F, with Tuesday drizzle risk in the local weather frame.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Clear 68°F morning conditions and a sunny 90°F high keep the Shore weather frame hot but orderly.
 
 ## Related
 

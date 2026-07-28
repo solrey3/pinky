@@ -4,9 +4,9 @@ title: UPS
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [logistics, shipping, transportation, markets, cold-chain]
-source_count: 24
+source_count: 25
 ---
 
 # UPS
@@ -59,6 +59,8 @@ UPS is tracked as a logistics and economic-activity bellwether.
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — UPS appears in both the stock watch and the healthcare/cold-chain logistics race tied to GLP-1 demand.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — UPS is nearly flat while logistics remains part of the stock and gas/mortgage watchlist.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Is nearly flat at **-0.18%**, holding up better than the high-beta tech names.
 
 ## Related
 

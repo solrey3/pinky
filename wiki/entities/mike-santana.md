@@ -4,9 +4,9 @@ title: Mike Santana
 type: entity
 entity_type: person
 created: 2026-07-08
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [wrestling, tna, free-agency]
-source_count: 4
+source_count: 5
 ---
 
 # Mike Santana
@@ -22,6 +22,8 @@ Mike Santana is tracked as a wrestling free-agency and TNA-adjacent news node.
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Mike Santana is reported as joining NXT, while TNA publicly congratulates him on the move.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Mike Santana appears through the NXT rebrand to Cruz Montana.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — NXT headline says Mike Santana has a new NXT name, Cruz Montana.
 
 ## Related
 

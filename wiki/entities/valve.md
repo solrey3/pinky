@@ -4,9 +4,9 @@ title: Valve
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-07-03
+updated: 2026-07-28
 tags: [gaming, steam, steamos, hardware, linux, steam-machine, game-tech]
-source_count: 3
+source_count: 4
 ---
 
 # Valve
@@ -20,6 +20,8 @@ Valve is the game platform, storefront, and hardware/software company behind Ste
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Steam Machine launch coverage persists into the daytime tech desk, keeping Valve in the Linux gaming hardware/platform lane.
 
 - [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Open-sourcing the Steam Machine e-ink screen code extends Valve’s Linux gaming hardware story into tinkering and modifiable platform components.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Reddit/Linux item frames Valve’s Windows 8 escape path as part of its Linux-powerhouse arc.
 
 ## Related
 

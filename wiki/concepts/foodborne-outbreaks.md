@@ -3,9 +3,9 @@ id: 44e25985-74eb-4a5b-adb8-757d8d9bfeb4
 title: Foodborne Outbreaks
 type: concept
 created: 2026-07-17
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [public-health, food-safety, supply-chain, outbreaks, recalls, cyclospora]
-source_count: 11
+source_count: 12
 ---
 
 # Foodborne Outbreaks
@@ -32,6 +32,8 @@ Foodborne outbreaks are illness clusters tied to contaminated food products, sou
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — CDC-linked coverage says the cyclospora outbreak has widened to nine states.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Cyclospora coverage links outbreak risk to consolidated food distribution, keeping supply-chain traceability and public-health communication active.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Cyclospora coverage shows consumer behavior changing, with a poll reporting reduced produce buying.
 
 ## Related Concepts
 

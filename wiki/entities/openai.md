@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 29
+source_count: 30
 ---
 
 # OpenAI
@@ -72,6 +72,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — OpenAI appears indirectly through the broader AI/platform feed and Health-in-ChatGPT item in personal feeds.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — OpenAI appears in both Nvidia circular-financing worries and ChatGPT style-imitation limits.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through benchmark/cyberattack framing and Nvidia/OpenAI circular-spending worries in the business desk.
 
 ## Related
 

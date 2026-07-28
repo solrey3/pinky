@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 77
+source_count: 78
 ---
 
 # AEW
@@ -155,6 +155,8 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — AEW Redemption leads the wrestling desk with Kenny Omega retaining, Willow earning a title shot, and Andrade winning the National Title.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — AEW Redemption fallout, Dynamite scheduling, and Grand Slam Mexico card building dominate the wrestling file.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — AEW calendar and headlines include a Rebel Heart Dynamite special and Andrade post-Redemption chatter.
 
 ## Related
 

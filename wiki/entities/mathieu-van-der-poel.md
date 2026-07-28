@@ -4,9 +4,9 @@ title: Mathieu van der Poel
 type: entity
 entity_type: person
 created: 2026-07-13
-updated: 2026-07-27
+updated: 2026-07-28
 tags: [cycling, tour-de-france, stage-winner, sports]
-source_count: 6
+source_count: 7
 ---
 
 # Mathieu van der Poel
@@ -25,6 +25,8 @@ Mathieu van der Poel is a cyclist tracked here when Tour de France stage results
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Van der Poel wins Stage 21 into Paris in 1h 58m 49s.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Van der Poel leads the fetched Stage 21 Tour de France result.
+
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Tops the Stage 21 listing alongside other riders on the same time.
 
 ## Related
 
