@@ -4,9 +4,9 @@ title: Tesla
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta]
-source_count: 53
+source_count: 54
 ---
 
 # Tesla
@@ -115,6 +115,8 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Drops **-16.33%**, the major single-name shock in the stock watch.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Drops sharply and is cited as a company hurt by soaring AI spending.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Tesla drops 19.55%, one of the major high-beta damage alerts in the noon tape.
 
 ## Related
 

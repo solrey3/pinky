@@ -3,9 +3,9 @@ id: "019e1b12-a1e9-7cac-f71f-855f7a8b9c36"
 title: "Market Inefficiency"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket, data-provenance, scraping]
-source_count: 103
+source_count: 104
 ---
 
 # Market Inefficiency
@@ -182,6 +182,8 @@ A situation where the collective pricing of assets, goods, or talent systematica
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Unavailable WSJ/Kalshi/Wawa panels and incomplete Polymarket pricing keep feed provenance and missing-data risk explicit.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Unavailable WSJ, Kalshi, Wawa, and clean Polymarket data make the limits of feed completeness explicit.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Malformed weather data plus WSJ/Kalshi/Wawa extraction failures make source completeness and scrape reliability explicit limits on the dispatch.
 
 ## Related Concepts
 

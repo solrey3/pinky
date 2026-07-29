@@ -4,9 +4,9 @@ title: Charles Schwab
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [finance, brokerage, markets, schw, brokerages, risk-assets, financials]
-source_count: 32
+source_count: 33
 ---
 
 # Charles Schwab
@@ -75,6 +75,8 @@ Charles Schwab is a brokerage and financial-services firm tracked in the newslet
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Gains **+1.60%**, a financial green pocket inside the split board.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Rises 6.01%, a financial green pocket in the split close.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Charles Schwab gains 5.50%, one of the green financial pockets in the selective selloff.
 
 ## Related
 

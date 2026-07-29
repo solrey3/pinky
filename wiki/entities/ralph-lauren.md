@@ -4,9 +4,9 @@ title: Ralph Lauren
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [retail, apparel, consumer-discretionary, markets]
-source_count: 24
+source_count: 25
 ---
 
 # Ralph Lauren
@@ -60,6 +60,8 @@ Ralph Lauren is tracked as a consumer-discretionary and apparel-market indicator
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Gains **+0.92%**, keeping the retail/quality pocket resilient.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Softer but near its upper range as the consumer/retail watchlist remains active.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Ralph Lauren falls 3.98%, softening the retail/consumer offset this dispatch.
 
 ## Related
 

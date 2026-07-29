@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality]
-source_count: 14
+source_count: 15
 ---
 
 # AI Infrastructure Energy Demand
@@ -40,6 +40,8 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — EPA data-center power-plant pollution exemptions and AI-financing/bond worries tie compute growth to electricity, pollution rules, capex, and credit risk.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Alphabet/Tesla AI spending pain and the Microsoft/Meta/Amazon question line make AI capex visible as valuation, cash-flow, and infrastructure risk.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — AI earnings, Qualcomm data-center plans, and home-seizure backlash for AI data centers connect the AI buildout to capital, land, and infrastructure constraints.
 
 ## Related Concepts
 

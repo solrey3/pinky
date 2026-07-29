@@ -4,9 +4,9 @@ title: WWE NXT
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 41
+source_count: 42
 ---
 
 # WWE NXT
@@ -91,6 +91,8 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — NXT TV remains on the weekly calendar and Mike Santana’s Cruz Montana rename appears in the headlines.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — NXT has tonight's TV spotlight and ESPN-app distribution begins August 4.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — NXT appears through the TV calendar and a Grayson Waller pipe-bomb-style result thread.
 
 ## Related
 

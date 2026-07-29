@@ -4,9 +4,9 @@ title: AMD
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware]
-source_count: 80
+source_count: 81
 ---
 
 # AMD
@@ -160,6 +160,8 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Falls **-1.71%**, keeping AI/semiconductor exposure on the weak side of the tape.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Falls 16.50%, one of the major alerts in the Nasdaq/AI-chip selloff.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — AMD falls 22.64%, the loudest single-stock stress signal in the Nasdaq/AI-chip noon selloff.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: New York Yankees
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [baseball, mlb, sports]
-source_count: 3
+source_count: 4
 ---
 
 # New York Yankees
@@ -20,6 +20,8 @@ Major League Baseball team tracked for local sports watchlist continuity.
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Scoreboard shows the Yankees beating the White Sox 9–5 and remaining in the MLB daily card.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Beat the White Sox 9–5 in the MLB scoreboard.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — The Yankees appear in the MLB scoreboard and trade-deadline-news context.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 82
+source_count: 83
 ---
 
 # Nvidia
@@ -162,6 +162,8 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Falls **-3.33%** and is tied to OpenAI deal/circular AI-spending concerns.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Falls 4.96% as AI-chip weakness drives the risk-off tape.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Nvidia falls 9.78%, keeping AI-chip exposure at the center of market stress.
 
 ## Related
 

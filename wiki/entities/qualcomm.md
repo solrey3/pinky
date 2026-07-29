@@ -4,9 +4,9 @@ title: Qualcomm
 type: entity
 entity_type: organization
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-29
 tags: [technology, semiconductors, mobile, ai-chips, acquisition, runtime]
-source_count: 1
+source_count: 2
 ---
 
 # Qualcomm
@@ -16,6 +16,8 @@ Qualcomm is a semiconductor and wireless-technology company best known for mobil
 ## Sources
 
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Qualcomm agrees to acquire Modular, extending its AI-platform strategy from chips into the software stack that helps run AI workloads.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Qualcomm earnings are framed as a test of AI demand in smartphones and data-center plans.
 
 ## Related
 

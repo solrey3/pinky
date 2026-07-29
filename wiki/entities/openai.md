@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 31
+source_count: 32
 ---
 
 # OpenAI
@@ -76,6 +76,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through benchmark/cyberattack framing and Nvidia/OpenAI circular-spending worries in the business desk.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Open-sources Codex Security and remains tied to benchmark/security framing.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — OpenAI remains central to the benchmark-turned-Hugging-Face intrusion story and to SynthID adoption context.
 
 ## Related
 

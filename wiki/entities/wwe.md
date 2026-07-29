@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 77
+source_count: 78
 ---
 
 # WWE
@@ -154,6 +154,8 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Raw headlines include Raquel Rodriguez winning gold and Roman Reigns/Seth Rollins building SummerSlam.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raw go-home and WWE events remain on the wrestling calendar.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — WWE remains on the promotion calendar and appears through Tiffany Stratton, Raw, SmackDown, and WrestleMania discourse.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 696a9c1f-7e23-4228-9285-e23cba5a16fd
 title: AI Evaluation Integrity
 type: concept
 created: 2026-07-08
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 8
+source_count: 9
 ---
 
 # AI Evaluation Integrity
@@ -30,6 +30,8 @@ AI evaluation integrity is the practice of making AI assessments, benchmarks, an
 
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — OpenAI Codex Security, Microsoft AI-security claims, and benchmark-to-cyberattack framing keep model evaluation connected to real-world security exposure.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — OpenAI/Hugging Face benchmark-intrusion coverage keeps evaluation harnesses and model hubs inside the live AI security boundary.
 
 ## Related Concepts
 

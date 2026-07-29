@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-27
+updated: 2026-07-29
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 29
+source_count: 30
 ---
 
 # Google
@@ -57,6 +57,8 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Google/Alphabet is implicated in Moody's AI-capex credit warning and social-platform researcher-access scrutiny.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Google loses a DMCA anti-scraping argument, keeping scraping law and platform-control boundaries active.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Google appears through SynthID watermarking, framed as useful provenance infrastructure but not a full AI-disinformation solution.
 
 ## Related
 

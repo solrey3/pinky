@@ -4,9 +4,9 @@ title: Tommaso Ciampa
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-16T03:20:14Z
+updated: 2026-07-29
 tags: [person, wrestling]
-source_count: 2
+source_count: 3
 ---
 
 # Tommaso Ciampa (Blackheart)
@@ -37,6 +37,8 @@ source_count: 2
 - [2026-05-27: Raw notes](../../raw/people/tommaso-ciampa.md)
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Tommaso Ciampa appears in AEW All In 2026 rumor/tease coverage.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Ciampa appears via Jericho praise for their AEW Dynamite match.
 
 ## Related
 

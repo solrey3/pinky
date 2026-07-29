@@ -4,9 +4,9 @@ title: Inter Miami
 type: entity
 entity_type: organization
 created: 2026-07-20
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [soccer, mls, miami, lionel-messi, sports]
-source_count: 7
+source_count: 8
 ---
 
 # Inter Miami
@@ -27,6 +27,8 @@ Inter Miami is tracked as Messi-adjacent MLS club coverage.
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Team report notes schedule parsing trouble and a Germán Berterame discharge item.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Schedule parsing fails, but Germán Berterame hospital-discharge news remains in the feed.
+
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Inter Miami appears through a schedule parse error and a Germán Berterame injury/discharge news item.
 
 ## Related
 
