@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-29
 tags: [logistics, shipping, transportation, markets, cold-chain]
-source_count: 27
+source_count: 28
 ---
 
 # UPS
@@ -65,6 +65,7 @@ UPS is tracked as a logistics and economic-activity bellwether.
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Falls 9.29%, a weak logistics/industrial pocket in the close.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — UPS drops 9.36%, making logistics one of the non-tech weak spots in the stock watch.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
 ## Related
 

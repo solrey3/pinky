@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-29
 tags: [person, wrestling, aew, championship]
-source_count: 7
+source_count: 8
 ---
 
 # Konosuke Takeshita
@@ -45,6 +45,7 @@ source_count: 7
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Takes sole A Block lead at NJPW G1 Climax 36 Night 6.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — NJPW G1 Climax 36 Night 8 coverage has Takeshita remaining on top of A Block.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

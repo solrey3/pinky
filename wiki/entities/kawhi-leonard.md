@@ -4,9 +4,9 @@ title: Kawhi Leonard
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-07-29
 tags: [person, basketball, nba]
-source_count: 1
+source_count: 2
 ---
 
 # Kawhi Leonard
@@ -34,6 +34,7 @@ The most efficient two-way wing in NBA history. Two championships (2014 Spurs, 2
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/kawhi-leonard.md)
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 ## Related
 

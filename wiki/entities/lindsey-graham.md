@@ -4,9 +4,9 @@ title: Lindsey Graham
 type: entity
 entity_type: person
 created: 2026-07-12
-updated: 2026-07-13
+updated: 2026-07-29
 tags: [politics, senate, republican-party, south-carolina, obituary]
-source_count: 4
+source_count: 5
 ---
 
 # Lindsey Graham
@@ -22,6 +22,7 @@ Lindsey Graham was a U.S. senator from South Carolina tracked here when national
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — NewsNation keeps Graham's reported death at 71 as the lead U.S. politics item and Senate-continuity marker.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Coverage shifts to Graham's sister finishing his Senate term, turning the death/succession thread into a Senate-control continuity item.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 ## Related
 

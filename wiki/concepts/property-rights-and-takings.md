@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-17
 updated: 2026-07-29
 tags: [law, property-rights, eminent-domain, takings, supreme-court, infrastructure]
-source_count: 5
+source_count: 6
 ---
 
 # Property Rights and Takings
@@ -23,6 +23,7 @@ Property rights and takings doctrine covers when government or state-authorized 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Nashville considering eminent domain to block a data center near zoo animals extends takings analysis into infrastructure externalities and land-use politics.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — The technology feed flags backlash to seizing and destroying homes for AI data centers, extending the data-center siting/eminent-domain thread.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Reason's Rhode Island land-seizure ruling extends the takings/property-rights thread beyond data-center siting.
 
 ## Related Concepts
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-29
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 18
+source_count: 19
 ---
 
 # Reason
@@ -48,6 +48,7 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Covers city-run grocery discount economics and the federal halt to Minnesota's prediction-market ban.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Reason frames border-phone searches as a civil-liberties and device-control problem.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 ## Related
 

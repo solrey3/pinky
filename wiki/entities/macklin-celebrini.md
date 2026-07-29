@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-29
 updated: 2026-07-29
 tags: [hockey, nhl, san-jose-sharks, contract]
-source_count: 1
+source_count: 2
 ---
 
 # Macklin Celebrini
@@ -16,6 +16,7 @@ Macklin Celebrini is an NHL player tracked here through contract and franchise-c
 ## Sources
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Celebrini signs a five-year, $94M extension with the San Jose Sharks.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 ## Related
 

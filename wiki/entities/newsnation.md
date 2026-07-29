@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-29
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 13
+source_count: 14
 ---
 
 # NewsNation
@@ -38,6 +38,7 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Covers U.S.–Iran shipping tension and Apple's iPhone lease-program economics.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — NewsNation carries the Fauci-contempt headline and keeps Senate COVID-origin politics in the noon news stack.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 ## Related
 

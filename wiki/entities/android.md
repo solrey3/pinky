@@ -4,9 +4,9 @@ title: Android
 type: entity
 entity_type: product
 created: 2026-07-02
-updated: 2026-07-25
+updated: 2026-07-29
 tags: [android, mobile, operating-system, google, app-stores, sideloading, security]
-source_count: 6
+source_count: 7
 ---
 
 # Android
@@ -25,6 +25,7 @@ Android is Google's mobile operating-system platform. In the newsletter graph, i
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Google/Epic app-store changes point toward third-party Android app stores, keeping sideloading, distribution control, and platform-security tradeoffs alive.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Possible restrictions on on-device ADB make Android developer access and platform-control tradeoffs newly visible.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
 
 ## Related
 

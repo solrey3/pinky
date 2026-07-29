@@ -4,9 +4,9 @@ title: Ukraine
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-07-26
+updated: 2026-07-29
 tags: [ukraine, geopolitics, war, russia, europe, security]
-source_count: 8
+source_count: 9
 ---
 
 # Ukraine
@@ -30,6 +30,7 @@ Ukraine is a European state central to the continuing Russia-Ukraine war. In the
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Joint U.S.-Ukraine drone production makes the war-support story an industrial-capacity story.
 
 - [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Joint U.S.-Ukraine drone production keeps Ukraine defense-industrial capacity in the daily geopolitical stack.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 ## Related
 

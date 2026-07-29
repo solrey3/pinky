@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-22
 updated: 2026-07-29
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 15
+source_count: 16
 ---
 
 # Prediction Markets
@@ -41,6 +41,7 @@ Prediction markets are trading venues or market-like instruments that convert ex
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Minnesota's prediction-market ban is halted by a federal judge while Polymarket/Kalshi extraction remains incomplete or unavailable.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Polymarket fetches a Fed-decision market and a Warsh press-conference market while Kalshi is unavailable, preserving partial-event-market provenance.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Polymarket Fed-decision and MLS markets appear without clean odds, while Kalshi extraction remains unavailable.
 
 ## Related Concepts
 

@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 51
+source_count: 52
 ---
 
 # Iran
@@ -107,6 +107,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Iran remains a foreign-policy and market-risk anchor as polling suggests the war has been harder than the Trump administration expected.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Warns the U.S. against expanding war after alleged shipping threats around energy transit.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 ## Related
 

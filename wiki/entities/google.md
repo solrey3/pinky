@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-07-29
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 30
+source_count: 31
 ---
 
 # Google
@@ -59,6 +59,7 @@ American technology company and AI lab/operator behind Search, Android, Google C
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Google loses a DMCA anti-scraping argument, keeping scraping law and platform-control boundaries active.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Google appears through SynthID watermarking, framed as useful provenance infrastructure but not a full AI-disinformation solution.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
 
 ## Related
 

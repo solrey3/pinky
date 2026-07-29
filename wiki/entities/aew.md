@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-29
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 80
+source_count: 81
 ---
 
 # AEW
@@ -161,6 +161,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Detroit week, Rhino reports, Nick Jackson health, and AEW schedule items update the AEW thread.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — AEW Dynamite is the wrestling spotlight, with Maya World and Andrade defending new titles and Rhino seeking Copeland/Christian chaos.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

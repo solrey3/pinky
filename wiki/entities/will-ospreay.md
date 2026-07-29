@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-27
+updated: 2026-07-29
 tags: [person, wrestling, aew]
-source_count: 22
+source_count: 23
 ---
 
 # Will Ospreay
@@ -71,6 +71,7 @@ source_count: 22
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His Forbidden Door match with Swerve Strickland remains listed at 5.5 stars.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Ospreay is positioned as Omega's All In opponent after the Redemption angle.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

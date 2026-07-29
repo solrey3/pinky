@@ -3,9 +3,9 @@ id: 8973c792-4d45-4edb-b549-6a4bdbf4265f
 title: Tariff Policy
 type: concept
 created: 2026-07-24
-updated: 2026-07-27
+updated: 2026-07-29
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 6
+source_count: 7
 ---
 
 # Tariff Policy
@@ -24,6 +24,7 @@ Tariff policy is the use of import duties to pursue revenue, industrial policy, 
 - [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Trump tariff coverage shifts from legal mechanics to credibility damage, GOP election exposure, and downstream consumer-cost pressure.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Reason frames Trump tariffs as undermining U.S. trustworthiness and credibility.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Trump-linked Iran tariff/sanctions demands keep tariff authority tied to geopolitical bargaining and sanctions design.
 
 ## Related Concepts
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-29
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 52
+source_count: 53
 ---
 
 # New Jersey Devils
@@ -113,6 +113,7 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Team report lists early October preseason games and a Luke Wilfley prospect profile.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — The Devils team report adds Flyers preseason scheduling and team-news items on draft strategy, streaming, and Vilen.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 ## Related
 

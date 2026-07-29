@@ -4,9 +4,9 @@ title: Zack Sabre Jr.
 type: entity
 entity_type: person
 created: 2026-07-19
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [wrestling, njpw, technical-wrestling, g1-climax]
-source_count: 6
+source_count: 7
 ---
 
 # Zack Sabre Jr.
@@ -25,6 +25,7 @@ Zack Sabre Jr. is a technical wrestler associated with NJPW and cross-promotiona
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Meltzer table lists Zack Sabre Jr. against Yuya Uemura in a five-star G1 Climax match.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears in a July 19 NJPW five-star G1 Climax match with Yuya Uemura.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-29
 tags: [wrestling, wwe, nxt, developmental, television, nikkita-lyons]
-source_count: 42
+source_count: 43
 ---
 
 # WWE NXT
@@ -93,6 +93,7 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — NXT has tonight's TV spotlight and ESPN-app distribution begins August 4.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — NXT appears through the TV calendar and a Grayson Waller pipe-bomb-style result thread.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

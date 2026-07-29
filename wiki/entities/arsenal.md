@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-07-29
 tags: [soccer, football, arsenal, premier-league, ucl, london, organization, sports]
-source_count: 12
+source_count: 13
 ---
 
 # Arsenal FC
@@ -47,6 +47,7 @@ London-based Premier League club, founded 1886. One of England's most storied fo
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through Vinícius Jr. transfer-rumor coverage despite Arsenal interest.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Arsenal appears through transfer-rumor context around Vinícius Jr. staying at Real Madrid despite interest.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 ## Related
 

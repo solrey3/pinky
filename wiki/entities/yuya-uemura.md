@@ -4,9 +4,9 @@ title: Yuya Uemura
 type: entity
 entity_type: person
 created: 2026-07-19
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [wrestling, njpw, g1-climax]
-source_count: 5
+source_count: 6
 ---
 
 # Yuya Uemura
@@ -24,6 +24,7 @@ Yuya Uemura is a NJPW wrestler tracked when tournament results enter the wrestli
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Meltzer table lists Yuya Uemura vs. Zack Sabre Jr. as a five-star G1 Climax match.
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears in a July 19 NJPW five-star G1 Climax match with Zack Sabre Jr.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

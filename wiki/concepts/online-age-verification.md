@@ -3,9 +3,9 @@ id: fa7ce80a-d3f8-4ea8-bd80-ec451337b546
 title: Online Age Verification
 type: concept
 created: 2026-06-29
-updated: 2026-07-22
+updated: 2026-07-29
 tags: [internet, identity, age-verification, privacy, children, regulation, access-control]
-source_count: 6
+source_count: 7
 ---
 
 # Online Age Verification
@@ -25,6 +25,7 @@ Online age verification is the policy and technical problem of determining wheth
 
 
 - [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — France's under-15 social-media ban extends the European age-gating trend and raises the platform-access/privacy tradeoff again.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Google's Play Store age-signals API moves age checks deeper into platform infrastructure.
 
 ## Related Concepts
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-29
 tags: [person, wrestling, aew]
-source_count: 5
+source_count: 6
 ---
 
 # Andrade / Andrade El Idolo
@@ -46,6 +46,7 @@ The June 14 evening dispatch places Andrade El Idolo in NJPW Dominion 6.14's IWG
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — r/SquaredCircle item tracks Andrade as the new National champion after Redemption.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Andrade is one of the new AEW champions set for a first Dynamite title defense.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

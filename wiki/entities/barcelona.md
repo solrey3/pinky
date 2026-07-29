@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-27
 updated: 2026-07-29
 tags: [soccer, la-liga, sports]
-source_count: 5
+source_count: 6
 ---
 
 # Barcelona
@@ -24,6 +24,7 @@ FC Barcelona, Spanish football club followed in soccer team reports.
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Joan Laporta's health update is the Barcelona team-report headline.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Barcelona appears through Joan Laporta health news in the team-report section.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 ## Related
 
