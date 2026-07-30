@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 102
+source_count: 103
 ---
 
 # Risk-Off Market Rotation
@@ -182,6 +182,8 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Nasdaq -4.42%, AMD -22.64%, Tesla -19.55%, TSM/Nvidia/Amazon weakness, and WTI -5.02% contrast with green SCHD/VBR/VNQ/Berkshire/Schwab/Costco/PayPal/Netflix pockets.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Fed Day closes as a sharper Nasdaq/AI-chip/high-beta selloff while dividend/value/REIT and quality pockets remain resilient.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Nasdaq falls 4.86% and AMD/TSLA/TSM/NVDA are major alerts, while SCHD/VBR/VNQ, Berkshire, Schwab, Costco, PayPal, and Netflix preserve selective demand.
 
 ## Related Concepts
 

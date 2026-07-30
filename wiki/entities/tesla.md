@@ -4,9 +4,9 @@ title: Tesla
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta]
-source_count: 55
+source_count: 56
 ---
 
 # Tesla
@@ -118,6 +118,8 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Tesla drops 19.55%, one of the major high-beta damage alerts in the noon tape.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Falls 20.24% and sits just above its 52-week low, making Tesla one of the high-beta stress signals.
 
 ## Related
 

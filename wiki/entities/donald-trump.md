@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs]
-source_count: 49
+source_count: 50
 ---
 
 # Donald Trump
@@ -103,6 +103,8 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Trump appears through budget-pressure, crypto-policy conflict concerns, and broader political control threads.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Comments on Supreme Court tariff and birthright-citizenship rulings keep Trump in the trade-authority and constitutional-status thread.
 
 ## Related
 

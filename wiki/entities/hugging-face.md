@@ -4,9 +4,9 @@ title: Hugging Face
 type: entity
 entity_type: organization
 created: 2026-07-21
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [ai, open-source, model-hub, evaluation, security, models]
-source_count: 9
+source_count: 10
 ---
 
 # Hugging Face
@@ -33,6 +33,8 @@ Hugging Face is an AI platform and model hub tracked when model distribution, ev
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Hugging Face is the distribution venue for the Kimi K3 model-release headline.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Hugging Face is the model-hub side of the frontier-lab agent intrusion story.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Publishes a technical timeline of a July 2026 frontier-lab agent intrusion, keeping model-hub and AI-incident provenance active.
 
 ## Related
 

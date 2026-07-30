@@ -3,9 +3,9 @@ id: 187e23f6-bd52-42bc-9643-eb7388e225d3
 title: Prediction Markets
 type: concept
 created: 2026-07-22
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 16
+source_count: 17
 ---
 
 # Prediction Markets
@@ -42,6 +42,8 @@ Prediction markets are trading venues or market-like instruments that convert ex
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Polymarket fetches a Fed-decision market and a Warsh press-conference market while Kalshi is unavailable, preserving partial-event-market provenance.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Polymarket Fed-decision and MLS markets appear without clean odds, while Kalshi extraction remains unavailable.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Polymarket has Fed-decision and WTI discussion while Kalshi is unavailable, making market-implied probabilities part of the evidence-gap record.
 
 ## Related Concepts
 

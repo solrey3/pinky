@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 30
+source_count: 31
 ---
 
 # Open-Weights AI
@@ -68,6 +68,8 @@ AI models whose trained weights are released for outside use, inspection, adapta
 
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Anthropic publishes an open-weights position while a low-cost 9B fine-tune reportedly beats frontier models on catalog review.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — The Gemma 4-on-small-memory item keeps local deployment efficiency and model-access constraints in view.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Gemma 4 26B running in 2 GB RAM on M-series Macs keeps efficient local inference and open/local model deployment in view.
 
 ## Related Concepts
 

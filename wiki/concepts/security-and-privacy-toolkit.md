@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 104
+source_count: 105
 ---
 
 # Security & Privacy Toolkit
@@ -181,6 +181,8 @@ The layered defense system protecting this infrastructure: password management, 
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Border phone searches, immigration-stop videos, AI benchmark intrusions, Copilot-for-Word worms, SynthID limits, and feed gaps all require verification and control-surface thinking.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — AI worms, faster vulnerability discovery, age-signals APIs, school-security drones, and missing data panels are treated as trust-boundary and verification problems.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Alleged unlawful surveillance, AI-assisted bug discovery, frontier-lab agent intrusion, and unavailable feed panels all reinforce auditability and response-capacity controls.
 
 ## Related Concepts
 

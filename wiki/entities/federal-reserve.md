@@ -4,9 +4,9 @@ title: Federal Reserve
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 83
+source_count: 84
 ---
 
 # Federal Reserve
@@ -164,6 +164,8 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — EFFR holds at 3.63% with the target range at 3.50–3.75% while markets sell off into the Fed-decision setup.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while Nasdaq/AI-chip risk-off continues and long yields stay near upper rails.
 
 ## Related
 
