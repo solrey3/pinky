@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-30
 updated: 2026-07-30
 tags: [law, justice, surveillance, civil-liberties, fbi, politics]
-source_count: 1
+source_count: 2
 ---
 
 # James Comey
@@ -16,6 +16,7 @@ James Comey is a former FBI director. In the newsletter graph, he appears as a c
 ## Sources
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Reason coverage alleges unlawful government surveillance and frames the Comey case as a test of record legality, prosecution integrity, and civil-liberties boundaries.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Alleged unlawful surveillance records keep Comey as the named civil-liberties and evidence-integrity anchor.
 
 ## Related
 

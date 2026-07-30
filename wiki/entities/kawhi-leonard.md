@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-30
 tags: [person, basketball, nba]
-source_count: 3
+source_count: 4
 ---
 
 # Kawhi Leonard
@@ -37,6 +37,7 @@ The most efficient two-way wing in NBA history. Two championships (2014 Spurs, 2
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — ESPN reports the NBA probe into the Clippers and Leonard could extend into 2027.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — The Clippers investigation may run into 2027, keeping Kawhi in the NBA governance/probe thread.
 
 ## Related
 

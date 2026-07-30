@@ -4,9 +4,9 @@ title: American Express
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [finance, credit-cards, consumer-credit, markets, financials]
-source_count: 30
+source_count: 31
 ---
 
 # American Express
@@ -70,6 +70,7 @@ American Express is tracked as a consumer-credit and financial-services market i
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — American Express falls 4.14%, weaker than the other financial/quality offsets in the stock watch.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Falls 4.94%, showing that financial/consumer-credit exposure is not uniformly defensive in the selloff.
 
 ## Related
 

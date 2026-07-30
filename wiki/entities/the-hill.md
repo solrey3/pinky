@@ -4,9 +4,9 @@ title: The Hill
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [media, politics, congress, policy, washington, news]
-source_count: 14
+source_count: 15
 ---
 
 # The Hill
@@ -39,6 +39,7 @@ The Hill is a U.S. political-news outlet tracked in the newsletter graph when co
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — The Hill supplies the Thune budget-vote warning and immigration-stop/slur coverage tied to enforcement scrutiny.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Supplies headline coverage for Iran-strike escalation, Trump court criticism, the Blanche nomination stall, AI-trust polling, and other Washington items.
 
 ## Related
 

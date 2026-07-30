@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-07-30
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 53
+source_count: 54
 ---
 
 # Iran
@@ -110,6 +110,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Reported U.S. retaliatory strikes tied to attacks on a Jordan base keep Iran as the main geopolitical and crude-risk anchor.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Reported U.S. retaliatory strikes on Iranian targets tied to a Jordan base attack keep Iran as the day’s main geopolitical and crude-risk anchor.
 
 ## Related
 

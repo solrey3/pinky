@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-30
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 34
+source_count: 35
 ---
 
 # Amazon
@@ -77,6 +77,7 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Falls 7.43%, participating in the growth/megacap side of the risk-off rotation.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Falls 7.43%, adding megacap growth weakness to the Nasdaq-led selloff.
 
 ## Related
 

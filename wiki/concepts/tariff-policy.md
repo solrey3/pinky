@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-24
 updated: 2026-07-30
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 8
+source_count: 9
 ---
 
 # Tariff Policy
@@ -27,6 +27,7 @@ Tariff policy is the use of import duties to pursue revenue, industrial policy, 
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Trump-linked Iran tariff/sanctions demands keep tariff authority tied to geopolitical bargaining and sanctions design.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Trump’s Supreme Court tariff comments keep tariff authority tied to executive-power and market/governance risk.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Trump’s tariff/Supreme Court comments keep tariff authority in the litigation and executive-power graph.
 
 ## Related Concepts
 

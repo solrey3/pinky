@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-30
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 31
+source_count: 32
 ---
 
 # Open-Weights AI
@@ -70,6 +70,7 @@ AI models whose trained weights are released for outside use, inspection, adapta
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — The Gemma 4-on-small-memory item keeps local deployment efficiency and model-access constraints in view.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Gemma 4 26B running in 2 GB RAM on M-series Macs keeps efficient local inference and open/local model deployment in view.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Gemma 4 26B running in 2 GB RAM on M-series Macs keeps efficient local inference and open/local model deployment in view.
 
 ## Related Concepts
 

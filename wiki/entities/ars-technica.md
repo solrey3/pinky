@@ -4,9 +4,9 @@ title: Ars Technica
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 10
+source_count: 11
 ---
 
 # Ars Technica
@@ -33,6 +33,7 @@ Technology and science publication tracked as a source for infrastructure, scien
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Ars Technica tracks the OpenAI/Hugging Face cyberattack narrative and Google SynthID watermarking limits.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Supplies the AI/security/legal desk on Anthropic-vs-Microsoft patch pressure and xAI/Grok abuse-reporting litigation.
 
 ## Related
 

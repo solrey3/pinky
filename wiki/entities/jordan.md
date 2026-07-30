@@ -4,9 +4,9 @@ title: Jordan
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-07-20
+updated: 2026-07-30
 tags: [jordan, middle-east, military, geopolitics, united-states, iran]
-source_count: 3
+source_count: 4
 ---
 
 # Jordan
@@ -20,6 +20,7 @@ Jordan is tracked in the newsletter graph as a Middle East security and basing n
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Reported U.S. service-member deaths in Jordan make the country the casualty and basing anchor for the latest Iran-retaliation cycle.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Two U.S. troops killed in Jordan are identified as the Iran-war escalation thread continues.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Appears through strike-retaliation reporting after attacks on a U.S. base in Jordan.
 
 ## Related
 

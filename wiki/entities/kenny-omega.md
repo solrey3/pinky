@@ -4,9 +4,9 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 34
+source_count: 35
 ---
 
 # Kenny Omega
@@ -95,6 +95,7 @@ source_count: 34
 
 - [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears in the Meltzer 5.5-star July 8 match with MJF.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Appears as Will Ospreay’s named AEW tension point in Dynamite fallout.
 
 ## Related
 

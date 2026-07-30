@@ -4,9 +4,9 @@ title: Netflix
 type: entity
 entity_type: organization
 created: 2026-06-26
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 44
+source_count: 45
 ---
 
 # Netflix
@@ -95,6 +95,7 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Netflix rises 6.57%, one of the quality/consumer pockets offsetting AI-chip weakness.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Rises 7.44%, one of the rare green large-cap growth/consumer pockets in a red Nasdaq tape.
 
 ## Related
 

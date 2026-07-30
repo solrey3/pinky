@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 68
+source_count: 69
 ---
 
 # TNA Wrestling
@@ -139,6 +139,7 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — TNA appears through its iMPACT calendar and a LeBron-to-Philadelphia promotional invitation.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — TNA iMPACT! is listed for July 30 with AXS/TNA+ verification.
 
 ## Related
 

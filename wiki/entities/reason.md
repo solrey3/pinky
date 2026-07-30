@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-30
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 20
+source_count: 21
 ---
 
 # Reason
@@ -51,6 +51,7 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Highlights records alleging illegal government surveillance of James Comey, extending Reason’s civil-liberties and prosecution-integrity role in the graph.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Highlights records alleging illegal government surveillance of James Comey, feeding the civil-liberties/evidence-provenance thread.
 
 ## Related
 

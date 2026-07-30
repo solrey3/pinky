@@ -4,9 +4,9 @@ title: xAI
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-16
+updated: 2026-07-30
 tags: [ai, llm, frontier-models, grok, elon-musk]
-source_count: 4
+source_count: 5
 ---
 
 # xAI
@@ -22,6 +22,7 @@ xAI is tracked as a frontier-AI organization whose Grok releases appear in the n
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Grok Build draws developer attention, extending xAI from model-release headlines into build-tooling and developer-workflow infrastructure.
 
 - [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Grok Build is open source, moving xAI coverage from model release into developer build tooling.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Faces legal scrutiny around Grok abuse-reporting failures, shifting xAI from model launch/Elon Musk narrative into output-harm compliance.
 
 ## Related
 

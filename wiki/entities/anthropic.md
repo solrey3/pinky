@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-07-30
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 35
+source_count: 36
 ---
 
 # Anthropic
@@ -107,6 +107,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Framed as finding bugs faster than Microsoft can patch them, shifting Anthropic’s security role toward vulnerability-discovery throughput and disclosure pressure.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Appears in Ars coverage as finding vulnerabilities faster than Microsoft can patch them, extending Anthropic’s dual-use/security-throughput profile.
 
 ## Related
 

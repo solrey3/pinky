@@ -3,9 +3,9 @@ id: 5ff9d159-4899-45de-a577-c78666bd6d33
 title: AI Output Liability
 type: concept
 created: 2026-06-10
-updated: 2026-07-27
+updated: 2026-07-30
 tags: [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems]
-source_count: 20
+source_count: 21
 ---
 
 # AI Output Liability
@@ -47,6 +47,7 @@ AI output liability is the accountability problem created when generated answers
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Anthropic's approved $1.5B copyright settlement makes AI training provenance and copyright exposure financially material.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Living-author style-imitation restrictions frame AI output controls as liability and rights-holder risk management.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — xAI/Grok reporting shifts generated-output harm into reporting duties, platform liability, and compliance evidence.
 
 ## Related Concepts
 

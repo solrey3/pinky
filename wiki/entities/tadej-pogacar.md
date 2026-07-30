@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 36
+source_count: 37
 ---
 
 # Tadej Pogacar
@@ -81,6 +81,7 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Pogacar remains the Tour de France general-classification winner and official-feed coronation story.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Leads the final Tour de France GC framing and remains the yellow-jersey command point.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-30
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 35
+source_count: 36
 ---
 
 # Polymarket
@@ -79,6 +79,7 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Prediction-market notes mention September Fed-decision and July WTI crude discussion but without clean actionable odds.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Fetched trending topics around the September Fed decision and July 2026 WTI crude but no usable odds/mover data, keeping forecast-market provenance incomplete.
 
 ## Related
 

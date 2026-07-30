@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 79
+source_count: 80
 ---
 
 # WWE
@@ -157,6 +157,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — WWE remains on the promotion calendar and appears through Tiffany Stratton, Raw, SmackDown, and WrestleMania discourse.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Calendar/news items cover Raw, SmackDown, WWE Evolve, and new Roman Reigns dates.
 
 ## Related
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-30
 tags: [baseball, mlb, new-york-mets, schedule, sports]
-source_count: 15
+source_count: 16
 ---
 
 # New York Mets
@@ -41,6 +41,7 @@ The New York Mets are an MLB franchise tracked as a recurring local sports inter
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Team report records a split with Atlanta: a 3–2 win over the Braves and a 1–0 loss.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Team report records a split with Atlanta and the upcoming Marlins series.
 
 ## Related
 

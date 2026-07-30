@@ -4,9 +4,9 @@ title: New York Giants
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [football, nfl, new-york-giants, schedule]
-source_count: 7
+source_count: 8
 ---
 
 # New York Giants
@@ -27,6 +27,7 @@ The New York Giants are an NFL franchise tracked for local-team scheduling, rost
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — The Giants team report carries the upcoming Dallas and Rams schedule entries.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Team report lists September schedule items and training-camp/Nabers injury-practice news.
 
 ## Related
 

@@ -4,9 +4,9 @@ title: Tour de France
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [cycling, sports, tour-de-france]
-source_count: 4
+source_count: 5
 ---
 
 # Tour de France
@@ -21,6 +21,7 @@ Premier annual road cycling race and recurring sports scoreboard entity.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — The Tour de France board records Stage 21 and GC results with Pogacar atop the general classification.
 - [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Stage 21/GC data confirms Mathieu van der Poel’s stage win and Tadej Pogacar’s command after Paris.
 
 ## Related
 
