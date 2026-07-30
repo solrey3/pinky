@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-30
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 84
+source_count: 85
 ---
 
 # AEW
@@ -15,6 +15,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — AEW calendar coverage continues while MyAEW adds RevPro, EVE, wXw, and three U.S. promotions.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — AEW announces a Men’s Casino Gauntlet Match for All In: London 2026 and remains on the weekly calendar.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — AEW Dynamite gets the live-night review slot, keeping AEW in the active wrestling media cycle while TNA personnel cuts dominate the promotion-news side.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — AEW leads the morning wrestling cycle: Dynamite discussion tops r/SquaredCircle, Mercedes Moné advances in the Owen Hart Cup, Swerve/Ospreay face off, and Bandido is announced against Jon Moxley at Forbidden Door.

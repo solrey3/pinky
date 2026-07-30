@@ -3,9 +3,9 @@ id: 39bd82be-43f0-4e14-aa7a-36495d3bf8fb
 title: Quantum Computing Policy
 type: concept
 created: 2026-06-22
-updated: 2026-06-24
+updated: 2026-07-30
 tags: [quantum-computing, technology-policy, research, security, national-strategy, infrastructure, post-quantum-cryptography, cryptographic-migration]
-source_count: 2
+source_count: 3
 ---
 
 # Quantum Computing Policy
@@ -14,6 +14,7 @@ Quantum computing policy is the governance layer around quantum research, fundin
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Ars Technica coverage emphasizes quantum-computing results that can be trusted and verified, shifting the issue from raw advantage claims to validation.
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Trump signs orders to boost quantum research and security, framing quantum computing as strategic policy infrastructure rather than only a laboratory roadmap.
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — White House action shortens the deadline for dropping quantum-vulnerable cryptography, turning quantum policy into concrete post-quantum migration pressure.
 

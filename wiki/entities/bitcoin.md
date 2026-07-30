@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-04
 updated: 2026-07-30
 tags: [crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on]
-source_count: 50
+source_count: 51
 ---
 
 # Bitcoin
@@ -15,6 +15,7 @@ Bitcoin is the largest cryptocurrency and a recurring cross-asset risk-sentiment
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Falls 1.05% to $64,654, a mild risk-asset negative inside an otherwise mixed close.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Bitcoin falls 1.05%, mildly negative but less dramatic than the semiconductor drawdown.
 - [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Bitcoin is the major morning move at **+6.61%**, adding crypto risk appetite even as Russell 2000 weakness and soft semiconductors keep the broader market read incomplete.
 

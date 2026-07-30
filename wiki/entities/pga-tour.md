@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-07-30
 tags: [golf, professional-golf, governance, doping]
-source_count: 2
+source_count: 3
 ---
 
 # PGA Tour
@@ -15,6 +15,7 @@ The PGA Tour is the main U.S.-based professional men’s golf tour. In this sour
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Rocket Classic Round 1 coverage highlights Peter Malnati at 9-under and keeps PGA leaderboard tracking live.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — PGA Tour appears through the Rocket Classic leaderboard and Trey Mullinax suspension.
 - [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — The PGA Tour is the main U.S.-based professional men’s golf tour. In this source it appears through a six-month doping suspension.
 

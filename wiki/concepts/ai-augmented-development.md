@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-07-30
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography, developer-tools, typescript, postgresql]
-source_count: 75
+source_count: 76
 ---
 
 # AI-Augmented Development
@@ -14,6 +14,7 @@ The practice of integrating large language models and AI coding agents into the 
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — GitHub stacked pull requests enter public preview as a developer-workflow and code-review coordination improvement.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Martin Fowler’s refactoring-economics item frames AI-era software work around compounding maintainability rather than only feature generation.
 - [2026-05-10: Fabric Cheatsheet](sources/fabric.md) — Open-source framework for running LLM prompt patterns against any model via CLI
 - [2026-05-10: Pi Cheatsheet](sources/pi.md) — Terminal-based coding agent harness using OpenRouter for LLM access

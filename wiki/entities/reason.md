@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-30
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 22
+source_count: 23
 ---
 
 # Reason
@@ -15,6 +15,7 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Frames a Chinese-car crackdown as a trade-security policy that could unintentionally exclude Mercedes-Benz from U.S. markets.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Frames DHS autonomous border-surveillance tower spending as a civil-liberties and procurement issue.
 - [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — A Reason item contrasts public preference for “free market” language with the more loaded label “capitalism.”
 

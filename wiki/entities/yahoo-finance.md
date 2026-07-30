@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-07-30
 tags: [media, finance, markets, business, energy]
-source_count: 1
+source_count: 2
 ---
 
 # Yahoo Finance
@@ -15,6 +15,7 @@ Financial-news and market-data outlet. In the newsletter graph, Yahoo Finance ap
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Supplies Fed-reaction and hyperscaler debt/yield coverage, tying policy digestion to AI-infrastructure financing.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Supplies the Shell/energy-volatility item in the lunch-hour business feed.
 
 ## Related

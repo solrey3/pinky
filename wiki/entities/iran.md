@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-07-30
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 54
+source_count: 55
 ---
 
 # Iran
@@ -15,6 +15,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Appears through reported responsibility for a Minnesota water-system cyberattack and continued war-powers debate.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Iran-centered headlines dominate the dispatch: Iran says Hormuz is shut, U.S. reporting says ships still move, and diplomacy continues around an Iran MOU while WTI crude falls.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Vance heads to Switzerland for Iran talks while Strait of Hormuz status remains unclear, keeping diplomacy, shipping risk, and oil-market interpretation connected.
 

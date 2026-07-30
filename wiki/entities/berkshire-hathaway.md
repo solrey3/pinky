@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-30
 tags: [finance, insurance, conglomerate, markets, brk-b, quality, value]
-source_count: 28
+source_count: 29
 ---
 
 # Berkshire Hathaway
@@ -15,6 +15,7 @@ Berkshire Hathaway is tracked as a diversified value and insurance-market bellwe
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Rises 3.84% near its 52-week high, reinforcing the value/quality bid under the mixed close.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Berkshire gains 2.91%, reinforcing the quality/value shelter pattern while chips weaken.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — BRK.B falls **2.77%**, contrasting with semiconductor-led market strength.
 

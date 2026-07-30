@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-07-30
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 16
+source_count: 17
 ---
 
 # NewsNation
@@ -15,6 +15,7 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Carries the Iran/Minnesota water-system cyberattack attribution and the failed Senate war-powers vote.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Carries cyclospora/fresh-produce concern and second-quarter GDP/inflation coverage.
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — NewsNation supplies the New Jersey toxic-chemical/cancer-cluster item and electricity-price coverage, tying local environmental evidence to national affordability politics.
 

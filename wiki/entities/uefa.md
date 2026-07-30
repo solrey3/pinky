@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-07-30
 tags: [soccer, europe, governance, fifa, world-cup]
-source_count: 1
+source_count: 2
 ---
 
 # UEFA
@@ -15,6 +15,7 @@ European soccer governing body. In this wiki, UEFA appears as a sports-governanc
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Again appears as threatening a FIFA competition boycott over a World Cup private-equity plan.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — ESPN reports UEFA may boycott FIFA competitions to protest a World Cup private-equity plan.
 
 ## Related

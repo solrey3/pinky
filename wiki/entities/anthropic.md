@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-07-30
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 37
+source_count: 38
 ---
 
 # Anthropic
@@ -51,6 +51,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Ars Technica says Anthropic is finding bugs faster than Microsoft can fix them, keeping vulnerability remediation throughput in focus.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Ars Technica repeats that Anthropic is finding bugs faster than Microsoft can patch them, stressing remediation throughput.
 - [2026-06-01: Evening Brief — June 1, 2026](sources/newsletter-2026-06-01-evening.md) — Anthropic confidentially files draft S-1 with SEC; IPO process officially initiated. Paired with Alphabet's $80B equity raise same day — the AI capital formation era begins in public markets.
 - [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](sources/newsletter-2026-05-28-evening.md) — Anthropic hits $965B valuation, overtakes OpenAI; Claude Opus 4.8 drops same day.

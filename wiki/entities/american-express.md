@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-30
 tags: [finance, credit-cards, consumer-credit, markets, financials]
-source_count: 32
+source_count: 33
 ---
 
 # American Express
@@ -15,6 +15,7 @@ American Express is tracked as a consumer-credit and financial-services market i
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Slips 0.97%, a mild financials/consumer-credit negative inside an otherwise mixed stock watch.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — American Express slips 1.57%, a weaker financial read than Berkshire, Schwab, and PayPal.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — AXP slips **0.39%**, adding to the mixed financials and consumer-credit read.
 

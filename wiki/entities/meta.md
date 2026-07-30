@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-28
+updated: 2026-07-30
 tags: [technology, social-media, ai, privacy, instagram, platforms]
-source_count: 10
+source_count: 11
 ---
 
 # Meta
@@ -15,6 +15,7 @@ Meta is tracked as a major social-media and AI platform operator, especially whe
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Falls hard enough to become a MarketWatch business headline about Wall Street skepticism.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Meta reverses an Instagram AI feature after privacy backlash, reinforcing platform-control and user-consent concerns.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Meta reverses an AI feature after privacy backlash, repeating the platform-control and user-consent theme.

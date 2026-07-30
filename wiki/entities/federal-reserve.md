@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-30
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 86
+source_count: 87
 ---
 
 # Federal Reserve
@@ -15,6 +15,7 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range while markets digest the July decision and long rates stay high.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range while long rates and mortgages keep financial conditions restrictive.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Reported shift away from forward guidance under Kevin Warsh; this would make market interpretation less forecast-led and more dependent on current data and policy decisions.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Rate snapshot lists EFFR at **3.63%** inside the **3.50%–3.75%** target range, while Polymarket/Fed-decision chatter remains too thin to treat as a clean forecast signal.

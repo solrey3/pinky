@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-13
 updated: 2026-07-30
 tags: [prediction-markets, regulated-markets, forecasting, elections]
-source_count: 37
+source_count: 38
 ---
 
 # Kalshi
@@ -15,6 +15,7 @@ Kalshi is a regulated prediction-market venue tracked here when event-contract p
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Prediction-market data is unavailable, keeping Kalshi in the feed-gap/provenance thread.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Kalshi is explicitly unavailable, preserving prediction-market feed limitations in the source record.
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The dispatch notes prediction-market users have spent nearly $200 million on midterm election bets, while Kalshi data is unavailable in the fetched table.
 

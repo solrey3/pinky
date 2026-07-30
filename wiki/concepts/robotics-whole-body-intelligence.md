@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-30
 updated: 2026-07-30
 tags: [ai, robotics, embodiment, world-models, google-deepmind]
-source_count: 1
+source_count: 2
 ---
 
 # Robotics Whole-Body Intelligence
@@ -14,6 +14,7 @@ Robotics whole-body intelligence is the idea that useful robots need integrated 
 
 ## Sources
 
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Gemini Robotics 2 remains a top AI item, reinforcing embodiment as integrated perception, planning, locomotion, and manipulation.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Google DeepMind's Gemini Robotics 2 item frames model progress as embodied capability across the full robot body.
 
 ## Related Concepts
