@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-30
 updated: 2026-07-30
 tags: [golf, pga-tour, doping, suspension]
-source_count: 1
+source_count: 2
 ---
 
 # Trey Mullinax
@@ -15,6 +15,7 @@ Trey Mullinax is a professional golfer. In this source he receives a six-month P
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — ESPN reports Mullinax received a six-month PGA Tour doping suspension.
 - [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Trey Mullinax is a professional golfer. In this source he receives a six-month PGA Tour suspension for a doping violation.
 
 ## Related

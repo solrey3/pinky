@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-02
 updated: 2026-07-30
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 30
+source_count: 31
 ---
 
 # Microsoft
@@ -43,6 +43,7 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Appears as the patch-capacity side of the Anthropic AI-assisted vulnerability-discovery story.
 - [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Microsoft launches MAI-Code-1-Flash (coding model) and MAI-Thinking-1 (reasoning model) the same afternoon; HN lights up with 279 points on the Code launch.
 - [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — **Microsoft Build 2026**: MAI-Code-1-Flash (470 HN pts); **Linux tools** for Windows devs; **RTX Spark desktop** integration. Concurrent VSCode GitHub token-stealing exploit (1-click; HN 402 pts) — patch required.
 - [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **Microsoft + Atom Computing quantum computing progress update** (Ars Technica). Also EeroQ referenced. Quiet but steady advancement — the quantum era inches forward.

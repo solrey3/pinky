@@ -4,9 +4,9 @@ title: MJF
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [person, wrestling]
-source_count: 37
+source_count: 38
 ---
 
 # MJF
@@ -36,6 +36,7 @@ He retained the AEW World Title vs. RUSH on June 3 Dynamite (No Count-Out match)
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — MJF vs. Kenny Omega remains in the Meltzer 5.5-star 2026 ratings table.
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — MJF appears on tonight's AEW Dynamite/Collision in Philadelphia.
 - [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](../sources/newsletter-2026-05-28.md) — MJF's title celebration on Dynamite was crashed by RUSH, who formally accepted the AEW World Championship challenge. Defense vs. RUSH set for 6/3 Dynamite. Edge/Christian chaos also unfolded. Owen Hart Cup semifinals set: Ospreay vs. Davis and Swerve vs. Brody King.
 - [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletter-2026-05-28-evening.md) — AEW Double or Nothing PPV buys tracking up 15% over Revolution at 200K+, per Wrestling Observer. MJF as reigning champion is the headliner of the event that drove that number. Mark Davis & Brody King advanced in the Owen Hart Cup.

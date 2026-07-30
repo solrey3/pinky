@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-30
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 104
+source_count: 105
 ---
 
 # Risk-Off Market Rotation
@@ -14,6 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Lunch-hour data soften the selloff but preserve the same shape: AMD, Nvidia, TSM, Tesla, and UPS are stressed while Dow, SCHD, VXUS, VBR, VNQ, Berkshire, Schwab, Costco, PayPal, Amazon, and Netflix are green.
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Nasdaq, S&P, Russell, TSLA, AMD, AMZN, and Bitcoin sold off while BRK.B, SCHW, COST, UPS, and VNQ were green or resilient.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — End-of-day close confirmed the same pattern: Nasdaq -4.27% and S&P -2.56% while SCHD, VBR, VNQ, BRK.B, COST, RL, and TGT held up or gained.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The next morning preserved the split: AI/growth names remained pressured while dividend, value, real estate, consumer, and Berkshire-style quality pockets were resilient.

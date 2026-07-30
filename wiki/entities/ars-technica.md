@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-07-30
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 11
+source_count: 12
 ---
 
 # Ars Technica
@@ -15,6 +15,7 @@ Technology and science publication tracked as a source for infrastructure, scien
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Carries both the Anthropic/Microsoft bug-throughput story and Google Play age-signals API coverage.
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Supplies the AlphaFold/gene-editing protein redesign item on the AI and tech desk.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Supplies the AlphaFold/gene-editing protein redesign headline.

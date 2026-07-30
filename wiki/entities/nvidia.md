@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-07-30
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 86
+source_count: 87
 ---
 
 # Nvidia
@@ -15,6 +15,7 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Nvidia falls 7.53%, confirming AI-chip weakness as the lunch board’s main stress center.
 - [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Nvidia seeks to raise more than $25B in its first bond deal since 2021, turning AI-chip demand into a capital-markets and balance-sheet story.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The bond-deal story persists into the morning tech desk, reinforcing that AI infrastructure demand is being financed through debt as well as equity-market enthusiasm.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Nvidia research uses AI coding-agent techniques to teach robots physical tasks such as installing GPUs and cutting zip ties, extending the AI-agent frame from software workflow into embodied automation.

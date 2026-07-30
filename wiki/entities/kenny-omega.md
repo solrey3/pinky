@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-07-30
 tags: [person, wrestling, aew, njpw, forbidden-door]
-source_count: 35
+source_count: 36
 ---
 
 # Kenny Omega
@@ -35,6 +35,7 @@ source_count: 35
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Kenny Omega appears through the MJF match in the Meltzer 5-star-plus table.
 - [2026-05-27: Raw notes](../../raw/people/kenny-omega.md)
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Forbidden Door build sets Kenny Omega vs. Zack Sabre Jr.
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — r/SquaredCircle highlights the official Kenny Omega vs. Zack Sabre Jr. Forbidden Door poster, keeping the match visible in the crossover-event build.

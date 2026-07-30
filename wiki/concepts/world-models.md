@@ -3,9 +3,9 @@ id: 6309035d-1498-403b-9d16-3d3914144d86
 title: World Models
 type: concept
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-07-30
 tags: [ai, world-models, simulation, forecasting, agents, robotics, limitations]
-source_count: 1
+source_count: 2
 ---
 
 # World Models
@@ -14,6 +14,7 @@ AI systems or model components that try to learn simulated representations of en
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Google DeepMind’s Gemini Robotics 2 item links model world-understanding to embodied robot planning and motion.
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Ars Technica frames world models as promising for simulation and planning but limited enough to require careful claims about scope.
 
 ## Related Concepts

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-26
 updated: 2026-07-30
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 45
+source_count: 46
 ---
 
 # Netflix
@@ -15,6 +15,7 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Netflix gains 4.57%, one of the strongest quality/consumer-tech offsets to chip weakness.
 - [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Netflix is reported to require every user profile to be tied to a unique email address, turning streaming profiles into more explicit account-identity units; the stock also falls **-4.61%** near its 52-week low.
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — The unique-email profile requirement repeats in the AI/tech desk, while the stock remains weak and near the low end of its 52-week range.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — The profile-email requirement repeats again, confirming account identity as the durable Netflix story while the stock remains close to its 52-week low.

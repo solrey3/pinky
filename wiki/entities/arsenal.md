@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-07-30
 tags: [soccer, football, arsenal, premier-league, ucl, london, organization, sports]
-source_count: 14
+source_count: 15
 ---
 
 # Arsenal FC
@@ -30,6 +30,7 @@ London-based Premier League club, founded 1886. One of England's most storied fo
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Team report carries criticism of Arsenal Champions League tactics.
 - [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](sources/newsletter-2026-05-28.md) — Arsenal 8-0-0 in UCL; UCL Final vs. PSG on Saturday, May 30.
 - [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](sources/newsletter-2026-05-28-evening.md) — UCL Final is 36 hours away. Arsenal referenced as the eve-of-Final edition; 8-0-0 record intact entering the match vs. PSG.
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — UCL Final is **tomorrow**: Arsenal vs. PSG, Saturday May 30, 12 PM EDT, CBS. Arsenal's last 8 UCL results all wins, 27 goals scored across the run.

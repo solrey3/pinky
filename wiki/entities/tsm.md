@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-20
 updated: 2026-07-30
 tags: [technology, semiconductors, foundry, ai-chips, markets, risk-on, risk-off]
-source_count: 79
+source_count: 80
 ---
 
 # TSM
@@ -15,6 +15,7 @@ TSM is the market ticker commonly used here for Taiwan Semiconductor Manufacturi
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — TSM falls 3.40%, keeping foundry/AI-chip exposure in the weak lane even as the broader tape is mixed.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — TSM rises **+9.75%** and nearly reaches its 52-week high, keeping foundry exposure in the semiconductor-led risk-on basket.
 - [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — TSM remains at **$462.12**, **+9.75%**, nearly at its 52-week high and still part of the chip-led equity-risk signal.
 

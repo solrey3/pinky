@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-30
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
-source_count: 73
+source_count: 74
 ---
 
 # CMLL
@@ -15,6 +15,7 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — CMLL Arena México dates remain part of the weekly lucha calendar.
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Overnight CMLL Martes de Arena México results were included in the squared-circle digest.
 - [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — CMLL announces the 2026 Men's Grand Prix for August 7 at Arena México, keeping the promotion in the summer lucha-libre calendar.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — CMLL/NJPW Fantastica Mania appears among MyAEW additions, connecting CMLL to the AEW/NJPW distribution and crossover ecosystem.

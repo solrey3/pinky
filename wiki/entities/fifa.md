@@ -4,9 +4,9 @@ title: FIFA
 type: entity
 entity_type: organization
 created: 2026-07-18
-updated: 2026-07-20
+updated: 2026-07-30
 tags: [soccer, governance, world-cup]
-source_count: 3
+source_count: 4
 ---
 
 # FIFA
@@ -15,6 +15,7 @@ FIFA appears through unresolved hydration-break policy discussion.
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — UEFA boycott reporting centers on FIFA competition control and World Cup private-equity plans.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — FIFA appears through unresolved hydration-break policy discussion.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The Spain-Argentina World Cup final in New Jersey goes deep into extra time and anchors the soccer board.

@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 31
+source_count: 32
 ---
 
 # Google
@@ -15,6 +15,7 @@ American technology company and AI lab/operator behind Search, Android, Google C
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Appears through Google DeepMind robotics and Play Store age-signals API coverage, linking AI capability to platform governance.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — MacRumors reported Apple's new AI architecture as being built around Google Gemini models, making Google part of Apple's AI plumbing.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Apple/Gemini architecture story stayed prominent, reinforced by macOS Golden Gate and Gemini-powered Siri feed items.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation, shifting Gemini from platform plumbing into everyday communication utility.

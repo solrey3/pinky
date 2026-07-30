@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-30
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 83
+source_count: 84
 ---
 
 # Monetary Policy Forward Guidance
@@ -14,6 +14,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — EFFR at 3.63%, the 3.50%–3.75% Fed target range, a near-high 30-year Treasury, mortgage rates, FX, and prediction-market Fed chatter keep policy transmission central.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The Federal Reserve is reported to be moving away from forward guidance under Kevin Warsh, shifting market interpretation toward data dependence and away from forecast anchoring.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — The rate snapshot and July 50+ bps hike prediction-market snippet provide expectations context, but they are not forward guidance; this distinction keeps policy communication separate from market-implied odds.
 - [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The evening rate snapshot again supplies EFFR/target-range context without adding a new Fed communication signal.

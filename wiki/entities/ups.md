@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-30
 tags: [logistics, shipping, transportation, markets, cold-chain]
-source_count: 29
+source_count: 30
 ---
 
 # UPS
@@ -15,6 +15,7 @@ UPS is tracked as a logistics and economic-activity bellwether.
 
 ## Sources
 
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — UPS drops 9.56%, the non-chip major-move stress point on the stock-watch board.
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — UPS gains **1.64%**, a modestly positive transportation note in the stock watch.
 
 - [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — UPS gains 1.64%, keeping logistics in the evening stock-watch list.
