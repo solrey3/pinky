@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs]
-source_count: 51
+source_count: 52
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 51
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Appears in the IRS-collusion appeal headline, keeping administration litigation in the daily politics record.
 
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Appears across primary-election analysis, a report that the administration seriously considered unilateral habeas-corpus suspension, and a claim that a U.S.-Iran peace deal would be public soon.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The Iran-U.S. memorandum of understanding remains the central Trump story, with text publication, political dispute, and qualified support from a former Biden Iran envoy.

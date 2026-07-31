@@ -4,9 +4,9 @@ title: DeepSeek
 type: entity
 entity_type: organization
 created: 2026-06-27
-updated: 2026-07-08
+updated: 2026-07-31
 tags: [ai, llm, open-weights, inference, optimization, speculative-decoding, sovereign-ai, ai-chips, china]
-source_count: 4
+source_count: 5
 ---
 
 # DeepSeek
@@ -14,6 +14,8 @@ source_count: 4
 DeepSeek is an AI lab and model developer tracked here through open model work, inference-efficiency work, and export-control-driven hardware strategy. In the newsletter graph, it is both an open/optimization counterweight to closed frontier-model access control and a sovereign-AI chip-supply node.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — DeepSeek-V4-Flash update appears on the Hacker News/model-watch desk.
 
 - [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — DeepSeek open-sources inference optimizations claiming **60–85%** faster generation, keeping open deployment efficiency relevant beside state-vetted frontier-model access.
 - [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — DSpark/speculative decoding leads the AI/tech desk as another inference-acceleration item, reinforcing DeepSeek's role in open/local serving efficiency.

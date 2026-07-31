@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-31
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 74
+source_count: 75
 ---
 
 # TNA Wrestling
@@ -14,6 +14,8 @@ source_count: 74
 American professional wrestling promotion formerly known as Impact Wrestling. In the newsletter graph, TNA is tracked as a promotion whose personnel moves and organizational stability affect the broader wrestling ecosystem.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — TNA appears through upcoming iMPACT! schedule and taping-spoiler headlines.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — TNA appears through Jason Hotch’s International Title upset and NXT/TNA crossover title-tournament notes.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — TNA iMPACT records Jason Hotch winning the International Title and the Knockouts TV tournament moving to semifinals.

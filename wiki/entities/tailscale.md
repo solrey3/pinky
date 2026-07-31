@@ -4,9 +4,9 @@ title: "Tailscale"
 type: entity
 entity_type: service
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-15
+updated: 2026-07-31
 tags: [service, service]
-source_count: 2
+source_count: 3
 ---
 
 # Tailscale
@@ -14,6 +14,8 @@ source_count: 2
 Zero-config VPN that creates a secure mesh network between your devices. Based on WireGuard. No open ports, no firewall rules.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Publishes analysis of the Hugging Face intrusion, clarifying where network overlays do and do not help.
 
 - [2026-05-10: Tailscale Cheatsheet](sources/tailscale.md)
 - [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — TS-2026-009 flags insecure Tailscale SSH argument handling that could permit root access, adding privileged-access risk to the admin toolkit.

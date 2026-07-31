@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-07-31
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 59
+source_count: 60
 ---
 
 # New Jersey Devils
@@ -14,6 +14,8 @@ source_count: 59
 The New Jersey Devils are an NHL team tracked in the newsletter sports feed when roster, free-agency, or local-interest updates appear.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report carries preseason dates and prospect/signing notes.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — The team report lists Flyers and Islanders preseason dates plus Sigge Holmgren and forward White roster/prospect notes.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Team report carries October Flyers/Islanders preseason dates, a White signing, and draft-strategy notes.

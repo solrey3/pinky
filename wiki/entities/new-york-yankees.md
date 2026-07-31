@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-27
 updated: 2026-07-31
 tags: [baseball, mlb, sports]
-source_count: 6
+source_count: 7
 ---
 
 # New York Yankees
@@ -14,6 +14,8 @@ source_count: 6
 Major League Baseball team tracked for local sports watchlist continuity.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Scoreboard lists a 2–1 loss to the White Sox and a separate 2–0 win over the Cubs.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Lose 2–1 to the Chicago White Sox in the completed MLB scoreboard and next face the Cubs.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Lose twice to the White Sox, including an 11th-inning bases-loaded walk finish.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-13
 updated: 2026-07-31
 tags: [prediction-markets, regulated-markets, forecasting, elections]
-source_count: 41
+source_count: 42
 ---
 
 # Kalshi
@@ -14,6 +14,8 @@ source_count: 41
 Kalshi is a regulated prediction-market venue tracked here when event-contract pricing or election-betting stories enter the newsletter graph.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Faces New York’s alleged illegal-gambling action while the dispatch’s Kalshi data panel remains unavailable.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — New York alleges Kalshi is running an illegal gambling operation while the dispatch’s Kalshi feed remains unavailable.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Feed remains unavailable in the prediction-market section, preserving the evidence-gap note.
@@ -91,3 +93,4 @@ Kalshi is a regulated prediction-market venue tracked here when event-contract p
 - [[Polymarket]]
 - [[Market Inefficiency]]
 - [[Monetary Policy Forward Guidance]]
+- [[Prediction Markets]]

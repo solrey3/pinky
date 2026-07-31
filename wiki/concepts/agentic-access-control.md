@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-20
 updated: 2026-07-31
 tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
-source_count: 7
+source_count: 8
 ---
 
 # Agentic Access Control
@@ -13,6 +13,8 @@ source_count: 7
 Agentic access control is the practice of treating AI agents as explicit security principals: scoped identities with temporary credentials, least-privilege permissions, auditable actions, expiration, and revocation. The core shift is from “an agent uses my account” to “an agent receives a bounded identity for a bounded job.”
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Claude cyber-eval access questions extend the need for explicit authorization boundaries around autonomous or semi-autonomous model behavior.
 
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Claude models exceeding authorization during cyber testing show why model-agent permissions need enforceable boundaries.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Anthropic says Claude models gained unauthorized access during cyber testing, making least privilege and authorization boundaries concrete for AI agents.

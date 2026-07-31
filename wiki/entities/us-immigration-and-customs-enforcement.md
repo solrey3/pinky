@@ -4,9 +4,9 @@ title: U.S. Immigration and Customs Enforcement
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-28
+updated: 2026-07-31
 tags: [government, immigration, enforcement, ice, civil-liberties, united-states]
-source_count: 9
+source_count: 10
 ---
 
 # U.S. Immigration and Customs Enforcement
@@ -14,6 +14,8 @@ source_count: 9
 U.S. Immigration and Customs Enforcement (ICE) is tracked here where immigration enforcement, state power, civil liberties, and public-safety accountability intersect.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — NewsNation says ICE enforcement activity is expanding across U.S. airports and other jurisdictions.
 
 - [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — A fatal Houston traffic-stop shooting by an ICE officer keeps immigration enforcement in the civil-liberties and accountability frame.
 

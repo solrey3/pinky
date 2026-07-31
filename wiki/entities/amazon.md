@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-07-31
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 39
+source_count: 40
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 39
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — AMZN +17% is the evening’s dominant major-move alert and offsets part of the chip/high-beta weakness.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Surges 15.99%, becoming the lunch-hour major-move alert and the strongest counterweight to semiconductor/high-beta weakness.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Gains 0.79%, a modest megacap counterweight to chip and Tesla weakness.

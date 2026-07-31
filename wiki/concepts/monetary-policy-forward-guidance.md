@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-07-31
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 88
+source_count: 89
 ---
 
 # Monetary Policy Forward Guidance
@@ -13,6 +13,8 @@ source_count: 88
 A central-bank communication strategy that attempts to shape expectations by signaling likely future policy paths. Forward guidance can reduce uncertainty when credible, but it can also constrain policymakers or make markets overfit to official forecasts instead of current data.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — EFFR, target range, 30-year Treasury near highs, mortgage rates, FX, oil, and Fed-decision market chatter keep policy transmission central to the close.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — EFFR is unavailable, but the 5.264% 30-year Treasury, 6.76% mortgage quote, FX, oil, gas, and Fed-decision market chatter keep policy transmission visible without a new Fed guidance signal.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — EFFR, the Fed target range, Treasuries, mortgage rates, FX, and bank-account/loan effects make rate transmission explicit.

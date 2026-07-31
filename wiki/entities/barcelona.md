@@ -4,9 +4,9 @@ title: Barcelona
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [soccer, la-liga, sports]
-source_count: 8
+source_count: 9
 ---
 
 # Barcelona
@@ -14,6 +14,8 @@ source_count: 8
 FC Barcelona, Spanish football club followed in soccer team reports.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report notes Barcelona signing teenage winger Jesse Bisiwu.
 
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Team report notes Joan Laporta recovering from a heart issue.
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Barcelona appears through Camp Nou renovation death support and schedule-source tracking.

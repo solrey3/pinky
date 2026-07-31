@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-19
 updated: 2026-07-31
 tags: [philippines, metro-manila, weather]
-source_count: 26
+source_count: 27
 ---
 
 # Makati
@@ -14,6 +14,8 @@ source_count: 26
 Makati is a Metro Manila city used in the newsletter as the Philippines weather and personal-geography anchor.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Weather lead: partly cloudy, humid conditions and a patchy-rain Saturday forecast keep umbrella risk in the daily tracking loop.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Patchy rain and humid 30°C/feels-like-34°C conditions keep the Philippines weather anchor in the overnight frame.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — wttr.in is unavailable, but the available report shows clear 26°C conditions and a patchy-rain Friday outlook.

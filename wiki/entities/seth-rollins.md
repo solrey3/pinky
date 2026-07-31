@@ -4,9 +4,9 @@ title: Seth Rollins
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-28
+updated: 2026-07-31
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 10
+source_count: 11
 ---
 
 # Seth Rollins
@@ -33,6 +33,8 @@ source_count: 10
 - The Visionary's ability to have different types of great matches makes him uniquely versatile
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — WWE headline quotes him saying Roman Reigns calls him “Number Two.”
 
 - [2026-06-01: Evening Brief — June 1, 2026](sources/newsletter-2026-06-01-evening.md) — **King of the Ring 2026, Raw (June 1):** Defeats Bron Breakker after Breakker speared Paul Heyman through a barricade, allowing Rollins to capitalize. Advances in the King of the Ring tournament. The Visionary gets a tournament slot on the same night the bracket opens.
 - [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — WWE Raw coverage sets Rollins against Bron Breakker in a steel cage match at WWE Night of Champions.

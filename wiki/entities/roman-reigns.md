@@ -4,9 +4,9 @@ title: Roman Reigns
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-28
+updated: 2026-07-31
 tags: [person, wrestling, bloodline]
-source_count: 11
+source_count: 12
 ---
 
 # Roman Reigns
@@ -33,6 +33,8 @@ source_count: 11
 - Roman vs. Cody Rhodes at WM39 and WM40 were the biggest WrestleMania main events in 20 years
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Appears in Seth Rollins’ WWE headline as the foil for the “Number Two” remark.
 
 - [2026-05-27: Raw notes](../../raw/people/roman-reigns.md)
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — **Roman Reigns vs. Solo Sikoa (Fatu) confirmed for Clash in Italy**. The Bloodline storyline's latest chapter plays out in Italy. SmackDown Barcelona (go-home show) set the card.

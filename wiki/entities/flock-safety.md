@@ -4,9 +4,9 @@ title: Flock Safety
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-07-25
+updated: 2026-07-31
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 2
+source_count: 3
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 2
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Reason reports at least 20 Georgia officials arrested for alleged misuse of the Flock surveillance database.
 
 - [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Georgia officers keep getting arrested for allegedly misusing Flock surveillance data, making insider access control the core risk.
 
@@ -23,3 +25,4 @@ Surveillance-technology company associated with license-plate reader and vehicle
 
 - [[Geolocation Data Privacy]]
 - [[Security & Privacy Toolkit]]
+- [[Automated License-Plate Reader Surveillance]]

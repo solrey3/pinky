@@ -4,9 +4,9 @@ title: Lionel Messi
 type: entity
 entity_type: person
 created: 2026-07-20
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [soccer, inter-miami, argentina, mls]
-source_count: 5
+source_count: 6
 ---
 
 # Lionel Messi
@@ -14,6 +14,8 @@ source_count: 5
 Lionel Messi is tracked as a global soccer player when club or international coverage appears.
 
 ## Sources
+
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — No date is set for his return to Inter Miami action.
 
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — ESPN reports Messi is back training with Inter Miami after the World Cup.
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Messi and Rodrigo De Paul are reported on Miami hiatus for the next two games.
