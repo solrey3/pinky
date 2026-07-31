@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-07-31
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 108
+source_count: 109
 ---
 
 # Risk-Off Market Rotation
@@ -14,6 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Broad indexes are green near highs, but Russell softness and AMD/Nvidia/Tesla weakness show the rotation is still selective rather than a clean risk-on confirmation.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Morning data preserve the mixed-close/selective-stress shape: broad indexes near highs while AMD/Nvidia/TSM/Tesla/UPS are weak.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — The dispatch keeps the mixed-close pattern intact: broad indexes firm, but AMD/Nvidia/TSM/Tesla/UPS weakness shows selective stress rather than broad liquidation.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The evening close is mixed rather than messy: S&P/Dow/Russell rise, Nasdaq dips, and AMD/Nvidia/TSM/Tesla/UPS weakness contrasts with dividend, value, international, REIT, Berkshire, Schwab, Costco, PayPal, and Netflix strength.

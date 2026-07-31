@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-07-31
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 40
+source_count: 41
 ---
 
 # Polymarket
@@ -15,6 +15,7 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Trend snippets list Fed-decision and best-AI-model markets without clean odds, preserving prediction-market provenance limits.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Trending topics are fetched but odds/moves are unavailable, making prediction-market provenance incomplete.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Shows Fed-decision and 2026 AI-model markets as trending but without clean odds in the dispatch extraction.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Extraction returns Fed-decision and AI-model trend topics but no odds or mover figures, preserving a provenance gap.

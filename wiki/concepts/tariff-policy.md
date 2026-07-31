@@ -3,9 +3,9 @@ id: 8973c792-4d45-4edb-b549-6a4bdbf4265f
 title: Tariff Policy
 type: concept
 created: 2026-07-24
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 10
+source_count: 11
 ---
 
 # Tariff Policy
@@ -14,6 +14,7 @@ Tariff policy is the use of import duties to pursue revenue, industrial policy, 
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Reason’s $900-per-household estimate converts tariff policy from abstract trade leverage into a 2026 consumer-cost claim.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The Chinese-car crackdown/Mercedes-Benz item shows trade-security rules can sweep in unintended automakers and supply-chain configurations.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Trump-linked double-digit import tariffs and Section 301 legal objections put trade authority, consumer-cost pressure, and election-economy risk on the daily board.
 

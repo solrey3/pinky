@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-31
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 83
+source_count: 84
 ---
 
 # WWE
@@ -15,6 +15,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — SmackDown go-home coverage before SummerSlam and Raw/NXT schedule rows keep WWE as the dominant Friday wrestling calendar item.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — SmackDown/SummerSlam build includes a CM Punk-Cody Rhodes faceoff before SummerSlam.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — SmackDown/SummerSlam items include CM Punk–Cody Rhodes promotion and ESPN Moment of the Night branding.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — WWE calendar items include Raw/SmackDown windows and AAA Triplemania venue-demand context.

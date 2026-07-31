@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-31
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 89
+source_count: 90
 ---
 
 # Federal Reserve
@@ -15,6 +15,7 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Long-rate pressure remains the effective policy signal: the 30-year Treasury reaches 5.264% while mortgage rates stay at 6.76% and Fed-decision prediction-market chatter remains provenance-limited.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Keeps EFFR at 3.63% inside a 3.50%–3.75% target range while long rates and mortgages remain the household-budget pressure point.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range while Fed-decision market reaction stays in the business tape.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range while markets digest the July decision and long rates stay high.

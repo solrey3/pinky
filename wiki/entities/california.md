@@ -4,9 +4,9 @@ title: California
 type: entity
 entity_type: place
 created: 2026-07-02
-updated: 2026-07-26
+updated: 2026-07-31
 tags: [california, state, regulation, consumer-protection, food-labels, united-states]
-source_count: 4
+source_count: 5
 ---
 
 # California
@@ -15,6 +15,7 @@ California is a U.S. state that often functions as a large-market policy setter.
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Listed among the states facing proposed federal Colorado River water-use cuts, shifting the state from consumer-regulation context into Western water allocation.
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Bans confusing “sell by” food labels, making date-label standardization a consumer-information and food-waste policy issue.
 
 - [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The nudify-app enforcement item links San Francisco action to California privacy and civil-code context.
@@ -28,3 +29,5 @@ California is a U.S. state that often functions as a large-market policy setter.
 - [[PFAS Regulation]]
 - [[Security & Privacy Toolkit]]
 - [[Market Inefficiency]]
+- [[Colorado River]]
+- [[Western Water Scarcity]]

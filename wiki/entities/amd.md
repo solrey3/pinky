@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-31
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware]
-source_count: 88
+source_count: 89
 ---
 
 # AMD
@@ -15,6 +15,7 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Falls 6.35%, keeping AMD in the semiconductor stress lane even as large-cap indexes rally.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Falls 10.06%, crossing the major-move alert and keeping semiconductor/high-beta stress central despite broad-index resilience.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Falls 10.06%, crossing the dispatch's single-stock major-move alert line and keeping chip stress at the center of the tape.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Drops 10.06%, the evening major-move hit and the clearest semiconductor stress signal at the close.

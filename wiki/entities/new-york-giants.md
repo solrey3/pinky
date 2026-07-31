@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-07-31
 tags: [football, nfl, new-york-giants, schedule]
-source_count: 11
+source_count: 12
 ---
 
 # New York Giants
@@ -15,6 +15,7 @@ The New York Giants are an NFL franchise tracked for local-team scheduling, rost
 
 ## Sources
 
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — The team report keeps preseason schedule context alive, with Cowboys and Rams games listed as the next NFL dates.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Team report carries training-camp intel, a Cam Skattebo follow-up, and September Cowboys/Rams schedule notes.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Team-report section lists upcoming Cowboys and Rams games plus training-camp/Fanatics Fest news links.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Team report lists upcoming Cowboys/Rams games and a Malik Nabers/Jaxson Dart ESPN item.
