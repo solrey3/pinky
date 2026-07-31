@@ -4,9 +4,9 @@ title: New York Yankees
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [baseball, mlb, sports]
-source_count: 5
+source_count: 6
 ---
 
 # New York Yankees
@@ -15,6 +15,7 @@ Major League Baseball team tracked for local sports watchlist continuity.
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Lose 2–1 to the Chicago White Sox in the completed MLB scoreboard and next face the Cubs.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Lose twice to the White Sox, including an 11th-inning bases-loaded walk finish.
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — The Yankees lose Cody Bellinger for 4–6 weeks and fall 11–4 to the Phillies in the fetched scoreboard.
 

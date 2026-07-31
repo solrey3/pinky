@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 82
+source_count: 83
 ---
 
 # WWE
@@ -15,6 +15,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — SmackDown/SummerSlam build includes a CM Punk-Cody Rhodes faceoff before SummerSlam.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — SmackDown/SummerSlam items include CM Punk–Cody Rhodes promotion and ESPN Moment of the Night branding.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — WWE calendar items include Raw/SmackDown windows and AAA Triplemania venue-demand context.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — George Barrios explains his decision to return to WWE's board amid allegations against Vince McMahon, keeping WWE's governance story in the wrestling feed.

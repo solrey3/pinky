@@ -4,9 +4,9 @@ title: European Union
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [government, europe, privacy, regulation, message-scanning]
-source_count: 8
+source_count: 9
 ---
 
 # European Union
@@ -15,6 +15,7 @@ The European Union is tracked as a regulatory and geopolitical actor, especially
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Appears through AI content-labeling rules taking effect August 2 with a December deadline for existing systems.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — EU AI content-labeling rules taking effect August 2 extend Europe’s role as a platform and AI-provenance regulator.
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — EU private-message-scanning revival coverage ties European regulation to privacy and communications-security tradeoffs.
 

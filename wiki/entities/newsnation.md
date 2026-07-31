@@ -4,9 +4,9 @@ title: NewsNation
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 17
+source_count: 18
 ---
 
 # NewsNation
@@ -15,6 +15,7 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Reports Keyport groundwater tests finding PFAS and benzene amid local cancer-cluster concerns.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Carries the Iran/Minnesota water-system cyberattack attribution and the failed Senate war-powers vote.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Carries cyclospora/fresh-produce concern and second-quarter GDP/inflation coverage.
 - [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — NewsNation supplies the New Jersey toxic-chemical/cancer-cluster item and electricity-price coverage, tying local environmental evidence to national affordability politics.

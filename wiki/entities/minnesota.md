@@ -4,9 +4,9 @@ title: Minnesota
 type: entity
 entity_type: place
 created: 2026-07-28
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [minnesota, state, prediction-markets, courts, united-states]
-source_count: 3
+source_count: 4
 ---
 
 # Minnesota
@@ -15,6 +15,7 @@ Minnesota is a U.S. state appearing in the newsletter graph through regulation, 
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Municipal water facilities in the state are investigated as possible targets of an Iran-linked cyberattack.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Appears as the municipal-infrastructure target in the reported Iran-linked water-system cyberattack.
 - [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — A federal judge pauses Minnesota's prediction-market ban days before rollout, keeping political-contract legality active.
 

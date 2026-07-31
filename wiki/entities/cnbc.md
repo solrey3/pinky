@@ -4,9 +4,9 @@ title: CNBC
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [media, business, markets]
-source_count: 4
+source_count: 5
 ---
 
 # CNBC
@@ -15,6 +15,7 @@ Business and financial news network used for markets, companies, and public-heal
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Rivian spending guidance and Jersey Mike's IPO trading coverage feed the business-news section.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Carries Rivian Q2 coverage, emphasizing reduced spending plans and narrowed earnings guidance.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Provides NBCUniversal/YouTube streaming-war coverage and Stellantis North America profit context.
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — CNBC supplies the cyclospora outbreak, Ford customization, GLP-1 cold-chain, and Moody's AI-capex items.

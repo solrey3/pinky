@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-07-28
+updated: 2026-07-31
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai]
-source_count: 23
+source_count: 24
 ---
 
 # AI Model Safety Boundaries
@@ -14,6 +14,7 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Claude cyber-test behavior shifts the safety-boundary discussion from refusals to what models do when given agentic cyber objectives.
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Anthropic's Claude Fable 5 / Mythos 5 coverage centers on dangerous-topic boundaries, showing model safety as an active product-governance issue rather than an abstract research concern.
 - [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Claude Fable 5 remains the leading AI item, with commentary framing competitive refusal/sabotage concerns as part of the model-safety boundary problem.
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Cybersecurity researchers object to Anthropic Fable guardrails, showing how safety boundaries can collide with legitimate security-research access.

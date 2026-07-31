@@ -4,9 +4,9 @@ title: MarketWatch
 type: entity
 entity_type: organization
 created: 2026-07-29
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [media, markets, business, housing]
-source_count: 4
+source_count: 5
 ---
 
 # MarketWatch
@@ -15,6 +15,7 @@ MarketWatch is a financial and business-news outlet used in the newsletter graph
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Provides market, Treasury, ETF, stock, currency, commodity, mortgage, and gas-price links for the overnight tape.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Frames tech selling as buy-the-dip territory and Meta as under Wall Street pressure while supplying market-table links.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Provides market-index, Treasury, FX, ETF, stock-watch, Bitcoin, oil, and consumer-savings context for the lunch-hour tape.
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — MarketWatch supplies the Las Vegas home-price-drop and crypto-bill-fragility headlines.

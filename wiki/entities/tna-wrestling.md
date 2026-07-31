@@ -4,9 +4,9 @@ title: TNA Wrestling
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 71
+source_count: 72
 ---
 
 # TNA Wrestling
@@ -15,6 +15,7 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Impact coverage records Jason Hotch winning the International Title and the Knockouts TV Title tournament advancing.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — TNA iMPACT! and a :30 Second Takedown partnership keep TNA in the weekly wrestling-distribution feed.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — TNA iMPACT! preview and Thursday calendar items keep TNA in the wrestling feed.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — TNA announces a workforce reduction; reporting confirms departures involving Tommy Dreamer and Tessa Blanchard, with Sami Callihan also confirming his exit.

@@ -4,9 +4,9 @@ title: FIFA
 type: entity
 entity_type: organization
 created: 2026-07-18
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [soccer, governance, world-cup]
-source_count: 5
+source_count: 6
 ---
 
 # FIFA
@@ -15,6 +15,7 @@ FIFA appears through unresolved hydration-break policy discussion.
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Private-equity planning draws resistance from UEFA and Concacaf in the sports newswire.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The private-equity plan keeps FIFA in a governance conflict with UEFA and Concacaf.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — UEFA boycott reporting centers on FIFA competition control and World Cup private-equity plans.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — FIFA appears through unresolved hydration-break policy discussion.

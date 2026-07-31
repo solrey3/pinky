@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 108
+source_count: 109
 ---
 
 # Security & Privacy Toolkit
@@ -14,6 +14,7 @@ The layered defense system protecting this infrastructure: password management, 
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Streaming-stick warnings, AI-agent unauthorized access, water-utility cyber risk, and unavailable feed data all reinforce auditability as a security practice.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Iran-linked water-system cybersecurity, AI-assisted vulnerability discovery, CVE-free Kubernetes image chatter, and feed gaps all stress auditability, patching, and trustworthy infrastructure.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — DHS autonomous border towers, AI-assisted vulnerability discovery, and age-signal infrastructure all extend the auditability/provenance thread.
 - [2026-05-10: 1Password CLI Cheatsheet](sources/1password-cli.md) — Password and secret management via command line

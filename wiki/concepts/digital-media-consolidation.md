@@ -3,9 +3,9 @@ id: 61d06d6b-bc1d-4cf5-85a5-1bffd022d972
 title: Digital Media Consolidation
 type: concept
 created: 2026-07-01
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 13
+source_count: 14
 ---
 
 # Digital Media Consolidation
@@ -14,6 +14,7 @@ Digital media consolidation is the concentration of content ownership, distribut
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Streaming-stick security warnings and sports/entertainment schedule feeds keep platform distribution and device trust in view.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — ESPN/WWE custom-title branding, MyAEW adding outside promotions, and LeBron/ESPN documentary chatter extend the sports-entertainment rebundling thread.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — NBCUniversal’s YouTube deal extends the streaming-war rebundling pattern into platform-partnership distribution.
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — UK scrutiny of Paramount/WBD and PlayStation's all-digital turn both point to media access moving through fewer, more controlled platform gates.

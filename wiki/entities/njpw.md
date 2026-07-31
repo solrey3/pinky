@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 90
+source_count: 91
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -48,6 +48,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Appears in the wrestling calendar, Arena México title-match thread, and recent Meltzer 5-star ratings.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — NJPW announces King of Pro-Wrestling 2026 tour dates and remains present through Meltzer-rated match tracking.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — NJPW announces 2026 Super Jr. Tag League and King of Pro-Wrestling tour dates while Meltzer ratings keep G1 context active.
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](sources/newsletter-2026-05-27.md) — Bushiroad transfers all NJPW shares to TV Asahi and CyberAgent; Tanahashi statement issued.

@@ -4,9 +4,9 @@ title: AAA
 type: entity
 entity_type: organization
 created: 2026-06-19
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 67
+source_count: 68
 ---
 
 # AAA
@@ -15,6 +15,7 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 
 ## Sources
 
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Remains in the upcoming wrestling calendar as part of the recurring promotion watchlist.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Triplemania 34 night one is moved to MGM Grand Garden Arena, expanding the Vegas stage.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Triplemania 34 night one is moved to MGM Grand Garden Arena, signaling stronger demand.
 - [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — AAA on FOX card details include a triple threat for the World Cruiserweight Title and Omos teaming with El Hijo del Vikingo, giving AAA a direct U.S.-television hook in this cycle.
