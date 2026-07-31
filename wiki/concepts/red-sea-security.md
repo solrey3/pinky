@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-31
 updated: 2026-07-31
 tags: [geopolitics, shipping, red-sea, middle-east, saudi-arabia, houthis]
-source_count: 1
+source_count: 2
 ---
 
 # Red Sea Security
@@ -14,6 +14,7 @@ Red Sea security is the protection of shipping lanes, ports, naval routes, and r
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Saudi coalition-building against Houthi attacks keeps shipping-lane protection and regional deterrence in focus.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Saudi Arabia forms a Red Sea defense coalition to protect against Houthi attacks, keeping shipping-lane security in the regional-risk graph.
 
 ## Related Concepts

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-07-31
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 14
+source_count: 15
 ---
 
 # Ars Technica
@@ -15,6 +15,7 @@ Technology and science publication tracked as a source for infrastructure, scien
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Covers verifiable quantum-computing advantage, emphasizing trustworthy measurement of claimed speedups.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Covers how to verify quantum-computing performance claims when quantum systems outperform classical ones.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Supplies two verification-throughput items: trustworthy quantum advantage and AI-assisted bug discovery outpacing patching.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Carries both the Anthropic/Microsoft bug-throughput story and Google Play age-signals API coverage.

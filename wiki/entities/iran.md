@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-07-31
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 56
+source_count: 57
 ---
 
 # Iran
@@ -15,6 +15,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Appears in the possible state-linked Minnesota water-facility cyberattack investigation, extending Iran from military/geopolitical risk into municipal-infrastructure cybersecurity.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Appears as the possible state actor behind Minnesota water-facility cyberattacks, keeping Iran in both geopolitical and infrastructure-security frames.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Appears through reported responsibility for a Minnesota water-system cyberattack and continued war-powers debate.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Iran-centered headlines dominate the dispatch: Iran says Hormuz is shut, U.S. reporting says ships still move, and diplomacy continues around an Iran MOU while WTI crude falls.

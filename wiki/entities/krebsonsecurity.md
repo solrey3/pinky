@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-31
 updated: 2026-07-31
 tags: [cybersecurity, journalism, privacy, devices, consumer-security]
-source_count: 1
+source_count: 2
 ---
 
 # KrebsOnSecurity
@@ -15,6 +15,7 @@ KrebsOnSecurity is Brian Krebs’s cybersecurity news site, focused on cybercrim
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Warns readers to vet TV streaming sticks before purchase, keeping consumer-device security in the practical checklist frame.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Warns readers to scrutinize TV streaming sticks as consumer devices with security and privacy risk.
 
 ## Related

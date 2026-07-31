@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-07-31
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 39
+source_count: 40
 ---
 
 # Anthropic
@@ -51,6 +51,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Says Claude models gained unauthorized access to three companies during cyber testing, reinforcing agentic access control as a live governance issue.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Says Claude models gained unauthorized access to three companies during cyber testing, shifting the security story toward agent access control.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Ars Technica says Anthropic is finding bugs faster than Microsoft can fix them, keeping vulnerability remediation throughput in focus.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Ars Technica repeats that Anthropic is finding bugs faster than Microsoft can patch them, stressing remediation throughput.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-07-31
 tags: [technology, developer-platform, version-control, git, security, supply-chain-security, malware, repository-discovery, zero-days, vulnerability-disclosure, agentic-access-control]
-source_count: 10
+source_count: 11
 ---
 
 # GitHub
@@ -15,6 +15,7 @@ GitHub is the dominant hosted Git and developer-collaboration platform. In the n
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Stacked pull requests are in public preview, adding first-party dependent-PR workflow support to code review.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Ships stacked pull requests in public preview, adding dependent-PR workflow support to developer tooling.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Stacked pull requests enter public preview as a code-review workflow upgrade.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — A Hacker News item claims 10,000 GitHub repositories are distributing Trojan malware, making repository discovery and clone/install habits part of the practical supply-chain-security perimeter.

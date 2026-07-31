@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-02
 updated: 2026-07-31
 tags: [environment, public-health, chemicals, pfas, forever-chemicals, regulation, pesticides]
-source_count: 3
+source_count: 4
 ---
 
 # PFAS Regulation
@@ -14,6 +14,7 @@ PFAS regulation is the policy, science, and communications problem around per- a
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Keyport groundwater reporting extends PFAS concern into New Jersey community testing and remediation accountability.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Keyport groundwater testing finds PFAS and benzene, adding a New Jersey cancer-cluster/public-health evidence case to the persistent-chemical graph.
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — EPA pesticide approvals raise a classification dispute: critics may consider the chemicals PFAS/“forever chemicals,” while the agency disputes that label.
 

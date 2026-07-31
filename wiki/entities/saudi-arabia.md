@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-31
 updated: 2026-07-31
 tags: [saudi-arabia, middle-east, red-sea, shipping, geopolitics]
-source_count: 1
+source_count: 2
 ---
 
 # Saudi Arabia
@@ -15,6 +15,7 @@ Saudi Arabia is a Gulf monarchy and regional power. In the newsletter graph it a
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Forms a Red Sea defense coalition to protect shipping from Houthi attacks, reinforcing the regional maritime-security thread.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Forms a Red Sea defense coalition to protect shipping lanes from Houthi attacks.
 
 ## Related

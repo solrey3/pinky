@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-31
 updated: 2026-07-31
 tags: [hamas, gaza, israel, middle-east, diplomacy]
-source_count: 1
+source_count: 2
 ---
 
 # Hamas
@@ -15,6 +15,7 @@ Hamas is a Palestinian militant and political organization governing Gaza. In th
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Trump announces a claimed Hamas disarmament deal, but the dispatch records immediate Israeli skepticism rather than treating the claim as settled.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — A claimed disarmament deal is reported by Trump and immediately met with skepticism from Israel.
 
 ## Related

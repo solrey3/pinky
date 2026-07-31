@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-30
 updated: 2026-07-31
 tags: [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector]
-source_count: 2
+source_count: 3
 ---
 
 # Critical Infrastructure Cybersecurity
@@ -14,6 +14,7 @@ Critical infrastructure cybersecurity is the protection of systems whose failure
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — The Minnesota water-facility investigation keeps municipal utilities in the possible state-linked cyberattack frame.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Possible Iran-linked attacks on Minnesota water facilities extend the concept from generic utilities risk into live attribution and municipal resilience.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — NewsNation's Iran/Minnesota water-system cyberattack item treats municipal utilities as exposed cyber targets and makes remediation capacity a public-infrastructure issue.
 

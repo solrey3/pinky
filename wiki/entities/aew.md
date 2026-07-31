@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-07-31
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 86
+source_count: 87
 ---
 
 # AEW
@@ -15,6 +15,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 ## Sources
 
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Collision features the Motor City Machine Guns debut and adds tournament/card setup to AEW’s weekly thread.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Collision coverage notes the Motor City Machine Guns debut and a Continental Cup tournament announcement.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — AEW calendar coverage continues while MyAEW adds RevPro, EVE, wXw, and three U.S. promotions.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — AEW announces a Men’s Casino Gauntlet Match for All In: London 2026 and remains on the weekly calendar.
