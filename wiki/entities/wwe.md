@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 85
+source_count: 86
 ---
 
 # WWE
@@ -14,6 +14,8 @@ source_count: 85
 World Wrestling Entertainment, the largest U.S. professional wrestling company. In the newsletter graph, WWE is tracked across televised stories, corporate governance, boardroom controversy, and its relationship to the wider wrestling ecosystem.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — SmackDown/SummerSlam go-home coverage centers on Lash Legend, CM Punk, and Cody Rhodes while the TV/PLE calendar rolls forward.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — WWE calendar and Seth Rollins/Roman Reigns headline keep the promotion in the Friday wrestling board.
 

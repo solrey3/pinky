@@ -4,9 +4,9 @@ title: Android
 type: entity
 entity_type: product
 created: 2026-07-02
-updated: 2026-07-30
+updated: 2026-08-01
 tags: [android, mobile, operating-system, google, app-stores, sideloading, security]
-source_count: 8
+source_count: 9
 ---
 
 # Android
@@ -14,6 +14,8 @@ source_count: 8
 Android is Google's mobile operating-system platform. In the newsletter graph, it is relevant when mobile security, app-store governance, sideloading, or developer identity controls become live policy and operational questions.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Google’s developer-verification carve-outs for sanctioned nations keep Android app-distribution policy in the security/governance frame.
 
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Google Play age-signals API coverage moves age verification deeper into Android distribution infrastructure.
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — An F-Droid item framing “Android malware from Google” keeps app-store control, malware defense, and sideloading freedom in the mobile-platform security debate.

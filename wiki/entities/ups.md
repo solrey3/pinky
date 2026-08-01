@@ -4,9 +4,9 @@ title: UPS
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [logistics, shipping, transportation, markets, cold-chain]
-source_count: 34
+source_count: 35
 ---
 
 # UPS
@@ -14,6 +14,8 @@ source_count: 34
 UPS is tracked as a logistics and economic-activity bellwether.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Drops -9.21%, becoming the main logistics/delivery stress signal in the stock watch.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — UPS -9.21% is one of the clearest single-stock stress points in the evening close.
 

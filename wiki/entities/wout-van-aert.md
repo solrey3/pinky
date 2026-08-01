@@ -4,9 +4,9 @@ title: Wout van Aert
 type: entity
 entity_type: person
 created: 2026-07-29
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [cycling, tour-of-denmark, sports]
-source_count: 3
+source_count: 4
 ---
 
 # Wout van Aert
@@ -14,6 +14,8 @@ source_count: 3
 Wout van Aert is a Belgian cyclist tracked when major road-racing results and comeback narratives enter the sports graph.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Wins a wet Tour of Denmark queen stage for a stage hat-trick.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Cyclingnews item says he won a wet Tour of Denmark queen stage for a stage hat-trick.
 

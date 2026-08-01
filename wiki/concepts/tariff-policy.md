@@ -3,9 +3,9 @@ id: 8973c792-4d45-4edb-b549-6a4bdbf4265f
 title: Tariff Policy
 type: concept
 created: 2026-07-24
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 11
+source_count: 12
 ---
 
 # Tariff Policy
@@ -13,6 +13,8 @@ source_count: 11
 Tariff policy is the use of import duties to pursue revenue, industrial policy, bargaining leverage, sanctions-like pressure, or domestic political goals. The operator question is not just whether tariffs raise or lower prices, but who has legal authority to impose them, which statutory tool is used, what supply-chain effects follow, and how costs transmit into inflation, consumers, and markets.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Amazon tariff refunds connect trade policy directly to company cash flows and customer pass-through claims.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Reason’s $900-per-household estimate converts tariff policy from abstract trade leverage into a 2026 consumer-cost claim.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The Chinese-car crackdown/Mercedes-Benz item shows trade-security rules can sweep in unintended automakers and supply-chain configurations.

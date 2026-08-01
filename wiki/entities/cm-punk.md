@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-20
+updated: 2026-08-01
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 17
+source_count: 18
 ---
 
 # CM Punk
@@ -33,6 +33,8 @@ source_count: 17
 - His ring work with Samoa Joe, Daniel Bryan, and Colt Cabana established his technical credibility
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Closes the SmackDown go-home cycle opposite Cody Rhodes before SummerSlam.
 
 - [2026-05-27: Raw notes](../../raw/people/cm-punk.md)
 - [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletter-2026-06-03-evening.md) — **Logan Paul publicly apologized to CM Punk** after suffering a tricep tear injury, admitting he "was wrong" in their prior confrontation. Separately, **Ryan Nemeth** appeared to accuse Punk of PED use on social media — the kind of salvo that turns into a full-blown narrative if Punk responds.

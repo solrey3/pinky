@@ -4,9 +4,9 @@ title: Nike
 type: entity
 entity_type: organization
 created: 2026-07-29
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [retail, apparel, china, consumer, earnings]
-source_count: 2
+source_count: 3
 ---
 
 # Nike
@@ -14,6 +14,8 @@ source_count: 2
 Nike is a global athletic-apparel and footwear company tracked when consumer demand, China exposure, or brand strategy enters the business graph.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Reportedly gives Victor Wembanyama a signature shoe line, adding another basketball endorsement node.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Nike is tied to Victor Wembanyama’s reported signature shoe line.
 

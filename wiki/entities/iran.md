@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 57
+source_count: 58
 ---
 
 # Iran
@@ -14,6 +14,8 @@ source_count: 57
 Iran is tracked in the newsletter graph as a geopolitical and energy-market actor. Its relevance is strongest where diplomacy, Strait of Hormuz shipping, oil prices, and U.S. executive politics intersect.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Potential renewed U.S. strikes and Middle East oil-shock coverage keep Iran central to geopolitical and energy-risk pricing.
 
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Appears in the possible state-linked Minnesota water-facility cyberattack investigation, extending Iran from military/geopolitical risk into municipal-infrastructure cybersecurity.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Appears as the possible state actor behind Minnesota water-facility cyberattacks, keeping Iran in both geopolitical and infrastructure-security frames.

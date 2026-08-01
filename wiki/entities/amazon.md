@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 40
+source_count: 41
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 40
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Surges +17% and appears in tariff-refund coverage, making it the main mega-cap offset to chip/logistics weakness.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — AMZN +17% is the evening’s dominant major-move alert and offsets part of the chip/high-beta weakness.
 

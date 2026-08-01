@@ -4,9 +4,9 @@ title: Hugging Face
 type: entity
 entity_type: organization
 created: 2026-07-21
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [ai, open-source, model-hub, evaluation, security, models]
-source_count: 12
+source_count: 13
 ---
 
 # Hugging Face
@@ -14,6 +14,8 @@ source_count: 12
 Hugging Face is an AI platform and model hub tracked when model distribution, evaluation, open-source AI infrastructure, or security incidents enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Appears through Tailscale’s intrusion postmortem, reinforcing model-platform security and trusted-network limits.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — The intrusion post remains part of the AI-security desk through Tailscale’s analysis.
 

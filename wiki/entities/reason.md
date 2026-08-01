@@ -4,9 +4,9 @@ title: Reason
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 24
+source_count: 25
 ---
 
 # Reason
@@ -14,6 +14,8 @@ source_count: 24
 Reason is a libertarian media outlet that appears in the newsletter when policy or political-economy commentary enters the headline stack.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Supplies the civil-liberties/legal desk on New York’s Kalshi claim and Georgia Flock database misuse arrests.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Carries the ACLU Iowa school-policing item and a Chicago warrantless-border-raid lawsuit in the civil-liberties stack.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Frames a Chinese-car crackdown as a trade-security policy that could unintentionally exclude Mercedes-Benz from U.S. markets.

@@ -4,9 +4,9 @@ title: The Hill
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [media, politics, congress, policy, washington, news]
-source_count: 18
+source_count: 19
 ---
 
 # The Hill
@@ -14,6 +14,8 @@ source_count: 18
 The Hill is a U.S. political-news outlet tracked in the newsletter graph when congressional process, campaign technology, federal funding, or defense-policy stories drive the daily agenda.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Provides the top-story lane on renewed Iran-strike reports, Ebola-response funding pressure, and Amazon tariff refunds.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Supplies headline coverage on Minnesota water-facility cyber attribution, a Saudi Red Sea coalition, and claimed Hamas disarmament talks.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Carries FAA leadership turnover, refinery/gasoline policy, and Gallup election-trust polling into the evening headline stack.

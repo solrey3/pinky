@@ -4,9 +4,9 @@ title: Flock Safety
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 3
+source_count: 4
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 3
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Georgia arrests tied to misuse of its surveillance database keep ALPR access-control and civil-liberties risk live.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Reason reports at least 20 Georgia officials arrested for alleged misuse of the Flock surveillance database.
 
