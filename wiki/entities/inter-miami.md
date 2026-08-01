@@ -4,9 +4,9 @@ title: Inter Miami
 type: entity
 entity_type: organization
 created: 2026-07-20
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [soccer, mls, miami, lionel-messi, sports]
-source_count: 15
+source_count: 16
 ---
 
 # Inter Miami
@@ -14,6 +14,8 @@ source_count: 15
 Inter Miami is tracked as Messi-adjacent MLS club coverage.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Messi’s return date remains unset and Jorge Mas criticism of the MLS Discovery rule stays in the team-report thread.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report says no return date has been set for Lionel Messi.
 

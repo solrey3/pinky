@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-24
 updated: 2026-08-01
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 12
+source_count: 13
 ---
 
 # Tariff Policy
@@ -13,6 +13,8 @@ source_count: 12
 Tariff policy is the use of import duties to pursue revenue, industrial policy, bargaining leverage, sanctions-like pressure, or domestic political goals. The operator question is not just whether tariffs raise or lower prices, but who has legal authority to impose them, which statutory tool is used, what supply-chain effects follow, and how costs transmit into inflation, consumers, and markets.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Amazon tariff refunds move tariff policy from headline conflict into firm/customer pass-through mechanics.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Amazon tariff refunds connect trade policy directly to company cash flows and customer pass-through claims.
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-18
 updated: 2026-08-01
 tags: [soccer, governance, world-cup]
-source_count: 9
+source_count: 10
 ---
 
 # FIFA
@@ -14,6 +14,8 @@ source_count: 9
 FIFA appears through unresolved hydration-break policy discussion.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Drops a plan to seek private investment for the World Cup, making soccer governance a financing-boundary item.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Gianni Infantino backs away from a private-investment proposal for the World Cup after backlash.
 

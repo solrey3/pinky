@@ -4,9 +4,9 @@ title: TSM
 type: entity
 entity_type: organization
 created: 2026-06-20
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [technology, semiconductors, foundry, ai-chips, markets, risk-on, risk-off]
-source_count: 85
+source_count: 86
 ---
 
 # TSM
@@ -14,6 +14,8 @@ source_count: 85
 TSM is the market ticker commonly used here for Taiwan Semiconductor Manufacturing Company, the semiconductor foundry at the center of advanced chip production. In the newsletter graph, it functions as both a chip-cycle market proxy and a strategic AI-infrastructure company.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Edges up 0.21%, a steadier semiconductor counterpoint to AMD and Nvidia weakness.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — TSM closes slightly green, making the semiconductor read mixed rather than uniformly weak.
 

@@ -4,9 +4,9 @@ title: New York Mets
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [baseball, mlb, new-york-mets, schedule, sports]
-source_count: 22
+source_count: 23
 ---
 
 # New York Mets
@@ -14,6 +14,8 @@ source_count: 22
 The New York Mets are an MLB franchise tracked as a recurring local sports interest in scoreboard and schedule notes.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Lose 5–2 to the Marlins and host Miami again, keeping Mets continuity in the daily scoreboard.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report verifies a 4–2 win over Miami and keeps the Mets schedule/news feed in the daily record.
 

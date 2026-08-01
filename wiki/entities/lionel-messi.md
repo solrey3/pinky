@@ -4,9 +4,9 @@ title: Lionel Messi
 type: entity
 entity_type: person
 created: 2026-07-20
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [soccer, inter-miami, argentina, mls]
-source_count: 6
+source_count: 7
 ---
 
 # Lionel Messi
@@ -14,6 +14,8 @@ source_count: 6
 Lionel Messi is tracked as a global soccer player when club or international coverage appears.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Has no set return date for Inter Miami, keeping injury/availability uncertainty in the MLS report.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — No date is set for his return to Inter Miami action.
 

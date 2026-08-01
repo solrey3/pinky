@@ -3,9 +3,9 @@ id: 2b7532a5-db8e-4f8a-b2ac-6688d7690c48
 title: Semiconductor Scaling
 type: concept
 created: 2026-06-23
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 45
+source_count: 46
 ---
 
 # Semiconductor Scaling
@@ -13,6 +13,8 @@ source_count: 45
 Semiconductor scaling is the continued improvement of chip density, performance, power efficiency, and manufacturing capability through transistor architecture, process-node engineering, packaging, and foundry execution. In the AI-infrastructure graph, it is the physical foundation beneath model training, inference, memory bandwidth, and data-center economics.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — AMD MI450 optimization appears while AMD/Nvidia market weakness keeps AI-hardware performance and valuation sensitivity linked.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — AMD, Nvidia, and TSM sell off together, keeping AI-chip exposure and semiconductor-cycle stress attached to the market graph.
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Samsung demonstrates 3D stacked FETs with triple nanosheet channels at 42nm, showing that transistor geometry remains an active path for extending compute capability.

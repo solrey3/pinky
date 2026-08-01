@@ -4,9 +4,9 @@ title: New York Giants
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [football, nfl, new-york-giants, schedule]
-source_count: 13
+source_count: 14
 ---
 
 # New York Giants
@@ -14,6 +14,8 @@ source_count: 13
 The New York Giants are an NFL franchise tracked for local-team scheduling, roster, and injury-adjacent continuity.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Training camp and Cam Skattebo updates appear beside September schedule notes.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report carries the Cowboys/Giants opener window and Cam Skattebo headline.
 

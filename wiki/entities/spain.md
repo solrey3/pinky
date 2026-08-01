@@ -4,9 +4,9 @@ title: Spain
 type: entity
 entity_type: place
 created: 2026-07-25
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [spain, europe, wildfires, emergency-management]
-source_count: 4
+source_count: 5
 ---
 
 # Spain
@@ -14,6 +14,8 @@ source_count: 4
 European country tracked across sports, politics, and disaster headlines.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Appears as the Schengen counterparty in Italy’s Ceuta-related border suspension.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Named as the Schengen counterpart in Italy’s border suspension over the Ceuta migrant crisis.
 

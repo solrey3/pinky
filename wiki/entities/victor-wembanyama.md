@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-19
 updated: 2026-08-01
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 22
+source_count: 23
 ---
 
 # Victor Wembanyama
@@ -20,6 +20,8 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 **NBA Finals Game 4 (June 10, 2026):** The morning dispatch lists Spurs at Knicks, 8:30 PM EDT on ABC. This is the Wembanyama pressure point: either San Antonio turns the series into a best-of-three, or New York proves Game 3 was a road bump rather than a momentum shift.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Reportedly lands a Nike signature-shoe line, expanding his off-court brand footprint.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — ESPN reports he landed a Nike signature shoe line, extending his commercial profile before the season.
 

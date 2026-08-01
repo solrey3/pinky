@@ -4,9 +4,9 @@ title: Ceuta
 type: entity
 entity_type: place
 created: 2026-07-31
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [ceuta, spain, morocco, migration, border-policy]
-source_count: 1
+source_count: 2
 ---
 
 # Ceuta
@@ -14,6 +14,8 @@ source_count: 1
 Spanish enclave on the North African coast bordering Morocco; appears here as a migration-crisis flashpoint.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — The Ceuta migrant crisis becomes the trigger for reported Italy/Spain Schengen and border disruption.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — The migrant-crisis flashpoint driving Italy’s reported travel restrictions with Spain.
 

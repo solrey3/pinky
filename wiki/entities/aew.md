@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 89
+source_count: 90
 ---
 
 # AEW
@@ -14,6 +14,8 @@ source_count: 89
 All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsletter graph, AEW appears through live television, pay-per-view build, talent movement, and its connections to NJPW, ROH, and the broader wrestling media cycle.
 
 ## Sources
+
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Collision and match-rating continuity keep AEW active in the weekend wrestling calendar.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — AEW Redemption fallout leads the wrestling section, including Mick Foley/Martha Hart and Jacques Rougeau items.
 
