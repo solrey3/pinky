@@ -4,9 +4,9 @@ title: UEFA
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [soccer, europe, governance, fifa, world-cup]
-source_count: 3
+source_count: 4
 ---
 
 # UEFA
@@ -14,6 +14,8 @@ source_count: 3
 European soccer governing body. In this wiki, UEFA appears as a sports-governance actor when international competition rules, money, and institutional legitimacy collide.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Declares no confidence in Infantino over a failed World Cup equity plan.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Threatens a World Cup/FIFA-competition boycott over FIFA private-equity plans.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Again appears as threatening a FIFA competition boycott over a World Cup private-equity plan.

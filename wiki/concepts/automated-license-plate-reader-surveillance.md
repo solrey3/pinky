@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-31
 updated: 2026-08-01
 tags: [surveillance, privacy, law-enforcement, alpr, data-quality, access-control]
-source_count: 3
+source_count: 4
 ---
 
 # Automated License-Plate Reader Surveillance
@@ -13,6 +13,8 @@ source_count: 3
 Automated license-plate reader surveillance uses cameras and OCR systems to convert vehicle movements into searchable records. Its value depends on read accuracy, retention rules, access logs, and penalties for misuse.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Georgia Flock arrests reinforce ALPR systems as audit-log, access-control, and civil-liberties infrastructure.
 
 - [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Georgia Flock database-misuse arrests reinforce ALPR surveillance as an access-control and audit-log problem.
 

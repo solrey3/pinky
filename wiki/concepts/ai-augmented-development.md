@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-08-01
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography, developer-tools, typescript, postgresql]
-source_count: 80
+source_count: 81
 ---
 
 # AI-Augmented Development
@@ -13,6 +13,8 @@ source_count: 80
 The practice of integrating large language models and AI coding agents into the software development workflow. This includes content processing (Fabric), terminal-based coding agents (Pi), and broader patterns of LLM-assisted knowledge work. The approach treats AI as an augmentative tool — enhancing human judgment rather than replacing it.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Flint and ripgrep coverage connect AI-era developer tooling to visualization languages and high-scale search reliability.
 
 - [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Microsoft Flint and AMD MI450 kernel optimization connect AI-era developer tooling to visualization and performance-engineering workflows.
 

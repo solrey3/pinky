@@ -3,9 +3,9 @@ id: 4be1896e-3540-4384-a4a5-9c08bf8f0eb3
 title: Platform Antitrust Enforcement
 type: concept
 created: 2026-07-23
-updated: 2026-07-27
+updated: 2026-08-01
 tags: [antitrust, platforms, competition, regulation, european-union, google]
-source_count: 3
+source_count: 4
 ---
 
 # Platform Antitrust Enforcement
@@ -13,6 +13,8 @@ source_count: 3
 Platform antitrust enforcement is competition-law action aimed at dominant digital platforms whose rankings, defaults, app-store terms, advertising systems, or ecosystem rules can favor their own products over competitors. The practical question is not only the fine, but the behavioral remedy: what equal-treatment rule is ordered, how compliance is measured, and whether rivals can verify it.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Reddit’s critique of Google AI Overviews extends platform-power concerns from ranking and search defaults into answer-layer traffic substitution.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The European Union fines Google $1B and orders equal treatment for competitors, adding a concrete remedy-and-compliance example to platform competition governance.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The EU/Google Digital Markets Act fine and equal-treatment order keep self-preferencing and platform remedies in focus.

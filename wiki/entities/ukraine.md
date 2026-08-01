@@ -4,9 +4,9 @@ title: Ukraine
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-07-29
+updated: 2026-08-01
 tags: [ukraine, geopolitics, war, russia, europe, security]
-source_count: 9
+source_count: 10
 ---
 
 # Ukraine
@@ -14,6 +14,8 @@ source_count: 9
 Ukraine is a European state central to the continuing Russia-Ukraine war. In the newsletter graph, it functions as a geopolitical risk marker rather than a market ticker.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Starlink access remains framed as communications infrastructure for wartime resilience.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Zelensky warns that Russia is preparing a major strike, keeping escalation risk active.
 

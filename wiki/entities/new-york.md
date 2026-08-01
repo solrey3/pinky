@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-14
 updated: 2026-08-01
 tags: [new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states]
-source_count: 5
+source_count: 6
 ---
 
 # New York
@@ -14,6 +14,8 @@ source_count: 5
 New York is tracked in the newsletter graph as a state-level policy and infrastructure actor, especially where technology growth runs into energy, permitting, and public-policy constraints.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — The state’s Kalshi action extends its role in regulating prediction markets and platform-like financial activity.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — New York’s $36B claim against Kalshi turns prediction-market legality into a state-enforcement story.
 

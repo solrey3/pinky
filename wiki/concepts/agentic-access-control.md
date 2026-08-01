@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-20
 updated: 2026-08-01
 tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
-source_count: 10
+source_count: 11
 ---
 
 # Agentic Access Control
@@ -13,6 +13,8 @@ source_count: 10
 Agentic access control is the practice of treating AI agents as explicit security principals: scoped identities with temporary credentials, least-privilege permissions, auditable actions, expiration, and revocation. The core shift is from “an agent uses my account” to “an agent receives a bounded identity for a bounded job.”
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Claude cyber-eval incidents and Starlink access diplomacy both show why powerful technical systems need explicit authorization boundaries.
 
 - [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Claude cyber-evaluation incidents involving real companies show why autonomous security testing needs scoped authorization and logs.
 

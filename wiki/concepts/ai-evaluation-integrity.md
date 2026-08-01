@@ -3,9 +3,9 @@ id: 696a9c1f-7e23-4228-9285-e23cba5a16fd
 title: AI Evaluation Integrity
 type: concept
 created: 2026-07-08
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 10
+source_count: 11
 ---
 
 # AI Evaluation Integrity
@@ -13,6 +13,8 @@ source_count: 10
 AI evaluation integrity is the practice of making AI assessments, benchmarks, and institutional scoring systems resistant to leakage, gaming, measurement noise, and misuse.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Claude evaluation incidents involving real companies show that evals can themselves become operational events requiring scope, consent, and audit trails.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — A Yale AI-cheating dispute reaching federal litigation treats AI-use detection and academic enforcement as evidentiary problems.
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — OpenAI coding-evaluation commentary and Brown AI-cheating coverage connect benchmark quality to academic and developer trust.

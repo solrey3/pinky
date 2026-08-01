@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-01
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 42
+source_count: 43
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 42
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — AMZN remains the dominant single-stock signal at +17.00% near its 52-week high, carrying the green-index noon tape.
 
 - [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — AMZN again prints +17% near its 52-week high and appears in tariff-refund pass-through coverage.
 
