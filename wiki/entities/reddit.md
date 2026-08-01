@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-01
 updated: 2026-08-01
 tags: [social-media, platform, ai-search, google, markets, publisher-economics]
-source_count: 1
+source_count: 2
 ---
 
 # Reddit
@@ -14,6 +14,8 @@ source_count: 1
 Reddit is a social-media and community-discussion platform tracked here when its traffic, market valuation, content-licensing, or AI-search exposure enters the newsletter graph.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Reddit CEO criticism of Google AI Overviews keeps publisher/search traffic substitution in the platform-power file.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — CEO skepticism about Google AI Overviews appears alongside a stock-pressure story, making AI answer layers a platform-traffic and publisher-economics issue.
 

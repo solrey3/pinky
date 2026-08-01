@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-08-01
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 25
+source_count: 26
 ---
 
 # Reason
@@ -14,6 +14,8 @@ source_count: 25
 Reason is a libertarian media outlet that appears in the newsletter when policy or political-economy commentary enters the headline stack.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Carries the New York red-flag-order/no-knock-search civil-liberties item involving a 13-year-old student.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Supplies the civil-liberties/legal desk on New York’s Kalshi claim and Georgia Flock database misuse arrests.
 

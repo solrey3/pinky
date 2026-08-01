@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-14
 updated: 2026-08-01
 tags: [new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states]
-source_count: 6
+source_count: 7
 ---
 
 # New York
@@ -14,6 +14,8 @@ source_count: 6
 New York is tracked in the newsletter graph as a state-level policy and infrastructure actor, especially where technology growth runs into energy, permitting, and public-policy constraints.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — A judge rejects a school-requested red-flag order and no-knock search warrant against a 13-year-old, adding a civil-liberties boundary case.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — The state’s Kalshi action extends its role in regulating prediction markets and platform-like financial activity.
 

@@ -4,9 +4,9 @@ title: Arsenal FC
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [soccer, football, arsenal, premier-league, ucl, london, organization, sports]
-source_count: 16
+source_count: 17
 ---
 
 # Arsenal FC
@@ -29,6 +29,8 @@ London-based Premier League club, founded 1886. One of England's most storied fo
 **UCL Final (May 30, 2026):** Arsenal 1–1 PSG — PSG win **4–3 on penalties**. Campaign over. Arsenal's most successful European run in a generation ends in a penalty shootout. Cross-reference `sources/newsletter-2026-05-31.md`.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Arsenal transfer chatter around Bruno Guimaraes keeps the club in the soccer watchlist.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report repeats an Arsenal transfer-rumor item around Bruno Guimarães.
 

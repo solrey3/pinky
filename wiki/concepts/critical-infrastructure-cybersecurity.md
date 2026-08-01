@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-30
 updated: 2026-08-01
 tags: [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector]
-source_count: 4
+source_count: 5
 ---
 
 # Critical Infrastructure Cybersecurity
@@ -13,6 +13,8 @@ source_count: 4
 Critical infrastructure cybersecurity is the protection of systems whose failure would have public-safety or social-continuity consequences: water utilities, power grids, transportation networks, hospitals, communications, and other civic infrastructure.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The FBI water-system warning across seven states extends utility cybersecurity from local incidents into a national public-safety concern.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — FBI warnings about water-system attacks in seven states widen the utility-security thread from single incidents to national infrastructure exposure.
 

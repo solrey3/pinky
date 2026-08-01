@@ -4,9 +4,9 @@ title: Cursor
 type: entity
 entity_type: product
 created: 2026-06-16
-updated: 2026-07-15
+updated: 2026-08-01
 tags: [ai, developer-tools, coding-agent, ide, anysphere]
-source_count: 3
+source_count: 4
 ---
 
 # Cursor
@@ -14,6 +14,8 @@ source_count: 3
 AI-assisted coding environment developed by Anysphere. In this wiki, Cursor belongs to the AI-augmented development stack: it is a developer surface where model output, source code, credentials, repositories, and workflow automation meet.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Usage-page and CSV cost-transparency criticism keeps Cursor inside the developer-tool trust and billing-governance file.
 
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Reported $60B SpaceX acquisition of Cursor/Anysphere makes AI coding platforms look like strategic infrastructure rather than niche productivity tools.
 

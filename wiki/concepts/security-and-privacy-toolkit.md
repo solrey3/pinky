@@ -3,9 +3,9 @@ id: "019e1b12-d1a2-7ea2-ff03-ac7f7a8b9c42"
 title: "Security & Privacy Toolkit"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed]
-source_count: 110
+source_count: 111
 ---
 
 # Security & Privacy Toolkit
@@ -13,6 +13,8 @@ source_count: 110
 The layered defense system protecting this infrastructure: password management, zero-trust networking, secure operating systems, and penetration testing tools. The philosophy is defense in depth — no single tool provides complete security, but the combination creates a resilient perimeter.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Michael Geist’s warning about Canada signing the UN Cybercrime Convention adds treaty-level surveillance risk to the privacy/security toolkit.
 
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Streaming-stick warnings, AI-agent access failures, water-utility cybersecurity, and feed gaps all point to practical auditability and trust hygiene.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Streaming-stick warnings, AI-agent unauthorized access, water-utility cyber risk, and unavailable feed data all reinforce auditability as a security practice.

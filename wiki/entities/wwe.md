@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-01
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 88
+source_count: 89
 ---
 
 # WWE
@@ -14,6 +14,8 @@ source_count: 88
 World Wrestling Entertainment, the largest U.S. professional wrestling company. In the newsletter graph, WWE is tracked across televised stories, corporate governance, boardroom controversy, and its relationship to the wider wrestling ecosystem.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — SummerSlam Saturday live coverage leads the wrestling section while Raw/SmackDown calendar continuity is maintained.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — SummerSlam Saturday, Raw/SmackDown scheduling, and go-home coverage anchor the wrestling ledger.
 

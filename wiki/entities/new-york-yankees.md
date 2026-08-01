@@ -4,9 +4,9 @@ title: New York Yankees
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [baseball, mlb, sports]
-source_count: 7
+source_count: 8
 ---
 
 # New York Yankees
@@ -14,6 +14,8 @@ source_count: 7
 Major League Baseball team tracked for local sports watchlist continuity.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The Yankees’ 2–0 win at Wrigley keeps the team in the daily MLB scoreboard layer.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Scoreboard lists a 2–1 loss to the White Sox and a separate 2–0 win over the Cubs.
 

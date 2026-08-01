@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-08-01
 tags: [soccer, europe, governance, fifa, world-cup]
-source_count: 4
+source_count: 5
 ---
 
 # UEFA
@@ -14,6 +14,8 @@ source_count: 4
 European soccer governing body. In this wiki, UEFA appears as a sports-governance actor when international competition rules, money, and institutional legitimacy collide.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — UEFA’s loss of confidence in Gianni Infantino over World Cup investment plans sharpens the soccer-governance thread.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Declares no confidence in Infantino over a failed World Cup equity plan.
 

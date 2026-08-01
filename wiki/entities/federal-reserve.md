@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-01
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 94
+source_count: 95
 ---
 
 # Federal Reserve
@@ -14,6 +14,8 @@ source_count: 94
 The central bank of the United States. In the newsletter graph, the Fed is tracked less as a generic rate-setting body and more as a market-structure actor: its rate targets, communications strategy, and guidance discipline affect how investors interpret incoming data.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — EFFR at 3.63%, the 3.50%–3.75% target range, Treasury rates, mortgage quotes, and Fed-decision prediction topics keep monetary policy in the market evidence layer.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — EFFR at 3.63% and a 3.50%–3.75% target range keep rates central to the market and mortgage frame.
 

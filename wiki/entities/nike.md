@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-29
 updated: 2026-08-01
 tags: [retail, apparel, china, consumer, earnings]
-source_count: 5
+source_count: 6
 ---
 
 # Nike
@@ -14,6 +14,8 @@ source_count: 5
 Nike is a global athletic-apparel and footwear company tracked when consumer demand, China exposure, or brand strategy enters the business graph.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Nike remains tied to Wembanyama’s signature-shoe rollout in the August 1 sports/business thread.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Appears as the brand behind Wembanyama’s reported signature shoe line.
 

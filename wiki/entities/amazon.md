@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-01
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 43
+source_count: 44
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 43
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Amazon jumps 17% near its 52-week high, becoming the day’s defining single-stock move despite broader internal fragility.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — AMZN remains the dominant single-stock signal at +17.00% near its 52-week high, carrying the green-index noon tape.
 

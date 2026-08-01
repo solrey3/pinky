@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-01
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 3
+source_count: 4
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 3
 West Texas Intermediate crude oil benchmark; in this source, WTI rises +5.07% as Middle East energy risk stays loud.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — WTI at $84.67 and the weekly oil move keep energy prices in the inflation, rates, and risk-regime frame.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — WTI at $84.67 keeps oil and inflation pressure in the macro risk frame.
 

@@ -4,9 +4,9 @@ title: AAA
 type: entity
 entity_type: organization
 created: 2026-06-19
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 70
+source_count: 71
 ---
 
 # AAA
@@ -14,6 +14,8 @@ source_count: 70
 Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the newsletter graph, AAA anchors Mexico-based lucha libre outside the CMLL/NJPW/AEW crossover lane and becomes relevant when U.S. television or cross-promotional booking brings its cards into the daily feed.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — AAA remains part of the recurring wrestling calendar/provenance table.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — AAA remains in the promotion calendar and Triplemania-demand headline stream.
 

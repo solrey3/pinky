@@ -4,9 +4,9 @@ title: Barcelona
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [soccer, la-liga, sports]
-source_count: 9
+source_count: 10
 ---
 
 # Barcelona
@@ -14,6 +14,8 @@ source_count: 9
 FC Barcelona, Spanish football club followed in soccer team reports.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Barcelona transfer/news coverage notes teenage winger Jesse Bisiwu joining the club.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report notes Barcelona signing teenage winger Jesse Bisiwu.
 

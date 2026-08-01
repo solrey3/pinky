@@ -3,9 +3,9 @@ id: 39eecd7a-b23b-48a5-b595-79aa4b5a1450
 title: Private Message Scanning
 type: concept
 created: 2026-07-08
-updated: 2026-07-12
+updated: 2026-08-01
 tags: [privacy, surveillance, messaging, encryption, european-union, client-side-scanning]
-source_count: 4
+source_count: 5
 ---
 
 # Private Message Scanning
@@ -13,6 +13,8 @@ source_count: 4
 Private message scanning is the policy and technical debate over inspecting private or encrypted communications for safety, law-enforcement, or platform-governance purposes.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The UN Cybercrime Convention warning belongs near message-access debates because cybercrime cooperation can create surveillance pressure.
 
 - [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — EU message-scanning coverage frames communications inspection as a live privacy/security-policy issue.
 

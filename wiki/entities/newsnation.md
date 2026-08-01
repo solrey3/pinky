@@ -4,9 +4,9 @@ title: NewsNation
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 18
+source_count: 19
 ---
 
 # NewsNation
@@ -14,6 +14,8 @@ source_count: 18
 NewsNation is a U.S. news outlet tracked when its reporting enters the daily newsletter stream around public health, environmental risk, energy prices, or national politics.
 
 ## Sources
+
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Carries the FBI water-system cyberattack item and AP-linked Russia/Kyiv strike reporting, extending infrastructure and war-risk coverage.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Reports Keyport groundwater tests finding PFAS and benzene amid local cancer-cluster concerns.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Carries the Iran/Minnesota water-system cyberattack attribution and the failed Senate war-powers vote.
