@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-29
 updated: 2026-08-02
 tags: [media, markets, business, housing]
-source_count: 7
+source_count: 8
 ---
 
 # MarketWatch
@@ -14,6 +14,8 @@ source_count: 7
 MarketWatch is a financial and business-news outlet used in the newsletter graph for market, housing, crypto, and policy headlines.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Supplies index, bond, ETF, stock, commodity, and S&P profit-growth context for the close.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Provides index, Treasury, FX, ETF, stock-watch, commodities, and 52-week-range market data.
 

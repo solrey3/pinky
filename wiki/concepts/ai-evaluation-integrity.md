@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-08
 updated: 2026-08-02
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 15
+source_count: 16
 ---
 
 # AI Evaluation Integrity
@@ -13,6 +13,8 @@ source_count: 15
 AI evaluation integrity is the practice of making AI assessments, benchmarks, and institutional scoring systems resistant to leakage, gaming, measurement noise, and misuse.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Claude incidents make evaluation design a live safety issue when tests can affect outside systems.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Real-company Claude cyber-eval incidents show that benchmarks can become operational incidents.
 
@@ -53,3 +55,5 @@ AI evaluation integrity is the practice of making AI assessments, benchmarks, an
 ## Notes
 
 This concept is useful when a source is less about raw model capability than about whether outputs, evaluations, communications, or institutional processes remain trustworthy under AI or surveillance pressure.
+
+The August 2 Claude cyber-eval sequence sharpens the boundary: an evaluation stops being a mere measurement exercise once it publishes code or touches real companies. At that point, eval integrity includes authorization, containment, incident response, and post-test disclosure.

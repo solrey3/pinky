@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-27
 updated: 2026-08-02
 tags: [soccer, la-liga, sports]
-source_count: 13
+source_count: 14
 ---
 
 # Barcelona
@@ -14,6 +14,8 @@ source_count: 13
 FC Barcelona, Spanish football club followed in soccer team reports.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Barcelona team report includes Hansi Flick/Marcus Rashford coverage.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Barcelona team report carries Hansi Flick/Rashford and Jesse Bisiwu transfer items.
 

@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-08-02
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 117
+source_count: 118
 ---
 
 # Risk-Off Market Rotation
@@ -13,6 +13,8 @@ source_count: 117
 A market regime where investors do not leave risk assets uniformly; instead, they sell speculative growth, high-beta technology, and crypto while rotating into perceived defensive or quality areas such as dividends, value, real estate, consumer staples, or cash-like instruments.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The evening board keeps the green-but-not-clean diagnosis: indexes and Amazon are strong, but chips, UPS, VNQ, long rates, oil, and Bitcoin complicate risk appetite.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Indexes and Amazon are strong, but long rates, mortgages, oil, chips, UPS, VNQ, and Bitcoin keep the tape green-but-not-clean.
 

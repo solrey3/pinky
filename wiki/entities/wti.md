@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-02
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 7
+source_count: 8
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 7
 West Texas Intermediate crude oil benchmark; in this source, WTI rises +5.07% as Middle East energy risk stays loud.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — WTI +6.83% triggers the major-move alert and links oil pressure to airfare, gas, and inflation concerns.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — WTI rises 6.83%, keeping energy pressure in the cross-asset risk picture.
 

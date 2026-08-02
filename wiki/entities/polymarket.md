@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-13
 updated: 2026-08-02
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 45
+source_count: 46
 ---
 
 # Polymarket
@@ -14,6 +14,8 @@ source_count: 45
 Polymarket is a prediction-market platform tracked here when market-implied political or event probabilities enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Prediction-market section surfaces Fed-decision, AI-model, and tennis markets without fetched prices.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Polymarket topics were fetched, but no odds or mover figures were available.
 

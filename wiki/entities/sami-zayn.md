@@ -4,9 +4,9 @@ title: Sami Zayn
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-18
+updated: 2026-08-02
 tags: [person, wrestling, wwe, night-of-champions, world-champion]
-source_count: 13
+source_count: 14
 ---
 
 # Sami Zayn
@@ -33,6 +33,8 @@ source_count: 13
 - His bromance with Kevin Owens is professional wrestling's best friendship — and it's based on a real friendship
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results coverage lists Sami Zayn among the WWE card notes.
 
 - [2026-05-27: Raw notes](../../raw/people/sami-zayn.md)
 - [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — Featured prominently in SmackDown’s Barcelona go-home show for Clash in Italy. His post-show social post — “The Spanish can spot honesty, integrity & world class talent a mile away” — the kind of self-aware character work that makes him the most universally beloved figure in the current product. Described in the dispatch as “firing on all cylinders.”

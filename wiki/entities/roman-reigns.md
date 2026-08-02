@@ -4,9 +4,9 @@ title: Roman Reigns
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [person, wrestling, bloodline]
-source_count: 12
+source_count: 13
 ---
 
 # Roman Reigns
@@ -33,6 +33,8 @@ source_count: 12
 - Roman vs. Cody Rhodes at WM39 and WM40 were the biggest WrestleMania main events in 20 years
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results advertise Roman Reigns vs. Seth Rollins as a card anchor.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Appears in Seth Rollins’ WWE headline as the foil for the “Number Two” remark.
 

@@ -4,9 +4,9 @@ title: Seth Rollins
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 11
+source_count: 12
 ---
 
 # Seth Rollins
@@ -33,6 +33,8 @@ source_count: 11
 - The Visionary's ability to have different types of great matches makes him uniquely versatile
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results advertise Seth Rollins vs. Roman Reigns as a card anchor.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — WWE headline quotes him saying Roman Reigns calls him “Number Two.”
 

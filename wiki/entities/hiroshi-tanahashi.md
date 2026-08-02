@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-13
 updated: 2026-08-02
 tags: [wrestling, njpw]
-source_count: 17
+source_count: 18
 ---
 
 # Hiroshi Tanahashi
@@ -14,6 +14,8 @@ source_count: 17
 Japanese professional wrestler and NJPW icon.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — His Wrestle Kingdom 20 match with Kazuchika Okada remains the 6-star anchor in the Meltzer table.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — His Wrestle Kingdom 20 match with Kazuchika Okada remains listed as a 6-star Meltzer match.
 

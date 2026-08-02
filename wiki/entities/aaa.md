@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-19
 updated: 2026-08-02
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 74
+source_count: 75
 ---
 
 # AAA
@@ -14,6 +14,8 @@ source_count: 74
 Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the newsletter graph, AAA anchors Mexico-based lucha libre outside the CMLL/NJPW/AEW crossover lane and becomes relevant when U.S. television or cross-promotional booking brings its cards into the daily feed.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Verano de Escándalo Night 2 results move AAA closer to TripleMania title-match positioning.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — AAA Verano De Escándalo Night 2 results include Rey Fenix retaining and La Parka advancing.
 

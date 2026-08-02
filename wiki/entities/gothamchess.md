@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-08-02
 tags: [youtube, chess, creator, media]
-source_count: 7
+source_count: 8
 ---
 
 # GothamChess
@@ -14,6 +14,8 @@ source_count: 7
 GothamChess is a chess media/YouTube creator brand tracked when chess content appears in the newsletter feed.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Appears in the YouTube past-24-hours feed with a Grandmaster short.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — YouTube feed includes GothamChess shorts/videos from the past 24 hours.
 

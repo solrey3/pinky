@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-08-02
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 22
+source_count: 23
 ---
 
 # NewsNation
@@ -14,6 +14,8 @@ source_count: 22
 NewsNation is a U.S. news outlet tracked when its reporting enters the daily newsletter stream around public health, environmental risk, energy prices, or national politics.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Carries the Idaho shooting, Washington wildfire, water-supply cyberattack, and Iran-strike-restraint headlines.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Carries wildfire evacuation and permanent Trump Tower no-fly-zone items.
 

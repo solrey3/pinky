@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-29
 updated: 2026-08-02
 tags: [hockey, nhl, san-jose, sports]
-source_count: 4
+source_count: 5
 ---
 
 # San Jose Sharks
@@ -14,6 +14,8 @@ source_count: 4
 The San Jose Sharks are an NHL franchise tracked when roster, contract, and prospect news enters the sports graph.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Graf’s 3-year, $12.75M Sharks deal appears in the NHL newswire.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — The Sharks keep Graf on a three-year, $12.75M contract.
 

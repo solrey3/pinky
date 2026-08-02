@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-27
 updated: 2026-08-02
 tags: [media, business, markets]
-source_count: 7
+source_count: 8
 ---
 
 # CNBC
@@ -14,6 +14,8 @@ source_count: 7
 Business and financial news network used for markets, companies, and public-health business coverage.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Frames airfare pressure from fuel and the Aschenbrenner AI hedge-fund collapse.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Frames sticky airfare, the Aschenbrenner AI-fund collapse, and Clear Street/Databricks private-market access.
 

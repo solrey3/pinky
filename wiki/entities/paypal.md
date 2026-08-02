@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-02
 tags: [finance, payments, fintech, markets]
-source_count: 36
+source_count: 37
 ---
 
 # PayPal
@@ -14,6 +14,8 @@ source_count: 36
 PayPal is tracked as a payments and fintech-market entity when it appears in stock-watch coverage.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Appears in the stock watch as a positive financial/consumer-payments name inside the mixed market board.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — PayPal gains 1.89% in the stock-watch table, a modest financial/fintech positive.
 

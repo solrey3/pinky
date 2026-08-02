@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-08-02
 tags: [sports, media, broadcasting, streaming]
-source_count: 3
+source_count: 4
 ---
 
 # ESPN
@@ -14,6 +14,8 @@ source_count: 3
 ESPN is a sports-media network. In this wiki, it appears as both a sports-news source and a sports-entertainment distribution actor.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Feeds sports newswire, schedule, scoreboard, and team-report provenance across NBA, MLB, NFL, NHL, soccer, and golf.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Supplies sports newswire items, MLB/NFL/NBA/MLS headlines, and team-report links.
 

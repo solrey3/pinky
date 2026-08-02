@@ -3,9 +3,9 @@ id: 43dc4507-bb58-441c-a3a2-2381bc974e0e
 title: Critical Infrastructure Cybersecurity
 type: concept
 created: 2026-07-30
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector]
-source_count: 5
+source_count: 6
 ---
 
 # Critical Infrastructure Cybersecurity
@@ -13,6 +13,8 @@ source_count: 5
 Critical infrastructure cybersecurity is the protection of systems whose failure would have public-safety or social-continuity consequences: water utilities, power grids, transportation networks, hospitals, communications, and other civic infrastructure.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Water-supply cyberattack coverage extends utility cybersecurity into another daily public-safety cycle.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The FBI water-system warning across seven states extends utility cybersecurity from local incidents into a national public-safety concern.
 
@@ -36,3 +38,5 @@ The key distinction is consequence. A breach of a water utility is not merely an
 The July 31 follow-up sharpens the attribution layer: when a local water-system incident is investigated as possible state-linked activity, the municipality becomes part of national-security, diplomacy, and public-trust infrastructure at the same time.
 
 The August 1 FBI warning broadens the frame from Minnesota-specific attribution to multi-state exposure. For water systems, the operational question is not just breach prevention; it is whether small utilities have monitoring, segmentation, incident response, and public-warning capacity proportional to public-health consequences.
+
+The August 2 evening cycle keeps water-system attacks in the general headline mix, which matters because repetition turns a technical warning into a civic-risk baseline: water utilities now sit alongside wildfire evacuations and public-safety incidents in the daily threat ledger.

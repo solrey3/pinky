@@ -3,9 +3,9 @@ id: 83e83318-6180-4094-ad05-b09d7a114147
 title: Vaccine Misinformation
 type: concept
 created: 2026-07-06
-updated: 2026-07-23
+updated: 2026-08-02
 tags: [public-health, vaccines, misinformation, risk-communication, institutions, trust]
-source_count: 3
+source_count: 4
 ---
 
 # Vaccine Misinformation
@@ -13,6 +13,8 @@ source_count: 3
 Vaccine misinformation is the circulation of false or misleading claims about vaccine safety, causality, or institutional intent. It matters because it can change health behavior, criminal/legal narratives, and trust in public-health agencies.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — RFK Jr.’s autism/vaccine investigation comment revives the politics of disputed vaccine-causation claims.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — CDC/RFK Jr. fallout and an Idaho criminal case blaming vaccines show vaccine narratives crossing from politics into behavior and legal framing.
 

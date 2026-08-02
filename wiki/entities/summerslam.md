@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-02
 tags: [wrestling, wwe, ple, summerslam]
-source_count: 6
+source_count: 7
 ---
 
 # SummerSlam
@@ -14,6 +14,8 @@ source_count: 6
 SummerSlam is one of WWE's major premium live events, tracked here when daily wrestling coverage builds around match cards, go-home television, and related storyline continuity.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Night Two is the evening wrestling spotlight with live/results coverage.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — SummerSlam 2026 Night 2 card, Night 1 review, and injury/title-angle notes lead the wrestling digest.
 

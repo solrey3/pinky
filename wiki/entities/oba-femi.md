@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-02
 updated: 2026-08-02
 tags: [wrestling, wwe, summerslam, nxt, hell-in-a-cell]
-source_count: 2
+source_count: 3
 ---
 
 # Oba Femi
@@ -14,6 +14,8 @@ source_count: 2
 WWE wrestler tracked through major-event results and title-programming context.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Oba Femi is framed as a future WWE pillar in Brock Lesnar post-SummerSlam comments.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Oba Femi defeats Brock Lesnar inside Hell in a Cell at SummerSlam, the source's top wrestling result.
 

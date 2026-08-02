@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-08-02
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography, developer-tools, typescript, postgresql]
-source_count: 83
+source_count: 84
 ---
 
 # AI-Augmented Development
@@ -13,6 +13,8 @@ source_count: 83
 The practice of integrating large language models and AI coding agents into the software development workflow. This includes content processing (Fabric), terminal-based coding agents (Pi), and broader patterns of LLM-assisted knowledge work. The approach treats AI as an augmentative tool — enhancing human judgment rather than replacing it.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Kakehashi and tooling-trust items keep developer tooling, compatibility layers, and coding culture in the AI/dev workflow graph.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Go 1.27 tour, Diátaxis, Bor, and AI/security tooling chatter keep developer workflows in the AI-era tooling graph.
 

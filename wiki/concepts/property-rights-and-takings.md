@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-17
 updated: 2026-08-02
 tags: [law, property-rights, eminent-domain, takings, supreme-court, infrastructure]
-source_count: 9
+source_count: 10
 ---
 
 # Property Rights and Takings
@@ -13,6 +13,8 @@ source_count: 9
 Property rights and takings doctrine covers when government or state-authorized actors can seize or burden private property for public use, and what compensation or litigation costs owners can recover. It matters when infrastructure development moves private losses onto individual landowners.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Rhode Island anti-NIMBY eminent-domain ruling remains a constitutional boundary case for local land-use power.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — The Rhode Island eminent-domain ruling frames anti-NIMBY takings as a constitutional boundary.
 

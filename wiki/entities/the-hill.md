@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-08-02
 tags: [media, politics, congress, policy, washington, news]
-source_count: 23
+source_count: 24
 ---
 
 # The Hill
@@ -14,6 +14,8 @@ source_count: 23
 The Hill is a U.S. political-news outlet tracked in the newsletter graph when congressional process, campaign technology, federal funding, or defense-policy stories drive the daily agenda.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Publishes the RFK Jr. autism/vaccine investigation item in the health-policy feed.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Carries Trump/Iran and John Kennedy anti-weaponization-fund headlines in the noon news desk.
 

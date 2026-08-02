@@ -3,9 +3,9 @@ id: "019e1b12-d1a0-7ea0-ff01-aa7f7a8b9c40"
 title: "Terminal-Centric Workflow"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-05-10T15:45:00-0400"
+updated: 2026-08-02
 tags: [cli, terminal, workflow, productivity, linux, tools]
-source_count: 12
+source_count: 13
 ---
 
 # Terminal-Centric Workflow
@@ -13,6 +13,8 @@ source_count: 12
 A computing paradigm where the terminal (command-line interface) serves as the primary environment for development, system administration, file management, and daily operations. This workflow favors keyboard-driven, composable, scriptable tools over graphical interfaces, enabling reproducibility, remote operation, and efficiency.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The tooling-trust item reinforces the idea that familiar tools encode operational memory and confidence.
 
 - [2026-05-10: tmux Cheatsheet](sources/tmux.md) — Terminal multiplexer for managing multiple sessions and panes
 - [2026-05-10: fzf Cheatsheet](sources/fzf.md) — Fuzzy finder for interactive filtering of files, processes, and command history

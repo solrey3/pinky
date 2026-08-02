@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-08-02
 updated: 2026-08-02
 tags: [washington, wildfires, emergency-management, united-states]
-source_count: 1
+source_count: 2
 ---
 
 # Washington State
@@ -14,6 +14,8 @@ source_count: 1
 Washington State is tracked when Pacific Northwest climate, wildfire, emergency-management, or infrastructure stories enter the daily record.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — A major wildfire evacuation story keeps Washington in the climate/emergency-response graph.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — A wildfire forces evacuations after topping 5,000 acres, keeping wildfire-response capacity in the noon ledger.
 

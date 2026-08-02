@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-02
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 6
+source_count: 7
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 6
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Unavailable WSJ, Kalshi, Wawa, and schedule-parse fields underline why provenance and missing-data markers matter.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — WSJ, Kalshi, Wawa, team-parse, and no-odds feed gaps show why missingness is part of provenance.
 

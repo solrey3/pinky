@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-02
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 47
+source_count: 48
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 47
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — AMZN +17.00% and S&P 500 profit-growth coverage make Amazon the dominant upside market signal.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — AMZN +17.00% remains the dominant single-stock move supporting S&P profit-growth chatter.
 

@@ -4,9 +4,9 @@ title: Colorado Rockies
 type: entity
 entity_type: organization
 created: 2026-07-20
-updated: 2026-07-20
+updated: 2026-08-02
 tags: [baseball, mlb, rockies, trades]
-source_count: 1
+source_count: 2
 ---
 
 # Colorado Rockies
@@ -14,6 +14,8 @@ source_count: 1
 The Colorado Rockies are tracked as an MLB team when transaction or scoreboard items appear.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Kyle Freeland and the Rockies sweep the Royals in heat, giving Colorado the MLB headline.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Colorado sends reliever Seth Halvorsen to the Dodgers.
 

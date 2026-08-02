@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-08-02
 tags: [media, finance, markets, business, energy]
-source_count: 5
+source_count: 6
 ---
 
 # Yahoo Finance
@@ -14,6 +14,8 @@ source_count: 5
 Financial-news and market-data outlet. In the newsletter graph, Yahoo Finance appears as a business-wire source for market, company, and commodity coverage.
 
 ## Sources
+
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Carries weak-yen coordination and BYD overseas-demand coverage in the business feed.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Contributes the chargeback/friendly-fraud small-business margin-pressure item.
 
