@@ -4,9 +4,9 @@ title: Ars Technica
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 15
+source_count: 16
 ---
 
 # Ars Technica
@@ -14,6 +14,8 @@ source_count: 15
 Technology and science publication tracked as a source for infrastructure, science, and AI-system stories.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Flags Anthropic Claude cybersecurity-eval incidents and Reddit/Google AI Overviews tension.
 
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Covers verifiable quantum-computing advantage, emphasizing trustworthy measurement of claimed speedups.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Covers how to verify quantum-computing performance claims when quantum systems outperform classical ones.

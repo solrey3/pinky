@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-01
 updated: 2026-08-02
 tags: [ai, investing, hedge-fund, private-markets, risk]
-source_count: 5
+source_count: 6
 ---
 
 # Leopold Aschenbrenner
@@ -14,6 +14,8 @@ source_count: 5
 Leopold Aschenbrenner is tracked here through AI-capital-market coverage, especially where frontier-AI narratives become fund-raising, leverage, or liquidation stories.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — The reported AI hedge-fund fire sale remains a cautionary AI-capital risk story.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — The reported AI hedge-fund fire sale remains a cautionary datapoint for concentrated AI-trade exposure.
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-02
 tags: [wrestling, promotion, ring-of-honor, roh, aew, global-wars, tv-title, tapings]
-source_count: 74
+source_count: 75
 ---
 
 # ROH
@@ -14,6 +14,8 @@ source_count: 74
 Ring of Honor, a professional wrestling promotion historically associated with workrate-heavy independent wrestling and now connected to the broader AEW ecosystem. In the wiki graph, ROH captures U.S. non-WWE wrestling results and talent movement.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — ROH TV/HonorClub schedule appears in the wrestling calendar.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — ROH remains in the weekly schedule table through HonorClub/AEW-linked programming.
 

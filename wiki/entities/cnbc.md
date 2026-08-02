@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-27
 updated: 2026-08-02
 tags: [media, business, markets]
-source_count: 6
+source_count: 7
 ---
 
 # CNBC
@@ -14,6 +14,8 @@ source_count: 6
 Business and financial news network used for markets, companies, and public-health business coverage.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Frames sticky airfare, the Aschenbrenner AI-fund collapse, and Clear Street/Databricks private-market access.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Supplies Best Buy strategy, the Aschenbrenner AI hedge-fund fire-sale story, and Clear Street/Databricks private-market coverage.
 

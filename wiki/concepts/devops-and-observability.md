@@ -3,9 +3,9 @@ id: "019e1b12-d1a5-7ea5-ff06-af7f7a8b9c45"
 title: "DevOps & Observability"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: "2026-05-10T15:45:00-0400"
+updated: 2026-08-02
 tags: [devops, monitoring, observability, git, ci-cd, automation]
-source_count: 4
+source_count: 5
 ---
 
 # DevOps & Observability
@@ -13,6 +13,8 @@ source_count: 4
 The practices and tools for continuous integration, deployment automation, system monitoring, and operational visibility. DevOps bridges development and operations; observability provides the telemetry (metrics, logs, traces) needed to understand system behavior in production.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Bor Linux desktop policy management and feed/parse failures connect desktop governance and operational visibility.
 
 - [2026-05-10: lazygit Cheatsheet](sources/lazygit.md) — Terminal UI for git, the version control backbone of DevOps
 - [2026-05-10: lazydocker Cheatsheet](sources/lazydocker.md) — Container management and local dev environment orchestration

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-02
 tags: [finance, insurance, conglomerate, markets, brk-b, quality, value]
-source_count: 31
+source_count: 32
 ---
 
 # Berkshire Hathaway
@@ -14,6 +14,8 @@ source_count: 31
 Berkshire Hathaway is tracked as a diversified value and insurance-market bellwether.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Berkshire Hathaway gains 3.36%, a quality/value support in the stock-watch table.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Berkshire approaches its 52-week high and adds quality/value support to the tape.
 

@@ -4,9 +4,9 @@ title: Oklahoma City Thunder
 type: entity
 entity_type: organization
 created: 2026-07-25
-updated: 2026-07-27
+updated: 2026-08-02
 tags: [basketball, nba, prediction-markets, title-odds, sports]
-source_count: 4
+source_count: 5
 ---
 
 # Oklahoma City Thunder
@@ -14,6 +14,8 @@ source_count: 4
 NBA team surfaced in the newsletter graph through prediction-market title odds.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Chet Holmgren frames Thunder departures as part of the business side of roster churn.
 
 - [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Polymarket trending data lists Oklahoma City at 22% NBA title odds, leading the fetched title-odds board.
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-08-02
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 28
+source_count: 29
 ---
 
 # Reason
@@ -14,6 +14,8 @@ source_count: 28
 Reason is a libertarian media outlet that appears in the newsletter when policy or political-economy commentary enters the headline stack.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Supplies the doctor visa-freeze carve-out and Rhode Island eminent-domain/property-rights items.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Reason's Volokh item supplies the property-rights/eminent-domain ruling that anchors the land-use legal thread.
 

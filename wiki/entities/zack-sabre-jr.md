@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-19
 updated: 2026-08-02
 tags: [wrestling, njpw, technical-wrestling, g1-climax]
-source_count: 9
+source_count: 10
 ---
 
 # Zack Sabre Jr.
@@ -14,6 +14,8 @@ source_count: 9
 Zack Sabre Jr. is a technical wrestler associated with NJPW and cross-promotional AEW/NJPW stories.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Stays alive in the NJPW G1 Climax 36 Night 11 item and appears in recent Meltzer-rated match continuity.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Zack Sabre Jr. remains in the Meltzer table through the G1 Climax match with Yuya Uemura.
 

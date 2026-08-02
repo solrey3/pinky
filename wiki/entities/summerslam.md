@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-02
 tags: [wrestling, wwe, ple, summerslam]
-source_count: 5
+source_count: 6
 ---
 
 # SummerSlam
@@ -14,6 +14,8 @@ source_count: 5
 SummerSlam is one of WWE's major premium live events, tracked here when daily wrestling coverage builds around match cards, go-home television, and related storyline continuity.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — SummerSlam 2026 Night 2 card, Night 1 review, and injury/title-angle notes lead the wrestling digest.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — SummerSlam Night 1 drives the wrestling ledger with Oba Femi over Brock Lesnar and Orton/Cody/Punk main-event fallout.
 

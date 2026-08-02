@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-02
 tags: [person, wrestling]
-source_count: 3
+source_count: 4
 ---
 
 # Randy Orton
@@ -33,6 +33,8 @@ source_count: 3
 - His 2023 return from a serious back injury (spinal fusion) to WM39 is one of the best medical return stories
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — RKOs Cody Rhodes at SummerSlam, enabling CM Punk’s WWE Title victory.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Orton returns and costs Cody Rhodes against CM Punk, resetting the Sunday wrestling conversation.
 

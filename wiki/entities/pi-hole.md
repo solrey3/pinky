@@ -4,9 +4,9 @@ title: Pi-hole
 type: entity
 entity_type: product
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-02
 tags: [networking, dns, ad-blocking, observability, privacy, homelab]
-source_count: 1
+source_count: 2
 ---
 
 # Pi-hole
@@ -14,6 +14,8 @@ source_count: 1
 Pi-hole is a DNS sinkhole and local-network observability tool commonly used to block ads, trackers, and unwanted traffic. In the wiki graph, it matters as household-scale network telemetry.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — r/pihole appears in the Reddit feed with adoption/user-experience chatter.
 
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — A Reddit user uses Pi-hole to discover that a Netgear WiFi extender generated most outgoing network traffic, illustrating practical device-level observability.
 

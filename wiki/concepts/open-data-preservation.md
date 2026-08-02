@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-02
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 5
+source_count: 6
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 5
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — WSJ, Kalshi, Wawa, team-parse, and no-odds feed gaps show why missingness is part of provenance.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — The RSS adoption retrospective and repeated feed gaps underscore why open, durable syndication matters.
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-02
 tags: [finance, credit-cards, consumer-credit, markets, financials]
-source_count: 35
+source_count: 36
 ---
 
 # American Express
@@ -14,6 +14,8 @@ source_count: 35
 American Express is tracked as a consumer-credit and financial-services market indicator.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — American Express gains 3.09%, adding financial-sector support to the tape.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — American Express rises with other financials, adding internal breadth outside semiconductors.
 

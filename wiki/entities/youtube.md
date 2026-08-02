@@ -4,9 +4,9 @@ title: YouTube
 type: entity
 entity_type: product
 created: 2026-07-05
-updated: 2026-07-30
+updated: 2026-08-02
 tags: [video, platform, creators, privacy, google, media]
-source_count: 6
+source_count: 7
 ---
 
 # YouTube
@@ -14,6 +14,8 @@ source_count: 6
 Google's video platform. In the newsletter graph, YouTube matters as both a creator-distribution surface and a platform-trust/privacy surface.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — YouTube feed captures GothamChess, House of Highlights, and Lex Clips items as dated media provenance.
 
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The daily feed includes YouTube items from Breaking Points, GothamChess, House of Highlights, and Lex Clips.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — NBCUniversal’s deal with YouTube is used as evidence that streaming wars are becoming rebundling/platform-partnership wars.

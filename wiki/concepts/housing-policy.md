@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-12
 updated: 2026-08-02
 tags: [housing, affordability, mortgages, public-policy, congress, rates]
-source_count: 7
+source_count: 8
 ---
 
 # Housing Policy
@@ -13,6 +13,8 @@ source_count: 7
 Housing policy covers public interventions around housing supply, affordability, finance, zoning, subsidies, and mortgage-market pressure.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — The eminent-domain item connects local anti-development tactics to housing-supply constraints and property-rights limits.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — The anti-NIMBY eminent-domain ruling connects property-rights doctrine to housing supply and development constraints.
 

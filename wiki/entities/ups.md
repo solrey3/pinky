@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-02
 tags: [logistics, shipping, transportation, markets, cold-chain]
-source_count: 40
+source_count: 41
 ---
 
 # UPS
@@ -14,6 +14,8 @@ source_count: 40
 UPS is tracked as a logistics and economic-activity bellwether.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — UPS falls 9.21%, reinforcing logistics/cyclical stress beneath green indexes.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — UPS falls -9.21%, making logistics weakness one of the clearest single-name stress points in the green tape.
 

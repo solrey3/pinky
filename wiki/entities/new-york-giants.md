@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-08-02
 tags: [football, nfl, new-york-giants, schedule]
-source_count: 17
+source_count: 18
 ---
 
 # New York Giants
@@ -14,6 +14,8 @@ source_count: 17
 The New York Giants are an NFL franchise tracked for local-team scheduling, roster, and injury-adjacent continuity.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Team report lists upcoming Cowboys and Rams games plus training-camp intel.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — The Giants team report preserves training-camp intel and the September opener against Dallas.
 

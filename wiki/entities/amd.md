@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-08-02
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware]
-source_count: 96
+source_count: 97
 ---
 
 # AMD
@@ -14,6 +14,8 @@ source_count: 96
 Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerators, and platform chipsets. In the newsletter graph, AMD appears both as an AI-chip market proxy and as a hardware-trust/security actor when platform capabilities change.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — AMD is down 8.77%, keeping semiconductor stress in the green-but-not-clean market read.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — AMD remains the biggest chip-watch drag at -8.77%, preserving the uneven semiconductor-risk thread.
 

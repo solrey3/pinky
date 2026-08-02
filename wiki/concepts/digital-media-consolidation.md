@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-01
 updated: 2026-08-02
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 15
+source_count: 16
 ---
 
 # Digital Media Consolidation
@@ -13,6 +13,8 @@ source_count: 15
 Digital media consolidation is the concentration of content ownership, distribution channels, and platform control in fewer companies or ecosystems. It matters because distribution control can shape access, pricing, discovery, preservation, and regulatory concern.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Reddit/Google AI Overviews tension shows platform distribution power moving from search ranking to generated answers.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Google's role in RSS adoption decline is treated as another platform-distribution-power datapoint.
 

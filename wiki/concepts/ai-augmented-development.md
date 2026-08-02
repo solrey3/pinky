@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography, developer-tools, typescript, postgresql]
-source_count: 82
+source_count: 83
 ---
 
 # AI-Augmented Development
@@ -13,6 +13,8 @@ source_count: 82
 The practice of integrating large language models and AI coding agents into the software development workflow. This includes content processing (Fabric), terminal-based coding agents (Pi), and broader patterns of LLM-assisted knowledge work. The approach treats AI as an augmentative tool — enhancing human judgment rather than replacing it.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Go 1.27 tour, Diátaxis, Bor, and AI/security tooling chatter keep developer workflows in the AI-era tooling graph.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Cursor usage-page and CSV cost-transparency criticism keeps AI coding tools in the developer-trust, billing, and workflow-governance graph.
 

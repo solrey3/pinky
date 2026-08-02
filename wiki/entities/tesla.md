@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-22
 updated: 2026-08-02
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta]
-source_count: 64
+source_count: 65
 ---
 
 # Tesla
@@ -14,6 +14,8 @@ source_count: 64
 Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesla is tracked less as a generic EV maker and more as a regulatory and safety actor when Autopilot/driver-assist incidents surface.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Tesla remains weak and near the low end of its 52-week range.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Tesla remains slightly lower and near the bottom of its quoted 52-week range.
 

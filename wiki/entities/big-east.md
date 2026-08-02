@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-02
 updated: 2026-08-02
 tags: [college-sports, ncaab, conference, leadership]
-source_count: 2
+source_count: 3
 ---
 
 # Big East
@@ -14,6 +14,8 @@ source_count: 2
 U.S. college athletic conference tracked in the sports/newsletter graph.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Reddit highlights Tim Brosnan becoming head of the Big East.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — The Big East is tied to Tim Brosnan's reported appointment as conference leader.
 

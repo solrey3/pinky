@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-31
 updated: 2026-08-02
 tags: [ai, data, private-markets, pre-ipo, enterprise-software]
-source_count: 6
+source_count: 7
 ---
 
 # Databricks
@@ -14,6 +14,8 @@ source_count: 6
 Data and AI company referenced as a $188B private-market target in Clear Street’s pre-IPO access offering.
 
 ## Sources
+
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Databricks is framed as a $188B AI company now offered through Clear Street pre-IPO access.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Databricks is the $188B private AI company used as the example of pre-IPO access creeping toward retail-adjacent investors.
 
