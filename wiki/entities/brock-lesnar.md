@@ -4,9 +4,9 @@ title: Brock Lesnar
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-08
+updated: 2026-08-02
 tags: [person, wrestling]
-source_count: 5
+source_count: 6
 ---
 
 # Brock Lesnar (The Beast Incarnate)
@@ -33,6 +33,8 @@ source_count: 5
 - Ending Undertaker's 21-0 WrestleMania streak at WM30 is the most shocking finish in WM history
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Brock Lesnar loses to Oba Femi inside Hell in a Cell and remains in post-SummerSlam future speculation.
 
 - [2026-05-27: Raw notes](../../raw/people/brock-lesnar.md)
 - [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletter-2026-05-28-evening.md) — Brock Lesnar confirmed to appear after WWE Clash in Italy per event advertising. Cody Rhodes calls Clash events a new "Big Four" WWE PLE.

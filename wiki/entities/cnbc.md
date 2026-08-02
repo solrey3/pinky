@@ -4,9 +4,9 @@ title: CNBC
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [media, business, markets]
-source_count: 5
+source_count: 6
 ---
 
 # CNBC
@@ -14,6 +14,8 @@ source_count: 5
 Business and financial news network used for markets, companies, and public-health business coverage.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Supplies Best Buy strategy, the Aschenbrenner AI hedge-fund fire-sale story, and Clear Street/Databricks private-market coverage.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Rivian spending guidance and Jersey Mike's IPO trading coverage feed the business-news section.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Carries Rivian Q2 coverage, emphasizing reduced spending plans and narrowed earnings guidance.

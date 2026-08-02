@@ -4,9 +4,9 @@ title: Inter Miami
 type: entity
 entity_type: organization
 created: 2026-07-20
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [soccer, mls, miami, lionel-messi, sports]
-source_count: 18
+source_count: 19
 ---
 
 # Inter Miami
@@ -14,6 +14,8 @@ source_count: 18
 Inter Miami is tracked as Messi-adjacent MLS club coverage.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Inter Miami appears through Messi return uncertainty and a 2–2 MLS draw with Columbus.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The Messi return timeline remains unresolved, keeping Inter Miami schedule and availability parsing in the sports file.
 

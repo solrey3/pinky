@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 39
+source_count: 40
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 39
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Pogacar is listed atop the fetched Tour de France GC board.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Tour de France GC winner listed at 73h 56' 26''.
 

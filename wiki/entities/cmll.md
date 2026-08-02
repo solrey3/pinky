@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
-source_count: 80
+source_count: 81
 ---
 
 # CMLL
@@ -14,6 +14,8 @@ source_count: 80
 Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling promotion. In the wiki graph, CMLL anchors lucha-libre results and Mexico-based wrestling coverage.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — CMLL remains in the weekly lucha calendar through Arena México dates.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Thunder Rosa winning the Mexican National Women’s Championship keeps CMLL in the title-change and calendar graph.
 

@@ -4,9 +4,9 @@ title: Kazuchika Okada
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-25
+updated: 2026-08-02
 tags: [person, wrestling, njpw, wrestle-kingdom, meltzer]
-source_count: 19
+source_count: 20
 ---
 
 # Kazuchika Okada (The Rainmaker)
@@ -33,6 +33,8 @@ source_count: 19
 - His AEW debut and championship run (2024) proved his value outside Japan
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Okada remains in the Meltzer table for the six-star Wrestle Kingdom 20 match with Tanahashi.
 
 - [2026-05-27: Raw notes](../../raw/people/kazuchika-okada.md)
 - [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — The wrestling-rating table lists **Hiroshi Tanahashi vs. Kazuchika Okada** at NJPW Wrestle Kingdom 20 as the top 2026 match shown, rated 6 stars.

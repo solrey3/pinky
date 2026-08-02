@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 62
+source_count: 63
 ---
 
 # New Jersey Devils
@@ -14,6 +14,8 @@ source_count: 62
 The New Jersey Devils are an NHL team tracked in the newsletter sports feed when roster, free-agency, or local-interest updates appear.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — The Devils report tracks preseason dates plus prospect and signing headlines.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Devils preseason schedule notes and prospect/signing links maintain hockey continuity.
 

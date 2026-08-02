@@ -4,9 +4,9 @@ title: CM Punk
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [person, wrestling, wwe, backstage-rumors]
-source_count: 18
+source_count: 19
 ---
 
 # CM Punk
@@ -33,6 +33,8 @@ source_count: 18
 - His ring work with Samoa Joe, Daniel Bryan, and Colt Cabana established his technical credibility
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — CM Punk benefits from Randy Orton attacking Cody Rhodes to take the WWE title victory at SummerSlam.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Closes the SmackDown go-home cycle opposite Cody Rhodes before SummerSlam.
 

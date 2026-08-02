@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-30
+updated: 2026-08-02
 tags: [person, wrestling, aew]
-source_count: 24
+source_count: 25
 ---
 
 # Will Ospreay
@@ -33,6 +33,8 @@ source_count: 24
 - His AEW debut pop was the largest non-WWE debut reaction in years
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Will Ospreay appears in the Meltzer 5-star AEW Redemption tag match.
 
 - [2026-05-27: Raw notes](../../raw/people/will-ospreay.md)
 - [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **Owen Hart Men's Tournament Semi-Final (June 3 Dynamite):** Ospreay defeats Mark Davis in a chaotic semi-final. Advances to the **Owen Hart Men's Final** and earns a spot at **AEW Forbidden Door**. The Summer Blockbuster season is Ospreay's showcase moment heading into the summer PPV calendar.

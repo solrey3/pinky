@@ -4,9 +4,9 @@ title: Leopold Aschenbrenner
 type: entity
 entity_type: person
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [ai, investing, hedge-fund, private-markets, risk]
-source_count: 3
+source_count: 4
 ---
 
 # Leopold Aschenbrenner
@@ -14,6 +14,8 @@ source_count: 3
 Leopold Aschenbrenner is tracked here through AI-capital-market coverage, especially where frontier-AI narratives become fund-raising, leverage, or liquidation stories.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Aschenbrenner remains the AI-trade excess example after a $45B fund reportedly lost most of its value in days.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The reported collapse and fire sale of a $45B AI hedge fund remains a cautionary AI-capital-exuberance story.
 

@@ -4,9 +4,9 @@ title: Best Buy
 type: entity
 entity_type: organization
 created: 2026-08-01
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [retail, consumer-electronics, business, stores, strategy]
-source_count: 2
+source_count: 3
 ---
 
 # Best Buy
@@ -14,6 +14,8 @@ source_count: 2
 Best Buy is a consumer-electronics retailer tracked here when store strategy, retail demand, or consumer-technology distribution enters the newsletter graph.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Best Buy repeats the smaller-store growth strategy under incoming CEO Jason Bonfig.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Incoming CEO Jason Bonfig argues for smaller stores as the next growth play, making retail footprint strategy the business hook.
 

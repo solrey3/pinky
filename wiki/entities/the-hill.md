@@ -4,9 +4,9 @@ title: The Hill
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [media, politics, congress, policy, washington, news]
-source_count: 20
+source_count: 21
 ---
 
 # The Hill
@@ -14,6 +14,8 @@ source_count: 20
 The Hill is a U.S. political-news outlet tracked in the newsletter graph when congressional process, campaign technology, federal funding, or defense-policy stories drive the daily agenda.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — The Hill contributes both the Houthi Red Sea toll-denial item and the customer-service AI labor story.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Provides the AI/customer-service labor story and the Talarico/Paxton Texas Senate polling item.
 

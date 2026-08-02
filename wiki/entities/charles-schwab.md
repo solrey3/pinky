@@ -4,9 +4,9 @@ title: Charles Schwab
 type: entity
 entity_type: organization
 created: 2026-07-08
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [finance, brokerage, markets, schw, brokerages, risk-assets, financials]
-source_count: 38
+source_count: 39
 ---
 
 # Charles Schwab
@@ -14,6 +14,8 @@ source_count: 38
 Charles Schwab is a brokerage and financial-services firm tracked in the newsletter graph when broker sentiment or financial-sector moves become market signals.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Schwab trades near its 52-week high and reinforces financial-sector resilience.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Rises 2.68%, one of the financial-sector offsets to chip-led weakness.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Rises 2.68%, keeping brokerages/financials in the resilient side of the evening tape.

@@ -4,9 +4,9 @@ title: Randy Orton
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-05-27T03:20:14Z
+updated: 2026-08-02
 tags: [person, wrestling]
-source_count: 1
+source_count: 2
 ---
 
 # Randy Orton
@@ -33,6 +33,8 @@ source_count: 1
 - His 2023 return from a serious back injury (spinal fusion) to WM39 is one of the best medical return stories
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Randy Orton RKOing Cody Rhodes becomes the decisive SummerSlam title-finish note.
 
 - [2026-05-27: Raw notes](../../raw/people/randy-orton.md)
 

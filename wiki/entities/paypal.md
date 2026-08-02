@@ -4,9 +4,9 @@ title: PayPal
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [finance, payments, fintech, markets]
-source_count: 34
+source_count: 35
 ---
 
 # PayPal
@@ -14,6 +14,8 @@ source_count: 34
 PayPal is tracked as a payments and fintech-market entity when it appears in stock-watch coverage.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — PayPal gains in the stock watch, joining financial/payment names that offset chip weakness.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Gains 2.95%, continuing its role as a resilient pocket in the selective rotation.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Rises 2.95%, remaining part of the resilient fintech/quality pocket in the mixed close.

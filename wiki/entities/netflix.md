@@ -4,9 +4,9 @@ title: Netflix
 type: entity
 entity_type: organization
 created: 2026-06-26
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 48
+source_count: 49
 ---
 
 # Netflix
@@ -14,6 +14,8 @@ source_count: 48
 Streaming-media platform and subscription business. In the newsletter graph, Netflix appears both as a market ticker and as a platform-policy actor whose account rules shape user identity and household sharing.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Netflix posts a modest gain but remains well below its 52-week high in the stock watch.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Rises 6.21%, one of the stronger quality/consumer-tech offsets to semiconductor weakness.
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Rises 6.21%, one of the strongest stock-watch offsets to semiconductor and UPS weakness.

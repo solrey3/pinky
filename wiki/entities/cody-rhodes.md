@@ -4,9 +4,9 @@ title: Cody Rhodes
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [person, wrestling]
-source_count: 18
+source_count: 19
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -33,6 +33,8 @@ source_count: 18
 - The American Nightmare character is a babyface who believes in himself without apology
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Cody Rhodes is attacked by Randy Orton in the SummerSlam title-finish headline.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Closes the SmackDown go-home cycle opposite CM Punk before SummerSlam.
 

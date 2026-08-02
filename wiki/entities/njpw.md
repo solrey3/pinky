@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-08-01
+updated: 2026-08-02
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 94
+source_count: 95
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -47,6 +47,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-25 (Evening)**: NOAH Legacy Rise coverage and the recurring Tanahashi/Okada Wrestle Kingdom 20 rating keep NJPW visible through puroresu ecosystem news even when the lead item is not a New Japan card.
 
 ## Sources
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — NJPW remains in the calendar and Meltzer table through G1 and Wrestle Kingdom match-rating continuity.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — G1 Climax 36 Night 10 results keep NJPW in the tournament-continuity and wrestling-provenance graph.
 
