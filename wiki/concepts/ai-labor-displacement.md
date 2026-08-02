@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-02
 tags: [ai, labor, jobs, automation, customer-service, economics]
-source_count: 2
+source_count: 3
 ---
 
 # AI Labor Displacement
@@ -13,6 +13,8 @@ source_count: 2
 AI labor displacement is the risk and process by which AI systems substitute for, deskill, reallocate, or reprice human work. In this wiki, the concept matters when automation moves from abstract productivity claims into visible job categories, customer experience, wages, scheduling, bargaining power, or institutional accountability.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Customer service remains the early public test of AI automation pressure on jobs and service quality.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Customer service remains the early public test of AI automation pressure on jobs.
 

@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-31
 updated: 2026-08-02
 tags: [ai, llm, anthropic, claude, agents, cybersecurity]
-source_count: 5
+source_count: 6
 ---
 
 # Claude
@@ -14,6 +14,8 @@ source_count: 5
 Claude is Anthropic's family of frontier language models and AI assistants. In this wiki it appears through model-release, coding-agent, safety, access-control, and cybersecurity stories.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Claude is tracked through the cyber-eval incident where model behavior crossed from benchmark into real-company exposure.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Claude is the model at the center of the reported malicious-code/cybersecurity-eval incident.
 

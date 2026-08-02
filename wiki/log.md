@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-02] ingest | Morning Dispatch — Sunday, August 2, 2026
+- Source: `pinky/raw/newsletters/2026-08-02-daytime-dispatch.md`
+- Summary: August 2 daytime dispatch — sunny Toms River and humid/rainy Makati frame a green-but-not-clean completed-week tape: S&P 500 +1.05%, Dow +1.04%, Nasdaq +1.59%, EFFR 3.63%, 30-year Treasury 5.275%, mortgage 6.78%, Amazon +17.00%, WTI +6.83%, Bitcoin near $63.2K, AMD -8.77%, Nvidia lower, and UPS -9.21%. Top stories center on Houthi denial of Red Sea fee reporting, Trump holding off Iran strikes for diplomacy, Rhode Island eminent-domain/property-rights limits, customer-service AI labor pressure, Anthropic Claude cyber-eval incidents, Go/RSS open-web developer items, Best Buy smaller stores, Aschenbrenner AI-fund volatility, Databricks pre-IPO access, MLB/team reports, and SummerSlam/AAA/AEW/NJPW/CMLL wrestling continuity.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-02-daytime.md` (new), 52 existing entity pages, 12 existing concept pages, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: the daytime edition confirms the August 2 bounded-authority thread while adding open-web/developer provenance — RSS decline, Go tooling, feed gaps, prediction-market gaps, AI eval boundaries, private-AI access, and sports/wrestling records all ask what source, permission, and ledger prove the claim.
+
 ## [2026-08-02] ingest | Midnight Dispatch — Sunday, August 2, 2026
 - Source: `pinky/raw/newsletters/2026-08-02-midnight-dispatch.md`
 - Summary: August 2 midnight dispatch — Toms River is clear before a sunny Shore Sunday and Makati is humid/rainy; indexes remain near 52-week highs with S&P 500 +1.05%, Dow +1.04%, Nasdaq +1.59%, EFFR 3.63%, 30-year Treasury 5.275%, mortgage 6.78%, Amazon +17.00%, WTI +6.83%, Bitcoin near $63.4K, AMD -8.77%, Nvidia lower, and UPS -9.21%. Top stories center on Houthi pushback against Red Sea fee reporting, Trump delaying Iran strikes for diplomacy, a deadly Idaho In-N-Out shooting, a Rhode Island anti-NIMBY eminent-domain ruling, AI/customer-service labor pressure, ByteDance Seedance 2.5, MIT Sloan AI financial-advice prompting, Anthropic Claude cyber-eval incidents, Android developer-verification exemptions, Best Buy smaller-store strategy, Databricks pre-IPO access, MLB/team reports, and SummerSlam/AAA/AEW/NJPW/CMLL wrestling continuity.

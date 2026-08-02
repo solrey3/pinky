@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-02
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 96
+source_count: 97
 ---
 
 # Federal Reserve
@@ -14,6 +14,8 @@ source_count: 96
 The central bank of the United States. In the newsletter graph, the Fed is tracked less as a generic rate-setting body and more as a market-structure actor: its rate targets, communications strategy, and guidance discipline affect how investors interpret incoming data.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Fed funds, Treasury yields, mortgage quotes, and Warsh/Fed-leadership chatter keep policy transmission in the daily ledger.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Fed funds, target range, Treasury yields, mortgage rates, FX, and Polymarket Fed-decision chatter anchor the rates layer.
 

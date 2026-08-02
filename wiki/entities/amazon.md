@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-02
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 45
+source_count: 46
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 45
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Amazon is the weekly standout at +17.00%, helping keep the tape green despite chip and logistics weakness.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Amazon surges 17.00%, the clearest single-stock proof of risk appetite in the dispatch.
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-02
 tags: [person, wrestling]
-source_count: 19
+source_count: 20
 ---
 
 # Cody Rhodes (The American Nightmare)
@@ -33,6 +33,8 @@ source_count: 19
 - The American Nightmare character is a babyface who believes in himself without apology
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Cody Rhodes is cost a WWE title match by Randy Orton's return at SummerSlam.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Cody Rhodes is attacked by Randy Orton in the SummerSlam title-finish headline.
 

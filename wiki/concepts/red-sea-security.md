@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-31
 updated: 2026-08-02
 tags: [geopolitics, shipping, red-sea, middle-east, saudi-arabia, houthis]
-source_count: 3
+source_count: 4
 ---
 
 # Red Sea Security
@@ -13,6 +13,8 @@ source_count: 3
 Red Sea security is the protection of shipping lanes, ports, naval routes, and regional commerce around the Red Sea and Gulf of Aden. It links maritime trade, regional conflict, energy markets, and coalition diplomacy.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Houthi denial of Red Sea fee plans keeps Bab el-Mandeb shipping risk tied to coercive pricing, information quality, and maritime-security governance.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Houthi pushback on alleged Red Sea fee plans keeps Bab el-Mandeb shipping risk tied to coercive pricing and maritime-security governance.
 

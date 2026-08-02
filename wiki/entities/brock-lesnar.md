@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-02
 tags: [person, wrestling]
-source_count: 6
+source_count: 7
 ---
 
 # Brock Lesnar (The Beast Incarnate)
@@ -33,6 +33,8 @@ source_count: 6
 - Ending Undertaker's 21-0 WrestleMania streak at WM30 is the most shocking finish in WM history
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Lesnar loses to Oba Femi and remains part of post-show in-ring-future questions.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Brock Lesnar loses to Oba Femi inside Hell in a Cell and remains in post-SummerSlam future speculation.
 

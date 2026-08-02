@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-08-02
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 60
+source_count: 61
 ---
 
 # Iran
@@ -14,6 +14,8 @@ source_count: 60
 Iran is tracked in the newsletter graph as a geopolitical and energy-market actor. Its relevance is strongest where diplomacy, Strait of Hormuz shipping, oil prices, and U.S. executive politics intersect.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Iran remains central through Trump's hold-off-strikes/diplomacy posture and Red Sea-adjacent regional risk.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Iran remains in the geopolitical risk layer through the strike-delay/diplomacy headline.
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-09
 updated: 2026-08-02
 tags: [public-policy, retirement, entitlement, fiscal-policy, united-states]
-source_count: 3
+source_count: 4
 ---
 
 # Social Security
@@ -14,6 +14,8 @@ source_count: 3
 Social Security is the United States federal retirement, disability, and survivor-benefits system. In the newsletter stream it matters as a long-horizon fiscal and household-finance risk: trust-fund depletion dates translate abstract policy into retirement-income consequences. The June 13 evening dispatch adds the policy-design side of the problem by surfacing reform options rather than only depletion timing.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Social Security appears through retirement-funding warnings in a broader labor-market/AI anxiety frame.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Social Security funding-risk commentary appears in the business wire as a retirement-policy warning.
 

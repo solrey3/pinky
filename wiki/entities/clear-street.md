@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-31
 updated: 2026-08-02
 tags: [fintech, brokerage, private-markets, pre-ipo, databricks]
-source_count: 5
+source_count: 6
 ---
 
 # Clear Street
@@ -14,6 +14,8 @@ source_count: 5
 Fintech brokerage platform; in this source, it offers pre-IPO access to Databricks.
 
 ## Sources
+
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Clear Street's Databricks pre-IPO access offer keeps private AI exposure moving toward broader investors.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Clear Street offers investors pre-IPO access to Databricks, broadening private-market AI exposure.
 
