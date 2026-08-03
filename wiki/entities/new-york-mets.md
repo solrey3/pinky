@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-08-03
 tags: [baseball, mlb, new-york-mets, schedule, sports]
-source_count: 30
+source_count: 31
 ---
 
 # New York Mets
@@ -15,6 +15,7 @@ The New York Mets are an MLB franchise tracked as a recurring local sports inter
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Team report logs three straight losses to Miami, a 0–2 Aug. 2 result, and trade-deadline moves involving Clay Holmes, Tyrone Taylor, and Luke Weaver.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Team report notes the 0-2 Marlins loss and Huascar Brazobán trade news.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Team report records a 2–0 loss to Miami and links the Baseball Reference box score.
 

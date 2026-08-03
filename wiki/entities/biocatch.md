@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-03
 updated: 2026-08-03
 tags: [cybersecurity, fraud-detection, payments, ai, behavioral-biometrics]
-source_count: 1
+source_count: 2
 ---
 
 # BioCatch
@@ -15,6 +15,7 @@ BioCatch is a fraud-detection and behavioral-biometrics company tracked here thr
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Evening coverage repeats BioCatch as Visa’s $2.4 billion fraud-detection target amid AI-scam pressure.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — CNBC reports Visa will buy BioCatch for $2.4 billion as an AI-scam hedge.
 
 ## Related

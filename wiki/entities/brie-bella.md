@@ -4,9 +4,9 @@ title: Brie Bella
 type: entity
 entity_type: person
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [wrestling, wwe, injury, summerslam]
-source_count: 3
+source_count: 4
 ---
 
 # Brie Bella
@@ -15,6 +15,7 @@ WWE/Bella Twins performer tracked here through injury and event coverage.
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Confirms a broken scapula and time away, turning a SummerSlam-adjacent item into an injury/provenance update.
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Injury coverage says Brie Bella was taken to hospital after a shoulder injury at SummerSlam.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Reported taken to hospital after a shoulder injury at SummerSlam.

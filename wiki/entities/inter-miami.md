@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-20
 updated: 2026-08-03
 tags: [soccer, mls, miami, lionel-messi, sports]
-source_count: 24
+source_count: 25
 ---
 
 # Inter Miami
@@ -15,6 +15,7 @@ Inter Miami is tracked as Messi-adjacent MLS club coverage.
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Team parsing fails again while ESPN reports no talks between Inter Miami and Kevin De Bruyne, separating verified transfer denial from schedule-data gaps.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Team report repeats that Miami is not pursuing Juan Fernando Quintero.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Transfer rumor coverage says the club is not pursuing Juan Fernando Quintero.
 

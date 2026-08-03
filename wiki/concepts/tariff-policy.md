@@ -3,9 +3,9 @@ id: 8973c792-4d45-4edb-b549-6a4bdbf4265f
 title: Tariff Policy
 type: concept
 created: 2026-07-24
-updated: 2026-08-01
+updated: 2026-08-03
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 13
+source_count: 14
 ---
 
 # Tariff Policy
@@ -14,6 +14,7 @@ Tariff policy is the use of import duties to pursue revenue, industrial policy, 
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Democratic-led states joining litigation against Trump’s new tariffs moves the tariff thread from policy rhetoric into state-led legal challenge.
 - [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Amazon tariff refunds move tariff policy from headline conflict into firm/customer pass-through mechanics.
 
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Amazon tariff refunds connect trade policy directly to company cash flows and customer pass-through claims.

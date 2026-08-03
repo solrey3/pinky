@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-19
 updated: 2026-08-03
 tags: [new-jersey, shore, weather]
-source_count: 34
+source_count: 35
 ---
 
 # Toms River
@@ -15,6 +15,7 @@ Toms River is a Jersey Shore municipality used in the newsletter as the local we
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Patchy rain nearby and a sticky 86°F/100°F-feels-like evening keep local weather as the Shore context for the market and news close.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Rainy local weather context anchors the Shore side of the daily ledger.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Clear 77°F overnight conditions and Monday rain risk keep the Shore weather baseline in the daily ledger.
 

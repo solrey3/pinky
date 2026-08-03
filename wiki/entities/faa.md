@@ -4,9 +4,9 @@ title: FAA
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [government, aviation, transportation, leadership]
-source_count: 2
+source_count: 3
 ---
 
 # FAA
@@ -15,6 +15,7 @@ The Federal Aviation Administration, the U.S. aviation regulator. In the newslet
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Clears the smallest Boeing 737 Max to fly after years of delays, making certification timing the aviation-regulatory point.
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Makes the Trump Tower no-fly zone permanent, turning aviation security restrictions into a standing boundary.
 
 - [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The Hill reports deputy administrator Chris Rocheleau is leaving for a private-sector role, turning FAA leadership continuity into a transportation-governance signal.

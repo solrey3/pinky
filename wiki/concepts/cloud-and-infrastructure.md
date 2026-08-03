@@ -3,9 +3,9 @@ id: "019e1b12-d1a4-7ea4-ff05-ae7f7a8b9c44"
 title: "Cloud & Infrastructure"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-07-26
+updated: 2026-08-03
 tags: [cloud, infrastructure, devops, vps, networking, hosting, developer-networking, cloudflare, ai-agents, postgres, benchmarking, ipv6, linux, data-centers, power, water, http, ai-infrastructure, semiconductors, oracle, hardware, custom-silicon, runtimes, liquid-cooling, water-efficiency, satellite-networking, inference]
-source_count: 37
+source_count: 38
 ---
 
 # Cloud & Infrastructure
@@ -14,6 +14,7 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Cloudflare’s smaller/faster/safer model-serving notes put Kimi and GLM deployment inside the cloud-infrastructure and inference-efficiency thread.
 - [2026-05-10: doctl Cheatsheet](sources/doctl.md) — DigitalOcean CLI for managing droplets, databases, and cloud resources
 - [2026-05-10: nginx Cheatsheet](sources/nginx.md) — Reverse proxy, load balancer, and web server
 - [2026-05-10: Nextcloud Cheatsheet](sources/nextcloud.md) — Self-hosted file sync, collaboration, and PIM platform

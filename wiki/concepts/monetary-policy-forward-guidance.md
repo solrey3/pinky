@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-08-03
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 100
+source_count: 101
 ---
 
 # Monetary Policy Forward Guidance
@@ -14,6 +14,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — EFFR, target range, 30-year Treasury, 90-day bill, mortgage, FX, gas, and risk-asset tables keep policy transmission visible at the evening close.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — EFFR, the Fed target range, Treasuries, mortgage rates, FX, gas, and yen-intervention coverage document policy transmission at noon.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — EFFR, target range, long Treasuries, mortgage rates, FX, gas, and yen-intervention headlines document policy transmission into household and market prices.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — EFFR, the Fed target range, Treasury yields, mortgage rates, FX, gas, and prediction-market Fed topics keep policy transmission visible.

@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-07-29
+updated: 2026-08-03
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 32
+source_count: 33
 ---
 
 # OpenAI
@@ -19,6 +19,7 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Republican attorneys general urge OpenAI to preserve records related to the Hugging Face breach, adding legal hold/provenance pressure to the eval-security incident.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI attributes an anti-data-center campaign in the U.S. to likely Chinese influence operators, tying AI infrastructure to information warfare and local political conflict.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Leaked financial documents are reported as showing OpenAI losing billions annually, foregrounding the cost structure of closed frontier-model operations.
 - [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Noam Shazeer says he is joining OpenAI, a talent-market signal that frontier competition is about personnel as well as compute, models, and distribution.

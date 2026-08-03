@@ -4,9 +4,9 @@ title: FCC
 type: entity
 entity_type: organization
 created: 2026-06-24
-updated: 2026-07-22
+updated: 2026-08-03
 tags: [government, telecommunications, privacy, identity, regulation]
-source_count: 5
+source_count: 6
 ---
 
 # FCC
@@ -15,6 +15,7 @@ The Federal Communications Commission is the U.S. telecommunications regulator. 
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Reason reports an FCC ban on foreign-made robots, including Roombas, extending the agency from telecom identity and drone authorization into consumer-robotics equipment restriction.
 - [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — An FCC proposal could require ID for prepaid burner phones, making telecom anonymity, fraud prevention, and privacy tradeoffs explicit.
 
 - [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Broadband fee-transparency rollback coverage shifts FCC relevance from telecom identity into consumer disclosure and hidden-cost policy.

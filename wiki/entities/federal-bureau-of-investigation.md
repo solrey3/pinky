@@ -4,9 +4,9 @@ title: Federal Bureau of Investigation
 type: entity
 entity_type: organization
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [government, law-enforcement, cybersecurity, critical-infrastructure, fbi, united-states]
-source_count: 3
+source_count: 4
 ---
 
 # Federal Bureau of Investigation
@@ -15,6 +15,7 @@ The Federal Bureau of Investigation (FBI) is the U.S. federal law-enforcement an
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — At least seven states reportedly tell the FBI about water-system cyberattacks, keeping utility cybersecurity in the federal investigative frame.
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Water-supply cyberattack coverage keeps infrastructure-security warnings tied to federal investigative posture.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The FBI warning about water-system cyberattacks in seven states keeps utility cybersecurity in the federal public-safety frame.

@@ -4,9 +4,9 @@ title: Victor Wembanyama
 type: entity
 entity_type: person
 created: 2026-05-19
-updated: 2026-08-01
+updated: 2026-08-03
 tags: [nba, basketball, san-antonio-spurs, generational-talent, nba-finals]
-source_count: 25
+source_count: 26
 ---
 
 # Victor Wembanyama
@@ -21,6 +21,7 @@ French NBA center for the San Antonio Spurs, widely regarded as a generational t
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Plans to host Spurs teammates for workouts in France, adding offseason development continuity to the Wembanyama/Spurs thread.
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Wembanyama remains in the day’s sports/business continuity through Nike-signature-shoe coverage from earlier editions.
 
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Reportedly lands a Nike signature shoe line, reinforcing his sneaker-star/business profile.

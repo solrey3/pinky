@@ -4,9 +4,9 @@ title: Cloudflare
 type: entity
 entity_type: organization
 created: 2026-06-20
-updated: 2026-07-26
+updated: 2026-08-03
 tags: [cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control]
-source_count: 4
+source_count: 5
 ---
 
 # Cloudflare
@@ -15,6 +15,7 @@ Cloudflare is a cloud infrastructure and security company. In the newsletter gra
 
 ## Sources
 
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Cloudflare’s notes on running Kimi and GLM models at scale tie edge/cloud infrastructure to smaller, faster, safer AI deployment economics.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare's temporary accounts for AI agents introduce a concrete access pattern for scoped, revocable agent identities rather than shared human credentials.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — x402 Monetization Gateway puts payment enforcement closer to the edge stack, extending Cloudflare from access/security plumbing into monetization infrastructure.
