@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-03
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 10
+source_count: 11
 ---
 
 # WTI
@@ -15,6 +15,7 @@ West Texas Intermediate crude oil benchmark; in this source, WTI rises +5.07% as
 
 ## Sources
 
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Drops 5.77%, undercutting the otherwise hot Nasdaq/S&P lunch tape.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Oil sells off sharply as the geopolitical pressure valve in the morning tape.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 5.35%, making energy volatility the main offset to the index/Amazon rally.
 

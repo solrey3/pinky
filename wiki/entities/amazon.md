@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-03
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 50
+source_count: 51
 ---
 
 # Amazon
@@ -15,6 +15,7 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 
 ## Sources
 
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Surges 23.26% near its 52-week high, becoming the lunch tape's dominant single-stock risk-on signal.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — The +17% move is the main single-stock support for the green index tape.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Rises 17.00% near its 52-week high and anchors the S&P 500 profit-growth narrative.
 
