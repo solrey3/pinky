@@ -4,9 +4,9 @@ title: Kyle Fletcher
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [person, wrestling]
-source_count: 7
+source_count: 8
 ---
 
 # Kyle Fletcher
@@ -33,6 +33,8 @@ source_count: 7
 - His Don Callis Family alignment gave him a heel credential that his natural charisma can subvert
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed in a 5-star AEW Redemption match against Bandido.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — His AEW Redemption match with Bandido remains in the Meltzer 5-star ledger.
 

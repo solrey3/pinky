@@ -4,9 +4,9 @@ title: Robert F. Kennedy Jr.
 type: entity
 entity_type: person
 created: 2026-07-06
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [politics, public-health, vaccines, hhs, misinformation, united-states]
-source_count: 4
+source_count: 5
 ---
 
 # Robert F. Kennedy Jr.
@@ -14,6 +14,8 @@ source_count: 4
 Robert F. Kennedy Jr. is tracked here as a U.S. public-health political actor whose vaccine and agency-leadership controversies affect institutional trust.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Says Trump wants him to investigate autism/vaccine links, extending the vaccine-evidence politics thread.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Says Trump wants him to investigate any autism/vaccine link, reviving vaccine-evidence politics.
 

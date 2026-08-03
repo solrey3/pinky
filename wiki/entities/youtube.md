@@ -4,9 +4,9 @@ title: YouTube
 type: entity
 entity_type: product
 created: 2026-07-05
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [video, platform, creators, privacy, google, media]
-source_count: 8
+source_count: 9
 ---
 
 # YouTube
@@ -14,6 +14,8 @@ source_count: 8
 Google's video platform. In the newsletter graph, YouTube matters as both a creator-distribution surface and a platform-trust/privacy surface.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Feed section captures GothamChess, House of Highlights, and Lex Clips items from the past 24 hours.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The feed section logs recent GothamChess, House of Highlights, and Lex Clips videos as dated media provenance.
 

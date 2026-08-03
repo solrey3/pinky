@@ -4,9 +4,9 @@ title: Berkshire Hathaway
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [finance, insurance, conglomerate, markets, brk-b, quality, value]
-source_count: 33
+source_count: 34
 ---
 
 # Berkshire Hathaway
@@ -14,6 +14,8 @@ source_count: 33
 Berkshire Hathaway is tracked as a diversified value and insurance-market bellwether.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — BRK.B trades close to its 52-week high and remains a quality/value offset in the market table.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — BRK.B remains a quality/value support in the stock-watch table near its 52-week high.
 

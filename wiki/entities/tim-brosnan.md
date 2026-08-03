@@ -4,9 +4,9 @@ title: Tim Brosnan
 type: entity
 entity_type: person
 created: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [college-sports, big-east, executive, baseball]
-source_count: 4
+source_count: 5
 ---
 
 # Tim Brosnan
@@ -14,6 +14,8 @@ source_count: 4
 Former MLB executive tracked here through college-sports leadership coverage.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Former MLB executive is reported as the new Big East head.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Reported as the incoming Big East head, adding baseball-executive experience to conference governance.
 

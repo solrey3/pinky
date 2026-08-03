@@ -4,9 +4,9 @@ title: Ars Technica
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 17
+source_count: 18
 ---
 
 # Ars Technica
@@ -14,6 +14,8 @@ source_count: 17
 Technology and science publication tracked as a source for infrastructure, science, and AI-system stories.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Anthropic/Claude cybersecurity-eval and Waymo overnight-charging coverage in the tech desk.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Carries AI desk items on Anthropic cyber-eval incidents and Reddit/Google AI Overviews economics.
 

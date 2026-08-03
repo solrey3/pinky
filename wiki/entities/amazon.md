@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 48
+source_count: 49
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 48
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Rises 17.00% near its 52-week high and anchors the S&P 500 profit-growth narrative.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — AMZN +17.00% and S&P 500 profit-growth coverage make Amazon the dominant upside market signal.
 

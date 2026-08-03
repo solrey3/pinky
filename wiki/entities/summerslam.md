@@ -4,9 +4,9 @@ title: SummerSlam
 type: entity
 entity_type: other
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [wrestling, wwe, ple, summerslam]
-source_count: 7
+source_count: 8
 ---
 
 # SummerSlam
@@ -14,6 +14,8 @@ source_count: 7
 SummerSlam is one of WWE's major premium live events, tracked here when daily wrestling coverage builds around match cards, go-home television, and related storyline continuity.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Night 2 features Roman Reigns retaining, Kevin Owens returning, Chelsea Green winning an interim title, and Chad Gable taking the Intercontinental Title.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Night Two is the evening wrestling spotlight with live/results coverage.
 

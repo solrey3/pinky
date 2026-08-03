@@ -4,9 +4,9 @@ title: CNBC
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [media, business, markets]
-source_count: 8
+source_count: 9
 ---
 
 # CNBC
@@ -14,6 +14,8 @@ source_count: 8
 Business and financial news network used for markets, companies, and public-health business coverage.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Frames airfare pressure from fuel and documents Leopold Aschenbrenner’s AI hedge-fund drawdown.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Frames airfare pressure from fuel and the Aschenbrenner AI hedge-fund collapse.
 

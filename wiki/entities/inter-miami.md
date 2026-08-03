@@ -4,9 +4,9 @@ title: Inter Miami
 type: entity
 entity_type: organization
 created: 2026-07-20
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [soccer, mls, miami, lionel-messi, sports]
-source_count: 22
+source_count: 23
 ---
 
 # Inter Miami
@@ -14,6 +14,8 @@ source_count: 22
 Inter Miami is tracked as Messi-adjacent MLS club coverage.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Transfer rumor coverage says the club is not pursuing Juan Fernando Quintero.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Inter Miami draws Columbus and is reported not to be pursuing Juan Fernando Quintero.
 

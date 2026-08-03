@@ -3,9 +3,9 @@ id: 9b9b1ee9-3add-4423-a95f-aa1588421b62
 title: Housing Policy
 type: concept
 created: 2026-07-12
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [housing, affordability, mortgages, public-policy, congress, rates]
-source_count: 9
+source_count: 10
 ---
 
 # Housing Policy
@@ -13,6 +13,8 @@ source_count: 9
 Housing policy covers public interventions around housing supply, affordability, finance, zoning, subsidies, and mortgage-market pressure.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — HOA foreclosure scrutiny and a 6.78% mortgage quote tie ownership risk to housing affordability and governance.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Rhode Island takings item connects anti-NIMBY land-use politics to housing-supply and constitutional limits.
 

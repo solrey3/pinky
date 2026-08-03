@@ -4,9 +4,9 @@ title: VNQ
 type: entity
 entity_type: product
 created: 2026-07-20
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [etf, real-estate, reit, markets, vanguard]
-source_count: 4
+source_count: 5
 ---
 
 # VNQ
@@ -14,6 +14,8 @@ source_count: 4
 VNQ is tracked as a real-estate/REIT ETF proxy in newsletter market tables.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 1.85%, showing real-estate pressure against a stronger broad-index tape.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — VNQ weakness keeps real estate and rate sensitivity visible in the green-but-not-clean market read.
 

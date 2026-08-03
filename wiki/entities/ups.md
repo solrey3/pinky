@@ -4,9 +4,9 @@ title: UPS
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [logistics, shipping, transportation, markets, cold-chain]
-source_count: 42
+source_count: 43
 ---
 
 # UPS
@@ -14,6 +14,8 @@ source_count: 42
 UPS is tracked as a logistics and economic-activity bellwether.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Drops 9.21%, keeping logistics weakness in the split-tape story.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — UPS -9.21% remains a logistics/economic weak point in the mixed market tape.
 

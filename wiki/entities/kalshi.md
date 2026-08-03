@@ -4,9 +4,9 @@ title: Kalshi
 type: entity
 entity_type: organization
 created: 2026-07-13
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [prediction-markets, regulated-markets, forecasting, elections]
-source_count: 50
+source_count: 51
 ---
 
 # Kalshi
@@ -14,6 +14,8 @@ source_count: 50
 Kalshi is a regulated prediction-market venue tracked here when event-contract pricing or election-betting stories enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Remains unavailable in this dispatch, preserving prediction-market feed gaps as part of the provenance record.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Kalshi remains unavailable in the prediction-market section, preserving the extraction-gap note.
 

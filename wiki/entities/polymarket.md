@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 46
+source_count: 47
 ---
 
 # Polymarket
@@ -14,6 +14,8 @@ source_count: 46
 Polymarket is a prediction-market platform tracked here when market-implied political or event probabilities enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Trending topics include the September Fed decision, Pegula/Eala, and best AI model by year-end 2026.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Prediction-market section surfaces Fed-decision, AI-model, and tennis markets without fetched prices.
 

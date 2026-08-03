@@ -4,9 +4,9 @@ title: Chad Gable
 type: entity
 entity_type: person
 created: 2026-06-05
-updated: 2026-07-20
+updated: 2026-08-03
 tags: [wrestling, wwe, smackdown, raw, chad-gable, el-grande-americano, lucha-libre, king-of-the-ring, redemption-arc, person]
-source_count: 6
+source_count: 7
 ---
 
 # Chad Gable
@@ -36,6 +36,8 @@ This is the kind of WWE long-form storytelling that works when executed correctl
 The June 14 and June 15 dispatches keep Gable in the active weekly WWE feed by advertising **Chad Gable vs. Rusev** for Monday's Raw. That moves him from comeback segment into ordinary match-booking continuity.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Defeats Penta to win the Intercontinental Title at SummerSlam.
 
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Chad Gable returns to WWE** on SmackDown Bologna. Unmasked as El Grande Americano. Monster pop from the Italian crowd. Apologized to Rey Fenix for mocking lucha libre. War Raiders appeared. Redemption arc begins. "That was the night."
 - [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Chad Gable is listed for Monday's WWE Raw against Rusev.

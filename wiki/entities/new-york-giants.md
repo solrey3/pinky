@@ -4,9 +4,9 @@ title: New York Giants
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [football, nfl, new-york-giants, schedule]
-source_count: 19
+source_count: 20
 ---
 
 # New York Giants
@@ -14,6 +14,8 @@ source_count: 19
 The New York Giants are an NFL franchise tracked for local-team scheduling, roster, and injury-adjacent continuity.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Team report lists upcoming games against the Cowboys and Rams.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Giants team report lists Cowboys and Rams as the next schedule markers.
 

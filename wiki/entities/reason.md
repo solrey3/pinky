@@ -4,9 +4,9 @@ title: Reason
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [media, libertarian, policy, economics, tariffs]
-source_count: 30
+source_count: 31
 ---
 
 # Reason
@@ -14,6 +14,8 @@ source_count: 30
 Reason is a libertarian media outlet that appears in the newsletter when policy or political-economy commentary enters the headline stack.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Highlights the doctor-visa carveout and keeps immigration restrictions linked to health-care labor supply.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Continues the Rhode Island anti-NIMBY eminent-domain/property-rights ruling coverage.
 

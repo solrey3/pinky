@@ -3,9 +3,9 @@ id: f2c930d9-dd36-4267-9089-00d502fb2898
 title: mRNA Vaccine Safety
 type: concept
 created: 2026-07-01
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication]
-source_count: 3
+source_count: 4
 ---
 
 # mRNA Vaccine Safety
@@ -13,6 +13,8 @@ source_count: 3
 mRNA vaccine safety is the evidence and risk-communication problem around vaccines that use messenger RNA platforms. It includes population-scale adverse-event monitoring, benefit-risk comparison, efficacy durability, and public interpretation of large safety reviews.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Autism/vaccine-investigation politics reopens vaccine-safety claims as a governance and evidence-quality issue.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The RFK Jr. vaccine-investigation item keeps vaccine-safety evidence and public-health trust in the graph.
 

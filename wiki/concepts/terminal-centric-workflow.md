@@ -3,9 +3,9 @@ id: "019e1b12-d1a0-7ea0-ff01-aa7f7a8b9c40"
 title: "Terminal-Centric Workflow"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [cli, terminal, workflow, productivity, linux, tools]
-source_count: 13
+source_count: 14
 ---
 
 # Terminal-Centric Workflow
@@ -13,6 +13,8 @@ source_count: 13
 A computing paradigm where the terminal (command-line interface) serves as the primary environment for development, system administration, file management, and daily operations. This workflow favors keyboard-driven, composable, scriptable tools over graphical interfaces, enabling reproducibility, remote operation, and efficiency.
 
 ## Sources
+
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Kakehashi and the tool-trust essay reinforce developer environments as practical trust and workflow infrastructure.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The tooling-trust item reinforces the idea that familiar tools encode operational memory and confidence.
 
