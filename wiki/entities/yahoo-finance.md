@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-08-03
 tags: [media, finance, markets, business, energy]
-source_count: 7
+source_count: 8
 ---
 
 # Yahoo Finance
@@ -15,6 +15,7 @@ Financial-news and market-data outlet. In the newsletter graph, Yahoo Finance ap
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Frames higher futures around eased Iran risk and oil/yield relief.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Microsoft AI-cybersecurity upside and Cathie Wood’s renewed Tesla/SpaceX conviction as market-narrative inputs.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Carries weak-yen coordination and BYD overseas-demand coverage in the business feed.

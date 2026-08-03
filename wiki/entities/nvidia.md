@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-08-03
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 101
+source_count: 102
 ---
 
 # Nvidia
@@ -15,6 +15,7 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Nvidia weakness keeps AI-chip internals mixed despite Nasdaq strength.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 2.94%, preserving AI-chip pressure in a nominally risk-on tape.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Nvidia weakness remains part of the semiconductors stress pocket beneath the broad-index rally.

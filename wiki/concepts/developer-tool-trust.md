@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-03
 updated: 2026-08-03
 tags: [developer-tools, trust, software-engineering, workflow, provenance]
-source_count: 1
+source_count: 2
 ---
 
 # Developer Tool Trust
@@ -14,6 +14,7 @@ Developer tool trust is the accumulated confidence that a tool will preserve int
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Qwen3.8-Max, human-in-the-loop warnings, and DEF CON hardware security all frame tools as trust-bearing mediation layers.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Stack Overflow’s tooling essay frames developer attachment as trust encoded into tools, while Qwen3.8-Max and Kakehashi show capability and compatibility competing for that trust.
 
 ## Related Concepts

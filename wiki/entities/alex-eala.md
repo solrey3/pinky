@@ -4,9 +4,9 @@ title: Alex Eala
 type: entity
 entity_type: person
 created: 2026-07-18
-updated: 2026-07-30
+updated: 2026-08-03
 tags: [tennis, philippines, wta, sports, filipino]
-source_count: 2
+source_count: 3
 ---
 
 # Alex Eala
@@ -15,6 +15,7 @@ Alex Eala is a Filipino tennis player. In the newsletter graph, she matters as a
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in Polymarket trending context through Pegula vs. Eala.
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — ESPN coverage frames Eala as inspiring Filipino devotion comparable to major national sports icons, making her a sports-culture and tennis-development signal.
 
 - [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Beats defending champion Leylah Fernandez to reach the Mubadala DC Open quarterfinals, extending her Philippines tennis-development thread.

@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-31
 updated: 2026-08-03
 tags: [immigration, border-policy, enforcement, airports, migration]
-source_count: 3
+source_count: 4
 ---
 
 # Immigration Enforcement Escalation
@@ -14,6 +14,7 @@ Immigration enforcement escalation is the expansion of migration control from bo
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — The doctor-visa carveout shows how broad immigration freezes create operational exceptions when health-care staffing is threatened.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — The doctor-visa carveout shows broad immigration restrictions producing labor-market exceptions in health care.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Doctor visa-freeze carve-outs show how broad immigration restrictions create sector-specific labor exceptions.

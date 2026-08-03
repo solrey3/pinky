@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-08-03
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 18
+source_count: 19
 ---
 
 # Ars Technica
@@ -15,6 +15,7 @@ Technology and science publication tracked as a source for infrastructure, scien
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries the Anthropic/Claude, Reddit/Google AI Overviews, and DEF CON tech items in the AI desk.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Anthropic/Claude cybersecurity-eval and Waymo overnight-charging coverage in the tech desk.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Carries AI desk items on Anthropic cyber-eval incidents and Reddit/Google AI Overviews economics.

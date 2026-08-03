@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-08-03
 updated: 2026-08-03
 tags: [ai, llm, coding-model, qwen, developer-tools]
-source_count: 1
+source_count: 2
 ---
 
 # Qwen3.8-Max
@@ -15,6 +15,7 @@ Qwen model release framed in the dispatch as a new bar for coding and cowork. Tr
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Returns as the top Hacker News coding/cowork model story in the morning dispatch.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Launches as the AI desk’s top Hacker News coding/cowork model story.
 
 ## Related

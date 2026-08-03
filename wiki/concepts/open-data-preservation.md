@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-03
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 8
+source_count: 9
 ---
 
 # Open Data Preservation
@@ -14,6 +14,7 @@ Preserving public information by making data open, replicable, and reusable beyo
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Unavailable WSJ, Kalshi, Wawa, and team-news feeds make source gaps explicit rather than silently dropping them.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Unavailable WSJ/Kalshi fields and linked box scores/leaderboards preserve feed gaps as first-class provenance facts.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Unavailable WSJ, Kalshi, Wawa, and schedule-parse fields underline why provenance and missing-data markers matter.

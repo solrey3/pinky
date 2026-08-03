@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-08-03
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 24
+source_count: 25
 ---
 
 # NewsNation
@@ -15,6 +15,7 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries Washington wildfire evacuations and HOA foreclosure scrutiny.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Washington wildfire evacuations, Idaho shooting follow-up, and HOA foreclosure scrutiny.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Carries the Idaho shooting, Washington wildfire, water-supply cyberattack, and Iran-strike-restraint headlines.

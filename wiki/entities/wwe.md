@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-03
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 94
+source_count: 95
 ---
 
 # WWE
@@ -15,6 +15,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — SummerSlam Night 2 dominates the wrestling section and TV/PLE schedule.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — SummerSlam Night 2 results and Raw/SmackDown schedule continuity anchor the wrestling desk.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results and Raw/SmackDown/NXT schedule continuity anchor the wrestling section.

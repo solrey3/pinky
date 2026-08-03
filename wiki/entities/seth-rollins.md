@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-03
 tags: [person, wrestling, wwe, king-of-the-ring]
-source_count: 13
+source_count: 14
 ---
 
 # Seth Rollins
@@ -34,6 +34,7 @@ source_count: 13
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Loses to Roman Reigns in the SummerSlam Night 2 main event coverage.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Loses to Roman Reigns in the SummerSlam Night 2 main event.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results advertise Seth Rollins vs. Roman Reigns as a card anchor.

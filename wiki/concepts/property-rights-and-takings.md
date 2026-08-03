@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-17
 updated: 2026-08-03
 tags: [law, property-rights, eminent-domain, takings, supreme-court, infrastructure]
-source_count: 11
+source_count: 12
 ---
 
 # Property Rights and Takings
@@ -14,6 +14,7 @@ Property rights and takings doctrine covers when government or state-authorized 
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Rhode Island eminent-domain limits and HOA foreclosure scrutiny connect public takings doctrine with private property-enforcement pressure.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — HOA foreclosure fights shift property-rights pressure from public eminent domain to private association enforcement.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Rhode Island anti-NIMBY eminent-domain ruling remains a constitutional boundary case for local land-use power.

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-05
 updated: 2026-08-03
 tags: [wrestling, wwe, smackdown, raw, chad-gable, el-grande-americano, lucha-libre, king-of-the-ring, redemption-arc, person]
-source_count: 7
+source_count: 8
 ---
 
 # Chad Gable
@@ -37,6 +37,7 @@ The June 14 and June 15 dispatches keep Gable in the active weekly WWE feed by a
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Wins the Intercontinental Title over Penta in the SummerSlam headline stack.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Defeats Penta to win the Intercontinental Title at SummerSlam.
 
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Chad Gable returns to WWE** on SmackDown Bologna. Unmasked as El Grande Americano. Monster pop from the Italian crowd. Apologized to Rey Fenix for mocking lucha libre. War Raiders appeared. Redemption arc begins. "That was the night."

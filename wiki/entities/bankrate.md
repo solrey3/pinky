@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-02
 updated: 2026-08-03
 tags: [finance, mortgages, rates, media]
-source_count: 2
+source_count: 3
 ---
 
 # Bankrate
@@ -15,6 +15,7 @@ Bankrate is a personal-finance publisher and rate aggregator tracked here for mo
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Provides the 30-year fixed mortgage quote used in the rates ledger.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Supplies the 30-year fixed mortgage quote at 6.78%.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Supplies the 30-year fixed mortgage quote of 6.78% in the evening market ledger.

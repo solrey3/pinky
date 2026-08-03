@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-03
 tags: [person, wrestling]
-source_count: 8
+source_count: 9
 ---
 
 # Kyle Fletcher
@@ -34,6 +34,7 @@ source_count: 8
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in the Meltzer 5-star table via the Bandido match.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed in a 5-star AEW Redemption match against Bandido.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — His AEW Redemption match with Bandido remains in the Meltzer 5-star ledger.

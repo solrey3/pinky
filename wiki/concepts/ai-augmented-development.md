@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-08-03
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography, developer-tools, typescript, postgresql]
-source_count: 85
+source_count: 86
 ---
 
 # AI-Augmented Development
@@ -14,6 +14,7 @@ The practice of integrating large language models and AI coding agents into the 
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Qwen3.8-Max and the “meat proxy” essay frame AI coding as workflow design rather than raw model capability alone.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Qwen3.8-Max, Kakehashi, and developer-tool trust coverage extend coding-agent and systems-tool capability tracking.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Kakehashi and tooling-trust items keep developer tooling, compatibility layers, and coding culture in the AI/dev workflow graph.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-08-03
 tags: [soccer, football, arsenal, premier-league, ucl, london, organization, sports]
-source_count: 22
+source_count: 23
 ---
 
 # Arsenal FC
@@ -30,6 +30,7 @@ London-based Premier League club, founded 1886. One of England's most storied fo
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Team report surfaces Arteta/Vinícius Jr. transfer-rumor coverage.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Team report carries Kai Havertz trophy-ambition coverage.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Arsenal team report includes Kai Havertz ambition-for-all-trophies coverage.

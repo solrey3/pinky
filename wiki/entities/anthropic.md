@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-08-03
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 50
+source_count: 51
 ---
 
 # Anthropic
@@ -51,6 +51,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Claude cyber-eval incidents involving real companies remain the AI authorization-boundary story.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Claude cyber-eval incidents involving malicious code and real companies remain the AI authorization-boundary story.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Claude cyber-eval incidents involving malicious code and real companies remain the AI authorization-boundary story.

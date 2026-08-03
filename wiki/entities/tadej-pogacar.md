@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-08-03
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 42
+source_count: 43
 ---
 
 # Tadej Pogacar
@@ -15,6 +15,7 @@ Tadej Pogacar is a professional cyclist tracked when Tour de France general-clas
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Cycling section tracks his Tour de France general-classification lead and Vuelta return plan.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed atop the Tour de France GC top five.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Leads the fetched Tour de France GC top five.

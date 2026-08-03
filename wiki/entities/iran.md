@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-08-03
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 64
+source_count: 65
 ---
 
 # Iran
@@ -15,6 +15,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Diplomacy and called-off strike context lowers oil/geopolitical risk in the morning tape.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Iran negotiations and oil volatility remain connected geopolitical and market inputs.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Iran file remains live because strike plans are paused rather than resolved.

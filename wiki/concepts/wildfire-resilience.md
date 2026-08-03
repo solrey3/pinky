@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-26
 updated: 2026-08-03
 tags: [wildfires, infrastructure, climate, emergency-management, land-management, resilience]
-source_count: 4
+source_count: 5
 ---
 
 # Wildfire Resilience
@@ -14,6 +14,7 @@ Wildfire resilience is the ability of communities, land-management systems, and 
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Washington wildfire evacuations keep emergency response, climate exposure, and public-safety capacity in the daily risk ledger.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Washington wildfire evacuations affecting tens of thousands extend the climate/emergency-management risk ledger.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Washington wildfire evacuation item links land use, climate/fire risk, and emergency-management capacity.

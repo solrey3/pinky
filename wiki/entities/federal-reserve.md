@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-03
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 100
+source_count: 101
 ---
 
 # Federal Reserve
@@ -15,6 +15,7 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — EFFR, target range, Treasury rates, mortgages, and FX keep policy transmission in the market ledger.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — EFFR at 3.63% inside a 3.50%–3.75% target range keeps policy transmission visible beside long-rate and mortgage pressure.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — EFFR and target-range data anchor the rate backdrop for Treasury, mortgage, FX, and risk-asset readings.

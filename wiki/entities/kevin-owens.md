@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-03
 tags: [person, wrestling]
-source_count: 4
+source_count: 5
 ---
 
 # Kevin Owens
@@ -34,6 +34,7 @@ source_count: 4
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Shock return puts him back in the Undisputed title picture.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Returns at SummerSlam Night 2 and earns an Undisputed title shot.
 
 - [2026-05-27: Raw notes](../../raw/people/kevin-owens.md)

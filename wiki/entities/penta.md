@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-08
 updated: 2026-08-03
 tags: [person, wrestling, wwe, lucha-libre, intercontinental-title]
-source_count: 5
+source_count: 6
 ---
 
 # Penta
@@ -15,6 +15,7 @@ Mexican professional wrestler associated with lucha libre style and masked prese
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Drops the Intercontinental Title match to Chad Gable at SummerSlam.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Loses the Intercontinental Title match to Chad Gable at SummerSlam.
 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Defeated Rey Mysterio and retained the WWE Men's Intercontinental Title on Raw.

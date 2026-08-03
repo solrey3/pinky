@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-08
 updated: 2026-08-03
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 17
+source_count: 18
 ---
 
 # AI Evaluation Integrity
@@ -14,6 +14,7 @@ AI evaluation integrity is the practice of making AI assessments, benchmarks, an
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — The dispatch repeats that evals can affect real companies, so benchmark scope, consent, and disclosure are part of eval quality.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Cybersecurity evals are only trustworthy if their targets, consent, logging, and success criteria are explicit.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Claude incidents make evaluation design a live safety issue when tests can affect outside systems.

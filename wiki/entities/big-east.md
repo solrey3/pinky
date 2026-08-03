@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-02
 updated: 2026-08-03
 tags: [college-sports, ncaab, conference, leadership]
-source_count: 5
+source_count: 6
 ---
 
 # Big East
@@ -15,6 +15,7 @@ U.S. college athletic conference tracked in the sports/newsletter graph.
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Conference leadership changes with Tim Brosnan named as incoming head.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Names Tim Brosnan as conference head, adding sports-business governance continuity.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The conference appears through Tim Brosnan becoming its new leader.

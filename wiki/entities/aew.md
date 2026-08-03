@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-03
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 96
+source_count: 97
 ---
 
 # AEW
@@ -15,6 +15,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Calendar and Meltzer-rated match references keep AEW in the weekly wrestling ledger.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Appears in schedule continuity and Meltzer-rated match references.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — AEW appears through Thunder Rosa crossover gold, All In London graphics, and Meltzer-rated match continuity.

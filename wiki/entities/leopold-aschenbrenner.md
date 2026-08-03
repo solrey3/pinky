@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-01
 updated: 2026-08-03
 tags: [ai, investing, hedge-fund, private-markets, risk]
-source_count: 8
+source_count: 9
 ---
 
 # Leopold Aschenbrenner
@@ -15,6 +15,7 @@ Leopold Aschenbrenner is tracked here through AI-capital-market coverage, especi
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — The AI hedge-fund blowup is used as a cautionary example of volatile AI-capital exposure.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — CNBC’s AI hedge-fund story turns AI conviction and leverage into a risk-management cautionary tale.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — His AI hedge-fund fire-sale story remains the cautionary AI-capital-volatility case.

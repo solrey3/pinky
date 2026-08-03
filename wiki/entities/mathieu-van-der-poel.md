@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-13
 updated: 2026-08-03
 tags: [cycling, tour-de-france, stage-winner, sports]
-source_count: 12
+source_count: 13
 ---
 
 # Mathieu van der Poel
@@ -15,6 +15,7 @@ Mathieu van der Poel is a cyclist tracked here when Tour de France stage results
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Listed as Stage 21 winner while Pogacar leads general classification.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed as the Tour de France Stage 21 winner in the cycling section.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Wins the fetched Tour de France Stage 21 in Paris.

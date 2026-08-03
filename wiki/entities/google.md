@@ -4,9 +4,9 @@ title: Google
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store]
-source_count: 42
+source_count: 43
 ---
 
 # Google
@@ -15,6 +15,7 @@ American technology company and AI lab/operator behind Search, Android, Google C
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — AI Overviews remain a search-traffic and platform-power issue through Reddit’s complaint.
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — AI Overviews are challenged by Reddit as investor-relevant search substitution pressure.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — AI Overviews remain a publisher/platform-distribution pressure point through Reddit criticism.

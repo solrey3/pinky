@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-25
 updated: 2026-08-03
 tags: [wrestling, aew, san-diego-comic-con]
-source_count: 5
+source_count: 6
 ---
 
 # Bandido
@@ -15,6 +15,7 @@ Professional wrestler mentioned in AEW coverage.
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in the Meltzer 5-star table via the Kyle Fletcher match.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed in a 5-star AEW Redemption match against Kyle Fletcher.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — His AEW Redemption match with Kyle Fletcher remains in the Meltzer 5-star ledger.

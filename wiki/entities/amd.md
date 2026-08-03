@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-08-03
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware]
-source_count: 99
+source_count: 100
 ---
 
 # AMD
@@ -15,6 +15,7 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 
 ## Sources
 
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Large negative chip move keeps semiconductors as a stress point beneath the green indexes.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 8.77%, keeping semiconductor weakness visible under the green index surface.
 
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — AMD -8.77% remains one of the main chip/high-beta weak points beneath the green index surface.
