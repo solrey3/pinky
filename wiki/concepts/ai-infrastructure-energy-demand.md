@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-08-02
+updated: 2026-08-04
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality]
-source_count: 17
+source_count: 18
 ---
 
 # AI Infrastructure Energy Demand
@@ -14,6 +14,7 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Data-center access to the Texas grid adds another concrete instance of AI/data infrastructure stressing electricity planning.
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Databricks pre-IPO access and AI hedge-fund volatility extend the capital-allocation layer behind AI infrastructure expansion, even without a new power-grid datapoint.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Google’s off-balance-sheet AI-chip push connects infrastructure growth to financing opacity, capacity constraints, and the hidden cost of compute buildout.

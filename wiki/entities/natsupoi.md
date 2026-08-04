@@ -4,9 +4,9 @@ title: Natsupoi
 type: entity
 entity_type: person
 created: 2026-07-25
-updated: 2026-07-30
+updated: 2026-08-04
 tags: [wrestling, stardom, joshi]
-source_count: 5
+source_count: 6
 ---
 
 # Natsupoi
@@ -15,6 +15,7 @@ Joshi professional wrestler tracked through Stardom match-rating items.
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Her Stardom match with Syuri remains in the Meltzer 5-star-plus table.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Natsupoi appears through the five-star Stardom match with Syuri.
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Her July 18 Stardom 5 Star Grand Prix match with Syuri is listed at 5 stars.
 

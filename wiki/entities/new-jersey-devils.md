@@ -4,9 +4,9 @@ title: New Jersey Devils
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [nhl, hockey, new-jersey, devils, sports, free-agency]
-source_count: 69
+source_count: 70
 ---
 
 # New Jersey Devils
@@ -15,6 +15,7 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Team report links Devils prospect profiles and a forward signing release.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Next two games list Flyers at Devils and Devils at Islanders, with Trenten Bennett prospect coverage in the team report.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Team report lists preseason/upcoming games and prospect/signing news.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Team report lists preseason dates and prospect/signing news.

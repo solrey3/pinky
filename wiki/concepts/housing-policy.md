@@ -3,9 +3,9 @@ id: 9b9b1ee9-3add-4423-a95f-aa1588421b62
 title: Housing Policy
 type: concept
 created: 2026-07-12
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [housing, affordability, mortgages, public-policy, congress, rates]
-source_count: 12
+source_count: 13
 ---
 
 # Housing Policy
@@ -14,6 +14,7 @@ Housing policy covers public interventions around housing supply, affordability,
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Reason’s YIMBY-libertarian convergence item frames supply-side housing reform as cross-ideological deregulatory politics.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — A 6.78% mortgage quote and HOA foreclosure fights connect affordability pressure with owner-governance risk.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — HOA foreclosure fights and mortgage-rate pressure put housing affordability, ownership security, and local governance in the same frame.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — HOA foreclosure scrutiny and a 6.78% mortgage quote tie ownership risk to housing affordability and governance.

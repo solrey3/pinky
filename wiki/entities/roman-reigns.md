@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-04
 tags: [person, wrestling, bloodline]
-source_count: 16
+source_count: 17
 ---
 
 # Roman Reigns
@@ -34,6 +34,7 @@ source_count: 16
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears in AAA/WWE crossover chatter after a Raw segment with Rey Mysterio.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Appears in Raw fallout coverage with LA Knight and the post-SummerSlam news cycle.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Retains the World Heavyweight Title over Seth Rollins in the main event coverage.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Defeats Seth Rollins to retain the World Heavyweight Title in the SummerSlam Night 2 main event.

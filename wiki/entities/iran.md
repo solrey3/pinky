@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-06-20
 updated: 2026-08-04
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 69
+source_count: 70
 ---
 
 # Iran
@@ -15,6 +15,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Hormuz cargo-ship and talks coverage keeps Iran tied to shipping risk, missile capacity, and oil-market interpretation.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Peace-talk claims around reopening the Strait of Hormuz keep Iran as both a diplomacy and energy-market risk item.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Peace-talk and Strait of Hormuz reopening claims keep Iran as both geopolitical and oil-market context.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Trump says Iran peace talks could reopen the Strait of Hormuz by Tuesday, keeping diplomacy, shipping risk, and falling WTI prices connected.

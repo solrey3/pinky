@@ -4,9 +4,9 @@ title: Rey Mysterio Jr.
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-28
+updated: 2026-08-04
 tags: [person, wrestling, aaa, lucha-libre]
-source_count: 6
+source_count: 7
 ---
 
 # Rey Mysterio Jr.
@@ -39,6 +39,7 @@ source_count: 6
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears as the WWE Raw segment counterpart in Roman Reigns/AAA chatter.
 - [2026-05-27: Raw notes](../../raw/people/rey-mysterio.md)
 - [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — AAA headline: Noche de los Grandes Night 2 results; Lince Dorado earns title opportunity and Rey Mysterio sets Mega Championship defense.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Challenged Penta for the WWE Men's Intercontinental Title on Raw; Penta retained.

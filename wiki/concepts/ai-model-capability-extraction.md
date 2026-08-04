@@ -3,9 +3,9 @@ id: 35f3a760-677d-4dc3-9016-5f611d87e165
 title: AI Model Capability Extraction
 type: concept
 created: 2026-06-25
-updated: 2026-07-18
+updated: 2026-08-04
 tags: [ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance]
-source_count: 6
+source_count: 7
 ---
 
 # AI Model Capability Extraction
@@ -14,6 +14,7 @@ AI model capability extraction is the attempt to copy, distill, infer, or reprod
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Qwen running on Mac/iPhone-class memory budgets keeps capability extraction tied to local deployment footprint.
 - [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic's allegation that Alibaba illicitly extracted Claude capabilities makes capability extraction a distinct AI-security and platform-governance issue.
 
 - [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The same Anthropic/Alibaba allegation remains in the evening AI desk, confirming capability extraction as a durable watch item rather than a one-off link.

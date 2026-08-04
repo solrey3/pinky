@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-11
 updated: 2026-08-04
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 34
+source_count: 35
 ---
 
 # OpenAI
@@ -19,6 +19,7 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Responds to Apple's trade-secret lawsuit as aggressive and personal, extending the AI provenance/legal-boundary thread.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Its mathematics/theoretical-computer-science advances draw Hacker News attention, adding capability-side evidence beside AI trust failures.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Republican attorneys general urge OpenAI to preserve records related to the Hugging Face breach, adding legal hold/provenance pressure to the eval-security incident.
 - [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — OpenAI attributes an anti-data-center campaign in the U.S. to likely Chinese influence operators, tying AI infrastructure to information warfare and local political conflict.

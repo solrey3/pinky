@@ -4,9 +4,9 @@ title: AAA
 type: entity
 entity_type: organization
 created: 2026-06-19
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [wrestling, lucha-libre, mexico, promotion, aaa, fox, perros-del-mal]
-source_count: 77
+source_count: 78
 ---
 
 # AAA
@@ -15,6 +15,7 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AAA appears in the wrestling schedule and Roman Reigns/Rey Mysterio crossover chatter.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — AAA event verification remains in the wrestling calendar.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Promotion schedule is preserved in the wrestling calendar section.
 

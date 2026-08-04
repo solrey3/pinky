@@ -4,9 +4,9 @@ title: Tour de France
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-08-02
+updated: 2026-08-04
 tags: [cycling, sports, tour-de-france]
-source_count: 8
+source_count: 9
 ---
 
 # Tour de France
@@ -15,6 +15,7 @@ Premier annual road cycling race and recurring sports scoreboard entity.
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Keeps the Tour de France classification ledger with Van der Poel stage result and Pogacar GC lead.
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Stage 21 and GC standings are recorded, with Mathieu van der Poel winning in Paris and Tadej Pogacar atop GC.
 
 - [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Stage 21 and GC summary are carried forward in the cycling section.
