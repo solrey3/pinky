@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-04
 updated: 2026-08-04
 tags: [wrestling, wwe, raw]
-source_count: 1
+source_count: 2
 ---
 
 # Becky Lynch
@@ -15,6 +15,7 @@ Becky Lynch is a WWE wrestler tracked for roster, television, and championship-s
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Her Raw return is repeated as part of the post-SummerSlam WWE headline stack.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Returns on WWE Raw alongside Stephanie Vaquer, making her part of the post-SummerSlam television reset.
 
 ## Related

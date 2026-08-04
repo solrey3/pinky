@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-08-04
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware]
-source_count: 101
+source_count: 102
 ---
 
 # AMD
@@ -15,6 +15,7 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — AMD falls 2.08%, the main semiconductor weak spot beneath the Nasdaq-led rally.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Falls 2.08% even as indexes surge, preserving semiconductor/high-beta unevenness inside the risk-on tape.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Large negative chip move keeps semiconductors as a stress point beneath the green indexes.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 8.77%, keeping semiconductor weakness visible under the green index surface.

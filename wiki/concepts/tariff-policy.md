@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-24
 updated: 2026-08-04
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 15
+source_count: 16
 ---
 
 # Tariff Policy
@@ -14,6 +14,7 @@ Tariff policy is the use of import duties to pursue revenue, industrial policy, 
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Democratic-led states and Oregon-led coverage challenge Trump's Section 301 tariffs, keeping executive trade power in litigation.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Democratic-led states, led by Oregon in one legal account, challenge Trump Section 301 tariffs, moving tariff authority into litigation.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Democratic-led states joining litigation against Trump’s new tariffs moves the tariff thread from policy rhetoric into state-led legal challenge.
 - [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Amazon tariff refunds move tariff policy from headline conflict into firm/customer pass-through mechanics.

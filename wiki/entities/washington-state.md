@@ -4,9 +4,9 @@ title: Washington State
 type: entity
 entity_type: place
 created: 2026-08-02
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [washington, wildfires, emergency-management, united-states]
-source_count: 5
+source_count: 6
 ---
 
 # Washington State
@@ -15,6 +15,7 @@ Washington State is tracked when Pacific Northwest climate, wildfire, emergency-
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Wildfires force mass evacuations and an arson arrest, making Washington the dispatch's emergency-management focal point.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — NewsNation repeats the 60,000-resident wildfire evacuation, keeping fire-season response capacity in the noon ledger.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Wildfire evacuations keep emergency capacity and land-risk exposure active.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Wildfire evacuations affecting roughly 60,000 residents keep Western fire risk in the public-safety ledger.

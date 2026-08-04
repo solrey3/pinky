@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-04
 tags: [logistics, shipping, transportation, markets, cold-chain]
-source_count: 45
+source_count: 46
 ---
 
 # UPS
@@ -15,6 +15,7 @@ UPS is tracked as a logistics and economic-activity bellwether.
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — UPS drops 5.38%, keeping logistics weakness visible inside an otherwise hot stock board.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Drops 5.38%, keeping logistics weakness as a non-confirming pocket under the green index tape.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Logistics weakness remains one of the major negative single-stock signals.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Drops 9.21%, keeping logistics weakness in the split-tape story.

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-08-04
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs]
-source_count: 62
+source_count: 63
 ---
 
 # Donald Trump
@@ -15,6 +15,7 @@ U.S. political figure and Republican Party leader. In the newsletter graph, Trum
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Appears through Section 301 tariff litigation and claims that Iran peace talks could reopen the Strait of Hormuz.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Appears in tariff litigation, Jack Smith/Senate oversight, and Iran/Hormuz diplomacy, tying presidential authority to multiple institutional checks.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Democratic-led states sue over Trump tariffs while Trump says Iran peace talks could reopen the Strait of Hormuz, keeping tariffs and de-escalation claims in the same authority thread.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Reason frames Trump as backing down from another Iran threat, reinforcing the de-escalation/credibility thread.

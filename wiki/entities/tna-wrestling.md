@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-04
 tags: [wrestling, promotion, tna, impact-wrestling, workforce-reduction, ovw, partnership, results, roster, contracts, obituary]
-source_count: 83
+source_count: 84
 ---
 
 # TNA Wrestling
@@ -15,6 +15,7 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — TNA appears through its upcoming iMPACT! schedule and Jody Threat/Mara Sadè departure news.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Announces the departures of Jody Threat and Mara Sadè.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — TNA appears through iMPACT! schedule continuity and reporting that Jody Threat was granted her release.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — TNA iMPACT! schedule and The Righteous/AJ Francis item appear in the wrestling ledger.

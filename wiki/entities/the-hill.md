@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-22
 updated: 2026-08-04
 tags: [media, politics, congress, policy, washington, news]
-source_count: 27
+source_count: 28
 ---
 
 # The Hill
@@ -15,6 +15,7 @@ The Hill is a U.S. political-news outlet tracked in the newsletter graph when co
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Provides the Senate stopgap-funding and Democratic-led tariff-lawsuit headlines that frame procedural authority in politics.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Provides the Senate stopgap-funding headline, Jack Smith/Senate Judiciary testimony item, and tariff-litigation coverage.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries the Senate funding-deal and Trump/Iran diplomacy headlines.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Senate funding-deal, Trump/Iran negotiation, and RFK Jr. vaccine-investigation politics in the headline stack.

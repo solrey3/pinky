@@ -3,9 +3,9 @@ id: e8d3ba1e-d6e6-4ea5-849e-ab4ac404efa0
 title: AI Labor Displacement
 type: concept
 created: 2026-08-01
-updated: 2026-08-02
+updated: 2026-08-04
 tags: [ai, labor, jobs, automation, customer-service, economics]
-source_count: 3
+source_count: 4
 ---
 
 # AI Labor Displacement
@@ -14,6 +14,7 @@ AI labor displacement is the risk and process by which AI systems substitute for
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — MarketWatch frames AI displacement as increasing and hitting young workers hardest, moving the concept from customer service into broader workplace economics.
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Customer service remains the early public test of AI automation pressure on jobs and service quality.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Customer service remains the early public test of AI automation pressure on jobs.

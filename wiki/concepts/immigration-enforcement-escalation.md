@@ -3,9 +3,9 @@ id: c28e9041-cbb6-4a28-9ef4-a0923c0a0a5a
 title: Immigration Enforcement Escalation
 type: concept
 created: 2026-07-31
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [immigration, border-policy, enforcement, airports, migration]
-source_count: 4
+source_count: 5
 ---
 
 # Immigration Enforcement Escalation
@@ -14,6 +14,7 @@ Immigration enforcement escalation is the expansion of migration control from bo
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The second Delaney Hall death turns immigration detention into an oversight and custody-accountability story.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — The doctor-visa carveout shows how broad immigration freezes create operational exceptions when health-care staffing is threatened.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — The doctor-visa carveout shows broad immigration restrictions producing labor-market exceptions in health care.
 

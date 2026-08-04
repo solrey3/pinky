@@ -4,9 +4,9 @@ title: FAA
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [government, aviation, transportation, leadership]
-source_count: 3
+source_count: 4
 ---
 
 # FAA
@@ -15,6 +15,7 @@ The Federal Aviation Administration, the U.S. aviation regulator. In the newslet
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Clears the smallest Boeing 737 Max to fly after years of certification delays.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Clears the smallest Boeing 737 Max to fly after years of delays, making certification timing the aviation-regulatory point.
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Makes the Trump Tower no-fly zone permanent, turning aviation security restrictions into a standing boundary.
 

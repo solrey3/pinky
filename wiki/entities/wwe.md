@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-04
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 97
+source_count: 98
 ---
 
 # WWE
@@ -15,6 +15,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Raw fallout, NXT lineup, and Big Cass's return keep WWE as the lead wrestling-promotion item.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Raw coverage logs Becky Lynch and Stephanie Vaquer returns plus Big Cass coming back as a monster heel.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — WWE appears through Raw/SmackDown schedule continuity, Brie Bella’s injury, and a $105 million share of a proposed merger-lawsuit settlement.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — SummerSlam Night 2 dominates the wrestling section and TV/PLE schedule.

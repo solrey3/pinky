@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-08-04
 updated: 2026-08-04
 tags: [newark, immigration, detention, oversight]
-source_count: 1
+source_count: 2
 ---
 
 # Delaney Hall
@@ -15,6 +15,7 @@ Delaney Hall is a Newark detention facility tracked here for immigration-enforce
 
 ## Sources
 
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — A second reported death prompts mayoral and lawmaker demands for answers, extending detention-center oversight provenance into the daytime dispatch.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — A second reported death prompts mayoral and lawmaker demands for answers, making detention oversight the key provenance issue.
 
 ## Related
