@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-04
 updated: 2026-08-04
 tags: [restaurants, food-safety, public-health, salmonella]
-source_count: 0
+source_count: 1
 ---
 
 # Chipotle
@@ -15,7 +15,8 @@ Chipotle is a fast-casual restaurant chain appearing here through food-safety an
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Chipotle pulls jalapeños from some locations after a salmonella investigation, making food-safety provenance operationally visible.
 
 ## Related
 
-- [[Noon Dispatch — Tuesday, August 4, 2026]]
+- [[Foodborne Outbreaks]]

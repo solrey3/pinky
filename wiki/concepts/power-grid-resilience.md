@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-01
 updated: 2026-08-04
 tags: [energy, infrastructure, power-grid, resilience, heat-wave, emergency-orders, climate]
-source_count: 9
+source_count: 10
 ---
 
 # Power Grid Resilience
@@ -14,6 +14,7 @@ Power grid resilience is the ability of electrical systems to maintain or restor
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Texas data-center connection limits show grid planning becoming the bottleneck for AI/compute expansion.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Greg Abbott/Texas data-center construction limits make grid hookup capacity a constraint on AI-infrastructure growth.
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Department of Energy emergency orders for the Mid-Atlantic grid during extreme heat make weather, demand, generation, and emergency authority part of the same infrastructure story.
 

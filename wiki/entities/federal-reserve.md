@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-04
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 105
+source_count: 106
 ---
 
 # Federal Reserve
@@ -15,6 +15,7 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — EFFR holds at 3.63% inside the 3.50%–3.75% target range while Treasury, mortgage, and forex tables frame the risk-on close.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — EFFR holds at 3.63% with a 3.50%–3.75% target range, anchoring rates and market context.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range while elevated Treasuries and mortgages constrain the risk-on tape.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while long Treasury and mortgage rates stay elevated.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-04
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 55
+source_count: 56
 ---
 
 # Amazon
@@ -15,6 +15,7 @@ Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — AMZN closes up 20.17%, one of the defining single-stock signals in the Nasdaq-led risk-on board.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AMZN jumps 20.17% and also appears indirectly in the r/netsec Amazon-router hardware-hacking item.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — AMZN again jumps 22.75% near its 52-week high, the defining single-stock driver of the morning risk-on read.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — AMZN holds the dominant single-stock signal at +22.75% near its 52-week high, anchoring the overnight risk-on read.

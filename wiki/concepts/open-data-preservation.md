@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-04
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 14
+source_count: 15
 ---
 
 # Open Data Preservation
@@ -14,6 +14,7 @@ Preserving public information by making data open, replicable, and reusable beyo
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Prediction-market, Kalshi, sports/team API, and feed gaps are explicitly logged, preserving absence/provenance instead of fabricating data.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Kalshi, sports, team, and feed unavailability are explicitly logged rather than silently omitted.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — WSJ, Kalshi, Wawa, and Polymarket odds gaps are retained explicitly instead of being smoothed away.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — The dispatch explicitly preserves unavailable Kalshi and Wawa data, treating feed gaps as evidence rather than silently filling them.

@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-04
 updated: 2026-08-04
 tags: [cycling, womens-cycling, tour-de-france, sports]
-source_count: 1
+source_count: 2
 ---
 
 # Tour de France Femmes
@@ -15,6 +15,7 @@ Tour de France Femmes is tracked as the women’s Tour cycling race and a recurr
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Marlen Reusser wins the Dijon stage 4 time trial and takes the yellow jersey.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Marlen Reusser takes the yellow jersey after the Dijon stage 4 time trial.
 ## Related
 

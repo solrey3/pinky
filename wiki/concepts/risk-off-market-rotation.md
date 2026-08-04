@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-08-04
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 125
+source_count: 126
 ---
 
 # Risk-Off Market Rotation
@@ -14,6 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — A clearly risk-on close still has non-uniform internals: WTI drops 10.11%, VNQ falls, and dividend exposure lags.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Used as the contrast case: indexes and high beta are strongly risk-on, but WTI, VNQ, SCHD, and Costco show the rally is not uniform.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The dispatch is risk-on rather than risk-off, but elevated long rates, VNQ weakness, UPS weakness, WTI softness, and AMD red ink keep rotation risk visible.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — The dispatch is risk-on rather than risk-off, but high long rates, mortgage costs, VNQ weakness, UPS weakness, and AMD softness show why rotation risk still matters.

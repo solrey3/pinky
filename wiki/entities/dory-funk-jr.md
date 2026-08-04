@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-04
 updated: 2026-08-04
 tags: [wrestling, nwa, legacy, death]
-source_count: 1
+source_count: 2
 ---
 
 # Dory Funk Jr.
@@ -15,6 +15,7 @@ Dory Funk Jr. was a professional-wrestling legend whose death is reported in the
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Dory Funk Jr.’s death at 85 leads wrestling headlines and cross-promotion tributes.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Dory Funk Jr. was a professional-wrestling legend whose death is reported in the squared-circle digest.
 
 ## Related

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-08-04
 tags: [person, wrestling]
-source_count: 8
+source_count: 9
 ---
 
 # Brock Lesnar (The Beast Incarnate)
@@ -34,6 +34,7 @@ source_count: 8
 
 ## Sources
 
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Lesnar says he is retired, with wrestling outlets continuing to track whether the claim sticks.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — POST Wrestling and Cageside carry Lesnar saying he is retired after SummerSlam.
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Lesnar calling Oba Femi the future of WWE keeps the post-SummerSlam torch-talk thread alive.
 
