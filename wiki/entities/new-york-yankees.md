@@ -15,7 +15,7 @@ Major League Baseball team tracked for local sports watchlist continuity.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Scoreboard records a 13–7 loss to the Cardinals.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Lose 13–7 to the St. Louis Cardinals in the MLB scoreboard.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Yankees beat the Cubs 2–1 and list the Cardinals next, keeping the local MLB scoreboard/schedule thread current.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Yankees appear in MLB results and upcoming Cardinals matchup.
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The Yankees’ 2–0 win at Wrigley keeps the team in the daily MLB scoreboard layer.

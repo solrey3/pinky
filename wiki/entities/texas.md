@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-16
 updated: 2026-08-04
 tags: [texas, weather, flooding, disaster-response, united-states]
-source_count: 3
+source_count: 2
 ---
 
 # Texas
@@ -15,7 +15,6 @@ Texas is tracked as a recurring U.S. state node for weather, energy, border, dis
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Data-center interconnection requirements make Texas a grid-access and AI-infrastructure governance node.
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
 
 - [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Texas flooding causes deaths, evacuations, and rescues, turning the state page into an active disaster-response watch item.

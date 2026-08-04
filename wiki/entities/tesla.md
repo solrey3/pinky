@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-22
 updated: 2026-08-04
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta]
-source_count: 68
+source_count: 69
 ---
 
 # Tesla
@@ -15,6 +15,7 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — TSLA gains 6.17%, while the tech desk flags scrutiny of Tesla's China wholesale-sales engine.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — TSLA gains 4.16%, contributing high-beta support to the risk-on stock-watch table.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Trades near the low end of its 52-week range while Cathie Wood doubles down on Tesla and SpaceX.
 

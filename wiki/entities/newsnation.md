@@ -15,7 +15,7 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Supplies the long-range missile stockpile and Strait of Hormuz cargo-ship risk items.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Reports records showing rescued Ohio children attended school for two years before the child-rescue case surfaced.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Carries the Delaney Hall death, Washington wildfire evacuation, and Iran/Hormuz diplomacy items in the top-stories stack.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Provides the Delaney Hall death scrutiny, Iran/Hormuz diplomacy, and Michigan cyclosporiasis death headlines.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries Washington wildfire evacuations and HOA foreclosure scrutiny.

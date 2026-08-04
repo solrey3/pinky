@@ -15,7 +15,7 @@ WWE's NXT brand, functioning as both a televised wrestling product and a develop
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NXT TV is listed for Aug. 4 with CW/Peacock verification links.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NXT TV is listed for August 4 with WWE events as the verification source.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — NXT TV remains on the weekly calendar via The CW/Peacock verification path.
 - [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — NXT results noted Tavion Heights earning a North American title shot and Nattie defeating Jaida Parker.
 - [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — NXT results lead the wrestling digest through the Naraku/Tony D'Angelo fireball item and The Culling breakup.

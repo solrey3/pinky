@@ -15,7 +15,7 @@ Technology and science publication tracked as a source for infrastructure, scien
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Repeats the AI-proctored exam retake failure and carries the Apple/OpenAI dispute frame.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Carries Tesla China-sales scrutiny and Google Pixel 11 HiLight feature coverage.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Reports the 58,000-student AI-proctored exam failure and links to autonomous-drone targeting coverage.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Reports that an AI-supervised remote exam failed badly enough to require 58,000 students to retake it.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries the Anthropic/Claude, Reddit/Google AI Overviews, and DEF CON tech items in the AI desk.

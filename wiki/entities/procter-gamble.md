@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-04
 updated: 2026-08-04
 tags: [consumer-products, business, acquisitions, health, supplements]
-source_count: 1
+source_count: 0
 ---
 
 # Procter & Gamble
@@ -14,8 +14,6 @@ source_count: 1
 Procter & Gamble is a consumer-products company tracked here when major acquisitions enter the business-news ledger.
 
 ## Sources
-
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Agrees to acquire supplements brand Thorne for $3.8 billion.
 
 ## Related
 

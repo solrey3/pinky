@@ -4,7 +4,7 @@ title: Kyle Fletcher
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [person, wrestling]
 source_count: 9
 ---
@@ -34,6 +34,7 @@ source_count: 9
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His AEW Redemption match with Bandido is listed as a five-star match.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in the Meltzer 5-star table via the Bandido match.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed in a 5-star AEW Redemption match against Bandido.
 
@@ -55,4 +56,3 @@ source_count: 9
 - [[Will Ospreay]] — closest rival; singles series defined his elevation
 - [[Konosuke Takeshita]] — Don Callis Family peer; shared matches at AEW Dynamite level
 - [[NJPW]] — dual affiliation via NJPW STRONG Championship
-

@@ -15,7 +15,7 @@ Reason is a libertarian media outlet that appears in the newsletter when policy 
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Carries the YIMBY-libertarian convergence item in the housing-policy lane.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Frames the YIMBY-libertarian convergence as a pro-building housing-policy alliance.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Tracks Oregon-led Section 301 tariff litigation, adding a legal-policy angle to the morning tariff story.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Tracks the Oregon-led multi-state legal challenge to Trump Section 301 tariffs.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries doctor-visa carveout and Rhode Island eminent-domain/property-rights items.

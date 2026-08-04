@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-08-04
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift]
-source_count: 18
+source_count: 17
 ---
 
 # Apple
@@ -15,7 +15,6 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Its trade-secret suit against OpenAI remains a live AI legal/provenance dispute.
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Siri/Apple Intelligence was a Hacker News item, and MacRumors reported Apple revealing an AI architecture built around Google Gemini models.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Gemini-backed architecture story persisted into the morning feed alongside macOS Golden Gate/Gemini Siri coverage.
 - [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — macOS 27 beta reportedly breaks Asahi Linux boot support, showing how Apple platform updates can disrupt alternate OS workflows on Apple Silicon.

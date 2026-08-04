@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-08-04
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 34
+source_count: 33
 ---
 
 # Open-Weights AI
@@ -14,7 +14,6 @@ AI models whose trained weights are released for outside use, inspection, adapta
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — The Qwen-on-device demo extends open/local model practice into very constrained consumer hardware.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Cloudflare’s Kimi/GLM scale item reinforces the open/smaller-model lane as an infrastructure and safety alternative to only scaling closed frontier systems.
 - [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — GLM-5.2 is described as the leading open-weights model on the Artificial Analysis intelligence index, extending the open-model benchmark race.
 

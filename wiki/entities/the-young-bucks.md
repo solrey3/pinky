@@ -4,9 +4,9 @@ title: The Young Bucks
 type: entity
 entity_type: organization
 created: 2026-08-01
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [wrestling, aew, tag-team, meltzer]
-source_count: 6
+source_count: 7
 ---
 
 # The Young Bucks
@@ -15,6 +15,7 @@ Professional wrestling tag team; in this source, their AEW Redemption match with
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Their match against Death Riders at AEW Redemption remains listed as a July 26, 2026 five-star match.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appear in the Meltzer 5-star table for the July 26 AEW Redemption match.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed in a 5-star AEW Redemption match against Death Riders.
 

@@ -15,7 +15,7 @@ The central bank of the United States. In the newsletter graph, the Fed is track
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — EFFR at 3.63%, target range 3.50–3.75%, Treasury rates, mortgages, and Fed-guidance commentary frame the tape.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — EFFR is 3.63% against a 3.50%–3.75% target range, keeping monetary policy in the market backdrop.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range while elevated Treasuries and mortgages constrain the risk-on tape.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while long Treasury and mortgage rates stay elevated.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while the 30-year Treasury and mortgage quote keep policy transmission visible.

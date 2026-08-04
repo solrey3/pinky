@@ -15,7 +15,7 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — TNA iMPACT schedule and Knockouts roster movement appear in the wrestling digest.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — iMPACT is listed for August 6 and a Mustafa Ali/Jason Hotch match is reported to have received internal praise.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — TNA appears through its upcoming iMPACT! schedule and Jody Threat/Mara Sadè departure news.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Announces the departures of Jody Threat and Mara Sadè.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — TNA appears through iMPACT! schedule continuity and reporting that Jody Threat was granted her release.

@@ -4,7 +4,7 @@ title: Kenny Omega
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-30
+updated: 2026-08-04
 tags: [person, wrestling, aew, njpw, forbidden-door]
 source_count: 36
 ---
@@ -35,6 +35,7 @@ source_count: 36
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His Dynamite Beach Break match with MJF remains listed at 5.5 stars.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Kenny Omega appears through the MJF match in the Meltzer 5-star-plus table.
 - [2026-05-27: Raw notes](../../raw/people/kenny-omega.md)
 - [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Forbidden Door build sets Kenny Omega vs. Zack Sabre Jr.
@@ -99,5 +100,3 @@ source_count: 36
 - [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Appears as Will Ospreay’s named AEW tension point in Dynamite fallout.
 
 ## Related
-
-

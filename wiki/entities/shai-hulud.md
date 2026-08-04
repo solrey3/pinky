@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-04
 updated: 2026-08-04
 tags: [cybersecurity, software-supply-chain, npm, malware, incident]
-source_count: 1
+source_count: 0
 ---
 
 # Shai-Hulud
@@ -14,8 +14,6 @@ source_count: 1
 Shai-Hulud is tracked as a named software-supply-chain attack affecting npm packages.
 
 ## Sources
-
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Names the active supply-chain attack compromising Keyv and related npm packages.
 
 ## Related
 

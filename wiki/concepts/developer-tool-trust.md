@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-03
 updated: 2026-08-04
 tags: [developer-tools, trust, software-engineering, workflow, provenance]
-source_count: 7
+source_count: 6
 ---
 
 # Developer Tool Trust
@@ -14,7 +14,6 @@ Developer tool trust is the accumulated confidence that a tool will preserve int
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — The Keyv/Shai-Hulud npm compromise shows developer trust depends on package provenance, maintainership, and incident response.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The open-source-devtools manifesto keeps inspectability, maintainability, and provenance at the center of developer workflow trust.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Hacker News highlights “Devtools must be open source,” reinforcing inspectability and repairability as trust requirements.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — The “devtools must be open source” item repeats the claim that developer trust depends on inspectability, governance, and repairability, not only feature velocity.

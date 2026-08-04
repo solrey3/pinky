@@ -15,7 +15,7 @@ TSM is the market ticker commonly used here for Taiwan Semiconductor Manufacturi
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — TSM gains 6.61%, keeping foundry exposure aligned with the semiconductor rally.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — TSM rises 6.87% alongside Nvidia and AMD in the chip-led rally.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — TSM rises 1.76%, adding foundry strength to the semiconductor side of the risk-on tape.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Gains 1.76%, adding semiconductor participation to the overnight risk-on board.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — TSM is steadier than AMD/Nvidia and remains part of the semiconductor watch list.

@@ -16,7 +16,6 @@ The Philadelphia Phillies are tracked in the wiki through MLB scoreboard entries
 ## Sources
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Beat the Washington Nationals 6–3 in the MLB scoreboard.
-
 ## Related
 
 - [[New York Yankees]]

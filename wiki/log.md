@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-04] ingest-update | Noon Dispatch — Tuesday, August 4, 2026
+- Source: `pinky/raw/newsletters/2026-08-04-noon-dispatch.md`
+- Summary: Refreshed the August 4 noon dispatch ingest from the current raw newsletter: sunny Toms River and rainy Makati frame a Nasdaq-led risk-on lunch tape (S&P 500 +4.28%, Dow +2.71%, Nasdaq +7.00%, Russell +2.83%) with Amazon +20.43%, AMD +15.96%, Nvidia +7.87%, TSM +6.87%, Tesla +6.17%, Bitcoin +2.42%, WTI -9.47%, EFFR 3.63%, 30-year Treasury 5.196%, mortgage 6.80%, Gaza return-after-hostage-breakthrough, grid-capacity pressure, YIMBY-libertarian housing politics, Chipotle salmonella tracing, Tesla China scrutiny, Winona Flock camera theft, rare-earth supply-chain independence, Tour de France Femmes movement, MLB results, NJ Devils links, and WWE/AEW/TNA/NJPW/CMLL wrestling provenance.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-04-noon.md` (updated), 80 entity pages, 10 concept pages including new `pinky/wiki/concepts/rare-earth-supply-chains.md`, `pinky/wiki/index.md`, `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Corrected a prior stale summary for this same raw path and cleared stale source references from pages created or touched by that mismatch.
+
 ## [2026-08-04] ingest | Noon Dispatch — Tuesday, August 4, 2026
 - Source: `pinky/raw/newsletters/2026-08-04-noon-dispatch.md`
 - Summary: August 4 noon dispatch — sunny Toms River and rainy Makati frame a stronger risk-on lunch tape: S&P 500 +4.12%, Dow +2.70%, Nasdaq +6.67%, Russell +2.71%, EFFR 3.63%, 30-year Treasury 5.192%, mortgage 6.80%, Amazon +20.73%, AMD +15.58%, Nvidia +7.21%, TSM +6.61%, Palantir nearly +30%, Bitcoin +1.97%, and WTI -8.97%. Top stories center on green-bank funding litigation, U.S. missile-stockpile strain, Hormuz cargo-ship risk, YIMBY-libertarian housing reform, Texas data-center grid-hookup rules, Keyv/Shai-Hulud npm supply-chain compromise, AI-proctored exam failure, Apple/OpenAI trade-secret litigation, Qwen local-inference demos, P&G buying Thorne, McDonald’s U.S. softness, Tour de France Femmes race movement, and WWE/AEW/TNA/NJPW/CMLL wrestling provenance.

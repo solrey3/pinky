@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-04
 updated: 2026-08-04
 tags: [cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools]
-source_count: 1
+source_count: 0
 ---
 
 # Software Supply Chain Security
@@ -13,8 +13,6 @@ source_count: 1
 Software supply chain security is the practice of protecting the packages, maintainers, registries, build steps, and dependency graphs that software systems rely on before code reaches production.
 
 ## Sources
-
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — The Keyv/Shai-Hulud npm compromise shows that routine JavaScript dependencies are operational trust boundaries, not neutral plumbing.
 
 ## Related Concepts
 

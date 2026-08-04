@@ -4,7 +4,7 @@ title: MJF
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-30
+updated: 2026-08-04
 tags: [person, wrestling]
 source_count: 38
 ---
@@ -36,6 +36,7 @@ He retained the AEW World Title vs. RUSH on June 3 Dynamite (No Count-Out match)
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His Dynamite Beach Break match with Kenny Omega remains listed at 5.5 stars.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — MJF vs. Kenny Omega remains in the Meltzer 5.5-star 2026 ratings table.
 - [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — MJF appears on tonight's AEW Dynamite/Collision in Philadelphia.
 - [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](../sources/newsletter-2026-05-28.md) — MJF's title celebration on Dynamite was crashed by RUSH, who formally accepted the AEW World Championship challenge. Defense vs. RUSH set for 6/3 Dynamite. Edge/Christian chaos also unfolded. Owen Hart Cup semifinals set: Ospreay vs. Davis and Swerve vs. Brody King.
@@ -104,4 +105,3 @@ He retained the AEW World Title vs. RUSH on June 3 Dynamite (No Count-Out match)
 - [[Darby Allin]] — MJF shaved Darby's head after regaining the title at Double or Nothing; now defending vs. RUSH
 - [[RUSH]] — accepted the AEW World Championship challenge on 5/27 Dynamite; match set for 6/3
 - [[CM Punk]] — MJF/Punk cage match at Double or Nothing 2022 is among the best matches of the decade
-

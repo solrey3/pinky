@@ -4,9 +4,9 @@ title: American Express
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [finance, credit-cards, consumer-credit, markets, financials]
-source_count: 39
+source_count: 40
 ---
 
 # American Express
@@ -15,6 +15,7 @@ American Express is tracked as a consumer-credit and financial-services market i
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AXP gains 3.22%, participating in the broad risk-on stock watch.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears as a positive stock-watch component during the green tape.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — AXP rises 3.09% as financials participate in the green surface tape.
 

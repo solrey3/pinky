@@ -15,7 +15,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AEW schedule, Continental Cup bracket news, and Meltzer-rated matches keep the promotion in the wrestling ledger.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Dynamite/Collision windows are listed and AEW Continental Cup participants and first-round matches are reported.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Continental Cup participants, rules, and first-round matches define AEW's dated tournament-provenance note.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Continental Cup rules, participants, and first-round matches are announced by Tony Khan and Tony Schiavone.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — AEW appears through Dynamite/Collision schedule continuity, Max Caster contract-status chatter, and Meltzer-rated Redemption matches.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-02
 updated: 2026-08-04
 tags: [technology, data-platforms, ai, surveillance, procurement, sovereignty]
-source_count: 4
+source_count: 3
 ---
 
 # Palantir
@@ -15,7 +15,6 @@ Palantir is a data analytics and AI/platform company frequently associated with 
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Jumps nearly 30% after an 'otherworldly' quarter as U.S. commercial AI demand booms.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Yahoo Finance frames Palantir as set for strong Q2 results and analyst upside amid AI-stock appetite.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — MarketWatch frames Palantir stock strength as AI-driven growth, shifting this node from procurement sovereignty into public-market AI-demand evidence.
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — A reported Spanish blacklist frames Palantir as a data/AI vendor whose public and private use can become a national procurement and sovereignty issue.

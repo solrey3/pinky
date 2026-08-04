@@ -4,9 +4,9 @@ title: VBR
 type: entity
 entity_type: product
 created: 2026-07-20
-updated: 2026-07-21
+updated: 2026-08-04
 tags: [etf, small-cap-value, markets, vanguard]
-source_count: 2
+source_count: 3
 ---
 
 # VBR
@@ -15,6 +15,7 @@ VBR is tracked as a small-cap value ETF proxy in newsletter market tables.
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — VBR rises 1.18% and trades near the top of its 52-week range.
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — VBR gains 0.16% and remains near its high side, a selective value-resilience signal.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — VBR gains 0.62%, keeping small-cap value on the positive side of the rotation.
