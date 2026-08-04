@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-04
 updated: 2026-08-04
 tags: [politics, republican-party, midterms]
-source_count: 1
+source_count: 0
 ---
 
 # Mike Pence
@@ -15,7 +15,6 @@ Mike Pence is a former U.S. vice president and Republican political figure.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Warns that the upcoming midterms are nationally important.
 
 ## Related
 

@@ -15,7 +15,7 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Polymarket US-Iran peace-talk market is fetched, while a YouTube feed item frames US-Iran developments as a global-order story.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears through WTI/Hormuz headlines and Polymarket U.S.-Iran peace-talk markets.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Peace-talk claims around reopening the Strait of Hormuz keep Iran as both a diplomacy and energy-market risk item.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Peace-talk and Strait of Hormuz reopening claims keep Iran as both geopolitical and oil-market context.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Trump says Iran peace talks could reopen the Strait of Hormuz by Tuesday, keeping diplomacy, shipping risk, and falling WTI prices connected.

@@ -14,7 +14,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — EFFR at 3.63%, the 3.50%–3.75% target range, Treasury rates, mortgage rates, gas, and forex tables supply the policy-transmission backdrop.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — EFFR at 3.63%, the Fed target range, Treasury yields, mortgage rates, gas prices, and forex tables anchor the market transmission backdrop.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — EFFR at 3.63%, the Fed target range, 30-year Treasury near its high, mortgage quotes, FX, and risk assets form the morning policy-transmission backdrop.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — EFFR, the Fed target range, 30-year Treasury, mortgage rate, FX, gas, and risk assets remain the policy-transmission backdrop for the rally.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — EFFR, target range, 30-year Treasury, 90-day bill, mortgage, FX, gas, and risk-asset tables keep policy transmission visible at the evening close.

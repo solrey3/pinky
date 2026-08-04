@@ -15,7 +15,7 @@ Remco Evenepoel is a professional cyclist tracked through Tour de France stage a
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Listed second on the latest fetched men's Tour GC, 6'26'' behind Tadej Pogacar.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Listed second in the Tour de France general classification.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed second in the Tour de France GC top five.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Appears second in the fetched Tour de France GC top five.

@@ -14,7 +14,7 @@ Housing policy covers public interventions around housing supply, affordability,
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Reason's YIMBY-libertarian convergence item and a New Jersey affordable-housing approval keep pro-building politics and local land-use reform active.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Jersey Digs item on an approved 60-unit affordable-housing project keeps New Jersey housing supply in the feed.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — A 6.78% mortgage quote and HOA foreclosure fights connect affordability pressure with owner-governance risk.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — HOA foreclosure fights and mortgage-rate pressure put housing affordability, ownership security, and local governance in the same frame.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — HOA foreclosure scrutiny and a 6.78% mortgage quote tie ownership risk to housing affordability and governance.

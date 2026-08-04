@@ -15,7 +15,7 @@ PayPal is tracked as a payments and fintech-market entity when it appears in sto
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — PYPL is essentially flat at -0.04%, not joining the major tech rally.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — PYPL is nearly flat positive in the stock-watch table.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears as a positive stock-watch item inside the uneven risk tape.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — PYPL rises 1.89%, another positive financial/fintech note in the stock watch.
 

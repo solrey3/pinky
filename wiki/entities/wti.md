@@ -15,7 +15,7 @@ West Texas Intermediate crude oil benchmark; in this source, WTI rises +5.07% as
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — WTI crude drops 9.47% to $75.67, the major non-confirming asset in a tech-led risk-on tape.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Falls 9.33% on hopes for a Strait of Hormuz reopening deal.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — WTI falls to $82.23, making oil a caution point even as Iran/Hormuz diplomacy remains a headline risk.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Drops 3.00% despite Hormuz diplomacy headlines, weakening the cross-asset confirmation for the risk-on move.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Drops 5.77%, undercutting the otherwise hot Nasdaq/S&P lunch tape.

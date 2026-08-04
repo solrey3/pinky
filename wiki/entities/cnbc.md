@@ -4,9 +4,9 @@ title: CNBC
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [media, business, markets]
-source_count: 10
+source_count: 11
 ---
 
 # CNBC
@@ -15,6 +15,7 @@ Business and financial news network used for markets, companies, and public-heal
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Carries analyst skepticism around reported AstraZeneca/Bristol Myers Squibb merger talks.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Provides airfare inflation and Aschenbrenner AI-fund cautionary business context.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Frames airfare pressure from fuel and documents Leopold Aschenbrenner’s AI hedge-fund drawdown.
 

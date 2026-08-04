@@ -48,7 +48,7 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NJPW is listed as calendar-based via NJPW World, and G1/Wrestle Kingdom Meltzer-rated matches remain in the record.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NJPW tour cards remain calendar-based, and NJPW matches appear in Meltzer-rating continuity.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — NJPW remains in the tour-calendar and Meltzer 5-star continuity ledger.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — G1 Climax 36 Night 10 coverage and Meltzer-rated match continuity keep NJPW in the wrestling ledger.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — G1 Climax 36 Night 11 results keep Gabe Kidd and Zack Sabre Jr. in the wrestling ledger.

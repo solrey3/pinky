@@ -15,7 +15,7 @@ Tour de France Femmes is tracked as the women’s Tour cycling race and a recurr
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Marlen Reusser wins the Dijon stage 4 time trial and takes yellow while Pauline Ferrand-Prévot loses GC ground.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Marlen Reusser takes the yellow jersey after the Dijon stage 4 time trial.
 ## Related
 
 - [[Tour de France]]

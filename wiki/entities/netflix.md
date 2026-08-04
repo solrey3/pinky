@@ -4,9 +4,9 @@ title: Netflix
 type: entity
 entity_type: organization
 created: 2026-06-26
-updated: 2026-08-02
+updated: 2026-08-04
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 49
+source_count: 50
 ---
 
 # Netflix
@@ -15,6 +15,7 @@ Streaming-media platform and subscription business. In the newsletter graph, Net
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NFLX gains 1.63% but remains well below the high end of its 52-week range.
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Netflix posts a modest gain but remains well below its 52-week high in the stock watch.
 
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Rises 6.21%, one of the stronger quality/consumer-tech offsets to semiconductor weakness.

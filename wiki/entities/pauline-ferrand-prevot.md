@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-04
 updated: 2026-08-04
 tags: [cycling, tour-de-france-femmes, sports]
-source_count: 1
+source_count: 0
 ---
 
 # Pauline Ferrand-Prévot
@@ -15,7 +15,6 @@ Pauline Ferrand-Prévot is a French cyclist tracked here through Tour de France 
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Defending champion suffers a major GC setback in the Dijon time trial.
 ## Related
 
 - [[Tour de France Femmes]]

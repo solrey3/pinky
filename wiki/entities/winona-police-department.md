@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-04
 updated: 2026-08-04
 tags: [law-enforcement, surveillance, minnesota, alpr]
-source_count: 1
+source_count: 0
 ---
 
 # Winona Police Department
@@ -15,7 +15,6 @@ The Winona Police Department appears here through local surveillance-camera infr
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — All of the department's Flock cameras were cut down and stolen in a coordinated theft report.
 
 ## Related
 

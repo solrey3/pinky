@@ -15,7 +15,7 @@ Bitcoin is the largest cryptocurrency and a recurring cross-asset risk-sentiment
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Bitcoin rises 2.42% to $64,336.55 while remaining well below its quoted 52-week high.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Rises 2.10% to $64,134.40 in the commodities/crypto table.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Bitcoin trades around $63.5K and is modestly positive, participating in the risk-on board without leading it.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Rises 1.47% near $63.7K, a modest crypto confirmation beside a much hotter equity tape.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Crypto risk stays soft even as equity indexes trade green.

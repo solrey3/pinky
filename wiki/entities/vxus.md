@@ -15,7 +15,7 @@ VXUS is tracked as an international-equity ETF proxy in newsletter market tables
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — VXUS gains 3.88%, adding international-equity participation to the rally.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — VXUS gains 3.84%, adding international-equity participation to the risk-on board.
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — VXUS falls 0.85%, showing international ETF softness alongside the broader red close.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — VXUS slips 0.25%, a mild international-equity negative.

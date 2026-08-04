@@ -15,7 +15,7 @@ SCHD is tracked as a dividend ETF proxy in newsletter market tables.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — SCHD slips 0.22%, a dividend/defensive non-confirmation inside the risk-on tape.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — SCHD is slightly negative, a defensive/dividend caveat inside the growth-led rally.
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — SCHD gains 0.58%, keeping dividend exposure resilient against the red-index close.
 
 - [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — SCHD rises 1.93%, keeping dividend exposure resilient against large-cap growth weakness.

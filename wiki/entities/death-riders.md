@@ -15,7 +15,7 @@ Death Riders appears here as an AEW tag/team unit in Meltzer-rated match records
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Their July 26 match against The Young Bucks at AEW Redemption is listed at five stars.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Their AEW Redemption match with The Young Bucks remains in the Meltzer 5-star ledger.
 
 ## Related
 

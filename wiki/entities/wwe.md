@@ -15,7 +15,7 @@ World Wrestling Entertainment, the largest U.S. professional wrestling company. 
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — TV schedule lists Raw/SmackDown, Brock Lesnar retirement is reported, and Royal Rumble is heading to Arizona in February 2027.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Schedule/provenance entry covers Raw, SmackDown, Royal Rumble 2027, and Brock Lesnar retirement headlines.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Raw fallout, NXT lineup, and Big Cass's return keep WWE as the lead wrestling-promotion item.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Raw coverage logs Becky Lynch and Stephanie Vaquer returns plus Big Cass coming back as a monster heel.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — WWE appears through Raw/SmackDown schedule continuity, Brie Bella’s injury, and a $105 million share of a proposed merger-lawsuit settlement.

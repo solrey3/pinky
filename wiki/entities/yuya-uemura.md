@@ -15,7 +15,7 @@ Yuya Uemura is a NJPW wrestler tracked when tournament results enter the wrestli
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His G1 Climax 36 Night 3 match with Zack Sabre Jr. is listed at five stars.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His NJPW G1 Climax match with Zack Sabre Jr. remains in the Meltzer 5-star ledger.
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — His G1 Climax match against Zack Sabre Jr. remains in Meltzer 5-star continuity.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Yuya Uemura remains in the Meltzer table for a G1 Climax 36 match against Zack Sabre Jr.

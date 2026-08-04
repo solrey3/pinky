@@ -15,7 +15,7 @@ The Wall Street Journal is a news organization used here as a source for geopoli
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Reports Palestinians streaming back to northern Gaza on foot after a hostage-release breakthrough.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Leads the top-story section with Palestinians returning to northern Gaza after a hostage-release breakthrough.
 
 ## Related
 

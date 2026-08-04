@@ -15,7 +15,7 @@ Costco is tracked as a defensive/consumer-staples retail bellwether.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — COST falls 2.11%, a consumer/defensive non-confirmation inside the hot index tape.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — COST falls 1.94%, a consumer/quality-stock caveat inside the green board.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears as a positive quality/consumer stock-watch item.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — COST rises 1.80%, adding consumer-staples/quality support to the market snapshot.
 

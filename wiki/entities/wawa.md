@@ -15,7 +15,7 @@ Wawa is a convenience-store and gas-station chain tracked here for local New Jer
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Toms River Wawa #0937 regular gas is quoted at $4.13.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears as the local Toms River gas-price location, though station-level data is unavailable.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in the gas/local-price section with location-specific data unavailable.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Provides the local Toms River gas-price check in the mortgage-and-gas section.
 

@@ -3,9 +3,9 @@ id: 43dc4507-bb58-441c-a3a2-2381bc974e0e
 title: Critical Infrastructure Cybersecurity
 type: concept
 created: 2026-07-30
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector]
-source_count: 7
+source_count: 8
 ---
 
 # Critical Infrastructure Cybersecurity
@@ -14,6 +14,7 @@ Critical infrastructure cybersecurity is the protection of systems whose failure
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — r/netsec item on a pre-auth stack buffer overflow in an Amazon router keeps hardware/network-device vulnerability provenance active.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Seven-state reporting of water-system cyberattacks to the FBI keeps utilities in the national public-safety and federal-investigation frame.
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Water-supply cyberattack coverage extends utility cybersecurity into another daily public-safety cycle.
 

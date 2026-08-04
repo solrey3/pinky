@@ -15,7 +15,7 @@ New Jersey is a recurring local and regional context for the newsletter.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Feed items include New Jersey suing Amazon over driver pay/conditions and an approved affordable-housing project in Voorhees.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears through NJ gas prices and a Jersey Digs affordable-housing item in Voorhees/Forked River context.
 
 ## Related
 

@@ -3,9 +3,9 @@ id: 2204778d-397d-4559-9166-48d1028d64b5
 title: Measles Resurgence
 type: concept
 created: 2026-07-23
-updated: 2026-07-23
+updated: 2026-08-04
 tags: [public-health, measles, vaccines, surveillance, outbreak-risk]
-source_count: 1
+source_count: 2
 ---
 
 # Measles Resurgence
@@ -14,6 +14,7 @@ Measles resurgence is the return of elevated measles case counts after periods o
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — The Hill reports research estimating the 2025 measles outbreak cost nearly $5.4M to contain.
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The dispatch carries a headline that measles cases have reached a 35-year high, putting vaccine-preventable disease back on the daily-risk board.
 
 ## Related Concepts

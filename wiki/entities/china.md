@@ -15,7 +15,7 @@ China is tracked as a geopolitical, economic, and public-opinion actor in source
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Tesla's China business is described as a cash cow under fresh scrutiny.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears in Tesla China-sales scrutiny and Forbes' luxury-market reset item.
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Pew reports that people in many countries now view China more positively than the United States, making China a soft-power and legitimacy benchmark.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The AI desk surfaces an argument that China’s open-weights AI strategy is winning against locked-down U.S. AI.

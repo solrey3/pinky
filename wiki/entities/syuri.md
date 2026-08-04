@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-25
 updated: 2026-08-04
 tags: [wrestling, stardom, joshi]
-source_count: 6
+source_count: 5
 ---
 
 # Syuri
@@ -15,7 +15,6 @@ Joshi professional wrestler tracked through Stardom match-rating items.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Her Stardom 5 Star Grand Prix Night 1 match with Natsupoi is listed at five stars.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Syuri vs. Natsupoi remains a July 2026 Stardom five-star match in the ratings table.
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Her July 18 Stardom 5 Star Grand Prix match with Natsupoi is listed at 5 stars.
 

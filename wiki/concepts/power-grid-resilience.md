@@ -14,7 +14,7 @@ Power grid resilience is the ability of electrical systems to maintain or restor
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — CS Monitor electricity-demand coverage and Texas data-center grid-hookup chatter make load growth and interconnection capacity the infrastructure stress point.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Greg Abbott/Texas data-center construction limits make grid hookup capacity a constraint on AI-infrastructure growth.
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Department of Energy emergency orders for the Mid-Atlantic grid during extreme heat make weather, demand, generation, and emergency authority part of the same infrastructure story.
 
 - [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google's AI-driven electricity-use increase adds structural data-center load growth to the grid-resilience thread alongside heat-wave emergency stress.

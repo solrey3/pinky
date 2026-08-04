@@ -15,7 +15,7 @@ Marlen Reusser is a Swiss cyclist tracked here through Tour de France Femmes rac
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Wins the Dijon stage 4 time trial and moves into the yellow jersey.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Wins the Tour de France Femmes Dijon time trial and moves into yellow.
 ## Related
 
 - [[Tour de France Femmes]]

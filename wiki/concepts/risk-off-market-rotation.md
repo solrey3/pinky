@@ -14,7 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — This source is the contrast case: a strongly risk-on board led by Nasdaq, Amazon, AMD, Nvidia, TSM, and Tesla, with WTI and VNQ as non-confirming pockets.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Used as the contrast case: indexes and high beta are strongly risk-on, but WTI, VNQ, SCHD, and Costco show the rally is not uniform.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The dispatch is risk-on rather than risk-off, but elevated long rates, VNQ weakness, UPS weakness, WTI softness, and AMD red ink keep rotation risk visible.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — The dispatch is risk-on rather than risk-off, but high long rates, mortgage costs, VNQ weakness, UPS weakness, and AMD softness show why rotation risk still matters.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — The evening close turns hotter risk-on — S&P +2.53%, Nasdaq +3.94%, Amazon +22.75% — while oil, Bitcoin, UPS, VNQ, AMD, long rates, and mortgages keep cross-asset confirmation uneven.

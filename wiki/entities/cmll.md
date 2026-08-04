@@ -15,7 +15,7 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Arena México dates are listed for August 4, 7, and 9 with Sábados de Coliseo on August 8.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Arena México and Sábados de Coliseo cards remain in the wrestling schedule table.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — CMLL remains in the Arena México schedule/results ledger via Lunes Clásico coverage.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Arena México and Sábados de Coliseo schedule windows appear in the wrestling calendar.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — CMLL schedule continuity is joined by a card-change note: Bandido vs. Bárbaro Cavernario is no longer listed as a title match.

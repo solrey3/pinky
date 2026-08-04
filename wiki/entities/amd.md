@@ -15,7 +15,7 @@ Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerato
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AMD rises 15.96%, one of the noon tape's major tech-led moves.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AMD rises 14.07%, one of the major risk-on stock-watch movers.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — AMD falls 2.08%, the main semiconductor weak spot beneath the Nasdaq-led rally.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Falls 2.08% even as indexes surge, preserving semiconductor/high-beta unevenness inside the risk-on tape.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Large negative chip move keeps semiconductors as a stress point beneath the green indexes.

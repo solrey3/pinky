@@ -15,7 +15,7 @@ Ralph Lauren is tracked as a consumer-discretionary and apparel-market indicator
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — RL gains 0.34% in the stock watch.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — RL is little changed positive in the stock-watch table.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in stock watch as part of the broader consumer/equity ledger.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — RL rises 1.81%, one of the consumer-discretionary positives in the stock watch.
 

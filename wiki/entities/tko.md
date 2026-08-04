@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-03
 updated: 2026-08-04
 tags: [wrestling, sports-business, wwe, ufc, tko, revenue, governance]
-source_count: 1
+source_count: 2
 ---
 
 # TKO
@@ -15,6 +15,7 @@ TKO Group Holdings is the sports-entertainment company that owns WWE and UFC. In
 
 ## Sources
 
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Royal Rumble 2027 in Arizona is framed as part of a multi-year WWE/TKO partnership.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Raises full-year guidance as Q2 revenue reaches $1.55 billion, while WWE's merger-lawsuit settlement share keeps TKO tied to both business momentum and legal overhang.
 
 ## Related

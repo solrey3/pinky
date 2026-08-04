@@ -15,7 +15,7 @@ The Hill is a U.S. political-news outlet tracked in the newsletter graph when co
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Carries Mike Pence warning that the upcoming midterms could not be more important.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Reports research estimating the 2025 measles outbreak cost almost $5.4M to contain.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Provides the Senate stopgap-funding and Democratic-led tariff-lawsuit headlines that frame procedural authority in politics.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Provides the Senate stopgap-funding headline, Jack Smith/Senate Judiciary testimony item, and tariff-litigation coverage.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries the Senate funding-deal and Trump/Iran diplomacy headlines.

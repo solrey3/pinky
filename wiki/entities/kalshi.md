@@ -15,7 +15,7 @@ Kalshi is a regulated prediction-market venue tracked here when event-contract p
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Kalshi data is explicitly unavailable in the dispatch, preserving the feed gap.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Marked unavailable in the prediction-market section, preserving a feed gap.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Kalshi remains unavailable in the fetched extract, making prediction-market missingness part of the daily record.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Remains unavailable in the prediction-market section, preserving feed reliability as part of the evidence record.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Kalshi remains unavailable in the prediction-market section, preserving the extraction gap as part of the record.

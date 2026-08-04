@@ -14,7 +14,7 @@ AI infrastructure energy demand is the load-growth created by training, inferenc
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Texas data-center power requirements and broader electricity-demand reporting connect AI/compute growth to grid planning and utility capacity.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Texas data-center freeze coverage ties AI/data-center expansion directly to power-grid capacity and permitting limits.
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Databricks pre-IPO access and AI hedge-fund volatility extend the capital-allocation layer behind AI infrastructure expansion, even without a new power-grid datapoint.
 
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Google’s off-balance-sheet AI-chip push connects infrastructure growth to financing opacity, capacity constraints, and the hidden cost of compute buildout.

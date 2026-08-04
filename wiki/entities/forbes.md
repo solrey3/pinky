@@ -15,7 +15,7 @@ Forbes is a business-media outlet appearing in market and industrial-policy feed
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Covers a heavy rare-earth metals plant as a U.S. supply-chain-independence boost.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Analyzes China's stabilizing luxury market and changing consumer psychology.
 
 ## Related
 

@@ -15,7 +15,7 @@ Lucha Libre AAA Worldwide, a Mexican professional wrestling promotion. In the ne
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AAA events are listed as variable and requiring official-feed verification.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AAA remains in the upcoming wrestling schedule table with cards varying.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — AAA event verification remains in the wrestling calendar.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Promotion schedule is preserved in the wrestling calendar section.
 

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-08-04
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 7
+source_count: 6
 ---
 
 # Flock Safety
@@ -15,7 +15,6 @@ Surveillance-technology company associated with license-plate reader and vehicle
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Every Flock camera in Winona, Minnesota is reported cut down and stolen, adding physical-security risk to the ALPR record.
 - [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Georgia arrests over database misuse keep Flock in the ALPR audit-log and law-enforcement accountability frame.
 
 - [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Georgia arrests tied to database misuse keep Flock in the ALPR access-control and civil-liberties record.

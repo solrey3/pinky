@@ -34,7 +34,7 @@ source_count: 8
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Fightful item says Lesnar confirmed retirement from pro wrestling after a final match against Oba Femi at SummerSlam.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — POST Wrestling and Cageside carry Lesnar saying he is retired after SummerSlam.
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Lesnar calling Oba Femi the future of WWE keeps the post-SummerSlam torch-talk thread alive.
 
 - [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Lesnar loses to Oba Femi and remains part of post-show in-ring-future questions.

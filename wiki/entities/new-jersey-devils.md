@@ -15,7 +15,7 @@ The New Jersey Devils are an NHL team tracked in the newsletter sports feed when
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Team report links prospect profiles for Trenten Bennett and Sigge Holmgren plus a forward signing release.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Team report links prospect profiles for Trenten Bennett and Sigge Holmgren plus the White signing release.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Next two games list Flyers at Devils and Devils at Islanders, with Trenten Bennett prospect coverage in the team report.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Team report lists preseason/upcoming games and prospect/signing news.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Team report lists preseason dates and prospect/signing news.

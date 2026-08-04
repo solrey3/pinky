@@ -15,7 +15,7 @@ Ring of Honor, a professional wrestling promotion historically associated with w
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — ROH TV is listed for August 6 through HonorClub/ROH channels.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — ROH TV is listed for Aug. 6 on HonorClub.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — ROH TV/PPV schedule appears in the wrestling calendar.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — ROH TV and PPV schedule continuity is preserved through HonorClub/AEW channels.
 

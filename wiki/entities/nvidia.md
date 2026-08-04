@@ -15,7 +15,7 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NVDA rises 7.87%, confirming the AI/semiconductor bid.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NVDA gains 7.58%, adding semiconductor strength to the Nasdaq-led tape.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — NVDA gains 5.15%, joining Amazon in the mega-cap/AI-chip strength behind the Nasdaq surge.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Rises 5.15% and helps confirm growth-stock appetite behind the Nasdaq rally.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Nvidia weakness keeps AI-chip internals mixed despite Nasdaq strength.

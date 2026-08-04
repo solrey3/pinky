@@ -15,7 +15,7 @@ Polymarket is a prediction-market platform tracked here when market-implied poli
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — US-Iran peace-talk and Michigan Democratic primary markets are fetched; Donavan McKinney is shown at 88% in MI-13.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Shows markets tied to U.S.-Iran peace talks and the Michigan Democratic primary.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Trending topics include U.S.-Iran peace talks, 2026 AI-model leadership, and oil-shock chatter, but no clean odds/mover data are captured.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Surfaces topics around U.S.-Iran peace talks, Padres-Diamondbacks, and the 2026 AI-model race without fetched price movement.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Polymarket surfaces Iran/Hormuz talks and “best AI model end of 2026” as trending topics, but without fetched odds or move sizes.

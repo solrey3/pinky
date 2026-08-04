@@ -14,7 +14,7 @@ Preserving public information by making data open, replicable, and reusable beyo
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — The dispatch preserves explicit feed gaps for Kalshi, league news, start times/TV, team schedules, and other unavailable data rather than silently filling them.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Kalshi, sports, team, and feed unavailability are explicitly logged rather than silently omitted.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — WSJ, Kalshi, Wawa, and Polymarket odds gaps are retained explicitly instead of being smoothed away.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — The dispatch explicitly preserves unavailable Kalshi and Wawa data, treating feed gaps as evidence rather than silently filling them.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Unavailable WSJ, Kalshi, and Wawa data plus parse-error notes show why source snapshots need to record gaps rather than smooth them over.
