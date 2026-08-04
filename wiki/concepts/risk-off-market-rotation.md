@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 122
+source_count: 123
 ---
 
 # Risk-Off Market Rotation
@@ -14,6 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — The dispatch is risk-on rather than risk-off, but high long rates, mortgage costs, VNQ weakness, UPS weakness, and AMD softness show why rotation risk still matters.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — The evening close turns hotter risk-on — S&P +2.53%, Nasdaq +3.94%, Amazon +22.75% — while oil, Bitcoin, UPS, VNQ, AMD, long rates, and mortgages keep cross-asset confirmation uneven.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Nasdaq, S&P, and Amazon strengthen sharply, but oil, Bitcoin, UPS, VNQ, and AMD keep the risk-on read uneven.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Morning data keeps the “green but not clean” regime alive: indexes and Amazon are strong while chips, UPS, VNQ, Bitcoin, oil, and long rates remain stress points.

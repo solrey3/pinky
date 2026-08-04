@@ -4,9 +4,9 @@ title: MarketWatch
 type: entity
 entity_type: organization
 created: 2026-07-29
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [media, markets, business, housing]
-source_count: 10
+source_count: 11
 ---
 
 # MarketWatch
@@ -15,6 +15,7 @@ MarketWatch is a financial and business-news outlet used in the newsletter graph
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Supplies Microsoft momentum and market/index source links for the overnight tape.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Supplies index, Treasury, FX, ETF, stock, commodity, and yen-intervention market context.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Provides index, Treasury, FX, ETF, equity, commodity, and 52-week-range data for the midnight market snapshot.
 

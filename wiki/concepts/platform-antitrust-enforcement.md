@@ -3,9 +3,9 @@ id: 4be1896e-3540-4384-a4a5-9c08bf8f0eb3
 title: Platform Antitrust Enforcement
 type: concept
 created: 2026-07-23
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [antitrust, platforms, competition, regulation, european-union, google]
-source_count: 9
+source_count: 10
 ---
 
 # Platform Antitrust Enforcement
@@ -14,6 +14,7 @@ Platform antitrust enforcement is competition-law action aimed at dominant digit
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Reddit criticism of Google AI Overviews extends the platform-power question into AI-generated summaries and publisher traffic value.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Reddit’s AI Overviews complaint extends platform-power analysis into AI-mediated search traffic and publisher economics.
 - [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Reddit’s criticism of Google AI Overviews keeps answer-layer substitution in the platform-power frame.
 

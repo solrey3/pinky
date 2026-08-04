@@ -3,9 +3,9 @@ id: a9c5ed4c-9ada-4efa-9a13-0cd3e8af7dc0
 title: Developer Tool Trust
 type: concept
 created: 2026-08-03
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [developer-tools, trust, software-engineering, workflow, provenance]
-source_count: 4
+source_count: 5
 ---
 
 # Developer Tool Trust
@@ -14,6 +14,7 @@ Developer tool trust is the accumulated confidence that a tool will preserve int
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Hacker News highlights “Devtools must be open source,” reinforcing inspectability and repairability as trust requirements.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — The “devtools must be open source” item repeats the claim that developer trust depends on inspectability, governance, and repairability, not only feature velocity.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Qwen3.8-Max, hallucinated CVE noise, and the open-source-devtools argument tie tool trust to capability, inspectability, and provenance.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Qwen3.8-Max, human-in-the-loop warnings, and DEF CON hardware security all frame tools as trust-bearing mediation layers.

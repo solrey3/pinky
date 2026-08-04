@@ -4,9 +4,9 @@ title: NewsNation
 type: entity
 entity_type: organization
 created: 2026-07-22
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [media, news, public-health, energy, new-jersey, public-safety]
-source_count: 25
+source_count: 26
 ---
 
 # NewsNation
@@ -15,6 +15,7 @@ NewsNation is a U.S. news outlet tracked when its reporting enters the daily new
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Provides the Delaney Hall death scrutiny, Iran/Hormuz diplomacy, and Michigan cyclosporiasis death headlines.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries Washington wildfire evacuations and HOA foreclosure scrutiny.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Washington wildfire evacuations, Idaho shooting follow-up, and HOA foreclosure scrutiny.
 

@@ -4,9 +4,9 @@ title: ESPN
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [sports, media, broadcasting, streaming]
-source_count: 6
+source_count: 7
 ---
 
 # ESPN
@@ -15,6 +15,7 @@ ESPN is a sports-media network. In this wiki, it appears as both a sports-news s
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Supplies Knicks, Miami football, MLS commissioner, tennis, golf, and team-report sports items.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Provides sports newswire and team-report provenance across NBA, MLB, NFL, NHL, MLS, and soccer items.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Supplies sports newswire and team-report items across NBA, Big East, NFL, MLB, NHL, MLS, and soccer.
 

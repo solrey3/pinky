@@ -4,9 +4,9 @@ title: Ars Technica
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [media, technology, science, cybersecurity, ai]
-source_count: 19
+source_count: 20
 ---
 
 # Ars Technica
@@ -15,6 +15,7 @@ Technology and science publication tracked as a source for infrastructure, scien
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Reports that an AI-supervised remote exam failed badly enough to require 58,000 students to retake it.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Carries the Anthropic/Claude, Reddit/Google AI Overviews, and DEF CON tech items in the AI desk.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Anthropic/Claude cybersecurity-eval and Waymo overnight-charging coverage in the tech desk.
 

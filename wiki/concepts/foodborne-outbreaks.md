@@ -3,9 +3,9 @@ id: 44e25985-74eb-4a5b-adb8-757d8d9bfeb4
 title: Foodborne Outbreaks
 type: concept
 created: 2026-07-17
-updated: 2026-07-30
+updated: 2026-08-04
 tags: [public-health, food-safety, supply-chain, outbreaks, recalls, cyclospora]
-source_count: 13
+source_count: 14
 ---
 
 # Foodborne Outbreaks
@@ -14,6 +14,7 @@ Foodborne outbreaks are illness clusters tied to contaminated food products, sou
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Michigan officials confirm two deaths tied to cyclosporiasis, making outbreak surveillance and public-health provenance central.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Robert Redfield’s cyclospora comments broaden the produce-risk frame beyond lettuce and keep foodborne provenance active.
 - [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Taylor Farms' iceberg-lettuce pull amid cyclosporiasis coverage connects produce sourcing, illness surveillance, recall execution, and possible grocery-price effects.
 

@@ -4,9 +4,9 @@ title: Microsoft
 type: entity
 entity_type: organization
 created: 2026-06-02
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 37
+source_count: 38
 ---
 
 # Microsoft
@@ -43,6 +43,7 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — MarketWatch frames Microsoft as having a rare 26-year-style stock run that erases year-to-date losses.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears through feed and sysadmin items, including WinUI Print Management chatter.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Yahoo Finance frames Microsoft’s AI cybersecurity push as a potential growth driver for MSFT stock.
 

@@ -3,9 +3,9 @@ id: 47e5c4ae-e2c7-4f42-92d0-0976f71705a5
 title: Open Data Preservation
 type: concept
 created: 2026-07-13
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 11
+source_count: 12
 ---
 
 # Open Data Preservation
@@ -14,6 +14,7 @@ Preserving public information by making data open, replicable, and reusable beyo
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — The dispatch explicitly preserves unavailable Kalshi and Wawa data, treating feed gaps as evidence rather than silently filling them.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Unavailable WSJ, Kalshi, and Wawa data plus parse-error notes show why source snapshots need to record gaps rather than smooth them over.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — WSJ, Kalshi, Wawa, and schedule-parse gaps are preserved beside linked box scores, leaderboards, and source URLs.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Unavailable WSJ, Kalshi, Wawa, and team-news feeds make source gaps explicit rather than silently dropping them.

@@ -4,9 +4,9 @@ title: Yahoo Finance
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [media, finance, markets, business, energy]
-source_count: 8
+source_count: 9
 ---
 
 # Yahoo Finance
@@ -15,6 +15,7 @@ Financial-news and market-data outlet. In the newsletter graph, Yahoo Finance ap
 
 ## Sources
 
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Supplies weekly earnings/PMI watchlist coverage and Palantir AI-upside stock-watch framing.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Frames higher futures around eased Iran risk and oil/yield relief.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Microsoft AI-cybersecurity upside and Cathie Wood’s renewed Tesla/SpaceX conviction as market-narrative inputs.
 
