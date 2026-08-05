@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 105
+source_count: 106
 ---
 
 # Monetary Policy Forward Guidance
@@ -14,6 +14,7 @@ A central-bank communication strategy that attempts to shape expectations by sig
 
 ## Sources
 
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — EFFR, the Fed target, Treasury yields, mortgage rates, forex, and gas prices document policy transmission.
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — EFFR at 3.63%, the Fed target range, Treasury rates, mortgage rates, gas, and forex tables remain the market-policy backdrop.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — EFFR at 3.63%, the Fed target range, Treasury yields, mortgage rates, gas prices, and forex tables anchor the market transmission backdrop.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — EFFR at 3.63%, the Fed target range, 30-year Treasury near its high, mortgage quotes, FX, and risk assets form the morning policy-transmission backdrop.

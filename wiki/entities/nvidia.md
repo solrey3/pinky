@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 106
+source_count: 107
 ---
 
 # Nvidia
@@ -15,6 +15,7 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 ## Sources
 
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Nvidia gains 7.58% in the broad technology-led advance.
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — NVDA gains 7.58%, participating in the semiconductor-led risk-on board.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NVDA gains 7.58%, adding semiconductor strength to the Nasdaq-led tape.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — NVDA gains 5.15%, joining Amazon in the mega-cap/AI-chip strength behind the Nasdaq surge.

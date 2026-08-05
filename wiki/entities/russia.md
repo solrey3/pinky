@@ -4,9 +4,9 @@ title: Russia
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-08-01
+updated: 2026-08-05
 tags: [russia, geopolitics, war, ukraine, security]
-source_count: 5
+source_count: 6
 ---
 
 # Russia
@@ -15,6 +15,7 @@ Russia is tracked here mainly through geopolitical and military-risk coverage. I
 
 ## Sources
 
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Coverage reports a deadly Kyiv strike and alleged Russian “drone safari” attacks against Ukrainians.
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The evening dispatch reports Russian ballistic-missile and drone attacks on Kyiv, keeping escalation risk live.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Appears through Zelensky's warning of a large planned strike on Ukraine.

@@ -4,9 +4,9 @@ title: AEW
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 101
+source_count: 102
 ---
 
 # AEW
@@ -15,6 +15,7 @@ All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsl
 
 ## Sources
 
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — AEW Dynamite anchors Wednesday night with an International title match advertised.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Dynamite and Collision are listed in the wrestling schedule; AEW matches also appear in Meltzer 5-star continuity.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Continental Cup participants, rules, and first-round matches define AEW's dated tournament-provenance note.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Continental Cup rules, participants, and first-round matches are announced by Tony Khan and Tony Schiavone.

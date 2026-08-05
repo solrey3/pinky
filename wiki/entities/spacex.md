@@ -4,9 +4,9 @@ title: SpaceX
 type: entity
 entity_type: organization
 created: 2026-06-16
-updated: 2026-08-03
+updated: 2026-08-05
 tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone, starship, reusable-rockets]
-source_count: 8
+source_count: 9
 ---
 
 # SpaceX
@@ -15,6 +15,7 @@ American aerospace and launch company founded by Elon Musk. In the newsletter gr
 
 ## Sources
 
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — A spent SpaceX rocket stage is reported to have struck the Moon, highlighting the lunar-debris ledger.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Cathie Wood’s renewed SpaceX conviction keeps private space exposure tied to high-conviction tech investing.
 
 - [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Reuters/Hacker News item reports SpaceX buying Cursor/Anysphere for $60B, treating an AI coding platform as strategic infrastructure.

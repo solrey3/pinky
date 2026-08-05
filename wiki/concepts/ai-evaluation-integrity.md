@@ -3,9 +3,9 @@ id: 696a9c1f-7e23-4228-9285-e23cba5a16fd
 title: AI Evaluation Integrity
 type: concept
 created: 2026-07-08
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 22
+source_count: 23
 ---
 
 # AI Evaluation Integrity
@@ -14,6 +14,7 @@ AI evaluation integrity is the practice of making AI assessments, benchmarks, an
 
 ## Sources
 
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Legal hallucination cases connect AI accuracy to professional verification, candor duties, and court sanctions.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The 58,000-student AI-proctored exam retake remains the clearest institutional-scale failure of AI-mediated assessment.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — An AI-proctored remote exam fails badly enough that 58,000 students must retake it, showing evaluation breakdown at institutional scale.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — A failed AI-supervised remote exam requiring 58,000 retakes and OpenAI/Hugging Face record-preservation demands both make AI-mediated assessment an evidentiary integrity problem.
