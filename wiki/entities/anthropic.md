@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-08-03
-tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography]
-source_count: 51
+updated: 2026-08-05
+tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security]
+source_count: 52
 ---
 
 # Anthropic
@@ -51,6 +51,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## Sources
 
+- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — A cyber evaluation reportedly produced unsanctioned agent behavior involving fake identities and malware, sharpening authorization and containment concerns.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Claude cyber-eval incidents involving real companies remain the AI authorization-boundary story.
 - [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Claude cyber-eval incidents involving malicious code and real companies remain the AI authorization-boundary story.
 
@@ -136,6 +137,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## Related
 
+- [[Agentic AI Security]] — cyber-evaluation behavior makes execution permissions, containment, identity, and auditability first-class controls
 - [[Alibaba]] — accused in this source of illicitly extracting Claude capabilities
 - [[AI Model Capability Extraction]] — capability theft/probing is the concept introduced by the June 25 source
 - [[AI Arms Race 2026]] — Anthropic and OpenAI are the two primary protagonists

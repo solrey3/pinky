@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-05
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 16
+source_count: 17
 ---
 
 # WTI
@@ -15,6 +15,7 @@ West Texas Intermediate crude oil benchmark; tracked here as an energy, inflatio
 
 ## Sources
 
+- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — WTI plunges 11.33% to $75.08, the clearest counter-move to the broad equity surge.
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — WTI falls 9.97% to $76.23, sharply diverging from surging equities.
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — WTI falls 10.11%, the major non-confirming move beside a hot growth-equity tape.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Falls 9.33% on hopes for a Strait of Hormuz reopening deal.
