@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-08-05
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 127
+source_count: 128
 ---
 
 # Risk-Off Market Rotation
@@ -14,6 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
+- [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-noon.md) — All four major indexes surge 4%–8%, but WTI -11.02%, VNQ weakness, and SCHD softness preserve strong cross-asset divergence.
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — A powerful equity rally coexists with WTI -9.97% and VNQ -2.01%, preserving cross-asset divergence.
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — A clearly risk-on close still has non-uniform internals: WTI drops 10.11%, VNQ falls, and dividend exposure lags.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Used as the contrast case: indexes and high beta are strongly risk-on, but WTI, VNQ, SCHD, and Costco show the rally is not uniform.

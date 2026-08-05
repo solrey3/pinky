@@ -4,9 +4,9 @@ title: Cloudflare
 type: entity
 entity_type: organization
 created: 2026-06-20
-updated: 2026-08-03
+updated: 2026-08-05
 tags: [cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control]
-source_count: 5
+source_count: 6
 ---
 
 # Cloudflare
@@ -15,6 +15,7 @@ Cloudflare is a cloud infrastructure and security company. In the newsletter gra
 
 ## Sources
 
+- [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-noon.md) — Cloudflare OS is presented as an open platform for agents, applications, and work, extending edge infrastructure toward integrated agent execution.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Cloudflare’s notes on running Kimi and GLM models at scale tie edge/cloud infrastructure to smaller, faster, safer AI deployment economics.
 - [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare's temporary accounts for AI agents introduce a concrete access pattern for scoped, revocable agent identities rather than shared human credentials.
 
