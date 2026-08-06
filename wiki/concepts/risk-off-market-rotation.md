@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-08
 updated: 2026-08-06
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 130
+source_count: 131
 ---
 
 # Risk-Off Market Rotation
@@ -14,6 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
+- [2026-08-06: Morning Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-daytime.md) — Indexes gain 3.88%–7.86% and AI-linked stocks surge while WTI falls 6.20% and SCHD/VNQ decline, preserving cross-asset divergence.
 - [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Indexes surge 3.88%–7.86% and AI-linked stocks jump, while WTI falls 6.61%, SCHD and VNQ decline, preserving cross-asset divergence.
 
 - [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — Indexes close up 3.88%–7.86% and AI-linked stocks surge, while WTI -11.33%, SCHD, and VNQ remain non-confirming.
