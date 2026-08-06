@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-04
 updated: 2026-08-06
 tags: [cycling, womens-cycling, tour-de-france, sports]
-source_count: 5
+source_count: 6
 ---
 
 # Tour de France Femmes
@@ -14,6 +14,8 @@ source_count: 5
 Tour de France Femmes is tracked as the women’s Tour cycling race and a recurring sports-ledger event.
 
 ## Sources
+
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Kim Le Court-Pienaar wins stage 6 as Demi Vollering prepares for Mont Ventoux.
 
 - [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Demi Vollering wins stage 5 in a three-rider climbing sprint; wildfire risk brings fan restrictions on Mont Ventoux.
 

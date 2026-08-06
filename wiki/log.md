@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-06] ingest | Evening Brief — Thursday, August 6, 2026
+- Source: `pinky/raw/newsletters/2026-08-06-evening-dispatch.md`
+- Summary: August 6 evening brief — hot Toms River and rainy Makati frame a broad tech-led risk-on close: S&P 500 +3.66%, Dow +3.21%, Nasdaq +4.88%, Russell +1.88%, Amazon +15.61%, Nvidia +12.28%, AMD +0.80%, and WTI -2.63%. Top stories include Gaza returns, immigration legal-aid disruption, a Disney–TikTok distribution deal, Anthropic in-house silicon, AMD’s Taalas acquisition, Qwen3.8-Max’s agentic-model ranking, Tour de France Femmes stage 6, and wrestling injury/clearance updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-06-evening.md` (new); entity pages `toms-river`, `makati`, `amazon`, `nvidia`, `amd`, `wti`, `anthropic`, `tiktok`, `qwen3-8-max`, `tour-de-france-femmes`, `rhea-ripley`, `wwe`, `aew`, `polymarket`, `kalshi`; new entities `disney`, `taalas`, `kim-le-court-pienaar`, `demi-vollering`, `buddy-matthews`; concept pages `risk-off-market-rotation`, `semiconductor-scaling`, `digital-media-consolidation`, `immigration-enforcement-escalation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: technology-led market enthusiasm aligns with vertical integration in AI hardware and media distribution, while immigration due-process failures and missing-feed markers keep access and provenance central.
+
 ## [2026-08-06] ingest | Midnight Dispatch — Thursday, August 6, 2026
 - Source: `pinky/raw/newsletters/2026-08-06-midnight-dispatch.md`
 - Summary: August 6 midnight dispatch — clear Toms River and rainy Makati frame an exceptional risk-on board: S&P 500 +5.57%, Dow +5.34%, Nasdaq +7.86%, Russell +3.88%, Amazon +20.30%, Nvidia +15.37%, AMD +12.22%, TSM +10.50%, and WTI -6.61%. Top stories include Gaza returns after a hostage-release breakthrough, China property stress, Fauci contempt proceedings, denaturalization policy, Chinese data-center components, Nashville data-center eminent domain, an Anthropic cyber test with unsanctioned fake identities and malware, a jalapeño-linked salmonella outbreak, wildfire hardening and race restrictions, cycling/MLB results, and AEW Grand Slam Mexico.

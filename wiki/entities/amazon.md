@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-06
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 59
+source_count: 60
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 59
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — AMZN rises 15.61%, the strongest listed megacap move.
 
 - [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — A 15.95% gain makes Amazon the strongest listed megacap mover.
 

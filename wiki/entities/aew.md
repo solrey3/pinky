@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-06
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 104
+source_count: 105
 ---
 
 # AEW
@@ -14,6 +14,8 @@ source_count: 104
 All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsletter graph, AEW appears through live television, pay-per-view build, talent movement, and its connections to NJPW, ROH, and the broader wrestling media cycle.
 
 ## Sources
+
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Grand Slam Mexico remains in discussion while recent five-star match ratings are cataloged.
 
 - [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Grand Slam Mexico results include Ospreay’s win and new international trios champions.
 

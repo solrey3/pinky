@@ -288,6 +288,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-08-06-noon](sources/newsletter-2026-08-06-noon.md) | Noon Dispatch — Thursday, August 6, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, oil, surveillance, media, public-health, cycling, baseball, wrestling] | 2026-08-06 |
 | [newsletter-2026-08-06-midnight](sources/newsletter-2026-08-06-midnight.md) | Midnight Dispatch — Thursday, August 6, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, oil, semiconductors, agentic-ai, cybersecurity, foodborne-outbreaks, wildfire-resilience, cycling, baseball, wrestling] | 2026-08-06 |
 | [newsletter-2026-08-06-daytime](sources/newsletter-2026-08-06-daytime.md) | Morning Dispatch — Thursday, August 6, 2026 | newsletter | [newsletter, daytime-dispatch, morning-dispatch, markets, risk-on, oil, semiconductors, agentic-ai, cybersecurity, foodborne-outbreaks, wildfire-resilience, condo-lending, cycling, baseball, wrestling] | 2026-08-06 |
+| [newsletter-2026-08-06-evening](sources/newsletter-2026-08-06-evening.md) | Evening Brief — Thursday, August 6, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, semiconductors, ai-hardware, media-distribution, immigration, cycling, baseball, wrestling] | 2026-08-06 |
 
 ## Entities
 
@@ -1400,6 +1401,15 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Japan](entities/japan.md) | place | japan, currency, yen, asia-pacific, monetary-policy | 2 |
 
 ---
+
+### Recently Added Entities
+| Entity | Type | Tags | Sources |
+| --- | --- | --- | --- |
+| [Disney](entities/disney.md) | organization | media, entertainment, distribution | 1 |
+| [Taalas](entities/taalas.md) | organization | ai, semiconductors, inference | 1 |
+| [Kim Le Court-Pienaar](entities/kim-le-court-pienaar.md) | person | cycling, tour-de-france-femmes | 1 |
+| [Demi Vollering](entities/demi-vollering.md) | person | cycling, tour-de-france-femmes | 1 |
+| [Buddy Matthews](entities/buddy-matthews.md) | person | wrestling, aew, injury | 1 |
 
 ## Concepts
 
