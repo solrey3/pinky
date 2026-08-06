@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-06
 tags: [wrestling, promotion, aew, television, dynamite, collision, forbidden-door, owen-hart-cup, distribution, tubi, fast-channel, mjf]
-source_count: 103
+source_count: 104
 ---
 
 # AEW
@@ -14,6 +14,8 @@ source_count: 103
 All Elite Wrestling, a major U.S. professional wrestling promotion. In the newsletter graph, AEW appears through live television, pay-per-view build, talent movement, and its connections to NJPW, ROH, and the broader wrestling media cycle.
 
 ## Sources
+
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Grand Slam Mexico results include Ospreay’s win and new international trios champions.
 
 - [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Grand Slam Mexico produces new Trios champions, with Ospreay winning and Kyle Fletcher retaining the International title.
 

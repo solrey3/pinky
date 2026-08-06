@@ -4,9 +4,9 @@ title: Warner Bros. Discovery
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-07-25
+updated: 2026-08-06
 tags: [media, entertainment, streaming, merger, consolidation, regulation]
-source_count: 6
+source_count: 7
 ---
 
 # Warner Bros. Discovery
@@ -14,6 +14,8 @@ source_count: 6
 Warner Bros. Discovery is a major media and entertainment company. In this source, it matters as the target of a proposed Paramount takeover likely to draw UK government scrutiny.
 
 ## Sources
+
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — U.K. approval advances Paramount’s proposed $110 billion acquisition.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Its proposed takeover by Paramount is treated as media consolidation significant enough to invite government review.
 

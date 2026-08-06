@@ -4,9 +4,9 @@ title: SpaceX
 type: entity
 entity_type: organization
 created: 2026-06-16
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone, starship, reusable-rockets]
-source_count: 10
+source_count: 11
 ---
 
 # SpaceX
@@ -14,6 +14,8 @@ source_count: 10
 American aerospace and launch company founded by Elon Musk. In the newsletter graph, SpaceX sits at the intersection of space infrastructure, private-company finance, prediction-market speculation, and now AI developer tooling.
 
 ## Sources
+
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — An insider liquidity opportunity is constrained by a reported decline in the private share price.
 
 - [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-noon.md) — Debut-earnings coverage says heavy AI spending unsettled investors, adding public-market scrutiny to SpaceX's infrastructure ambitions.
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — A spent SpaceX rocket stage is reported to have struck the Moon, highlighting the lunar-debris ledger.

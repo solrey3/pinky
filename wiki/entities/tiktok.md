@@ -4,9 +4,9 @@ title: TikTok
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-06
 tags: [social-media, platforms, research-access]
-source_count: 1
+source_count: 2
 ---
 
 # TikTok
@@ -14,6 +14,8 @@ source_count: 1
 Short-form video social-media platform and recurring platform-governance entity.
 
 ## Sources
+
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — A Disney partnership will distribute entertainment clips through the short-form platform.
 
 - [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — TikTok is part of the Wired/Ars Technica social-media research-access thread.
 

@@ -3,9 +3,9 @@ id: 34e0ea55-7860-47cd-b797-65ecc98fd231
 title: Synthetic Biology
 type: concept
 created: 2026-07-01
-updated: 2026-07-25
+updated: 2026-08-06
 tags: [biology, engineering, biotechnology, synthetic-cells, science, research]
-source_count: 6
+source_count: 7
 ---
 
 # Synthetic Biology
@@ -13,6 +13,8 @@ source_count: 6
 Synthetic biology is the engineering of biological systems, often by designing genetic circuits, cellular components, or organisms to perform specific functions. At the frontier, it includes attempts to build minimal or artificial cells from component parts.
 
 ## Sources
+
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — CRISPR-edited beagles designed to reduce allergens extend gene editing into consumer-facing animal traits.
 
 - [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — A reported scratch-built cell that grows and divides marks a headline-level milestone in bottom-up cell engineering.
 
