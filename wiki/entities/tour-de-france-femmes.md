@@ -4,9 +4,9 @@ title: Tour de France Femmes
 type: entity
 entity_type: other
 created: 2026-08-04
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [cycling, womens-cycling, tour-de-france, sports]
-source_count: 4
+source_count: 5
 ---
 
 # Tour de France Femmes
@@ -14,6 +14,8 @@ source_count: 4
 Tour de France Femmes is tracked as the women’s Tour cycling race and a recurring sports-ledger event.
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Demi Vollering wins stage 5 in a three-rider climbing sprint; wildfire risk brings fan restrictions on Mont Ventoux.
 
 - [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — Demi Vollering wins stage 5, Marlen Reusser retains yellow, and wildfire risk restricts Mont Ventoux spectator access.
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Stage 5 enters the Beaujolais hills with a possible general-classification battle.

@@ -3,9 +3,9 @@ id: 44e25985-74eb-4a5b-adb8-757d8d9bfeb4
 title: Foodborne Outbreaks
 type: concept
 created: 2026-07-17
-updated: 2026-08-04
+updated: 2026-08-06
 tags: [public-health, food-safety, supply-chain, outbreaks, recalls, cyclospora]
-source_count: 15
+source_count: 16
 ---
 
 # Foodborne Outbreaks
@@ -13,6 +13,8 @@ source_count: 15
 Foodborne outbreaks are illness clusters tied to contaminated food products, sourcing chains, preparation environments, or distribution networks. The practical knowledge-graph value is provenance: what product, source region, supplier, illness agent, recall scope, and consumer-risk pathway are identifiable?
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — CDC-linked reporting traces a multistate salmonella outbreak to Mexican jalapeños, reinforcing produce-source provenance and public warning workflows.
 
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Chipotle’s jalapeño pull after a salmonella investigation shows outbreak tracing changing restaurant operations.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Michigan officials confirm two deaths tied to cyclosporiasis, making outbreak surveillance and public-health provenance central.

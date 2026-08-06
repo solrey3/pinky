@@ -285,6 +285,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-08-05-daytime](sources/newsletter-2026-08-05-daytime.md) | Morning Dispatch — Wednesday, August 5, 2026 | newsletter | [newsletter, daytime-dispatch, morning-dispatch, markets, risk-on, federal-reserve, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, election-security, ai-errors, legal-sanctions, ukraine, russia, spacex, lunar-debris, prediction-markets, tour-de-france, tour-de-france-femmes, mets, aew, wrestling] | 2026-08-05 |
 | [newsletter-2026-08-05-noon](sources/newsletter-2026-08-05-noon.md) | Noon Dispatch — Wednesday, August 5, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, ai-spending, cloudflare, qwen, spacex, oil, election-security, cyclosporiasis, cycling, mets, wrestling] | 2026-08-05 |
 | [newsletter-2026-08-05-evening](sources/newsletter-2026-08-05-evening.md) | Evening Brief — Wednesday, August 5, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, oil, agentic-ai, cybersecurity, cycling, baseball, wrestling] | 2026-08-05 |
+| [newsletter-2026-08-06-midnight](sources/newsletter-2026-08-06-midnight.md) | Midnight Dispatch — Thursday, August 6, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, oil, semiconductors, agentic-ai, cybersecurity, foodborne-outbreaks, wildfire-resilience, cycling, baseball, wrestling] | 2026-08-06 |
 
 ## Entities
 

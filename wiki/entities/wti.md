@@ -4,9 +4,9 @@ title: WTI
 type: entity
 entity_type: other
 created: 2026-08-01
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 17
+source_count: 18
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 17
 West Texas Intermediate crude oil benchmark; tracked here as an energy, inflation, and cross-asset risk signal.
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — WTI falls 6.61% despite a powerful equity rally, preserving cross-asset divergence.
 
 - [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — WTI plunges 11.33% to $75.08, the clearest counter-move to the broad equity surge.
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — WTI falls 9.97% to $76.23, sharply diverging from surging equities.

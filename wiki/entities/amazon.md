@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 57
+source_count: 58
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 57
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — AMZN rises 20.30%, the strongest major stock move in the dispatch.
 
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Amazon gains 20.17% and leads the stock-watch risk-on surge.
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — AMZN closes up 20.17%, one of the defining single-stock signals in the Nasdaq-led risk-on board.

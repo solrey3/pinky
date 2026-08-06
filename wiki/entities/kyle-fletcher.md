@@ -4,9 +4,9 @@ title: Kyle Fletcher
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-04
+updated: 2026-08-06
 tags: [person, wrestling]
-source_count: 9
+source_count: 10
 ---
 
 # Kyle Fletcher
@@ -33,6 +33,8 @@ source_count: 9
 - His Don Callis Family alignment gave him a heel credential that his natural charisma can subvert
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Retains the International title at AEW Grand Slam Mexico.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His AEW Redemption match with Bandido remains in the Meltzer 5-star ledger.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in the Meltzer 5-star table via the Bandido match.

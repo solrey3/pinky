@@ -3,9 +3,9 @@ id: 2794e631-cb83-4100-94be-7557a96b7b64
 title: Wildfire Resilience
 type: concept
 created: 2026-07-26
-updated: 2026-08-04
+updated: 2026-08-06
 tags: [wildfires, infrastructure, climate, emergency-management, land-management, resilience]
-source_count: 7
+source_count: 8
 ---
 
 # Wildfire Resilience
@@ -13,6 +13,8 @@ source_count: 7
 Wildfire resilience is the ability of communities, land-management systems, and infrastructure networks to reduce wildfire risk, operate through fire disruptions, and recover when evacuation, smoke, heat, or physical damage interrupt normal service.
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Wildfire risk shapes both practical home-hardening advice and spectator restrictions on the Tour de France Femmes route.
 
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Washington wildfire evacuations and an arson arrest make emergency management the dispatch's climate/disaster-resilience snapshot.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Washington wildfire evacuations of roughly 60,000 residents keep fire-season capacity and public-safety logistics in view.

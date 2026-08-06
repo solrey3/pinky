@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-02
+updated: 2026-08-06
 tags: [person, wrestling, aew]
-source_count: 25
+source_count: 26
 ---
 
 # Will Ospreay
@@ -33,6 +33,8 @@ source_count: 25
 - His AEW debut pop was the largest non-WWE debut reaction in years
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Wins at AEW Grand Slam Mexico.
 
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Will Ospreay appears in the Meltzer 5-star AEW Redemption tag match.
 

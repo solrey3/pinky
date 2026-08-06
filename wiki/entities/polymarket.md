@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 53
+source_count: 54
 ---
 
 # Polymarket
@@ -14,6 +14,8 @@ source_count: 53
 Polymarket is a prediction-market platform tracked here when market-implied political or event probabilities enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Prices Abdul El-Sayed at 60% in its Michigan Senate winner market.
 
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Trending topics center on Iran, Hormuz shipping, and diplomacy, but verified probabilities were not fetched.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Shows markets tied to U.S.-Iran peace talks and the Michigan Democratic primary.

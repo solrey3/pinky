@@ -4,9 +4,9 @@ title: Hangman Adam Page
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-07-12
+updated: 2026-08-06
 tags: [person, wrestling]
-source_count: 5
+source_count: 6
 ---
 
 # Hangman Adam Page
@@ -33,6 +33,8 @@ source_count: 5
 - His promo work — quiet, sincere, conflicted — is the antithesis of the wrestling promo cliché
 
 ## Sources
+
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Wins the Trios titles with Brodido at AEW Grand Slam Mexico.
 
 - [2026-05-27: Raw notes](../../raw/people/hangman-adam-page.md)
 
