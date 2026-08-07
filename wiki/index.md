@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-07-midnight](sources/newsletter-2026-08-07-midnight.md) | Midnight Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, semiconductors, ai-hardware, media-distribution, immigration, cycling, baseball, wrestling] | 2026-08-07 |
 | [newsletter-2026-05-12](sources/newsletter-2026-05-12.md) | Newsletter 2026-05-12 — The Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, sports, weather, current-events] | 2026-05-12 |
 | [newsletter-2026-05-13-to-05-17](sources/newsletter-2026-05-13-to-05-17.md) | Newsletters 2026-05-13 through 2026-05-17 — The Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, sports, weather, current-events, iran, ai, nba, mets, bitcoin] | 2026-05-18 |
 | [newsletter-2026-05-18](sources/newsletter-2026-05-18.md) | Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, sports, weather, current-events, iran, musk, openai, ebola, amd, san-diego, shooting] | 2026-05-18 |

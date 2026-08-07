@@ -3,9 +3,9 @@ id: c28e9041-cbb6-4a28-9ef4-a0923c0a0a5a
 title: Immigration Enforcement Escalation
 type: concept
 created: 2026-07-31
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [immigration, border-policy, enforcement, airports, migration]
-source_count: 6
+source_count: 7
 ---
 
 # Immigration Enforcement Escalation
@@ -13,6 +13,8 @@ source_count: 6
 Immigration enforcement escalation is the expansion of migration control from border crossings into airports, local jurisdictions, databases, and cross-border travel regimes.
 
 ## Sources
+
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — A funding lapse disrupts legal assistance for children navigating immigration court.
 
 - [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — An Army staff sergeant’s wife is detained by ICE while a funding lapse disrupts legal aid for immigrant children.
 

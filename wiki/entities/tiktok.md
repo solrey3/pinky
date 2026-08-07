@@ -4,9 +4,9 @@ title: TikTok
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [social-media, platforms, research-access]
-source_count: 3
+source_count: 4
 ---
 
 # TikTok
@@ -14,6 +14,8 @@ source_count: 3
 Short-form video social-media platform and recurring platform-governance entity.
 
 ## Sources
+
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Its Disney partnership expands platform-mediated entertainment clip distribution.
 
 - [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — The Disney partnership extends TikTok’s role as a short-form entertainment distribution channel.
 

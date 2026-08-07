@@ -4,9 +4,9 @@ title: WWE
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [wrestling, promotion, wwe, governance, board, smackdown, king-of-the-ring, world-title, cancellations, night-of-champions, raw, nxt, live-events, sami-zayn]
-source_count: 100
+source_count: 101
 ---
 
 # WWE
@@ -14,6 +14,8 @@ source_count: 100
 World Wrestling Entertainment, the largest U.S. professional wrestling company. In the newsletter graph, WWE is tracked across televised stories, corporate governance, boardroom controversy, and its relationship to the wider wrestling ecosystem.
 
 ## Sources
+
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — SmackDown scheduling and the booked Jade Cargill–Charlotte Flair match anchor the WWE ledger.
 
 - [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Rhea Ripley’s knee surgery enters WWE’s injury and availability ledger.
 

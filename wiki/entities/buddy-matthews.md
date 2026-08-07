@@ -4,9 +4,9 @@ title: Buddy Matthews
 type: entity
 entity_type: person
 created: 2026-08-06
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [wrestling, aew, injury, return]
-source_count: 1
+source_count: 2
 ---
 
 # Buddy Matthews
@@ -14,6 +14,8 @@ source_count: 1
 Professional wrestler tracked for AEW availability and injury updates.
 
 ## Sources
+
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Announces that he has been cleared to compete again.
 
 - [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Announces that he is medically cleared to return to competition.
 

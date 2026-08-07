@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-07] ingest | Midnight Dispatch — Friday, August 7, 2026
+- Source: `pinky/raw/newsletters/2026-08-07-midnight-dispatch.md`
+- Summary: August 7 midnight dispatch — clear, hot Toms River and rainy Makati frame a broad technology-led risk-on tape: S&P 500 +3.66%, Dow +3.21%, Nasdaq +4.88%, Russell +1.88%, Amazon +15.61%, Nvidia +12.28%, AMD +0.80%, and WTI -2.85%. Top stories include Gaza returns, China property stress, disrupted immigration legal aid, renewed birthright-citizenship conflict, a Disney–TikTok distribution deal, AMD’s Taalas acquisition, smartwatch tracking risk, Tour de France Femmes stage 6, MLB results, and wrestling medical updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-07-midnight.md` (new); entity pages `toms-river`, `makati`, `disney`, `tiktok`, `amd`, `taalas`, `nvidia`, `amazon`, `wti`, `tour-de-france-femmes`, `kim-le-court-pienaar`, `buddy-matthews`, `wwe`, `aew`, `polymarket`, `kalshi`; concept pages `risk-off-market-rotation`, `semiconductor-scaling`, `digital-media-consolidation`, `immigration-enforcement-escalation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: technology-led market enthusiasm and model–silicon/media-distribution integration coexist with due-process, tracking-security, constitutional-authority, and data-provenance constraints.
+
 ## [2026-08-06] ingest | Evening Brief — Thursday, August 6, 2026
 - Source: `pinky/raw/newsletters/2026-08-06-evening-dispatch.md`
 - Summary: August 6 evening brief — hot Toms River and rainy Makati frame a broad tech-led risk-on close: S&P 500 +3.66%, Dow +3.21%, Nasdaq +4.88%, Russell +1.88%, Amazon +15.61%, Nvidia +12.28%, AMD +0.80%, and WTI -2.63%. Top stories include Gaza returns, immigration legal-aid disruption, a Disney–TikTok distribution deal, Anthropic in-house silicon, AMD’s Taalas acquisition, Qwen3.8-Max’s agentic-model ranking, Tour de France Femmes stage 6, and wrestling injury/clearance updates.
