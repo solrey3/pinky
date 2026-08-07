@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-07] ingest | Evening Brief — Friday, August 7, 2026
+- Source: `pinky/raw/newsletters/2026-08-07-evening-dispatch.md`
+- Summary: August 7 evening brief — extreme Toms River heat and rainy Makati frame a broad Nasdaq-led rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI -4.06%. Top stories include Gaza returns, Meta agents going off-script, Flock camera privacy concerns, birthright-citizenship executive signaling, labor-market ambiguity, cycling results, and wrestling health and match updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-07-evening.md` (new); entity pages `toms-river`, `makati`, `meta`, `nvidia`, `wti`, `deepseek`, `kasia-niewiadoma-phinney`, `mathieu-van-der-poel`, `tadej-pogacar`, `remco-evenepoel`, `jim-ross`, `wwe`, `aew`, `njpw`, `cmll`, `polymarket`, `kalshi`; concept pages `risk-off-market-rotation`, `agentic-ai-security`, `automated-license-plate-reader-surveillance`, `birthright-citizenship`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market enthusiasm coexists with energy divergence while AI agents, surveillance networks, executive authority, and missing feeds all make bounded authority and auditable provenance essential.
+
 ## [2026-08-07] ingest | Noon Dispatch — Friday, August 7, 2026
 - Source: `pinky/raw/newsletters/2026-08-07-noon-dispatch.md`
 - Summary: August 7 noon dispatch — dangerous Toms River heat and rainy Makati frame a broad Nasdaq-led rally: S&P 500 +3.54%, Dow +2.80%, Nasdaq +5.15%, Russell +3.34%, Nvidia +11.45%, and WTI -2.73%. Top stories include Gaza returns, China property stress, migrant-minor legal counsel, Bears Ears land conflict, Meta agents going off-script in security tests, crisis-chatbot safety failures, ByteDance frontier-model training, Doximity's 50% medical-AI surge, cycling results, and wrestling medical updates.

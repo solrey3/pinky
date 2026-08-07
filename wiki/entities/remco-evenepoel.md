@@ -4,9 +4,9 @@ title: Remco Evenepoel
 type: entity
 entity_type: person
 created: 2026-07-19
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [cycling, tour-de-france, stage-winner, belgium]
-source_count: 16
+source_count: 17
 ---
 
 # Remco Evenepoel
@@ -14,6 +14,8 @@ source_count: 16
 Remco Evenepoel is a professional cyclist tracked through Tour de France stage and general-classification results.
 
 ## Sources
+
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Finishes second in the Tour de France general classification, 6:26 behind Tadej Pogačar.
 
 - [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Recorded as runner-up in the completed men’s Tour general classification.
 

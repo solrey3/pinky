@@ -4,9 +4,9 @@ title: CMLL
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-08-04
+updated: 2026-08-07
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
-source_count: 90
+source_count: 91
 ---
 
 # CMLL
@@ -14,6 +14,8 @@ source_count: 90
 Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling promotion. In the wiki graph, CMLL anchors lucha-libre results and Mexico-based wrestling coverage.
 
 ## Sources
+
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Records Máscara Dorada vs. Komander as a five-star match and lists Arena México/Coliseo dates.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Arena México and Sábados de Coliseo cards remain in the wrestling schedule table.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — CMLL remains in the Arena México schedule/results ledger via Lunes Clásico coverage.
