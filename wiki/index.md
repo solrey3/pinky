@@ -127,6 +127,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
 | [newsletter-2026-08-07-midnight](sources/newsletter-2026-08-07-midnight.md) | Midnight Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, semiconductors, ai-hardware, media-distribution, immigration, cycling, baseball, wrestling] | 2026-08-07 |
+| [newsletter-2026-08-07-daytime](sources/newsletter-2026-08-07-daytime.md) | Morning Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, agentic-ai, semiconductors, hormuz, constitutional-law, cycling, baseball, wrestling] | 2026-08-07 |
 | [newsletter-2026-05-12](sources/newsletter-2026-05-12.md) | Newsletter 2026-05-12 — The Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, sports, weather, current-events] | 2026-05-12 |
 | [newsletter-2026-05-13-to-05-17](sources/newsletter-2026-05-13-to-05-17.md) | Newsletters 2026-05-13 through 2026-05-17 — The Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, sports, weather, current-events, iran, ai, nba, mets, bitcoin] | 2026-05-18 |
 | [newsletter-2026-05-18](sources/newsletter-2026-05-18.md) | Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, sports, weather, current-events, iran, musk, openai, ebola, amd, san-diego, shooting] | 2026-05-18 |
@@ -811,7 +812,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [U.S. Treasury](entities/us-treasury.md) | organization | government, finance, currency, united-states, public-symbolism | 2 |
 | [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 13 |
 | [U.S. Immigration and Customs Enforcement](entities/us-immigration-and-customs-enforcement.md) | organization | government, immigration, enforcement, ice, civil-liberties, united-states | 10 |
-| [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy | 70 |
+| [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy | 71 |
 | [Jordan](entities/jordan.md) | place | jordan, middle-east, military, geopolitics, united-states, iran | 4 |
 | [Iraq](entities/iraq.md) | place | iraq, middle-east, military, geopolitics, united-states, iran | 1 |
 | [Israel](entities/israel.md) | place | israel, geopolitics, middle-east, foreign-policy, aid, united-states, hamas, diplomacy | 5 |
@@ -1124,7 +1125,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Moody's](entities/moodys.md) | organization | credit-ratings, finance, ai-infrastructure, big-tech | 2 |
 | [FedEx](entities/fedex.md) | organization | logistics, shipping, healthcare-logistics, cold-chain | 2 |
 | [DHL](entities/dhl.md) | organization | logistics, shipping, healthcare-logistics, cold-chain | 2 |
-| [Meta](entities/meta.md) | organization | technology, social-media, ai, privacy, instagram, platforms | 12 |
+| [Meta](entities/meta.md) | organization | technology, social-media, ai, privacy, instagram, platforms | 13 |
 | [Amazon](entities/amazon.md) | organization | technology, e-commerce, cloud, markets, amzn, ai-infrastructure | 57 |
 | [Best Buy](entities/best-buy.md) | organization | retail, consumer-electronics, business, stores, strategy | 4 |
 | [PayPal](entities/paypal.md) | organization | finance, payments, fintech, markets | 40 |
@@ -1407,7 +1408,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
 | [Disney](entities/disney.md) | organization | media, entertainment, distribution | 1 |
-| [Taalas](entities/taalas.md) | organization | ai, semiconductors, inference | 1 |
+| [Taalas](entities/taalas.md) | organization | ai, semiconductors, inference | 3 |
 | [Kim Le Court-Pienaar](entities/kim-le-court-pienaar.md) | person | cycling, tour-de-france-femmes | 1 |
 | [Demi Vollering](entities/demi-vollering.md) | person | cycling, tour-de-france-femmes | 1 |
 | [Buddy Matthews](entities/buddy-matthews.md) | person | wrestling, aew, injury | 1 |
@@ -1443,7 +1444,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Approximate RAPTOR](concepts/approximate-raptor.md) | [basketball, nba, analytics, history, statistics] | 1 |
 | [Bayesian Thinking](concepts/bayesian-thinking.md) | [statistics, probability, reasoning, forecasting, decision-making, epistemology] | 4 |
 | [AI Evaluation Integrity](concepts/ai-evaluation-integrity.md) | ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations | 23 |
-| [Birthright Citizenship](concepts/birthright-citizenship.md) | [constitutional-law, citizenship, immigration, fourteenth-amendment, civil-liberties, supreme-court] | 5 |
+| [Birthright Citizenship](concepts/birthright-citizenship.md) | [constitutional-law, citizenship, immigration, fourteenth-amendment, civil-liberties, supreme-court] | 6 |
 | [Box Plus/Minus](concepts/box-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [CARMELO Projections](concepts/carmelo-projections.md) | [basketball, nba, analytics, forecasting, statistics] | 1 |
 | [Chivalry and Satire](concepts/chivalry-and-satire.md) | [literature, history, social-critique, romance] | 1 |
@@ -1500,8 +1501,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 131 |
-| [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 3 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 135 |
+| [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 4 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
 | ["Security & Privacy Toolkit"](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed] | 112 |
 | [Surveillance Pricing](concepts/surveillance-pricing.md) | [privacy, consumer-protection, pricing, retail, surveillance, new-jersey] | 1 |

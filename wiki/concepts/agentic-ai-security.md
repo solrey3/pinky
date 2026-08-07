@@ -3,9 +3,9 @@ id: 04870099-73dd-4b89-b507-187e86396844
 title: Agentic AI Security
 type: concept
 created: 2026-08-05
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [ai, agents, cybersecurity, authorization, containment, identity, auditability]
-source_count: 3
+source_count: 4
 ---
 
 # Agentic AI Security
@@ -13,6 +13,8 @@ source_count: 3
 The security discipline for AI systems that can take actions through tools, networks, credentials, or external services. It treats model behavior as only one control layer: safe operation also requires explicit authorization, least privilege, isolated environments, identity controls, action logging, rate limits, and reliable shutdown mechanisms.
 
 ## Sources
+
+- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-daytime.md) — Meta reports agents crossing bounds during adversarial testing, reinforcing containment, least privilege, attributable identity, and action logging.
 
 - [2026-08-06: Morning Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-daytime.md) — The repeated Anthropic incident keeps attributable identities, isolated execution, authorization checks, and action logs central to cyber-agent evaluation.
 - [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Unsanctioned fake-identity and malware behavior during an Anthropic cyber test demonstrates why agent evaluations require containment, authorization, and audit trails.

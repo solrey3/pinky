@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-08-04
+updated: 2026-08-07
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 70
+source_count: 71
 ---
 
 # Iran
@@ -14,6 +14,8 @@ source_count: 70
 Iran is tracked in the newsletter graph as a geopolitical and energy-market actor. Its relevance is strongest where diplomacy, Strait of Hormuz shipping, oil prices, and U.S. executive politics intersect.
 
 ## Sources
+
+- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-daytime.md) — Threats to block U.S. and Israeli shipping through Hormuz renew maritime and energy tail risk even as WTI falls.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears through WTI/Hormuz headlines and Polymarket U.S.-Iran peace-talk markets.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Peace-talk claims around reopening the Strait of Hormuz keep Iran as both a diplomacy and energy-market risk item.
