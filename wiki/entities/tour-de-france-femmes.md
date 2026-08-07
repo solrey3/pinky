@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-04
 updated: 2026-08-07
 tags: [cycling, womens-cycling, tour-de-france, sports]
-source_count: 7
+source_count: 8
 ---
 
 # Tour de France Femmes
@@ -14,6 +14,8 @@ source_count: 7
 Tour de France Femmes is tracked as the women’s Tour cycling race and a recurring sports-ledger event.
 
 ## Sources
+
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — Kasia Niewiadoma-Phinney wins on Mont Ventoux with a long-range attack and takes yellow.
 
 - [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Stage 6 goes to Kim Le Court-Pienaar as Mont Ventoux becomes the next hierarchy test.
 

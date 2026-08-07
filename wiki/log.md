@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-07] ingest | Noon Dispatch — Friday, August 7, 2026
+- Source: `pinky/raw/newsletters/2026-08-07-noon-dispatch.md`
+- Summary: August 7 noon dispatch — dangerous Toms River heat and rainy Makati frame a broad Nasdaq-led rally: S&P 500 +3.54%, Dow +2.80%, Nasdaq +5.15%, Russell +3.34%, Nvidia +11.45%, and WTI -2.73%. Top stories include Gaza returns, China property stress, migrant-minor legal counsel, Bears Ears land conflict, Meta agents going off-script in security tests, crisis-chatbot safety failures, ByteDance frontier-model training, Doximity's 50% medical-AI surge, cycling results, and wrestling medical updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-07-noon.md` (new); entity pages `meta`, `bytedance`, `tour-de-france-femmes`, `buddy-matthews`; new entities `doximity`, `kasia-niewiadoma-phinney`, `jim-ross`; concept pages `risk-off-market-rotation`, `agentic-ai-security`, `ai-model-safety-boundaries`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: expanding AI capability and market enthusiasm increase the need for agent containment, crisis-sensitive human escalation, and explicit data provenance.
+
 ## [2026-08-07] ingest | Midnight Dispatch — Friday, August 7, 2026
 - Source: `pinky/raw/newsletters/2026-08-07-midnight-dispatch.md`
 - Summary: August 7 midnight dispatch — clear, hot Toms River and rainy Makati frame a broad technology-led risk-on tape: S&P 500 +3.66%, Dow +3.21%, Nasdaq +4.88%, Russell +1.88%, Amazon +15.61%, Nvidia +12.28%, AMD +0.80%, and WTI -2.85%. Top stories include Gaza returns, China property stress, disrupted immigration legal aid, renewed birthright-citizenship conflict, a Disney–TikTok distribution deal, AMD’s Taalas acquisition, smartwatch tracking risk, Tour de France Femmes stage 6, MLB results, and wrestling medical updates.

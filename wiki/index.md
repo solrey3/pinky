@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-07-noon](sources/newsletter-2026-08-07-noon.md) | Noon Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, agentic-ai, ai-safety, medical-ai, cycling, baseball, wrestling] | 2026-08-07 |
 | [newsletter-2026-08-07-midnight](sources/newsletter-2026-08-07-midnight.md) | Midnight Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, semiconductors, ai-hardware, media-distribution, immigration, cycling, baseball, wrestling] | 2026-08-07 |
 | [newsletter-2026-08-07-daytime](sources/newsletter-2026-08-07-daytime.md) | Morning Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, agentic-ai, semiconductors, hormuz, constitutional-law, cycling, baseball, wrestling] | 2026-08-07 |
 | [newsletter-2026-05-12](sources/newsletter-2026-05-12.md) | Newsletter 2026-05-12 — The Morning Dispatch & Evening Brief | newsletter | [newsletter, news, markets, sports, weather, current-events] | 2026-05-12 |
@@ -293,6 +294,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [newsletter-2026-08-06-evening](sources/newsletter-2026-08-06-evening.md) | Evening Brief — Thursday, August 6, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, semiconductors, ai-hardware, media-distribution, immigration, cycling, baseball, wrestling] | 2026-08-06 |
 
 ## Entities
+
+| [Doximity](entities/doximity.md) | organization | healthcare, technology, medical-ai, markets | 1 |
+| [Kasia Niewiadoma-Phinney](entities/kasia-niewiadoma-phinney.md) | person | cycling, tour-de-france-femmes, poland | 1 |
+| [Jim Ross](entities/jim-ross.md) | person | wrestling, broadcaster, aew, health | 1 |
 
 ### NBA Players
 | Entity | Type | Tags | Sources |
@@ -1245,7 +1250,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Mistral AI](entities/mistral-ai.md) | organization | ai, llm, open-weights, france, moderation | 2 |
 | [Bristol Myers Squibb](entities/bristol-myers-squibb.md) | organization | pharma, healthcare, biopharma, mergers | 1 |
 | [AstraZeneca](entities/astrazeneca.md) | organization | pharma, healthcare, biopharma, mergers | 1 |
-| [ByteDance](entities/bytedance.md) | organization | technology, ai, video, china, seedance | 1 |
+| [ByteDance](entities/bytedance.md) | organization | technology, ai, video, china, seedance | 2 |
 | [Seedance 2.5](entities/seedance-2-5.md) | product | ai, video-generation, bytedance, generative-video | 1 |
 | [In-N-Out Burger](entities/in-n-out-burger.md) | organization | restaurants, crime, idaho, public-safety | 1 |
 | [Windows 11](entities/windows-11.md) | product | microsoft, windows, operating-system, memory, optimization | 1 |
