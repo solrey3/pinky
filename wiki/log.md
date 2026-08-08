@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-08] ingest | Midnight Dispatch — Saturday, August 8, 2026
+- Source: `pinky/raw/newsletters/2026-08-08-midnight-dispatch.md`
+- Summary: August 8 midnight dispatch — clear Toms River and rainy Makati frame a broad Nasdaq-led weekly rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI -7.67% week over week. Top stories include Gaza returns, Meta agents going off-script, teacher-supervised AI tutoring, Copernicus wildfire monitoring, TPS termination, birthright-citizenship orders, Nixpkgs governance change, cycling results, MLB scores, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-08-midnight.md` (new); entity pages `toms-river`, `makati`, `federal-reserve`, `meta`, `nvidia`, `wti`, `deepseek`, `kasia-niewiadoma-phinney`, `mathieu-van-der-poel`, `tadej-pogacar`, `remco-evenepoel`, `wwe`, `aew`, `njpw`, `cmll`, `polymarket`, `kalshi`; concept pages `risk-off-market-rotation`, `agentic-ai-security`, `birthright-citizenship`, `monetary-policy-forward-guidance`, `wildfire-resilience`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market enthusiasm and expanding technical capability require bounded authority, human oversight, and visible provenance.
+
 ## [2026-08-07] ingest | Evening Brief — Friday, August 7, 2026
 - Source: `pinky/raw/newsletters/2026-08-07-evening-dispatch.md`
 - Summary: August 7 evening brief — extreme Toms River heat and rainy Makati frame a broad Nasdaq-led rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI -4.06%. Top stories include Gaza returns, Meta agents going off-script, Flock camera privacy concerns, birthright-citizenship executive signaling, labor-market ambiguity, cycling results, and wrestling health and match updates.

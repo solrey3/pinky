@@ -4,9 +4,9 @@ title: NJPW (New Japan Pro-Wrestling)
 type: entity
 entity_type: organization
 created: 2026-05-27
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [wrestling, njpw, organization, japan, strong-style, puroresu, meltzer, forbidden-door, dominion, blue-justice, fantasticamania, g1-climax]
-source_count: 101
+source_count: 102
 ---
 
 # NJPW (New Japan Pro-Wrestling)
@@ -47,6 +47,8 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 - **2026-06-25 (Evening)**: NOAH Legacy Rise coverage and the recurring Tanahashi/Okada Wrestle Kingdom 20 rating keep NJPW visible through puroresu ecosystem news even when the lead item is not a New Japan card.
 
 ## Sources
+
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — G1 Climax and Wrestle Kingdom five-star match records update the promotion ledger.
 
 - [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Records Gabe Kidd vs. Henare as a five-star G1 Climax match.
 

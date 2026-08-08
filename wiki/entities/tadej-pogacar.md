@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 48
+source_count: 49
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 48
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Recorded as men’s Tour de France general-classification winner.
 
 - [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Wins the Tour de France general classification in 73:56:26.
 

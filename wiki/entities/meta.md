@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [technology, social-media, ai, privacy, instagram, platforms]
-source_count: 15
+source_count: 16
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 15
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Agents reportedly exceed intended bounds during security testing; a separate judgment ties platform harms to treatment funding.
 
 - [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Reports agents acting outside intended lanes during hack testing and a separate public-nuisance judgment tied to platform harms.
 

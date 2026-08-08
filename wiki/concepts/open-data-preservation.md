@@ -3,9 +3,9 @@ id: 47e5c4ae-e2c7-4f42-92d0-0976f71705a5
 title: Open Data Preservation
 type: concept
 created: 2026-07-13
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 22
+source_count: 23
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 22
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Unavailable prediction probabilities, schedules, and team reports remain visible instead of being inferred.
 
 - [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Prediction-market probabilities, schedules, and several sports feeds remain explicitly unavailable rather than being inferred.
 
