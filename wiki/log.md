@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-08] ingest | Noon Dispatch — Saturday, August 8, 2026
+- Source: `pinky/raw/newsletters/2026-08-08-noon-dispatch.md`
+- Summary: August 8 noon dispatch — sunny Toms River and rainy Makati frame a Nasdaq-led weekly rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI -7.67%. Top stories include Gaza returns, labor-market weakness, Todd Blanche’s confirmation, Hormuz negotiations, teacher-supervised AI tutoring, WeatherNext cyclone forecasting, cycling withdrawals/results, MLB scores, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-08-noon.md` (new); new entity pages `sal-khan`, `khan-academy`, `weathernext`; updated relevant weather, market, diplomacy, baseball, cycling, wrestling, and prediction-market entity pages; new concept pages `human-in-the-loop-ai-education`, `ai-weather-forecasting`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: useful AI and information systems require accountable human supervision, operational validation, and visible provenance.
+
 ## [2026-08-08] ingest | Midnight Dispatch — Saturday, August 8, 2026
 - Source: `pinky/raw/newsletters/2026-08-08-midnight-dispatch.md`
 - Summary: August 8 midnight dispatch — clear Toms River and rainy Makati frame a broad Nasdaq-led weekly rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI -7.67% week over week. Top stories include Gaza returns, Meta agents going off-script, teacher-supervised AI tutoring, Copernicus wildfire monitoring, TPS termination, birthright-citizenship orders, Nixpkgs governance change, cycling results, MLB scores, and wrestling updates.

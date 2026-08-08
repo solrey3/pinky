@@ -4,9 +4,9 @@ title: New York Mets
 type: entity
 entity_type: organization
 created: 2026-07-19
-updated: 2026-08-05
+updated: 2026-08-08
 tags: [baseball, mlb, new-york-mets, schedule, sports]
-source_count: 33
+source_count: 34
 ---
 
 # New York Mets
@@ -14,6 +14,8 @@ source_count: 33
 The New York Mets are an MLB franchise tracked as a recurring local sports interest in scoreboard and schedule notes.
 
 ## Sources
+
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — The Mets beat Pittsburgh 6–4.
 
 - [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Beats Pittsburgh 6–4 in the completed MLB scoreboard.
 

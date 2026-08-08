@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-08-08
 tags: [wrestling, lucha-libre, mexico, promotion, cmll, arena-mexico, global-wars, cross-promotion, fantasticamania, forbidden-door, arena-puebla, verano]
-source_count: 92
+source_count: 93
 ---
 
 # CMLL
@@ -14,6 +14,8 @@ source_count: 92
 Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling promotion. In the wiki graph, CMLL anchors lucha-libre results and Mexico-based wrestling coverage.
 
 ## Sources
+
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Arena scheduling and a five-star Máscara Dorada–Komander match are recorded.
 
 - [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Grand Prix discussion, upcoming Arena México dates, and a five-star Leyenda de Plata match update the promotion ledger.
 
