@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-26
 updated: 2026-08-08
 tags: [wildfires, infrastructure, climate, emergency-management, land-management, resilience]
-source_count: 10
+source_count: 11
 ---
 
 # Wildfire Resilience
@@ -13,6 +13,8 @@ source_count: 10
 Wildfire resilience is the ability of communities, land-management systems, and infrastructure networks to reduce wildfire risk, operate through fire disruptions, and recover when evacuation, smoke, heat, or physical damage interrupt normal service.
 
 ## Sources
+
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Copernicus lowers the friction of satellite-based fire monitoring and situational awareness.
 
 - [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — More accessible Copernicus satellite tools strengthen wildfire detection and monitoring capacity.
 

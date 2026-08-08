@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-22
 updated: 2026-08-06
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 42
+source_count: 43
 ---
 
 # Prediction Markets
@@ -13,6 +13,8 @@ source_count: 42
 Prediction markets are trading venues or market-like instruments that convert expectations about events into prices or probabilities. In this wiki they matter less as oracle machines than as sentiment, incentive, and provenance objects: the price can be useful, but only if the market source, liquidity, rules, extraction method, and failure modes are visible.
 
 ## Sources
+
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Polymarket yielded no verified movers and Kalshi was blocked, leaving no defensible prediction-market signal.
 
 - [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Polymarket lists Abdul El-Sayed at 63% in a Michigan Senate winner market while Kalshi data are unavailable.
 

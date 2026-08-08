@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-08
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 23
+source_count: 24
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 23
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Copernicus illustrates accessible public satellite data, while failed feeds are marked unavailable instead of inferred.
 
 - [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Unavailable prediction probabilities, schedules, and team reports remain visible instead of being inferred.
 

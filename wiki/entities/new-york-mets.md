@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-19
 updated: 2026-08-05
 tags: [baseball, mlb, new-york-mets, schedule, sports]
-source_count: 32
+source_count: 33
 ---
 
 # New York Mets
@@ -14,6 +14,8 @@ source_count: 32
 The New York Mets are an MLB franchise tracked as a recurring local sports interest in scoreboard and schedule notes.
 
 ## Sources
+
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Beats Pittsburgh 6–4 in the completed MLB scoreboard.
 
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — The Mets beat Cleveland 6–2 on the road in the MLB scoreboard.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Team report logs three straight losses to Miami, a 0–2 Aug. 2 result, and trade-deadline moves involving Clay Holmes, Tyrone Taylor, and Luke Weaver.

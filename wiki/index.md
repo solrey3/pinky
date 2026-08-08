@@ -127,6 +127,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
 | [newsletter-2026-08-08-midnight](sources/newsletter-2026-08-08-midnight.md) | Midnight Dispatch — Saturday, August 8, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, agentic-ai, birthright-citizenship, wildfire-monitoring, cycling, baseball, wrestling] | 2026-08-08 |
+| [newsletter-2026-08-08-daytime](sources/newsletter-2026-08-08-daytime.md) | Morning Dispatch — Saturday, August 8, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, labor-market, birthright-citizenship, wildfire-monitoring, cycling, baseball, wrestling] | 2026-08-08 |
 | [newsletter-2026-08-07-evening](sources/newsletter-2026-08-07-evening.md) | Evening Brief — Friday, August 7, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, agentic-ai, surveillance, birthright-citizenship, cycling, baseball, wrestling] | 2026-08-07 |
 | [newsletter-2026-08-07-noon](sources/newsletter-2026-08-07-noon.md) | Noon Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, agentic-ai, ai-safety, medical-ai, cycling, baseball, wrestling] | 2026-08-07 |
 | [newsletter-2026-08-07-midnight](sources/newsletter-2026-08-07-midnight.md) | Midnight Dispatch — Friday, August 7, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, semiconductors, ai-hardware, media-distribution, immigration, cycling, baseball, wrestling] | 2026-08-07 |
@@ -297,6 +298,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ## Entities
 
+| [Copernicus](entities/copernicus.md) | organization | satellite, earth-observation, open-data, wildfires | 1 |
 | [Doximity](entities/doximity.md) | organization | healthcare, technology, medical-ai, markets | 1 |
 | [Kasia Niewiadoma-Phinney](entities/kasia-niewiadoma-phinney.md) | person | cycling, tour-de-france-femmes, poland | 1 |
 | [Jim Ross](entities/jim-ross.md) | person | wrestling, broadcaster, aew, health | 1 |
@@ -1749,7 +1751,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ---
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-08-08*
 
 
 ## Sources & Knowledge Bases
@@ -1796,10 +1798,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [cmatrix Cheatsheet](sources/cmatrix.md) | Cheatsheet | [cmatrix](../raw/cheatsheets/cmatrix.md) |
 | [gawk Cheatsheet](sources/gawk.md) | Cheatsheet | [gawk](../raw/cheatsheets/gawk.md) |
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-08-08*
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-08-08*
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-08-08*
 
-*Last updated: 2026-08-01*
+*Last updated: 2026-08-08*
