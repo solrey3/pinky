@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-08
 updated: 2026-08-08
 tags: [ai, weather, forecasting, cyclones, climate, resilience]
-source_count: 1
+source_count: 2
 ---
 
 # AI Weather Forecasting
@@ -13,6 +13,8 @@ source_count: 1
 The use of machine-learning models to predict atmospheric conditions and severe-weather behavior, potentially improving speed, resolution, or lead time alongside conventional numerical forecasting.
 
 ## Sources
+
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — DeepMind hurricane forecasting illustrates AI’s growing role in severe-weather prediction.
 
 - [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — DeepMind's WeatherNext is highlighted for breakthrough cyclone forecasting.
 

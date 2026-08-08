@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-08-08
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 115
+source_count: 116
 ---
 
 # Nvidia
@@ -14,6 +14,8 @@ source_count: 115
 American semiconductor and AI-infrastructure company whose GPUs and networking stack sit at the center of modern model training and inference. In the newsletter graph, Nvidia matters less as a ticker quote than as the hardware layer behind the AI boom.
 
 ## Sources
+
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — An 11.56% weekly gain leads the tracked stock board in a Nasdaq-led rally.
 
 - [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Leads the tracked weekly stock board with an 11.56% gain.
 

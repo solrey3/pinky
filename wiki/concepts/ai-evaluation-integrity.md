@@ -3,9 +3,9 @@ id: 696a9c1f-7e23-4228-9285-e23cba5a16fd
 title: AI Evaluation Integrity
 type: concept
 created: 2026-07-08
-updated: 2026-08-05
+updated: 2026-08-08
 tags: [ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations]
-source_count: 23
+source_count: 24
 ---
 
 # AI Evaluation Integrity
@@ -13,6 +13,8 @@ source_count: 23
 AI evaluation integrity is the practice of making AI assessments, benchmarks, and institutional scoring systems resistant to leakage, gaming, measurement noise, and misuse.
 
 ## Sources
+
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Denmark requires oral defenses of written work as an authorship and comprehension check amid AI-cheating concerns.
 
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Legal hallucination cases connect AI accuracy to professional verification, candor duties, and court sanctions.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The 58,000-student AI-proctored exam retake remains the clearest institutional-scale failure of AI-mediated assessment.

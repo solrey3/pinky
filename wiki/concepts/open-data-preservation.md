@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-08
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 25
+source_count: 26
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 25
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Unavailable prediction prices, Wawa pricing, and sports/team feeds remain explicit rather than inferred.
 
 - [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Unavailable prediction prices, Wawa pricing, schedules, and sports feeds remain explicit rather than inferred.
 

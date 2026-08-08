@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-08] ingest | Evening Brief — Saturday, August 8, 2026
+- Source: `pinky/raw/newsletters/2026-08-08-evening-dispatch.md`
+- Summary: August 8 evening brief — dangerous Toms River heat and rainy Makati frame a Nasdaq-led weekly rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI -7.67%. Top stories include Gaza returns, labor-market weakness, conditional Hormuz talks, autonomous Mars driving, AI hurricane forecasting, oral defenses against AI cheating, EU email data residency, cycling and MLB results, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-08-evening.md` (new); new entity page `fastmail`; relevant weather, market, technology, cycling, prediction-market entity pages; new concept page `data-residency`; concept pages `risk-off-market-rotation`, `ai-weather-forecasting`, `ai-evaluation-integrity`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: trustworthy automation depends on operational validation, accountable human explanation, visible data jurisdiction, and explicit provenance.
+
 ## [2026-08-08] ingest | Noon Dispatch — Saturday, August 8, 2026
 - Source: `pinky/raw/newsletters/2026-08-08-noon-dispatch.md`
 - Summary: August 8 noon dispatch — sunny Toms River and rainy Makati frame a Nasdaq-led weekly rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI -7.67%. Top stories include Gaza returns, labor-market weakness, Todd Blanche’s confirmation, Hormuz negotiations, teacher-supervised AI tutoring, WeatherNext cyclone forecasting, cycling withdrawals/results, MLB scores, and wrestling updates.

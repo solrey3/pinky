@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-04
 updated: 2026-08-08
 tags: [cycling, womens-cycling, tour-de-france, sports]
-source_count: 10
+source_count: 11
 ---
 
 # Tour de France Femmes
@@ -14,6 +14,8 @@ source_count: 10
 Tour de France Femmes is tracked as the women’s Tour cycling race and a recurring sports-ledger event.
 
 ## Sources
+
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Stage 8 changes the race lead as Vollering takes yellow and Ferrand-Prévot withdraws ill.
 
 - [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Stage 8 coverage records Pauline Ferrand-Prévot withdrawing because of illness.
 

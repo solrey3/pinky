@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-07-26
+updated: 2026-08-08
 tags: [space, science, government, artemis, moon]
-source_count: 4
+source_count: 5
 ---
 
 # NASA
@@ -14,6 +14,8 @@ source_count: 4
 NASA is the United States civilian space agency. In the newsletter stream it appears through human-spaceflight and science-mission milestones rather than only launch-provider infrastructure.
 
 ## Sources
+
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Autonomous driving on Mars is presented as a successful high-consequence deployment.
 
 - [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — NASA announces the Artemis III crew, keeping the Moon-return arc active in the daily news feed.
 
