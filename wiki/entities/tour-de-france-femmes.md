@@ -4,9 +4,9 @@ title: Tour de France Femmes
 type: entity
 entity_type: other
 created: 2026-08-04
-updated: 2026-08-08
+updated: 2026-08-09
 tags: [cycling, womens-cycling, tour-de-france, sports]
-source_count: 11
+source_count: 12
 ---
 
 # Tour de France Femmes
@@ -14,6 +14,8 @@ source_count: 11
 Tour de France Femmes is tracked as the women’s Tour cycling race and a recurring sports-ledger event.
 
 ## Sources
+
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — Stage 8 coverage records Demi Vollering taking the yellow jersey with a late attack.
 
 - [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Stage 8 changes the race lead as Vollering takes yellow and Ferrand-Prévot withdraws ill.
 

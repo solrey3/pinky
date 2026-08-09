@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-09-midnight](sources/newsletter-2026-08-09-midnight.md) | Midnight Dispatch — Sunday, August 9, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, labor-market, hormuz, defense-production, ai-weather-forecasting, cycling, baseball, wrestling] | 2026-08-09 |
 | [newsletter-2026-08-08-evening](sources/newsletter-2026-08-08-evening.md) | Evening Brief — Saturday, August 8, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, labor-market, hormuz, ai-weather-forecasting, academic-integrity, data-residency, cycling, baseball, wrestling] | 2026-08-08 |
 | [newsletter-2026-08-08-noon](sources/newsletter-2026-08-08-noon.md) | Noon Dispatch — Saturday, August 8, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, labor-market, ai-education, cyclone-forecasting, cycling, baseball, wrestling] | 2026-08-08 |
 | [newsletter-2026-08-08-midnight](sources/newsletter-2026-08-08-midnight.md) | Midnight Dispatch — Saturday, August 8, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, agentic-ai, birthright-citizenship, wildfire-monitoring, cycling, baseball, wrestling] | 2026-08-08 |
