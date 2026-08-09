@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-09
 updated: 2026-08-09
 tags: [ai, medicine, evaluation, safety, benchmarks]
-source_count: 1
+source_count: 2
 ---
 
 # Medical AI Evaluation
@@ -13,6 +13,8 @@ source_count: 1
 The measurement of AI performance on clinical tests, diagnostic tasks, and care workflows. Benchmark accuracy establishes task capability but not automatically clinical usefulness, calibration, patient safety, accountability, or performance under distribution shift.
 
 ## Sources
+
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Reports claims of AI beating doctors on medical tests while preserving the distinction between benchmark capability and safe clinical deployment.
 
 - [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — Cites medical-test results in which AI reportedly outperforms human doctors, sharpening the distinction between benchmark success and deployment readiness.
 

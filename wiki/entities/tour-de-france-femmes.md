@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-04
 updated: 2026-08-09
 tags: [cycling, womens-cycling, tour-de-france, sports]
-source_count: 14
+source_count: 15
 ---
 
 # Tour de France Femmes
@@ -14,6 +14,8 @@ source_count: 14
 Tour de France Femmes is tracked as the women’s Tour cycling race and a recurring sports-ledger event.
 
 ## Sources
+
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Demi Vollering wins solo in Nice and seals the overall title; Kasia Niewiadoma-Phinney and Elisa Longo Borghini complete the podium.
 
 - [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — The final stage remains live in the fetched feed while Marlen Reusser crashes on the descent.
 

@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-09
 updated: 2026-08-09
 tags: [labor, benefits, caregiving, worker-protection]
-source_count: 1
+source_count: 2
 ---
 
 # Paid Family Leave
@@ -13,6 +13,8 @@ source_count: 1
 Job-protected or employer-supported paid time away from work for childbirth, adoption, caregiving, or serious family needs. Its practical value depends on coverage, wage replacement, duration, and whether workers can use it without career penalties.
 
 ## Sources
+
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Repeats evidence that employer-paid family-time benefits are declining in the United States despite strong markets and corporate sales.
 
 - [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — Reports that employer-paid family-time support is declining in the United States.
 

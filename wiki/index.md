@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-09-evening](sources/newsletter-2026-08-09-evening.md) | Evening Brief — Sunday, August 9, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, family-leave, medical-ai, hormuz, cycling, baseball, wrestling] | 2026-08-09 |
 | [newsletter-2026-08-09-noon](sources/newsletter-2026-08-09-noon.md) | Noon Dispatch — Sunday, August 9, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, family-leave, medical-ai, food-safety, energy-transition, hormuz, cycling, baseball, wrestling] | 2026-08-09 |
 | [newsletter-2026-08-09-daytime](sources/newsletter-2026-08-09-daytime.md) | Morning Dispatch — Sunday, August 9, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, family-leave, immigration, hormuz, defense-production, ai-weather-forecasting, cycling, baseball, wrestling] | 2026-08-09 |
 | [newsletter-2026-08-09-midnight](sources/newsletter-2026-08-09-midnight.md) | Midnight Dispatch — Sunday, August 9, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, labor-market, hormuz, defense-production, ai-weather-forecasting, cycling, baseball, wrestling] | 2026-08-09 |
@@ -830,7 +831,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [U.S. Treasury](entities/us-treasury.md) | organization | government, finance, currency, united-states, public-symbolism | 2 |
 | [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 13 |
 | [U.S. Immigration and Customs Enforcement](entities/us-immigration-and-customs-enforcement.md) | organization | government, immigration, enforcement, ice, civil-liberties, united-states | 10 |
-| [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy | 72 |
+| [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy | 76 |
 | [Jordan](entities/jordan.md) | place | jordan, middle-east, military, geopolitics, united-states, iran | 4 |
 | [Iraq](entities/iraq.md) | place | iraq, middle-east, military, geopolitics, united-states, iran | 1 |
 | [Israel](entities/israel.md) | place | israel, geopolitics, middle-east, foreign-policy, aid, united-states, hamas, diplomacy | 5 |
@@ -1025,7 +1026,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Arsene Wenger](entities/arsene-wenger.md) | person | soccer, fifa, governance | 1 |
 | [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 19 |
 | [Sigrid Haugset](entities/sigrid-haugset.md) | person | cycling, tour-de-france-femmes, sports | 1 |
-| [Tour de France Femmes](entities/tour-de-france-femmes.md) | other | cycling, womens-cycling, tour-de-france, sports | 11 |
+| [Tour de France Femmes](entities/tour-de-france-femmes.md) | other | cycling, womens-cycling, tour-de-france, sports | 15 |
 | [Marlen Reusser](entities/marlen-reusser.md) | person | cycling, tour-de-france-femmes, time-trial, sports | 3 |
 | [Pauline Ferrand-Prévot](entities/pauline-ferrand-prevot.md) | person | cycling, tour-de-france-femmes, sports | 2 |
 | [Philadelphia Phillies](entities/philadelphia-phillies.md) | organization | baseball, mlb, philadelphia, sports | 1 |
@@ -1086,7 +1087,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Warner Bros. Discovery](entities/warner-bros-discovery.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 6 |
 | [Plex](entities/plex.md) | product | media, streaming, self-hosting, subscriptions, platform | 1 |
 | [PlayStation](entities/playstation.md) | product | gaming, console, sony, digital-distribution, physical-media, platform | 2 |
-| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets | 116 |
+| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets | 120 |
 | [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports | 15 |
 | [Milwaukee Bucks](entities/milwaukee-bucks.md) | organization | nba, basketball, milwaukee, giannis-antetokounmpo | 1 |
 | [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control | 35 |
@@ -1428,15 +1429,15 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Disney](entities/disney.md) | organization | media, entertainment, distribution | 1 |
 | [Taalas](entities/taalas.md) | organization | ai, semiconductors, inference | 3 |
 | [Kim Le Court-Pienaar](entities/kim-le-court-pienaar.md) | person | cycling, tour-de-france-femmes | 1 |
-| [Demi Vollering](entities/demi-vollering.md) | person | cycling, tour-de-france-femmes | 2 |
+| [Demi Vollering](entities/demi-vollering.md) | person | cycling, tour-de-france-femmes | 5 |
 | [Buddy Matthews](entities/buddy-matthews.md) | person | wrestling, aew, injury | 1 |
 
 ## Concepts
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
-| [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 1 |
-| [Paid Family Leave](concepts/paid-family-leave.md) | labor, benefits, caregiving, worker-protection | 1 |
+| [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 2 |
+| [Paid Family Leave](concepts/paid-family-leave.md) | labor, benefits, caregiving, worker-protection | 2 |
 | [Renewable Energy Displacement](concepts/renewable-energy-displacement.md) | energy, renewables, fossil-fuels, transition, demand | 1 |
 | [Data Residency](concepts/data-residency.md) | privacy, cloud, compliance, jurisdiction, data-governance | 1 |
 | [Human-in-the-Loop AI Education](concepts/human-in-the-loop-ai-education.md) | ai, education, tutoring, teachers, human-oversight | 1 |
@@ -1525,7 +1526,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 141 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 145 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 4 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
 | ["Security & Privacy Toolkit"](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed] | 112 |
@@ -1555,7 +1556,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Reusable Rockets](concepts/reusable-rockets.md) | [space, launch, rockets, infrastructure, china, competition] | 7 |
 | [World Models](concepts/world-models.md) | [ai, world-models, simulation, forecasting, agents, robotics, limitations] | 2 |
 | [Robotics Whole-Body Intelligence](concepts/robotics-whole-body-intelligence.md) | [ai, robotics, embodiment, world-models, google-deepmind] | 3 |
-| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 26 |
+| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 29 |
 | [Press Freedom](concepts/press-freedom.md) | [first-amendment, journalism, censorship, courts, civil-liberties, media] | 5 |
 | [Foodborne Outbreaks](concepts/foodborne-outbreaks.md) | public-health, food-safety, supply-chain, outbreaks, recalls, cyclospora | 15 |
 | [Property Rights and Takings](concepts/property-rights-and-takings.md) | [law, property-rights, eminent-domain, takings, supreme-court, infrastructure] | 13 |
@@ -1766,7 +1767,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ---
 
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-09*
 
 
 ## Sources & Knowledge Bases
@@ -1813,10 +1814,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [cmatrix Cheatsheet](sources/cmatrix.md) | Cheatsheet | [cmatrix](../raw/cheatsheets/cmatrix.md) |
 | [gawk Cheatsheet](sources/gawk.md) | Cheatsheet | [gawk](../raw/cheatsheets/gawk.md) |
 
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-09*
 
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-09*
 
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-09*
 
-*Last updated: 2026-08-08*
+*Last updated: 2026-08-09*

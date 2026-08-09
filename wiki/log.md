@@ -1375,3 +1375,10 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: August 9 midnight dispatch — Friday's completed-week rally remains technology-led (Nasdaq +5.19%, Nvidia +11.56%) but WTI's 7.67% weekly decline, VNQ weakness, high long rates, and the ended job-growth streak preserve cross-asset and macro caution; news adds Gaza returns, Pentagon weapons-stock pressure, Iran/Hormuz demands, DeepMind hurricane forecasting, cycling, MLB, and wrestling records.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-08-09-midnight.md` (new), entity pages `nvidia`, `iran`, `demi-vollering`, `tour-de-france-femmes`; concept pages `risk-off-market-rotation`, `ai-weather-forecasting`, `prediction-markets`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: temporal freshness and operational evidence connect weekend market carry-forward, defense capacity, severe-weather model validation, Hormuz diplomacy, and missing prediction-market feeds.
+
+## [2026-08-09] ingest | Evening Brief — Sunday, August 9, 2026
+- Source: `pinky/raw/newsletters/2026-08-09-evening-dispatch.md`
+- Summary: August 9 evening brief — Friday's broad technology-led rally (Nasdaq +5.19%, Nvidia +11.56%) retains VNQ and long-rate caveats; news spans Gaza returns, shrinking paid family leave, Hormuz de-escalation, medical-AI benchmarks, Mars autonomy, and Toba research, while Demi Vollering wins the Tour de France Femmes.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-09-evening.md` (new), entity pages `nvidia`, `iran`, `demi-vollering`, `tour-de-france-femmes`; concept pages `risk-off-market-rotation`, `paid-family-leave`, `medical-ai-evaluation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: headline outcomes require checks for breadth, completion, governance, durability, and provenance.
+
