@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-09-noon](sources/newsletter-2026-08-09-noon.md) | Noon Dispatch — Sunday, August 9, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, family-leave, medical-ai, food-safety, energy-transition, hormuz, cycling, baseball, wrestling] | 2026-08-09 |
 | [newsletter-2026-08-09-daytime](sources/newsletter-2026-08-09-daytime.md) | Morning Dispatch — Sunday, August 9, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, family-leave, immigration, hormuz, defense-production, ai-weather-forecasting, cycling, baseball, wrestling] | 2026-08-09 |
 | [newsletter-2026-08-09-midnight](sources/newsletter-2026-08-09-midnight.md) | Midnight Dispatch — Sunday, August 9, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, labor-market, hormuz, defense-production, ai-weather-forecasting, cycling, baseball, wrestling] | 2026-08-09 |
 | [newsletter-2026-08-08-evening](sources/newsletter-2026-08-08-evening.md) | Evening Brief — Saturday, August 8, 2026 | newsletter | [newsletter, evening-dispatch, markets, risk-on, labor-market, hormuz, ai-weather-forecasting, academic-integrity, data-residency, cycling, baseball, wrestling] | 2026-08-08 |
@@ -1434,6 +1435,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 1 |
+| [Paid Family Leave](concepts/paid-family-leave.md) | labor, benefits, caregiving, worker-protection | 1 |
+| [Renewable Energy Displacement](concepts/renewable-energy-displacement.md) | energy, renewables, fossil-fuels, transition, demand | 1 |
 | [Data Residency](concepts/data-residency.md) | privacy, cloud, compliance, jurisdiction, data-governance | 1 |
 | [Human-in-the-Loop AI Education](concepts/human-in-the-loop-ai-education.md) | ai, education, tutoring, teachers, human-oversight | 1 |
 | [AI Weather Forecasting](concepts/ai-weather-forecasting.md) | ai, weather, forecasting, cyclones, climate, resilience | 2 |

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-09] ingest | Noon Dispatch — Sunday, August 9, 2026
+- Source: `pinky/raw/newsletters/2026-08-09-noon-dispatch.md`
+- Summary: August 9 noon dispatch — intense Toms River heat and rainy Makati frame a Nasdaq-led completed-week rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, and Nvidia +11.56%. Top stories include Gaza returns, declining paid family leave, food-safety-driven shopping changes, new Hormuz demands, medical-AI benchmark gains, renewable growth without fossil displacement, cycling and MLB results, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-09-noon.md` (new); entity pages `toms-river`, `makati`, `nvidia`, `iran`, `marlen-reusser`, `mathieu-van-der-poel`, `tadej-pogacar`, `tour-de-france-femmes`, `liv-morgan`, `stephanie-vaquer`; new concept pages `paid-family-leave`, `medical-ai-evaluation`, `renewable-energy-displacement`; concept pages `risk-off-market-rotation`, `foodborne-outbreaks`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: headline growth must be tested against actual worker access, clinical safety, energy displacement, and data provenance.
+
 ## [2026-08-09] ingest | Morning Dispatch — Sunday, August 9, 2026
 - Source: `pinky/raw/newsletters/2026-08-09-daytime-dispatch.md`
 - Summary: August 9 morning dispatch — dangerous Toms River heat and rainy Makati frame a Nasdaq-led completed-week rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, and Nvidia +11.56%. Top stories include Gaza returns, declining paid family leave, defense-production pressure, new Hormuz demands, possible H-1B layoff-lifeline changes, autonomous Mars driving, AI hurricane forecasting, cycling and MLB results, and wrestling updates.
