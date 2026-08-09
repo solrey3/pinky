@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-08-06
 updated: 2026-08-09
 tags: [cycling, womens-cycling, tour-de-france-femmes]
-source_count: 3
+source_count: 4
 ---
 
 # Demi Vollering
@@ -14,6 +14,8 @@ source_count: 3
 Professional cyclist and Tour de France Femmes general-classification contender.
 
 ## Sources
+
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — A late Stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
 
 - [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — A late Stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
 
