@@ -1394,3 +1394,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Pages touched: `pinky/wiki/sources/newsletter-2026-08-09-evening.md` (new), entity pages `nvidia`, `iran`, `demi-vollering`, `tour-de-france-femmes`; concept pages `risk-off-market-rotation`, `paid-family-leave`, `medical-ai-evaluation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: headline outcomes require checks for breadth, completion, governance, durability, and provenance.
 
+
+## [2026-08-10] ingest | Noon Dispatch — Monday, August 10, 2026
+- Source: `pinky/raw/newsletters/2026-08-10-noon-dispatch.md`
+- Summary: August 10 noon dispatch — broad equity gains coexist with VNQ weakness, a 5.24% 30-year yield, and WTI's 7.99% surge; news covers Gaza returns, Berkshire cash deployment, a municipal 911 cyberattack, Cypriot gas, service-member deportation scrutiny, Meta's open-weight Muse Glimmer coding model and a separate cyber-test breach, plus MLB, cycling, and wrestling records.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-10-noon.md` (new), entity pages `meta`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `critical-infrastructure-cybersecurity`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market, emergency-system, and agentic-model resilience all depend on control layers that remain effective under abnormal conditions, while explicit missing-feed markers preserve verification boundaries.
