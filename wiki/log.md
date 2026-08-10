@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-10] ingest | Midnight Dispatch — Monday, August 10, 2026
+- Source: `pinky/raw/newsletters/2026-08-10-midnight-dispatch.md`
+- Summary: August 10 midnight dispatch — hot Toms River and rainy Makati frame a technology-led rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, and Nvidia +11.56%. Top stories include Gaza returns, declining paid family leave, a cyberattack disrupting a California city’s 911 operations, prospective Cypriot gas exports, DeepMind hurricane forecasting, cycling and MLB results, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-10-midnight.md` (new); entity pages `toms-river`, `makati`, `nvidia`, `google-deepmind`, `demi-vollering`, `tour-de-france-femmes`; concept pages `risk-off-market-rotation`, `paid-family-leave`, `critical-infrastructure-cybersecurity`, `ai-weather-forecasting`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: household, emergency-service, forecasting, and market resilience all depend on adequate buffers, tested operations, and visible provenance.
+
 ## [2026-08-09] ingest | Noon Dispatch — Sunday, August 9, 2026
 - Source: `pinky/raw/newsletters/2026-08-09-noon-dispatch.md`
 - Summary: August 9 noon dispatch — intense Toms River heat and rainy Makati frame a Nasdaq-led completed-week rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, and Nvidia +11.56%. Top stories include Gaza returns, declining paid family leave, food-safety-driven shopping changes, new Hormuz demands, medical-AI benchmark gains, renewable growth without fossil displacement, cycling and MLB results, and wrestling updates.

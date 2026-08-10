@@ -4,9 +4,9 @@ title: Demi Vollering
 type: entity
 entity_type: person
 created: 2026-08-06
-updated: 2026-08-09
+updated: 2026-08-10
 tags: [cycling, womens-cycling, tour-de-france-femmes]
-source_count: 5
+source_count: 6
 ---
 
 # Demi Vollering
@@ -14,6 +14,8 @@ source_count: 5
 Professional cyclist and Tour de France Femmes general-classification contender.
 
 ## Sources
+
+- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-midnight.md) — Wins solo on the final stage in Nice and secures the Tour de France Femmes overall title.
 
 - [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Wins solo on the final stage in Nice and secures the Tour de France Femmes overall title.
 
