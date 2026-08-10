@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-08-10
 tags: [ai, robotics, google, research, deepmind]
-source_count: 6
+source_count: 7
 ---
 
 # Google DeepMind
@@ -14,6 +14,8 @@ source_count: 6
 Google's AI research lab. In the newsletter graph, Google DeepMind is an AI-capability anchor, especially when model advances move from language and software into embodied robotics.
 
 ## Sources
+
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Its hurricane-forecasting work draws attention from weather scientists as an operational severe-weather AI application.
 
 - [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-midnight.md) — Its hurricane-forecasting breakthrough is highlighted as surprising weather scientists.
 

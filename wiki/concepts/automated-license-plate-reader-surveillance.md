@@ -3,9 +3,9 @@ id: dca61d73-4c10-43f9-8654-a4ed1438e749
 title: Automated License-Plate Reader Surveillance
 type: concept
 created: 2026-07-31
-updated: 2026-08-07
+updated: 2026-08-10
 tags: [surveillance, privacy, law-enforcement, alpr, data-quality, access-control]
-source_count: 6
+source_count: 7
 ---
 
 # Automated License-Plate Reader Surveillance
@@ -13,6 +13,8 @@ source_count: 6
 Automated license-plate reader surveillance uses cameras and OCR systems to convert vehicle movements into searchable records. Its value depends on read accuracy, retention rules, access logs, and penalties for misuse.
 
 ## Sources
+
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Bipartisan scrutiny of Flock cameras broadens concern over privacy, retention, access, accuracy, and misuse.
 
 - [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — The nationwide Flock camera debate frames automated plate readers as a public-safety tool with privacy, retention, access, and misuse risks.
 

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-10] ingest | Morning Dispatch — Monday, August 10, 2026
+- Source: `pinky/raw/newsletters/2026-08-10-daytime-dispatch.md`
+- Summary: August 10 morning dispatch — 96°F Toms River heat and rainy Makati frame a broad rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI +5.07%. Top stories include Gaza returns, China property stress, bipartisan Flock-camera privacy scrutiny, a cyberattack disrupting municipal 911 operations, AI hurricane forecasting, cycling and MLB results, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-10-daytime.md` (new); entity pages `toms-river`, `makati`, `nvidia`, `google-deepmind`, `demi-vollering`, `tour-de-france-femmes`; concept pages `risk-off-market-rotation`, `automated-license-plate-reader-surveillance`, `critical-infrastructure-cybersecurity`, `ai-weather-forecasting`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market, surveillance, emergency-service, forecasting, and data-feed resilience all require bounded authority, tested fallbacks, and visible provenance.
+
 ## [2026-08-10] ingest | Midnight Dispatch — Monday, August 10, 2026
 - Source: `pinky/raw/newsletters/2026-08-10-midnight-dispatch.md`
 - Summary: August 10 midnight dispatch — hot Toms River and rainy Makati frame a technology-led rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, and Nvidia +11.56%. Top stories include Gaza returns, declining paid family leave, a cyberattack disrupting a California city’s 911 operations, prospective Cypriot gas exports, DeepMind hurricane forecasting, cycling and MLB results, and wrestling updates.
