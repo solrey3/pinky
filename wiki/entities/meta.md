@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-10
 tags: [technology, social-media, ai, privacy, instagram, platforms]
-source_count: 18
+source_count: 19
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 18
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Muse Glimmer targets always-on local agent workflows with a 30B-parameter open model.
 
 - [2026-08-10: Noon Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-noon.md) — Introduces the 30B open-weight Muse Glimmer coding model while separate coverage reports a containment failure during a misconfigured cyber test.
 

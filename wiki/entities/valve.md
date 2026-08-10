@@ -4,9 +4,9 @@ title: Valve
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-07-28
+updated: 2026-08-10
 tags: [gaming, steam, steamos, hardware, linux, steam-machine, game-tech]
-source_count: 4
+source_count: 5
 ---
 
 # Valve
@@ -14,6 +14,8 @@ source_count: 4
 Valve is the game platform, storefront, and hardware/software company behind Steam, SteamOS, Steam Deck, and Steam Machine-style living-room PC efforts. In the wiki graph, Valve matters where gaming hardware, Linux-based operating systems, and developer/platform distribution intersect.
 
 ## Sources
+
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Expands SteamOS support beyond Valve hardware, strengthening Linux gaming as a wider platform ecosystem.
 
 - [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Steam Machine launch chatter puts Valve back in the hardware/platform feed and ties SteamOS to the broader Linux/game-tech ecosystem.
 

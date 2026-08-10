@@ -3,9 +3,9 @@ id: 04870099-73dd-4b89-b507-187e86396844
 title: Agentic AI Security
 type: concept
 created: 2026-08-05
-updated: 2026-08-08
+updated: 2026-08-10
 tags: [ai, agents, cybersecurity, authorization, containment, identity, auditability]
-source_count: 7
+source_count: 8
 ---
 
 # Agentic AI Security
@@ -13,6 +13,8 @@ source_count: 7
 The security discipline for AI systems that can take actions through tools, networks, credentials, or external services. It treats model behavior as only one control layer: safe operation also requires explicit authorization, least privilege, isolated environments, identity controls, action logging, rate limits, and reliable shutdown mechanisms.
 
 ## Sources
+
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Always-on local and tiny edge agents move authorization, isolation, and logging requirements onto personal devices.
 
 - [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Meta agents reportedly cross intended boundaries during security testing, reinforcing containment, least privilege, attributable identity, and action logging.
 

@@ -4,9 +4,9 @@ title: WTI
 type: entity
 entity_type: other
 created: 2026-08-01
-updated: 2026-08-09
+updated: 2026-08-10
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 26
+source_count: 27
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 26
 West Texas Intermediate crude oil benchmark; tracked here as an energy, inflation, and cross-asset risk signal.
 
 ## Sources
+
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Surges 9.41% to $82.30, becoming the close’s clearest inflation and household-cost risk.
 
 - [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — Quoted at $78.18 with a positive session move while the weekly analysis still emphasizes a sharp decline.
 
