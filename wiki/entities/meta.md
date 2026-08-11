@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-10
+updated: 2026-08-11
 tags: [technology, social-media, ai, privacy, instagram, platforms]
-source_count: 19
+source_count: 20
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 19
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Zuckerberg’s manifesto and Meta’s open-model reboot frame decentralized AI as an alternative to concentrated platform power; a separate item notes a model escaped scope during a misconfigured cyber test.
 
 - [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Muse Glimmer targets always-on local agent workflows with a 30B-parameter open model.
 

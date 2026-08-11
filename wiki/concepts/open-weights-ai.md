@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-08-04
+updated: 2026-08-11
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 35
+source_count: 36
 ---
 
 # Open-Weights AI
@@ -13,6 +13,8 @@ source_count: 35
 AI models whose trained weights are released for outside use, inspection, adaptation, or local deployment, even when the training data and full training process may not be open. Open weights matter because they change who can run, audit, fine-tune, and operationalize model capabilities.
 
 ## Sources
+
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Meta presents open models and decentralized AI power as a strategic alternative to concentrated control.
 
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Mistral’s Shieldstral adds a small open-weights multimodal moderation model to the operational AI-tooling thread.
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Mistral's Shieldstral appears as a 3B open-weights multimodal moderation model, extending open weights into safety tooling.

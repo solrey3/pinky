@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-11] ingest | Midnight Dispatch — Tuesday, August 11, 2026
+- Source: `pinky/raw/newsletters/2026-08-11-midnight-dispatch.md`
+- Summary: August 11 midnight dispatch — warm Toms River and rainy Makati frame a broad rally: S&P 500 +2.01%, Dow +1.50%, Nasdaq +2.67%, Russell +1.19%, and Nvidia +5.28%, while WTI jumps 6.28%, VNQ falls 1.98%, and the 30-year Treasury reaches 5.243%. Top stories include Gaza returns, U.S. munitions constraints, difficult Hormuz negotiations, Meta's decentralized open-model pitch, $500 billion in prospective AI-infrastructure financing, cycling and MLB results, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-11-midnight.md` (new); entity pages `toms-river`, `makati`, `meta`, `nvidia`, `iran`, `wti`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-weights-ai`, `ai-infrastructure-energy-demand`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: open-model decentralization rhetoric sits atop concentrated compute finance, energy demand, maritime exposure, and incomplete-feed provenance.
+
 ## [2026-08-10] ingest | Morning Dispatch — Monday, August 10, 2026
 - Source: `pinky/raw/newsletters/2026-08-10-daytime-dispatch.md`
 - Summary: August 10 morning dispatch — 96°F Toms River heat and rainy Makati frame a broad rally: S&P 500 +3.58%, Dow +2.96%, Nasdaq +5.19%, Russell +3.52%, Nvidia +11.56%, and WTI +5.07%. Top stories include Gaza returns, China property stress, bipartisan Flock-camera privacy scrutiny, a cyberattack disrupting municipal 911 operations, AI hurricane forecasting, cycling and MLB results, and wrestling updates.

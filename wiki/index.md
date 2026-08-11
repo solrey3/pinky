@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-11-midnight](sources/newsletter-2026-08-11-midnight.md) | Midnight Dispatch — Tuesday, August 11, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, open-weights, ai-infrastructure, hormuz, oil, cycling, baseball, wrestling] | 2026-08-11 |
 | [newsletter-2026-08-10-evening](sources/newsletter-2026-08-10-evening.md) | Evening Brief — Monday, August 10, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, edge-ai, steamos, climate, cycling, baseball, wrestling] | 2026-08-10 |
 | [newsletter-2026-08-10-noon](sources/newsletter-2026-08-10-noon.md) | Noon Dispatch — Monday, August 10, 2026 | newsletter | [newsletter, noon-dispatch, markets, risk-on, energy, critical-infrastructure, open-weight-ai, cycling, baseball, wrestling] | 2026-08-10 |
 | [newsletter-2026-08-10-daytime](sources/newsletter-2026-08-10-daytime.md) | Morning Dispatch — Monday, August 10, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, surveillance, critical-infrastructure, ai-weather-forecasting, cycling, baseball, wrestling] | 2026-08-10 |
