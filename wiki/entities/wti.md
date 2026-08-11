@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-11
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 29
+source_count: 30
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 29
 West Texas Intermediate crude oil benchmark; tracked here as an energy, inflation, and cross-asset risk signal.
 
 ## Sources
+
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Surges 7.69% to $83.23, making oil the dominant inflation and household-cost signal in an otherwise flat tape.
 
 - [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Surges 9.07% to $84.30, creating an inflation and household-cost warning inside a strong equity rally.
 

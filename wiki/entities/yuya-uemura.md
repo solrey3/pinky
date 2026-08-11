@@ -4,9 +4,9 @@ title: Yuya Uemura
 type: entity
 entity_type: person
 created: 2026-07-19
-updated: 2026-08-04
+updated: 2026-08-11
 tags: [wrestling, njpw, g1-climax]
-source_count: 10
+source_count: 11
 ---
 
 # Yuya Uemura
@@ -14,6 +14,8 @@ source_count: 10
 Yuya Uemura is a NJPW wrestler tracked when tournament results enter the wrestling digest.
 
 ## Sources
+
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Reaches ten points on G1 Climax 36 night 15 while every B Block competitor remains alive.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His NJPW G1 Climax match with Zack Sabre Jr. remains in the Meltzer 5-star ledger.
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — His G1 Climax match against Zack Sabre Jr. remains in Meltzer 5-star continuity.

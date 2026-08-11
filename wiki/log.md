@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-11] ingest | Noon Dispatch — Tuesday, August 11, 2026
+- Source: `pinky/raw/newsletters/2026-08-11-noon-dispatch.md`
+- Summary: August 11 noon dispatch — sunny Toms River and rainy Makati frame a nearly flat market near annual highs, while WTI jumps 7.69%, AMD falls 9.81%, VNQ loses 2.23%, and long rates remain elevated. Top stories include Gaza returns, bipartisan Flock-camera backlash, phone-to-plate tracking, a passkey attack, faster virtualized Apple Silicon LLM inference, Hormuz demands, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-11-noon.md` (new); entity pages `toms-river`, `makati`, `wti`, `iran`, `flock-safety`, `mathieu-van-der-poel`, `tadej-pogacar`, `yuya-uemura`; concept pages `risk-off-market-rotation`, `automated-license-plate-reader-surveillance`, `open-data-preservation`; new concept page `passwordless-authentication-security`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: flat indexes, passwordless labels, and plate-camera descriptions can hide sector stress, residual authentication risks, and cross-device surveillance power; interpretation requires granular evidence, bounded access, and explicit provenance.
+
 ## [2026-08-11] ingest | Morning Dispatch — Tuesday, August 11, 2026
 - Source: `pinky/raw/newsletters/2026-08-11-daytime-dispatch.md`
 - Summary: August 11 morning dispatch — hot Toms River and rainy Makati frame a broad rally: S&P 500 +2.01%, Dow +1.50%, Nasdaq +2.67%, Russell +1.19%, and Nvidia +5.28%, while WTI jumps 9.07%, VNQ falls 1.98%, Bitcoin slips 0.99%, and the 30-year Treasury reaches 5.243%. Top stories include Gaza returns, bipartisan Flock-camera backlash, northward Vibrio spread, record ocean heat, vaccine-schedule conflict, Northwest wildfires, Meta's open-model reboot, cycling, MLB, and wrestling updates.

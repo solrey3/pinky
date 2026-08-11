@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-11-noon](sources/newsletter-2026-08-11-noon.md) | Noon Dispatch — Tuesday, August 11, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, surveillance, passkeys, ai-inference, cycling, baseball, wrestling] | 2026-08-11 |
 | [newsletter-2026-08-11-daytime](sources/newsletter-2026-08-11-daytime.md) | Morning Dispatch — Tuesday, August 11, 2026 | newsletter | [newsletter, daytime-dispatch, markets, risk-on, surveillance, open-weights, public-health, wildfire, cycling, baseball, wrestling] | 2026-08-11 |
 | [newsletter-2026-08-11-midnight](sources/newsletter-2026-08-11-midnight.md) | Midnight Dispatch — Tuesday, August 11, 2026 | newsletter | [newsletter, midnight-dispatch, markets, risk-on, open-weights, ai-infrastructure, hormuz, oil, cycling, baseball, wrestling] | 2026-08-11 |
 | [newsletter-2026-08-10-evening](sources/newsletter-2026-08-10-evening.md) | Evening Brief — Monday, August 10, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, edge-ai, steamos, climate, cycling, baseball, wrestling] | 2026-08-10 |
@@ -1507,6 +1508,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [LLM Wiki pattern](concepts/llm-wiki-pattern.md) | [llm, architecture, knowledge-management, karpathy, ai-first-notes, openknowledge] | 2 |
 | ["Market Inefficiency"](concepts/market-inefficiency.md) | [economics, markets, information, arbitrage, decision-making, sports, prediction-markets, provenance, kalshi, polymarket, data-provenance, scraping] | 105 |
 | [Measles Resurgence](concepts/measles-resurgence.md) | [public-health, measles, vaccines, surveillance, outbreak-risk] | 2 |
+| [Passwordless Authentication Security](concepts/passwordless-authentication-security.md) | security, authentication, passkeys, webauthn, identity | 1 |
 | [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance | 41 |
 | [mRNA Vaccine Safety](concepts/mrna-vaccine-safety.md) | [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication] | 4 |
 | [Nicotine Harm Reduction](concepts/nicotine-harm-reduction.md) | [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda] | 2 |

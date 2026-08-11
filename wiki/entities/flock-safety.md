@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-08-11
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 8
+source_count: 9
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 8
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Bipartisan camera backlash and phone-to-plate correlation technology broaden concern from database misuse to cross-device movement tracking.
 
 - [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Bipartisan camera backlash broadens the legitimacy challenge beyond earlier database-misuse cases.
 
