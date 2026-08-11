@@ -4,9 +4,9 @@ title: Demi Vollering
 type: entity
 entity_type: person
 created: 2026-08-06
-updated: 2026-08-10
+updated: 2026-08-11
 tags: [cycling, womens-cycling, tour-de-france-femmes]
-source_count: 7
+source_count: 8
 ---
 
 # Demi Vollering
@@ -14,6 +14,8 @@ source_count: 7
 Professional cyclist and Tour de France Femmes general-classification contender.
 
 ## Sources
+
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Leads the Tour de France Femmes prize-money ledger with FDJ after winning the overall race.
 
 - [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Wins solo in Nice to secure her second Tour de France Femmes overall title.
 

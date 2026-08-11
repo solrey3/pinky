@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-11
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 34
+source_count: 35
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 34
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Web-memory loss and explicitly unavailable sports, prediction-market, and local-price feeds expose both archival and provenance gaps.
 
 - [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Unavailable sports, team, and local-price feeds remain explicitly labeled, preserving the boundary between missing and verified data.
 

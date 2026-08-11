@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-08-11
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 36
+source_count: 37
 ---
 
 # Open-Weights AI
@@ -13,6 +13,8 @@ source_count: 36
 AI models whose trained weights are released for outside use, inspection, adaptation, or local deployment, even when the training data and full training process may not be open. Open weights matter because they change who can run, audit, fine-tune, and operationalize model capabilities.
 
 ## Sources
+
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Meta's strategic reboot and native MiniMax-H3 inference on Apple Silicon emphasize ecosystem distribution and practical local operation.
 
 - [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Meta presents open models and decentralized AI power as a strategic alternative to concentrated control.
 

@@ -4,9 +4,9 @@ title: Flock Safety
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-08-06
+updated: 2026-08-11
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 7
+source_count: 8
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 7
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Bipartisan camera backlash broadens the legitimacy challenge beyond earlier database-misuse cases.
 
 - [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Theft of every Flock camera in a Minnesota town amid widening bans highlights direct and institutional resistance to ALPR surveillance.
 
