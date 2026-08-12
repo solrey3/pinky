@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 37
+source_count: 38
 ---
 
 # Open-Weights AI
@@ -13,6 +13,8 @@ source_count: 37
 AI models whose trained weights are released for outside use, inspection, adaptation, or local deployment, even when the training data and full training process may not be open. Open weights matter because they change who can run, audit, fine-tune, and operationalize model capabilities.
 
 ## Sources
+
+- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Meta’s 30B Muse Glimmer is reported to run on one consumer GPU, lowering the apparent barrier to local deployment.
 
 - [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Meta's strategic reboot and native MiniMax-H3 inference on Apple Silicon emphasize ecosystem distribution and practical local operation.
 
