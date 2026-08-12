@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-06
 updated: 2026-08-11
 tags: [public-health, vaccines, misinformation, risk-communication, institutions, trust]
-source_count: 6
+source_count: 7
 ---
 
 # Vaccine Misinformation
@@ -13,6 +13,8 @@ source_count: 6
 Vaccine misinformation is the circulation of false or misleading claims about vaccine safety, causality, or institutional intent. It matters because it can change health behavior, criminal/legal narratives, and trust in public-health agencies.
 
 ## Sources
+
+- [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-noon.md) — The WHO chief says U.S. immunization changes conflict with decades of evidence, sharpening the evidence-standard and institutional-trust dispute.
 
 - [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — The AMA's warning about childhood-immunization schedule changes highlights evidence standards and institutional trust in vaccine policy.
 
