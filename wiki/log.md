@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-12] ingest | Morning Dispatch — Wednesday, August 12, 2026
+- Source: `pinky/raw/newsletters/2026-08-12-daytime-dispatch.md`
+- Summary: August 12 morning dispatch — sunny Toms River and windy, rainy Makati frame modest index declines near annual highs, while WTI jumps 5.60%, AMD falls 8.53%, VNQ loses 2.57%, and long rates remain elevated. Top stories include Gaza returns, China property stress, Wisconsin's Democratic gubernatorial primary, Taiwan readiness exercises, Anthropic's planned invisible Claude text watermarks, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-12-daytime.md` (new); entity pages `toms-river`, `makati`, `anthropic`, `wti`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `ai-watermarking`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: flat-looking indexes, apparently human-readable text, and polished news sections can each conceal important structure; trustworthy interpretation requires granular evidence, durable provenance signals, and explicit missing-data markers.
+
 ## [2026-08-12] ingest | Midnight Dispatch — Wednesday, August 12, 2026
 - Source: `pinky/raw/newsletters/2026-08-12-midnight-dispatch.md`
 - Summary: August 12 midnight dispatch — malformed Toms River current-weather data and rainy Makati frame modest index declines near annual highs, while WTI jumps 7.71%, AMD falls 8.53%, VNQ loses 2.57%, and long rates remain elevated. Top stories include Gaza returns, bipartisan Flock-camera backlash, Taiwan resilience exercises, birthright-citizenship litigation, AI-demand earnings, Meta's consumer-deployable 30B open-weight model, cycling, MLB, and wrestling updates.

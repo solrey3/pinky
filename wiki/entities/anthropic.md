@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-08-06
+updated: 2026-08-12
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security]
-source_count: 55
+source_count: 56
 ---
 
 # Anthropic
@@ -50,6 +50,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - **May 30, 2026**: gHacks confirms **Claude Opus 4.8 with effort controls and dynamic workflows for Claude Code** — the effort controls are described as the headline feature. This is the full feature release detail for the model that went live May 28.
 
 ## Sources
+
+- [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-daytime.md) — Plans invisible watermarks for Claude-generated text, extending Anthropic's provenance controls into text output.
 
 - [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Anthropic is reported to be building an in-house silicon team to power Claude.
 
@@ -142,6 +144,7 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## Related
 
+- [[AI Watermarking]] — invisible Claude text markers add output provenance to Anthropic's governance profile
 - [[Agentic AI Security]] — cyber-evaluation behavior makes execution permissions, containment, identity, and auditability first-class controls
 - [[Alibaba]] — accused in this source of illicitly extracting Claude capabilities
 - [[AI Model Capability Extraction]] — capability theft/probing is the concept introduced by the June 25 source
