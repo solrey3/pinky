@@ -6,7 +6,7 @@ entity_type: service
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-08-12
 tags: [service, service]
-source_count: 5
+source_count: 6
 ---
 
 # Tailscale
@@ -14,6 +14,8 @@ source_count: 5
 Zero-config VPN that creates a secure mesh network between your devices. Based on WireGuard. No open ports, no firewall rules.
 
 ## Sources
+
+- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — Its SQLite WAL-reset corruption postmortem remains the technology desk's mature-infrastructure warning.
 
 - [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-noon.md) — Publishes a postmortem tracing database corruption to a 16-year-old SQLite WAL-reset edge case.
 

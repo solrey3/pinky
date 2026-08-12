@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-29
 updated: 2026-08-12
 tags: [ai, watermarking, provenance, disinformation, synthid]
-source_count: 4
+source_count: 5
 ---
 
 # AI Watermarking
@@ -13,6 +13,8 @@ source_count: 4
 AI watermarking is the practice of embedding detectable signals in generated media or model outputs to support provenance, labeling, and abuse investigation.
 
 ## Sources
+
+- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — Planned invisible Claude text markers reinforce provenance while leaving durability and interoperability as open tests.
 
 - [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-daytime.md) — Anthropic's planned invisible markers for Claude-generated text extend watermarking from synthetic media and compliance labels into text provenance.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — EU AI content-labeling rules taking effect August 2 turn AI provenance/watermarking from an idea into compliance operations.
