@@ -4,9 +4,9 @@ title: SQLite
 type: entity
 entity_type: product
 created: 2026-07-03
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [database, sqlite, embedded-database, wal, reliability, formal-methods, tla-plus, ai-security]
-source_count: 6
+source_count: 7
 ---
 
 # SQLite
@@ -14,6 +14,8 @@ source_count: 6
 SQLite is an embedded relational database engine used across applications, operating systems, browsers, and devices. In the wiki graph, it matters as quiet infrastructure: small enough to disappear into products, but important enough that deep reliability bugs can have wide operational implications.
 
 ## Sources
+
+- [2026-08-13: Midnight Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-midnight.md) — A 16-year-old WAL-reset edge case remains a case study in rare persistence-state failure.
 
 - [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — The 16-year-old WAL-reset edge case remains a case study in hidden persistence-state risk.
 

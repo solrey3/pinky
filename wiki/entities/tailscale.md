@@ -4,9 +4,9 @@ title: "Tailscale"
 type: entity
 entity_type: service
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [service, service]
-source_count: 6
+source_count: 7
 ---
 
 # Tailscale
@@ -14,6 +14,8 @@ source_count: 6
 Zero-config VPN that creates a secure mesh network between your devices. Based on WireGuard. No open ports, no firewall rules.
 
 ## Sources
+
+- [2026-08-13: Midnight Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-midnight.md) — Its postmortem again makes the SQLite WAL-reset bug a mature-infrastructure reliability warning.
 
 - [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — Its SQLite WAL-reset corruption postmortem remains the technology desk's mature-infrastructure warning.
 

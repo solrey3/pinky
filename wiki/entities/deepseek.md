@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-27
 updated: 2026-08-08
 tags: [ai, llm, open-weights, inference, optimization, speculative-decoding, sovereign-ai, ai-chips, china]
-source_count: 7
+source_count: 8
 ---
 
 # DeepSeek
@@ -14,6 +14,8 @@ source_count: 7
 DeepSeek is an AI lab and model developer tracked here through open model work, inference-efficiency work, and export-control-driven hardware strategy. In the newsletter graph, it is both an open/optimization counterweight to closed frontier-model access control and a sovereign-AI chip-supply node.
 
 ## Sources
+
+- [2026-08-13: Midnight Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-midnight.md) — V4 Pro 0813 leads the Hacker News model watch, extending DeepSeek’s frontier-model release track.
 
 - [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — V4 Flash 0731 appears through new ARC Prize evaluation results.
 

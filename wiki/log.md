@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-13] ingest | Midnight Dispatch — Thursday, August 13, 2026
+- Source: `pinky/raw/newsletters/2026-08-13-midnight-dispatch.md`
+- Summary: August 13 midnight dispatch — clear Toms River and rainy Makati frame a split market near annual highs: S&P 500 +0.32%, Nasdaq +0.85%, and Russell 2000 +0.87%, while the Dow falls 1.07%, VNQ loses 1.63%, Bitcoin declines 1.95%, and long rates remain elevated. Top stories include Gaza returns, Claude text watermarking, AI-driven price pressure, DeepSeek V4 Pro 0813, Tailscale's SQLite WAL-reset postmortem, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-13-midnight.md` (new); entity pages `toms-river`, `makati`, `anthropic`, `deepseek`, `tailscale`, `sqlite`; concept pages `ai-watermarking`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: AI provenance controls, anti-scraping measures, persistence-state failures, mixed markets, and missing feeds all show that trust depends on granular evidence and visible uncertainty.
+
 ## [2026-08-12] ingest | Evening Brief — Wednesday, August 12, 2026
 - Source: `pinky/raw/newsletters/2026-08-12-evening-dispatch.md`
 - Summary: August 12 evening brief — sunny Toms River and rainy Makati frame a split close near annual highs: S&P 500 +0.32%, Nasdaq +0.85%, and Russell 2000 +0.87%, while the Dow falls 1.07%, WTI jumps 5.63%, Bitcoin loses 2.30%, and VNQ declines 1.63%. Top stories include Gaza returns, Claude text watermarking, federal-state conflict over Kalshi, AI-driven price pressure, platform-safety litigation, Tailscale's SQLite WAL-reset postmortem, cycling, MLB, and wrestling updates.
