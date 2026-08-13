@@ -28,13 +28,12 @@ tags: nba, basketball, rankings, personal
 1. Nikola Jokic
 1. Kawhi Leonard
 1. Giannis
+1. John Havlicek
+1. Scottie Pippen
 1. Karl Malone
 1. Elgin Baylor
-1. Scottie Pippen
-1. John Havlicek
 1. Charles Barkley
 1. David Robinson
-1. John Stockton
 
 ## Level 2
 
@@ -46,12 +45,13 @@ tags: nba, basketball, rankings, personal
 1. Willis Reed
 1. Kyrie Irving
 1. Jason Kidd
+1. John Stockton
+1. Paul Pierce
 1. Victor Wembanyama
 1. Allen Iverson
 1. James Harden
 1. Vince Carter
 1. Tracy McGrady
-1. Paul Pierce
 1. Walt Frazier
 1. Shai Gilgeous-Alexander
 1. Chris Paul
@@ -60,6 +60,7 @@ tags: nba, basketball, rankings, personal
 1. Carmelo Anthony
 1. Anthony Davis
 1. Sam Jones
+1. Russell Westbrook
 1. Patrick Ewing
 1. Kevin McHale
 1. James Worthy
@@ -70,7 +71,6 @@ tags: nba, basketball, rankings, personal
 
 ## Level 1
 
-1. Russell Westbrook
 1. Luka Dončić
 1. Gary Payton
 1. Wes Unseld
@@ -110,6 +110,7 @@ tags: nba, basketball, rankings, personal
 1. Tony Parker
 1. Joe Dumars
 1. Chris Mullin
+1. Mitch Richmond
 
 ## Too Old School For Me
 
