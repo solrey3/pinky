@@ -3,9 +3,9 @@ id: f3bd6e79-94d5-47b4-ae7e-1290df775051
 title: Fiscal Stimulus and Inflation
 type: concept
 created: 2026-07-06
-updated: 2026-07-06
-tags: [economics, inflation, fiscal-policy, stimulus, covid, macroeconomics]
-source_count: 1
+updated: 2026-08-13
+tags: [economics, inflation, fiscal-policy, stimulus, covid, macroeconomics, cpi]
+source_count: 2
 ---
 
 # Fiscal Stimulus and Inflation
@@ -13,6 +13,8 @@ source_count: 1
 Fiscal stimulus and inflation refers to the debate over how government transfers, relief checks, supply shocks, monetary policy, and demand recovery contributed to post-pandemic price increases.
 
 ## Sources
+
+- [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-daytime.md) — Cooler July CPI suggests easing current price pressure while elevated long rates show that disinflation and financial conditions can diverge.
 
 - [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — A cited study challenges the claim that COVID stimulus checks were a primary inflation cause, keeping causal attribution contested.
 

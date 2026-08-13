@@ -127,6 +127,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
 | [newsletter-2026-08-13-midnight](sources/newsletter-2026-08-13-midnight.md) | Midnight Dispatch — Thursday, August 13, 2026 | newsletter | [newsletter, midnight-dispatch, markets, ai-watermarking, deepseek, sqlite, cycling, baseball, wrestling] | 2026-08-13 |
+| [newsletter-2026-08-13-daytime](sources/newsletter-2026-08-13-daytime.md) | Morning Dispatch — Thursday, August 13, 2026 | newsletter | [newsletter, daytime-dispatch, inflation, markets, software-supply-chain, sqlite, cycling, baseball, wrestling] | 2026-08-13 |
 | [newsletter-2026-08-12-evening](sources/newsletter-2026-08-12-evening.md) | Evening Brief — Wednesday, August 12, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, ai-watermarking, prediction-markets, sqlite, cycling, baseball, wrestling] | 2026-08-12 |
 | [newsletter-2026-08-12-noon](sources/newsletter-2026-08-12-noon.md) | Noon Dispatch — Wednesday, August 12, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, sqlite, vaccine-policy, cycling, baseball, wrestling] | 2026-08-12 |
 | [newsletter-2026-08-12-daytime](sources/newsletter-2026-08-12-daytime.md) | Morning Dispatch — Wednesday, August 12, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, ai-watermarking, china-property, cycling, baseball, wrestling] | 2026-08-12 |
@@ -839,7 +840,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [NATO](entities/nato.md) | organization | geopolitics, security, alliance, europe, ukraine, diplomacy | 1 |
 | [Centers for Disease Control and Prevention](entities/centers-for-disease-control-and-prevention.md) | organization | public-health, government, cdc, vaccines, disease-control, united-states | 2 |
 | [U.S. Food and Drug Administration](entities/us-food-and-drug-administration.md) | organization | government, public-health, regulation, fda, nicotine, tobacco, gene-therapy, united-states | 10 |
-| [Federal Reserve](entities/federal-reserve.md) | organization | monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets | 109 |
+| [Federal Reserve](entities/federal-reserve.md) | organization | monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets | 111 |
 | [Harriet Tubman](entities/harriet-tubman.md) | person | history, abolition, civil-war, currency, public-memory | 1 |
 | [U.S. Treasury](entities/us-treasury.md) | organization | government, finance, currency, united-states, public-symbolism | 2 |
 | [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 13 |
@@ -1130,7 +1131,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Starbucks](entities/starbucks.md) | organization | retail, coffee, earnings, consumer | 1 |
 | [Grok](entities/grok.md) | product | ai, llm, xai, content-safety, legal | 1 |
 | [Samsung](entities/samsung.md) | organization | technology, semiconductors, foundry, transistors, stacked-fets, ai-hardware | 2 |
-| [SQLite](entities/sqlite.md) | product | database, sqlite, embedded-database, wal, reliability, formal-methods, tla-plus, ai-security | 5 |
+| [SQLite](entities/sqlite.md) | product | database, sqlite, embedded-database, wal, reliability, formal-methods, tla-plus, ai-security | 8 |
 | [South Korea](entities/south-korea.md) | place | country, south-korea, semiconductors, memory-chips, robotics, industrial-policy | 1 |
 | [SpaceX](entities/spacex.md) | organization | space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone | 10 |
 | [Starlink](entities/starlink.md) | product | satellite-networking, spacex, ukraine, communications, infrastructure, geopolitics | 1 |
@@ -1372,7 +1373,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [qmd](entities/qmd.md) | product | search, cli, markdown, llm | 1 |
 | [ripgrep (rg)](entities/ripgrep.md) | product | cli, cli | 2 |
 | [Tails OS](entities/tails-os.md) | platform | platform, platform | 1 |
-| [Tailscale](entities/tailscale.md) | service | service, service | 5 |
+| [Tailscale](entities/tailscale.md) | service | service, service | 8 |
 | [tmux](entities/tmux.md) | product | cli, cli | 1 |
 | [yazi](entities/yazi.md) | product | cli, cli | 1 |
 | [Apple SpeechAnalyzer API](entities/apple-speechanalyzer-api.md) | product | apple, speech-recognition, api, ai | 1 |
@@ -1503,7 +1504,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Eschatology](concepts/eschatology.md) | [religion, theology, apocalypse, time, narrative, destiny] | 2 |
 | [Formal Methods](concepts/formal-methods.md) | [software-engineering, verification, reliability, tla-plus, model-checking, databases, infrastructure] | 2 |
 | [Vaccine Misinformation](concepts/vaccine-misinformation.md) | [public-health, vaccines, misinformation, risk-communication, institutions, trust] | 7 |
-| [Fiscal Stimulus and Inflation](concepts/fiscal-stimulus-and-inflation.md) | [economics, inflation, fiscal-policy, stimulus, covid, macroeconomics] | 1 |
+| [Fiscal Stimulus and Inflation](concepts/fiscal-stimulus-and-inflation.md) | [economics, inflation, fiscal-policy, stimulus, covid, macroeconomics, cpi] | 2 |
 | [Game Theory Optimal (GTO)](concepts/game-theory-optimal.md) | [game-theory, poker, mathematics, equilibrium, strategy, decision-making] | 2 |
 | [Gene Therapy](concepts/gene-therapy.md) | [medicine, biotechnology, gene-therapy, public-health, fda, sickle-cell] | 3 |
 | [Geofence Warrants](concepts/geofence-warrants.md) | [privacy, fourth-amendment, location-data, warrants, surveillance, constitutional-law] | 2 |
@@ -1540,7 +1541,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 156 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 159 |
+| [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
 | ["Security & Privacy Toolkit"](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed] | 112 |
