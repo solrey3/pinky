@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-13-noon](sources/newsletter-2026-08-13-noon.md) | Noon Dispatch — Thursday, August 13, 2026 | newsletter | [newsletter, noon-dispatch, markets, inflation, prompt-injection, anthropic, cycling, baseball, wrestling] | 2026-08-13 |
 | [newsletter-2026-08-13-midnight](sources/newsletter-2026-08-13-midnight.md) | Midnight Dispatch — Thursday, August 13, 2026 | newsletter | [newsletter, midnight-dispatch, markets, ai-watermarking, deepseek, sqlite, cycling, baseball, wrestling] | 2026-08-13 |
 | [newsletter-2026-08-13-daytime](sources/newsletter-2026-08-13-daytime.md) | Morning Dispatch — Thursday, August 13, 2026 | newsletter | [newsletter, daytime-dispatch, inflation, markets, software-supply-chain, sqlite, cycling, baseball, wrestling] | 2026-08-13 |
 | [newsletter-2026-08-12-evening](sources/newsletter-2026-08-12-evening.md) | Evening Brief — Wednesday, August 12, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, ai-watermarking, prediction-markets, sqlite, cycling, baseball, wrestling] | 2026-08-12 |
@@ -1450,6 +1451,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [Prompt Injection](concepts/prompt-injection.md) | ai, security, prompt-injection, llm, legal-tech, untrusted-content | 1 |
 | [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 2 |
 | [Paid Family Leave](concepts/paid-family-leave.md) | labor, benefits, caregiving, worker-protection | 2 |
 | [Renewable Energy Displacement](concepts/renewable-energy-displacement.md) | energy, renewables, fossil-fuels, transition, demand | 1 |

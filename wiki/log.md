@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-13] ingest | Noon Dispatch — Thursday, August 13, 2026
+- Source: `pinky/raw/newsletters/2026-08-13-noon-dispatch.md`
+- Summary: August 13 noon dispatch — cooler inflation and gains in the S&P 500, Nasdaq, and Russell 2000 coexist with Dow weakness, falling Bitcoin, and elevated long rates; news adds Gaza returns, China property stress, hidden prompt injection in a court filing, a possible $2 trillion Anthropic IPO valuation, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-13-noon.md` (new); entity pages `anthropic`, `us-department-of-justice`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `prompt-injection` (new), `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: legal-document automation, market interpretation, and feed-driven publishing all require strict separation of instructions from data, granular evidence, and explicit uncertainty.
+
 ## [2026-08-13] ingest | Midnight Dispatch — Thursday, August 13, 2026
 - Source: `pinky/raw/newsletters/2026-08-13-midnight-dispatch.md`
 - Summary: August 13 midnight dispatch — clear Toms River and rainy Makati frame a split market near annual highs: S&P 500 +0.32%, Nasdaq +0.85%, and Russell 2000 +0.87%, while the Dow falls 1.07%, VNQ loses 1.63%, Bitcoin declines 1.95%, and long rates remain elevated. Top stories include Gaza returns, Claude text watermarking, AI-driven price pressure, DeepSeek V4 Pro 0813, Tailscale's SQLite WAL-reset postmortem, cycling, MLB, and wrestling updates.
