@@ -4,9 +4,9 @@ title: Cerebras
 type: entity
 entity_type: organization
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-14
 tags: [ai, semiconductors, inference, hardware]
-source_count: 1
+source_count: 2
 ---
 
 # Cerebras
@@ -14,6 +14,8 @@ source_count: 1
 Cerebras Systems is an AI-compute company known for wafer-scale processors and high-throughput model training and inference systems.
 
 ## Sources
+
+- [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-midnight.md) — Cerebras's GPT-5.6 Sol work highlights ultrafast inference on specialized compute.
 
 - [2026-08-13: Evening Brief — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-evening.md) — Cerebras describes accelerating GPT-5.6 Sol for ultrafast inference.
 
