@@ -4,9 +4,9 @@ title: Qwen
 type: entity
 entity_type: product
 created: 2026-06-29
-updated: 2026-08-05
+updated: 2026-08-14
 tags: [ai, llm, open-weights, local-ai, developer-tools, agentic-coding]
-source_count: 8
+source_count: 9
 ---
 
 # Qwen
@@ -14,6 +14,8 @@ source_count: 8
 Alibaba's Qwen family of large language models. In this wiki, Qwen is tracked as part of the open/local model ecosystem for developer workflows, coding agents, and non-frontier but practical inference.
 
 ## Sources
+
+- [2026-08-14: Evening Brief — Friday, August 14, 2026](../sources/newsletter-2026-08-14-evening.md) — Qwen 3.8 27B leads Hacker News at fetch time, reinforcing developer demand for capable downloadable models.
 
 - [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-noon.md) — Qwen 3.0 Image Pro extends the model family's image-generation capability watchlist.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Qwen3.8-Max keeps Qwen in the coding-model capability race.

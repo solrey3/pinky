@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-14-evening](sources/newsletter-2026-08-14-evening.md) | Evening Brief — Friday, August 14, 2026 | newsletter | [newsletter, evening-dispatch, markets, anthropic, cybersecurity, electric-aviation, qwen, wayland, cycling, baseball, wrestling] | 2026-08-14 |
 | [newsletter-2026-08-14-noon](sources/newsletter-2026-08-14-noon.md) | Noon Dispatch — Friday, August 14, 2026 | newsletter | [newsletter, noon-dispatch, markets, anthropic, surveillance, prediction-markets, cycling, baseball, wrestling] | 2026-08-14 |
 | [newsletter-2026-08-14-daytime](sources/newsletter-2026-08-14-daytime.md) | Morning Dispatch — Friday, August 14, 2026 | newsletter | [newsletter, daytime-dispatch, markets, tariffs, cybersecurity, gemini, glm, cycling, baseball, wrestling] | 2026-08-14 |
 | [newsletter-2026-08-14-midnight](sources/newsletter-2026-08-14-midnight.md) | Midnight Dispatch — Friday, August 14, 2026 | newsletter | [newsletter, midnight-dispatch, markets, inflation, tariffs, cybersecurity, gemini, cerebras, cycling, baseball, wrestling] | 2026-08-14 |
@@ -1044,7 +1045,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Mauricio Pochettino](entities/mauricio-pochettino.md) | person | soccer, usmnt, manager, fifa, sports | 1 |
 | [UEFA](entities/uefa.md) | organization | soccer, europe, governance, fifa, world-cup | 5 |
 | [Arsene Wenger](entities/arsene-wenger.md) | person | soccer, fifa, governance | 1 |
-| [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 30 |
+| [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 34 |
 | [Sigrid Haugset](entities/sigrid-haugset.md) | person | cycling, tour-de-france-femmes, sports | 1 |
 | [Tour de France Femmes](entities/tour-de-france-femmes.md) | other | cycling, womens-cycling, tour-de-france, sports | 15 |
 | [Marlen Reusser](entities/marlen-reusser.md) | person | cycling, tour-de-france-femmes, time-trial, sports | 3 |
@@ -1065,7 +1066,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Charles Schwab](entities/charles-schwab.md) | organization | finance, brokerage, markets, schw, brokerages, risk-assets, financials | 44 |
 | [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware | 105 |
 | [Android](entities/android.md) | product | android, mobile, operating-system, google, app-stores, sideloading, security | 10 |
-| [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security | 54 |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation | 61 |
 | [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift | 17 |
 | [Apertus](entities/apertus.md) | product | ai, open-foundation-model, open-weights, sovereign-ai, model-governance | 2 |
 | [Asahi Linux](entities/asahi-linux.md) | product | linux, apple-silicon, macos, operating-systems, developer-tools | 1 |
@@ -1118,7 +1119,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [OpenPrinter](entities/openprinter.md) | product | hardware, open-source, printing, maker-tools, developer-tools | 1 |
 | [Organic Maps](entities/organic-maps.md) | product | maps, open-source, privacy, navigation, openstreetmap, mobile | 2 |
 | [OpenStreetMap](entities/openstreetmap.md) | organization | maps, open-data, geospatial, open-source, crowdsourcing, infrastructure | 1 |
-| [Qwen](entities/qwen.md) | product | ai, llm, open-weights, local-ai, developer-tools, agentic-coding | 8 |
+| [Qwen](entities/qwen.md) | product | ai, llm, open-weights, local-ai, developer-tools, agentic-coding | 9 |
 | [Qwen3.8-Max](entities/qwen3-8-max.md) | product | ai, llm, coding-model, qwen, developer-tools | 3 |
 | [Kakehashi](entities/kakehashi.md) | product | developer-tools, macos, linux, arm, compatibility-layer | 1 |
 | [Waymo](entities/waymo.md) | organization | autonomous-vehicles, robotaxi, alphabet, operations, regulation | 1 |
@@ -1157,7 +1158,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Toronto Maple Leafs](entities/toronto-maple-leafs.md) | organization | nhl, hockey, toronto-maple-leafs, front-office, sports | 2 |
 | [Hayley Wickenheiser](entities/hayley-wickenheiser.md) | person | hockey, nhl, toronto-maple-leafs, front-office, sports | 2 |
 | [Tim Merlier](entities/tim-merlier.md) | person | cycling, tour-de-france, belgium, sprinting, sports | 3 |
-| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 63 |
+| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 67 |
 | [Markel Beloki](entities/markel-beloki.md) | person | cycling, tour-de-l-ain, sports | 1 |
 
 | [Alphabet](entities/alphabet.md) | organization | technology, ai, google, big-tech, credit-quality, markets | 3 |
@@ -1548,7 +1549,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 161 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 165 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
@@ -1579,7 +1580,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Reusable Rockets](concepts/reusable-rockets.md) | [space, launch, rockets, infrastructure, china, competition] | 7 |
 | [World Models](concepts/world-models.md) | [ai, world-models, simulation, forecasting, agents, robotics, limitations] | 2 |
 | [Robotics Whole-Body Intelligence](concepts/robotics-whole-body-intelligence.md) | [ai, robotics, embodiment, world-models, google-deepmind] | 3 |
-| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 44 |
+| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 48 |
 | [Press Freedom](concepts/press-freedom.md) | [first-amendment, journalism, censorship, courts, civil-liberties, media] | 5 |
 | [Foodborne Outbreaks](concepts/foodborne-outbreaks.md) | public-health, food-safety, supply-chain, outbreaks, recalls, cyclospora | 15 |
 | [Property Rights and Takings](concepts/property-rights-and-takings.md) | [law, property-rights, eminent-domain, takings, supreme-court, infrastructure] | 13 |
@@ -1590,7 +1591,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Document-Borne AI Worms](concepts/document-borne-ai-worms.md) | [ai, security, office-documents, worms, microsoft-copilot, prompt-injection] | 2 |
 | [AI Watermarking](concepts/ai-watermarking.md) | [ai, watermarking, provenance, disinformation, synthid] | 3 |
 | [Digital Border Searches](concepts/digital-border-searches.md) | [privacy, civil-liberties, border-searches, devices, fourth-amendment] | 1 |
-| [Critical Infrastructure Cybersecurity](concepts/critical-infrastructure-cybersecurity.md) | [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector, offensive-cyber] | 12 |
+| [Critical Infrastructure Cybersecurity](concepts/critical-infrastructure-cybersecurity.md) | [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector, offensive-cyber] | 15 |
 | [Groundwater Contamination](concepts/groundwater-contamination.md) | [environment, public-health, groundwater, pfas, benzene, testing, new-jersey] | 2 |
 | [School Policing](concepts/school-policing.md) | [education, policing, civil-liberties, discipline, disparities, students] | 1 |
 | [Red Sea Security](concepts/red-sea-security.md) | geopolitics, shipping, red-sea, middle-east, saudi-arabia, houthis | 4 |
