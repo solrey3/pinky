@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-14] ingest | Morning Dispatch — Friday, August 14, 2026
+- Source: `pinky/raw/newsletters/2026-08-14-daytime-dispatch.md`
+- Summary: August 14 morning dispatch — a growth-led rally near annual highs coexists with Dow softness, falling Bitcoin, and elevated long rates; news adds Gaza returns, tariff refunds, flooding, expanded private-sector cyber authority, GLM-5.3, Gemini 3.7 Flash, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-14-daytime.md` (new); entity pages `toms-river`, `makati`, `google`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `tariff-policy`, `critical-infrastructure-cybersecurity`, `prediction-markets`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: tariff repayment, offensive cyber authority, cyber-capable models, market interpretation, and feed-driven publishing all require bounded scope, reliable provenance, and explicit uncertainty.
+
 ## [2026-08-14] ingest | Midnight Dispatch — Friday, August 14, 2026
 - Source: `pinky/raw/newsletters/2026-08-14-midnight-dispatch.md`
 - Summary: August 14 midnight dispatch — a Nasdaq- and small-cap-led rally near annual highs coexists with Dow softness, falling Bitcoin and oil, and elevated long rates; news adds Gaza returns, cooler inflation, tariff-evasion allegations, expanded private-sector cyber authority, Gemini 3.7 Flash, Cerebras-accelerated GPT-5.6 Sol inference, cycling, MLB, and wrestling updates.

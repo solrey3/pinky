@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-30
 updated: 2026-08-14
 tags: [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector, offensive-cyber]
-source_count: 13
+source_count: 14
 ---
 
 # Critical Infrastructure Cybersecurity
@@ -13,6 +13,8 @@ source_count: 13
 Critical infrastructure cybersecurity is the protection of systems whose failure would have public-safety or social-continuity consequences: water utilities, power grids, transportation networks, hospitals, communications, and other civic infrastructure.
 
 ## Sources
+
+- [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-daytime.md) — Expanded private-sector action against overseas cybercriminals and GLM-5.3 cyber capabilities reinforce authorization, attribution, and escalation risks.
 
 - [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-midnight.md) — Expanded private-sector action against overseas cybercriminals keeps authorization, attribution, oversight, and escalation central to cyber defense.
 
