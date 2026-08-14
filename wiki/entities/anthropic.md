@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-08-13
+updated: 2026-08-14
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation]
-source_count: 59
+source_count: 60
 ---
 
 # Anthropic
@@ -50,6 +50,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - **May 30, 2026**: gHacks confirms **Claude Opus 4.8 with effort controls and dynamic workflows for Claude Code** — the effort controls are described as the headline feature. This is the full feature release detail for the model that went live May 28.
 
 ## Sources
+
+- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-noon.md) — Reported price competition with OpenAI and Chinese rivals accompanies a possible record $2 trillion IPO valuation.
 
 - [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-noon.md) — A reported potential $2 trillion IPO valuation illustrates the capital expectations surrounding frontier-model companies.
 

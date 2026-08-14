@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-14
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 46
+source_count: 47
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 46
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-noon.md) — Newsweek, Kalshi, Wawa, sports-wire, team-report, start-time, and broadcast gaps remain explicit rather than inferred.
 
 - [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-daytime.md) — Kalshi, Wawa, league-newswire, team-schedule, and broadcast gaps remain explicit rather than inferred.
 

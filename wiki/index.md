@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-14-noon](sources/newsletter-2026-08-14-noon.md) | Noon Dispatch — Friday, August 14, 2026 | newsletter | [newsletter, noon-dispatch, markets, anthropic, surveillance, prediction-markets, cycling, baseball, wrestling] | 2026-08-14 |
 | [newsletter-2026-08-14-daytime](sources/newsletter-2026-08-14-daytime.md) | Morning Dispatch — Friday, August 14, 2026 | newsletter | [newsletter, daytime-dispatch, markets, tariffs, cybersecurity, gemini, glm, cycling, baseball, wrestling] | 2026-08-14 |
 | [newsletter-2026-08-14-midnight](sources/newsletter-2026-08-14-midnight.md) | Midnight Dispatch — Friday, August 14, 2026 | newsletter | [newsletter, midnight-dispatch, markets, inflation, tariffs, cybersecurity, gemini, cerebras, cycling, baseball, wrestling] | 2026-08-14 |
 | [newsletter-2026-08-13-evening](sources/newsletter-2026-08-13-evening.md) | Evening Brief — Thursday, August 13, 2026 | newsletter | [newsletter, evening-dispatch, markets, inflation, cybersecurity, gemini, cerebras, cycling, baseball, wrestling] | 2026-08-13 |

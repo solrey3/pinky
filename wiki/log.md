@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-14] ingest | Noon Dispatch — Friday, August 14, 2026
+- Source: `pinky/raw/newsletters/2026-08-14-noon-dispatch.md`
+- Summary: August 14 noon dispatch — the S&P 500 and Russell 2000 press annual highs while the Dow, Bitcoin, Amazon, and Berkshire weaken and long rates remain elevated; news adds Gaza returns, a possible $2 trillion Anthropic IPO, frontier-model price competition, Minnesota political-group surveillance, drug affordability, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-14-noon.md` (new); entity pages `anthropic`, `toms-river`, `makati`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `prediction-markets`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: AI valuations, mixed markets, broad surveillance authority, and incomplete feeds all require granular evidence, bounded authority, and explicit provenance.
+
 ## [2026-08-14] ingest | Morning Dispatch — Friday, August 14, 2026
 - Source: `pinky/raw/newsletters/2026-08-14-daytime-dispatch.md`
 - Summary: August 14 morning dispatch — a growth-led rally near annual highs coexists with Dow softness, falling Bitcoin, and elevated long rates; news adds Gaza returns, tariff refunds, flooding, expanded private-sector cyber authority, GLM-5.3, Gemini 3.7 Flash, cycling, MLB, and wrestling updates.
