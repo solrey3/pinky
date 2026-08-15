@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-15-noon](sources/newsletter-2026-08-15-noon.md) | Noon Dispatch — Saturday, August 15, 2026 | newsletter | [newsletter, noon-dispatch, markets, retail-sales, oil, cybersecurity, electric-aviation, codex, cycling, baseball, wrestling] | 2026-08-15 |
 | [newsletter-2026-08-15-daytime](sources/newsletter-2026-08-15-daytime.md) | Morning Dispatch — Saturday, August 15, 2026 | newsletter | [newsletter, daytime-dispatch, markets, retail-sales, oil, cybersecurity, electric-aviation, qwen, cycling, baseball, wrestling] | 2026-08-15 |
 | [newsletter-2026-08-15-midnight](sources/newsletter-2026-08-15-midnight.md) | Midnight Dispatch — Saturday, August 15, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, anthropic, cybersecurity, electric-aviation, qwen, earthquake, cycling, baseball, wrestling] | 2026-08-15 |
 | [newsletter-2026-08-14-evening](sources/newsletter-2026-08-14-evening.md) | Evening Brief — Friday, August 14, 2026 | newsletter | [newsletter, evening-dispatch, markets, anthropic, cybersecurity, electric-aviation, qwen, wayland, cycling, baseball, wrestling] | 2026-08-14 |

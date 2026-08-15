@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-15] ingest | Noon Dispatch — Saturday, August 15, 2026
+- Source: `pinky/raw/newsletters/2026-08-15-noon-dispatch.md`
+- Summary: August 15 noon dispatch — weak retail sales, $3 trillion in cash, elevated long rates, and a 5.40% weekly WTI gain coexist with near-high small caps and diversified ETFs; news adds active Mac exploitation, electric-aircraft testing, Codex-driven kernel optimization, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-15-noon.md` (new); entity pages `toms-river`, `makati`, `wti`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `critical-infrastructure-cybersecurity`, `ai-augmented-development`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: selective market strength coexists with consumer caution, expensive financing, energy pressure, active exploitation, and feed gaps; AI optimization claims require reproducible benchmarks and correctness checks.
+
 ## [2026-08-15] ingest | Morning Dispatch — Saturday, August 15, 2026
 - Source: `pinky/raw/newsletters/2026-08-15-daytime-dispatch.md`
 - Summary: August 15 morning dispatch — weak retail sales, large cash allocations, elevated long rates, and weak Bitcoin coexist with small caps and diversified ETFs near annual highs; WTI gains 5.40% weekly, while news adds active Mac exploitation, electric-aircraft testing, Qwen 3.8 27B, cycling, MLB, and wrestling updates.
