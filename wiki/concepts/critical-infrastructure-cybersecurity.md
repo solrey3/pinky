@@ -3,9 +3,9 @@ id: 43dc4507-bb58-441c-a3a2-2381bc974e0e
 title: Critical Infrastructure Cybersecurity
 type: concept
 created: 2026-07-30
-updated: 2026-08-14
+updated: 2026-08-15
 tags: [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector, offensive-cyber]
-source_count: 15
+source_count: 16
 ---
 
 # Critical Infrastructure Cybersecurity
@@ -13,6 +13,8 @@ source_count: 15
 Critical infrastructure cybersecurity is the protection of systems whose failure would have public-safety or social-continuity consequences: water utilities, power grids, transportation networks, hospitals, communications, and other civic infrastructure.
 
 ## Sources
+
+- [2026-08-15: Morning Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-daytime.md) — Active exploitation of a Mac takeover vulnerability reinforces rapid patching, endpoint inventory, and verified remediation.
 
 - [2026-08-14: Evening Brief — Friday, August 14, 2026](../sources/newsletter-2026-08-14-evening.md) — Active exploitation of a Mac takeover vulnerability reinforces the operational importance of rapid endpoint patching and verified remediation.
 

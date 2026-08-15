@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-15] ingest | Morning Dispatch — Saturday, August 15, 2026
+- Source: `pinky/raw/newsletters/2026-08-15-daytime-dispatch.md`
+- Summary: August 15 morning dispatch — weak retail sales, large cash allocations, elevated long rates, and weak Bitcoin coexist with small caps and diversified ETFs near annual highs; WTI gains 5.40% weekly, while news adds active Mac exploitation, electric-aircraft testing, Qwen 3.8 27B, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-15-daytime.md` (new); entity pages `toms-river`, `makati`, `qwen`, `wti`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `critical-infrastructure-cybersecurity`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: near-record risk assets coexist with consumer caution, expensive financing, energy pressure, active security threats, and feed gaps, requiring granular evidence and explicit uncertainty.
+
 ## [2026-08-15] ingest | Midnight Dispatch — Saturday, August 15, 2026
 - Source: `pinky/raw/newsletters/2026-08-15-midnight-dispatch.md`
 - Summary: August 15 midnight dispatch — small caps and diversified ETFs approach annual highs while the Dow falls, soft retail data and elevated long rates signal caution, WTI gains 5.12% weekly, and news adds a possible $2 trillion Anthropic IPO, active Mac exploitation, electric aviation, Qwen 3.8 27B, an Indonesian earthquake, MLB, cycling, and wrestling updates.
