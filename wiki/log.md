@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-16] ingest | Midnight Dispatch — Sunday, August 16, 2026
+- Source: `pinky/raw/newsletters/2026-08-16-midnight-dispatch.md`
+- Summary: August 16 midnight dispatch — weak retail sales, $3 trillion in cash, elevated long rates, and a 5.40% weekly WTI gain coexist with near-high small caps and diversified ETFs; news adds a possible $2 trillion Anthropic IPO, DuckDB asynchronous I/O, semaglutide/dementia research, cycling, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-16-midnight.md` (new); entity pages `toms-river`, `makati`, `anthropic`, `wti`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: near-record risk assets and extreme AI valuations coexist with consumer caution, expensive financing, energy pressure, provisional health-research claims, and feed gaps; interpretation requires granular evidence and explicit uncertainty.
+
 ## [2026-08-15] ingest | Evening Brief — Saturday, August 15, 2026
 - Source: `pinky/raw/newsletters/2026-08-15-evening-dispatch.md`
 - Summary: August 15 evening brief — weak retail sales, $3 trillion in cash, elevated long rates, and a 5.40% weekly WTI gain coexist with near-high small caps and diversified ETFs; news adds active Mac exploitation, debate over AI mathematical reasoning versus retrieval, cycling, MLB, and wrestling updates.
