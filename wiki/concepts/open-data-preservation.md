@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-16
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 54
+source_count: 55
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 54
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-noon.md) — Weekend prices are labeled as completed-week closes, while prediction, local-fuel, schedule, television, and sports-feed gaps remain explicit.
 
 - [2026-08-16: Morning Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-daytime.md) — Sunday quotes are labeled as completed-week closes, while prediction, fuel, league-news, schedule, and team-report gaps remain explicit.
 

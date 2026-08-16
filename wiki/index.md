@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-16-noon](sources/newsletter-2026-08-16-noon.md) | Noon Dispatch — Sunday, August 16, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, mental-health-ai, immigration, judicial-review, anthropic, cycling, baseball, wrestling] | 2026-08-16 |
 | [newsletter-2026-08-16-daytime](sources/newsletter-2026-08-16-daytime.md) | Morning Dispatch — Sunday, August 16, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, immigration, government-transparency, ai-watermarking, duckdb, cycling, baseball, wrestling] | 2026-08-16 |
 | [newsletter-2026-08-16-midnight](sources/newsletter-2026-08-16-midnight.md) | Midnight Dispatch — Sunday, August 16, 2026 | newsletter | [newsletter, midnight-dispatch, markets, retail-sales, oil, anthropic, duckdb, dementia-research, cycling, baseball, wrestling] | 2026-08-16 |
 | [newsletter-2026-08-15-evening](sources/newsletter-2026-08-15-evening.md) | Evening Brief — Saturday, August 15, 2026 | newsletter | [newsletter, evening-dispatch, markets, retail-sales, oil, cybersecurity, ai-reasoning, cycling, baseball, wrestling] | 2026-08-15 |
@@ -1463,6 +1464,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 1 |
 | [Prompt Injection](concepts/prompt-injection.md) | ai, security, prompt-injection, llm, legal-tech, untrusted-content | 1 |
 | [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 2 |
 | [Paid Family Leave](concepts/paid-family-leave.md) | labor, benefits, caregiving, worker-protection | 2 |

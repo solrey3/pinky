@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-16] ingest | Noon Dispatch — Sunday, August 16, 2026
+- Source: `pinky/raw/newsletters/2026-08-16-noon-dispatch.md`
+- Summary: August 16 noon dispatch — small caps and diversified ETFs remain near annual highs while the Dow falls, long rates stay elevated, WTI posts a 5.40% weekly gain, and news adds therapy chatbots outrunning clinical evidence, migrant-child tracking, judicial-review and DOJ-independence disputes, Claude system-prompt disclosure, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-16-noon.md` (new); entity pages `toms-river`, `makati`, `anthropic`, `wti`, `mathieu-van-der-poel`, `tadej-pogacar`; concept page `mental-health-chatbot-safety` (new); concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market strength and rapid chatbot adoption both require granular evidence—the former because of expensive financing and energy pressure, the latter because conversational fluency does not establish clinical safety or effectiveness.
+
 ## [2026-08-16] ingest | Morning Dispatch — Sunday, August 16, 2026
 - Source: `pinky/raw/newsletters/2026-08-16-daytime-dispatch.md`
 - Summary: August 16 morning dispatch — small caps and diversified ETFs remain near annual highs while the Dow falls, long rates stay elevated, WTI posts a 5.40% weekly gain, and news adds migrant-child tracking, government-record access, raw-milk risk, Claude watermark-removal scams, DuckDB asynchronous I/O, MLB, cycling, and wrestling updates.
