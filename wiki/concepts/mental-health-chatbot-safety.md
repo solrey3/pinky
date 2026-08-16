@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-16
 updated: 2026-08-16
 tags: [ai, mental-health, clinical-evidence, safety, chatbots]
-source_count: 1
+source_count: 2
 ---
 
 # Mental-Health Chatbot Safety
@@ -13,6 +13,8 @@ source_count: 1
 Mental-health chatbot safety is the requirement that conversational systems used for emotional support or therapy-like interaction be clinically validated, disclose their limits, protect sensitive data, recognize crisis conditions, and escalate users to qualified human care when needed.
 
 ## Sources
+
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Therapy chatbots replacing some human care despite limited evidence reinforce the need for clinical validation, crisis escalation, privacy, and accountable oversight.
 
 - [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-noon.md) — Reports that chatbots are replacing therapists despite limited scientific evidence, separating adoption and conversational fluency from demonstrated clinical benefit.
 

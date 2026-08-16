@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-16] ingest | Evening Brief — Sunday, August 16, 2026
+- Source: `pinky/raw/newsletters/2026-08-16-evening-dispatch.md`
+- Summary: August 16 evening brief — small caps and diversified ETFs remain near annual highs while the Dow falls, long rates and WTI stay elevated, and news adds therapy chatbots outrunning clinical evidence, migrant-child searches, Flock surveillance criticism, judicial-review concerns, Claude system-prompt notes, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-16-evening.md` (new); entity pages `toms-river`, `makati`, `anthropic`, `flock-safety`, `wti`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `mental-health-chatbot-safety`, `automated-license-plate-reader-surveillance`, `immigration-enforcement-escalation`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: chatbot safety, surveillance legitimacy, immigration due process, judicial review, market timestamps, and feed gaps all require bounded authority, testable evidence, and visible provenance.
+
 ## [2026-08-16] ingest | Noon Dispatch — Sunday, August 16, 2026
 - Source: `pinky/raw/newsletters/2026-08-16-noon-dispatch.md`
 - Summary: August 16 noon dispatch — small caps and diversified ETFs remain near annual highs while the Dow falls, long rates stay elevated, WTI posts a 5.40% weekly gain, and news adds therapy chatbots outrunning clinical evidence, migrant-child tracking, judicial-review and DOJ-independence disputes, Claude system-prompt disclosure, MLB, cycling, and wrestling updates.

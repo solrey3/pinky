@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-16
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 55
+source_count: 56
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 55
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Sunday prices are identified as Friday closes, while Kalshi, local-fuel, and sports-feed gaps remain explicit rather than inferred.
 
 - [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-noon.md) — Weekend prices are labeled as completed-week closes, while prediction, local-fuel, schedule, television, and sports-feed gaps remain explicit.
 
