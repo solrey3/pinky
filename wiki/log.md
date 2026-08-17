@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-17] ingest | Noon Dispatch — Monday, August 17, 2026
+- Source: `pinky/raw/newsletters/2026-08-17-noon-dispatch.md`
+- Summary: August 17 noon dispatch — chip-led gains in the S&P 500, Nasdaq, and Russell 2000 coexist with Dow weakness and a near-record long yield; news adds Colorado River and Lake Powell scarcity, migrant-child searches, broad Illinois surveillance access, Nvidia’s $21B SpaceX stake, DuckDB 2.0, an AI-generated CI/CD remediation failure, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-17-noon.md` (new); entity pages `toms-river`, `makati`, `nvidia`, `spacex`, `duckdb` (new); concept pages `western-water-scarcity`, `automated-license-plate-reader-surveillance`, `software-supply-chain-security`, `immigration-enforcement-escalation`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: scarce resources, broad surveillance access, privileged automation, concentrated investment, and incomplete feeds all require bounded authority, auditable decisions, and explicit provenance.
+
 ## [2026-08-17] ingest | Morning Dispatch — Monday, August 17, 2026
 - Source: `pinky/raw/newsletters/2026-08-17-daytime-dispatch.md`
 - Summary: August 17 morning dispatch — small caps and diversified ETFs press annual highs while the Dow and some megacaps fall, long rates remain elevated, and news adds therapy-chatbot evidence gaps, migrant-child searches amid deportations, shadow-AI risk, Qwen overthinking, MLB, cycling, and wrestling updates.
