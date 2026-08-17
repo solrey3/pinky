@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-06-29
 updated: 2026-08-17
 tags: [ai, llm, open-weights, local-ai, developer-tools, agentic-coding]
-source_count: 12
+source_count: 13
 ---
 
 # Qwen
@@ -14,6 +14,8 @@ source_count: 12
 Alibaba's Qwen family of large language models. In this wiki, Qwen is tracked as part of the open/local model ecosystem for developer workflows, coding agents, and non-frontier but practical inference.
 
 ## Sources
+
+- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-daytime.md) — Qwen 3.8 27B is assessed as capable but prone to excessive reasoning, highlighting inference-efficiency tradeoffs.
 
 - [2026-08-17: Midnight Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-midnight.md) — Qwen 3.8 27B is assessed as highly capable but prone to unnecessary overthinking, highlighting inference-efficiency tradeoffs.
 
