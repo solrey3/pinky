@@ -3,9 +3,9 @@ id: 2204778d-397d-4559-9166-48d1028d64b5
 title: Measles Resurgence
 type: concept
 created: 2026-07-23
-updated: 2026-08-04
+updated: 2026-08-17
 tags: [public-health, measles, vaccines, surveillance, outbreak-risk]
-source_count: 2
+source_count: 3
 ---
 
 # Measles Resurgence
@@ -13,6 +13,8 @@ source_count: 2
 Measles resurgence is the return of elevated measles case counts after periods of strong vaccine-driven control. In the newsletter graph, it matters as a public-health surveillance and institutional-trust signal: a vaccine-preventable disease reaching multi-decade highs indicates that health communication, immunization access, and outbreak response deserve attention even when the dispatch does not assign cause.
 
 ## Sources
+
+- [2026-08-17: Evening Brief — Monday, August 17, 2026](../sources/newsletter-2026-08-17-evening.md) — Kindergarten MMR coverage remains below the outbreak-prevention target, preserving population-level vulnerability.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — The Hill reports research estimating the 2025 measles outbreak cost nearly $5.4M to contain.
 - [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The dispatch carries a headline that measles cases have reached a 35-year high, putting vaccine-preventable disease back on the daily-risk board.

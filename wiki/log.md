@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-17] ingest | Evening Brief — Monday, August 17, 2026
+- Source: `pinky/raw/newsletters/2026-08-17-evening-dispatch.md`
+- Summary: August 17 evening brief — small caps and semiconductors rise while the Dow and selected megacaps fall and long rates approach their annual high; news adds potentially understated AI-buildout costs, data centers as state tax policy, sub-target MMR coverage, DuckDB 2.0, DeepSeek V4 Pro, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-17-evening.md` (new); entity pages `toms-river`, `makati`, `duckdb`, `deepseek`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `ai-infrastructure-energy-demand`, `measles-resurgence`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: hidden AI financing, data-center fiscal ambitions, vaccination gaps, market dispersion, and missing feeds all require visible exposure, infrastructure constraints, and explicit provenance.
+
 ## [2026-08-17] ingest | Noon Dispatch — Monday, August 17, 2026
 - Source: `pinky/raw/newsletters/2026-08-17-noon-dispatch.md`
 - Summary: August 17 noon dispatch — chip-led gains in the S&P 500, Nasdaq, and Russell 2000 coexist with Dow weakness and a near-record long yield; news adds Colorado River and Lake Powell scarcity, migrant-child searches, broad Illinois surveillance access, Nvidia’s $21B SpaceX stake, DuckDB 2.0, an AI-generated CI/CD remediation failure, MLB, cycling, and wrestling updates.

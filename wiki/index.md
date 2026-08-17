@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-17-evening](sources/newsletter-2026-08-17-evening.md) | Evening Brief — Monday, August 17, 2026 | newsletter | [newsletter, evening-dispatch, markets, ai-infrastructure, measles, duckdb, deepseek, cycling, baseball, wrestling] | 2026-08-17 |
 | [newsletter-2026-08-17-noon](sources/newsletter-2026-08-17-noon.md) | Noon Dispatch — Monday, August 17, 2026 | newsletter | [newsletter, noon-dispatch, markets, western-water, immigration, surveillance, nvidia, spacex, duckdb, ci-cd-security, cycling, baseball, wrestling] | 2026-08-17 |
 | [newsletter-2026-08-17-daytime](sources/newsletter-2026-08-17-daytime.md) | Morning Dispatch — Monday, August 17, 2026 | newsletter | [newsletter, daytime-dispatch, markets, mental-health-ai, immigration, qwen, shadow-ai, cycling, baseball, wrestling] | 2026-08-17 |
 | [newsletter-2026-08-17-midnight](sources/newsletter-2026-08-17-midnight.md) | Midnight Dispatch — Monday, August 17, 2026 | newsletter | [newsletter, midnight-dispatch, markets, mental-health-ai, raw-milk, judicial-review, qwen, cybersecurity, cycling, baseball, wrestling] | 2026-08-17 |
