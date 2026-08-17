@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-17] ingest | Midnight Dispatch — Monday, August 17, 2026
+- Source: `pinky/raw/newsletters/2026-08-17-midnight-dispatch.md`
+- Summary: August 17 midnight dispatch — small caps, diversified ETFs, and selected financial exposure press annual highs while the Dow and some megacaps fall, long rates remain elevated, and news adds teen therapy-chatbot risk, raw-milk health warnings, judicial-review concerns, Qwen overthinking, n8n RCE coverage, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-17-midnight.md` (new); entity pages `toms-river`, `makati`, `qwen`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `mental-health-chatbot-safety`, `foodborne-outbreaks`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: clinical AI, food safety, model efficiency, institutional checks, market interpretation, and feed provenance all require evidence strong enough for the authority or confidence being claimed.
+
 ## [2026-08-16] ingest | Evening Brief — Sunday, August 16, 2026
 - Source: `pinky/raw/newsletters/2026-08-16-evening-dispatch.md`
 - Summary: August 16 evening brief — small caps and diversified ETFs remain near annual highs while the Dow falls, long rates and WTI stay elevated, and news adds therapy chatbots outrunning clinical evidence, migrant-child searches, Flock surveillance criticism, judicial-review concerns, Claude system-prompt notes, MLB, cycling, and wrestling updates.
