@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-08-08
+updated: 2026-08-18
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 61
+source_count: 62
 ---
 
 # Polymarket
@@ -14,6 +14,8 @@ source_count: 61
 Polymarket is a prediction-market platform tracked here when market-implied political or event probabilities enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-midnight.md) — Prices U.S.–Iran peace talks at 28% by September 30 and 74% by December 31.
 
 - [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Contracts on the September Fed decision and U.S.–Iran talks appear without fetched numerical movement.
 

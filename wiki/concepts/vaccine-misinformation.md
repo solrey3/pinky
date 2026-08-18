@@ -3,9 +3,9 @@ id: 83e83318-6180-4094-ad05-b09d7a114147
 title: Vaccine Misinformation
 type: concept
 created: 2026-07-06
-updated: 2026-08-11
+updated: 2026-08-18
 tags: [public-health, vaccines, misinformation, risk-communication, institutions, trust]
-source_count: 7
+source_count: 8
 ---
 
 # Vaccine Misinformation
@@ -13,6 +13,8 @@ source_count: 7
 Vaccine misinformation is the circulation of false or misleading claims about vaccine safety, causality, or institutional intent. It matters because it can change health behavior, criminal/legal narratives, and trust in public-health agencies.
 
 ## Sources
+
+- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-midnight.md) — CDC data show vaccination rates falling and exemptions rising, documenting the behavioral outcome that makes misleading vaccine narratives consequential.
 
 - [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-noon.md) — The WHO chief says U.S. immunization changes conflict with decades of evidence, sharpening the evidence-standard and institutional-trust dispute.
 

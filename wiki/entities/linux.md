@@ -4,9 +4,9 @@ title: Linux
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-08-02
+updated: 2026-08-18
 tags: [linux, operating-system, open-source, security, infrastructure]
-source_count: 3
+source_count: 4
 ---
 
 # Linux
@@ -14,6 +14,8 @@ source_count: 3
 Linux is an open-source operating-system kernel and ecosystem tracked here when platform security, operations, and developer infrastructure matter.
 
 ## Sources
+
+- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-midnight.md) — Records the Linux 7.2 kernel release in the around-the-web feed.
 
 - [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Bor Linux desktop policy management and Go/developer-tool chatter keep Linux policy tooling in the tech desk.
 
