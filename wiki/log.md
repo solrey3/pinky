@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-18] ingest | Noon Dispatch — Tuesday, August 18, 2026
+- Source: `pinky/raw/newsletters/2026-08-18-noon-dispatch.md`
+- Summary: August 18 noon dispatch — major indexes sag while long yields and oil remain elevated; news adds hidden AI-buildout obligations, Costco's Medicare expansion, Meta's $1.4 trillion child-safety trial, a Microsoft Copilot secret-input compromise, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-18-noon.md` (new); entity pages `toms-river`, `makati`, `costco`, `medicare`, `meta`, `microsoft-copilot`, `tadej-pogacar`; concept pages `ai-infrastructure-energy-demand`, `prompt-injection`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: hidden financial commitments, protected AI context, regulated-benefit distribution, platform liability, mixed markets, and feed gaps all require granular exposure, auditable boundaries, and explicit uncertainty.
+
 ## [2026-08-18] ingest | Morning Dispatch — Tuesday, August 18, 2026
 - Source: `pinky/raw/newsletters/2026-08-18-daytime-dispatch.md`
 - Summary: August 18 morning dispatch — small caps and semiconductors rise while the Dow and selected megacaps fall, long yields press their annual ceiling, and oil rises; news adds hidden AI-buildout obligations, AI sandbox risk, data-center heat reuse, robotic steel manufacturing, Meta's trial defense, MLB, cycling, and wrestling updates.

@@ -4,9 +4,9 @@ title: Costco
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-04
-tags: [retail, consumer-staples, warehouse-club, markets]
-source_count: 37
+updated: 2026-08-18
+tags: [retail, consumer-staples, warehouse-club, markets, healthcare]
+source_count: 38
 ---
 
 # Costco
@@ -14,6 +14,8 @@ source_count: 37
 Costco is tracked as a defensive/consumer-staples retail bellwether.
 
 ## Sources
+
+- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-noon.md) — Plans to distribute Medicare plans, extending its membership model into regulated health-insurance access.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — COST falls 1.94%, a consumer/quality-stock caveat inside the green board.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears as a positive quality/consumer stock-watch item.

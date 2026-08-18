@@ -3,9 +3,9 @@ id: cdce7709-1cd2-4432-96a7-c8d54b25338e
 title: Prompt Injection
 type: concept
 created: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-18
 tags: [ai, security, prompt-injection, llm, legal-tech, untrusted-content]
-source_count: 1
+source_count: 2
 ---
 
 # Prompt Injection
@@ -13,6 +13,8 @@ source_count: 1
 Prompt injection is an attack or manipulation in which untrusted content contains instructions intended to override, redirect, or exploit an AI system's governing instructions. The risk becomes indirect when an agent or document-review tool reads hostile text embedded in an otherwise ordinary file, webpage, message, or legal filing.
 
 ## Sources
+
+- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-noon.md) — A Microsoft Copilot compromise involving disclosed secret input extends the threat from hostile documents into assistant context and protected-instruction leakage.
 
 - [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-noon.md) — A court faulted a self-represented plaintiff for hiding prompt-injection text in a filing, moving the threat from laboratory and web contexts into judicial workflow.
 
