@@ -4,9 +4,9 @@ title: U.S. Environmental Protection Agency
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-07-27
+updated: 2026-08-18
 tags: [government, environment, regulation, pesticides, pfas, public-health, united-states]
-source_count: 2
+source_count: 3
 ---
 
 # U.S. Environmental Protection Agency
@@ -14,6 +14,8 @@ source_count: 2
 The U.S. Environmental Protection Agency is the federal environmental regulator. In the newsletter graph, it is relevant when agency approvals or definitions shape public-health, chemical-risk, and environmental-policy debates.
 
 ## Sources
+
+- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — A court upholds the agency rule assigning polluter liability for PFAS cleanup.
 
 - [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Approves pesticides that critics may treat as PFAS/“forever chemicals,” while the agency disputes that label.
 

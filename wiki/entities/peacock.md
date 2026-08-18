@@ -4,9 +4,9 @@ title: Peacock
 type: entity
 entity_type: product
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-18
 tags: [streaming, media, nbcuniversal]
-source_count: 1
+source_count: 2
 ---
 
 # Peacock
@@ -14,6 +14,8 @@ source_count: 1
 NBCUniversal streaming service tracked as part of the streaming-bundle and media-distribution graph.
 
 ## Sources
+
+- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — Raises subscription prices by 18% after reaching profitability.
 
 - [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Peacock is embedded in YouTube for premium subscribers under a new NBCUniversal/YouTube deal.
 

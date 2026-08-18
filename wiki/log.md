@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-18] ingest | Evening Brief — Tuesday, August 18, 2026
+- Source: `pinky/raw/newsletters/2026-08-18-evening-dispatch.md`
+- Summary: August 18 evening brief — all four indexes fall while oil rises and long yields remain near their annual high; news adds water-utility cyberattacks, upheld PFAS polluter liability, Meta’s platform-harm defense, Peacock pricing, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-18-evening.md` (new); entity pages `toms-river`, `makati`, `meta`, `us-environmental-protection-agency`, `peacock`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `critical-infrastructure-cybersecurity`, `pfas-regulation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: platform liability, utility cyber resilience, chemical cleanup responsibility, mixed markets, and incomplete feeds all require accountable operators, granular evidence, and explicit uncertainty.
+
 ## [2026-08-18] ingest | Noon Dispatch — Tuesday, August 18, 2026
 - Source: `pinky/raw/newsletters/2026-08-18-noon-dispatch.md`
 - Summary: August 18 noon dispatch — major indexes sag while long yields and oil remain elevated; news adds hidden AI-buildout obligations, Costco's Medicare expansion, Meta's $1.4 trillion child-safety trial, a Microsoft Copilot secret-input compromise, MLB, cycling, and wrestling updates.

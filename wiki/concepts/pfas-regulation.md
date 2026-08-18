@@ -3,9 +3,9 @@ id: e86196ce-9000-4cf7-b443-f9e02d16c4bd
 title: PFAS Regulation
 type: concept
 created: 2026-07-02
-updated: 2026-07-31
+updated: 2026-08-18
 tags: [environment, public-health, chemicals, pfas, forever-chemicals, regulation, pesticides]
-source_count: 4
+source_count: 5
 ---
 
 # PFAS Regulation
@@ -13,6 +13,8 @@ source_count: 4
 PFAS regulation is the policy, science, and communications problem around per- and polyfluoroalkyl substances, often called “forever chemicals.” The hard part is not only whether a chemical is risky, but how regulators define categories, communicate uncertainty, and manage persistent exposure.
 
 ## Sources
+
+- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — A court upholds the EPA designation that makes polluters liable for PFAS cleanup.
 
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Keyport groundwater reporting extends PFAS concern into New Jersey community testing and remediation accountability.
 - [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Keyport groundwater testing finds PFAS and benzene, adding a New Jersey cancer-cluster/public-health evidence case to the persistent-chemical graph.
