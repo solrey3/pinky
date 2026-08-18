@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-12
+updated: 2026-08-18
 tags: [technology, social-media, ai, privacy, instagram, platforms]
-source_count: 23
+source_count: 24
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 23
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-daytime.md) — Opens its defense in a high-stakes trial over alleged social-media harms and platform accountability.
 
 - [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Muse Glimmer is described as a 30B open-weight model capable of running on a single consumer GPU.
 

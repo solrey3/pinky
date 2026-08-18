@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-16
 updated: 2026-08-17
 tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone, starship, reusable-rockets]
-source_count: 12
+source_count: 13
 ---
 
 # SpaceX
@@ -14,6 +14,8 @@ source_count: 12
 American aerospace and launch company founded by Elon Musk. In the newsletter graph, SpaceX sits at the intersection of space infrastructure, private-company finance, prediction-market speculation, and now AI developer tooling.
 
 ## Sources
+
+- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-daytime.md) — Former engineers carry aerospace automation experience into a robotic steel-parts factory.
 
 - [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — Appears as the target of Nvidia’s disclosed $21 billion private-market investment.
 

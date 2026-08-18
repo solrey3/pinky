@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-18-daytime](sources/newsletter-2026-08-18-daytime.md) | Morning Dispatch — Tuesday, August 18, 2026 | newsletter | [newsletter, daytime-dispatch, markets, ai-infrastructure, ai-safety, industrial-automation, cycling, baseball, wrestling] | 2026-08-18 |
 | [newsletter-2026-08-18-midnight](sources/newsletter-2026-08-18-midnight.md) | Midnight Dispatch — Tuesday, August 18, 2026 | newsletter | [newsletter, midnight-dispatch, markets, ai-infrastructure, vaccination, civil-liberties, linux, cycling, baseball, wrestling] | 2026-08-18 |
 | [newsletter-2026-08-17-evening](sources/newsletter-2026-08-17-evening.md) | Evening Brief — Monday, August 17, 2026 | newsletter | [newsletter, evening-dispatch, markets, ai-infrastructure, measles, duckdb, deepseek, cycling, baseball, wrestling] | 2026-08-17 |
 | [newsletter-2026-08-17-noon](sources/newsletter-2026-08-17-noon.md) | Noon Dispatch — Monday, August 17, 2026 | newsletter | [newsletter, noon-dispatch, markets, western-water, immigration, surveillance, nvidia, spacex, duckdb, ci-cd-security, cycling, baseball, wrestling] | 2026-08-17 |
@@ -820,8 +821,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Ali Khamenei](entities/ali-khamenei.md) | person | iran, geopolitics, diplomacy | 1 |
 | [Texas](entities/texas.md) | place | texas, weather, flooding, disaster-response, united-states | 4 |
 | [Canada](entities/canada.md) | place | canada, geopolitics, trade, wildfire-smoke, tariffs, north-america | 7 |
-| [Toms River](entities/toms-river.md) | place | new-jersey, shore, weather | 77 |
-| [Makati](entities/makati.md) | place | philippines, metro-manila, weather | 77 |
+| [Toms River](entities/toms-river.md) | place | new-jersey, shore, weather | 78 |
+| [Makati](entities/makati.md) | place | philippines, metro-manila, weather | 78 |
 | [France](entities/france.md) | place | france, europe, regulation, social-media, age-verification | 4 |
 | [Mali](entities/mali.md) | place | mali, africa, counterterrorism, foreign-policy, military | 1 |
 | [Reason](entities/reason.md) | organization | media, libertarian, policy, economics, tariffs | 35 |
@@ -1154,7 +1155,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Samsung](entities/samsung.md) | organization | technology, semiconductors, foundry, transistors, stacked-fets, ai-hardware | 2 |
 | [SQLite](entities/sqlite.md) | product | database, sqlite, embedded-database, wal, reliability, formal-methods, tla-plus, ai-security | 8 |
 | [South Korea](entities/south-korea.md) | place | country, south-korea, semiconductors, memory-chips, robotics, industrial-policy | 1 |
-| [SpaceX](entities/spacex.md) | organization | space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone | 10 |
+| [SpaceX](entities/spacex.md) | organization | space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone | 13 |
 | [Starlink](entities/starlink.md) | product | satellite-networking, spacex, ukraine, communications, infrastructure, geopolitics | 1 |
 | [Rocket Lab](entities/rocket-lab.md) | organization | space, launch, satellites, connectivity, acquisition, infrastructure | 2 |
 | [Iridium](entities/iridium.md) | organization | space, satellites, communications, connectivity, acquisition, infrastructure | 2 |
@@ -1172,14 +1173,14 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Toronto Maple Leafs](entities/toronto-maple-leafs.md) | organization | nhl, hockey, toronto-maple-leafs, front-office, sports | 2 |
 | [Hayley Wickenheiser](entities/hayley-wickenheiser.md) | person | hockey, nhl, toronto-maple-leafs, front-office, sports | 2 |
 | [Tim Merlier](entities/tim-merlier.md) | person | cycling, tour-de-france, belgium, sprinting, sports | 3 |
-| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 79 |
+| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 80 |
 | [Markel Beloki](entities/markel-beloki.md) | person | cycling, tour-de-l-ain, sports | 1 |
 
 | [Alphabet](entities/alphabet.md) | organization | technology, ai, google, big-tech, credit-quality, markets | 3 |
 | [Moody's](entities/moodys.md) | organization | credit-ratings, finance, ai-infrastructure, big-tech | 2 |
 | [FedEx](entities/fedex.md) | organization | logistics, shipping, healthcare-logistics, cold-chain | 2 |
 | [DHL](entities/dhl.md) | organization | logistics, shipping, healthcare-logistics, cold-chain | 2 |
-| [Meta](entities/meta.md) | organization | technology, social-media, ai, privacy, instagram, platforms | 19 |
+| [Meta](entities/meta.md) | organization | technology, social-media, ai, privacy, instagram, platforms | 24 |
 | [Amazon](entities/amazon.md) | organization | technology, e-commerce, cloud, markets, amzn, ai-infrastructure | 57 |
 | [Best Buy](entities/best-buy.md) | organization | retail, consumer-electronics, business, stores, strategy | 4 |
 | [PayPal](entities/paypal.md) | organization | finance, payments, fintech, markets | 40 |
@@ -1497,9 +1498,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Refactoring Economics](concepts/refactoring-economics.md) | [software-engineering, refactoring, economics, maintenance, ai-augmented-development] | 1 |
 | [AI Hiring Bias](concepts/ai-hiring-bias.md) | [ai, hiring, bias, employment, discrimination, governance, automated-decision-systems, algorithmic-accountability] | 4 |
 | [AI Labor Displacement](concepts/ai-labor-displacement.md) | [ai, labor, jobs, automation, customer-service, economics] | 4 |
-| [AI Infrastructure Energy Demand](concepts/ai-infrastructure-energy-demand.md) | ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality | 23 |
+| [AI Infrastructure Energy Demand](concepts/ai-infrastructure-energy-demand.md) | ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality | 24 |
 | [AI Model Capability Extraction](concepts/ai-model-capability-extraction.md) | ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance | 6 |
-| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai] | 25 |
+| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai] | 27 |
 | [AI Psychosis](concepts/ai-psychosis.md) | [ai, mental-health, llm, safety, human-factors, guardrails] | 1 |
 | [AI Shutdown Powers](concepts/ai-shutdown-powers.md) | [ai, governance, emergency-powers, safety, regulation, shutdown-authority] | 2 |
 | [AI Output Liability](concepts/ai-output-liability.md) | [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems] | 21 |
@@ -1565,7 +1566,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 178 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 179 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 2 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
@@ -1596,7 +1597,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Reusable Rockets](concepts/reusable-rockets.md) | [space, launch, rockets, infrastructure, china, competition] | 7 |
 | [World Models](concepts/world-models.md) | [ai, world-models, simulation, forecasting, agents, robotics, limitations] | 2 |
 | [Robotics Whole-Body Intelligence](concepts/robotics-whole-body-intelligence.md) | [ai, robotics, embodiment, world-models, google-deepmind] | 3 |
-| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 61 |
+| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 62 |
 | [Press Freedom](concepts/press-freedom.md) | [first-amendment, journalism, censorship, courts, civil-liberties, media] | 5 |
 | [Foodborne Outbreaks](concepts/foodborne-outbreaks.md) | public-health, food-safety, supply-chain, outbreaks, recalls, cyclospora | 15 |
 | [Property Rights and Takings](concepts/property-rights-and-takings.md) | [law, property-rights, eminent-domain, takings, supreme-court, infrastructure] | 13 |

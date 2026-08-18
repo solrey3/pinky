@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-18] ingest | Morning Dispatch — Tuesday, August 18, 2026
+- Source: `pinky/raw/newsletters/2026-08-18-daytime-dispatch.md`
+- Summary: August 18 morning dispatch — small caps and semiconductors rise while the Dow and selected megacaps fall, long yields press their annual ceiling, and oil rises; news adds hidden AI-buildout obligations, AI sandbox risk, data-center heat reuse, robotic steel manufacturing, Meta's trial defense, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-18-daytime.md` (new); entity pages `toms-river`, `makati`, `meta`, `spacex`, `tadej-pogacar`; concept pages `ai-infrastructure-energy-demand`, `ai-model-safety-boundaries`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: AI expansion creates financial, physical-energy, and containment boundaries, while mixed markets and missing feeds require visible exposure, provenance, and uncertainty.
+
 ## [2026-08-18] ingest | Midnight Dispatch — Tuesday, August 18, 2026
 - Source: `pinky/raw/newsletters/2026-08-18-midnight-dispatch.md`
 - Summary: August 18 midnight dispatch — small caps and semiconductors rise while the Dow and selected megacaps fall, long yields approach their annual high, and oil jumps; news adds hidden AI-buildout obligations, declining vaccination, a First Amendment right to record police, a fake political poll, Linux 7.2, MLB, cycling, and wrestling updates.
