@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-19] ingest | Evening Brief — Wednesday, August 19, 2026
+- Source: `pinky/raw/newsletters/2026-08-19-evening-dispatch.md`
+- Summary: August 19 evening brief — all four indexes fall while Bitcoin jumps 10.66%, oil and selected stocks rise, and long yields remain high; news adds the $40 trillion debt milestone, a personalized mRNA melanoma-vaccine result, workplace-data privacy concerns, OpenRouter joining Stripe, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-19-evening.md` (new); entity pages `toms-river`, `makati`, `moderna` (new), `merck` (new), `openrouter`, `stripe`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `personalized-cancer-vaccines` (new), `workplace-data-privacy` (new), `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: personalized medicine, employee-data transfers, AI/payments consolidation, expensive capital, mixed markets, and feed gaps require purpose limits, operational resilience, granular evidence, and explicit uncertainty.
+
 ## [2026-08-19] ingest | Morning Dispatch — Wednesday, August 19, 2026
 - Source: `pinky/raw/newsletters/2026-08-19-daytime-dispatch.md`
 - Summary: August 19 morning dispatch — all four indexes fall while oil, Bitcoin, and selected technology, dividend, real-estate, and financial pockets rise and long yields remain near their annual high; news adds a partial Canada tariff pause, water-utility cyberattacks, protected-speech scrutiny by ICE, Pennsylvania data-center backlash, Cerebras CS-4, MLB, cycling, and wrestling updates.

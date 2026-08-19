@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-19-evening](sources/newsletter-2026-08-19-evening.md) | Evening Brief — Wednesday, August 19, 2026 | newsletter | [newsletter, evening-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, workplace-data-privacy, fintech, cycling, baseball, wrestling] | 2026-08-19 |
 | [newsletter-2026-08-19-noon](sources/newsletter-2026-08-19-noon.md) | Noon Dispatch — Wednesday, August 19, 2026 | newsletter | [newsletter, noon-dispatch, markets, treasury-buybacks, tariffs, critical-infrastructure, public-health, civil-liberties, ai-competition, cycling, baseball, wrestling] | 2026-08-19 |
 | [newsletter-2026-08-19-daytime](sources/newsletter-2026-08-19-daytime.md) | Morning Dispatch — Wednesday, August 19, 2026 | newsletter | [newsletter, daytime-dispatch, markets, bonds, tariffs, critical-infrastructure, civil-liberties, ai-infrastructure, cycling, baseball, wrestling] | 2026-08-19 |
 | [newsletter-2026-08-19-midnight](sources/newsletter-2026-08-19-midnight.md) | Midnight Dispatch — Wednesday, August 19, 2026 | newsletter | [newsletter, midnight-dispatch, markets, bonds, tariffs, critical-infrastructure, wages, ai-jobs, cycling, baseball, wrestling] | 2026-08-19 |
@@ -343,6 +344,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ## Entities
 
+| [Moderna](entities/moderna.md) | organization | biotechnology, mrna, vaccines, oncology | 1 |
+| [Merck](entities/merck.md) | organization | pharmaceuticals, oncology, vaccines, melanoma | 1 |
 | [DuckDB](entities/duckdb.md) | product | database, analytics, sql, olap, open-source | 1 |
 | [Cerebras](entities/cerebras.md) | organization | ai, semiconductors, inference, hardware | 1 |
 | [Fastmail](entities/fastmail.md) | organization | email, privacy, cloud, data-residency | 1 |
@@ -1477,6 +1480,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 1 |
+| [Workplace Data Privacy](concepts/workplace-data-privacy.md) | privacy, employment, data-governance, surveillance, consent | 1 |
 | [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 1 |
 | [Prompt Injection](concepts/prompt-injection.md) | ai, security, prompt-injection, llm, legal-tech, untrusted-content | 1 |
 | [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 2 |
