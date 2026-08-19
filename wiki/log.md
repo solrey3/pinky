@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-19] ingest | Morning Dispatch — Wednesday, August 19, 2026
+- Source: `pinky/raw/newsletters/2026-08-19-daytime-dispatch.md`
+- Summary: August 19 morning dispatch — all four indexes fall while oil, Bitcoin, and selected technology, dividend, real-estate, and financial pockets rise and long yields remain near their annual high; news adds a partial Canada tariff pause, water-utility cyberattacks, protected-speech scrutiny by ICE, Pennsylvania data-center backlash, Cerebras CS-4, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-19-daytime.md` (new); entity pages `toms-river`, `makati`, `us-immigration-and-customs-enforcement`, `cerebras`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `risk-off-market-rotation`, `tariff-policy`, `critical-infrastructure-cybersecurity`, `ai-infrastructure-energy-demand`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: trade uncertainty, protected-speech scrutiny, utility cyber exposure, data-center constraints, specialized AI compute, mixed markets, and feed gaps require bounded authority, operational resilience, granular evidence, and explicit uncertainty.
+
 ## [2026-08-19] ingest | Midnight Dispatch — Wednesday, August 19, 2026
 - Source: `pinky/raw/newsletters/2026-08-19-midnight-dispatch.md`
 - Summary: August 19 midnight dispatch — all four indexes fall while oil, Bitcoin, and selected technology/defensive pockets rise and long yields remain near their annual high; news adds water-utility cyberattacks, a three-day Canada tariff pause, real-wage declines, AI-job anxiety, MLB, cycling, and wrestling updates.
