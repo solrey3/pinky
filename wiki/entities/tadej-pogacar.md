@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 82
+source_count: 83
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 82
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-midnight.md) — Retains the completed Tour de France title by 6:26 and gains a new UAE Team Emirates-XRG teammate for 2027.
 
 - [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — Retains the completed Tour victory by 6:26 and appears in the official yellow-jersey recap.
 

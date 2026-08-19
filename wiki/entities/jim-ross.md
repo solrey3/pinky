@@ -4,9 +4,9 @@ title: Jim Ross
 type: entity
 entity_type: person
 created: 2026-08-07
-updated: 2026-08-07
+updated: 2026-08-19
 tags: [wrestling, broadcaster, aew, health]
-source_count: 2
+source_count: 3
 ---
 
 # Jim Ross
@@ -14,6 +14,8 @@ source_count: 2
 Professional wrestling broadcaster tracked for industry and health updates.
 
 ## Sources
+
+- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-midnight.md) — Provides a health update following brain surgery.
 
 - [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Says his wrestling career may be over as he prepares for brain surgery.
 

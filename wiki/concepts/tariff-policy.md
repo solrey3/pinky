@@ -3,9 +3,9 @@ id: 8973c792-4d45-4edb-b549-6a4bdbf4265f
 title: Tariff Policy
 type: concept
 created: 2026-07-24
-updated: 2026-08-04
+updated: 2026-08-19
 tags: [trade, tariffs, section-301, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 17
+source_count: 18
 ---
 
 # Tariff Policy
@@ -13,6 +13,8 @@ source_count: 17
 Tariff policy is the use of import duties to pursue revenue, industrial policy, bargaining leverage, sanctions-like pressure, or domestic political goals. The operator question is not just whether tariffs raise or lower prices, but who has legal authority to impose them, which statutory tool is used, what supply-chain effects follow, and how costs transmit into inflation, consumers, and markets.
 
 ## Sources
+
+- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-midnight.md) — A three-day pause in proposed 50% tariffs on Canadian goods delays escalation without resolving authority, retaliation, or consumer-cost risk.
 
 - [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-daytime.md) — Large tariff refunds reaching companies shift the policy question toward repayment mechanics and whether benefits pass through to consumers.
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Democratic-led states and Oregon-led coverage challenge Trump's Section 301 tariffs, keeping executive trade power in litigation.

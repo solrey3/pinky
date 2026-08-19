@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-19] ingest | Midnight Dispatch — Wednesday, August 19, 2026
+- Source: `pinky/raw/newsletters/2026-08-19-midnight-dispatch.md`
+- Summary: August 19 midnight dispatch — all four indexes fall while oil, Bitcoin, and selected technology/defensive pockets rise and long yields remain near their annual high; news adds water-utility cyberattacks, a three-day Canada tariff pause, real-wage declines, AI-job anxiety, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-19-midnight.md` (new); entity pages `toms-river`, `makati`, `meta`, `tadej-pogacar`, `mathieu-van-der-poel`, `jim-ross`; concept pages `risk-off-market-rotation`, `critical-infrastructure-cybersecurity`, `tariff-policy`, `ai-labor-displacement`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: expensive capital, wage pressure, AI-job anxiety, tariff uncertainty, utility cyber exposure, and feed gaps all require granular evidence, operational resilience, and explicit uncertainty.
+
 ## [2026-08-18] ingest | Evening Brief — Tuesday, August 18, 2026
 - Source: `pinky/raw/newsletters/2026-08-18-evening-dispatch.md`
 - Summary: August 18 evening brief — all four indexes fall while oil rises and long yields remain near their annual high; news adds water-utility cyberattacks, upheld PFAS polluter liability, Meta’s platform-harm defense, Peacock pricing, MLB, cycling, and wrestling updates.

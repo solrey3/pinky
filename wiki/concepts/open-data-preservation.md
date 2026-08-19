@@ -3,9 +3,9 @@ id: 47e5c4ae-e2c7-4f42-92d0-0976f71705a5
 title: Open Data Preservation
 type: concept
 created: 2026-07-13
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 64
+source_count: 65
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 64
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-midnight.md) — Newsweek, Kalshi, sports-newswire, schedule, and team-API gaps remain explicit rather than inferred.
 
 - [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — Prediction-market, local-fuel, sports-feed, schedule, and television gaps remain explicit rather than inferred.
 
