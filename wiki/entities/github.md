@@ -4,9 +4,9 @@ title: GitHub
 type: entity
 entity_type: organization
 created: 2026-06-18
-updated: 2026-07-31
+updated: 2026-08-20
 tags: [technology, developer-platform, version-control, git, security, supply-chain-security, malware, repository-discovery, zero-days, vulnerability-disclosure, agentic-access-control]
-source_count: 12
+source_count: 13
 ---
 
 # GitHub
@@ -14,6 +14,8 @@ source_count: 12
 GitHub is the dominant hosted Git and developer-collaboration platform. In the newsletter graph, it matters as source control, package/discovery infrastructure, identity surface, and a supply-chain-security choke point for both human and AI-assisted development workflows.
 
 ## Sources
+
+- [2026-08-20: Evening Brief — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-evening.md) — Publishes a postmortem of the August 17 outage and outlines remediation work.
 
 - [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Stacked pull requests enter public preview, making dependent code-review chains more explicit and auditable.
 - [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Stacked pull requests are in public preview, adding first-party dependent-PR workflow support to code review.

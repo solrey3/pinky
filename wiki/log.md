@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-20] ingest | Evening Brief — Thursday, August 20, 2026
+- Source: `pinky/raw/newsletters/2026-08-20-evening-dispatch.md`
+- Summary: August 20 evening brief — all four indexes fall roughly 2% or more while Bitcoin jumps 15.80%, oil and selected assets rise, and long yields remain high; news adds personalized melanoma-vaccine data, Roblox child-safety scrutiny, GitHub's outage postmortem, internet-access concerns, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-20-evening.md` (new); entity pages `toms-river`, `makati`, `moderna`, `merck`, `github`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `personalized-cancer-vaccines`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: expensive capital, personalized medicine, platform child safety, public internet access, incident transparency, mixed markets, and feed gaps require measurable evidence, operational accountability, and explicit uncertainty.
+
 ## [2026-08-20] ingest | Noon Dispatch — Thursday, August 20, 2026
 - Source: `pinky/raw/newsletters/2026-08-20-noon-dispatch.md`
 - Summary: August 20 noon dispatch — all four indexes fall while Bitcoin jumps 15.18%, selected defensive and high-beta assets rise, and long yields remain high; news adds the $40 trillion debt milestone, personalized mRNA melanoma-vaccine data, WebAudio fingerprinting, a malicious Rust crate, orbital-data-center e-waste, MLB, cycling, and wrestling updates.
