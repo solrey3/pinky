@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-20] ingest | Noon Dispatch — Thursday, August 20, 2026
+- Source: `pinky/raw/newsletters/2026-08-20-noon-dispatch.md`
+- Summary: August 20 noon dispatch — all four indexes fall while Bitcoin jumps 15.18%, selected defensive and high-beta assets rise, and long yields remain high; news adds the $40 trillion debt milestone, personalized mRNA melanoma-vaccine data, WebAudio fingerprinting, a malicious Rust crate, orbital-data-center e-waste, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-20-noon.md` (new); entity pages `toms-river`, `makati`, `moderna`, `merck`, `spacex`; concept pages `browser-fingerprinting` (new), `personalized-cancer-vaccines`, `software-supply-chain-security`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: expensive capital, personalized medicine, covert browser tracking, privileged dependency builds, orbital hardware lifecycle, mixed markets, and feed gaps require granular evidence, bounded execution, lifecycle accounting, and explicit uncertainty.
+
 ## [2026-08-20] ingest | Morning Dispatch — Thursday, August 20, 2026
 - Source: `pinky/raw/newsletters/2026-08-20-daytime-dispatch.md`
 - Summary: August 20 morning dispatch — all four indexes fall while Bitcoin jumps 14.12%, selected defensive and high-beta assets rise, and long yields remain high; news adds the $40 trillion debt milestone, personalized mRNA melanoma-vaccine data, physical attacks on surveillance and AI infrastructure, NASA mission triage, OpenRouter joining Stripe, MLB, cycling, and wrestling updates.

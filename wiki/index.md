@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-20-noon](sources/newsletter-2026-08-20-noon.md) | Noon Dispatch — Thursday, August 20, 2026 | newsletter | [newsletter, noon-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, browser-fingerprinting, software-supply-chain, orbital-data-centers, cycling, baseball, wrestling] | 2026-08-20 |
 | [newsletter-2026-08-20-daytime](sources/newsletter-2026-08-20-daytime.md) | Morning Dispatch — Thursday, August 20, 2026 | newsletter | [newsletter, daytime-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, surveillance, openrouter, cycling, baseball, wrestling] | 2026-08-20 |
 | [newsletter-2026-08-20-midnight](sources/newsletter-2026-08-20-midnight.md) | Midnight Dispatch — Thursday, August 20, 2026 | newsletter | [newsletter, midnight-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, drone-delivery, openrouter, cycling, baseball, wrestling] | 2026-08-20 |
 | [newsletter-2026-08-19-evening](sources/newsletter-2026-08-19-evening.md) | Evening Brief — Wednesday, August 19, 2026 | newsletter | [newsletter, evening-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, workplace-data-privacy, fintech, cycling, baseball, wrestling] | 2026-08-19 |
@@ -1482,7 +1483,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
-| [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 2 |
+| [Browser Fingerprinting](concepts/browser-fingerprinting.md) | privacy, browsers, tracking, webaudio, surveillance | 1 |
+| [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 4 |
 | [Workplace Data Privacy](concepts/workplace-data-privacy.md) | privacy, employment, data-governance, surveillance, consent | 1 |
 | [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 1 |
 | [Prompt Injection](concepts/prompt-injection.md) | ai, security, prompt-injection, llm, legal-tech, untrusted-content | 1 |
