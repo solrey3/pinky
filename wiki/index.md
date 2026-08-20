@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-20-midnight](sources/newsletter-2026-08-20-midnight.md) | Midnight Dispatch — Thursday, August 20, 2026 | newsletter | [newsletter, midnight-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, drone-delivery, openrouter, cycling, baseball, wrestling] | 2026-08-20 |
 | [newsletter-2026-08-19-evening](sources/newsletter-2026-08-19-evening.md) | Evening Brief — Wednesday, August 19, 2026 | newsletter | [newsletter, evening-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, workplace-data-privacy, fintech, cycling, baseball, wrestling] | 2026-08-19 |
 | [newsletter-2026-08-19-noon](sources/newsletter-2026-08-19-noon.md) | Noon Dispatch — Wednesday, August 19, 2026 | newsletter | [newsletter, noon-dispatch, markets, treasury-buybacks, tariffs, critical-infrastructure, public-health, civil-liberties, ai-competition, cycling, baseball, wrestling] | 2026-08-19 |
 | [newsletter-2026-08-19-daytime](sources/newsletter-2026-08-19-daytime.md) | Morning Dispatch — Wednesday, August 19, 2026 | newsletter | [newsletter, daytime-dispatch, markets, bonds, tariffs, critical-infrastructure, civil-liberties, ai-infrastructure, cycling, baseball, wrestling] | 2026-08-19 |

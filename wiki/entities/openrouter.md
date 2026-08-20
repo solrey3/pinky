@@ -4,9 +4,9 @@ title: OpenRouter
 type: entity
 entity_type: product
 created: 2026-05-30
-updated: 2026-08-19
+updated: 2026-08-20
 tags: [product, ai, llm, api, infrastructure, openrouter]
-source_count: 2
+source_count: 3
 ---
 
 # OpenRouter
@@ -20,6 +20,8 @@ LLM API routing infrastructure layer. OpenRouter provides a unified API endpoint
 **Series B: $113M** (announced 2026-05-30). The developer community responded with 306 HN upvotes on announcement day — a signal of genuine utility recognition, not hype. Institutional backing at this scale means OpenRouter is being treated as permanent multi-model infrastructure, not a transitional hack. At the Series B stage the company is moving from startup to platform.
 
 ## Sources
+
+- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-midnight.md) — Reports that the multi-model AI routing platform is joining Stripe.
 
 - [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-evening.md) — Announces that the multi-model routing platform is joining Stripe.
 

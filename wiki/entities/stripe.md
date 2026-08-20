@@ -4,9 +4,9 @@ title: Stripe
 type: entity
 entity_type: organization
 created: 2026-07-16
-updated: 2026-08-19
+updated: 2026-08-20
 tags: [payments, fintech, acquisitions, paypal, markets]
-source_count: 2
+source_count: 3
 ---
 
 # Stripe
@@ -14,6 +14,8 @@ source_count: 2
 Stripe is tracked as a payments company when fintech competition, acquisition activity, or payments infrastructure affects the market board.
 
 ## Sources
+
+- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-midnight.md) — Reports that OpenRouter is joining the payments-infrastructure company.
 
 - [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-evening.md) — OpenRouter announces it is joining Stripe, linking AI routing with payments infrastructure.
 
