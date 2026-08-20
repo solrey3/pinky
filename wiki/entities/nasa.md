@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-08-08
+updated: 2026-08-20
 tags: [space, science, government, artemis, moon]
-source_count: 5
+source_count: 6
 ---
 
 # NASA
@@ -14,6 +14,8 @@ source_count: 5
 NASA is the United States civilian space agency. In the newsletter stream it appears through human-spaceflight and science-mission milestones rather than only launch-provider infrastructure.
 
 ## Sources
+
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — NASA abandons a proposed rescue of the Swift gamma-ray observatory, illustrating science-mission triage under operational constraints.
 
 - [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Autonomous driving on Mars is presented as a successful high-consequence deployment.
 

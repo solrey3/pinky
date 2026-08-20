@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-19
 updated: 2026-08-20
 tags: [biotechnology, mrna, vaccines, oncology]
-source_count: 2
+source_count: 3
 ---
 
 # Moderna
@@ -14,6 +14,8 @@ source_count: 2
 Moderna is a biotechnology company developing mRNA medicines and vaccines, including patient-specific cancer immunotherapies.
 
 ## Sources
+
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — Reports encouraging late-stage melanoma data for the personalized mRNA vaccine developed with Merck.
 
 - [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-midnight.md) — Repeats encouraging melanoma-recurrence prevention results for the personalized mRNA vaccine developed with Merck.
 

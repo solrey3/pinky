@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-20-daytime](sources/newsletter-2026-08-20-daytime.md) | Morning Dispatch — Thursday, August 20, 2026 | newsletter | [newsletter, daytime-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, surveillance, openrouter, cycling, baseball, wrestling] | 2026-08-20 |
 | [newsletter-2026-08-20-midnight](sources/newsletter-2026-08-20-midnight.md) | Midnight Dispatch — Thursday, August 20, 2026 | newsletter | [newsletter, midnight-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, drone-delivery, openrouter, cycling, baseball, wrestling] | 2026-08-20 |
 | [newsletter-2026-08-19-evening](sources/newsletter-2026-08-19-evening.md) | Evening Brief — Wednesday, August 19, 2026 | newsletter | [newsletter, evening-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, workplace-data-privacy, fintech, cycling, baseball, wrestling] | 2026-08-19 |
 | [newsletter-2026-08-19-noon](sources/newsletter-2026-08-19-noon.md) | Noon Dispatch — Wednesday, August 19, 2026 | newsletter | [newsletter, noon-dispatch, markets, treasury-buybacks, tariffs, critical-infrastructure, public-health, civil-liberties, ai-competition, cycling, baseball, wrestling] | 2026-08-19 |
@@ -345,8 +346,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ## Entities
 
-| [Moderna](entities/moderna.md) | organization | biotechnology, mrna, vaccines, oncology | 1 |
-| [Merck](entities/merck.md) | organization | pharmaceuticals, oncology, vaccines, melanoma | 1 |
+| [Moderna](entities/moderna.md) | organization | biotechnology, mrna, vaccines, oncology | 2 |
+| [Merck](entities/merck.md) | organization | pharmaceuticals, oncology, vaccines, melanoma | 2 |
 | [DuckDB](entities/duckdb.md) | product | database, analytics, sql, olap, open-source | 1 |
 | [Cerebras](entities/cerebras.md) | organization | ai, semiconductors, inference, hardware | 1 |
 | [Fastmail](entities/fastmail.md) | organization | email, privacy, cloud, data-residency | 1 |
@@ -830,8 +831,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Ali Khamenei](entities/ali-khamenei.md) | person | iran, geopolitics, diplomacy | 1 |
 | [Texas](entities/texas.md) | place | texas, weather, flooding, disaster-response, united-states | 4 |
 | [Canada](entities/canada.md) | place | canada, geopolitics, trade, wildfire-smoke, tariffs, north-america | 7 |
-| [Toms River](entities/toms-river.md) | place | new-jersey, shore, weather | 78 |
-| [Makati](entities/makati.md) | place | philippines, metro-manila, weather | 78 |
+| [Toms River](entities/toms-river.md) | place | new-jersey, shore, weather | 79 |
+| [Makati](entities/makati.md) | place | philippines, metro-manila, weather | 79 |
 | [France](entities/france.md) | place | france, europe, regulation, social-media, age-verification | 4 |
 | [Mali](entities/mali.md) | place | mali, africa, counterterrorism, foreign-policy, military | 1 |
 | [Reason](entities/reason.md) | organization | media, libertarian, policy, economics, tariffs | 35 |
@@ -1126,7 +1127,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware | 38 |
 | [Mozilla Firefox](entities/mozilla-firefox.md) | product | browser, webassembly, developer-tools, open-web, runtime | 1 |
 | [Modular](entities/modular.md) | organization | technology, ai, compilers, runtimes, ai-infrastructure, acquisition | 1 |
-| [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 5 |
+| [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 6 |
 | [Netflix](entities/netflix.md) | organization | streaming, platform, accounts, identity, subscriptions, media | 50 |
 | [Paramount](entities/paramount.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 8 |
 | [Warner Bros. Discovery](entities/warner-bros-discovery.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 6 |
@@ -1193,7 +1194,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Amazon](entities/amazon.md) | organization | technology, e-commerce, cloud, markets, amzn, ai-infrastructure | 57 |
 | [Best Buy](entities/best-buy.md) | organization | retail, consumer-electronics, business, stores, strategy | 4 |
 | [PayPal](entities/paypal.md) | organization | finance, payments, fintech, markets | 40 |
-| [Stripe](entities/stripe.md) | organization | payments, fintech, acquisitions, paypal, markets | 1 |
+| [Stripe](entities/stripe.md) | organization | payments, fintech, acquisitions, paypal, markets | 2 |
 | [Advent](entities/advent.md) | organization | private-equity, fintech, acquisitions, paypal, markets | 1 |
 | [Berkshire Hathaway](entities/berkshire-hathaway.md) | organization | finance, insurance, conglomerate, markets, brk-b, quality, value | 36 |
 | [American Express](entities/american-express.md) | organization | finance, credit-cards, consumer-credit, markets, financials | 40 |
@@ -1410,7 +1411,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Apple SpeechAnalyzer API](entities/apple-speechanalyzer-api.md) | product | apple, speech-recognition, api, ai | 1 |
 | [Climate.gov](entities/climate-gov.md) | product | climate, open-data, archive, public-data | 1 |
 | [GigaToken](entities/gigatoken.md) | product | ai, tokenization, llm, performance, developer-tools | 1 |
-| [Flock Safety](entities/flock-safety.md) | organization | surveillance, law-enforcement, license-plate-readers, privacy, policing | 6 |
+| [Flock Safety](entities/flock-safety.md) | organization | surveillance, law-enforcement, license-plate-readers, privacy, policing | 7 |
 | [Claude Opus 5](entities/claude-opus-5.md) | product | ai, llm, anthropic, claude, model-release, frontier-models | 4 |
 | [Hanwha](entities/hanwha.md) | organization | hardware, security-cameras, github, credentials, cybersecurity | 2 |
 | [AlphaFold](entities/alphafold.md) | product | ai, biology, protein-folding, google-deepmind, gene-editing | 2 |
@@ -1481,7 +1482,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
-| [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 1 |
+| [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 2 |
 | [Workplace Data Privacy](concepts/workplace-data-privacy.md) | privacy, employment, data-governance, surveillance, consent | 1 |
 | [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 1 |
 | [Prompt Injection](concepts/prompt-injection.md) | ai, security, prompt-injection, llm, legal-tech, untrusted-content | 1 |
@@ -1491,7 +1492,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Data Residency](concepts/data-residency.md) | privacy, cloud, compliance, jurisdiction, data-governance | 1 |
 | [Human-in-the-Loop AI Education](concepts/human-in-the-loop-ai-education.md) | ai, education, tutoring, teachers, human-oversight | 1 |
 | [AI Weather Forecasting](concepts/ai-weather-forecasting.md) | ai, weather, forecasting, cyclones, climate, resilience | 2 |
-| [Automated License-Plate Reader Surveillance](concepts/automated-license-plate-reader-surveillance.md) | surveillance, privacy, law-enforcement, alpr, data-quality, access-control | 13 |
+| [Automated License-Plate Reader Surveillance](concepts/automated-license-plate-reader-surveillance.md) | surveillance, privacy, law-enforcement, alpr, data-quality, access-control | 14 |
 | [Immigration Enforcement Escalation](concepts/immigration-enforcement-escalation.md) | immigration, border-policy, enforcement, airports, migration | 10 |
 | [Synthetic Imagery Provenance](concepts/synthetic-imagery-provenance.md) | ai, synthetic-media, satellite-imagery, maps, provenance, trust | 1 |
 | [Western Water Scarcity](concepts/western-water-scarcity.md) | [water, drought, climate, infrastructure, federal-policy, allocation, western-us] | 2 |
@@ -1577,7 +1578,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 179 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 180 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 2 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
@@ -1608,7 +1609,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Reusable Rockets](concepts/reusable-rockets.md) | [space, launch, rockets, infrastructure, china, competition] | 7 |
 | [World Models](concepts/world-models.md) | [ai, world-models, simulation, forecasting, agents, robotics, limitations] | 2 |
 | [Robotics Whole-Body Intelligence](concepts/robotics-whole-body-intelligence.md) | [ai, robotics, embodiment, world-models, google-deepmind] | 3 |
-| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 62 |
+| [Open Data Preservation](concepts/open-data-preservation.md) | open-data, archives, public-data, climate, resilience, provenance, research-access, platforms | 63 |
 | [Press Freedom](concepts/press-freedom.md) | [first-amendment, journalism, censorship, courts, civil-liberties, media] | 5 |
 | [Foodborne Outbreaks](concepts/foodborne-outbreaks.md) | public-health, food-safety, supply-chain, outbreaks, recalls, cyclospora | 15 |
 | [Property Rights and Takings](concepts/property-rights-and-takings.md) | [law, property-rights, eminent-domain, takings, supreme-court, infrastructure] | 13 |

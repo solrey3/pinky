@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-19
 updated: 2026-08-20
 tags: [medicine, oncology, mrna, vaccines, precision-medicine, melanoma]
-source_count: 2
+source_count: 3
 ---
 
 # Personalized Cancer Vaccines
@@ -13,6 +13,8 @@ source_count: 2
 Personalized cancer vaccines are immunotherapies tailored to tumor-specific features in an individual patient, with the aim of training the immune system to recognize residual cancer and reduce recurrence.
 
 ## Sources
+
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — Treats encouraging late-stage melanoma data as support for patient-specific mRNA immunotherapy while lacking trial-level detail.
 
 - [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-midnight.md) — Repeats the reported Moderna–Merck melanoma result as evidence for patient-specific mRNA recurrence prevention.
 

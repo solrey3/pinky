@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-20] ingest | Morning Dispatch — Thursday, August 20, 2026
+- Source: `pinky/raw/newsletters/2026-08-20-daytime-dispatch.md`
+- Summary: August 20 morning dispatch — all four indexes fall while Bitcoin jumps 14.12%, selected defensive and high-beta assets rise, and long yields remain high; news adds the $40 trillion debt milestone, personalized mRNA melanoma-vaccine data, physical attacks on surveillance and AI infrastructure, NASA mission triage, OpenRouter joining Stripe, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-20-daytime.md` (new); entity pages `toms-river`, `makati`, `moderna`, `merck`, `flock-safety`, `nasa`, `openrouter`, `stripe`; concept pages `personalized-cancer-vaccines`, `automated-license-plate-reader-surveillance`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: expensive capital, personalized medicine, infrastructure legitimacy, AI/payments consolidation, mixed markets, and feed gaps require trial-level evidence, community consent, operational resilience, and explicit uncertainty.
+
 ## [2026-08-20] ingest | Midnight Dispatch — Thursday, August 20, 2026
 - Source: `pinky/raw/newsletters/2026-08-20-midnight-dispatch.md`
 - Summary: August 20 midnight dispatch — all four indexes fall while Bitcoin jumps 10.04%, selected defensive and high-beta assets rise, and long yields remain high; news adds the $40 trillion debt milestone, personalized mRNA melanoma-vaccine results, Amazon drone-delivery expansion, OpenRouter joining Stripe, MLB, cycling, and wrestling updates.
