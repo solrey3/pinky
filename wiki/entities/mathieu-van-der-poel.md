@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-13
 updated: 2026-08-21
 tags: [cycling, tour-de-france, stage-winner, sports]
-source_count: 53
+source_count: 54
 ---
 
 # Mathieu van der Poel
@@ -14,6 +14,8 @@ source_count: 53
 Mathieu van der Poel is a cyclist tracked here when Tour de France stage results enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-21: Morning Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-daytime.md) — Retains the completed Tour de France Stage 21 victory in 1:58:49.
 
 - [2026-08-21: Midnight Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-midnight.md) — Retains the completed Tour de France Stage 21 victory in 1:58:49.
 

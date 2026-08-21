@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-21] ingest | Morning Dispatch — Friday, August 21, 2026
+- Source: `pinky/raw/newsletters/2026-08-21-daytime-dispatch.md`
+- Summary: August 21 morning dispatch — all four indexes fall roughly 2% or more while Bitcoin jumps 20.67%, oil and selected assets rise, and long yields remain high; news adds college enrollment and healthcare-cost pressure, possible E-Rate cuts, East Palestine contamination concerns, GitHub's outage account, AI-content provenance, Windows update failures, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-21-daytime.md` (new); entity pages `toms-river`, `makati`, `github`, `windows-11`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: demographic, healthcare, connectivity, market, software-reliability, content-provenance, and feed-gap pressures require observable operations, durable provenance, and explicit uncertainty.
+
 ## [2026-08-21] ingest | Midnight Dispatch — Friday, August 21, 2026
 - Source: `pinky/raw/newsletters/2026-08-21-midnight-dispatch.md`
 - Summary: August 21 midnight dispatch — all four indexes fall roughly 2% or more while Bitcoin jumps 15.62%, oil and selected assets rise, and long yields remain high; news adds late-stage personalized melanoma-vaccine data, college enrollment and healthcare-cost pressure, possible E-Rate cuts, GitHub's outage account, rare-book preservation, MLB, cycling, and wrestling updates.

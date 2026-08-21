@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-08-21
 tags: [technology, developer-platform, version-control, git, security, supply-chain-security, malware, repository-discovery, zero-days, vulnerability-disclosure, agentic-access-control]
-source_count: 14
+source_count: 15
 ---
 
 # GitHub
@@ -14,6 +14,8 @@ source_count: 14
 GitHub is the dominant hosted Git and developer-collaboration platform. In the newsletter graph, it matters as source control, package/discovery infrastructure, identity surface, and a supply-chain-security choke point for both human and AI-assisted development workflows.
 
 ## Sources
+
+- [2026-08-21: Morning Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-daytime.md) — Its August 17 outage account and remediation work make incident disclosure part of platform reliability.
 
 - [2026-08-21: Midnight Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-midnight.md) — Publishes its account of the August 17 outage and describes follow-up work.
 
