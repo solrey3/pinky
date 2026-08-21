@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-08-20
+updated: 2026-08-21
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 88
+source_count: 89
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 88
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-21: Midnight Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-midnight.md) — Targets a Vuelta victory and Grand Tour sweep while retaining the completed Tour de France title by 6:26.
 
 - [2026-08-20: Evening Brief — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-evening.md) — Eyes a Vuelta victory and Grand Tour sweep while retaining the completed Tour de France title by 6:26.
 

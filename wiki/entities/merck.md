@@ -4,9 +4,9 @@ title: Merck
 type: entity
 entity_type: organization
 created: 2026-08-19
-updated: 2026-08-20
+updated: 2026-08-21
 tags: [pharmaceuticals, oncology, vaccines, melanoma]
-source_count: 5
+source_count: 6
 ---
 
 # Merck
@@ -14,6 +14,8 @@ source_count: 5
 Merck is a pharmaceutical company tracked here for oncology and vaccine development.
 
 ## Sources
+
+- [2026-08-21: Midnight Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-midnight.md) — Reports initial late-stage melanoma data for the personalized mRNA vaccine developed with Moderna, without trial-level detail.
 
 - [2026-08-20: Evening Brief — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-evening.md) — Reports initial late-stage melanoma data for the personalized mRNA vaccine developed with Moderna, without trial-level detail.
 

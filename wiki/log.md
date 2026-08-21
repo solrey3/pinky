@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-21] ingest | Midnight Dispatch — Friday, August 21, 2026
+- Source: `pinky/raw/newsletters/2026-08-21-midnight-dispatch.md`
+- Summary: August 21 midnight dispatch — all four indexes fall roughly 2% or more while Bitcoin jumps 15.62%, oil and selected assets rise, and long yields remain high; news adds late-stage personalized melanoma-vaccine data, college enrollment and healthcare-cost pressure, possible E-Rate cuts, GitHub's outage account, rare-book preservation, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-21-midnight.md` (new); entity pages `toms-river`, `makati`, `moderna`, `merck`, `github`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `personalized-cancer-vaccines`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: expensive capital, personalized medicine, education access, incident transparency, archival durability, mixed markets, and feed gaps require granular evidence, operational accountability, replicated records, and explicit uncertainty.
+
 ## [2026-08-20] ingest | Evening Brief — Thursday, August 20, 2026
 - Source: `pinky/raw/newsletters/2026-08-20-evening-dispatch.md`
 - Summary: August 20 evening brief — all four indexes fall roughly 2% or more while Bitcoin jumps 15.80%, oil and selected assets rise, and long yields remain high; news adds personalized melanoma-vaccine data, Roblox child-safety scrutiny, GitHub's outage postmortem, internet-access concerns, MLB, cycling, and wrestling updates.
