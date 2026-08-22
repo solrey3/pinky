@@ -3,9 +3,9 @@ id: c28e9041-cbb6-4a28-9ef4-a0923c0a0a5a
 title: Immigration Enforcement Escalation
 type: concept
 created: 2026-07-31
-updated: 2026-08-21
-tags: [immigration, border-policy, enforcement, airports, migration]
-source_count: 11
+updated: 2026-08-22
+tags: [immigration, border-policy, enforcement, airports, migration, military]
+source_count: 12
 ---
 
 # Immigration Enforcement Escalation
@@ -13,6 +13,8 @@ source_count: 11
 Immigration enforcement escalation is the expansion of migration control from border crossings into airports, local jurisdictions, databases, and cross-border travel regimes.
 
 ## Sources
+
+- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-daytime.md) — Expanding military arrest authority in designated southern-border areas blurs migration control and domestic military power.
 
 - [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-noon.md) — ICE begins deporting Haitians after temporary protections end, connecting status expiration directly to removal operations.
 

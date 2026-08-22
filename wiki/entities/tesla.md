@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-22
 updated: 2026-08-22
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta]
-source_count: 72
+source_count: 73
 ---
 
 # Tesla
@@ -15,6 +15,7 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 
 ## Sources
 
+- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-daytime.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch.
 - [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-midnight.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch, resisting the broad equity selloff.
 - [2026-08-21: Evening Brief — Friday, August 21, 2026](../sources/newsletter-2026-08-21-evening.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch.
 - [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — TSLA gains 6.48% while the tech desk separately flags continued scrutiny of Tesla China wholesale sales.

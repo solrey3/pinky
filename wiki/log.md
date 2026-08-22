@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-22] ingest | Morning Dispatch — Saturday, August 22, 2026
+- Source: `pinky/raw/newsletters/2026-08-22-daytime-dispatch.md`
+- Summary: August 22 morning dispatch — all four indexes fall while Bitcoin jumps 19.09%, oil, dividends, and Tesla rise; news adds ghost-job regulation, expanded military border-arrest power, symbolic beef tariffs, animal gene editing, robotaxi clearance, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-22-daytime.md` (new); entity pages `toms-river`, `makati`, `tesla`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `ghost-job-listings`, `risk-off-market-rotation`, `immigration-enforcement-escalation`, `tariff-policy`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market labels and policy headlines need material-impact tests, while labor listings, enforcement authority, permits, and incomplete feeds require visible provenance and explicit uncertainty.
+
 ## [2026-08-21] ingest | Evening Brief — Friday, August 21, 2026
 - Source: `pinky/raw/newsletters/2026-08-21-evening-dispatch.md`
 - Summary: August 21 evening brief — all four indexes fall while Bitcoin jumps 21.64%, oil, dividends, and Tesla rise; news adds ghost-job regulation, weak Walmart growth, robotaxi clearance, fiber-optic seismic imaging, MLB, cycling, and wrestling updates.
