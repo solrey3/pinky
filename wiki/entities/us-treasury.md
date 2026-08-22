@@ -4,9 +4,9 @@ title: U.S. Treasury
 type: entity
 entity_type: organization
 created: 2026-07-07
-updated: 2026-08-21
+updated: 2026-08-22
 tags: [government, finance, currency, united-states, public-symbolism, bond-buybacks]
-source_count: 4
+source_count: 5
 ---
 
 # U.S. Treasury
@@ -14,6 +14,8 @@ source_count: 4
 The U.S. Treasury is tracked here as the federal finance department and currency-design authority when public finance, sanctions, or symbolic money debates enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-noon.md) — Doubled buybacks are reported as a catalyst for gold and Bitcoin even as broad equities finish lower and long yields remain elevated.
 
 - [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-noon.md) — Bond-buyback plans fail to settle stocks or bonds, showing that debt-management support does not guarantee immediate market confidence.
 

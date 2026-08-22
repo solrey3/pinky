@@ -1683,3 +1683,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: August 22 midnight dispatch — all four indexes and semiconductors decline while Bitcoin jumps 21.25% amid institutional demand and Clarity Act progress; news covers ghost-job restrictions, Tesla's Las Vegas robotaxi clearance, thunder-based fiber seismic imaging, retail weakness, cycling, MLB, and wrestling.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-08-22-midnight.md` (new), entity pages `bitcoin`, `tesla`; concept pages `risk-off-market-rotation`, `ghost-job-listings`, `crypto-regulation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market and policy signals depend on control layers—legislation shapes crypto access, vacancy rules shape labor-data trust, permits shape robotaxi deployment, and explicit missing-feed markers preserve verification boundaries.
+
+## [2026-08-22] ingest | Noon Dispatch — Saturday, August 22, 2026
+- Source: `pinky/raw/newsletters/2026-08-22-noon-dispatch.md`
+- Summary: August 22 noon dispatch — tech leads a broad equity decline while Bitcoin jumps 19.03%; news covers active 50% U.S.-Canada tariffs, ghost-job restrictions, a blocked 75-country visa ban, expanded military border authority, Walmart weakness, the MCP roadmap, cycling, MLB, and wrestling.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-22-noon.md` (new), entity pages `bitcoin`, `us-treasury`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `tariff-policy`, `ghost-job-listings`, `crypto-regulation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: institutional signals require verifiable intent and lawful boundaries across hiring, tariffs, immigration enforcement, crypto regulation, AI interoperability, and unavailable-data provenance.
