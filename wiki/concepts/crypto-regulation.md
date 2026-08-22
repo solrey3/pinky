@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-12
 updated: 2026-08-22
 tags: [crypto, regulation, congress, digital-assets, financial-policy, markets]
-source_count: 4
+source_count: 5
 ---
 
 # Crypto Regulation
@@ -13,6 +13,8 @@ source_count: 4
 Crypto regulation is the policy effort to define how digital assets, exchanges, stablecoins, custody, disclosure, and market structure should be governed.
 
 ## Sources
+
+- [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-evening.md) — Clarity Act progress is again cited with institutional demand and short covering as a catalyst for Bitcoin repricing.
 
 - [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-noon.md) — Clarity Act progress again appears among the catalysts for Bitcoin's 19.03% rally, connecting regulatory expectations to institutional participation and repricing.
 

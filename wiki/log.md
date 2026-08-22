@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-22] ingest | Evening Brief — Saturday, August 22, 2026
+- Source: `pinky/raw/newsletters/2026-08-22-evening-dispatch.md`
+- Summary: August 22 evening brief — all four indexes fall while Bitcoin jumps 18.89%, oil, dividends, and Tesla rise; news adds failed U.S.–Canada trade talks and retaliatory tariffs, ghost-job regulation, data-center backlash, spaceport expansion, macOS utility deprecation, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-22-evening.md` (new); entity pages `toms-river`, `makati`, `bitcoin`, `canada`, `tadej-pogacar`, `mathieu-van-der-poel`; concept pages `risk-off-market-rotation`, `tariff-policy`, `ghost-job-listings`, `crypto-regulation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: hiring intent, tariff retaliation, infrastructure legitimacy, software migration, market labels, and feed gaps require material-impact tests, provenance, and explicit uncertainty.
+
 ## [2026-08-22] ingest | Morning Dispatch — Saturday, August 22, 2026
 - Source: `pinky/raw/newsletters/2026-08-22-daytime-dispatch.md`
 - Summary: August 22 morning dispatch — all four indexes fall while Bitcoin jumps 19.09%, oil, dividends, and Tesla rise; news adds ghost-job regulation, expanded military border-arrest power, symbolic beef tariffs, animal gene editing, robotaxi clearance, MLB, cycling, and wrestling updates.
