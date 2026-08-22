@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-22-midnight](sources/newsletter-2026-08-22-midnight.md) | Midnight Dispatch — Saturday, August 22, 2026 | newsletter | [newsletter, midnight-dispatch, markets, bitcoin, crypto-regulation, ghost-jobs, robotaxis, seismic-imaging, cycling, baseball, wrestling] | 2026-08-22 |
 | [newsletter-2026-08-21-evening](sources/newsletter-2026-08-21-evening.md) | Evening Brief — Friday, August 21, 2026 | newsletter | [newsletter, evening-dispatch, markets, ghost-jobs, robotaxis, seismic-imaging, cycling, baseball, wrestling] | 2026-08-21 |
 | [newsletter-2026-08-21-noon](sources/newsletter-2026-08-21-noon.md) | Noon Dispatch — Friday, August 21, 2026 | newsletter | [newsletter, noon-dispatch, markets, treasury-buybacks, retail, immigration, surveillance, robotaxis, book-preservation, cycling, baseball, wrestling] | 2026-08-21 |
 | [newsletter-2026-08-21-daytime](sources/newsletter-2026-08-21-daytime.md) | Morning Dispatch — Friday, August 21, 2026 | newsletter | [newsletter, daytime-dispatch, markets, bonds, college-enrollment, healthcare-costs, internet-access, github, ai-generated-content, cycling, baseball, wrestling] | 2026-08-21 |

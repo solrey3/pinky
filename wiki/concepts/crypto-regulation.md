@@ -3,9 +3,9 @@ id: c6a0cae8-5786-482c-8249-643f7687db09
 title: Crypto Regulation
 type: concept
 created: 2026-07-12
-updated: 2026-07-29
+updated: 2026-08-22
 tags: [crypto, regulation, congress, digital-assets, financial-policy, markets]
-source_count: 2
+source_count: 3
 ---
 
 # Crypto Regulation
@@ -13,6 +13,8 @@ source_count: 2
 Crypto regulation is the policy effort to define how digital assets, exchanges, stablecoins, custody, disclosure, and market structure should be governed.
 
 ## Sources
+
+- [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-midnight.md) — Clarity Act progress is cited alongside institutional demand and short covering as a catalyst for Bitcoin's sharp rally.
 
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — The crypto bill faces a pre-August-recess make-or-break moment, framing digital-asset rules as a calendar and coalition problem.
 
@@ -25,4 +27,4 @@ Crypto regulation is the policy effort to define how digital assets, exchanges, 
 
 ## Notes
 
-Track future sources for whether this remains a one-off news item or becomes a durable pattern in the wiki graph.
+The August 22 report strengthens the pattern: market-structure legislation can move prices before final enactment because traders reprice expected compliance, access, and institutional participation.
