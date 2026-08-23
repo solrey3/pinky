@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-04
 updated: 2026-08-23
 tags: [crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on]
-source_count: 72
+source_count: 73
 ---
 
 # Bitcoin
@@ -14,6 +14,8 @@ source_count: 72
 Bitcoin is the largest cryptocurrency and a recurring cross-asset risk-sentiment marker in the newsletter market dashboard. In this wiki it is tracked less as a protocol deep dive and more as a volatile asset that can confirm or contradict equity risk appetite.
 
 ## Sources
+
+- [2026-08-23: Morning Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-daytime.md) — Gains 10.51% in the latest quote and 18.40% for the completed week while every major equity index falls.
 
 - [2026-08-23: Midnight Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-midnight.md) — Jumps 11.03% while every major equity index falls; institutional demand, short covering, and legislative progress are cited as catalysts.
 

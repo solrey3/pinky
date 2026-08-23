@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-23] ingest | Morning Dispatch — Sunday, August 23, 2026
+- Source: `pinky/raw/newsletters/2026-08-23-daytime-dispatch.md`
+- Summary: August 23 morning dispatch — all four indexes fall while Bitcoin gains 10.51%, oil, dividends, and Tesla rise; news adds U.S.–Canada tariff retaliation, ghost-job regulation, Gary's prolonged blackout, hibernation-related memory resilience, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-23-daytime.md` (new); entity pages `toms-river`, `makati`, `bitcoin`, `canada`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `tariff-policy`, `ghost-job-listings`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: labor listings, tariff retaliation, utility continuity, market labels, neuroscience proxies, and feed gaps require material evidence, operational resilience, provenance, and explicit uncertainty.
+
 ## [2026-08-23] ingest | Midnight Dispatch — Sunday, August 23, 2026
 - Source: `pinky/raw/newsletters/2026-08-23-midnight-dispatch.md`
 - Summary: August 23 midnight dispatch — all four indexes fall while Bitcoin jumps 11.03%, oil, dividends, and Tesla rise; news adds U.S.–Canada tariff retaliation, ghost-job regulation, Gary's prolonged blackout, hibernation-related memory resilience, spaceport expansion, MLB, cycling, and wrestling updates.
