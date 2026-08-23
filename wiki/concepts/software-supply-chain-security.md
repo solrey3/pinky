@@ -3,9 +3,9 @@ id: 84c4ddb8-9c67-4761-9b08-cd58f7c84819
 title: Software Supply Chain Security
 type: concept
 created: 2026-08-04
-updated: 2026-08-20
+updated: 2026-08-23
 tags: [cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials]
-source_count: 3
+source_count: 4
 ---
 
 # Software Supply Chain Security
@@ -13,6 +13,8 @@ source_count: 3
 Software supply chain security is the practice of protecting the packages, maintainers, registries, build steps, and dependency graphs that software systems rely on before code reaches production.
 
 ## Sources
+
+- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-noon.md) — Malware embedded in Android automotive head-unit firmware shows how compromised upstream images can persist into safety-adjacent devices.
 
 - [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-noon.md) — A malicious Rust crate reportedly executes a build-time payload, underscoring that dependency builds are privileged code-execution boundaries.
 

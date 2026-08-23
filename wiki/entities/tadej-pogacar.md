@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-08-23
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 96
+source_count: 97
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 96
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-noon.md) — Retains the Vuelta leader's jersey after Matthew Brennan wins Stage 2 and remains the completed Tour de France champion.
 
 - [2026-08-23: Morning Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-daytime.md) — Wins the Vuelta opening time trial in Monaco and takes the first red jersey while remaining the completed Tour champion.
 
