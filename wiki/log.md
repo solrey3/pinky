@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-23] ingest | Evening Brief — Sunday, August 23, 2026
+- Source: `pinky/raw/newsletters/2026-08-23-evening-dispatch.md`
+- Summary: August 23 evening brief — all four indexes fall while Bitcoin gains 12.47%, oil, dividends, and Tesla rise; news adds therapy-chatbot evidence gaps, stalled U.S.–Canada trade talks and disputed Section 338 tariffs, data-center competition arguments, MMR misinformation rebuttal, wildfire evacuations, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-23-evening.md` (new); entity pages `toms-river`, `makati`, `bitcoin`, `canada`, `tadej-pogacar`; concept pages `mental-health-chatbot-safety`, `risk-off-market-rotation`, `tariff-policy`, `ai-infrastructure-energy-demand`, `vaccine-misinformation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: market labels, clinical AI, trade authority, infrastructure competition, vaccine claims, and feed gaps require granular evidence, legal and operational context, provenance, and explicit uncertainty.
+
 ## [2026-08-23] ingest | Morning Dispatch — Sunday, August 23, 2026
 - Source: `pinky/raw/newsletters/2026-08-23-daytime-dispatch.md`
 - Summary: August 23 morning dispatch — all four indexes fall while Bitcoin gains 10.51%, oil, dividends, and Tesla rise; news adds U.S.–Canada tariff retaliation, ghost-job regulation, Gary's prolonged blackout, hibernation-related memory resilience, MLB, cycling, and wrestling updates.
