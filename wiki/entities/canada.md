@@ -4,9 +4,9 @@ title: Canada
 type: entity
 entity_type: place
 created: 2026-07-17
-updated: 2026-08-22
+updated: 2026-08-23
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 8
+source_count: 9
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 8
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-08-23: Midnight Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-midnight.md) — Failed U.S.–Canada negotiations trigger another tariff round and Canadian retaliation.
 
 - [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-evening.md) — Failed U.S.–Canada trade talks trigger a new tariff round and immediate Canadian retaliation.
 

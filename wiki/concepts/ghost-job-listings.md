@@ -3,9 +3,9 @@ id: c4fd0e16-6b9e-49a7-96cd-9a476ddf6457
 title: Ghost Job Listings
 type: concept
 created: 2026-08-21
-updated: 2026-08-22
+updated: 2026-08-23
 tags: [labor, hiring, transparency, job-search, regulation]
-source_count: 5
+source_count: 6
 ---
 
 # Ghost Job Listings
@@ -13,6 +13,8 @@ source_count: 5
 Ghost job listings are advertisements for positions that an employer may not currently intend to fill. They can distort labor-demand signals, waste applicants' time, collect résumés for future use, or create a misleading appearance of organizational growth.
 
 ## Sources
+
+- [2026-08-23: Midnight Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-midnight.md) — Lawmakers continue targeting advertisements for positions employers may not intend to fill, keeping hiring intent at the center of disclosure rules.
 
 - [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-evening.md) — Lawmakers continue targeting listings for positions employers may not intend to fill, making hiring intent an enforceable transparency question.
 - [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-noon.md) — Statehouses consider banning advertisements for positions employers may not intend to fill, treating hiring intent as a transparency and enforcement issue.
