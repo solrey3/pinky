@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-24-midnight](sources/newsletter-2026-08-24-midnight.md) | Midnight Dispatch — Monday, August 24, 2026 | newsletter | [newsletter, midnight-dispatch, markets, bitcoin, mental-health-ai, ghost-jobs, tariffs, lunar-exploration, neural-plasticity, cycling, baseball, wrestling] | 2026-08-24 |
 | [newsletter-2026-08-23-evening](sources/newsletter-2026-08-23-evening.md) | Evening Brief — Sunday, August 23, 2026 | newsletter | [newsletter, evening-dispatch, markets, bitcoin, mental-health-ai, tariffs, ai-infrastructure, vaccine-misinformation, cycling, baseball, wrestling] | 2026-08-23 |
 | [newsletter-2026-08-23-noon](sources/newsletter-2026-08-23-noon.md) | Noon Dispatch — Sunday, August 23, 2026 | newsletter | [newsletter, noon-dispatch, markets, bitcoin, mental-health-ai, tariffs, ai-infrastructure, software-supply-chain, cycling, baseball, wrestling] | 2026-08-23 |
 | [newsletter-2026-08-23-daytime](sources/newsletter-2026-08-23-daytime.md) | Morning Dispatch — Sunday, August 23, 2026 | newsletter | [newsletter, daytime-dispatch, markets, bitcoin, tariffs, ghost-jobs, neural-plasticity, cycling, baseball, wrestling] | 2026-08-23 |

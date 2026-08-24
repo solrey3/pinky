@@ -4,9 +4,9 @@ title: Canada
 type: entity
 entity_type: place
 created: 2026-07-17
-updated: 2026-08-23
+updated: 2026-08-24
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 11
+source_count: 12
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 11
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-08-24: Midnight Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-midnight.md) — Disputed Section 338 tariffs and trade-war concern raise legal, border-economy, and retaliation risk.
 
 - [2026-08-23: Evening Brief — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-evening.md) — Stalled bilateral talks and disputed Section 338 tariffs raise border-economy and retaliation risk.
 
