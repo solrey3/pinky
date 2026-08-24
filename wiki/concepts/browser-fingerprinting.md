@@ -3,9 +3,9 @@ id: 42beb07f-8f2d-428b-a67d-1507fdda071e
 title: Browser Fingerprinting
 type: concept
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-24
 tags: [privacy, browsers, tracking, webaudio, surveillance]
-source_count: 1
+source_count: 2
 ---
 
 # Browser Fingerprinting
@@ -13,6 +13,8 @@ source_count: 1
 Browser fingerprinting identifies or correlates a browser by combining observable device, software, rendering, audio, and behavior characteristics, often without storing a conventional tracking cookie.
 
 ## Sources
+
+- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletter-2026-08-24-evening.md) — Reported inaudible audio signaling on AliExpress shows WebAudio can become a covert correlation channel with operational side effects.
 
 - [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-noon.md) — A report of silent WebAudio fingerprinting on AliExpress also breaking Bluetooth multipoint shows that covert tracking can create operational side effects beyond privacy loss.
 

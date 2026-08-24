@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-29
 updated: 2026-08-24
 tags: [ai, watermarking, provenance, disinformation, synthid]
-source_count: 8
+source_count: 9
 ---
 
 # AI Watermarking
@@ -13,6 +13,8 @@ source_count: 8
 AI watermarking is the practice of embedding detectable signals in generated media or model outputs to support provenance, labeling, and abuse investigation.
 
 ## Sources
+
+- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletter-2026-08-24-evening.md) — Invisible GUIDs reportedly embedded by Paint and Photos reinforce the tension between provenance and undisclosed persistent identifiers in local output.
 
 - [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-noon.md) — Invisible GUIDs reportedly added by Paint and Photos extend provenance and privacy questions to locally generated desktop files.
 
