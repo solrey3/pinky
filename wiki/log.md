@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-24] ingest | Morning Dispatch — Monday, August 24, 2026
+- Source: `pinky/raw/newsletters/2026-08-24-daytime-dispatch.md`
+- Summary: August 24 morning dispatch — all four indexes fall while Bitcoin gains 6.15%, dividends and Tesla rise; news adds therapy-chatbot evidence gaps, disputed Section 338 tariffs on Canada, beef-import opposition, AI-spending scrutiny, data-center advocacy, a delayed Chinese lunar launch, wildfire evacuations, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-24-daytime.md` (new); entity pages `toms-river`, `makati`, `bitcoin`, `canada`, `tadej-pogacar`; concept pages `mental-health-chatbot-safety`, `risk-off-market-rotation`, `tariff-policy`, `ai-infrastructure-energy-demand`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: clinical AI, tariff authority, infrastructure spending, launch reliability, market labels, and feed gaps require validated evidence, legal and operational context, provenance, and explicit uncertainty.
+
 ## [2026-08-24] ingest | Midnight Dispatch — Monday, August 24, 2026
 - Source: `pinky/raw/newsletters/2026-08-24-midnight-dispatch.md`
 - Summary: August 24 midnight dispatch — all four indexes fall while Bitcoin gains 5.33%, dividends and Tesla rise; news adds therapy-chatbot evidence gaps, ghost-job regulation, disputed Section 338 tariffs on Canada, a delayed Chinese lunar launch, memory persistence after synapse loss, wildfire evacuations, MLB, cycling, and wrestling updates.
