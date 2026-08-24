@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-17
 updated: 2026-08-24
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 13
+source_count: 14
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 13
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-noon.md) — Mark Carney's no-bad-deal posture is tested as tariff conflict threatens automakers, builders, supply chains, and consumers.
 
 - [2026-08-24: Morning Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-daytime.md) — Renewed trade-war coverage and disputed Section 338 tariffs sustain legal, border-economy, and retaliation risk.
 

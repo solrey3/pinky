@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-24] ingest | Noon Dispatch — Monday, August 24, 2026
+- Source: `pinky/raw/newsletters/2026-08-24-noon-dispatch.md`
+- Summary: August 24 noon dispatch — technology and semiconductors fall while Bitcoin gains 8.43%, dividends, Tesla, and Netflix rise; news adds Canada's hard trade posture, a new Colorado River plan, invisible local-file GUID watermarking, a delayed lunar launch, wildfire evacuations, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-24-noon.md` (new); entity pages `toms-river`, `makati`, `bitcoin`, `canada`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `tariff-policy`, `western-water-scarcity`, `ai-watermarking`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: tariff costs, scarce water, file provenance, launch and race safety, market labels, and feed gaps require bounded authority, granular evidence, and explicit uncertainty.
+
 ## [2026-08-24] ingest | Morning Dispatch — Monday, August 24, 2026
 - Source: `pinky/raw/newsletters/2026-08-24-daytime-dispatch.md`
 - Summary: August 24 morning dispatch — all four indexes fall while Bitcoin gains 6.15%, dividends and Tesla rise; news adds therapy-chatbot evidence gaps, disputed Section 338 tariffs on Canada, beef-import opposition, AI-spending scrutiny, data-center advocacy, a delayed Chinese lunar launch, wildfire evacuations, MLB, cycling, and wrestling updates.
