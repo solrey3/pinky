@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-08-25
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 103
+source_count: 104
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 103
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-daytime.md) — Helps halt the peloton as hail forces Vuelta Stage 3 to end without a winner.
 
 - [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-midnight.md) — Helps stop the peloton as hail forces Vuelta Stage 3 to end without a winner.
 

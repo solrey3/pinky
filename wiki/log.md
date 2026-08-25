@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-25] ingest | Morning Dispatch — Tuesday, August 25, 2026
+- Source: `pinky/raw/newsletters/2026-08-25-daytime-dispatch.md`
+- Summary: August 25 morning dispatch — Nasdaq and small caps fall more than 2%, semiconductors sell off, and WTI drops 6.47% while Bitcoin, dividends, real estate, and selected stocks rise; news adds an Iran isolation campaign, a threatened 50% Canadian auto tariff, entry-level AI job pressure, data-center transformer demand, invisible local-file identifiers, a hail-neutralized Vuelta stage, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-25-daytime.md` (new); entity pages `toms-river`, `makati`, `iran`, `canada`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `tariff-policy`, `ai-labor-displacement`, `ai-infrastructure-energy-demand`, `ai-watermarking`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: economic coercion, labor displacement, grid expansion, provenance markers, market breadth, race safety, and feed gaps require explicit mechanisms, affected populations, disclosure, provenance, and uncertainty.
+
 ## [2026-08-25] ingest | Midnight Dispatch — Tuesday, August 25, 2026
 - Source: `pinky/raw/newsletters/2026-08-25-midnight-dispatch.md`
 - Summary: August 25 midnight dispatch — Nasdaq and small caps fall more than 2% while Bitcoin, dividends, real estate, and selected stocks rise; news adds a new Iran sanctions campaign, renewed U.S.–Canada trade friction, entry-level AI job pressure, the $40 trillion debt milestone, a hail-neutralized Vuelta stage, MLB, and wrestling updates.
