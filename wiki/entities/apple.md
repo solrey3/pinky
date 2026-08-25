@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-08-04
-tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift]
-source_count: 17
+updated: 2026-08-25
+tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai]
+source_count: 18
 ---
 
 # Apple
@@ -14,6 +14,8 @@ source_count: 17
 American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, through architecture-transition history from PowerPC to Intel to Apple Silicon, and through consumer-device security updates.
 
 ## Sources
+
+- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-noon.md) — Introduces M6 and M5 Ultra while positioning new Mac desktops for local AI inference and development.
 
 - [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Siri/Apple Intelligence was a Hacker News item, and MacRumors reported Apple revealing an AI architecture built around Google Gemini models.
 - [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Gemini-backed architecture story persisted into the morning feed alongside macOS Golden Gate/Gemini Siri coverage.

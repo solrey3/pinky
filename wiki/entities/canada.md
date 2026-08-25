@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-17
 updated: 2026-08-25
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 15
+source_count: 16
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 15
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-noon.md) — Announces “dollar for dollar, rate for rate” retaliation in the escalating U.S.–Canada tariff dispute.
 
 - [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-daytime.md) — A threatened 50% tariff on automobiles and parts intensifies retaliation, supply-chain, consumer-cost, and credibility risks.
 
