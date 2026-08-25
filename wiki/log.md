@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-25] ingest | Midnight Dispatch — Tuesday, August 25, 2026
+- Source: `pinky/raw/newsletters/2026-08-25-midnight-dispatch.md`
+- Summary: August 25 midnight dispatch — Nasdaq and small caps fall more than 2% while Bitcoin, dividends, real estate, and selected stocks rise; news adds a new Iran sanctions campaign, renewed U.S.–Canada trade friction, entry-level AI job pressure, the $40 trillion debt milestone, a hail-neutralized Vuelta stage, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-25-midnight.md` (new); entity pages `toms-river`, `makati`, `iran`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `ai-labor-displacement`, `prediction-markets`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: sanctions, trade pressure, labor displacement, market breadth, race safety, forecast probabilities, and feed gaps require explicit mechanisms, affected populations, provenance, and uncertainty.
+
 ## [2026-08-24] ingest | Noon Dispatch — Monday, August 24, 2026
 - Source: `pinky/raw/newsletters/2026-08-24-noon-dispatch.md`
 - Summary: August 24 noon dispatch — technology and semiconductors fall while Bitcoin gains 8.43%, dividends, Tesla, and Netflix rise; news adds Canada's hard trade posture, a new Colorado River plan, invisible local-file GUID watermarking, a delayed lunar launch, wildfire evacuations, MLB, cycling, and wrestling updates.
