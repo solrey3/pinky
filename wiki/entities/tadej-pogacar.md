@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-08-25
+updated: 2026-08-26
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 106
+source_count: 107
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 106
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-midnight.md) — Wins Vuelta Stage 4 with a decisive 50 km solo attack in Andorra.
 
 - [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — Wins Vuelta Stage 4 with a decisive 50 km solo attack in Andorra.
 

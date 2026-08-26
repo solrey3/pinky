@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-26] ingest | Midnight Dispatch — Wednesday, August 26, 2026
+- Source: `pinky/raw/newsletters/2026-08-26-midnight-dispatch.md`
+- Summary: August 26 midnight dispatch — indexes remain mixed while WTI falls 7.75% and Bitcoin approaches $80,000; news adds expanding Flock-camera backlash, Canadian retaliatory tariffs, data-center community payments, Apple M6/M5 Ultra, continuous ketone/glucose monitoring, a 50 km Pogačar Vuelta victory, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-26-midnight.md` (new); entity pages `toms-river`, `makati`, `canada`, `flock-safety`, `apple`, `wti`, `tadej-pogacar`; concept pages `automated-license-plate-reader-surveillance`, `tariff-policy`, `risk-off-market-rotation`, `ai-infrastructure-energy-demand`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: tariffs, surveillance, data-center growth, market dispersion, wearable health data, and feed gaps require granular exposure, enforceable governance, community benefit accounting, provenance, and explicit uncertainty.
+
 ## [2026-08-25] ingest | Noon Dispatch — Tuesday, August 25, 2026
 - Source: `pinky/raw/newsletters/2026-08-25-noon-dispatch.md`
 - Summary: August 25 noon dispatch — indexes are mixed and WTI falls 6.72% while Bitcoin nears $80,000; news adds FTC scrutiny of personalized pricing, matching Canadian tariffs, Apple local-AI desktops, two Pennsylvania measles deaths, a 50 km Pogačar Vuelta victory, MLB, and wrestling updates.
