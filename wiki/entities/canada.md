@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-17
 updated: 2026-08-26
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 18
+source_count: 19
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 18
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-noon.md) — Imposes 50% tariffs on U.S. goods, deepening reciprocal trade escalation and cross-border cost pressure.
 
 - [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-daytime.md) — Imposes 50% retaliatory tariffs on U.S. goods, escalating direct cross-border cost pressure.
 

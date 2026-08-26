@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-26] ingest | Noon Dispatch — Wednesday, August 26, 2026
+- Source: `pinky/raw/newsletters/2026-08-26-noon-dispatch.md`
+- Summary: August 26 noon dispatch — tech and small caps weaken while WTI falls 5.42%; news adds Canadian 50% tariffs, IBM Granite 4.2 local AI, AWS acquiring DuckDB, Meta's $16.68 billion platform-harm settlement, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-26-noon.md` (new); entity pages `toms-river`, `makati`, `canada`, `duckdb`, `meta`, `wti`, `tadej-pogacar`; concept pages `tariff-policy`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: tariff retaliation, hyperscaler consolidation, local inference, platform liability, market dispersion, and feed gaps require granular exposure, governance terms, durable provenance, and explicit uncertainty.
+
 ## [2026-08-26] ingest | Morning Dispatch — Wednesday, August 26, 2026
 - Source: `pinky/raw/newsletters/2026-08-26-daytime-dispatch.md`
 - Summary: August 26 morning dispatch — indexes remain mixed while WTI falls 8.13%; news adds expanding Flock-camera backlash, Canadian 50% retaliatory tariffs, X shutting Nitter and XCancel, simplified RAG guidance, a 50 km Pogačar Vuelta victory, MLB, and wrestling updates.
