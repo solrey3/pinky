@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-26] ingest | Morning Dispatch — Wednesday, August 26, 2026
+- Source: `pinky/raw/newsletters/2026-08-26-daytime-dispatch.md`
+- Summary: August 26 morning dispatch — indexes remain mixed while WTI falls 8.13%; news adds expanding Flock-camera backlash, Canadian 50% retaliatory tariffs, X shutting Nitter and XCancel, simplified RAG guidance, a 50 km Pogačar Vuelta victory, MLB, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-26-daytime.md` (new); entity pages `toms-river`, `makati`, `canada`, `flock-safety`, `wti`, `tadej-pogacar`; concept pages `automated-license-plate-reader-surveillance`, `tariff-policy`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: tariffs, surveillance, platform control, retrieval systems, market dispersion, and feed gaps require simple mechanisms, enforceable governance, durable provenance, and explicit uncertainty.
+
 ## [2026-08-26] ingest | Midnight Dispatch — Wednesday, August 26, 2026
 - Source: `pinky/raw/newsletters/2026-08-26-midnight-dispatch.md`
 - Summary: August 26 midnight dispatch — indexes remain mixed while WTI falls 7.75% and Bitcoin approaches $80,000; news adds expanding Flock-camera backlash, Canadian retaliatory tariffs, data-center community payments, Apple M6/M5 Ultra, continuous ketone/glucose monitoring, a 50 km Pogačar Vuelta victory, MLB, and wrestling updates.
