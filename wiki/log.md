@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-26] ingest | Evening Brief — Wednesday, August 26, 2026
+- Source: `pinky/raw/newsletters/2026-08-26-evening-dispatch.md`
+- Summary: August 26 evening brief — technology and small caps weaken while WTI falls 5.92%; news adds Meta's reported $18 billion child-safety settlement, Canadian 50% tariffs, AI-distribution concerns, CrowdStrike growth, Tailcat, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-26-evening.md` (new); entity pages `toms-river`, `makati`, `meta`, `canada`, `wti`, `tadej-pogacar`; concept pages `tariff-policy`, `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The reported Meta settlement amount differs from the noon dispatch and is flagged for primary-source reconciliation. Main synthesis: platform liability, tariff retaliation, AI benefit distribution, market dispersion, and feed gaps require granular evidence, enforceable governance, source reconciliation, and explicit uncertainty.
+
 ## [2026-08-26] ingest | Noon Dispatch — Wednesday, August 26, 2026
 - Source: `pinky/raw/newsletters/2026-08-26-noon-dispatch.md`
 - Summary: August 26 noon dispatch — tech and small caps weaken while WTI falls 5.42%; news adds Canadian 50% tariffs, IBM Granite 4.2 local AI, AWS acquiring DuckDB, Meta's $16.68 billion platform-harm settlement, MLB, cycling, and wrestling updates.
