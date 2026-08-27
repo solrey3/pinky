@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-27
 tags: [technology, social-media, ai, privacy, instagram, platforms, platform-accountability]
-source_count: 32
+source_count: 33
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 32
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-evening.md) — The reported $18 billion child-mental-health settlement repeats the platform-liability headline while remaining unresolved against an earlier $16.68 billion figure.
 
 - [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — The reported $18 billion teen-safety settlement repeats the platform-liability headline while remaining unresolved against an earlier $16.68 billion figure.
 
