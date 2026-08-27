@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-08-27
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 50
+source_count: 51
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 50
 West Texas Intermediate crude oil benchmark; tracked here as an energy, inflation, and cross-asset risk signal.
 
 ## Sources
+
+- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — Falls 2.89% to $82.55 even as all four major equity indexes rally, preserving cross-asset dispersion.
 
 - [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Falls 3.46% to $82.07, the largest cross-asset move and a potential easing signal for near-term fuel pressure.
 

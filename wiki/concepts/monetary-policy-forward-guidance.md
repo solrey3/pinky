@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-08-08
+updated: 2026-08-27
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 107
+source_count: 108
 ---
 
 # Monetary Policy Forward Guidance
@@ -13,6 +13,8 @@ source_count: 107
 A central-bank communication strategy that attempts to shape expectations by signaling likely future policy paths. Forward guidance can reduce uncertainty when credible, but it can also constrain policymakers or make markets overfit to official forecasts instead of current data.
 
 ## Sources
+
+- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — An unclear inflation stance before Jackson Hole increases policy-path uncertainty while EFFR remains 3.63% and long borrowing costs stay elevated.
 
 - [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — An EFFR of 3.63% within a 3.50%–3.75% target range anchors the market snapshot.
 

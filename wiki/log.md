@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-27] ingest | Noon Dispatch — Thursday, August 27, 2026
+- Source: `pinky/raw/newsletters/2026-08-27-noon-dispatch.md`
+- Summary: August 27 noon dispatch — all four indexes rally near annual highs while WTI and real estate fall; Nvidia earnings test AI-rally durability, unclear Fed inflation guidance precedes Jackson Hole, Meta's reported $18 billion settlement persists, and Tadej Pogacar wins Vuelta Stage 6.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-27-noon.md` (new); entity pages `toms-river`, `makati`, `nvidia`, `meta`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `monetary-policy-forward-guidance`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Meta settlement figures still require primary-source reconciliation. Main synthesis: broad index gains can coexist with meaningful dispersion, while AI earnings, central-bank communication, platform liability, historical trade evidence, race safety, and feed gaps require direct evidence and explicit uncertainty.
+
 ## [2026-08-27] ingest | Morning Dispatch — Thursday, August 27, 2026
 - Source: `pinky/raw/newsletters/2026-08-27-daytime-dispatch.md`
 - Summary: August 27 morning dispatch — major indexes soften near annual highs while WTI falls 3.46%; news repeats Meta's $18 billion settlement and disruptive worker-replacement agents, Nvidia's reported $13 billion Hugging Face acquisition, Mechanical Turk's closure, orbital data centers, a pancreatic-cancer drug approval, MLB, cycling, and wrestling updates.
