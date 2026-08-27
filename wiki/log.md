@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-27] ingest | Morning Dispatch — Thursday, August 27, 2026
+- Source: `pinky/raw/newsletters/2026-08-27-daytime-dispatch.md`
+- Summary: August 27 morning dispatch — major indexes soften near annual highs while WTI falls 3.46%; news repeats Meta's $18 billion settlement and disruptive worker-replacement agents, Nvidia's reported $13 billion Hugging Face acquisition, Mechanical Turk's closure, orbital data centers, a pancreatic-cancer drug approval, MLB, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-27-daytime.md` (new); entity pages `toms-river`, `makati`, `meta`, `nvidia`, `nasa`, `wti`; concept pages `risk-off-market-rotation`, `ai-labor-displacement`, `ai-infrastructure-energy-demand`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Meta settlement figures still require primary-source reconciliation. Main synthesis: platform liability, automation failure, AI consolidation, orbital compute, clinical claims, market dispersion, and feed gaps require operational evidence, lifecycle accounting, primary documentation, provenance, and explicit uncertainty.
+
 ## [2026-08-27] ingest | Midnight Dispatch — Thursday, August 27, 2026
 - Source: `pinky/raw/newsletters/2026-08-27-midnight-dispatch.md`
 - Summary: August 27 midnight dispatch — major indexes soften while WTI falls 3.72%; news adds Meta's $18 billion settlement and disruptive worker-replacement agents, Canadian 50% tariffs, Nvidia's reported $13 billion Hugging Face acquisition, Mechanical Turk's closure, orbital data centers, MLB, cycling, and wrestling updates.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-27
 tags: [technology, social-media, ai, privacy, instagram, platforms, platform-accountability]
-source_count: 30
+source_count: 31
 ---
 
 # Meta
@@ -14,6 +14,9 @@ source_count: 30
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — The reported $18 billion child-safety settlement remains unresolved against an earlier $16.68 billion figure, while worker-replacement agents reportedly caused disruptive actions.
+
 
 - [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — The $18 billion child-safety settlement remains the accountability headline, while reported worker-replacement agents demonstrate disruptive operational failure rather than clean substitution.
 

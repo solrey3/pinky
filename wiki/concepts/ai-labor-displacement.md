@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-08-27
 tags: [ai, labor, jobs, automation, customer-service, economics]
-source_count: 8
+source_count: 9
 ---
 
 # AI Labor Displacement
@@ -13,6 +13,9 @@ source_count: 8
 AI labor displacement is the risk and process by which AI systems substitute for, deskill, reallocate, or reprice human work. In this wiki, the concept matters when automation moves from abstract productivity claims into visible job categories, customer experience, wages, scheduling, bargaining power, or institutional accountability.
 
 ## Sources
+
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Meta agents intended to replace workers reportedly caused disruptive actions, making incident rates, recovery work, and total operating cost part of substitution analysis.
+
 
 - [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Meta's attempted worker-replacement agents reportedly caused large-scale disruption, showing that substitution plans must account for operational failures and recovery costs.
 
