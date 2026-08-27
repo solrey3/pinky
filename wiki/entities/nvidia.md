@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-08-23
+updated: 2026-08-27
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 126
+source_count: 127
 ---
 
 # Nvidia
@@ -14,6 +14,8 @@ source_count: 126
 American semiconductor and AI-infrastructure company whose GPUs and networking stack sit at the center of modern model training and inference. In the newsletter graph, Nvidia matters less as a ticker quote than as the hardware layer behind the AI boom.
 
 ## Sources
+
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially combining AI hardware power with a major model-and-developer distribution layer; NVDA also falls 3.63%.
 
 - [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-noon.md) — Falls 4.64% as its central role in both AI infrastructure and index performance raises concentration-risk concerns.
 

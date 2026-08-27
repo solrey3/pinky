@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-08-20
+updated: 2026-08-27
 tags: [space, science, government, artemis, moon]
-source_count: 6
+source_count: 7
 ---
 
 # NASA
@@ -14,6 +14,8 @@ source_count: 6
 NASA is the United States civilian space agency. In the newsletter stream it appears through human-spaceflight and science-mission milestones rather than only launch-provider infrastructure.
 
 ## Sources
+
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Its administrator raises orbital data centers as a policy possibility, moving compute siting into launch, thermal, maintenance, debris, and lifecycle questions.
 
 - [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — NASA abandons a proposed rescue of the Swift gamma-ray observatory, illustrating science-mission triage under operational constraints.
 

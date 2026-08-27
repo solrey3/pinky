@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-08-27-midnight](sources/newsletter-2026-08-27-midnight.md) | Midnight Dispatch — Thursday, August 27, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, tariffs, platform-accountability, ai-labor, ai-consolidation, orbital-data-centers, cycling, baseball, wrestling] | 2026-08-27 |
 | [newsletter-2026-08-26-evening](sources/newsletter-2026-08-26-evening.md) | Evening Brief — Wednesday, August 26, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, tariffs, platform-accountability, ai-inequality, cycling, baseball, wrestling] | 2026-08-26 |
 | [newsletter-2026-08-26-noon](sources/newsletter-2026-08-26-noon.md) | Noon Dispatch — Wednesday, August 26, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, tariffs, local-ai, duckdb, platform-accountability, cycling, baseball, wrestling] | 2026-08-26 |
 | [newsletter-2026-08-26-daytime](sources/newsletter-2026-08-26-daytime.md) | Morning Dispatch — Wednesday, August 26, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, tariffs, surveillance, rag, platform-governance, cycling, baseball, wrestling] | 2026-08-26 |
