@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-28] ingest | Midnight Dispatch — Friday, August 28, 2026
+- Source: `pinky/raw/newsletters/2026-08-28-midnight-dispatch.md`
+- Summary: August 28 midnight dispatch — all four indexes rally near annual highs while real estate and WTI fall; Meta's reported $18 billion settlement persists, a judge rejects the Pentagon's Anthropic blacklist, physical-world agent interfaces expand authorization risk, and Tadej Pogacar wins Vuelta Stage 6.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-28-midnight.md` (new); entity pages `toms-river`, `makati`, `meta`, `anthropic`, `nvidia`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `agentic-access-control`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Meta settlement figures still require primary-source reconciliation. Main synthesis: broad market gains remain internally dispersed, while platform liability, government blacklisting, physical-world agents, model efficiency, and feed gaps require judicial review, bounded authority, task-specific evidence, provenance, and explicit uncertainty.
+
 ## [2026-08-27] ingest | Evening Brief — Thursday, August 27, 2026
 - Source: `pinky/raw/newsletters/2026-08-27-evening-dispatch.md`
 - Summary: August 27 evening brief — all four indexes rally near annual highs while real estate and WTI fall; Nvidia gains 5.13% amid a reported $13 billion Hugging Face acquisition, Meta's reported $18 billion settlement persists, Flock surveillance resistance continues, and Tadej Pogacar wins Vuelta Stage 6.
