@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-28] ingest | Evening Brief — Friday, August 28, 2026
+- Source: `pinky/raw/newsletters/2026-08-28-evening-dispatch.md`
+- Summary: August 28 evening brief — large-cap indexes close near annual highs while small caps, most ETFs, oil, and Bitcoin weaken; Warsh keeps additional tightening possible, a judge rejects the Anthropic blacklist, Apple raises subscription prices, and PayPal falls 12.82%.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-28-evening.md` (new); entity pages `toms-river`, `makati`, `anthropic`, `apple`, `nvidia`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `monetary-policy-forward-guidance`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: narrow market breadth, conditional Fed tightening, government blacklisting, platform pricing, AI-demand narratives, and feed gaps require granular evidence, judicial review, provenance, and explicit uncertainty.
+
 ## [2026-08-28] ingest | Morning Dispatch — Friday, August 28, 2026
 - Source: `pinky/raw/newsletters/2026-08-28-daytime-dispatch.md`
 - Summary: August 28 morning dispatch — all four indexes rally near annual highs despite weaker real estate and WTI; Jackson Hole opens with unclear Fed guidance, a judge blocks the Pentagon's Anthropic risk designation, physical-world agent interfaces expand authorization risk, and Tadej Pogacar wins Vuelta Stage 6.
