@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-20
 updated: 2026-08-28
 tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
-source_count: 20
+source_count: 21
 ---
 
 # Agentic Access Control
@@ -13,6 +13,8 @@ source_count: 20
 Agentic access control is the practice of treating AI agents as explicit security principals: scoped identities with temporary credentials, least-privilege permissions, auditable actions, expiration, and revocation. The core shift is from “an agent uses my account” to “an agent receives a bounded identity for a bounded job.”
 
 ## Sources
+
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — A proposed physical-world agent interface extends least privilege, fail-safe states, human override, and audit requirements into machines and sensors.
 
 - [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — A hardware standard for physical-world agents extends least privilege, fail-safe states, override, and audit requirements from software into machines.
 

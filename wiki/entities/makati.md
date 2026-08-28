@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-19
 updated: 2026-08-28
 tags: [philippines, metro-manila, weather]
-source_count: 111
+source_count: 112
 ---
 
 # Makati
@@ -14,6 +14,8 @@ source_count: 111
 Makati is a Metro Manila city used in the newsletter as the Philippines weather and personal-geography anchor.
 
 ## Sources
+
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — Light showers at 27°C arrive with 36 km/h wind and a 55% rain chance.
 
 - [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — Light showers at 28°C feel like 31°C amid 32 km/h wind, with wetter Saturday conditions expected.
 

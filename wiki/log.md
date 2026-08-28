@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-28] ingest | Morning Dispatch — Friday, August 28, 2026
+- Source: `pinky/raw/newsletters/2026-08-28-daytime-dispatch.md`
+- Summary: August 28 morning dispatch — all four indexes rally near annual highs despite weaker real estate and WTI; Jackson Hole opens with unclear Fed guidance, a judge blocks the Pentagon's Anthropic risk designation, physical-world agent interfaces expand authorization risk, and Tadej Pogacar wins Vuelta Stage 6.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-28-daytime.md` (new); entity pages `toms-river`, `makati`, `anthropic`, `cloudflare`, `meta`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `monetary-policy-forward-guidance`, `agentic-access-control`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Settlement figures still require primary-source reconciliation. Main synthesis: broad gains remain internally dispersed, while central-bank communication, government blacklisting, physical-world agents, infrastructure scale, and feed gaps require bounded authority, direct evidence, provenance, and explicit uncertainty.
+
 ## [2026-08-28] ingest | Midnight Dispatch — Friday, August 28, 2026
 - Source: `pinky/raw/newsletters/2026-08-28-midnight-dispatch.md`
 - Summary: August 28 midnight dispatch — all four indexes rally near annual highs while real estate and WTI fall; Meta's reported $18 billion settlement persists, a judge rejects the Pentagon's Anthropic blacklist, physical-world agent interfaces expand authorization risk, and Tadej Pogacar wins Vuelta Stage 6.

@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-08-28
 tags: [technology, social-media, ai, privacy, instagram, platforms, platform-accountability]
-source_count: 34
+source_count: 35
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 34
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — The teen-social-media settlement remains in circulation, while its reported value still requires reconciliation against primary documentation.
 
 - [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — The reported $18 billion youth-safety settlement remains unresolved against the earlier $16.68 billion figure and requires primary-source reconciliation.
 

@@ -4,9 +4,9 @@ title: Cloudflare
 type: entity
 entity_type: organization
 created: 2026-06-20
-updated: 2026-08-05
+updated: 2026-08-28
 tags: [cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control]
-source_count: 6
+source_count: 7
 ---
 
 # Cloudflare
@@ -14,6 +14,8 @@ source_count: 6
 Cloudflare is a cloud infrastructure and security company. In the newsletter graph, it matters as a platform operator whose networking, identity, and edge-compute decisions shape how automated systems get deployed and governed.
 
 ## Sources
+
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — A DNS-cache optimization reportedly saves 100 TB of memory, illustrating the aggregate value of small per-object efficiencies at global scale.
 
 - [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-noon.md) — Cloudflare OS is presented as an open platform for agents, applications, and work, extending edge infrastructure toward integrated agent execution.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Cloudflare’s notes on running Kimi and GLM models at scale tie edge/cloud infrastructure to smaller, faster, safer AI deployment economics.
