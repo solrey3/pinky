@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-08-29
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 114
+source_count: 115
 ---
 
 # Monetary Policy Forward Guidance
@@ -13,6 +13,8 @@ source_count: 114
 A central-bank communication strategy that attempts to shape expectations by signaling likely future policy paths. Forward guidance can reduce uncertainty when credible, but it can also constrain policymakers or make markets overfit to official forecasts instead of current data.
 
 ## Sources
+
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Warsh keeps additional inflation tightening possible despite unchanged EFFR and elevated long borrowing costs.
 
 - [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Warsh reiterates that inflation may require further tightening despite unchanged EFFR and elevated long borrowing costs.
 

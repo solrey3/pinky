@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-29] ingest | Evening Brief — Saturday, August 29, 2026
+- Source: `pinky/raw/newsletters/2026-08-29-evening-dispatch.md`
+- Summary: August 29 evening brief — large-cap indexes rise near annual highs while small caps, most ETFs, oil, and PayPal weaken; Warsh keeps tightening possible, cities rapidly cancel Flock contracts, Kalshi sports contracts are ruled gambling, and Pogacar exits the Vuelta injured.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-29-evening.md` (new); entity pages `toms-river`, `makati`, `flock-safety`, `kalshi`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `monetary-policy-forward-guidance`, `automated-license-plate-reader-surveillance`, `prediction-markets`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: narrow market breadth, conditional tightening, surveillance procurement reversals, event-contract classification, sports safety, and feed gaps require direct evidence, bounded authority, provenance, and explicit uncertainty.
+
 ## [2026-08-29] ingest | Morning Dispatch — Saturday, August 29, 2026
 - Source: `pinky/raw/newsletters/2026-08-29-daytime-dispatch.md`
 - Summary: August 29 morning dispatch — large-cap indexes close near annual highs while small caps, most ETFs, oil, and Bitcoin weaken; Warsh keeps tightening possible, ICE expands robotic and removal capabilities, cities cancel Flock contracts, and PayPal falls 12.82%.

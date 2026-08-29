@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-13
 updated: 2026-08-29
 tags: [prediction-markets, regulated-markets, forecasting, elections, sports-betting]
-source_count: 66
+source_count: 67
 ---
 
 # Kalshi
@@ -14,6 +14,8 @@ source_count: 66
 Kalshi is a regulated prediction-market venue tracked here when event-contract pricing or election-betting stories enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — A Ninth Circuit ruling treats sports contracts as gambling rather than swaps while extraction remains unavailable.
 
 - [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — A Ninth Circuit ruling reportedly classifies its sports contracts as gambling rather than swaps.
 

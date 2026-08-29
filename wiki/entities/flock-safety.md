@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-08-29
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 18
+source_count: 19
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 18
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Record municipal contract terminations turn privacy opposition into direct procurement reversals.
 
 - [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Texas bars state agencies from funding Flock cameras, making procurement authority a statewide surveillance constraint.
 
