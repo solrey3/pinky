@@ -3,9 +3,9 @@ id: 47e5c4ae-e2c7-4f42-92d0-0976f71705a5
 title: Open Data Preservation
 type: concept
 created: 2026-07-13
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 98
+source_count: 99
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 98
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Withheld East Palestine risk models, Nepal climate evidence, and explicit feed gaps show why timely records and provenance matter.
 
 - [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — Prediction-market, local-fuel, sports-wire, matchup-time, and team-schedule gaps remain explicit rather than inferred.
 

@@ -3,9 +3,9 @@ id: 3e05e53d-8122-4d5a-976b-2c87863d4e43
 title: Risk-Off Market Rotation
 type: concept
 created: 2026-06-08
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq]
-source_count: 221
+source_count: 222
 ---
 
 # Risk-Off Market Rotation
@@ -13,6 +13,8 @@ source_count: 221
 A market regime where investors do not leave risk assets uniformly; instead, they sell speculative growth, high-beta technology, and crypto while rotating into perceived defensive or quality areas such as dividends, value, real estate, consumer staples, or cash-like instruments.
 
 ## Sources
+
+- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Large-cap gains and a positive week coexist with Friday weakness in small caps, most ETFs, oil, Bitcoin, Tesla, and PayPal.
 
 - [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — Large-cap indexes rise near annual highs while Russell 2000, most tracked ETFs, WTI, Bitcoin, PayPal, and Tesla decline, preserving narrow breadth.
 

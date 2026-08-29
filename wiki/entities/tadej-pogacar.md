@@ -4,9 +4,9 @@ title: Tadej Pogacar
 type: entity
 entity_type: person
 created: 2026-07-11
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 115
+source_count: 116
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 115
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Denies anger motivated his Vuelta Stage 7 attack while retaining the race lead and completed Tour title.
 
 - [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — Rejects anger and dehydration explanations for a failed Vuelta solo move while remaining the completed Tour champion.
 
