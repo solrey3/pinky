@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-29] ingest | Morning Dispatch — Saturday, August 29, 2026
+- Source: `pinky/raw/newsletters/2026-08-29-daytime-dispatch.md`
+- Summary: August 29 morning dispatch — large-cap indexes close near annual highs while small caps, most ETFs, oil, and Bitcoin weaken; Warsh keeps tightening possible, ICE expands robotic and removal capabilities, cities cancel Flock contracts, and PayPal falls 12.82%.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-29-daytime.md` (new); entity pages `toms-river`, `makati`, `us-immigration-and-customs-enforcement`, `flock-safety`, `microsoft`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `monetary-policy-forward-guidance`, `immigration-enforcement-escalation`, `automated-license-plate-reader-surveillance`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: narrow market breadth, conditional tightening, enforcement expansion, municipal surveillance resistance, public-risk records, and feed gaps require bounded authority, auditability, provenance, and explicit uncertainty.
+
 ## [2026-08-29] ingest | Midnight Dispatch — Saturday, August 29, 2026
 - Source: `pinky/raw/newsletters/2026-08-29-midnight-dispatch.md`
 - Summary: August 29 midnight dispatch — large-cap indexes close near annual highs while small caps, most ETFs, oil, and Bitcoin weaken; Warsh keeps additional tightening possible, withheld East Palestine risk models raise accountability concerns, ICE plans robotic-dog spending, and PayPal falls 12.82%.

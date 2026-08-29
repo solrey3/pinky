@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-08
 updated: 2026-08-29
 tags: [government, immigration, enforcement, ice, civil-liberties, united-states]
-source_count: 13
+source_count: 14
 ---
 
 # U.S. Immigration and Customs Enforcement
@@ -14,6 +14,8 @@ source_count: 13
 U.S. Immigration and Customs Enforcement (ICE) is tracked here where immigration enforcement, state power, civil liberties, and public-safety accountability intersect.
 
 ## Sources
+
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — A planned $2 million robotic-dog purchase and accelerated-removal proposals widen capability and due-process concerns.
 
 - [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Plans a $2 million purchase of dog-like robots, extending enforcement-capability and civil-liberties concerns.
 

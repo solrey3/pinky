@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-31
 updated: 2026-08-22
 tags: [immigration, border-policy, enforcement, airports, migration, military]
-source_count: 12
+source_count: 13
 ---
 
 # Immigration Enforcement Escalation
@@ -13,6 +13,8 @@ source_count: 12
 Immigration enforcement escalation is the expansion of migration control from border crossings into airports, local jurisdictions, databases, and cross-border travel regimes.
 
 ## Sources
+
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Robotic-dog procurement and proposed rapid H-1B removals combine expanded capability with compressed process.
 
 - [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-daytime.md) — Expanding military arrest authority in designated southern-border areas blurs migration control and domestic military power.
 

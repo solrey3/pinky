@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-08-29
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 116
+source_count: 117
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 116
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Remains the completed Tour de France general-classification champion.
 
 - [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Denies anger motivated his Vuelta Stage 7 attack while retaining the race lead and completed Tour title.
 
