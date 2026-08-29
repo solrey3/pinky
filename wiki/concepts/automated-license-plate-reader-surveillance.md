@@ -3,9 +3,9 @@ id: dca61d73-4c10-43f9-8654-a4ed1438e749
 title: Automated License-Plate Reader Surveillance
 type: concept
 created: 2026-07-31
-updated: 2026-08-27
+updated: 2026-08-29
 tags: [surveillance, privacy, law-enforcement, alpr, data-quality, access-control]
-source_count: 20
+source_count: 21
 ---
 
 # Automated License-Plate Reader Surveillance
@@ -13,6 +13,8 @@ source_count: 20
 Automated license-plate reader surveillance uses cameras and OCR systems to convert vehicle movements into searchable records. Its value depends on read accuracy, retention rules, access logs, and penalties for misuse.
 
 ## Sources
+
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Texas blocks state-agency funding for Flock cameras, demonstrating budget authority as an ALPR governance mechanism.
 
 - [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Record municipal Flock contract terminations show procurement becoming a direct surveillance-governance control.
 

@@ -4,9 +4,9 @@ title: SQLite
 type: entity
 entity_type: product
 created: 2026-07-03
-updated: 2026-08-13
-tags: [database, sqlite, embedded-database, wal, reliability, formal-methods, tla-plus, ai-security]
-source_count: 8
+updated: 2026-08-29
+tags: [database, sqlite, embedded-database, document-database, json, wal, reliability, formal-methods, tla-plus, ai-security]
+source_count: 9
 ---
 
 # SQLite
@@ -14,6 +14,8 @@ source_count: 8
 SQLite is an embedded relational database engine used across applications, operating systems, browsers, and devices. In the wiki graph, it matters as quiet infrastructure: small enough to disappear into products, but important enough that deep reliability bugs can have wide operational implications.
 
 ## Sources
+
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Renewed attention to SQLite JSON support frames the embedded engine as a simple document-store option.
 
 - [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-daytime.md) — The WAL-reset investigation shows how rare persistence-state defects can survive in mature infrastructure.
 

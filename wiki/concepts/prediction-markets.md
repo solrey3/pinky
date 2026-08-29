@@ -3,9 +3,9 @@ id: 187e23f6-bd52-42bc-9643-eb7388e225d3
 title: Prediction Markets
 type: concept
 created: 2026-07-22
-updated: 2026-08-25
-tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance]
-source_count: 50
+updated: 2026-08-29
+tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law]
+source_count: 51
 ---
 
 # Prediction Markets
@@ -13,6 +13,8 @@ source_count: 50
 Prediction markets are trading venues or market-like instruments that convert expectations about events into prices or probabilities. In this wiki they matter less as oracle machines than as sentiment, incentive, and provenance objects: the price can be useful, but only if the market source, liquidity, rules, extraction method, and failure modes are visible.
 
 ## Sources
+
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — A federal ruling reportedly treats Kalshi sports contracts as gambling rather than swaps, while the market-data block itself is unavailable.
 
 - [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — Polymarket prices AOC at 21% for the 2028 Democratic nomination without a movement figure, while Kalshi remains unavailable.
 
