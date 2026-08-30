@@ -15,80 +15,81 @@ tags: [WRESTLING, RANKINGS, PRO-WRESTLING]
 | 1 | Stone Cold Steve Austin |
 | 2 | Ric Flair |
 | 3 | Shawn Michaels |
-| 4 | Bret Hart |
-| 5 | The Rock |
-| 6 | The Undertaker |
-| 7 | Bryan Danielson |
-| 8 | Macho Man Randy Savage |
-| 9 | Sting |
-| 10 | Roman Reigns |
-| 11 | Chris Jericho |
-| 12 | Ricky Steamboat |
-| 13 | John Cena |
-| 14 | CM Punk |
-| 15 | Cody Rhodes |
-| 16 | Seth Rollins |
-| 17 | AJ Styles |
+| 4 | Bryan Danielson |
+| 5 | Sting |
+| 6 | The Rock |
+| 7 | CM Punk |
+| 8 | Kenny Omega |
+| 9 | Macho Man Randy Savage |
+| 10 | Cody Rhodes |
+| 11 | Bret Hart |
+| 12 | AJ Styles |
+| 13 | Will Ospreay |
+| 14 | The Undertaker |
+| 15 | Chris Jericho |
+| 16 | John Cena |
+| 17 | Ricky Steamboat |
 | 18 | Jon Moxley |
-| 19 | Hangman Adam Page |
-| 20 | Mick Foley |
-| 21 | MJF |
-| 22 | Gunther (WALTER) |
-| 23 | Kenny Omega |
-| 24 | Chris Benoit |
-| 25 | Kurt Angle |
-| 26 | Edge (Adam Copeland) |
-| 27 | Rey Misterio Jr. |
-| 28 | Rob Van Dam |
-| 29 | Eddie Guerrero |
-| 30 | Booker T |
-| 31 | Samoa Joe |
-| 32 | Will Ospreay |
-| 33 | Brock Lesnar |
-| 34 | Randy Orton |
-| 35 | Kazuchika Okada |
-| 36 | Swerve Strickland |
-| 37 | Shinsuke Nakamura |
-| 38 | Johnny Gargano |
-| 39 | Adam Cole |
-| 40 | Harley Race |
-| 41 | Tommaso Ciampa |
-| 42 | Owen Hart |
-| 43 | Rowdy Roddy Piper |
-| 44 | Scott Hall |
-| 45 | Goldberg |
-| 46 | Dusty Rhodes |
-| 47 | Jake "The Snake" Roberts |
-| 48 | Bam Bam Bigelow |
-| 49 | Darby Allin |
-| 50 | Hulk Hogan |
-| 51 | Christian Cage |
-| 52 | Kevin Owens |
-| 53 | Konosuke Takeshita |
-| 54 | Jimmy Snuka |
-| 55 | Rusev |
-| 56 | Claudio Castagnoli |
-| 57 | Kevin Nash |
-| 58 | Curt Hennig |
+| 19 | Roman Reigns |
+| 20 | Seth Rollins |
+| 21 | Hangman Adam Page |
+| 22 | MJF |
+| 23 | Swerve Strickland |
+| 24 | Dusty Rhodes |
+| 25 | Booker T |
+| 26 | Rob Van Dam |
+| 27 | Samoa Joe |
+| 28 | Konosuke Takeshita |
+| 29 | Shinsuke Nakamura |
+| 30 | Rowdy Roddy Piper |
+| 31 | Mick Foley |
+| 32 | Kazuchika Okada |
+| 33 | Rey Misterio Jr. |
+| 34 | Eddie Guerrero |
+| 35 | Kofi |
+| 36 | Randy Orton |
+| 37 | Kyle Fletcher |
+| 38 | Gunther (WALTER) |
+| 39 | Chris Benoit |
+| 40 | Johnny Gargano |
+| 41 | Edge (Adam Copeland) |
+| 42 | Kurt Angle |
+| 43 | Scott Hall |
+| 44 | Owen Hart |
+| 45 | Kevin Owens |
+| 46 | Tommaso Ciampa |
+| 47 | Adam Cole |
+| 48 | Jake "The Snake" Roberts |
+| 49 | Christian Cage |
+| 50 | Rusev |
+| 51 | Curt Hennig |
+| 52 | Kevin Nash |
+| 53 | Brock Lesnar |
+| 54 | Harley Race |
+| 55 | Goldberg |
+| 56 | Darby Allin |
+| 57 | Bam Bam Bigelow |
+| 58 | Claudio Castagnoli |
 | 59 | PAC |
-| 60 | Ultimate Warrior |
-| 61 | Rick Rude |
-| 62 | Dean Malenko |
-| 63 | Kyle Fletcher |
-| 64 | Sheamus |
-| 65 | Drew McIntyre |
-| 66 | Sami Zayn |
-| 67 | Kevin Von Erich |
-| 68 | Andre the Giant |
-| 69 | Arn Anderson |
-| 70 | Dustin Rhodes |
-| 71 | Triple H |
-| 72 | Bobby Lashley |
-| 73 | The Great Muto |
-| 74 | Ricochet |
-| 75 | Andrade |
-| 76 | Keith Lee |
-| 77 | Jeff Hardy |
-| 78 | Davey Boy Smith |
-| 79 | The Iron Sheik |
-| 80 | King Kong Bundy |
+| 60 | Sami Zayn |
+| 61 | Dean Malenko |
+| 62 | Andrade |
+| 63 | Dustin Rhodes |
+| 64 | Bobby Lashley |
+| 65 | The Great Muto |
+| 66 | Hulk Hogan |
+| 67 | Rick Rude |
+| 68 | Jimmy Snuka |
+| 69 | Ultimate Warrior |
+| 70 | Sheamus |
+| 71 | Drew McIntyre |
+| 72 | Kevin Von Erich |
+| 73 | Andre the Giant |
+| 74 | Arn Anderson |
+| 75 | Triple H |
+| 76 | Ricochet |
+| 77 | Keith Lee |
+| 78 | Jeff Hardy |
+| 79 | Davey Boy Smith |
+| 80 | The Iron Sheik |
+| 81 | King Kong Bundy |

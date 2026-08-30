@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-30] ingest | Evening Brief — Sunday, August 30, 2026
+- Source: `pinky/raw/newsletters/2026-08-30-evening-dispatch.md`
+- Summary: August 30 evening brief — large-cap indexes remain near annual highs while small caps and tracked ETFs lag; climate and healthcare costs threaten the economy, U.S.–Iran escalation resumes near Hormuz, Meta explores data-center robotics, Netflix expands into NFL streaming, and Ospreay wins the AEW world title.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-30-evening.md` (new); entity pages `toms-river`, `makati`, `meta`, `netflix`, `paypal`, `us-central-command`, `tadej-pogacar`, `will-ospreay`; concept pages `risk-off-market-rotation`, `ai-infrastructure-energy-demand`, `press-freedom`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Pogacar's precise injury remains unresolved across dispatches, and unavailable feeds are treated as collection gaps rather than inactivity.
+
 ## [2026-08-30] ingest | Morning Dispatch — Sunday, August 30, 2026
 - Source: `pinky/raw/newsletters/2026-08-30-daytime-dispatch.md`
 - Summary: August 30 morning dispatch — large-cap indexes remain near annual highs while small caps and all tracked ETFs lag; Warsh keeps tightening possible, Flock-camera privacy remains contested, a court limits speech-based deportations, Kalshi sports contracts are treated as gambling, and Pogacar exits the Vuelta injured.

@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-06
+updated: 2026-08-30
 tags: [person, wrestling, aew]
-source_count: 26
+source_count: 27
 ---
 
 # Will Ospreay
@@ -33,6 +33,8 @@ source_count: 26
 - His AEW debut pop was the largest non-WWE debut reaction in years
 
 ## Sources
+
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Defeats Kenny Omega at Wembley to win the AEW World Championship at All In London.
 
 - [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Wins at AEW Grand Slam Mexico.
 

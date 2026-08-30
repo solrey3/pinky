@@ -4,9 +4,9 @@ title: U.S. Central Command
 type: entity
 entity_type: organization
 created: 2026-07-13
-updated: 2026-07-20
+updated: 2026-08-30
 tags: [military, united-states, centcom, iran, security]
-source_count: 6
+source_count: 7
 ---
 
 # U.S. Central Command
@@ -14,6 +14,8 @@ source_count: 6
 U.S. Central Command is the U.S. combatant command tracked here when Middle East military operations enter the newsletter graph.
 
 ## Sources
+
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Renewed U.S. strikes on Iranian rocket launchers near Hormuz extend the escalation and maritime-energy-risk thread.
 
 - [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — CENTCOM reports additional U.S. strikes amid continued Iran hostilities, making it the source of the dispatch's military-escalation item.
 

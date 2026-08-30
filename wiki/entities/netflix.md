@@ -4,9 +4,9 @@ title: Netflix
 type: entity
 entity_type: organization
 created: 2026-06-26
-updated: 2026-08-04
+updated: 2026-08-30
 tags: [streaming, platform, accounts, identity, subscriptions, media]
-source_count: 50
+source_count: 51
 ---
 
 # Netflix
@@ -14,6 +14,8 @@ source_count: 50
 Streaming-media platform and subscription business. In the newsletter graph, Netflix appears both as a market ticker and as a platform-policy actor whose account rules shape user identity and household sharing.
 
 ## Sources
+
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Plans to stream five NFL games, extending its subscription strategy into premium live sports rights.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NFLX gains 1.63% but remains well below the high end of its 52-week range.
 - [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Netflix posts a modest gain but remains well below its 52-week high in the stock watch.

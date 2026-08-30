@@ -3,9 +3,9 @@ id: bb401f4f-67ee-4edd-bbf2-789f05d90068
 title: Press Freedom
 type: concept
 created: 2026-07-13
-updated: 2026-07-22
+updated: 2026-08-30
 tags: [first-amendment, journalism, censorship, courts, civil-liberties, media]
-source_count: 5
+source_count: 6
 ---
 
 # Press Freedom
@@ -13,6 +13,8 @@ source_count: 5
 The legal and civic protection of reporting, publication, and news gathering from state or judicial suppression.
 
 ## Sources
+
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Scrutiny of Hong Kong's independent bookstores extends the concept from journalism into state pressure on publication and literary distribution.
 
 - [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — A New Jersey judge's restriction on high-school-lockdown coverage is treated as a First Amendment censorship fight.
 

@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-08-27
+updated: 2026-08-30
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality]
-source_count: 33
+source_count: 34
 ---
 
 # AI Infrastructure Energy Demand
@@ -13,6 +13,8 @@ source_count: 33
 AI infrastructure energy demand is the load-growth created by training, inference, networking, cooling, and data-center expansion for AI systems. It connects model capability to electricity procurement, grid reliability, siting politics, and capex.
 
 ## Sources
+
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Meta's reported server-floor robotics push adds physical automation, workplace safety, and operational authorization to data-center scaling constraints.
 
 - [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Orbital data centers relocate compute constraints into launch energy, thermal control, servicing, debris, and full hardware-lifecycle accounting.
 
