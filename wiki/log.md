@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-30] ingest | Midnight Dispatch — Sunday, August 30, 2026
+- Source: `pinky/raw/newsletters/2026-08-30-midnight-dispatch.md`
+- Summary: August 30 midnight dispatch — large-cap indexes rise near annual highs while small caps and most ETFs lag; Warsh keeps tightening possible, Flock cameras remain contested, a court rejects speech-based deportations, Kalshi sports contracts are treated as gambling, and Pogacar exits the Vuelta injured.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-30-midnight.md` (new); entity pages `toms-river`, `makati`, `flock-safety`, `kalshi`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `monetary-policy-forward-guidance`, `automated-license-plate-reader-surveillance`, `immigration-enforcement-escalation`, `prediction-markets`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Pogacar’s injury is reported as a neck fracture here but as a broken collarbone in the prior evening brief, so primary reporting is needed for reconciliation.
+
 ## [2026-08-29] ingest | Evening Brief — Saturday, August 29, 2026
 - Source: `pinky/raw/newsletters/2026-08-29-evening-dispatch.md`
 - Summary: August 29 evening brief — large-cap indexes rise near annual highs while small caps, most ETFs, oil, and PayPal weaken; Warsh keeps tightening possible, cities rapidly cancel Flock contracts, Kalshi sports contracts are ruled gambling, and Pogacar exits the Vuelta injured.

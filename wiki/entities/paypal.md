@@ -4,9 +4,9 @@ title: PayPal
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-29
+updated: 2026-08-30
 tags: [finance, payments, fintech, markets]
-source_count: 43
+source_count: 44
 ---
 
 # PayPal
@@ -14,6 +14,8 @@ source_count: 43
 PayPal is tracked as a payments and fintech-market entity when it appears in stock-watch coverage.
 
 ## Sources
+
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — The stock falls 12.82% for the completed week and triggers the newsletter’s major-move alert.
 
 - [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — PYPL falls 12.82%, crossing the major-move threshold and landing well below its annual-range midpoint.
 

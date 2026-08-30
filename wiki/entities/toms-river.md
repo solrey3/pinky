@@ -4,9 +4,9 @@ title: Toms River
 type: entity
 entity_type: place
 created: 2026-07-19
-updated: 2026-08-29
+updated: 2026-08-30
 tags: [new-jersey, shore, weather]
-source_count: 117
+source_count: 118
 ---
 
 # Toms River
@@ -14,6 +14,8 @@ source_count: 117
 Toms River is a Jersey Shore municipality used in the newsletter as the local weather and household-cost anchor.
 
 ## Sources
+
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — Clear overnight conditions precede a sunny 88°F Sunday with minimal rain risk.
 
 - [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Sunny conditions near 83°F give way to a 62°F night and a warmer Sunday.
 
