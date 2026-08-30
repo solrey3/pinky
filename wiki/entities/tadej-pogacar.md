@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-08-30
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 120
+source_count: 121
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 120
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — Abandons the Vuelta after a Stage 8 crash reported as causing a neck fracture and concussion; the injury conflicts with the prior evening brief.
 
 - [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — Abandons the Vuelta after a Stage 8 crash reported here as causing a neck fracture and concussion; the injury description conflicts with the prior evening brief.
 

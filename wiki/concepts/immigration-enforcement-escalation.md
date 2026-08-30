@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-31
 updated: 2026-08-30
 tags: [immigration, border-policy, enforcement, airports, migration, military]
-source_count: 14
+source_count: 15
 ---
 
 # Immigration Enforcement Escalation
@@ -13,6 +13,8 @@ source_count: 14
 Immigration enforcement escalation is the expansion of migration control from border crossings into airports, local jurisdictions, databases, and cross-border travel regimes.
 
 ## Sources
+
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — A federal court reportedly holds that protected speech cannot justify deporting noncitizens.
 
 - [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — A federal court reportedly holds that deportation based on protected speech violates the First Amendment.
 
