@@ -3,9 +3,9 @@ id: 47e5c4ae-e2c7-4f42-92d0-0976f71705a5
 title: Open Data Preservation
 type: concept
 created: 2026-07-13
-updated: 2026-08-29
+updated: 2026-08-30
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 102
+source_count: 103
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 102
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-noon.md) — Prediction-market odds, local fuel prices, schedules, and sports feeds remain explicitly unavailable rather than inferred inactive.
 
 - [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Prediction-market, local-fuel, sports-wire, schedule, and team-API gaps remain explicit rather than inferred.
 

@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-08-28
-tags: [technology, social-media, ai, privacy, instagram, platforms, platform-accountability]
-source_count: 35
+updated: 2026-08-30
+tags: [technology, social-media, ai, privacy, instagram, platforms, platform-accountability, robotics]
+source_count: 36
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 35
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-noon.md) — Reportedly explores robots for data-center work, extending automation into physical server-floor operations.
 
 - [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — The teen-social-media settlement remains in circulation, while its reported value still requires reconciliation against primary documentation.
 
