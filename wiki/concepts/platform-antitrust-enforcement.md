@@ -3,9 +3,9 @@ id: 4be1896e-3540-4384-a4a5-9c08bf8f0eb3
 title: Platform Antitrust Enforcement
 type: concept
 created: 2026-07-23
-updated: 2026-08-04
+updated: 2026-08-31
 tags: [antitrust, platforms, competition, regulation, european-union, google]
-source_count: 10
+source_count: 11
 ---
 
 # Platform Antitrust Enforcement
@@ -13,6 +13,8 @@ source_count: 10
 Platform antitrust enforcement is competition-law action aimed at dominant digital platforms whose rankings, defaults, app-store terms, advertising systems, or ecosystem rules can favor their own products over competitors. The practical question is not only the fine, but the behavioral remedy: what equal-treatment rule is ordered, how compliance is measured, and whether rivals can verify it.
 
 ## Sources
+
+- [2026-08-31: Evening Brief — Monday, August 31, 2026](../sources/newsletter-2026-08-31-evening.md) — A reported FTC advertising-deception case against Amazon illustrates adjacent consumer-protection enforcement; Google's Manifest V2 removal shows technical platform control outside a stated antitrust action.
 
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Reddit criticism of Google AI Overviews extends the platform-power question into AI-generated summaries and publisher traffic value.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Reddit’s AI Overviews complaint extends platform-power analysis into AI-mediated search traffic and publisher economics.

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-31] ingest | Evening Brief — Monday, August 31, 2026
+- Source: `pinky/raw/newsletters/2026-08-31-evening-dispatch.md`
+- Summary: August 31 evening brief — tech lifts the Nasdaq while small caps and most domestic ETFs weaken; the FTC reportedly targets Amazon's advertiser representations, Google removes Manifest V2 extensions, PayPal plunges 14.62%, and Pogacar's clavicle surgery reportedly succeeds.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-31-evening.md` (new); entity pages `toms-river`, `makati`, `amazon`, `federal-trade-commission`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `platform-antitrust-enforcement`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The FTC allegation is consumer-protection rather than antitrust, the linked Anthropic article does not directly establish the stated Sony-suit context, and Pogacar's clavicle report resolves earlier injury descriptions subject to primary confirmation.
+
 ## [2026-08-31] ingest | Morning Dispatch — Monday, August 31, 2026
 - Source: `pinky/raw/newsletters/2026-08-31-daytime-dispatch.md`
 - Summary: August 31 morning dispatch — large-cap indexes remain near annual highs while small caps and tracked ETFs weaken; El Niño and floods elevate climate risk, Warsh keeps tightening possible, renewed U.S.–Iran fighting lifts WTI 5.10%, PayPal falls 12.82%, and Pogacar updates from a Barcelona hospital.
