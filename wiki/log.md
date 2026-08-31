@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-08-31] ingest | Morning Dispatch — Monday, August 31, 2026
+- Source: `pinky/raw/newsletters/2026-08-31-daytime-dispatch.md`
+- Summary: August 31 morning dispatch — large-cap indexes remain near annual highs while small caps and tracked ETFs weaken; El Niño and floods elevate climate risk, Warsh keeps tightening possible, renewed U.S.–Iran fighting lifts WTI 5.10%, PayPal falls 12.82%, and Pogacar updates from a Barcelona hospital.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-31-daytime.md` (new); entity pages `toms-river`, `makati`, `iran`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `monetary-policy-forward-guidance`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Pogacar's precise injury remains unresolved, and unavailable feeds are treated as collection gaps rather than inactivity.
+
 ## [2026-08-30] ingest | Evening Brief — Sunday, August 30, 2026
 - Source: `pinky/raw/newsletters/2026-08-30-evening-dispatch.md`
 - Summary: August 30 evening brief — large-cap indexes remain near annual highs while small caps and tracked ETFs lag; climate and healthcare costs threaten the economy, U.S.–Iran escalation resumes near Hormuz, Meta explores data-center robotics, Netflix expands into NFL streaming, and Ospreay wins the AEW world title.
