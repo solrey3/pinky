@@ -1887,3 +1887,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: August 30 noon dispatch — large caps finish near highs despite weak small caps, broad ETF losses, and a 12.82% PayPal drop; El Niño enters the economic-risk frame, Meta explores data-center robots, Kalshi sports contracts are treated as gambling, and Pogačar's Vuelta exit reshapes the race.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-08-30-noon.md` (new); entity pages `meta`, `kalshi`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `prediction-markets`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: narrow market breadth, climate-linked economic exposure, physical automation, event-contract classification, and feed gaps require domain-specific governance and explicit provenance.
+
+## [2026-08-31] ingest | Midnight Dispatch — Monday, August 31, 2026
+- Source: `pinky/raw/newsletters/2026-08-31-midnight-dispatch.md`
+- Summary: August 31 midnight dispatch — large-cap gains mask weak small caps, broad ETF losses, falling Bitcoin, and a 12.82% PayPal drop; El Niño and Hormuz conflict add climate and energy risk, Netflix pursues NFL rights, and Enric Mas wins Vuelta Stage 9.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-08-31-midnight.md` (new); entity pages `netflix`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `prediction-markets`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: narrow market breadth, climate-linked economic exposure, geopolitical energy risk, streaming sports competition, and feed gaps require cross-domain analysis and explicit provenance.
