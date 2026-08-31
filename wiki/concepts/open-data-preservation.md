@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-08-31
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 106
+source_count: 107
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 106
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-08-31: Noon Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-noon.md) — Prediction-market movers, local fuel pricing, sports wires, and schedule details remain explicitly unavailable rather than inferred.
 
 - [2026-08-31: Morning Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-daytime.md) — Prediction-market data and several sports feeds remain explicitly unavailable rather than inferred inactive.
 
