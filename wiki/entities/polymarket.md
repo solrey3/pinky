@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-08-18
+updated: 2026-09-01
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 62
+source_count: 63
 ---
 
 # Polymarket
@@ -14,6 +14,8 @@ source_count: 62
 Polymarket is a prediction-market platform tracked here when market-implied political or event probabilities enter the newsletter graph.
 
 ## Sources
+
+- [2026-09-01: Morning Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-daytime.md) — Reportedly attracts a $300 million venture-fund commitment while the issue's price extraction remains unusable.
 
 - [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-midnight.md) — Prices U.S.–Iran peace talks at 28% by September 30 and 74% by December 31.
 

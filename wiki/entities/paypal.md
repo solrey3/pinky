@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-09-01
 tags: [finance, payments, fintech, markets]
-source_count: 52
+source_count: 53
 ---
 
 # PayPal
@@ -14,6 +14,8 @@ source_count: 52
 PayPal is tracked as a payments and fintech-market entity when it appears in stock-watch coverage.
 
 ## Sources
+
+- [2026-09-01: Morning Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-daytime.md) — Falls 14.62%, crossing the individual-stock major-alert threshold.
 
 - [2026-09-01: Midnight Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-midnight.md) — Falls 14.62%, the board's only move beyond the major-alert threshold.
 

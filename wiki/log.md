@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-01] ingest | Morning Dispatch — Tuesday, September 1, 2026
+- Source: `pinky/raw/newsletters/2026-09-01-daytime-dispatch.md`
+- Summary: September 1 morning dispatch — technology lifts the Nasdaq while small caps, domestic ETFs, and PayPal weaken; WTI jumps on Hormuz tanker reports, Utah resists a giant data-center plan, Polymarket reportedly attracts $300 million, prior approvals are reduced, and Pogacar's clavicle surgery reportedly succeeds.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-01-daytime.md` (new); entity pages `toms-river`, `makati`, `paypal`, `polymarket`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `ai-infrastructure-energy-demand`, `prediction-markets`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Reported tanker strikes, investment terms, prior-approval implementation, and Pogacar's recovery remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-01] ingest | Midnight Dispatch — Tuesday, September 1, 2026
 - Source: `pinky/raw/newsletters/2026-09-01-midnight-dispatch.md`
 - Summary: September 1 midnight dispatch — tech lifts the Nasdaq while the Dow, small caps, and domestic ETFs weaken; the FTC reportedly targets Amazon's hidden advertiser fees, PayPal plunges 14.62%, USDA shelves Cyclospora research during an outbreak, and Pogacar's clavicle surgery reportedly succeeds.
