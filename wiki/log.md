@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-01] ingest | Evening Brief — Tuesday, September 1, 2026
+- Source: `pinky/raw/newsletters/2026-09-01-evening-dispatch.md`
+- Summary: September 1 evening brief — a global bond selloff and rising long yields accompany broad equity and ETF losses; the Russell falls 2.99%, PayPal drops 15.85%, WTI jumps 8.56%, the FTC targets Amazon's ad auctions, Anthropic releases two Claude models, and Pogacar's surgery reportedly succeeds.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-01-evening.md` (new); entity pages `amazon`, `anthropic`, `paypal`, `wti`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: simultaneous oil and long-yield increases compound inflation and financing pressure as market breadth deteriorates; allegations and product announcements remain subject to primary confirmation, and unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-01] ingest | Noon Dispatch — Tuesday, September 1, 2026
 - Source: `pinky/raw/newsletters/2026-09-01-noon-dispatch.md`
 - Summary: September 1 noon dispatch — Nasdaq remains green while the Dow, small caps, and all tracked ETFs weaken; PayPal plunges 15.34%, WTI jumps 5.72%, John Ternus reportedly succeeds Tim Cook at Apple, Utah resists a giant data center, and Pogacar's clavicle surgery reportedly succeeds.
