@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-02
 updated: 2026-09-01
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality]
-source_count: 35
+source_count: 36
 ---
 
 # AI Infrastructure Energy Demand
@@ -13,6 +13,8 @@ source_count: 35
 AI infrastructure energy demand is the load-growth created by training, inference, networking, cooling, and data-center expansion for AI systems. It connects model capability to electricity procurement, grid reliability, siting politics, and capex.
 
 ## Sources
+
+- [2026-09-01: Noon Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-noon.md) — Continued Utah opposition to a giant data-center proposal reinforces local consent, land use, and political legitimacy as scaling constraints.
 
 - [2026-09-01: Morning Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-daytime.md) — Bipartisan resistance to a giant Utah data-center proposal makes local consent, land use, and political legitimacy explicit scaling constraints.
 

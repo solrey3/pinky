@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-01] ingest | Noon Dispatch — Tuesday, September 1, 2026
+- Source: `pinky/raw/newsletters/2026-09-01-noon-dispatch.md`
+- Summary: September 1 noon dispatch — Nasdaq remains green while the Dow, small caps, and all tracked ETFs weaken; PayPal plunges 15.34%, WTI jumps 5.72%, John Ternus reportedly succeeds Tim Cook at Apple, Utah resists a giant data center, and Pogacar's clavicle surgery reportedly succeeds.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-01-noon.md` (new); entity pages `toms-river`, `makati`, `apple`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `ai-infrastructure-energy-demand`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Apple's reported succession, the data-center proposal, and Pogacar's recovery remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-01] ingest | Morning Dispatch — Tuesday, September 1, 2026
 - Source: `pinky/raw/newsletters/2026-09-01-daytime-dispatch.md`
 - Summary: September 1 morning dispatch — technology lifts the Nasdaq while small caps, domestic ETFs, and PayPal weaken; WTI jumps on Hormuz tanker reports, Utah resists a giant data-center plan, Polymarket reportedly attracts $300 million, prior approvals are reduced, and Pogacar's clavicle surgery reportedly succeeds.
