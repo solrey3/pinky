@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-01] ingest | Midnight Dispatch — Tuesday, September 1, 2026
+- Source: `pinky/raw/newsletters/2026-09-01-midnight-dispatch.md`
+- Summary: September 1 midnight dispatch — tech lifts the Nasdaq while the Dow, small caps, and domestic ETFs weaken; the FTC reportedly targets Amazon's hidden advertiser fees, PayPal plunges 14.62%, USDA shelves Cyclospora research during an outbreak, and Pogacar's clavicle surgery reportedly succeeds.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-01-midnight.md` (new); entity pages `toms-river`, `makati`, `amazon`, `federal-trade-commission`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `platform-antitrust-enforcement`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The FTC allegation is consumer-protection rather than antitrust, Pogacar's surgery supports the clavicle-injury account subject to primary confirmation, and unavailable feeds are treated as collection gaps rather than inactivity.
+
 ## [2026-08-31] ingest | Evening Brief — Monday, August 31, 2026
 - Source: `pinky/raw/newsletters/2026-08-31-evening-dispatch.md`
 - Summary: August 31 evening brief — tech lifts the Nasdaq while small caps and most domestic ETFs weaken; the FTC reportedly targets Amazon's advertiser representations, Google removes Manifest V2 extensions, PayPal plunges 14.62%, and Pogacar's clavicle surgery reportedly succeeds.
