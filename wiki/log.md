@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-02] ingest | Midnight Dispatch — Wednesday, September 2, 2026
+- Source: `pinky/raw/newsletters/2026-09-02-midnight-dispatch.md`
+- Summary: September 2 midnight dispatch — global bond yields and oil rise as all major indexes and tracked ETFs fall; the Russell loses 2.99%, PayPal drops 15.85%, WTI jumps 8.76%, U.S. strikes against Iran continue, and Pennsylvania confirms two measles deaths.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-02-midnight.md` (new); entity pages `anthropic`, `iran`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `measles-resurgence`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The CDC-count discrepancy and military, product, and recovery claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-01] ingest | Evening Brief — Tuesday, September 1, 2026
 - Source: `pinky/raw/newsletters/2026-09-01-evening-dispatch.md`
 - Summary: September 1 evening brief — a global bond selloff and rising long yields accompany broad equity and ETF losses; the Russell falls 2.99%, PayPal drops 15.85%, WTI jumps 8.56%, the FTC targets Amazon's ad auctions, Anthropic releases two Claude models, and Pogacar's surgery reportedly succeeds.
