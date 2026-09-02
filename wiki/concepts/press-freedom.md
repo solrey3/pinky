@@ -3,9 +3,9 @@ id: bb401f4f-67ee-4edd-bbf2-789f05d90068
 title: Press Freedom
 type: concept
 created: 2026-07-13
-updated: 2026-08-30
+updated: 2026-09-02
 tags: [first-amendment, journalism, censorship, courts, civil-liberties, media]
-source_count: 6
+source_count: 7
 ---
 
 # Press Freedom
@@ -13,6 +13,8 @@ source_count: 6
 The legal and civic protection of reporting, publication, and news gathering from state or judicial suppression.
 
 ## Sources
+
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — A court declines to restrain the Arkansas Democrat-Gazette from publishing data-center plans, applying the anti-prior-restraint principle to infrastructure reporting.
 
 - [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Scrutiny of Hong Kong's independent bookstores extends the concept from journalism into state pressure on publication and literary distribution.
 

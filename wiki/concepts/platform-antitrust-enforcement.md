@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-23
 updated: 2026-09-02
 tags: [antitrust, platforms, competition, regulation, european-union, google]
-source_count: 13
+source_count: 14
 ---
 
 # Platform Antitrust Enforcement
@@ -13,6 +13,8 @@ source_count: 13
 Platform antitrust enforcement is competition-law action aimed at dominant digital platforms whose rankings, defaults, app-store terms, advertising systems, or ecosystem rules can favor their own products over competitors. The practical question is not only the fine, but the behavioral remedy: what equal-treatment rule is ordered, how compliance is measured, and whether rivals can verify it.
 
 ## Sources
+
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Google's avoided ad-tech breakup again shows that a competition case does not guarantee structural separation.
 
 - [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-noon.md) — A judge rejects breakup of Google's ad-tech business, illustrating the gap between an enforcement case and securing a structural remedy.
 
