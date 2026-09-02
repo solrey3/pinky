@@ -4,9 +4,9 @@ title: Blue Origin
 type: entity
 entity_type: organization
 created: 2026-05-29
-updated: 2026-05-30
+updated: 2026-09-02
 tags: [space, launch, rocket, blue-origin, new-glenn, jeff-bezos, organization]
-source_count: 3
+source_count: 4
 ---
 
 # Blue Origin
@@ -22,6 +22,8 @@ Blue Origin's press statement described the event as an "anomaly" — a piece of
 **Context:** SpaceX's Starship V3 had a mostly successful inaugural flight weeks earlier (noted in `newsletter-2026-05-20-to-05-25.md`), widening the development gap between the two programs.
 
 ## Sources
+
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — NASA reportedly commits $700 million to the company for Mars missions, a major public-sector award after New Glenn's earlier setback.
 
 - [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](sources/newsletter-2026-05-29.md) — New Glenn explodes during static fire test at LC-36; most spectacular launch failure since Soviet N1; NG-4 mission delayed indefinitely.
 - [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Continued coverage in Ars Technica framing; described as 'catastrophic.' Story still leading the space/tech news cycle at Friday's close.

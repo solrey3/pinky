@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-09-02
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 132
+source_count: 133
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 132
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — His clavicle surgery reportedly succeeds, while recovery threatens his world-title defense and complicates next season.
 
 - [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-midnight.md) — His clavicle surgery reportedly succeeds, but the crash threatens his world-title defense and complicates next season.
 

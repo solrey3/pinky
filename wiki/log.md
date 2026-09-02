@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-02] ingest | Morning Dispatch — Wednesday, September 2, 2026
+- Source: `pinky/raw/newsletters/2026-09-02-daytime-dispatch.md`
+- Summary: September 2 morning dispatch — global bond yields and oil rise as every major index and tracked ETF falls; the Russell loses 2.99%, PayPal drops 15.85%, WTI jumps 8.23%, U.S. strikes against Iran continue, Pennsylvania measles deaths remain disputed in federal counting, small reactors are pitched for data centers, and NASA backs Blue Origin for Mars missions.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-02-daytime.md` (new); entity pages `anthropic`, `blue-origin`, `iran`, `nasa`, `paypal`, `tadej-pogacar`; concept pages `ai-infrastructure-energy-demand`, `measles-resurgence`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Breaking military, mortality-count, model, nuclear-power, procurement, and recovery claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-02] ingest | Midnight Dispatch — Wednesday, September 2, 2026
 - Source: `pinky/raw/newsletters/2026-09-02-midnight-dispatch.md`
 - Summary: September 2 midnight dispatch — global bond yields and oil rise as all major indexes and tracked ETFs fall; the Russell loses 2.99%, PayPal drops 15.85%, WTI jumps 8.76%, U.S. strikes against Iran continue, and Pennsylvania confirms two measles deaths.

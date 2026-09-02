@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-08-27
+updated: 2026-09-02
 tags: [space, science, government, artemis, moon]
-source_count: 8
+source_count: 9
 ---
 
 # NASA
@@ -14,6 +14,8 @@ source_count: 8
 NASA is the United States civilian space agency. In the newsletter stream it appears through human-spaceflight and science-mission milestones rather than only launch-provider infrastructure.
 
 ## Sources
+
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — Reportedly commits $700 million to Blue Origin for Mars missions, linking public exploration goals to commercial launch procurement.
 
 - [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Its administrator again places orbital data centers into policy debate, leaving launch, power, thermal, servicing, debris, and lifecycle constraints unresolved.
 
