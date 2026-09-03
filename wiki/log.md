@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-03] ingest | Midnight Dispatch — Thursday, September 3, 2026
+- Source: `pinky/raw/newsletters/2026-09-03-midnight-dispatch.md`
+- Summary: September 3 midnight dispatch — Nasdaq and Nvidia rise while small caps and every tracked ETF weaken; WTI jumps 6.08%, PayPal falls 11.55%, long yields remain near annual highs, U.S.–Iran strikes threaten trade and energy, Google avoids an ad-tech breakup, and an alleged driver's-license market exposes vendor identity-data risk.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-03-midnight.md` (new); entity pages `google`, `iran`, `nvidia`, `paypal`, `mathieu-van-der-poel`, `tadej-pogacar`, `will-ospreay`; concept pages `platform-antitrust-enforcement`, `risk-off-market-rotation`, `security-and-privacy-toolkit`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Military, legal, product, and data-breach claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-02] ingest | Evening Brief — Wednesday, September 2, 2026
 - Source: `pinky/raw/newsletters/2026-09-02-evening-dispatch.md`
 - Summary: September 2 evening brief — Nasdaq and Nvidia rise while small caps and every tracked ETF weaken; WTI jumps 8.67%, PayPal falls 11.55%, fresh U.S.–Iran strikes raise energy risk, Google avoids an ad-tech breakup, and a court rejects prior restraint of data-center reporting.

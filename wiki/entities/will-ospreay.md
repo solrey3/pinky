@@ -4,9 +4,9 @@ title: Will Ospreay
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [person, wrestling, aew]
-source_count: 28
+source_count: 29
 ---
 
 # Will Ospreay
@@ -33,6 +33,8 @@ source_count: 28
 - His AEW debut pop was the largest non-WWE debut reaction in years
 
 ## Sources
+
+- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Announced to defend the AEW World Championship against Jon Moxley at All Out.
 
 - [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Scheduled to open Dynamite as the new AEW World Champion.
 
