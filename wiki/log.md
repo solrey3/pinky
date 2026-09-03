@@ -1971,3 +1971,10 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: August 31 noon dispatch — Nasdaq and AI-chip gains mask weak small caps, mostly falling ETFs, lower Bitcoin, and a 13.20% PayPal plunge; renewed Hormuz tension lifts oil, EU online-safety obligations expand, and Pogacar faces an operation.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-08-31-noon.md` (new); entity pages `nvidia`, `paypal`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: concentrated technology strength can conceal weak breadth, while geopolitical energy risk, platform regulation, civil-liberties concerns, medical uncertainty, and feed gaps require domain-specific evidence and explicit provenance.
+
+
+## [2026-09-03] ingest | Noon Dispatch — Thursday, September 3, 2026
+- Source: `pinky/raw/newsletters/2026-09-03-noon-dispatch.md`
+- Summary: September 3 noon dispatch — modest large-cap gains mask a 1.61% small-cap decline; WTI jumps 6.91%, PayPal falls 9.29%, Google avoids an ad-tech breakup, major AI assistants suffer a reported outage, and identity-data, grid-resilience, and immigration-speech risks remain active.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-03-noon.md` (new); entity pages `google`, `anthropic`, `openai`, `tesla`, `paypal`, `tadej-pogacar`; concept pages `platform-antitrust-enforcement`, `risk-off-market-rotation`, `security-and-privacy-toolkit`, `power-grid-resilience`, `immigration-enforcement-escalation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Legal, outage, deployment, breach, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.

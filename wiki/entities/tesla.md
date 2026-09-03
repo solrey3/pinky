@@ -4,9 +4,9 @@ title: Tesla
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-08-22
+updated: 2026-09-03
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta]
-source_count: 73
+source_count: 74
 ---
 
 # Tesla
@@ -14,6 +14,8 @@ source_count: 73
 Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesla is tracked less as a generic EV maker and more as a regulatory and safety actor when Autopilot/driver-assist incidents surface.
 
 ## Sources
+
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Rises 8.05%, the largest gain on the tracked stock board.
 
 - [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-daytime.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch.
 - [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-midnight.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch, resisting the broad equity selloff.
