@@ -4,9 +4,9 @@ title: Hugging Face
 type: entity
 entity_type: organization
 created: 2026-07-21
-updated: 2026-08-03
+updated: 2026-09-03
 tags: [ai, open-source, model-hub, evaluation, security, models]
-source_count: 14
+source_count: 15
 ---
 
 # Hugging Face
@@ -14,6 +14,8 @@ source_count: 14
 Hugging Face is an AI platform and model hub tracked when model distribution, evaluation, open-source AI infrastructure, or security incidents enter the newsletter graph.
 
 ## Sources
+
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — Nvidia reportedly agrees to acquire the model hub for $13 billion, placing open-model distribution inside a major hardware vendor's consolidation strategy.
 
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — The OpenAI/Hugging Face breach thread adds record-preservation demands from Republican attorneys general, keeping model-hub incidents inside legal and evidentiary workflows.
 - [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Appears through Tailscale’s intrusion postmortem, reinforcing model-platform security and trusted-network limits.

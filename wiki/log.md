@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-03] ingest | Evening Brief — Thursday, September 3, 2026
+- Source: `pinky/raw/newsletters/2026-09-03-evening-dispatch.md`
+- Summary: September 3 evening brief — large caps edge higher while small caps fall; WTI jumps 6.89% and Bitcoin 5.03%, Nvidia reportedly buys Hugging Face for $13 billion, Google avoids an ad-tech breakup, New Jersey seeks state authority over Kalshi sports contracts, and OpenAI reportedly pursues humanoid robotics.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-03-evening.md` (new); entity pages `nvidia`, `hugging-face`, `google`, `kalshi`, `openai`, `tadej-pogacar`; concept pages `platform-antitrust-enforcement`, `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Acquisition, product, legal, market, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-03] ingest | Morning Dispatch — Thursday, September 3, 2026
 - Source: `pinky/raw/newsletters/2026-09-03-daytime-dispatch.md`
 - Summary: September 3 morning dispatch — Nasdaq and Nvidia rise while small caps and every tracked ETF weaken; WTI jumps 7.00%, PayPal falls 11.55%, long yields remain near annual highs, U.S.–Iran strikes threaten trade and energy, Google avoids an ad-tech breakup, and alleged driver's-license sales expose vendor identity-data risk.

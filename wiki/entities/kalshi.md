@@ -4,9 +4,9 @@ title: Kalshi
 type: entity
 entity_type: organization
 created: 2026-07-13
-updated: 2026-08-30
+updated: 2026-09-03
 tags: [prediction-markets, regulated-markets, forecasting, elections, sports-betting]
-source_count: 70
+source_count: 71
 ---
 
 # Kalshi
@@ -14,6 +14,8 @@ source_count: 70
 Kalshi is a regulated prediction-market venue tracked here when event-contract pricing or election-betting stories enter the newsletter graph.
 
 ## Sources
+
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — New Jersey asks the U.S. Supreme Court to affirm state authority over sports contracts as gambling; extraction again yields no reliable market data.
 
 - [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-noon.md) — The court's gambling-not-swaps classification remains central while the data panel is unavailable.
 

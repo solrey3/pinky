@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-11
 updated: 2026-09-03
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control]
-source_count: 37
+source_count: 38
 ---
 
 # OpenAI
@@ -18,6 +18,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 **June 11, 2026:** OpenAI said China was likely behind an anti-data-center campaign in the U.S. The important wiki point is not only the attribution claim, but the target: data centers are now political infrastructure. AI buildout requires land, power, water, permits, and community acceptance, so influence operations can target the physical layer of the AI stack rather than only model outputs or software supply chains.
 
 ## Sources
+
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — Reportedly develops a humanoid robot intended eventually for broad consumer use, extending its strategy from software and compute into embodied AI.
 
 - [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Its assistant is among several major AI services affected by a reported concurrent outage.
 
