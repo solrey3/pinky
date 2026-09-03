@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-09-03
 tags: [person, wrestling, aew]
-source_count: 29
+source_count: 30
 ---
 
 # Will Ospreay
@@ -33,6 +33,8 @@ source_count: 29
 - His AEW debut pop was the largest non-WWE debut reaction in years
 
 ## Sources
+
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — Announced to defend the AEW World Championship against Jon Moxley at All Out.
 
 - [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Announced to defend the AEW World Championship against Jon Moxley at All Out.
 

@@ -5,7 +5,7 @@ type: concept
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-09-03
 tags: [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed, identity-data]
-source_count: 113
+source_count: 114
 ---
 
 # Security & Privacy Toolkit
@@ -13,6 +13,8 @@ source_count: 113
 The layered defense system protecting this infrastructure: password management, zero-trust networking, secure operating systems, and penetration testing tools. The philosophy is defense in depth — no single tool provides complete security, but the combination creates a resilient perimeter.
 
 ## Sources
+
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — An alleged market for 153 million driver's-license records reinforces vendor minimization, retention, access-control, and breach-monitoring requirements.
 
 - [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — An alleged market for 153 million driver's-license records makes vendor collection, retention, access controls, and breach monitoring part of routine identity-data defense.
 
