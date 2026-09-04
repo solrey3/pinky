@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-24
 updated: 2026-09-04
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 23
+source_count: 24
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 23
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Continued community resistance keeps ALPR procurement legitimacy, retention, access, auditing, and misuse controls contested.
 
 - [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Community revolt against automated plate tracking keeps procurement legitimacy, retention, access, auditing, and misuse controls contested.
 

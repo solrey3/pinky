@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-04-noon](sources/newsletter-2026-09-04-noon.md) | Noon Dispatch — Friday, September 4, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, ai-consolidation, robotaxis, surveillance, right-to-repair, cycling, baseball, wrestling] | 2026-09-04 |
 | [newsletter-2026-09-04-daytime](sources/newsletter-2026-09-04-daytime.md) | Morning Dispatch — Friday, September 4, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, ai-consolidation, robotaxis, surveillance, measles, cycling, baseball, wrestling] | 2026-09-04 |
 | [newsletter-2026-09-04-midnight](sources/newsletter-2026-09-04-midnight.md) | Midnight Dispatch — Friday, September 4, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, antitrust, ai-consolidation, measles, cycling, baseball, wrestling] | 2026-09-04 |
 | [newsletter-2026-09-03-evening](sources/newsletter-2026-09-03-evening.md) | Evening Brief — Thursday, September 3, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, bitcoin, antitrust, ai-consolidation, prediction-markets, robotics, cycling, baseball, wrestling] | 2026-09-03 |
@@ -1471,6 +1472,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Apple SpeechAnalyzer API](entities/apple-speechanalyzer-api.md) | product | apple, speech-recognition, api, ai | 1 |
 | [Climate.gov](entities/climate-gov.md) | product | climate, open-data, archive, public-data | 1 |
 | [GigaToken](entities/gigatoken.md) | product | ai, tokenization, llm, performance, developer-tools | 1 |
+| [Fairphone](entities/fairphone.md) | organization | technology, smartphones, repairability, sustainability | 1 |
 | [Flock Safety](entities/flock-safety.md) | organization | surveillance, law-enforcement, license-plate-readers, privacy, policing | 14 |
 | [Claude Opus 5](entities/claude-opus-5.md) | product | ai, llm, anthropic, claude, model-release, frontier-models | 4 |
 | [Hanwha](entities/hanwha.md) | organization | hardware, security-cameras, github, credentials, cybersecurity | 2 |
