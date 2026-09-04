@@ -4,7 +4,7 @@ title: TV Series Rankings — Personal All-Time List
 type: source
 source_type: journal
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-04
 tags: [tv, rankings, television, entertainment, personal, all-time]
 source_path: raw/journal/tv-series-rankings.md
 ---
@@ -16,7 +16,7 @@ source_path: raw/journal/tv-series-rankings.md
 
 ## Summary
 
-Personal all-time TV rankings: 62 scripted series + 8 reality shows. The Simpsons tops the list — a choice that signals longevity and cultural saturation over prestige. The Wire at #2 reflects the critical consensus that it's the greatest drama ever made. The top 10 is a mix of satire (Simpsons, South Park), crime drama (The Wire, The Sopranos), and genre-bending prestige (Mr. Robot, Breaking Bad, BSG). Anime present via Dragon Ball Z/Super (#8). Strong comedy representation throughout (Community, Chappelle's Show, Newsradio, Parks & Rec, etc.).
+Personal all-time TV rankings: 63 scripted series + 8 reality shows. The Simpsons tops the list — a choice that signals longevity and cultural saturation over prestige. The Wire at #2 reflects the critical consensus that it's the greatest drama ever made. The top 10 is a mix of satire (Simpsons, South Park), crime drama (The Wire, The Sopranos), and genre-bending prestige (Mr. Robot, Breaking Bad, BSG). Anime present via Dragon Ball Z/Super (#8). Strong comedy representation throughout (Community, Chappelle's Show, Newsradio, Parks & Rec, etc.).
 
 ## Scripted Series — Top 30
 

@@ -4,7 +4,7 @@ title: TV Series Rankings
 type: capture
 capture_type: list
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-04
 tags: [TV, RANKINGS, TELEVISION, ENTERTAINMENT]
 ---
 
@@ -52,30 +52,31 @@ tags: [TV, RANKINGS, TELEVISION, ENTERTAINMENT]
 | 36 | Dollhouse |
 | 37 | The Americans |
 | 38 | Veep |
-| 39 | The Wonder Years |
-| 40 | How I Met Your Mother |
-| 41 | Friends |
-| 42 | Doctor Who |
-| 43 | 24 |
-| 44 | The Good Place |
-| 45 | Portlandia |
-| 46 | Billions |
-| 47 | Homicide: Life on the Streets |
-| 48 | Star Trek |
-| 49 | Firefly |
-| 50 | The White Lotus |
-| 51 | Narcos |
-| 52 | Burn Notice |
-| 53 | The Kids in the Hall |
-| 54 | Six Feet Under |
-| 55 | Deadwood |
-| 56 | The Mary Tyler Moore Show |
-| 57 | Welcome Back, Kotter |
-| 58 | All in the Family |
-| 59 | I Love Lucy |
-| 60 | The Jeffersons |
-| 61 | Head of the Class |
-| 62 | Different Strokes |
+| 39 | Married With Children |
+| 40 | The Wonder Years |
+| 41 | How I Met Your Mother |
+| 42 | Friends |
+| 43 | Doctor Who |
+| 44 | 24 |
+| 45 | The Good Place |
+| 46 | Portlandia |
+| 47 | Billions |
+| 48 | Homicide: Life on the Streets |
+| 49 | Star Trek |
+| 50 | Firefly |
+| 51 | The White Lotus |
+| 52 | Narcos |
+| 53 | Burn Notice |
+| 54 | The Kids in the Hall |
+| 55 | Six Feet Under |
+| 56 | Deadwood |
+| 57 | The Mary Tyler Moore Show |
+| 58 | Welcome Back, Kotter |
+| 59 | All in the Family |
+| 60 | I Love Lucy |
+| 61 | The Jeffersons |
+| 62 | Head of the Class |
+| 63 | Different Strokes |
 
 ## Reality Television
 
