@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-04] ingest | Morning Dispatch — Friday, September 4, 2026
+- Source: `pinky/raw/newsletters/2026-09-04-daytime-dispatch.md`
+- Summary: September 4 morning dispatch — large caps edge higher while small caps fall; WTI jumps 5.99%, Nvidia reportedly buys Hugging Face for $13 billion, Tesla debuts its camera-led Cybercab, communities resist Flock surveillance, federal leadership allegedly suppresses measles-death reporting, and Pogacar leaves hospital.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-04-daytime.md` (new); entity pages `nvidia`, `hugging-face`, `tesla`, `flock-safety`, `tadej-pogacar`; concept pages `automated-license-plate-reader-surveillance`, `measles-resurgence`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Acquisition, product, surveillance, military, mortality-reporting, market, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-04] ingest | Midnight Dispatch — Friday, September 4, 2026
 - Source: `pinky/raw/newsletters/2026-09-04-midnight-dispatch.md`
 - Summary: September 4 midnight dispatch — large caps edge higher while small caps fall; WTI jumps 7.18%, Nvidia reportedly buys Hugging Face for $13 billion, Google avoids an ad-tech breakup, federal leadership allegedly suppresses measles-death reporting, and Pogacar leaves hospital.
