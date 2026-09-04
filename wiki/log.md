@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-04] ingest | Evening Brief — Friday, September 4, 2026
+- Source: `pinky/raw/newsletters/2026-09-04-evening-dispatch.md`
+- Summary: September 4 evening brief — the labor report improves, WTI jumps 6.37%, Nvidia reportedly buys Hugging Face for nearly $13 billion, NHTSA probes Tesla's Cybercab rollout, and Anthropic applies formal verification to Fermat's Last Theorem.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-04-evening.md` (new); entity pages `nvidia`, `hugging-face`, `tesla`, `anthropic`, `wout-van-aert`; concept pages `risk-off-market-rotation`, `formal-methods`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Acquisition, regulatory, labor, market, research, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-04] ingest | Morning Dispatch — Friday, September 4, 2026
 - Source: `pinky/raw/newsletters/2026-09-04-daytime-dispatch.md`
 - Summary: September 4 morning dispatch — large caps edge higher while small caps fall; WTI jumps 5.99%, Nvidia reportedly buys Hugging Face for $13 billion, Tesla debuts its camera-led Cybercab, communities resist Flock surveillance, federal leadership allegedly suppresses measles-death reporting, and Pogacar leaves hospital.
