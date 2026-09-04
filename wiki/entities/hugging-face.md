@@ -4,9 +4,9 @@ title: Hugging Face
 type: entity
 entity_type: organization
 created: 2026-07-21
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [ai, open-source, model-hub, evaluation, security, models]
-source_count: 15
+source_count: 16
 ---
 
 # Hugging Face
@@ -14,6 +14,8 @@ source_count: 15
 Hugging Face is an AI platform and model hub tracked when model distribution, evaluation, open-source AI infrastructure, or security incidents enter the newsletter graph.
 
 ## Sources
+
+- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-midnight.md) — Nvidia's reported $13 billion acquisition would place a major open-model distribution hub inside a dominant AI-hardware company.
 
 - [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — Nvidia reportedly agrees to acquire the model hub for $13 billion, placing open-model distribution inside a major hardware vendor's consolidation strategy.
 

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-04] ingest | Midnight Dispatch — Friday, September 4, 2026
+- Source: `pinky/raw/newsletters/2026-09-04-midnight-dispatch.md`
+- Summary: September 4 midnight dispatch — large caps edge higher while small caps fall; WTI jumps 7.18%, Nvidia reportedly buys Hugging Face for $13 billion, Google avoids an ad-tech breakup, federal leadership allegedly suppresses measles-death reporting, and Pogacar leaves hospital.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-04-midnight.md` (new); entity pages `nvidia`, `hugging-face`, `google`, `tadej-pogacar`; concept pages `platform-antitrust-enforcement`, `measles-resurgence`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Acquisition, legal, military, mortality-reporting, market, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-03] ingest | Evening Brief — Thursday, September 3, 2026
 - Source: `pinky/raw/newsletters/2026-09-03-evening-dispatch.md`
 - Summary: September 3 evening brief — large caps edge higher while small caps fall; WTI jumps 6.89% and Bitcoin 5.03%, Nvidia reportedly buys Hugging Face for $13 billion, Google avoids an ad-tech breakup, New Jersey seeks state authority over Kalshi sports contracts, and OpenAI reportedly pursues humanoid robotics.
