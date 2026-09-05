@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-04
 updated: 2026-09-05
 tags: [cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials]
-source_count: 5
+source_count: 6
 ---
 
 # Software Supply Chain Security
@@ -13,6 +13,8 @@ source_count: 5
 Software supply chain security is the practice of protecting the packages, maintainers, registries, build steps, and dependency graphs that software systems rely on before code reaches production.
 
 ## Sources
+
+- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-noon.md) — An actively exploited Chromium sandbox RCE underscores rapid patching and verification of browser-runtime isolation boundaries.
 
 - [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — An actively exploited Chromium sandbox RCE underscores the need to patch shared browser-runtime dependencies quickly and verify isolation boundaries.
 
