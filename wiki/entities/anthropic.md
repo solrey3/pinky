@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation]
-source_count: 75
+source_count: 76
 ---
 
 # Anthropic
@@ -52,6 +52,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - **May 30, 2026**: gHacks confirms **Claude Opus 4.8 with effort controls and dynamic workflows for Claude Code** — the effort controls are described as the headline feature. This is the full feature release detail for the model that went live May 28.
 
 ## Sources
+
+- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Fermat's Last Theorem formalization keeps Anthropic in machine-assisted, proof-checkable mathematics.
 
 - [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletter-2026-09-04-evening.md) — Research on formalizing Fermat's Last Theorem extends Anthropic's work into machine-assisted, proof-checkable mathematics.
 
