@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-22
 updated: 2026-09-05
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta]
-source_count: 78
+source_count: 79
 ---
 
 # Tesla
@@ -14,6 +14,8 @@ source_count: 78
 Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesla is tracked less as a generic EV maker and more as a regulatory and safety actor when Autopilot/driver-assist incidents surface.
 
 ## Sources
+
+- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — NHTSA probes the Cybercab rollout, separating commercial launch claims from verified autonomous-driving safety; TSLA gains 1.53%.
 
 - [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — NHTSA opens a probe after the Cybercab rollout, separating launch claims from verified autonomous-driving safety; TSLA gains 1.53%.
 

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-29
 updated: 2026-09-05
 tags: [cycling, tour-of-denmark, sports]
-source_count: 7
+source_count: 8
 ---
 
 # Wout van Aert
@@ -14,6 +14,8 @@ source_count: 7
 Wout van Aert is a Belgian cyclist tracked when major road-racing results and comeback narratives enter the sports graph.
 
 ## Sources
+
+- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — Wins Vuelta a España stage 13 after the breakaway stays clear.
 
 - [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Wins Vuelta a España stage 13 after the breakaway stays clear.
 
