@@ -2026,3 +2026,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: September 5 morning dispatch — near-flat weekly indexes conceal a 9.69% WTI surge, high long-term borrowing costs, and sharp stock dispersion; news adds a strong jobs report, NHTSA scrutiny of Tesla's Cybercab, alleged agent sandbox-escape discussions, an exploited Chromium sandbox RCE, Mercury mission progress, cycling, MLB, and wrestling.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-05-daytime.md` (new); entity pages `tesla`, `wti`, `wout-van-aert`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `software-supply-chain-security`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: calm indexes can mask energy and financing pressure, while autonomy and sandbox claims require regulator-reviewed evidence, adversarial testing, rapid patching, and explicit provenance.
+
+## [2026-09-05] ingest | Evening Brief — Saturday, September 5, 2026
+- Source: `pinky/raw/newsletters/2026-09-05-evening-dispatch.md`
+- Summary: September 5 evening brief — near-flat weekly indexes conceal a 9.69% WTI surge, high long-term borrowing costs, and sharp stock dispersion; news adds a strong jobs report, U.S. strikes on Iranian tankers, NHTSA scrutiny of Tesla's Cybercab, Mercury mission progress, extreme-heat changes at the Vuelta, MLB, and wrestling.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-05-evening.md` (new); entity pages `iran`, `tesla`, `wti`, `tadej-pogacar`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: calm indexes can mask energy and financing pressure, while military, autonomy, research, and injury claims require primary confirmation and explicit provenance.
