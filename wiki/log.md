@@ -2050,3 +2050,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: September 5 evening brief — near-flat weekly indexes conceal a 9.69% WTI surge, high long-term borrowing costs, and sharp stock dispersion; news adds a strong jobs report, U.S. strikes on Iranian tankers, NHTSA scrutiny of Tesla's Cybercab, Mercury mission progress, extreme-heat changes at the Vuelta, MLB, and wrestling.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-05-evening.md` (new); entity pages `iran`, `tesla`, `wti`, `tadej-pogacar`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: calm indexes can mask energy and financing pressure, while military, autonomy, research, and injury claims require primary confirmation and explicit provenance.
+
+## [2026-09-06] ingest | Evening Brief — Sunday, September 6, 2026
+- Source: `pinky/raw/newsletters/2026-09-06-evening-dispatch.md`
+- Summary: September 6 evening brief — renewed Ukraine talks and a Cybercab probe share the news stack with a fatal Amazon cargo-plane crash and a European commercial-launch milestone; near-flat indexes conceal a 9.69% WTI surge, high long-term borrowing costs, and sharp stock dispersion.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-06-evening.md` (new); entity pages `ukraine`, `tesla`, `wti`, `wout-van-aert`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Main synthesis: diplomatic contact, autonomous deployment, and repeated reporting are not validation; breaking claims and unavailable feeds require primary confirmation and explicit provenance.
