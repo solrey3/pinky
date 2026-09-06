@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-01
 updated: 2026-09-06
 tags: [russia, geopolitics, war, ukraine, security, diplomacy]
-source_count: 7
+source_count: 8
 ---
 
 # Russia
@@ -14,6 +14,8 @@ source_count: 7
 Russia is tracked here mainly through geopolitical and military-risk coverage. In this source, it appears as the actor allegedly preparing a major strike against Ukraine.
 
 ## Sources
+
+- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-daytime.md) — Renewed talks with U.S. envoys are described as useful, but no settlement terms or implementation evidence are reported.
 
 - [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-midnight.md) — Putin meets U.S. envoys in renewed Ukraine-war talks that Russia calls useful, without reported settlement terms.
 

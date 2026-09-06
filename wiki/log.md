@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-06] ingest | Morning Dispatch — Sunday, September 6, 2026
+- Source: `pinky/raw/newsletters/2026-09-06-daytime-dispatch.md`
+- Summary: September 6 morning dispatch — upbeat labor news and renewed Ukraine talks meet immediate Cybercab scrutiny, near-flat but dispersed markets, WTI's 9.69% weekly surge, BepiColombo's Mercury approach, and Pogacar's reported season end.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-06-daytime.md` (new); entity pages `russia`, `ukraine`, `tesla`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Labor, diplomatic, regulatory, market, mission, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-06] ingest | Midnight Dispatch — Sunday, September 6, 2026
 - Source: `pinky/raw/newsletters/2026-09-06-midnight-dispatch.md`
 - Summary: September 6 midnight dispatch — positive labor news and renewed Ukraine talks meet immediate Cybercab scrutiny, near-flat but highly dispersed markets, WTI's 9.69% weekly surge, BepiColombo's Mercury approach, and Pogacar's reported season end.

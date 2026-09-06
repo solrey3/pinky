@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-01
 updated: 2026-09-06
 tags: [ukraine, geopolitics, war, russia, europe, security, diplomacy]
-source_count: 13
+source_count: 14
 ---
 
 # Ukraine
@@ -14,6 +14,8 @@ source_count: 13
 Ukraine is a European state central to the continuing Russia-Ukraine war. In the newsletter graph, it functions as a geopolitical risk marker rather than a market ticker.
 
 ## Sources
+
+- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-daytime.md) — U.S.–Russia talks resume with the stated aim of ending the war, though the dispatch supplies no agreement terms.
 
 - [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-midnight.md) — Renewed U.S.–Russia talks seek an end to the war, but the dispatch provides no settlement terms or implementation evidence.
 
