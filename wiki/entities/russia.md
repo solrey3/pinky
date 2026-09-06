@@ -4,9 +4,9 @@ title: Russia
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-08-05
-tags: [russia, geopolitics, war, ukraine, security]
-source_count: 6
+updated: 2026-09-06
+tags: [russia, geopolitics, war, ukraine, security, diplomacy]
+source_count: 7
 ---
 
 # Russia
@@ -14,6 +14,8 @@ source_count: 6
 Russia is tracked here mainly through geopolitical and military-risk coverage. In this source, it appears as the actor allegedly preparing a major strike against Ukraine.
 
 ## Sources
+
+- [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-midnight.md) — Putin meets U.S. envoys in renewed Ukraine-war talks that Russia calls useful, without reported settlement terms.
 
 - [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Coverage reports a deadly Kyiv strike and alleged Russian “drone safari” attacks against Ukrainians.
 - [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The evening dispatch reports Russian ballistic-missile and drone attacks on Kyiv, keeping escalation risk live.
