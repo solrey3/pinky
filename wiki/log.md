@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-06] ingest | Noon Dispatch — Sunday, September 6, 2026
+- Source: `pinky/raw/newsletters/2026-09-06-noon-dispatch.md`
+- Summary: September 6 noon dispatch — strong labor news and renewed Ukraine talks meet Cybercab scrutiny, a spreading drug-resistant fungal threat, a European commercial-launch milestone, near-flat but dispersed markets, WTI's 9.69% weekly surge, and a heat-shortened Vuelta stage won by Wout van Aert.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-06-noon.md` (new); entity pages `russia`, `ukraine`, `tesla`, `wout-van-aert`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Diplomatic, regulatory, health, market, launch, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-06] ingest | Morning Dispatch — Sunday, September 6, 2026
 - Source: `pinky/raw/newsletters/2026-09-06-daytime-dispatch.md`
 - Summary: September 6 morning dispatch — upbeat labor news and renewed Ukraine talks meet immediate Cybercab scrutiny, near-flat but dispersed markets, WTI's 9.69% weekly surge, BepiColombo's Mercury approach, and Pogacar's reported season end.
