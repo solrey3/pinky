@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-09-07
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 117
+source_count: 118
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 117
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-daytime.md) — The Internet Archive seeks recurring support for server operations, while Kalshi, local fuel, MLB schedule details, team schedules, and sports feeds remain explicitly unavailable rather than inferred inactive.
 
 - [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-midnight.md) — Newsweek, local Wawa fuel, MLB timing and television details, team schedules, and several sports feeds remain explicitly unavailable rather than inferred inactive.
 
@@ -247,5 +249,7 @@ Preserving public information by making data open, replicable, and reusable beyo
 - [[Digital Gardens]]
 
 ## Notes
+
+The Internet Archive appeal makes the operational layer explicit: open-data durability depends on sustained storage, bandwidth, maintenance, and funding as well as open formats and replication.
 
 This concept was created from the July 13 evening newsletter and should be refined as additional sources accumulate.

@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-07-11
 updated: 2026-09-07
 tags: [cycling, tour-de-france, slovenia, general-classification, sports]
-source_count: 149
+source_count: 150
 ---
 
 # Tadej Pogacar
@@ -14,6 +14,8 @@ source_count: 149
 Tadej Pogacar is a professional cyclist tracked when Tour de France general-classification results enter the sports feed.
 
 ## Sources
+
+- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-daytime.md) — Reportedly ends his 2026 season after the Vuelta crash and extends his UAE contract through 2032; remains the recorded Tour champion.
 
 - [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-midnight.md) — Reportedly ends his 2026 season after the Vuelta crash and extends his UAE contract through 2032; remains the recorded Tour champion.
 

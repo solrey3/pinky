@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-07] ingest | Morning Dispatch — Monday, September 7, 2026
+- Source: `pinky/raw/newsletters/2026-09-07-daytime-dispatch.md`
+- Summary: September 7 morning dispatch — renewed Ukraine talks and favorable labor news accompany a European commercial-launch milestone, an Internet Archive funding appeal, stale Labor Day market tape with substantial internal dispersion, and Vuelta updates for Wout van Aert and Tadej Pogacar.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-07-daytime.md` (new); entity pages `russia`, `ukraine`, `wout-van-aert`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Diplomatic, labor, launch, market, weather, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-07] ingest | Midnight Dispatch — Monday, September 7, 2026
 - Source: `pinky/raw/newsletters/2026-09-07-midnight-dispatch.md`
 - Summary: September 7 midnight dispatch — favorable labor news and renewed Ukraine talks meet Cybercab scrutiny, a fatal Amazon cargo-plane crash, a European commercial-launch milestone, narrowly mixed but dispersed markets, and Vuelta updates for Wout van Aert and Tadej Pogacar.
