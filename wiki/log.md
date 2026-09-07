@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-07] ingest | Midnight Dispatch — Monday, September 7, 2026
+- Source: `pinky/raw/newsletters/2026-09-07-midnight-dispatch.md`
+- Summary: September 7 midnight dispatch — favorable labor news and renewed Ukraine talks meet Cybercab scrutiny, a fatal Amazon cargo-plane crash, a European commercial-launch milestone, narrowly mixed but dispersed markets, and Vuelta updates for Wout van Aert and Tadej Pogacar.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-07-midnight.md` (new); entity pages `russia`, `ukraine`, `tesla`, `wout-van-aert`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `open-data-preservation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Diplomatic, crash, regulatory, market, launch, and injury claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-06] ingest | Noon Dispatch — Sunday, September 6, 2026
 - Source: `pinky/raw/newsletters/2026-09-06-noon-dispatch.md`
 - Summary: September 6 noon dispatch — strong labor news and renewed Ukraine talks meet Cybercab scrutiny, a spreading drug-resistant fungal threat, a European commercial-launch milestone, near-flat but dispersed markets, WTI's 9.69% weekly surge, and a heat-shortened Vuelta stage won by Wout van Aert.

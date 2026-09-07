@@ -3,9 +3,9 @@ id: 47e5c4ae-e2c7-4f42-92d0-0976f71705a5
 title: Open Data Preservation
 type: concept
 created: 2026-07-13
-updated: 2026-09-06
+updated: 2026-09-07
 tags: [open-data, archives, public-data, climate, resilience, provenance, research-access, platforms]
-source_count: 116
+source_count: 117
 ---
 
 # Open Data Preservation
@@ -13,6 +13,8 @@ source_count: 116
 Preserving public information by making data open, replicable, and reusable beyond a single website or institution.
 
 ## Sources
+
+- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-midnight.md) — Newsweek, local Wawa fuel, MLB timing and television details, team schedules, and several sports feeds remain explicitly unavailable rather than inferred inactive.
 
 - [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-evening.md) — Prediction-market movement, Kalshi, local Wawa fuel, sports-wire breadth, team schedules, and broadcast details remain explicitly unavailable rather than inferred inactive.
 
