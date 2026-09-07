@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-07] ingest | Evening Brief — Monday, September 7, 2026
+- Source: `pinky/raw/newsletters/2026-09-07-evening-dispatch.md`
+- Summary: September 7 evening brief — encouraging labor news and Iranian retaliation threats accompany a fatal Amazon cargo-plane investigation, a European commercial-launch milestone, Linux trusting-trust research, WeatherNext 3, a narrowly mixed but dispersed close, and final Tour de France results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-07-evening.md` (new); entity pages `iran`, `nvidia`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `risk-off-market-rotation`, `software-supply-chain-security`, `ai-weather-forecasting`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Military, crash, legal, launch, security-research, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-07] ingest | Noon Dispatch — Monday, September 7, 2026
 - Source: `pinky/raw/newsletters/2026-09-07-noon-dispatch.md`
 - Summary: September 7 noon dispatch — encouraging labor news meets Iranian retaliation threats, Cybercab scrutiny, a European commercial-launch milestone, Internet Archive fundraising, narrowly mixed but dispersed markets, and a heat-shortened Vuelta stage won by Wout van Aert.
