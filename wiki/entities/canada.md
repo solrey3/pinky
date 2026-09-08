@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-17
 updated: 2026-09-08
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 22
+source_count: 23
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 22
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — A threatened U.S. ban on Bombardier aircraft carries the tariff confrontation into commercial-aviation market access.
 
 - [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — A threatened U.S. ban on Bombardier aircraft extends the tariff confrontation into commercial-aviation market access.
 

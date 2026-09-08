@@ -5,7 +5,7 @@ type: concept
 created: 2026-09-08
 updated: 2026-09-08
 tags: [cryptography, security, key-management, certificates, rsa, migration, technical-debt]
-source_count: 1
+source_count: 2
 ---
 
 # Cryptographic Agility
@@ -13,6 +13,8 @@ source_count: 1
 Cryptographic agility is the ability to inventory, replace, and retire algorithms, keys, certificates, and trust anchors as attack methods, computing power, standards, or operational requirements change. It treats cryptography as a managed lifecycle rather than a permanent property of deployed systems.
 
 ## Sources
+
+- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — Factored 1990s certificate-authority RSA keys reinforce that legacy key strength decays and obsolete trust material must be retired.
 
 - [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — A report that 1990s certificate-authority RSA keys were factored demonstrates how legacy key strength can decay and why obsolete trust material must be retired.
 
