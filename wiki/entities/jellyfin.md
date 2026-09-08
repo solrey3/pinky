@@ -4,9 +4,9 @@ title: Jellyfin
 type: entity
 entity_type: product
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-09-08
 tags: [media-server, self-hosted, streaming, open-source, security, rce]
-source_count: 1
+source_count: 2
 ---
 
 # Jellyfin
@@ -14,6 +14,8 @@ source_count: 1
 Jellyfin is an open-source, self-hosted media server for organizing and streaming video, audio, and other media. In the wiki graph, it matters as part of the self-hosted media stack and as an internet-adjacent service where patch cadence and network exposure determine real risk.
 
 ## Sources
+
+- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — Jellyfin 12.0 is reported as a major release, adding an upgrade milestone to the self-hosted media-server lifecycle.
 
 - [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — A r/selfhosted thread flags a Jellyfin RCE vulnerability for versions below **10.11.7**, making media-server patching part of the active self-hosted security checklist.
 

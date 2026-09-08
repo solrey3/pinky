@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-08] ingest | Midnight Dispatch — Tuesday, September 8, 2026
+- Source: `pinky/raw/newsletters/2026-09-08-midnight-dispatch.md`
+- Summary: September 8 midnight dispatch — an encouraging jobs report accompanies a threatened Bombardier ban, refinery-driven oil gains, a European commercial-launch milestone, factored legacy CA keys, Jellyfin 12.0, a narrowly mixed but dispersed close, and final Tour de France results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-08-midnight.md` (new); entity pages `canada`, `iran`, `jellyfin`, `nvidia`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `tariff-policy`, `risk-off-market-rotation`, `cryptographic-agility` (new); `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Trade, war, crash, launch, cryptographic, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-07] ingest | Evening Brief — Monday, September 7, 2026
 - Source: `pinky/raw/newsletters/2026-09-07-evening-dispatch.md`
 - Summary: September 7 evening brief — encouraging labor news and Iranian retaliation threats accompany a fatal Amazon cargo-plane investigation, a European commercial-launch milestone, Linux trusting-trust research, WeatherNext 3, a narrowly mixed but dispersed close, and final Tour de France results.
