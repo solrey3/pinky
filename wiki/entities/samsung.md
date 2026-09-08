@@ -4,9 +4,9 @@ title: Samsung
 type: entity
 entity_type: organization
 created: 2026-06-23
-updated: 2026-07-30
+updated: 2026-09-08
 tags: [technology, semiconductors, foundry, transistors, stacked-fets, ai-hardware]
-source_count: 2
+source_count: 3
 ---
 
 # Samsung
@@ -14,6 +14,8 @@ source_count: 2
 Samsung is a technology and semiconductor company. In the newsletter graph, it is tracked where advanced chip fabrication, device platforms, and AI-hardware infrastructure intersect.
 
 ## Sources
+
+- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-evening.md) — Expands collaboration with ASML around next-generation semiconductor manufacturing, emphasizing the equipment and capital layer beneath AI hardware.
 
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Demonstrates 3D stacked FETs with triple nanosheet channels at 42nm, keeping transistor architecture in the AI-infrastructure and semiconductor-scaling thread.
 - [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Reports record-setting profits, but shares still fail to satisfy investors, showing that semiconductor/AI hardware fundamentals are being sorted harshly.

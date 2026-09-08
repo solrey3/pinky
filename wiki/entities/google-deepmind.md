@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-30
 updated: 2026-09-08
 tags: [ai, robotics, google, research, deepmind, genomics]
-source_count: 8
+source_count: 9
 ---
 
 # Google DeepMind
@@ -14,6 +14,8 @@ source_count: 8
 Google's AI research lab. In the newsletter graph, Google DeepMind is an AI-capability anchor, especially when model advances move from language and software into embodied robotics.
 
 ## Sources
+
+- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-evening.md) — AlphaGenome Atlas remains a leading AI research item, extending model output into reusable genomics infrastructure.
 
 - [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-noon.md) — Releases AlphaGenome Atlas as reusable AI-supported genomics research infrastructure.
 

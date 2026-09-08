@@ -3,9 +3,9 @@ id: 2b7532a5-db8e-4f8a-b2ac-6688d7690c48
 title: Semiconductor Scaling
 type: concept
 created: 2026-06-23
-updated: 2026-08-07
+updated: 2026-09-08
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 48
+source_count: 49
 ---
 
 # Semiconductor Scaling
@@ -13,6 +13,8 @@ source_count: 48
 Semiconductor scaling is the continued improvement of chip density, performance, power efficiency, and manufacturing capability through transistor architecture, process-node engineering, packaging, and foundry execution. In the AI-infrastructure graph, it is the physical foundation beneath model training, inference, memory bandwidth, and data-center economics.
 
 ## Sources
+
+- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-evening.md) — Samsung and ASML expand next-generation manufacturing collaboration, showing that scaling depends on increasingly expensive lithography equipment and foundry execution.
 
 - [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — AMD’s planned Taalas acquisition extends the push toward etching models into specialized inference silicon.
 

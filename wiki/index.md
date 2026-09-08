@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-08-evening](sources/newsletter-2026-09-08-evening.md) | Evening Brief — Tuesday, September 8, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, iran, ai-mathematics, genomics, semiconductors, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-08-noon](sources/newsletter-2026-09-08-noon.md) | Noon Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, gasoline, tariffs, commercial-space, genomics, public-health, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-08-daytime](sources/newsletter-2026-09-08-daytime.md) | Morning Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, iran, tariffs, commercial-space, cryptography, public-health, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-08-midnight](sources/newsletter-2026-09-08-midnight.md) | Midnight Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, iran, tariffs, commercial-space, cryptography, jellyfin, cycling, baseball, wrestling] | 2026-09-08 |
@@ -954,7 +955,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [U.S. Treasury](entities/us-treasury.md) | organization | government, finance, currency, united-states, public-symbolism, bond-buybacks | 5 |
 | [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 13 |
 | [U.S. Immigration and Customs Enforcement](entities/us-immigration-and-customs-enforcement.md) | organization | government, immigration, enforcement, ice, civil-liberties, united-states | 10 |
-| [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy | 91 |
+| [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy | 93 |
 | [Jordan](entities/jordan.md) | place | jordan, middle-east, military, geopolitics, united-states, iran | 4 |
 | [Iraq](entities/iraq.md) | place | iraq, middle-east, military, geopolitics, united-states, iran | 1 |
 | [Israel](entities/israel.md) | place | israel, geopolitics, middle-east, foreign-policy, aid, united-states, hamas, diplomacy | 5 |
@@ -1147,8 +1148,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Mauricio Pochettino](entities/mauricio-pochettino.md) | person | soccer, usmnt, manager, fifa, sports | 1 |
 | [UEFA](entities/uefa.md) | organization | soccer, europe, governance, fifa, world-cup | 5 |
 | [Arsene Wenger](entities/arsene-wenger.md) | person | soccer, fifa, governance | 1 |
-| [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 63 |
-| [Matthew Brennan](entities/matthew-brennan.md) | person | cycling, vuelta-a-espana, stage-winner, sports | 1 |
+| [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 64 |
+| [Matthew Brennan](entities/matthew-brennan.md) | person | cycling, vuelta-a-espana, stage-winner, sports | 2 |
 | [Sigrid Haugset](entities/sigrid-haugset.md) | person | cycling, tour-de-france-femmes, sports | 1 |
 | [Tour de France Femmes](entities/tour-de-france-femmes.md) | other | cycling, womens-cycling, tour-de-france, sports | 15 |
 | [Marlen Reusser](entities/marlen-reusser.md) | person | cycling, tour-de-france-femmes, time-trial, sports | 3 |
@@ -1189,7 +1190,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Electronic Frontier Foundation](entities/electronic-frontier-foundation.md) | organization | privacy, digital-rights, civil-liberties, advocacy, security, ftc | 1 |
 | [Palantir](entities/palantir.md) | organization | technology, data-platforms, ai, surveillance, procurement, sovereignty | 3 |
 | [Google](entities/google.md) | organization | technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store | 46 |
-| [Google DeepMind](entities/google-deepmind.md) | organization | ai, robotics, google, research, deepmind, genomics | 8 |
+| [Google DeepMind](entities/google-deepmind.md) | organization | ai, robotics, google, research, deepmind, genomics | 9 |
 | [Hugging Face](entities/hugging-face.md) | organization | ai, open-source, model-hub, evaluation, security, models | 19 |
 | [JFrog](entities/jfrog.md) | organization | cybersecurity, software-supply-chain, vulnerability-research, ai-security | 1 |
 | [Epic Games](entities/epic-games.md) | organization | gaming, app-stores, antitrust, android, platform-control | 1 |
@@ -1215,7 +1216,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Stoke Space](entities/stoke-space.md) | organization | space, launch, rockets, commercial-space | 1 |
 | [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports | 15 |
 | [Milwaukee Bucks](entities/milwaukee-bucks.md) | organization | nba, basketball, milwaukee, giannis-antetokounmpo | 1 |
-| [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control | 35 |
+| [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control, mathematics | 39 |
 | [xAI](entities/xai.md) | organization | ai, llm, frontier-models, grok, elon-musk | 5 |
 | [Thinking Machines Lab](entities/thinking-machines-lab.md) | organization | ai, open-weights, llm, model-release, developer-tools | 2 |
 | [OpenAI Codex](entities/openai-codex.md) | product | ai, coding-agent, developer-tools, openai, reliability, codex | 3 |
@@ -1241,7 +1242,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Carvana](entities/carvana.md) | organization | automotive, retail, earnings, guidance | 1 |
 | [Starbucks](entities/starbucks.md) | organization | retail, coffee, earnings, consumer | 1 |
 | [Grok](entities/grok.md) | product | ai, llm, xai, content-safety, legal | 1 |
-| [Samsung](entities/samsung.md) | organization | technology, semiconductors, foundry, transistors, stacked-fets, ai-hardware | 2 |
+| [Samsung](entities/samsung.md) | organization | technology, semiconductors, foundry, transistors, stacked-fets, ai-hardware | 3 |
 | [SQLite](entities/sqlite.md) | product | database, sqlite, embedded-database, wal, reliability, formal-methods, tla-plus, ai-security | 8 |
 | [South Korea](entities/south-korea.md) | place | country, south-korea, semiconductors, memory-chips, robotics, industrial-policy | 1 |
 | [SpaceX](entities/spacex.md) | organization | space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone | 13 |
@@ -1262,7 +1263,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Toronto Maple Leafs](entities/toronto-maple-leafs.md) | organization | nhl, hockey, toronto-maple-leafs, front-office, sports | 2 |
 | [Hayley Wickenheiser](entities/hayley-wickenheiser.md) | person | hockey, nhl, toronto-maple-leafs, front-office, sports | 2 |
 | [Tim Merlier](entities/tim-merlier.md) | person | cycling, tour-de-france, belgium, sprinting, sports | 3 |
-| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 155 |
+| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 156 |
 | [Markel Beloki](entities/markel-beloki.md) | person | cycling, tour-de-l-ain, sports | 1 |
 
 | [Alphabet](entities/alphabet.md) | organization | technology, ai, google, big-tech, credit-quality, markets | 3 |
@@ -1662,13 +1663,13 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 264 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 265 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 6 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
 | ["Security & Privacy Toolkit"](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed] | 112 |
 | [Surveillance Pricing](concepts/surveillance-pricing.md) | [privacy, consumer-protection, pricing, retail, surveillance, new-jersey] | 1 |
-| [Semiconductor Scaling](concepts/semiconductor-scaling.md) | [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation] | 46 |
+| [Semiconductor Scaling](concepts/semiconductor-scaling.md) | [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation] | 49 |
 | [Sovereign AI](concepts/sovereign-ai.md) | [ai, sovereignty, open-weights, model-governance, infrastructure, national-strategy, access-control] | 9 |
 | [Statistical Privacy](concepts/statistical-privacy.md) | [statistics, privacy, public-data, census, disclosure-avoidance, governance] | 2 |
 | [Self-Reliance](concepts/self-reliance.md) | [individualism, philosophy, transcendentalism, nonconformity, america, identity] | 2 |
