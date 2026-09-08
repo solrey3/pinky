@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-08-noon](sources/newsletter-2026-09-08-noon.md) | Noon Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, gasoline, tariffs, commercial-space, genomics, public-health, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-08-daytime](sources/newsletter-2026-09-08-daytime.md) | Morning Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, iran, tariffs, commercial-space, cryptography, public-health, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-08-midnight](sources/newsletter-2026-09-08-midnight.md) | Midnight Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, iran, tariffs, commercial-space, cryptography, jellyfin, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-07-evening](sources/newsletter-2026-09-07-evening.md) | Evening Brief — Monday, September 7, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, labor-market, iran, commercial-space, software-supply-chain, ai-weather-forecasting, cycling, baseball, wrestling] | 2026-09-07 |
@@ -1146,7 +1147,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Mauricio Pochettino](entities/mauricio-pochettino.md) | person | soccer, usmnt, manager, fifa, sports | 1 |
 | [UEFA](entities/uefa.md) | organization | soccer, europe, governance, fifa, world-cup | 5 |
 | [Arsene Wenger](entities/arsene-wenger.md) | person | soccer, fifa, governance | 1 |
-| [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 61 |
+| [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 63 |
+| [Matthew Brennan](entities/matthew-brennan.md) | person | cycling, vuelta-a-espana, stage-winner, sports | 1 |
 | [Sigrid Haugset](entities/sigrid-haugset.md) | person | cycling, tour-de-france-femmes, sports | 1 |
 | [Tour de France Femmes](entities/tour-de-france-femmes.md) | other | cycling, womens-cycling, tour-de-france, sports | 15 |
 | [Marlen Reusser](entities/marlen-reusser.md) | person | cycling, tour-de-france-femmes, time-trial, sports | 3 |
@@ -1187,7 +1189,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Electronic Frontier Foundation](entities/electronic-frontier-foundation.md) | organization | privacy, digital-rights, civil-liberties, advocacy, security, ftc | 1 |
 | [Palantir](entities/palantir.md) | organization | technology, data-platforms, ai, surveillance, procurement, sovereignty | 3 |
 | [Google](entities/google.md) | organization | technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store | 46 |
-| [Google DeepMind](entities/google-deepmind.md) | organization | ai, robotics, google, research, deepmind | 5 |
+| [Google DeepMind](entities/google-deepmind.md) | organization | ai, robotics, google, research, deepmind, genomics | 8 |
 | [Hugging Face](entities/hugging-face.md) | organization | ai, open-source, model-hub, evaluation, security, models | 19 |
 | [JFrog](entities/jfrog.md) | organization | cybersecurity, software-supply-chain, vulnerability-research, ai-security | 1 |
 | [Epic Games](entities/epic-games.md) | organization | gaming, app-stores, antitrust, android, platform-control | 1 |
@@ -1209,7 +1211,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Warner Bros. Discovery](entities/warner-bros-discovery.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 6 |
 | [Plex](entities/plex.md) | product | media, streaming, self-hosting, subscriptions, platform | 1 |
 | [PlayStation](entities/playstation.md) | product | gaming, console, sony, digital-distribution, physical-media, platform | 2 |
-| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets | 144 |
+| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets | 146 |
+| [Stoke Space](entities/stoke-space.md) | organization | space, launch, rockets, commercial-space | 1 |
 | [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports | 15 |
 | [Milwaukee Bucks](entities/milwaukee-bucks.md) | organization | nba, basketball, milwaukee, giannis-antetokounmpo | 1 |
 | [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control | 35 |
@@ -1259,7 +1262,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Toronto Maple Leafs](entities/toronto-maple-leafs.md) | organization | nhl, hockey, toronto-maple-leafs, front-office, sports | 2 |
 | [Hayley Wickenheiser](entities/hayley-wickenheiser.md) | person | hockey, nhl, toronto-maple-leafs, front-office, sports | 2 |
 | [Tim Merlier](entities/tim-merlier.md) | person | cycling, tour-de-france, belgium, sprinting, sports | 3 |
-| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 153 |
+| [Tadej Pogacar](entities/tadej-pogacar.md) | person | cycling, tour-de-france, slovenia, general-classification, sports | 155 |
 | [Markel Beloki](entities/markel-beloki.md) | person | cycling, tour-de-l-ain, sports | 1 |
 
 | [Alphabet](entities/alphabet.md) | organization | technology, ai, google, big-tech, credit-quality, markets | 3 |
@@ -1561,6 +1564,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | --- | --- | --- |
 | [Ghost Job Listings](concepts/ghost-job-listings.md) | labor, hiring, transparency, job-search, regulation | 4 |
 | [Browser Fingerprinting](concepts/browser-fingerprinting.md) | privacy, browsers, tracking, webaudio, surveillance | 1 |
+| [Cancer Prevention](concepts/cancer-prevention.md) | public-health, cancer, prevention, epidemiology, risk-factors | 1 |
 | [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 4 |
 | [Workplace Data Privacy](concepts/workplace-data-privacy.md) | privacy, employment, data-governance, surveillance, consent | 1 |
 | [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 1 |
@@ -1658,7 +1662,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 262 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 264 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 6 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
@@ -1673,7 +1677,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Subscription Dark Patterns](concepts/subscription-dark-patterns.md) | [consumer-protection, subscriptions, dark-patterns, platform-design, regulation, privacy, digital-services] | 4 |
 | [Synthetic Biology](concepts/synthetic-biology.md) | [biology, engineering, biotechnology, synthetic-cells, science, research] | 6 |
 | [Tao and Wu Wei](concepts/tao-and-wu-wei.md) | [philosophy, taoism, spirituality, non-action, simplicity, natural-order] | 2 |
-| [Tariff Policy](concepts/tariff-policy.md) | [trade, tariffs, section-301, section-338, economic-policy, supply-chains, inflation, executive-power, credibility] | 40 |
+| [Tariff Policy](concepts/tariff-policy.md) | [trade, tariffs, section-301, section-338, economic-policy, supply-chains, inflation, executive-power, credibility] | 42 |
 | [Terminal-Centric Workflow](concepts/terminal-centric-workflow.md) | [cli, terminal, workflow, productivity, linux, tools] | 14 |
 | [Developer Tool Trust](concepts/developer-tool-trust.md) | developer-tools, trust, software-engineering, workflow, provenance | 6 |
 | [Token Relay Fraud](concepts/token-relay-fraud.md) | [security, fraud, tokens, identity, api-abuse, ai] | 1 |

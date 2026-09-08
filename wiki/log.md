@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-08] ingest | Noon Dispatch — Tuesday, September 8, 2026
+- Source: `pinky/raw/newsletters/2026-09-08-noon-dispatch.md`
+- Summary: September 8 noon dispatch — record Labor Day gasoline prices accompany a projected cancer surge, AlphaGenome Atlas, Stoke Space launch plans, a semiconductor-led but dispersed market, Matthew Brennan's fourth Vuelta stage win, and final Tour de France results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-08-noon.md` (new); entity pages `stoke-space` (new), `google-deepmind`, `nvidia`, `matthew-brennan` (new), `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `cancer-prevention` (new), `tariff-policy`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Economic, crash, election, health, product, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-08] ingest | Morning Dispatch — Tuesday, September 8, 2026
 - Source: `pinky/raw/newsletters/2026-09-08-daytime-dispatch.md`
 - Summary: September 8 morning dispatch — encouraging labor news accompanies surging pediatric GLP-1 use, a threatened Bombardier ban, Iran-war fuel pressure, a European commercial-launch milestone, factored legacy CA keys, a narrowly mixed but dispersed close, and final Tour de France results.
