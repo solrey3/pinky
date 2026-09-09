@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-09-noon](sources/newsletter-2026-09-09-noon.md) | Noon Dispatch — Wednesday, September 9, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, tariffs, ai-mathematics, mental-health-ai, privacy, local-ai, cycling, baseball, wrestling] | 2026-09-09 |
 | [newsletter-2026-09-09-daytime](sources/newsletter-2026-09-09-daytime.md) | Morning Dispatch — Wednesday, September 9, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, tariffs, ai-mathematics, agentic-ai, surveillance, privacy, cycling, baseball, wrestling] | 2026-09-09 |
 | [newsletter-2026-09-09-midnight](sources/newsletter-2026-09-09-midnight.md) | Midnight Dispatch — Wednesday, September 9, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, tariffs, ai-mathematics, agentic-ai, privacy, cycling, baseball, wrestling] | 2026-09-09 |
 | [newsletter-2026-09-08-evening](sources/newsletter-2026-09-08-evening.md) | Evening Brief — Tuesday, September 8, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, iran, ai-mathematics, genomics, semiconductors, cycling, baseball, wrestling] | 2026-09-08 |
@@ -910,7 +911,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [San Francisco](entities/san-francisco.md) | place | san-francisco, california, platform-regulation, privacy, ai-abuse | 1 |
 | [Ali Khamenei](entities/ali-khamenei.md) | person | iran, geopolitics, diplomacy | 1 |
 | [Texas](entities/texas.md) | place | texas, weather, flooding, disaster-response, united-states | 4 |
-| [Canada](entities/canada.md) | place | canada, geopolitics, trade, wildfire-smoke, tariffs, north-america | 25 |
+| [Canada](entities/canada.md) | place | canada, geopolitics, trade, wildfire-smoke, tariffs, north-america | 26 |
 | [Toms River](entities/toms-river.md) | place | new-jersey, shore, weather | 124 |
 | [Makati](entities/makati.md) | place | philippines, metro-manila, weather | 124 |
 | [France](entities/france.md) | place | france, europe, regulation, social-media, age-verification | 4 |
@@ -1151,7 +1152,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [UEFA](entities/uefa.md) | organization | soccer, europe, governance, fifa, world-cup | 5 |
 | [Arsene Wenger](entities/arsene-wenger.md) | person | soccer, fifa, governance | 1 |
 | [Mathieu van der Poel](entities/mathieu-van-der-poel.md) | person | cycling, tour-de-france, stage-winner, sports | 66 |
-| [Matthew Brennan](entities/matthew-brennan.md) | person | cycling, vuelta-a-espana, stage-winner, sports | 4 |
+| [Matthew Brennan](entities/matthew-brennan.md) | person | cycling, vuelta-a-espana, stage-winner, sports | 5 |
 | [Sigrid Haugset](entities/sigrid-haugset.md) | person | cycling, tour-de-france-femmes, sports | 1 |
 | [Tour de France Femmes](entities/tour-de-france-femmes.md) | other | cycling, womens-cycling, tour-de-france, sports | 15 |
 | [Marlen Reusser](entities/marlen-reusser.md) | person | cycling, tour-de-france-femmes, time-trial, sports | 3 |
@@ -1218,7 +1219,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Stoke Space](entities/stoke-space.md) | organization | space, launch, rockets, commercial-space | 1 |
 | [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports | 15 |
 | [Milwaukee Bucks](entities/milwaukee-bucks.md) | organization | nba, basketball, milwaukee, giannis-antetokounmpo | 1 |
-| [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control, mathematics | 41 |
+| [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control, mathematics | 42 |
 | [xAI](entities/xai.md) | organization | ai, llm, frontier-models, grok, elon-musk | 5 |
 | [Thinking Machines Lab](entities/thinking-machines-lab.md) | organization | ai, open-weights, llm, model-release, developer-tools | 2 |
 | [OpenAI Codex](entities/openai-codex.md) | product | ai, coding-agent, developer-tools, openai, reliability, codex | 3 |
@@ -1415,7 +1416,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Shell](entities/shell.md) | organization | energy, oil, commodities, business, volatility | 1 |
 | [Moonshot AI](entities/moonshot-ai.md) | organization | ai, llm, open-weights | 2 |
 | [Vercel](entities/vercel.md) | organization | developer-tools, typescript, compiler | 1 |
-| [Ford](entities/ford.md) | organization | autos, manufacturing, customization | 3 |
+| [Ford](entities/ford.md) | organization | autos, manufacturing, customization, china, supply-chains | 4 |
 | [Stellantis](entities/stellantis.md) | organization | autos, business, earnings, north-america, jeep | 1 |
 | [TikTok](entities/tiktok.md) | organization | social-media, platforms, research-access | 1 |
 | [VNQ](entities/vnq.md) | product | etf, real-estate, reit, markets, vanguard | 9 |
@@ -1423,7 +1424,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [VXUS](entities/vxus.md) | product | etf, international-equities, markets, vanguard | 3 |
 | [SCHD](entities/schd.md) | product | etf, dividend, markets, schwab, defensive | 3 |
 | [ONEQ](entities/oneq.md) | product | etf, nasdaq, markets, fidelity, risk-assets | 3 |
-| [LG](entities/lg.md) | organization | hardware, monitors, windows-update, software-consent | 3 |
+| [LG](entities/lg.md) | organization | hardware, monitors, windows-update, software-consent | 4 |
 | [Windows Update](entities/windows-update.md) | product | microsoft, windows, software-update, supply-chain | 1 |
 | [GPT-5.6](entities/gpt-5-6.md) | product | ai, openai, math, optimization | 2 |
 | [Grafana OnCall](entities/grafana-oncall.md) | product | observability, devops, eol, incident-response | 1 |
@@ -1570,7 +1571,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Cancer Prevention](concepts/cancer-prevention.md) | public-health, cancer, prevention, epidemiology, risk-factors | 1 |
 | [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 4 |
 | [Workplace Data Privacy](concepts/workplace-data-privacy.md) | privacy, employment, data-governance, surveillance, consent | 1 |
-| [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 1 |
+| [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 9 |
 | [Prompt Injection](concepts/prompt-injection.md) | ai, security, prompt-injection, llm, legal-tech, untrusted-content | 1 |
 | [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 2 |
 | [Paid Family Leave](concepts/paid-family-leave.md) | labor, benefits, caregiving, worker-protection | 2 |
@@ -1665,7 +1666,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 267 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 268 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 6 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
@@ -1680,7 +1681,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Subscription Dark Patterns](concepts/subscription-dark-patterns.md) | [consumer-protection, subscriptions, dark-patterns, platform-design, regulation, privacy, digital-services] | 4 |
 | [Synthetic Biology](concepts/synthetic-biology.md) | [biology, engineering, biotechnology, synthetic-cells, science, research] | 6 |
 | [Tao and Wu Wei](concepts/tao-and-wu-wei.md) | [philosophy, taoism, spirituality, non-action, simplicity, natural-order] | 2 |
-| [Tariff Policy](concepts/tariff-policy.md) | [trade, tariffs, section-301, section-338, economic-policy, supply-chains, inflation, executive-power, credibility] | 44 |
+| [Tariff Policy](concepts/tariff-policy.md) | [trade, tariffs, section-301, section-338, economic-policy, supply-chains, inflation, executive-power, credibility] | 45 |
 | [Terminal-Centric Workflow](concepts/terminal-centric-workflow.md) | [cli, terminal, workflow, productivity, linux, tools] | 14 |
 | [Developer Tool Trust](concepts/developer-tool-trust.md) | developer-tools, trust, software-engineering, workflow, provenance | 6 |
 | [Token Relay Fraud](concepts/token-relay-fraud.md) | [security, fraud, tokens, identity, api-abuse, ai] | 1 |

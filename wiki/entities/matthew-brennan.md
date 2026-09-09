@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-09-08
 updated: 2026-09-09
 tags: [cycling, vuelta-a-espana, stage-winner, sports]
-source_count: 4
+source_count: 5
 ---
 
 # Matthew Brennan
@@ -14,6 +14,8 @@ source_count: 4
 British professional cyclist tracked here through Vuelta a España stage results.
 
 ## Sources
+
+- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — Wins Vuelta Stage 17 in Sevilla for his reported fifth stage victory, extending the earlier Stage 16/fourth-win record.
 
 - [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Wins Vuelta Stage 16 in a sprint for his fourth stage victory of the race.
 

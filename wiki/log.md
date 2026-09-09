@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-09] ingest | Noon Dispatch — Wednesday, September 9, 2026
+- Source: `pinky/raw/newsletters/2026-09-09-noon-dispatch.md`
+- Summary: September 9 noon dispatch — Ford's China-technology dispute, Canada's retaliatory tariffs, OpenAI's mathematical claim, a reported ChatGPT delusion-safety failure, LG network scanning, a semiconductor-led but dispersed market, and Matthew Brennan's fifth Vuelta stage win.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-09-noon.md` (new); entity pages `ford`, `openai`, `canada`, `lg`, `matthew-brennan`; concept pages `mental-health-chatbot-safety`, `tariff-policy`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Mathematical, trade, product, behavioral-health, privacy, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-09] ingest | Morning Dispatch — Wednesday, September 9, 2026
 - Source: `pinky/raw/newsletters/2026-09-09-daytime-dispatch.md`
 - Summary: September 9 morning dispatch — reciprocal U.S.–Canada tariffs, OpenAI research claims, bipartisan license-camera concern, Meta's Muse agent, LG network scanning, a semiconductor-led but dispersed market, Matthew Brennan's fourth Vuelta stage win, and final Tour results.

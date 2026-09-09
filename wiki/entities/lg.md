@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-18
 updated: 2026-09-09
 tags: [hardware, monitors, windows-update, software-consent]
-source_count: 3
+source_count: 4
 ---
 
 # LG
@@ -14,6 +14,8 @@ source_count: 3
 LG is cited for monitor software reportedly installed through Windows Update without user consent.
 
 ## Sources
+
+- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — A television is demonstrated scanning its local network for third-party devices, reinforcing discovery-transparency and consumer-consent concerns.
 
 - [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — A television is demonstrated scanning its local network for third-party devices, reinforcing discovery-transparency and consumer privacy concerns.
 
