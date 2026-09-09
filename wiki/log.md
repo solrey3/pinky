@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-09] ingest | Evening Brief — Wednesday, September 9, 2026
+- Source: `pinky/raw/newsletters/2026-09-09-evening-dispatch.md`
+- Summary: September 9 evening brief — Apple's foldable iPhone and Siri updates, Canada's active retaliation, frontier-model copying allegations, reconsidered data-center incentives, an oil-and-chip-led dispersed market, and Matthew Brennan's fifth Vuelta stage win.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-09-evening.md` (new); entity pages `apple`, `canada`, `iran`, `matthew-brennan`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `ai-model-capability-extraction`, `tariff-policy`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Product, acquisition, cybersecurity, trade, surveillance, war, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-09] ingest | Noon Dispatch — Wednesday, September 9, 2026
 - Source: `pinky/raw/newsletters/2026-09-09-noon-dispatch.md`
 - Summary: September 9 noon dispatch — Ford's China-technology dispute, Canada's retaliatory tariffs, OpenAI's mathematical claim, a reported ChatGPT delusion-safety failure, LG network scanning, a semiconductor-led but dispersed market, and Matthew Brennan's fifth Vuelta stage win.

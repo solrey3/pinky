@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-17
 updated: 2026-09-09
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 26
+source_count: 27
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 26
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-evening.md) — Its $20 billion retaliatory tariffs remain in force as the bilateral dispute sustains aerospace and consumer-cost exposure.
 
 - [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — Its $20 billion retaliatory tariffs take effect as the bilateral trade dispute expands into aerospace and consumer-cost exposure.
 
