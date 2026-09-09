@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-09-midnight](sources/newsletter-2026-09-09-midnight.md) | Midnight Dispatch — Wednesday, September 9, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, tariffs, ai-mathematics, agentic-ai, privacy, cycling, baseball, wrestling] | 2026-09-09 |
 | [newsletter-2026-09-08-evening](sources/newsletter-2026-09-08-evening.md) | Evening Brief — Tuesday, September 8, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, iran, ai-mathematics, genomics, semiconductors, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-08-noon](sources/newsletter-2026-09-08-noon.md) | Noon Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, gasoline, tariffs, commercial-space, genomics, public-health, cycling, baseball, wrestling] | 2026-09-08 |
 | [newsletter-2026-09-08-daytime](sources/newsletter-2026-09-08-daytime.md) | Morning Dispatch — Tuesday, September 8, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, iran, tariffs, commercial-space, cryptography, public-health, cycling, baseball, wrestling] | 2026-09-08 |

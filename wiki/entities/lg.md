@@ -4,9 +4,9 @@ title: LG
 type: entity
 entity_type: organization
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-09-09
 tags: [hardware, monitors, windows-update, software-consent]
-source_count: 1
+source_count: 2
 ---
 
 # LG
@@ -14,6 +14,8 @@ source_count: 1
 LG is cited for monitor software reportedly installed through Windows Update without user consent.
 
 ## Sources
+
+- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — An LG television is demonstrated scanning its local network for third-party devices, raising discovery-transparency and consumer privacy concerns.
 
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — LG is cited for monitor software reportedly installed through Windows Update without user consent.
 

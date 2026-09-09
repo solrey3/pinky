@@ -3,9 +3,9 @@ id: 6e82360a-fc59-4f2e-817e-3e3721216c69
 title: Agentic Access Control
 type: concept
 created: 2026-06-20
-updated: 2026-08-28
+updated: 2026-09-09
 tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
-source_count: 22
+source_count: 23
 ---
 
 # Agentic Access Control
@@ -13,6 +13,8 @@ source_count: 22
 Agentic access control is the practice of treating AI agents as explicit security principals: scoped identities with temporary credentials, least-privilege permissions, auditable actions, expiration, and revocation. The core shift is from “an agent uses my account” to “an agent receives a bounded identity for a bounded job.”
 
 ## Sources
+
+- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — Meta's Muse personal agent extends least-privilege, audit, consent, and revocation requirements into everyday personal workflows.
 
 - [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-noon.md) — A proposed physical-world agent hardware standard extends least privilege, override, fail-safe, and audit requirements into machines and sensors.
 
