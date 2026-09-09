@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-09] ingest | Morning Dispatch — Wednesday, September 9, 2026
+- Source: `pinky/raw/newsletters/2026-09-09-daytime-dispatch.md`
+- Summary: September 9 morning dispatch — reciprocal U.S.–Canada tariffs, OpenAI research claims, bipartisan license-camera concern, Meta's Muse agent, LG network scanning, a semiconductor-led but dispersed market, Matthew Brennan's fourth Vuelta stage win, and final Tour results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-09-daytime.md` (new); entity pages `openai`, `meta`, `lg`, `canada`, `matthew-brennan`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `agentic-access-control`, `automated-license-plate-reader-surveillance`, `tariff-policy`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Military, mathematical, trade, privacy, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-09] ingest | Midnight Dispatch — Wednesday, September 9, 2026
 - Source: `pinky/raw/newsletters/2026-09-09-midnight-dispatch.md`
 - Summary: September 9 midnight dispatch — a reported OpenAI Navier–Stokes result, targeted U.S. restrictions on Canadian goods, Meta's Muse agent, LG smart-TV network scanning, a semiconductor-led but dispersed market, Matthew Brennan's fourth Vuelta stage win, and final Tour de France results.

@@ -3,9 +3,9 @@ id: dca61d73-4c10-43f9-8654-a4ed1438e749
 title: Automated License-Plate Reader Surveillance
 type: concept
 created: 2026-07-31
-updated: 2026-09-04
+updated: 2026-09-09
 tags: [surveillance, privacy, law-enforcement, alpr, data-quality, access-control]
-source_count: 27
+source_count: 28
 ---
 
 # Automated License-Plate Reader Surveillance
@@ -13,6 +13,8 @@ source_count: 27
 Automated license-plate reader surveillance uses cameras and OCR systems to convert vehicle movements into searchable records. Its value depends on read accuracy, retention rules, access logs, and penalties for misuse.
 
 ## Sources
+
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Conservative Republican concern shows ALPR privacy objections crossing partisan lines while retention, access, audit, and misuse controls remain unresolved.
 
 - [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Continued community resistance shows that network legitimacy depends on procurement, retention, access, audit, and misuse controls.
 

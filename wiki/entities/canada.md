@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-17
 updated: 2026-09-09
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 24
+source_count: 25
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 24
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Its $20 billion retaliatory tariffs take effect as U.S. restrictions target Canadian dairy, motorcycles, and alcohol.
 
 - [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — New U.S. restrictions target Canadian dairy, motorcycles, and alcoholic beverages while trade escalation pressures Bombardier shares.
 
