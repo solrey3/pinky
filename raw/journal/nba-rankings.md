@@ -1,32 +1,32 @@
 # NBA Rankings
-date: 2026-06-14
+date: 2026-09-09
 tags: nba, basketball, rankings, personal
 
 ## Pyramid
 
 1. Jordan #Tier1
 1. Lebron
-1. Kareem Abdul-Jabbar #Tier2
-1. Bill Russell
-1. Kobe
-1. Steph
+1. Bill Russell #Tier2
+1. Kareem Abdul-Jabbar
 1. Magic #Tier3
 1. Bird
-1. Wilt
-1. Hakeem
+1. Kobe
+1. Steph
 1. Shaq
+1. Wilt
+1. Dr. J
+1. Hakeem
 1. Tim Duncan
-1. Kevin Durant #Tier4
+1. Moses Malone #Tier4
+1. Kevin Durant
 1. Jerry West
 1. Oscar Robertson
-1. Moses Malone
-1. Dr. J
-1. Kevin Garnett
-1. Dirk
-1. Dwayne Wade #Tier5
 1. Isaiah Thomas
-1. Nikola Jokic
+1. Dwayne Wade #Tier5
 1. Kawhi Leonard
+1. Kevin Garnett
+1. Nikola Jokic
+1. Dirk
 1. Giannis
 1. John Havlicek
 1. Scottie Pippen
@@ -40,13 +40,13 @@ tags: nba, basketball, rankings, personal
 1. Bob Pettit
 1. Bob Cousy
 1. Jalen Brunson
-1. Rick Barry
 1. Bill Walton
 1. Willis Reed
 1. Kyrie Irving
 1. Jason Kidd
-1. John Stockton
 1. Paul Pierce
+1. Rick Barry
+1. John Stockton
 1. Victor Wembanyama
 1. Allen Iverson
 1. James Harden
@@ -82,6 +82,7 @@ tags: nba, basketball, rankings, personal
 1. Jimmy Butler
 1. Dwight Howard
 1. Karl-Anthony Towns
+1. Paul George
 1. Earl Monroe
 1. Damian Lillard
 1. Tyrese Haliburton
@@ -97,20 +98,19 @@ tags: nba, basketball, rankings, personal
 1. Pete Maravich
 1. Rasheed Wallace
 1. Adrian Dantley
-1. OG Anunoby
 1. David Thompson
 1. Lenny Wilkens
-1. Paul George
 1. Chris Webber
 1. Sidney Moncrief
 1. Artis Gilmore
 1. Klay Thompson
+1. OG Anunoby
 1. Manu Ginóbili
-1. Tim Hardaway
 1. Tony Parker
 1. Joe Dumars
-1. Chris Mullin
+1. Tim Hardaway
 1. Mitch Richmond
+1. Chris Mullin
 
 ## Too Old School For Me
 
