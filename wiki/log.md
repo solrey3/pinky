@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-10] ingest | Noon Dispatch — Thursday, September 10, 2026
+- Source: `pinky/raw/newsletters/2026-09-10-noon-dispatch.md`
+- Summary: September 10 noon dispatch — disputed Iran aircraft-damage reports, Apple's foldable iPhone, shared exploit-kit adoption, Microsoft's Tier-1 Rust status, broad market losses under oil and long-yield pressure, and Stefan Küng's Vuelta time-trial win.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-10-noon.md` (new); entity pages `apple`, `iran`, `microsoft`, `matthew-brennan`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `software-supply-chain-security`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, product, cybersecurity, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-10] ingest | Morning Dispatch — Thursday, September 10, 2026
 - Source: `pinky/raw/newsletters/2026-09-10-daytime-dispatch.md`
 - Summary: September 10 morning dispatch — Trump's midterm and dividend pitches, expected ECB tightening, Apple's foldable iPhone Duo, frontier-model copying allegations, shared exploit-kit adoption, an oil-and-chip-led dispersed market, and Matthew Brennan's fifth Vuelta stage win.
