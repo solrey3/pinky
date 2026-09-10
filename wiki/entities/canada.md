@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-17
 updated: 2026-09-10
 tags: [canada, geopolitics, trade, wildfire-smoke, tariffs, north-america]
-source_count: 28
+source_count: 29
 ---
 
 # Canada
@@ -14,6 +14,8 @@ source_count: 28
 Canada is tracked here as a North American policy and trade counterpart when U.S. domestic impacts become cross-border disputes.
 
 ## Sources
+
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — A reported military agreement with Ukraine broadens Canada's current role from trade retaliation into European defense support.
 
 - [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — Its $20 billion retaliatory tariffs are in effect, sustaining reciprocal escalation and targeted aerospace exposure.
 

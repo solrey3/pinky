@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-09-10
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai]
-source_count: 26
+source_count: 27
 ---
 
 # Apple
@@ -14,6 +14,8 @@ source_count: 26
 American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, through architecture-transition history from PowerPC to Intel to Apple Silicon, and through consumer-device security updates.
 
 ## Sources
+
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — The foldable iPhone remains the leading consumer-device story, with pricing tolerance central to the market response.
 
 - [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-noon.md) — The foldable iPhone remains the lead consumer-technology product story.
 

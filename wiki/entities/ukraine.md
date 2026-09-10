@@ -4,9 +4,9 @@ title: Ukraine
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-09-07
+updated: 2026-09-10
 tags: [ukraine, geopolitics, war, russia, europe, security, diplomacy]
-source_count: 18
+source_count: 19
 ---
 
 # Ukraine
@@ -14,6 +14,8 @@ source_count: 18
 Ukraine is a European state central to the continuing Russia-Ukraine war. In the newsletter graph, it functions as a geopolitical risk marker rather than a market ticker.
 
 ## Sources
+
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — Canada reportedly deepens military cooperation with Kyiv as Russian attacks escalate.
 
 - [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-daytime.md) — Renewed U.S.–Russia talks seek an end to the war, though official optimism is not accompanied by agreement terms.
 
