@@ -4,9 +4,9 @@ title: Apple
 type: entity
 entity_type: organization
 created: 2026-06-08
-updated: 2026-09-09
+updated: 2026-09-10
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai]
-source_count: 23
+source_count: 24
 ---
 
 # Apple
@@ -14,6 +14,8 @@ source_count: 23
 American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, through architecture-transition history from PowerPC to Intel to Apple Silicon, and through consumer-device security updates.
 
 ## Sources
+
+- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — A roughly $2,000 foldable iPhone, new leadership, and new pricing remain the reported next product-cycle and succession agenda.
 
 - [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-evening.md) — Reportedly unveils a $2,000 foldable iPhone, AirPods 5, new leadership and pricing, and a Siri conversation-recap capability.
 
