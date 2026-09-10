@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-10] ingest | Morning Dispatch — Thursday, September 10, 2026
+- Source: `pinky/raw/newsletters/2026-09-10-daytime-dispatch.md`
+- Summary: September 10 morning dispatch — Trump's midterm and dividend pitches, expected ECB tightening, Apple's foldable iPhone Duo, frontier-model copying allegations, shared exploit-kit adoption, an oil-and-chip-led dispersed market, and Matthew Brennan's fifth Vuelta stage win.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-10-daytime.md` (new); entity pages `apple`, `matthew-brennan`, `mathieu-van-der-poel`, `tadej-pogacar`; concept pages `ai-model-capability-extraction`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, fiscal, product, cybersecurity, monetary-policy, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-10] ingest | Midnight Dispatch — Thursday, September 10, 2026
 - Source: `pinky/raw/newsletters/2026-09-10-midnight-dispatch.md`
 - Summary: September 10 midnight dispatch — Apple's reported foldable iPhone, Canada's active retaliation, frontier-model copying allegations, shared exploit-kit adoption, reconsidered data-center incentives, an oil-and-chip-led dispersed market, and Matthew Brennan's fifth Vuelta stage win.

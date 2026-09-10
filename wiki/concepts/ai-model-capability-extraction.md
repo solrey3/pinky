@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-25
 updated: 2026-09-10
 tags: [ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance]
-source_count: 8
+source_count: 9
 ---
 
 # AI Model Capability Extraction
@@ -13,6 +13,8 @@ source_count: 8
 AI model capability extraction is the attempt to copy, distill, infer, or reproduce a model's valuable capabilities by probing its outputs, reverse-engineering behavior, or using a system in ways that violate platform rules. It is adjacent to model theft, benchmark leakage, prompt extraction, and training-data reconstruction, but the core concern is practical capability transfer: taking what a frontier model can do and recreating it elsewhere without authorization.
 
 ## Sources
+
+- [2026-09-10: Morning Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-daytime.md) — Allegations against six Chinese AI firms frame frontier-model replication as a cybersecurity, provenance, and strategic-competition problem.
 
 - [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — Allegations against six Chinese AI firms keep model replication framed as a cybersecurity, provenance, and strategic-competition problem.
 
