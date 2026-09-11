@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-07-28
+updated: 2026-09-11
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 13
+source_count: 14
 ---
 
 # U.S. Supreme Court
@@ -14,6 +14,8 @@ source_count: 13
 The highest court in the United States. In the newsletter graph, it is tracked when Court rulings reshape constitutional boundaries, regulatory power, civil liberties, or institutional checks.
 
 ## Sources
+
+- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletter-2026-09-11-evening.md) — Halts a Trump-backed Missouri redistricting dispute, placing the Court in the election-administration and gerrymandering thread.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Rules that geofence warrants count as Fourth Amendment searches, adding a constitutional privacy boundary around location-data investigations.
 
