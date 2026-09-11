@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-09-10
+updated: 2026-09-11
 tags: [space, science, government, artemis, moon]
-source_count: 11
+source_count: 12
 ---
 
 # NASA
@@ -14,6 +14,8 @@ source_count: 11
 NASA is the United States civilian space agency. In the newsletter stream it appears through human-spaceflight and science-mission milestones rather than only launch-provider infrastructure.
 
 ## Sources
+
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Europe's decision to continue a Venus mission after NASA withdraws a radar instrument highlights partner and payload dependencies.
 
 - [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — Europe plans to continue a Venus mission after NASA withdraws a radar instrument, exposing international payload and mission-continuity dependencies.
 

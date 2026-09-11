@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-11] ingest | Morning Dispatch — Friday, September 11, 2026
+- Source: `pinky/raw/newsletters/2026-09-11-daytime-dispatch.md`
+- Summary: September 11 morning dispatch — 25th-anniversary remembrance, an Anthropic researcher's loss-of-control resignation, Iran missile-production concerns, Europe's continuation of a Venus mission, Shopify's return to native mobile development, broad market losses, a 7.16% WTI surge, and Stefan Küng's Vuelta time-trial win.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-11-daytime.md` (new); entity pages `anthropic`, `iran`, `nasa`, `shopify`, `wti`; concept pages `ai-model-safety-boundaries`, `native-mobile-development`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, research, mission, software-architecture, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-10] ingest | Evening Brief — Thursday, September 10, 2026
 - Source: `pinky/raw/newsletters/2026-09-10-evening-dispatch.md`
 - Summary: September 10 evening brief — an Anthropic researcher's loss-of-control resignation, Apple's foldable iPhone, Canadian military support for Ukraine, NASA's Venus payload withdrawal, broad market losses, a 13.61% WTI surge, and Stefan Küng's Vuelta time-trial win.

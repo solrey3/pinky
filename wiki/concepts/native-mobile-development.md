@@ -5,7 +5,7 @@ type: concept
 created: 2026-09-11
 updated: 2026-09-11
 tags: [software-engineering, mobile, ios, android, swift, kotlin, react-native, architecture]
-source_count: 1
+source_count: 2
 ---
 
 # Native Mobile Development
@@ -13,6 +13,8 @@ source_count: 1
 Native mobile development builds applications with the primary languages, frameworks, and tooling of each target platform—for example, Swift on iOS and Kotlin on Android—rather than sharing most application code through a cross-platform runtime. It generally trades duplicated implementation effort for closer platform integration, more direct performance control, and fewer abstraction-layer constraints.
 
 ## Sources
+
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Shopify's native rewrite reinforces that shared-code savings must be weighed against platform fidelity, maintenance, and operating-system access.
 
 - [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — Shopify's reported migration from React Native back to Swift and Kotlin shows a large product team deciding that native control outweighs shared-code benefits.
 
