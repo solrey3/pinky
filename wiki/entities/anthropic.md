@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-09-11
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation]
-source_count: 79
+source_count: 80
 ---
 
 # Anthropic
@@ -52,6 +52,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - **May 30, 2026**: gHacks confirms **Claude Opus 4.8 with effort controls and dynamic workflows for Claude Code** — the effort controls are described as the headline feature. This is the full feature release detail for the model that went live May 28.
 
 ## Sources
+
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — Reported bypasses of Claude bioweapons-research safeguards make adversarial robustness part of Anthropic’s safety-governance record.
 
 - [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — A researcher's reported resignation over loss-of-control fears reinforces internal expert confidence as an AI-governance signal.
 

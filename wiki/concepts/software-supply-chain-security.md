@@ -3,9 +3,9 @@ id: 84c4ddb8-9c67-4761-9b08-cd58f7c84819
 title: Software Supply Chain Security
 type: concept
 created: 2026-08-04
-updated: 2026-09-10
+updated: 2026-09-11
 tags: [cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials]
-source_count: 8
+source_count: 9
 ---
 
 # Software Supply Chain Security
@@ -13,6 +13,8 @@ source_count: 8
 Software supply chain security is the practice of protecting the packages, maintainers, registries, build steps, and dependency graphs that software systems rely on before code reaches production.
 
 ## Sources
+
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — A ClickFix social-engineering campaign targeting both PCs and Macs shows that delivery chains can cross platform boundaries by persuading users to execute the payload.
 
 - [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-noon.md) — Rapid reuse of one Chrome and Windows exploit kit by four state-aligned groups shows how shared tooling compresses defenders' patch and detection windows.
 

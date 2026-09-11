@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-11] ingest | Noon Dispatch — Friday, September 11, 2026
+- Source: `pinky/raw/newsletters/2026-09-11-noon-dispatch.md`
+- Summary: September 11 noon dispatch — 25th-anniversary remembrance, reported Claude bioweapons-safeguard bypasses, cross-platform ClickFix malware, broad market losses, a 6.90% WTI surge, concentrated AMD and TSM strength, improving Oracle AI-cloud economics, and Eddie Dunbar’s Vuelta stage win.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-11-noon.md` (new); entity pages `anthropic`, `amd`, `oracle`, `wti`; concept pages `ai-model-safety-boundaries`, `software-supply-chain-security`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, biomedical, cybersecurity, market, research, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-11] ingest | Morning Dispatch — Friday, September 11, 2026
 - Source: `pinky/raw/newsletters/2026-09-11-daytime-dispatch.md`
 - Summary: September 11 morning dispatch — 25th-anniversary remembrance, an Anthropic researcher's loss-of-control resignation, Iran missile-production concerns, Europe's continuation of a Venus mission, Shopify's return to native mobile development, broad market losses, a 7.16% WTI surge, and Stefan Küng's Vuelta time-trial win.
