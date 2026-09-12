@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-12] ingest | Midnight Dispatch — Saturday, September 12, 2026
+- Source: `pinky/raw/newsletters/2026-09-12-midnight-dispatch.md`
+- Summary: September 12 midnight dispatch — steady inflation raises rate-hike expectations, Anthropic alleges Iranian military use of its model, broad indexes and ETFs fall, WTI jumps 7.48%, AMD surges 13.15%, and Eddie Dunbar wins Vuelta Stage 19.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-12-midnight.md` (new); entity pages `anthropic`, `iran`, `amd`, `wti`; concept pages `ai-model-safety-boundaries`, `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, economic, advertising, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-11] ingest | Evening Brief — Friday, September 11, 2026
 - Source: `pinky/raw/newsletters/2026-09-11-evening-dispatch.md`
 - Summary: September 11 evening brief — 25th-anniversary remembrance and declassified intelligence, election-law disputes, steady inflation increasing rate-hike expectations, broad market and ETF losses, WTI's 7.48% jump, AMD's concentrated strength, and Eddie Dunbar's Vuelta stage win.
