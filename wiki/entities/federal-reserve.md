@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-09-12
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 114
+source_count: 115
 ---
 
 # Federal Reserve
@@ -14,6 +14,8 @@ source_count: 114
 The central bank of the United States. In the newsletter graph, the Fed is tracked less as a generic rate-setting body and more as a market-structure actor: its rate targets, communications strategy, and guidance discipline affect how investors interpret incoming data.
 
 ## Sources
+
+- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-noon.md) — Steady August inflation strengthens expectations of renewed tightening while EFFR remains 3.63% inside the 3.50%–3.75% target range.
 
 - [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-daytime.md) — Steady August inflation drives market expectations of renewed tightening while EFFR remains 3.63% inside the 3.50%–3.75% target range.
 

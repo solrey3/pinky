@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-12] ingest | Noon Dispatch — Saturday, September 12, 2026
+- Source: `pinky/raw/newsletters/2026-09-12-noon-dispatch.md`
+- Summary: September 12 noon dispatch — steady inflation hardens rate-hike expectations, every tracked index and ETF falls, WTI reaches $100.05, AMD surges 13.15% while Nvidia declines, AI-risk warnings intensify, and Mikel Landa wins Vuelta Stage 20.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-12-noon.md` (new); entity pages `federal-reserve`, `nvidia`, `amd`, `wti`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. AI-risk, public-health, climate, political, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-12] ingest | Morning Dispatch — Saturday, September 12, 2026
 - Source: `pinky/raw/newsletters/2026-09-12-daytime-dispatch.md`
 - Summary: September 12 morning dispatch — steady inflation and record diesel raise rate-hike expectations, broad indexes and ETFs fall, WTI reaches $100.05, AMD surges 13.15%, the Supreme Court halts a Missouri redistricting dispute, and Eddie Dunbar wins Vuelta Stage 19.
