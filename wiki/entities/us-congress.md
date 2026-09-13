@@ -4,9 +4,9 @@ title: U.S. Congress
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-07-28
-tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy]
-source_count: 9
+updated: 2026-09-13
+tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight]
+source_count: 10
 ---
 
 # U.S. Congress
@@ -14,6 +14,8 @@ source_count: 9
 The U.S. Congress is tracked in the newsletter graph when legislative timing, oversight, war powers, fiscal policy, or regulatory coalitions shape the news cycle.
 
 ## Sources
+
+- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Research warnings and political advocacy increase pressure to move AI oversight toward the center of the legislative agenda.
 
 - [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Congress appears through a pre-recess crypto-bill deadline and bipartisan housing-bill coverage, tying legislative timing to market and affordability policy.
 

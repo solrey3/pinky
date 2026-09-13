@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-09-13
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 125
+source_count: 126
 ---
 
 # Monetary Policy Forward Guidance
@@ -13,6 +13,8 @@ source_count: 125
 A central-bank communication strategy that attempts to shape expectations by signaling likely future policy paths. Forward guidance can reduce uncertainty when credible, but it can also constrain policymakers or make markets overfit to official forecasts instead of current data.
 
 ## Sources
+
+- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Sticky inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
 
 - [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-daytime.md) — Steady inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
 

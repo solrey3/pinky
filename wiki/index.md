@@ -126,6 +126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-13-noon](sources/newsletter-2026-09-13-noon.md) | Noon Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, inflation, monetary-policy, ai-oversight, surveillance, robotics, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-daytime](sources/newsletter-2026-09-13-daytime.md) | Morning Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, inflation, monetary-policy, ai-safety, openai, robotics, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-midnight](sources/newsletter-2026-09-13-midnight.md) | Midnight Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, inflation, monetary-policy, ai-safety, openai, anthropic, robotics, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-12-evening](sources/newsletter-2026-09-12-evening.md) | Evening Brief — Saturday, September 12, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, inflation, monetary-policy, ai-safety, nvidia, robotics, cycling, baseball, wrestling] | 2026-09-12 |

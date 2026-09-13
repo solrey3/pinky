@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-13] ingest | Noon Dispatch — Sunday, September 13, 2026
+- Source: `pinky/raw/newsletters/2026-09-13-noon-dispatch.md`
+- Summary: September 13 noon dispatch — sticky inflation and $100 oil reinforce rate-hike risk, every tracked index and ETF declines, AMD surges 13.15%, Congress faces pressure for AI oversight, and connected-car surveillance raises privacy concerns.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-13-noon.md` (new); entity pages `us-congress`, `federal-reserve`, `amd`, `wti`; concept pages `ai-model-safety-boundaries`, `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, legal, economic, AI, privacy, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-13] ingest | Morning Dispatch — Sunday, September 13, 2026
 - Source: `pinky/raw/newsletters/2026-09-13-daytime-dispatch.md`
 - Summary: September 13 morning dispatch — steady inflation and $100 oil reinforce rate-hike risk, all tracked indexes and ETFs decline, AMD surges 13.15%, AI-agent strategic behavior raises safety concerns, and Mikel Landa wins Vuelta Stage 20.
