@@ -4,6 +4,18 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-13] ingest | Evening Brief — Sunday, September 13, 2026
+- Source: `pinky/raw/newsletters/2026-09-13-evening-dispatch.md`
+- Summary: September 13 evening brief — hot inflation and $100 oil reinforce rate-hike risk, every tracked index and ETF declines, AMD surges 13.15%, Congress faces pressure for AI oversight, and Enric Mas wins the Vuelta a España.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-13-evening.md` (new); entity pages `us-congress`, `federal-reserve`, `amd`, `wti`; concept pages `ai-model-safety-boundaries`, `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, legal, economic, AI, privacy, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
+## [2026-09-13] ingest | The Logic of Scientific Discovery — Wisdom Extracted
+- Source: `pinky/raw/books/The_Logic_of_Scientific_Discovery.md`
+- Summary: Popper reframes science as conjectures exposed to severe tests, replacing inductive verification with falsifiability, corroboration, and critical rationalism.
+- Pages touched: `pinky/wiki/sources/the-logic-of-scientific-discovery.md` (new); entity pages `karl-popper`, `david-hume`, `vienna-circle`; concept pages `falsifiability`, `demarcation-problem`, `problem-of-induction`, `critical-rationalism`, `hypothetico-deductive-method`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Book direct-ingest from synthesized reading notes; raw source is an extracted-wisdom note, not full text.
+
 ## [2026-09-13] ingest | Noon Dispatch — Sunday, September 13, 2026
 - Source: `pinky/raw/newsletters/2026-09-13-noon-dispatch.md`
 - Summary: September 13 noon dispatch — sticky inflation and $100 oil reinforce rate-hike risk, every tracked index and ETF declines, AMD surges 13.15%, Congress faces pressure for AI oversight, and connected-car surveillance raises privacy concerns.

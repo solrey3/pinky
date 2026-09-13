@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-09-13
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 116
+source_count: 117
 ---
 
 # Federal Reserve
@@ -14,6 +14,8 @@ source_count: 116
 The central bank of the United States. In the newsletter graph, the Fed is tracked less as a generic rate-setting body and more as a market-structure actor: its rate targets, communications strategy, and guidance discipline affect how investors interpret incoming data.
 
 ## Sources
+
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Hot inflation and $100 oil are interpreted as raising hike risk while EFFR remains 3.63% inside the 3.50%–3.75% target range.
 
 - [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Sticky inflation and $100 oil are interpreted as raising hike risk while EFFR remains 3.63% inside the 3.50%–3.75% target range.
 
