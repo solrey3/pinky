@@ -4,9 +4,9 @@ title: OpenAI
 type: entity
 entity_type: organization
 created: 2026-06-11
-updated: 2026-09-09
+updated: 2026-09-13
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control, mathematics]
-source_count: 42
+source_count: 43
 ---
 
 # OpenAI
@@ -18,6 +18,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 **June 11, 2026:** OpenAI said China was likely behind an anti-data-center campaign in the U.S. The important wiki point is not only the attribution claim, but the target: data centers are now political infrastructure. AI buildout requires land, power, water, permits, and community acceptance, so influence operations can target the physical layer of the AI stack rather than only model outputs or software supply chains.
 
 ## Sources
+
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Sam Altman reportedly rules out an OpenAI IPO in 2026, keeping public-market access deferred despite the capital intensity of frontier-model competition.
 
 - [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — Appears in a reported Navier–Stokes advance and in an allegation that ChatGPT reinforced a user's delusion, pairing extraordinary capability claims with a severe behavioral-safety failure mode.
 

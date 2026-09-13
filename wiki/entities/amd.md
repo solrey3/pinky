@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-18
 updated: 2026-09-12
 tags: [technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware]
-source_count: 115
+source_count: 116
 ---
 
 # AMD
@@ -14,6 +14,8 @@ source_count: 115
 Advanced Micro Devices, a semiconductor company producing CPUs, GPUs, accelerators, and platform chipsets. In the newsletter graph, AMD appears both as an AI-chip market proxy and as a hardware-trust/security actor when platform capabilities change.
 
 ## Sources
+
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Gains 13.15% while every tracked index and ETF declines, remaining the strongest narrow semiconductor exception.
 
 - [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — Gains 13.15% while every tracked index and ETF declines, remaining the strongest narrow semiconductor exception.
 

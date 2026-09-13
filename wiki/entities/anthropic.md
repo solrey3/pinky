@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-09-12
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation]
-source_count: 82
+source_count: 83
 ---
 
 # Anthropic
@@ -52,6 +52,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - **May 30, 2026**: gHacks confirms **Claude Opus 4.8 with effort controls and dynamic workflows for Claude Code** — the effort controls are described as the headline feature. This is the full feature release detail for the model that went live May 28.
 
 ## Sources
+
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Elon Musk reportedly backs Anthropic's call to slow AI development, broadening the appeal across rival camps without supplying a concrete coordination mechanism.
 
 - [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — The CEO's reported call to slow AI development shifts Anthropic's safety position from model guardrails toward industry-wide capability pacing and coordination.
 

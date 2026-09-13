@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-13] ingest | Midnight Dispatch — Sunday, September 13, 2026
+- Source: `pinky/raw/newsletters/2026-09-13-midnight-dispatch.md`
+- Summary: September 13 midnight dispatch — steady inflation hardens rate-hike expectations, all tracked indexes and ETFs fall, WTI reaches $100.05, AMD surges 13.15%, rival AI camps support slower development, and Mikel Landa wins Vuelta Stage 20.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-13-midnight.md` (new); entity pages `openai`, `anthropic`, `amd`, `wti`; concept pages `ai-model-safety-boundaries`, `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Geopolitical, economic, AI, market, injury, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.
+
 ## [2026-09-12] ingest | Evening Brief — Saturday, September 12, 2026
 - Source: `pinky/raw/newsletters/2026-09-12-evening-dispatch.md`
 - Summary: September 12 evening brief — steady inflation hardens rate-hike expectations, all tracked indexes and ETFs fall, WTI reaches $100.05, AMD surges 13.15% while Nvidia declines, Anthropic's CEO calls for slower AI development, and Mikel Landa wins Vuelta Stage 20.
