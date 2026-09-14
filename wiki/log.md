@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-14] ingest | Midnight Dispatch — Monday, September 14, 2026
+- Source: `pinky/raw/newsletters/2026-09-14-midnight-dispatch.md`
+- Summary: September 14 midnight dispatch — Pentagon leadership disruption and pressure on Ukraine's refinery strikes accompany broad equity and ETF losses, WTI's 7.54% jump, narrow AMD/TSM strength, connected-car privacy concerns, and major cycling, tennis, and wrestling results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-14-midnight.md` (new); entity pages `pentagon`, `ukraine`, `google`, `amd`, `wti`; concept pages `connected-car-surveillance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Flagged a contradiction with the September 13 evening brief over the AAA Mega Championship result. Political, military, technical, legal, market, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-13] ingest | Evening Brief — Sunday, September 13, 2026
 - Source: `pinky/raw/newsletters/2026-09-13-evening-dispatch.md`
 - Summary: September 13 evening brief — broad equity and ETF losses coincide with WTI's 10.62% surge, narrow AMD and TSM strength, shipping-lane risk, AI-mediated hiring concerns, connected-car surveillance, and Zverev's US Open title.

@@ -3,9 +3,9 @@ id: c139af1d-aac8-40d6-af86-f7bebbc51a41
 title: Connected-Car Surveillance
 type: concept
 created: 2026-09-13
-updated: 2026-09-13
+updated: 2026-09-14
 tags: [privacy, surveillance, vehicles, telematics, data-governance, mobility]
-source_count: 1
+source_count: 2
 ---
 
 # Connected-Car Surveillance
@@ -13,6 +13,8 @@ source_count: 1
 The collection, inference, transmission, and reuse of driver and passenger data by networked vehicles and their service ecosystems. Telematics, location history, cabin sensors, driving behavior, and account data can support safety and convenience while also enabling opaque profiling, third-party sharing, or government access.
 
 ## Sources
+
+- [2026-09-14: Midnight Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-midnight.md) — Repeats concern that European vehicle monitoring may foreshadow similar U.S. collection and governance disputes.
 
 - [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Reports privacy concerns around European connected-car monitoring and warns that similar technology may expand in the United States.
 
