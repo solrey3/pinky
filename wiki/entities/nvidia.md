@@ -17,7 +17,7 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 - [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Falls 7.89% as broad index and ETF losses place AI-chip exposure at the center of the lunch-hour risk-off move.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Falls 8.47%, the sharpest watched-stock decline, as broad index and ETF losses put AI-chip exposure at the center of the risk-off close.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Falls 8.42%, the sharpest watched-stock decline, as AI-slowdown concerns put concentrated AI-chip exposure at the center of the risk-off close.
 
 - [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — Is characterized as central infrastructure for AI compute allocation while NVDA falls 4.45% during a broad risk-off week.
 

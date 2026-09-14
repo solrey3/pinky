@@ -6,6 +6,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ## [2026-09-14] ingest | Evening Brief — Monday, September 14, 2026
 - Source: `pinky/raw/newsletters/2026-09-14-evening-dispatch.md`
+- Summary: September 14 evening brief — resistance to additional AI guardrails and U.S.–China competition sharpen the coordination problem, while broad equity and ETF losses, Nvidia’s 8.42% drop, WTI’s 6.08% surge, Apple platform releases, and major football, baseball, cycling, and wrestling results define the close.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-14-evening.md` (corrected); entity pages `apple`, `nvidia`, `wti`, `us-congress`; concept pages `ai-model-safety-boundaries`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Replaced a prior summary whose claims and market figures did not match the immutable raw dispatch. Political, geopolitical, AI, product, market, and sports claims remain subject to primary confirmation.
+
+## [2026-09-14] ingest | Evening Brief — Monday, September 14, 2026
+- Source: `pinky/raw/newsletters/2026-09-14-evening-dispatch.md`
 - Summary: September 14 evening brief — AI-development slowdown calls and judicial hallucination risk accompany broad equity and ETF losses, Nvidia's 8.47% drop, WTI's 7.66% surge, elevated Treasury rates, and major cycling, football, baseball, and wrestling results.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-14-evening.md` (new); entity pages `openai`, `anthropic`, `nvidia`, `wti`; concept pages `ai-model-safety-boundaries`, `risk-off-market-rotation`, `right-to-repair`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, legal, medical, AI, market, and sports claims remain subject to primary confirmation.

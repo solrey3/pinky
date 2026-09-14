@@ -17,7 +17,7 @@ West Texas Intermediate crude oil benchmark; tracked here as an energy, inflatio
 
 - [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Rises 7.23% to $102.99 amid supply pressure, reinforcing fuel, freight, and inflation risk.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Jumps 7.66% to $103.41 amid Middle East supply anxiety, increasing fuel, freight, and inflation pressure.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Jumps 6.08% to $101.89 amid Middle East supply anxiety, increasing fuel, freight, and inflation pressure.
 
 - [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Rises 7.05% to $102.82 as Hormuz closure and pipeline disruption reinforce supply, transport, and inflation risk.
 

@@ -132,7 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
-| [newsletter-2026-09-14-evening](sources/newsletter-2026-09-14-evening.md) | Evening Brief — Monday, September 14, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, ai-safety, judicial-ai, right-to-repair, measles, immigration, cycling, baseball, wrestling] | 2026-09-14 |
+| [newsletter-2026-09-14-evening](sources/newsletter-2026-09-14-evening.md) | Evening Brief — Monday, September 14, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, ai-safety, ai-governance, apple, cycling, baseball, wrestling] | 2026-09-14 |
 | [newsletter-2026-09-14-noon](sources/newsletter-2026-09-14-noon.md) | Noon Dispatch — Monday, September 14, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, ai-safety, right-to-repair, measles, hiring, cybersecurity, cycling, baseball, wrestling] | 2026-09-14 |
 | [newsletter-2026-09-14-daytime](sources/newsletter-2026-09-14-daytime.md) | Morning Dispatch — Monday, September 14, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, inflation, monetary-policy, ai-safety, defense-leadership, ukraine, shipping-lanes, cycling, baseball, wrestling] | 2026-09-14 |
 | [newsletter-2026-09-14-midnight](sources/newsletter-2026-09-14-midnight.md) | Midnight Dispatch — Monday, September 14, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, shipping-lanes, defense-leadership, ukraine, connected-cars, privacy, cryptography, cycling, baseball, wrestling] | 2026-09-14 |
@@ -1015,7 +1015,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
 | [Ro Khanna](entities/ro-khanna.md) | person | politics, congress, foreign-policy, west-bank, united-states | 2 |
 | [John Fetterman](entities/john-fetterman.md) | person | politics, senate, democratic-party, libertarian, united-states | 1 |
-| [U.S. Congress](entities/us-congress.md) | organization | government, congress, legislation, united-states, crypto-regulation, housing-policy | 9 |
+| [U.S. Congress](entities/us-congress.md) | organization | government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight | 11 |
 | [Lindsey Graham](entities/lindsey-graham.md) | person | politics, senate, republican-party, south-carolina, obituary | 5 |
 | [HHS Office of Inspector General](entities/hhs-office-of-inspector-general.md) | organization | hhs, inspector-general, healthcare, fraud | 1 |
 | [Space Development Agency](entities/space-development-agency.md) | organization | space, defense, pentagon, procurement, satellites, infrastructure | 5 |
@@ -1127,7 +1127,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 69 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 72 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1205,7 +1205,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware | 120 |
 | [Android](entities/android.md) | product | android, mobile, operating-system, google, app-stores, sideloading, security | 10 |
 | [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation | 79 |
-| [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai | 28 |
+| [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai | 29 |
 | [Apertus](entities/apertus.md) | product | ai, open-foundation-model, open-weights, sovereign-ai, model-governance | 2 |
 | [Asahi Linux](entities/asahi-linux.md) | product | linux, apple-silicon, macos, operating-systems, developer-tools | 1 |
 | [Deno](entities/deno.md) | product | developer-tools, javascript, typescript, runtime, desktop, application-runtime | 1 |
@@ -1246,7 +1246,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Warner Bros. Discovery](entities/warner-bros-discovery.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 6 |
 | [Plex](entities/plex.md) | product | media, streaming, self-hosting, subscriptions, platform | 1 |
 | [PlayStation](entities/playstation.md) | product | gaming, console, sony, digital-distribution, physical-media, platform | 2 |
-| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets | 146 |
+| [Nvidia](entities/nvidia.md) | organization | technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets | 150 |
 | [Stoke Space](entities/stoke-space.md) | organization | space, launch, rockets, commercial-space | 1 |
 | [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports | 15 |
 | [Milwaukee Bucks](entities/milwaukee-bucks.md) | organization | nba, basketball, milwaukee, giannis-antetokounmpo | 1 |

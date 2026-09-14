@@ -16,7 +16,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 - [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Every tracked index and ETF declines, led by a 2.61% Russell loss, while Nvidia falls 7.89%, WTI jumps 7.23%, and long yields remain near annual highs.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Every tracked index and ETF declines, led by a 2.91% Russell loss, while Nvidia falls 8.47%, WTI jumps 7.66%, long yields stay near annual highs, and Bitcoin plus selected stocks resist the selloff.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Every tracked index and ETF declines, led by a 2.80% Russell loss, while Nvidia falls 8.42%, WTI jumps 6.08%, long yields stay near annual highs, and Bitcoin plus selected stocks resist the selloff.
 
 - [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Every tracked index and ETF declines while WTI jumps 7.05%, long yields remain high, and AMD and TSM provide narrow semiconductor exceptions.
 

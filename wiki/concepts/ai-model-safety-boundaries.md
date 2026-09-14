@@ -16,7 +16,7 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 
 - [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Money-and-safety concerns extend governance beyond model guardrails toward industry pacing, shared thresholds, verification, and enforceable coordination.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Executive slowdown calls move safety governance upstream toward coordinated development pacing, while AI hallucinations in a judicial ruling show the downstream need for citation verification and human accountability.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — White House resistance, congressional concern, industry warnings, and U.S.–China competition show that frontier-AI safety depends on enforceable coordination, not provider guardrails alone.
 
 - [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Industry slowdown calls extend safety governance beyond model guardrails toward collective pacing, measurable thresholds, coordination, and enforcement.
 
