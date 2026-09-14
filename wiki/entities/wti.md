@@ -15,7 +15,7 @@ West Texas Intermediate crude oil benchmark; tracked here as an energy, inflatio
 
 ## Sources
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Surges 10.62% to $102.91 as threats to the Strait of Hormuz and Red Sea reinforce supply, transport, and inflation risk.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Surges 10.49% to $102.79 as threats to the Strait of Hormuz and Red Sea reinforce supply, transport, and inflation risk.
 
 - [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure ahead of the new week.
 

@@ -4,9 +4,9 @@ title: Pete Hegseth
 type: entity
 entity_type: person
 created: 2026-07-21
-updated: 2026-07-21
-tags: [politics, defense, pentagon, iran, congress]
-source_count: 1
+updated: 2026-09-13
+tags: [politics, defense, pentagon, iran, congress, navy]
+source_count: 2
 ---
 
 # Pete Hegseth
@@ -14,6 +14,8 @@ source_count: 1
 U.S. defense official tracked here through congressional testimony and Iran-related defense-policy coverage.
 
 ## Sources
+
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Reportedly blocked eight senior Navy officer promotions, placing him at the center of a Pentagon personnel dispute.
 
 - [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — U.S. defense official tracked here through congressional testimony and Iran-related defense-policy coverage.
 

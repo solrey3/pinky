@@ -132,7 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
-| [newsletter-2026-09-13-evening](sources/newsletter-2026-09-13-evening.md) | Evening Brief — Sunday, September 13, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, shipping-lanes, ai-hiring, connected-cars, privacy, tennis, cycling, baseball, wrestling] | 2026-09-13 |
+| [newsletter-2026-09-13-evening](sources/newsletter-2026-09-13-evening.md) | Evening Brief — Sunday, September 13, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, inflation, shipping-lanes, connected-cars, privacy, cryptography, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-noon](sources/newsletter-2026-09-13-noon.md) | Noon Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, inflation, monetary-policy, ai-oversight, surveillance, robotics, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-daytime](sources/newsletter-2026-09-13-daytime.md) | Morning Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, inflation, monetary-policy, ai-safety, openai, robotics, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-midnight](sources/newsletter-2026-09-13-midnight.md) | Midnight Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, inflation, monetary-policy, ai-safety, openai, anthropic, robotics, cycling, baseball, wrestling] | 2026-09-13 |
@@ -1594,7 +1594,6 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
-| [AI-Mediated Hiring](concepts/ai-mediated-hiring.md) | ai, hiring, labor, automated-decision-systems, screening, governance | 1 |
 | [Connected-Car Surveillance](concepts/connected-car-surveillance.md) | privacy, surveillance, vehicles, telematics, data-governance, mobility | 1 |
 | [Ghost Job Listings](concepts/ghost-job-listings.md) | labor, hiring, transparency, job-search, regulation | 4 |
 | [Browser Fingerprinting](concepts/browser-fingerprinting.md) | privacy, browsers, tracking, webaudio, surveillance | 1 |

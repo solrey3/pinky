@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-09-13
 tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight]
-source_count: 11
+source_count: 10
 ---
 
 # U.S. Congress
@@ -14,8 +14,6 @@ source_count: 11
 The U.S. Congress is tracked in the newsletter graph when legislative timing, oversight, war powers, fiscal policy, or regulatory coalitions shape the news cycle.
 
 ## Sources
-
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Researchers' warnings reportedly increase pressure for urgent congressional action on AI oversight.
 
 - [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Research warnings and political advocacy increase pressure to move AI oversight toward the center of the legislative agenda.
 
