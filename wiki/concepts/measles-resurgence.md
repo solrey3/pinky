@@ -3,9 +3,9 @@ id: 2204778d-397d-4559-9166-48d1028d64b5
 title: Measles Resurgence
 type: concept
 created: 2026-07-23
-updated: 2026-09-04
+updated: 2026-09-14
 tags: [public-health, measles, vaccines, surveillance, outbreak-risk, mortality]
-source_count: 8
+source_count: 9
 ---
 
 # Measles Resurgence
@@ -13,6 +13,8 @@ source_count: 8
 Measles resurgence is the return of elevated measles case counts after periods of strong vaccine-driven control. In the newsletter graph, it matters as a public-health surveillance and institutional-trust signal: a vaccine-preventable disease reaching multi-decade highs indicates that health communication, immunization access, and outbreak response deserve attention even when the dispatch does not assign cause.
 
 ## Sources
+
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Reports that some states' 2026 case totals already exceed their full 2025 counts, signaling continued outbreak acceleration while leaving state-level causes unspecified.
 
 - [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Repeats an allegation that federal leadership sought removal of two Pennsylvania deaths from public reporting while CDC retained them internally; primary confirmation remains necessary.
 
