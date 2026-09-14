@@ -14,7 +14,7 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Every tracked index and ETF declines while WTI surges 10.62%, long yields stay high, and AMD and TSM remain narrow semiconductor exceptions.
 
 - [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
 

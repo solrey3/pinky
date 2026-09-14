@@ -6,6 +6,18 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ## [2026-09-13] ingest | Evening Brief — Sunday, September 13, 2026
 - Source: `pinky/raw/newsletters/2026-09-13-evening-dispatch.md`
+- Summary: September 13 evening brief — broad equity and ETF losses coincide with WTI's 10.62% surge, narrow AMD and TSM strength, shipping-lane risk, AI-mediated hiring concerns, connected-car surveillance, and Zverev's US Open title.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-13-evening.md`; entity pages `pentagon`, `google`, `amd`, `wti`, `alexander-zverev`; concept pages `ai-mediated-hiring` (new), `connected-car-surveillance` (new), `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Corrected the earlier summary to match the immutable raw dispatch. Political, military, technical, legal, market, and sports claims remain subject to primary confirmation.
+
+## [2026-09-13] ingest | Euclid's Elements — Wisdom Extracted
+- Source: `pinky/raw/books/Euclids_Elements.md`
+- Summary: Euclid's thirteen-book architecture of geometry, number theory, proportion, incommensurability, and solid geometry models the axiomatic method: explicit assumptions, cumulative propositions, and inspectable proof.
+- Pages touched: `pinky/wiki/sources/euclids-elements.md` (new); entity page `euclid`; concept pages `euclidean-geometry`, `axiomatic-method`, `geometric-proof`, `parallel-postulate`, `incommensurability`, `non-euclidean-geometry`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Book direct-ingest from synthesized reading notes; raw source is an extracted-wisdom note, not full text.
+
+## [2026-09-13] ingest | Evening Brief — Sunday, September 13, 2026
+- Source: `pinky/raw/newsletters/2026-09-13-evening-dispatch.md`
 - Summary: September 13 evening brief — hot inflation and $100 oil reinforce rate-hike risk, every tracked index and ETF declines, AMD surges 13.15%, Congress faces pressure for AI oversight, and Enric Mas wins the Vuelta a España.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-13-evening.md` (new); entity pages `us-congress`, `federal-reserve`, `amd`, `wti`; concept pages `ai-model-safety-boundaries`, `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, legal, economic, AI, privacy, market, and sports claims remain subject to primary confirmation; unavailable feeds are collection gaps rather than inactivity.

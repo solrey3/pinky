@@ -30,6 +30,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
 | [the-logic-of-scientific-discovery](sources/the-logic-of-scientific-discovery.md) | The Logic of Scientific Discovery — Wisdom Extracted | book | [philosophy, science, epistemology, falsifiability, scientific-method, popper, critical-rationalism] | 2026-09-13 |
+| [euclids-elements](sources/euclids-elements.md) | Euclid's Elements — Wisdom Extracted | book | [mathematics, geometry, proof, axioms, euclid, classics, science] | 2026-09-13 |
 
 ### Books — Sports, Analytics & Strategy
 | Source | Title | Type | Tags | Date |
@@ -131,7 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
-| [newsletter-2026-09-13-evening](sources/newsletter-2026-09-13-evening.md) | Evening Brief — Sunday, September 13, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, inflation, monetary-policy, ai-oversight, surveillance, robotics, cycling, baseball, wrestling] | 2026-09-13 |
+| [newsletter-2026-09-13-evening](sources/newsletter-2026-09-13-evening.md) | Evening Brief — Sunday, September 13, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, shipping-lanes, ai-hiring, connected-cars, privacy, tennis, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-noon](sources/newsletter-2026-09-13-noon.md) | Noon Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, noon-dispatch, markets, oil, inflation, monetary-policy, ai-oversight, surveillance, robotics, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-daytime](sources/newsletter-2026-09-13-daytime.md) | Morning Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, daytime-dispatch, markets, oil, inflation, monetary-policy, ai-safety, openai, robotics, cycling, baseball, wrestling] | 2026-09-13 |
 | [newsletter-2026-09-13-midnight](sources/newsletter-2026-09-13-midnight.md) | Midnight Dispatch — Sunday, September 13, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, inflation, monetary-policy, ai-safety, openai, anthropic, robotics, cycling, baseball, wrestling] | 2026-09-13 |
@@ -452,6 +453,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Karl Popper](entities/karl-popper.md) | person | philosopher, science, epistemology, falsifiability, critical-rationalism | 1 |
 | [David Hume](entities/david-hume.md) | person | philosopher, epistemology, induction, empiricism | 1 |
 | [Vienna Circle](entities/vienna-circle.md) | organization | philosophy, logical-positivism, verification, science | 1 |
+| [Euclid](entities/euclid.md) | person | mathematician, geometry, alexandria, proof, classics | 1 |
 | [Moderna](entities/moderna.md) | organization | biotechnology, mrna, vaccines, oncology | 2 |
 | [Merck](entities/merck.md) | organization | pharmaceuticals, oncology, vaccines, melanoma | 2 |
 | [DuckDB](entities/duckdb.md) | product | database, analytics, sql, olap, open-source | 1 |
@@ -1592,6 +1594,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [AI-Mediated Hiring](concepts/ai-mediated-hiring.md) | ai, hiring, labor, automated-decision-systems, screening, governance | 1 |
+| [Connected-Car Surveillance](concepts/connected-car-surveillance.md) | privacy, surveillance, vehicles, telematics, data-governance, mobility | 1 |
 | [Ghost Job Listings](concepts/ghost-job-listings.md) | labor, hiring, transparency, job-search, regulation | 4 |
 | [Browser Fingerprinting](concepts/browser-fingerprinting.md) | privacy, browsers, tracking, webaudio, surveillance | 1 |
 | [Cancer Prevention](concepts/cancer-prevention.md) | public-health, cancer, prevention, epidemiology, risk-factors | 1 |
@@ -1631,11 +1635,17 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [AI Shutdown Powers](concepts/ai-shutdown-powers.md) | [ai, governance, emergency-powers, safety, regulation, shutdown-authority] | 2 |
 | [AI Output Liability](concepts/ai-output-liability.md) | [ai, law, liability, search, accountability, generated-output, facial-recognition, policing, evidence-integrity, ai-overviews, hiring, automated-decision-systems] | 21 |
 | [Approximate RAPTOR](concepts/approximate-raptor.md) | [basketball, nba, analytics, history, statistics] | 1 |
+| [Axiomatic Method](concepts/axiomatic-method.md) | [mathematics, logic, proof, epistemology, systems] | 1 |
 | [Bayesian Thinking](concepts/bayesian-thinking.md) | [statistics, probability, reasoning, forecasting, decision-making, epistemology] | 4 |
 | [Critical Rationalism](concepts/critical-rationalism.md) | [philosophy, epistemology, science, rationality, popper] | 1 |
 | [Demarcation Problem](concepts/demarcation-problem.md) | [philosophy, science, epistemology, scientific-method] | 1 |
+| [Euclidean Geometry](concepts/euclidean-geometry.md) | [mathematics, geometry, euclid, proof, axioms] | 1 |
 | [Falsifiability](concepts/falsifiability.md) | [philosophy, science, epistemology, scientific-method, popper] | 1 |
 | [Hypothetico-Deductive Method](concepts/hypothetico-deductive-method.md) | [science, scientific-method, epistemology, testing, prediction] | 1 |
+| [Geometric Proof](concepts/geometric-proof.md) | [mathematics, geometry, proof, logic, construction] | 1 |
+| [Incommensurability](concepts/incommensurability.md) | [mathematics, geometry, number-theory, ratio, magnitude] | 1 |
+| [Non-Euclidean Geometry](concepts/non-euclidean-geometry.md) | [mathematics, geometry, axioms, parallel-postulate, foundations] | 1 |
+| [Parallel Postulate](concepts/parallel-postulate.md) | [mathematics, geometry, euclid, axioms, non-euclidean-geometry] | 1 |
 | [Problem of Induction](concepts/problem-of-induction.md) | [philosophy, epistemology, science, induction, hume] | 1 |
 | [AI Evaluation Integrity](concepts/ai-evaluation-integrity.md) | ai, evaluation, benchmarks, education, academic-integrity, coding-evaluations | 24 |
 | [Birthright Citizenship](concepts/birthright-citizenship.md) | [constitutional-law, citizenship, immigration, fourteenth-amendment, civil-liberties, supreme-court] | 6 |

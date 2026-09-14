@@ -4,9 +4,9 @@ title: Alexander Zverev
 type: entity
 entity_type: person
 created: 2026-06-05
-updated: 2026-07-12
-tags: [tennis, atp, germany, roland-garros, grand-slam, next-gen, person, sports]
-source_count: 10
+updated: 2026-09-13
+tags: [tennis, atp, germany, roland-garros, us-open, grand-slam, next-gen, person, sports]
+source_count: 11
 ---
 
 # Alexander Zverev
@@ -37,6 +37,8 @@ His baseline game is elite — enormous forehand, disguised backhand, and one of
 The 2026 Roland Garros men's draw produced a final that nobody quite predicted: Zverev (the 2-seed, a legitimate contender) against Cobolli (unseeded, advanced via walkover). If Zverev wins, it's the validation of a decade of near-misses. If Cobolli wins, it's the story of the tournament.
 
 ## Sources
+
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Reportedly defeats Ben Shelton to win the 2026 men's US Open title.
 
 - [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Roland Garros SF win**: def. (26) Jakub Menšík 7-5, 6-2, 3-6, 6-3. Men's Final confirmed: Zverev vs. Cobolli. Morning confirmation of finalist status and match details.
 

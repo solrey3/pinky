@@ -4,9 +4,9 @@ title: Pentagon
 type: entity
 entity_type: organization
 created: 2026-07-20
-updated: 2026-07-20
-tags: [military, defense, united-states, casualties, iran]
-source_count: 1
+updated: 2026-09-13
+tags: [military, defense, united-states, casualties, iran, navy, leadership]
+source_count: 2
 ---
 
 # Pentagon
@@ -14,6 +14,8 @@ source_count: 1
 The Pentagon is tracked as the U.S. defense institution when military reporting and casualty claims anchor daily news.
 
 ## Sources
+
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Defense Secretary Pete Hegseth reportedly blocks eight senior Navy officer promotions, extending Pentagon leadership disruption.
 
 - [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Pentagon casualty reporting says nearly 100 service members have been injured since Iran strikes resumed in July.
 
