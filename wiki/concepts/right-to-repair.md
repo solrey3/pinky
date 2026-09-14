@@ -3,9 +3,9 @@ id: a1e9584f-297c-4f75-9dcb-50a6ec4b65c6
 title: Right to Repair
 type: concept
 created: 2026-07-09
-updated: 2026-09-04
+updated: 2026-09-14
 tags: [repair, ownership, consumer-protection, agriculture, software-locks, ftc]
-source_count: 2
+source_count: 3
 ---
 
 # Right to Repair
@@ -13,6 +13,8 @@ source_count: 2
 Right to repair is the principle that owners should be able to diagnose, repair, and maintain products they have purchased without being blocked by software locks, exclusive parts channels, or contractual restrictions that force dependence on the original manufacturer.
 
 ## Sources
+
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — John Deere’s self-repair service tests whether manufacturer-provided diagnostics, documentation, parts, and software permissions create practical repair access for farm equipment.
 
 - [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Fairphone’s U.S. Gen 6+ launch applies repairability and longer product lifecycles to flagship smartphones.
 

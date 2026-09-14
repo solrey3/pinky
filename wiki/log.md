@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-14] ingest | Evening Brief — Monday, September 14, 2026
+- Source: `pinky/raw/newsletters/2026-09-14-evening-dispatch.md`
+- Summary: September 14 evening brief — AI-development slowdown calls and judicial hallucination risk accompany broad equity and ETF losses, Nvidia's 8.47% drop, WTI's 7.66% surge, elevated Treasury rates, and major cycling, football, baseball, and wrestling results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-14-evening.md` (new); entity pages `openai`, `anthropic`, `nvidia`, `wti`; concept pages `ai-model-safety-boundaries`, `risk-off-market-rotation`, `right-to-repair`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, legal, medical, AI, market, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-14] ingest | Morning Dispatch — Monday, September 14, 2026
 - Source: `pinky/raw/newsletters/2026-09-14-daytime-dispatch.md`
 - Summary: September 14 morning dispatch — Pentagon leadership disruption, AI-development slowdown calls, inflation and hike-risk discussion, broad equity and ETF losses, WTI above $102, narrow AMD/TSM strength, and major cycling, football, baseball, and wrestling results.
