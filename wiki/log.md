@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-14] ingest | Morning Dispatch — Monday, September 14, 2026
+- Source: `pinky/raw/newsletters/2026-09-14-daytime-dispatch.md`
+- Summary: September 14 morning dispatch — Pentagon leadership disruption, AI-development slowdown calls, inflation and hike-risk discussion, broad equity and ETF losses, WTI above $102, narrow AMD/TSM strength, and major cycling, football, baseball, and wrestling results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-14-daytime.md` (new); entity pages `pentagon`, `anthropic`, `amd`, `wti`; concept pages `ai-model-safety-boundaries`, `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The source corroborates the September 14 midnight result for the AAA Mega Championship against the September 13 evening contradiction. Political, military, economic, AI, market, and sports claims remain subject to primary confirmation; unavailable weather is a collection gap rather than evidence of normal conditions.
+
 ## [2026-09-14] ingest | Midnight Dispatch — Monday, September 14, 2026
 - Source: `pinky/raw/newsletters/2026-09-14-midnight-dispatch.md`
 - Summary: September 14 midnight dispatch — Pentagon leadership disruption and pressure on Ukraine's refinery strikes accompany broad equity and ETF losses, WTI's 7.54% jump, narrow AMD/TSM strength, connected-car privacy concerns, and major cycling, tennis, and wrestling results.
