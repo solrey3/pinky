@@ -4,9 +4,9 @@ title: SpaceX
 type: entity
 entity_type: organization
 created: 2026-06-16
-updated: 2026-08-20
+updated: 2026-09-15
 tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone, starship, reusable-rockets]
-source_count: 14
+source_count: 15
 ---
 
 # SpaceX
@@ -14,6 +14,8 @@ source_count: 14
 American aerospace and launch company founded by Elon Musk. In the newsletter graph, SpaceX sits at the intersection of space infrastructure, private-company finance, prediction-market speculation, and now AI developer tooling.
 
 ## Sources
+
+- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-evening.md) — Declares Starship ready for orbit ahead of the planned Flight 14 launch window.
 
 - [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-noon.md) — Proposed orbital data centers extend SpaceX-linked infrastructure ambitions into hardware lifecycle, deorbiting, and e-waste constraints.
 

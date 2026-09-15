@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-15] ingest | Evening Brief — Tuesday, September 15, 2026
+- Source: `pinky/raw/newsletters/2026-09-15-evening-dispatch.md`
+- Summary: September 15 evening brief — a failed procedural vote clouds crypto regulation, AI-growth doubts pressure semiconductors, every tracked index and ETF declines, small caps lead losses, WTI reaches $105.48, and SpaceX readies Starship Flight 14.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-15-evening.md` (new); entity pages `spacex`, `nvidia`, `wti`; concept pages `crypto-regulation`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, legal, economic, technology, market, and sports claims remain subject to primary confirmation; unavailable weather is a collection gap rather than evidence of normal conditions.
+
 ## [2026-09-15] ingest | Noon Dispatch — Tuesday, September 15, 2026
 - Source: `pinky/raw/newsletters/2026-09-15-noon-dispatch.md`
 - Summary: September 15 noon dispatch — a Supreme Court block on new mail-ballot requirements, EPA carbon-rule rollback and opaque regulatory-AI plans, broad losses led by small caps and semiconductors, Treasury yields near annual highs, and major football, baseball, cycling, and wrestling updates.
