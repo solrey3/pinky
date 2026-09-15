@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-08-04
+updated: 2026-09-15
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs]
-source_count: 63
+source_count: 64
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 63
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Reportedly rejects additional AI guardrails while the Supreme Court leaves intact a ruling against his mail-ballot executive order.
 
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Appears through Section 301 tariff litigation and claims that Iran peace talks could reopen the Strait of Hormuz.
 - [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Appears in tariff litigation, Jack Smith/Senate oversight, and Iran/Hormuz diplomacy, tying presidential authority to multiple institutional checks.

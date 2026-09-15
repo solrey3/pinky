@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-15] ingest | Midnight Dispatch — Tuesday, September 15, 2026
+- Source: `pinky/raw/newsletters/2026-09-15-midnight-dispatch.md`
+- Summary: September 15 midnight dispatch — resistance to additional AI guardrails, a Supreme Court mail-ballot setback for Trump, broad index and ETF losses led by small caps, Nvidia's 8.42% decline, Apple platform releases, expansive Flock-camera queries, and major football, baseball, soccer, and wrestling results.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-15-midnight.md` (new); entity pages `donald-trump`, `us-supreme-court`, `apple`, `nvidia`; concept pages `ai-model-safety-boundaries`, `risk-off-market-rotation`, `automated-license-plate-reader-surveillance`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, legal, AI, procurement, market, surveillance, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-14] ingest | Evening Brief — Monday, September 14, 2026
 - Source: `pinky/raw/newsletters/2026-09-14-evening-dispatch.md`
 - Summary: September 14 evening brief — resistance to additional AI guardrails and U.S.–China competition sharpen the coordination problem, while broad equity and ETF losses, Nvidia’s 8.42% drop, WTI’s 6.08% surge, Apple platform releases, and major football, baseball, cycling, and wrestling results define the close.

@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-09-11
+updated: 2026-09-15
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 15
+source_count: 16
 ---
 
 # U.S. Supreme Court
@@ -14,6 +14,8 @@ source_count: 15
 The highest court in the United States. In the newsletter graph, it is tracked when Court rulings reshape constitutional boundaries, regulatory power, civil liberties, or institutional checks.
 
 ## Sources
+
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Declines to block a lower-court ruling against Trump's mail-ballot executive order, preserving a judicial check on election-administration power.
 
 - [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-daytime.md) — Repeats that the Court halted a Trump-backed Missouri redistricting dispute, keeping election-map authority in the constitutional-boundary thread.
 
