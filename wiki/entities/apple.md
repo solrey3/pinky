@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-09-15
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai]
-source_count: 30
+source_count: 31
 ---
 
 # Apple
@@ -14,6 +14,8 @@ source_count: 30
 American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, through architecture-transition history from PowerPC to Intel to Apple Silicon, and through consumer-device security updates.
 
 ## Sources
+
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — Releases iOS 27, iPadOS 27, and macOS 27 across its principal software platforms.
 
 - [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Releases iOS 27, iPadOS 27, and macOS 27 across its principal software platforms.
 

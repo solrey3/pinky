@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-09
 updated: 2026-09-15
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai]
-source_count: 40
+source_count: 41
 ---
 
 # AI Model Safety Boundaries
@@ -13,6 +13,8 @@ source_count: 40
 AI model safety boundaries are the policies, classifiers, refusals, system prompts, and deployment rules that determine which topics or tasks a frontier model may discuss, assist with, or decline. They are not merely product UX; they encode the provider's risk model, legal exposure, brand position, and assumptions about dual-use capability.
 
 ## Sources
+
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — White House resistance to tighter guardrails despite industry warnings reinforces the gap between private risk recognition and enforceable public coordination.
 
 - [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — White House resistance to additional guardrails and market anxiety over slower AI development reinforce the gap between private warnings and enforceable public governance.
 
