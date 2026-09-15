@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-15] ingest | Noon Dispatch — Tuesday, September 15, 2026
+- Source: `pinky/raw/newsletters/2026-09-15-noon-dispatch.md`
+- Summary: September 15 noon dispatch — a Supreme Court block on new mail-ballot requirements, EPA carbon-rule rollback and opaque regulatory-AI plans, broad losses led by small caps and semiconductors, Treasury yields near annual highs, and major football, baseball, cycling, and wrestling updates.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-15-noon.md` (new); entity pages `us-supreme-court`, `us-environmental-protection-agency`, `nvidia`; concept pages `ai-assisted-regulatory-decision-making` (new), `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, legal, environmental, AI, market, and sports claims remain subject to primary confirmation; unavailable weather is a collection gap rather than evidence of normal conditions.
+
 ## [2026-09-15] ingest | Morning Dispatch — Tuesday, September 15, 2026
 - Source: `pinky/raw/newsletters/2026-09-15-daytime-dispatch.md`
 - Summary: September 15 morning dispatch — resistance to AI guardrails, a Supreme Court mail-ballot setback for Trump, orbital-weapons confirmation, broad losses led by small caps and Nvidia, competing Fed-hike and policy-error forecasts, Apple platform releases, and major football, baseball, cycling, and wrestling results.

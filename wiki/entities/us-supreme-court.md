@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-29
 updated: 2026-09-15
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 17
+source_count: 18
 ---
 
 # U.S. Supreme Court
@@ -14,6 +14,8 @@ source_count: 17
 The highest court in the United States. In the newsletter graph, it is tracked when Court rulings reshape constitutional boundaries, regulatory power, civil liberties, or institutional checks.
 
 ## Sources
+
+- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-noon.md) — Reportedly blocks new mail-ballot requirements ahead of the midterms, continuing the election-administration limits tracked in the morning dispatch.
 
 - [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — Leaves intact a lower-court ruling against Trump's mail-ballot restrictions, preserving a judicial check on election-administration power.
 

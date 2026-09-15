@@ -4,9 +4,9 @@ title: U.S. Environmental Protection Agency
 type: entity
 entity_type: organization
 created: 2026-07-02
-updated: 2026-08-18
-tags: [government, environment, regulation, pesticides, pfas, public-health, united-states]
-source_count: 3
+updated: 2026-09-15
+tags: [government, environment, regulation, pesticides, pfas, public-health, united-states, ai, climate]
+source_count: 4
 ---
 
 # U.S. Environmental Protection Agency
@@ -14,6 +14,8 @@ source_count: 3
 The U.S. Environmental Protection Agency is the federal environmental regulator. In the newsletter graph, it is relevant when agency approvals or definitions shape public-health, chemical-risk, and environmental-policy debates.
 
 ## Sources
+
+- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-noon.md) — Reportedly unwinds power-plant carbon limits while considering opaque AI for toxic-chemical regulation, linking deregulation to algorithmic accountability.
 
 - [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — A court upholds the agency rule assigning polluter liability for PFAS cleanup.
 
@@ -23,6 +25,7 @@ The U.S. Environmental Protection Agency is the federal environmental regulator.
 
 ## Related
 
+- [[AI-Assisted Regulatory Decision-Making]]
 - [[PFAS Regulation]]
 - [[mRNA Vaccine Safety]]
 - [[Security & Privacy Toolkit]]
