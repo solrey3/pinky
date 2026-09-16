@@ -4,9 +4,9 @@ title: U.S. Congress
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-09-14
-tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight]
-source_count: 11
+updated: 2026-09-16
+tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight, war-powers]
+source_count: 12
 ---
 
 # U.S. Congress
@@ -14,6 +14,8 @@ source_count: 11
 The U.S. Congress is tracked in the newsletter graph when legislative timing, oversight, war powers, fiscal policy, or regulatory coalitions shape the news cycle.
 
 ## Sources
+
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — Appears through the failed crypto-bill procedural vote and House passage of an Iran war-powers resolution, linking legislative coalition risk to both financial regulation and military authority.
 
 - [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — An Anthropic researcher’s warning intensifies congressional attention to catastrophic AI risk and public oversight.
 

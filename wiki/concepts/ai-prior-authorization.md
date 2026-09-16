@@ -3,9 +3,9 @@ id: 79a55ebc-41ab-47dd-ae3d-71614bf2b9a5
 title: AI Prior Authorization
 type: concept
 created: 2026-07-16
-updated: 2026-07-18
+updated: 2026-09-16
 tags: [ai, healthcare, medicare, prior-authorization, automated-decision-systems, governance]
-source_count: 2
+source_count: 3
 ---
 
 # AI Prior Authorization
@@ -13,6 +13,8 @@ source_count: 2
 AI prior authorization is the use of automated or AI-assisted systems to approve, deny, triage, or accelerate healthcare coverage decisions before care is delivered. The concept is high-stakes because it blends administrative efficiency with clinical access, appeal rights, bias risk, and accountability for denied care.
 
 ## Sources
+
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — Reported high denial rates in Medicare's AI-assisted claims reviews shift scrutiny from hypothetical governance risk toward observed access outcomes.
 
 - [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — The dispatch treats Medicare AI prior authorization as a policy gatekeeping issue where automation can directly affect access to care.
 - [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — KFF/Ars coverage asks whether AI will fix prior authorization or make denials harder to contest.
@@ -25,4 +27,4 @@ AI prior authorization is the use of automated or AI-assisted systems to approve
 
 ## Notes
 
-The July 16 evening brief frames the issue procedurally: the immediate news is a blocked Senate attempt to stop the Medicare AI pilot, but the durable wiki concept is how healthcare automation changes who can contest a denial, inspect a model-assisted decision, or prove harm.
+The July 16 evening brief frames the issue procedurally: the immediate news is a blocked Senate attempt to stop the Medicare AI pilot, but the durable wiki concept is how healthcare automation changes who can contest a denial, inspect a model-assisted decision, or prove harm. The September 16 report adds an outcome-oriented warning: unusually high denial rates make auditability, human review, appeal rights, and comparison against non-automated baselines essential evaluation criteria.

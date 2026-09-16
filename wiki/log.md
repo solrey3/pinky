@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-16] ingest | Midnight Dispatch — Wednesday, September 16, 2026
+- Source: `pinky/raw/newsletters/2026-09-16-midnight-dispatch.md`
+- Summary: September 16 midnight dispatch — record household income, a failed crypto-bill vote, House action on Iran war powers, high Medicare AI denial rates, broad losses led by small caps and semiconductors, near-peak Treasury rates, and WTI at $104.95.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-16-midnight.md` (new); entity pages `us-congress`, `nvidia`, `wti`; concept pages `crypto-regulation`, `ai-prior-authorization`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, legal, economic, medical-AI, market, security, and sports claims remain subject to primary confirmation; unavailable weather is a collection gap rather than evidence of normal conditions.
+
 ## [2026-09-15] ingest | Evening Brief — Tuesday, September 15, 2026
 - Source: `pinky/raw/newsletters/2026-09-15-evening-dispatch.md`
 - Summary: September 15 evening brief — a failed procedural vote clouds crypto regulation, AI-growth doubts pressure semiconductors, every tracked index and ETF declines, small caps lead losses, WTI reaches $105.48, and SpaceX readies Starship Flight 14.

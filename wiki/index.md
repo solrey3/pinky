@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-16-midnight](sources/newsletter-2026-09-16-midnight.md) | Midnight Dispatch — Wednesday, September 16, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, crypto-regulation, ai-healthcare, ai-growth, press-freedom, baseball, wrestling] | 2026-09-16 |
 | [newsletter-2026-09-15-evening](sources/newsletter-2026-09-15-evening.md) | Evening Brief — Tuesday, September 15, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, crypto-regulation, ai-growth, spacex, semiconductors, baseball, wrestling] | 2026-09-15 |
 | [newsletter-2026-09-15-noon](sources/newsletter-2026-09-15-noon.md) | Noon Dispatch — Tuesday, September 15, 2026 | newsletter | [newsletter, noon-dispatch, markets, monetary-policy, election-law, environmental-regulation, regulatory-ai, orbital-weapons, swift, baseball, wrestling] | 2026-09-15 |
 | [newsletter-2026-09-15-daytime](sources/newsletter-2026-09-15-daytime.md) | Morning Dispatch — Tuesday, September 15, 2026 | newsletter | [newsletter, daytime-dispatch, markets, ai-safety, ai-governance, election-law, monetary-policy, apple, orbital-weapons, baseball, wrestling] | 2026-09-15 |
