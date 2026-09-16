@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-09
 updated: 2026-09-11
 tags: [space, science, government, artemis, moon]
-source_count: 12
+source_count: 13
 ---
 
 # NASA
@@ -14,6 +14,8 @@ source_count: 12
 NASA is the United States civilian space agency. In the newsletter stream it appears through human-spaceflight and science-mission milestones rather than only launch-provider infrastructure.
 
 ## Sources
+
+- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-noon.md) — Roman Space Telescope fuel is reported sufficient for 22 years, creating mission-extension option value while leaving hardware, funding, and operations as separate constraints.
 
 - [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Europe's decision to continue a Venus mission after NASA withdraws a radar instrument highlights partner and payload dependencies.
 

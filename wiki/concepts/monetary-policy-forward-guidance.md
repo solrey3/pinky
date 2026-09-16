@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-09-15
+updated: 2026-09-16
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 131
+source_count: 132
 ---
 
 # Monetary Policy Forward Guidance
@@ -13,6 +13,8 @@ source_count: 131
 A central-bank communication strategy that attempts to shape expectations by signaling likely future policy paths. Forward guidance can reduce uncertainty when credible, but it can also constrain policymakers or make markets overfit to official forecasts instead of current data.
 
 ## Sources
+
+- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-noon.md) — A survey-based expectation of two hikes accompanies 5.34% long yields and 7.02% mortgages; it remains external interpretation rather than direct Federal Reserve guidance.
 
 - [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — A CNBC survey points to two further hikes while Treasury and mortgage rates rise; this is survey-based market expectation, not direct Federal Reserve guidance.
 

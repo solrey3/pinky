@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-16-noon](sources/newsletter-2026-09-16-noon.md) | Noon Dispatch — Wednesday, September 16, 2026 | newsletter | [newsletter, noon-dispatch, markets, monetary-policy, ai-safety, private-ai, space-science, housing, war-powers, baseball, wrestling] | 2026-09-16 |
 | [newsletter-2026-09-16-daytime](sources/newsletter-2026-09-16-daytime.md) | Morning Dispatch — Wednesday, September 16, 2026 | newsletter | [newsletter, daytime-dispatch, markets, monetary-policy, ai-safety, image-provenance, war-powers, tariffs, oil, baseball, wrestling] | 2026-09-16 |
 | [newsletter-2026-09-16-midnight](sources/newsletter-2026-09-16-midnight.md) | Midnight Dispatch — Wednesday, September 16, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, crypto-regulation, ai-healthcare, ai-growth, press-freedom, baseball, wrestling] | 2026-09-16 |
 | [newsletter-2026-09-15-evening](sources/newsletter-2026-09-15-evening.md) | Evening Brief — Tuesday, September 15, 2026 | newsletter | [newsletter, evening-dispatch, markets, oil, crypto-regulation, ai-growth, spacex, semiconductors, baseball, wrestling] | 2026-09-15 |
@@ -1244,9 +1245,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [LinkedIn](entities/linkedin.md) | organization | technology, social-network, professional-networking, security, social-engineering | 1 |
 | [Reddit](entities/reddit.md) | organization | social-media, platform, ai-search, google, markets, publisher-economics | 7 |
 | [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware | 41 |
-| [Mozilla Firefox](entities/mozilla-firefox.md) | product | browser, webassembly, developer-tools, open-web, runtime | 1 |
+| [Mozilla Firefox](entities/mozilla-firefox.md) | product | browser, webassembly, developer-tools, open-web, runtime, ai, privacy | 2 |
 | [Modular](entities/modular.md) | organization | technology, ai, compilers, runtimes, ai-infrastructure, acquisition | 1 |
-| [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 12 |
+| [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 13 |
 | [Netflix](entities/netflix.md) | organization | streaming, platform, accounts, identity, subscriptions, media | 52 |
 | [Paramount](entities/paramount.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 8 |
 | [Warner Bros. Discovery](entities/warner-bros-discovery.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 6 |
@@ -1427,7 +1428,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Wegovy](entities/wegovy.md) | product | pharma, healthcare, obesity-drugs, glp-1, novo-nordisk | 1 |
 | [Novo Nordisk](entities/novo-nordisk.md) | organization | pharma, healthcare, obesity-drugs, markets | 1 |
 | [Shieldstral](entities/shieldstral.md) | product | ai, moderation, multimodal, open-weights, mistral | 2 |
-| [Mistral AI](entities/mistral-ai.md) | organization | ai, llm, open-weights, france, moderation | 2 |
+| [Mistral AI](entities/mistral-ai.md) | organization | ai, llm, open-weights, france, moderation, browser-ai, privacy | 3 |
 | [Bristol Myers Squibb](entities/bristol-myers-squibb.md) | organization | pharma, healthcare, biopharma, mergers | 1 |
 | [AstraZeneca](entities/astrazeneca.md) | organization | pharma, healthcare, biopharma, mergers | 1 |
 | [ByteDance](entities/bytedance.md) | organization | technology, ai, video, china, seedance | 2 |
@@ -1639,7 +1640,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [AI Labor Displacement](concepts/ai-labor-displacement.md) | [ai, labor, jobs, automation, customer-service, economics] | 4 |
 | [AI Infrastructure Energy Demand](concepts/ai-infrastructure-energy-demand.md) | ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality | 35 |
 | [AI Model Capability Extraction](concepts/ai-model-capability-extraction.md) | ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance | 6 |
-| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai] | 42 |
+| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai] | 43 |
 | [Native Mobile Development](concepts/native-mobile-development.md) | [software-engineering, mobile, ios, android, swift, kotlin, react-native, architecture] | 2 |
 | [AI Psychosis](concepts/ai-psychosis.md) | [ai, mental-health, llm, safety, human-factors, guardrails] | 1 |
 | [AI Shutdown Powers](concepts/ai-shutdown-powers.md) | [ai, governance, emergency-powers, safety, regulation, shutdown-authority] | 2 |
@@ -1696,7 +1697,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law | 57 |
 | [mRNA Vaccine Safety](concepts/mrna-vaccine-safety.md) | [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication] | 4 |
 | [Nicotine Harm Reduction](concepts/nicotine-harm-reduction.md) | [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda] | 2 |
-| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 131 |
+| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 132 |
 | [Online Age Verification](concepts/online-age-verification.md) | [internet, identity, age-verification, privacy, children, regulation, access-control] | 8 |
 | [Permanent Daylight Saving Time](concepts/permanent-daylight-saving-time.md) | [time-policy, daylight-saving-time, congress, legislation, clocks, public-policy] | 2 |
 | [Private Message Scanning](concepts/private-message-scanning.md) | [privacy, surveillance, messaging, encryption, european-union, client-side-scanning] | 5 |
@@ -1718,7 +1719,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 295 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 296 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials | 8 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
