@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-16] ingest | Evening Brief — Wednesday, September 16, 2026
+- Source: `pinky/raw/newsletters/2026-09-16-evening-dispatch.md`
+- Summary: September 16 evening brief — the Fed's reported first hike in three years, broad losses led by small caps and semiconductors, restrictive long rates and mortgages, $102 oil, proposed U.S.–China AI guardrails, and research on ternary-model compression.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-16-evening.md` (new); entity pages `federal-reserve`, `nvidia`, `wti`; concept pages `ai-model-safety-boundaries`, `ternary-language-models` (new), `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, military, legal, economic, AI, market, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-16] ingest | Morning Dispatch — Wednesday, September 16, 2026
 - Source: `pinky/raw/newsletters/2026-09-16-daytime-dispatch.md`
 - Summary: September 16 morning dispatch — record household income, two-hike expectations, House action on Iran war powers, broader AI-safety advocacy, Apple's photography-verification proposal, broad losses led by small caps and semiconductors, and WTI above $104.

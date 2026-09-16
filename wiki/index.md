@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-16-evening](sources/newsletter-2026-09-16-evening.md) | Evening Brief — Wednesday, September 16, 2026 | newsletter | [newsletter, evening-dispatch, markets, monetary-policy, ai-safety, ternary-models, iran, civil-liberties, baseball, wrestling] | 2026-09-16 |
 | [newsletter-2026-09-16-noon](sources/newsletter-2026-09-16-noon.md) | Noon Dispatch — Wednesday, September 16, 2026 | newsletter | [newsletter, noon-dispatch, markets, monetary-policy, ai-safety, private-ai, space-science, housing, war-powers, baseball, wrestling] | 2026-09-16 |
 | [newsletter-2026-09-16-daytime](sources/newsletter-2026-09-16-daytime.md) | Morning Dispatch — Wednesday, September 16, 2026 | newsletter | [newsletter, daytime-dispatch, markets, monetary-policy, ai-safety, image-provenance, war-powers, tariffs, oil, baseball, wrestling] | 2026-09-16 |
 | [newsletter-2026-09-16-midnight](sources/newsletter-2026-09-16-midnight.md) | Midnight Dispatch — Wednesday, September 16, 2026 | newsletter | [newsletter, midnight-dispatch, markets, oil, crypto-regulation, ai-healthcare, ai-growth, press-freedom, baseball, wrestling] | 2026-09-16 |
@@ -1605,6 +1606,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [Ternary Language Models](concepts/ternary-language-models.md) | ai, llm, quantization, ternary-models, model-compression, inference-efficiency | 1 |
 | [AI-Assisted Regulatory Decision-Making](concepts/ai-assisted-regulatory-decision-making.md) | ai, government, regulation, accountability, transparency, environmental-policy, chemical-safety | 1 |
 | [Connected-Car Surveillance](concepts/connected-car-surveillance.md) | privacy, surveillance, vehicles, telematics, data-governance, mobility | 2 |
 | [Ghost Job Listings](concepts/ghost-job-listings.md) | labor, hiring, transparency, job-search, regulation | 4 |
