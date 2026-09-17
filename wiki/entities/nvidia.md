@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-15
 updated: 2026-09-17
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 158
+source_count: 159
 ---
 
 # Nvidia
@@ -14,6 +14,8 @@ source_count: 158
 American semiconductor and AI-infrastructure company whose GPUs and networking stack sit at the center of modern model training and inference. In the newsletter graph, Nvidia matters less as a ticker quote than as the hardware layer behind the AI boom.
 
 ## Sources
+
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Announces native CUDA programming paths for Rust kernels while NVDA falls 4.37% in the post-hike risk-off session.
 
 - [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — Announces native CUDA paths for Rust kernels while NVDA falls 4.37% during the post-hike, semiconductor-led risk-off close.
 

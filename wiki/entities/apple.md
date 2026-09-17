@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-09-17
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai, image-provenance]
-source_count: 33
+source_count: 34
 ---
 
 # Apple
@@ -14,6 +14,8 @@ source_count: 33
 American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, through architecture-transition history from PowerPC to Intel to Apple Silicon, and through consumer-device security updates.
 
 ## Sources
+
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Reportedly considers M-series Ultra AI servers, extending Apple silicon from local devices toward data-center infrastructure.
 
 - [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — Reportedly considers AI servers built around M-series Ultra chips, extending Apple silicon from local devices into data-center infrastructure.
 

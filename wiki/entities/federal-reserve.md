@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-09-17
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 119
+source_count: 120
 ---
 
 # Federal Reserve
@@ -14,6 +14,8 @@ source_count: 119
 The central bank of the United States. In the newsletter graph, the Fed is tracked less as a generic rate-setting body and more as a market-structure actor: its rate targets, communications strategy, and guidance discipline affect how investors interpret incoming data.
 
 ## Sources
+
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — The reported first hike in three years accompanies broad equity losses; EFFR is listed at 3.63% inside the 3.50%–3.75% target range while long yields and mortgages remain restrictive.
 
 - [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — The reported first hike in three years is followed by broad equity losses; EFFR is listed at 3.63% inside the 3.50%–3.75% target range while long yields and mortgages remain restrictive.
 
