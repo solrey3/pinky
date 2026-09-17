@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-09-17
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 78
+source_count: 79
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 78
 West Texas Intermediate crude oil benchmark; tracked here as an energy, inflation, and cross-asset risk signal.
 
 ## Sources
+
+- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — Trades nearly flat at $101.10, preserving energy and inflation pressure during a growth-led equity rebound.
 
 - [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Holds near flat at $101.37, keeping energy and inflation pressure elevated alongside the reported Fed hike and broad equity losses.
 

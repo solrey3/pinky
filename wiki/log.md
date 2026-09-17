@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-17] ingest | Noon Dispatch — Thursday, September 17, 2026
+- Source: `pinky/raw/newsletters/2026-09-17-noon-dispatch.md`
+- Summary: September 17 noon dispatch — the Fed's reported first hike in three years, a growth-led Nasdaq rebound driven by AMD, restrictive long rates and mortgages, $101 oil, Apple AI-server plans, Fujitsu MONAKA, Servo funding, and renewed Flock-camera scrutiny.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-17-noon.md` (new); entity pages `federal-reserve`, `apple`, `flock-safety`, `wti`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`, `automated-license-plate-reader-surveillance`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Flagged a conflict between the noon and morning Fed target ranges. Political, legal, economic, medical, technology, market, surveillance, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-17] ingest | Morning Dispatch — Thursday, September 17, 2026
 - Source: `pinky/raw/newsletters/2026-09-17-daytime-dispatch.md`
 - Summary: September 17 morning dispatch — the Fed's reported first hike in three years, broad losses led by small caps and semiconductors, restrictive long rates and mortgages, $101 oil, Apple AI-server plans, native CUDA Rust, and contested AI regulation.
