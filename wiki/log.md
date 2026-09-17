@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-17] ingest | Evening Brief — Thursday, September 17, 2026
+- Source: `pinky/raw/newsletters/2026-09-17-evening-dispatch.md`
+- Summary: September 17 evening brief — the Fed's reported first hike in three years and central-bank-independence concerns accompany a growth-led but divided close, restrictive long rates and mortgages, $101 oil, Apple AI-server plans, OpenAI's Astra for Law, and Bend's proof-oriented GPU language.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-17-evening.md` (new); entity pages `federal-reserve`, `apple`, `openai`, `wti`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`, `formal-methods`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Flagged a conflict with the morning dispatch over the Fed target range. Political, legal, medical, economic, technology, market, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-17] ingest | Noon Dispatch — Thursday, September 17, 2026
 - Source: `pinky/raw/newsletters/2026-09-17-noon-dispatch.md`
 - Summary: September 17 noon dispatch — the Fed's reported first hike in three years, a growth-led Nasdaq rebound driven by AMD, restrictive long rates and mortgages, $101 oil, Apple AI-server plans, Fujitsu MONAKA, Servo funding, and renewed Flock-camera scrutiny.

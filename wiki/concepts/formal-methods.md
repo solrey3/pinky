@@ -3,9 +3,9 @@ id: 8a12d9a4-10d9-4850-a4ba-f416ade25623
 title: Formal Methods
 type: concept
 created: 2026-07-03
-updated: 2026-09-05
+updated: 2026-09-17
 tags: [software-engineering, verification, reliability, tla-plus, model-checking, databases, infrastructure]
-source_count: 4
+source_count: 5
 ---
 
 # Formal Methods
@@ -13,6 +13,8 @@ source_count: 4
 Formal methods are mathematically precise techniques for specifying, modeling, and verifying software or systems behavior. In practical infrastructure work, they are most valuable where rare state-machine failures, concurrency bugs, or persistence-edge cases can survive ordinary testing.
 
 ## Sources
+
+- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-evening.md) — Bend pairs GPU execution with proof-oriented safeguards, extending formal verification into AI-assisted programming where generated output requires independently checkable correctness.
 
 - [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Anthropic's Fermat's Last Theorem project reinforces machine-checkable proof as the validation layer for AI-assisted mathematics.
 
