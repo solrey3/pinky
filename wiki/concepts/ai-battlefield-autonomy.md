@@ -3,9 +3,9 @@ id: ae16d1b3-70d6-4583-80c3-b27c17eec88f
 title: AI Battlefield Autonomy
 type: concept
 created: 2026-08-04
-updated: 2026-08-04
-tags: [ai, military, drones, autonomy, ukraine, dual-use, targeting]
-source_count: 1
+updated: 2026-09-18
+tags: [ai, military, drones, autonomy, ukraine, dual-use, targeting, edge-ai]
+source_count: 2
 ---
 
 # AI Battlefield Autonomy
@@ -13,6 +13,8 @@ source_count: 1
 AI battlefield autonomy is the use of machine-learning systems to perceive, track, select, navigate toward, or otherwise support engagement decisions in military environments. In this wiki, the concept matters when autonomy moves from lab capability into deployed weapons logistics, target tracking, command accountability, or escalation risk.
 
 ## Sources
+
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Reports compact edge models allowing drones to identify and attack targets autonomously, sharpening questions of human control, identification error, accountability, and disconnected operation.
 
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Auterion/Skyfall drone coverage shows autonomous target tracking becoming part of cheap Ukrainian kamikaze-drone deployment.
 

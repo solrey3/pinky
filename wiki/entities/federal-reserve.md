@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-17
 updated: 2026-09-18
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 123
+source_count: 124
 ---
 
 # Federal Reserve
@@ -14,6 +14,8 @@ source_count: 123
 The central bank of the United States. In the newsletter graph, the Fed is tracked less as a generic rate-setting body and more as a market-structure actor: its rate targets, communications strategy, and guidance discipline affect how investors interpret incoming data.
 
 ## Sources
+
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Trump backs Kevin Warsh after the reported rate increase; the listed 3.75%–4.00% target range agrees with some adjacent editions but conflicts with others and requires official confirmation.
 
 - [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-midnight.md) — Repeats the reported first hike in three years and Trump's Warsh endorsement; its 3.75%–4.00% target range agrees with the prior noon and evening dispatches but conflicts with the prior morning and midnight editions.
 

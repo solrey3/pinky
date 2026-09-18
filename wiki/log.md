@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-18] ingest | Morning Dispatch — Friday, September 18, 2026
+- Source: `pinky/raw/newsletters/2026-09-18-daytime-dispatch.md`
+- Summary: September 18 morning dispatch — Fed-independence concerns, AI-agent payments, tokenized stocks, expansive phone searches at the border, edge-based battlefield autonomy, a narrow growth-led equity close, and a 4.98% WTI decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-18-daytime.md` (new); entity pages `federal-reserve`, `mastercard` (new), `openai`, `wti`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`, `agentic-commerce` (new), `ai-battlefield-autonomy`, `digital-border-searches`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Preserved the unresolved Fed target-range discrepancy across adjacent dispatches. Political, legal, economic, technology, market, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-18] ingest | Midnight Dispatch — Friday, September 18, 2026
 - Source: `pinky/raw/newsletters/2026-09-18-midnight-dispatch.md`
 - Summary: September 18 midnight dispatch — the Fed's reported first hike in three years and central-bank-independence concerns accompany a growth-led but divided close, restrictive long rates and mortgages, $101 oil, Apple AI-server plans, OpenAI's Astra for Law, and a compressed-model claim.
