@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-18] ingest | Midnight Dispatch — Friday, September 18, 2026
+- Source: `pinky/raw/newsletters/2026-09-18-midnight-dispatch.md`
+- Summary: September 18 midnight dispatch — the Fed's reported first hike in three years and central-bank-independence concerns accompany a growth-led but divided close, restrictive long rates and mortgages, $101 oil, Apple AI-server plans, OpenAI's Astra for Law, and a compressed-model claim.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-18-midnight.md` (new); entity pages `federal-reserve`, `apple`, `openai`, `wti`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Preserved the unresolved Fed target-range discrepancy across adjacent dispatches. Political, legal, economic, technology, market, polling, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-17] ingest | Evening Brief — Thursday, September 17, 2026
 - Source: `pinky/raw/newsletters/2026-09-17-evening-dispatch.md`
 - Summary: September 17 evening brief — the Fed's reported first hike in three years and central-bank-independence concerns accompany a growth-led but divided close, restrictive long rates and mortgages, $101 oil, Apple AI-server plans, OpenAI's Astra for Law, and Bend's proof-oriented GPU language.
