@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-18-noon](sources/newsletter-2026-09-18-noon.md) | Noon Dispatch — Friday, September 18, 2026 | newsletter | [newsletter, noon-dispatch, markets, ai-cybersecurity, tokenized-securities, monetary-policy, coding-agents, oil, baseball, wrestling] | 2026-09-18 |
 | [newsletter-2026-09-18-daytime](sources/newsletter-2026-09-18-daytime.md) | Morning Dispatch — Friday, September 18, 2026 | newsletter | [newsletter, daytime-dispatch, markets, monetary-policy, agentic-commerce, tokenized-securities, battlefield-ai, border-searches, oil, baseball, wrestling] | 2026-09-18 |
 | [newsletter-2026-09-18-midnight](sources/newsletter-2026-09-18-midnight.md) | Midnight Dispatch — Friday, September 18, 2026 | newsletter | [newsletter, midnight-dispatch, markets, monetary-policy, central-bank-independence, apple, legal-ai, model-compression, oil, baseball, wrestling] | 2026-09-18 |
 | [newsletter-2026-09-17-evening](sources/newsletter-2026-09-17-evening.md) | Evening Brief — Thursday, September 17, 2026 | newsletter | [newsletter, evening-dispatch, markets, monetary-policy, apple, legal-ai, formal-methods, oil, baseball, wrestling] | 2026-09-17 |
@@ -1613,6 +1614,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [Tokenized Securities](concepts/tokenized-securities.md) | finance, securities, tokenization, blockchain, settlement, regulation | 2 |
 | [Agentic Commerce](concepts/agentic-commerce.md) | ai, agents, payments, commerce, authorization, identity | 1 |
 | [Ternary Language Models](concepts/ternary-language-models.md) | ai, llm, quantization, ternary-models, model-compression, inference-efficiency | 1 |
 | [AI-Assisted Regulatory Decision-Making](concepts/ai-assisted-regulatory-decision-making.md) | ai, government, regulation, accountability, transparency, environmental-policy, chemical-safety | 1 |

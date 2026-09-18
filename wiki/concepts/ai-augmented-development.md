@@ -3,9 +3,9 @@ id: "019e1b12-d1a3-7ea3-ff04-ad7f7a8b9c43"
 title: "AI-Augmented Development"
 type: concept
 created: "2026-05-10T15:45:00-0400"
-updated: 2026-08-15
+updated: 2026-09-18
 tags: [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography, developer-tools, typescript, postgresql]
-source_count: 91
+source_count: 92
 ---
 
 # AI-Augmented Development
@@ -13,6 +13,8 @@ source_count: 91
 The practice of integrating large language models and AI coding agents into the software development workflow. This includes content processing (Fabric), terminal-based coding agents (Pi), and broader patterns of LLM-assisted knowledge work. The approach treats AI as an augmentative tool — enhancing human judgment rather than replacing it.
 
 ## Sources
+
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — An empirical coding-agent harness study shifts evaluation from model-only comparisons toward orchestration, context, tools, permissions, and reproducible system-level benchmarks.
 
 - [2026-08-15: Noon Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-noon.md) — A Codex auto-research experiment reportedly produces a 232× faster kernel, illustrating AI-assisted optimization whose value depends on reproducible benchmarks and correctness checks.
 
@@ -170,6 +172,8 @@ The practice of integrating large language models and AI coding agents into the 
 - [[Bayesian Thinking]]
 
 ## Notes
+
+The September 18 harness study reinforces that a coding agent is a system, not a model endpoint. Context assembly, tool interfaces, retry loops, permission boundaries, state management, and evaluation methodology can materially change performance; model comparisons that ignore the harness can misattribute gains or failures.
 
 AI-Augmented Development is the active layer of the 2nd Brain. Fabric transforms raw content into structured wisdom (as demonstrated with the 15-book ingest). Pi performs terminal-based coding operations. Together they represent the "AI Ops" persona from AGENTS.md: Pi (primary), OpenCode, Claude Code, Codex, Gemini CLI, and Fabric as the pipe processor. The Datadog CLI connects this to observability — monitoring AI-driven infrastructure.
 

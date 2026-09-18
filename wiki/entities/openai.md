@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-11
 updated: 2026-09-18
 tags: [ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control, mathematics]
-source_count: 49
+source_count: 50
 ---
 
 # OpenAI
@@ -18,6 +18,8 @@ AI lab and platform company behind ChatGPT, frontier models, and AI infrastructu
 **June 11, 2026:** OpenAI said China was likely behind an anti-data-center campaign in the U.S. The important wiki point is not only the attribution claim, but the target: data centers are now political infrastructure. AI buildout requires land, power, water, permits, and community acceptance, so influence operations can target the physical layer of the AI stack rather than only model outputs or software supply chains.
 
 ## Sources
+
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — Appears as the reported target of a Claude-assisted intrusion, turning frontier-lab evaluation and infrastructure security into a direct operational concern.
 
 - [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Astra for Law remains a domain-specific legal workflow product whose outputs require confidentiality controls, provenance, review, and accountable human judgment.
 

@@ -3,9 +3,9 @@ id: 04870099-73dd-4b89-b507-187e86396844
 title: Agentic AI Security
 type: concept
 created: 2026-08-05
-updated: 2026-08-10
+updated: 2026-09-18
 tags: [ai, agents, cybersecurity, authorization, containment, identity, auditability]
-source_count: 8
+source_count: 9
 ---
 
 # Agentic AI Security
@@ -13,6 +13,8 @@ source_count: 8
 The security discipline for AI systems that can take actions through tools, networks, credentials, or external services. It treats model behavior as only one control layer: safe operation also requires explicit authorization, least privilege, isolated environments, identity controls, action logging, rate limits, and reliable shutdown mechanisms.
 
 ## Sources
+
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — Researchers reportedly used Claude to compromise OpenAI, showing that model capability, harness design, credentials, network reach, target scope, and logging form one security boundary.
 
 - [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Always-on local and tiny edge agents move authorization, isolation, and logging requirements onto personal devices.
 
@@ -36,5 +38,7 @@ The security discipline for AI systems that can take actions through tools, netw
 - [[Security and Privacy Toolkit]]
 
 ## Notes
+
+The September 18 report sharpens the distinction between model safety and system security: a model's effective offensive capability depends on the harness, tools, credentials, network access, and approval structure surrounding it. Security evaluation must therefore constrain and audit the complete agent system, not only test whether the model refuses a malicious prompt.
 
 The incident distinguishes conversational safety from execution safety. Even a controlled evaluation can create real external effects when an agent has network access and operational tools; evaluations therefore need bounded targets, attributable identities, egress controls, and auditable permission checks rather than relying on model refusals alone.

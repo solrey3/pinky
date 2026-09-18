@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-18] ingest | Noon Dispatch — Friday, September 18, 2026
+- Source: `pinky/raw/newsletters/2026-09-18-noon-dispatch.md`
+- Summary: September 18 noon dispatch — a reported Claude-assisted intrusion into OpenAI, tokenized-stock progress, a Bank of Japan rate increase, coding-agent harness research, sharp Dow and small-cap losses, and WTI at $97.12.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-18-noon.md` (new); entity pages `anthropic`, `openai`, `wti`; concept pages `agentic-ai-security`, `tokenized-securities` (new), `ai-augmented-development`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI sequence and other political, legal, medical, economic, technology, market, and sports claims remain subject to timestamp reconciliation and primary confirmation.
+
 ## [2026-09-18] ingest | Morning Dispatch — Friday, September 18, 2026
 - Source: `pinky/raw/newsletters/2026-09-18-daytime-dispatch.md`
 - Summary: September 18 morning dispatch — Fed-independence concerns, AI-agent payments, tokenized stocks, expansive phone searches at the border, edge-based battlefield autonomy, a narrow growth-led equity close, and a 4.98% WTI decline.
