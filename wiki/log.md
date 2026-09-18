@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-18] ingest | Evening Brief — Friday, September 18, 2026
+- Source: `pinky/raw/newsletters/2026-09-18-evening-dispatch.md`
+- Summary: September 18 evening brief — Buffett's reported Berkshire chair departure, SEC movement toward tokenized stocks, escalating White House press-access restrictions, a narrow AMD-led market, and WTI's 5.84% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-18-evening.md` (new); entity pages `berkshire-hathaway`, `donald-trump`, `wti`; concept pages `tokenized-securities`, `press-freedom`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Political, legal, economic, technology, market, and sports claims remain subject to primary confirmation; adjacent WTI quotes should be reconciled by timestamp and contract.
+
 ## [2026-09-18] ingest | Noon Dispatch — Friday, September 18, 2026
 - Source: `pinky/raw/newsletters/2026-09-18-noon-dispatch.md`
 - Summary: September 18 noon dispatch — a reported Claude-assisted intrusion into OpenAI, tokenized-stock progress, a Bank of Japan rate increase, coding-agent harness research, sharp Dow and small-cap losses, and WTI at $97.12.

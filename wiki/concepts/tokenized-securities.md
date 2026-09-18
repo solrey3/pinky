@@ -5,7 +5,7 @@ type: concept
 created: 2026-09-18
 updated: 2026-09-18
 tags: [finance, securities, tokenization, blockchain, settlement, regulation]
-source_count: 2
+source_count: 3
 ---
 
 # Tokenized Securities
@@ -14,6 +14,7 @@ Tokenized securities are regulated financial instruments whose ownership or tran
 
 ## Sources
 
+- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletter-2026-09-18-evening.md) — Repeats the reported SEC path toward tokenized stocks and 24/7 trading, reinforcing that implementation now implicates liquidity, surveillance, custody, and operational resilience.
 - [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — Reports that the SEC cleared a path toward tokenized stocks and nearer-continuous trading, moving the issue from technical possibility toward market structure.
 - [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Introduces the reported SEC action and its potential to combine conventional securities with crypto-style settlement and availability.
 

@@ -3,9 +3,9 @@ id: bb401f4f-67ee-4edd-bbf2-789f05d90068
 title: Press Freedom
 type: concept
 created: 2026-07-13
-updated: 2026-09-02
-tags: [first-amendment, journalism, censorship, courts, civil-liberties, media]
-source_count: 7
+updated: 2026-09-18
+tags: [first-amendment, journalism, censorship, courts, civil-liberties, media, press-access, executive-power]
+source_count: 8
 ---
 
 # Press Freedom
@@ -13,6 +13,8 @@ source_count: 7
 The legal and civic protection of reporting, publication, and news gathering from state or judicial suppression.
 
 ## Sources
+
+- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletter-2026-09-18-evening.md) — The reported White House exclusion of CNN, MS NOW, and Politico extends the concept to selective executive control over press credentials and access.
 
 - [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — A court declines to restrain the Arkansas Democrat-Gazette from publishing data-center plans, applying the anti-prior-restraint principle to infrastructure reporting.
 
@@ -35,4 +37,4 @@ The legal and civic protection of reporting, publication, and news gathering fro
 
 ## Notes
 
-This concept was created from the July 13 evening newsletter and should be refined as additional sources accumulate.
+The graph now spans prior restraint, subpoenas, regulatory intimidation, publication pressure, and selective government access. These mechanisms differ legally, but each can burden newsgathering or chill scrutiny; access rules merit particular attention when they appear viewpoint-based rather than operationally neutral.
