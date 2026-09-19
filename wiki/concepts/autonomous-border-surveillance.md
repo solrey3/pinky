@@ -3,16 +3,18 @@ id: 9d3c7de3-3d1d-4916-aecc-3cc1fbd497c9
 title: Autonomous Border Surveillance
 type: concept
 created: 2026-07-30
-updated: 2026-07-30
-tags: [surveillance, border-security, ai, civil-liberties, procurement, privacy]
-source_count: 1
+updated: 2026-09-19
+tags: [surveillance, border-security, ai, civil-liberties, procurement, privacy, facial-recognition, biometrics]
+source_count: 2
 ---
 
 # Autonomous Border Surveillance
 
-Autonomous border surveillance is the use of sensor towers, cameras, AI classification, remote monitoring, and networked analytics to detect movement near borders with less direct human patrol presence. It converts immigration enforcement into an infrastructure, procurement, and data-governance problem.
+Autonomous border surveillance is the use of sensor towers, cameras, facial recognition, AI classification, remote monitoring, and networked analytics to detect, identify, or select people for scrutiny near borders and ports of entry with less direct human patrol presence. It converts immigration enforcement into an infrastructure, procurement, identity-data, and governance problem.
 
 ## Sources
+
+- [2026-09-19: Evening Brief — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-evening.md) — CBP does not deny reported facial-recognition targeting of foreign OnlyFans models, extending the concept from remote detection to identity-level biometric selection and purpose-limitation concerns.
 
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Reason reports DHS spending $1 billion on autonomous border-surveillance towers, raising civil-liberties and accountability concerns around large-scale remote sensing.
 
@@ -25,4 +27,4 @@ Autonomous border surveillance is the use of sensor towers, cameras, AI classifi
 
 ## Notes
 
-The governance question is not only whether the towers work. It is who audits detections, how false positives are handled, how long sensor data is retained, and whether procurement scale normalizes surveillance beyond the border context.
+The governance question is not only whether the systems work. It is who audits detections and identity matches, how false positives are handled, what targeting criteria are permissible, how long sensor and biometric data are retained, and whether procurement scale normalizes surveillance beyond the border context. The September 19 report adds a purpose-limitation concern: border tools may be repurposed to investigate people based on lawful online work or platform presence.

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-19] ingest | Evening Brief — Saturday, September 19, 2026
+- Source: `pinky/raw/newsletters/2026-09-19-evening-dispatch.md`
+- Summary: September 19 evening brief — Buffett's reported Berkshire succession, a proposed federal AI Force and AI Czar, biometric border-surveillance scrutiny, a narrow AMD-led market, Bitcoin's 7.20% jump, and WTI's 5.24% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-19-evening.md` (new); entity pages `berkshire-hathaway`, `donald-trump`, `wti`; concept pages `autonomous-border-surveillance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Adjacent Bitcoin quotes require timestamp or feed reconciliation; political, legal, scientific, economic, technology, market, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-19] ingest | Noon Dispatch — Saturday, September 19, 2026
 - Source: `pinky/raw/newsletters/2026-09-19-noon-dispatch.md`
 - Summary: September 19 noon dispatch — Buffett's reported Berkshire succession, military-intelligence hallucination risk, a proposed Ukraine air-defense sale, biometric border-surveillance scrutiny, a narrow AMD-led market, Bitcoin's 7.95% jump, and WTI's 5.24% decline.
