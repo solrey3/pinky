@@ -4,9 +4,9 @@ title: Berkshire Hathaway
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-09-18
+updated: 2026-09-19
 tags: [finance, insurance, conglomerate, markets, brk-b, quality, value, corporate-governance, succession]
-source_count: 37
+source_count: 38
 ---
 
 # Berkshire Hathaway
@@ -14,6 +14,8 @@ source_count: 37
 Berkshire Hathaway is tracked as a diversified value and insurance-market bellwether.
 
 ## Sources
+
+- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-midnight.md) — Repeats the report that Warren Buffett will leave the chair; BRK.B closes nearly flat as the succession story enters the weekend.
 
 - [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletter-2026-09-18-evening.md) — Warren Buffett reportedly plans to leave the chair, creating a major governance and succession milestone; BRK.B closes nearly flat.
 
