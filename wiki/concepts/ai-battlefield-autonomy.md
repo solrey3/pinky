@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-04
 updated: 2026-09-19
 tags: [ai, military, drones, autonomy, ukraine, dual-use, targeting, edge-ai, intelligence, hallucination]
-source_count: 3
+source_count: 4
 ---
 
 # AI Battlefield Autonomy
@@ -13,6 +13,8 @@ source_count: 3
 AI battlefield autonomy is the use of machine-learning systems to perceive, track, select, navigate toward, or otherwise support engagement decisions in military environments. In this wiki, the concept matters when autonomy moves from lab capability into deployed weapons logistics, target tracking, command accountability, or escalation risk.
 
 ## Sources
+
+- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-daytime.md) — Repeats the reported military-intelligence hallucination and pairs it with FAA aviation AI, showing that provenance, corroboration, operator authority, and fallback procedures are shared safety-critical requirements.
 
 - [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-midnight.md) — A reported AI hallucination about Chinese nuclear components nearly contributes to a U.S. attack, extending the autonomy problem upstream into intelligence validation and command decisions.
 

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-19] ingest | Morning Dispatch — Saturday, September 19, 2026
+- Source: `pinky/raw/newsletters/2026-09-19-daytime-dispatch.md`
+- Summary: September 19 morning dispatch — Buffett's reported Berkshire succession, military-intelligence hallucination risk, an FAA aviation-AI proposal, rising diesel costs, a narrow AMD-led market, Bitcoin's 7.51% jump, and WTI's 5.24% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-19-daytime.md` (new); entity pages `berkshire-hathaway`, `faa`, `wti`; concept pages `ai-battlefield-autonomy`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote differs from the adjacent midnight dispatch and requires timestamp or contract reconciliation; political, military, legal, scientific, economic, technology, market, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-19] ingest | Midnight Dispatch — Saturday, September 19, 2026
 - Source: `pinky/raw/newsletters/2026-09-19-midnight-dispatch.md`
 - Summary: September 19 midnight dispatch — Buffett's reported Berkshire succession, tokenized-stock progress, widening White House press restrictions, a military AI hallucination risk, an FAA automation proposal, a narrow AMD-led market, Bitcoin's 7.27% jump, and WTI's 5.84% decline.

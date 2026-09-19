@@ -4,9 +4,9 @@ title: FAA
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-08-04
-tags: [government, aviation, transportation, leadership]
-source_count: 4
+updated: 2026-09-19
+tags: [government, aviation, transportation, leadership, ai, safety]
+source_count: 5
 ---
 
 # FAA
@@ -14,6 +14,8 @@ source_count: 4
 The Federal Aviation Administration, the U.S. aviation regulator. In the newsletter graph, the FAA appears when aviation safety, leadership continuity, and transportation-policy capacity become visible.
 
 ## Sources
+
+- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-daytime.md) — Prepares an $875 million AI congestion-management tool, making assurance, operator authority, monitoring, and fallback operations central procurement concerns.
 
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Clears the smallest Boeing 737 Max to fly after years of certification delays.
 - [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Clears the smallest Boeing 737 Max to fly after years of delays, making certification timing the aviation-regulatory point.
@@ -25,3 +27,4 @@ The Federal Aviation Administration, the U.S. aviation regulator. In the newslet
 
 - [[Chris Rocheleau]]
 - [[The Hill]]
+- [[AI Battlefield Autonomy]]
