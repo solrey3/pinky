@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-09-20
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs, press-freedom]
-source_count: 69
+source_count: 70
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 69
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — The proposed “AI Force” and “AI Czar” place federal AI coordination inside a centralized executive-policy structure.
 
 - [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-midnight.md) — The proposed “AI Force” and “AI Czar,” Greenland agreement, and Middle East alerts place AI governance and national security inside a centralized executive-policy frame.
 

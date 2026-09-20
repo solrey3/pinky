@@ -3,9 +3,9 @@ id: 61d06d6b-bc1d-4cf5-85a5-1bffd022d972
 title: Digital Media Consolidation
 type: concept
 created: 2026-07-01
-updated: 2026-08-07
+updated: 2026-09-20
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 20
+source_count: 21
 ---
 
 # Digital Media Consolidation
@@ -13,6 +13,8 @@ source_count: 20
 Digital media consolidation is the concentration of content ownership, distribution channels, and platform control in fewer companies or ecosystems. It matters because distribution control can shape access, pricing, discovery, preservation, and regulatory concern.
 
 ## Sources
+
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — PlayStation's reported retreat from physical discs shifts ownership, resale, preservation, and access toward platform-controlled distribution.
 
 - [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Disney and TikTok create a platform-mediated lane for distributing entertainment clips.
 
