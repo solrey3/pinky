@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-20-noon](sources/newsletter-2026-09-20-noon.md) | Noon Dispatch — Sunday, September 20, 2026 | newsletter | [newsletter, noon-dispatch, markets, corporate-succession, iran, software-supply-chain, digital-media, image-generation, diesel, prediction-markets, oil, baseball, wrestling] | 2026-09-20 |
 | [newsletter-2026-09-20-daytime](sources/newsletter-2026-09-20-daytime.md) | Morning Dispatch — Sunday, September 20, 2026 | newsletter | [newsletter, daytime-dispatch, markets, ai-governance, corporate-succession, digital-media, diesel, prediction-markets, oil, baseball, wrestling] | 2026-09-20 |
 | [newsletter-2026-09-20-midnight](sources/newsletter-2026-09-20-midnight.md) | Midnight Dispatch — Sunday, September 20, 2026 | newsletter | [newsletter, midnight-dispatch, markets, ai-governance, military-ai, corporate-succession, facial-recognition, prediction-markets, oil, baseball, wrestling] | 2026-09-20 |
 | [newsletter-2026-09-19-evening](sources/newsletter-2026-09-19-evening.md) | Evening Brief — Saturday, September 19, 2026 | newsletter | [newsletter, evening-dispatch, markets, ai-governance, corporate-succession, facial-recognition, oil, baseball, wrestling] | 2026-09-19 |

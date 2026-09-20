@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-07-01
 updated: 2026-09-20
 tags: [gaming, console, sony, digital-distribution, physical-media, platform]
-source_count: 3
+source_count: 4
 ---
 
 # PlayStation
@@ -14,6 +14,8 @@ source_count: 3
 Sony's console-gaming platform. In the newsletter graph, PlayStation is relevant when platform policy changes alter ownership, distribution, preservation, or consumer choice.
 
 ## Sources
+
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Repeats the reported retreat from physical discs, reinforcing digital distribution, preservation, resale, and platform-control concerns.
 
 - [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — A renewed report of retreat from physical discs reinforces digital distribution, preservation, resale, and platform-control concerns.
 

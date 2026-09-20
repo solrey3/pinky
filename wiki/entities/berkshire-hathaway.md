@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-09-20
 tags: [finance, insurance, conglomerate, markets, brk-b, quality, value, corporate-governance, succession]
-source_count: 43
+source_count: 44
 ---
 
 # Berkshire Hathaway
@@ -14,6 +14,8 @@ source_count: 43
 Berkshire Hathaway is tracked as a diversified value and insurance-market bellwether.
 
 ## Sources
+
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Repeats Buffett's reported chair departure as Berkshire's succession story continues; BRK.B remains nearly flat.
 
 - [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — Repeats Buffett's reported chair departure as Berkshire's succession story leads the morning news; BRK.B remains nearly flat.
 
