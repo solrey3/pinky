@@ -4,9 +4,9 @@ title: Samsung
 type: entity
 entity_type: organization
 created: 2026-06-23
-updated: 2026-09-08
-tags: [technology, semiconductors, foundry, transistors, stacked-fets, ai-hardware]
-source_count: 3
+updated: 2026-09-20
+tags: [technology, semiconductors, foundry, transistors, stacked-fets, ai-hardware, hbm]
+source_count: 4
 ---
 
 # Samsung
@@ -14,6 +14,8 @@ source_count: 3
 Samsung is a technology and semiconductor company. In the newsletter graph, it is tracked where advanced chip fabrication, device platforms, and AI-hardware infrastructure intersect.
 
 ## Sources
+
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — Expected to more than double HBM4 and HBM4E output, expanding the memory-bandwidth layer of AI infrastructure.
 
 - [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-evening.md) — Expands collaboration with ASML around next-generation semiconductor manufacturing, emphasizing the equipment and capital layer beneath AI hardware.
 

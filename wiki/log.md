@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-20] ingest | Evening Brief — Sunday, September 20, 2026
+- Source: `pinky/raw/newsletters/2026-09-20-evening-dispatch.md`
+- Summary: September 20 evening brief — Saudi pipeline resilience, Iran's reported negotiating conditions, supply-chain threat intelligence, Samsung HBM expansion, open-source funding, a narrow AMD-led market, Bitcoin's 6.32% gain, and WTI's 9.21% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-20-evening.md` (new); entity pages `saudi-arabia`, `iran`, `samsung`, `wti`; concept pages `software-supply-chain-security`, `open-source-funding` (new), `semiconductor-scaling`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The repeated market snapshot requires timestamp, baseline, or contract reconciliation; political, military, legal, economic, technology, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-20] ingest | Noon Dispatch — Sunday, September 20, 2026
 - Source: `pinky/raw/newsletters/2026-09-20-noon-dispatch.md`
 - Summary: September 20 noon dispatch — Iran's reported negotiating conditions, Buffett's reported Berkshire succession, PlayStation's physical-media retreat, supply-chain threat intelligence, Qwen-Image-2.1, a narrow AMD-led market, Bitcoin's 6.21% gain, and WTI's 9.21% decline.
