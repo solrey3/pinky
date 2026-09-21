@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-21-daytime](sources/newsletter-2026-09-21-daytime.md) | Morning Dispatch — Monday, September 21, 2026 | newsletter | [newsletter, daytime-dispatch, markets, energy-security, corporate-succession, agentic-commerce, ai-regulation, software-supply-chain, oil, baseball, wrestling] | 2026-09-21 |
 | [newsletter-2026-09-21-midnight](sources/newsletter-2026-09-21-midnight.md) | Midnight Dispatch — Monday, September 21, 2026 | newsletter | [newsletter, midnight-dispatch, markets, energy-security, corporate-succession, software-supply-chain, digital-media, semiconductors, oil, baseball, wrestling] | 2026-09-21 |
 | [newsletter-2026-09-20-evening](sources/newsletter-2026-09-20-evening.md) | Evening Brief — Sunday, September 20, 2026 | newsletter | [newsletter, evening-dispatch, markets, iran, energy-security, software-supply-chain, open-source-funding, semiconductors, oil, baseball, wrestling] | 2026-09-20 |
 | [newsletter-2026-09-20-noon](sources/newsletter-2026-09-20-noon.md) | Noon Dispatch — Sunday, September 20, 2026 | newsletter | [newsletter, noon-dispatch, markets, corporate-succession, iran, software-supply-chain, digital-media, image-generation, diesel, prediction-markets, oil, baseball, wrestling] | 2026-09-20 |
@@ -1018,7 +1019,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Jordan](entities/jordan.md) | place | jordan, middle-east, military, geopolitics, united-states, iran | 4 |
 | [Iraq](entities/iraq.md) | place | iraq, middle-east, military, geopolitics, united-states, iran | 1 |
 | [Israel](entities/israel.md) | place | israel, geopolitics, middle-east, foreign-policy, aid, united-states, hamas, diplomacy | 5 |
-| [Saudi Arabia](entities/saudi-arabia.md) | place | saudi-arabia, middle-east, red-sea, shipping, geopolitics, energy-security | 4 |
+| [Saudi Arabia](entities/saudi-arabia.md) | place | saudi-arabia, middle-east, red-sea, shipping, geopolitics, energy-security | 5 |
 | [Hamas](entities/hamas.md) | organization | hamas, gaza, israel, middle-east, diplomacy, disarmament | 3 |
 | [Keyport](entities/keyport.md) | place | new-jersey, groundwater, pfas, benzene, public-health | 2 |
 | [KrebsOnSecurity](entities/krebsonsecurity.md) | organization | cybersecurity, journalism, privacy, devices, consumer-security | 2 |
@@ -1152,7 +1153,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 93 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 94 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1329,13 +1330,13 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Moody's](entities/moodys.md) | organization | credit-ratings, finance, ai-infrastructure, big-tech | 2 |
 | [FedEx](entities/fedex.md) | organization | logistics, shipping, healthcare-logistics, cold-chain | 2 |
 | [DHL](entities/dhl.md) | organization | logistics, shipping, healthcare-logistics, cold-chain | 2 |
-| [Meta](entities/meta.md) | organization | technology, social-media, ai, privacy, instagram, platforms, platform-accountability, robotics | 39 |
+| [Meta](entities/meta.md) | organization | technology, social-media, ai, privacy, instagram, platforms, platform-accountability, robotics | 40 |
 | [Amazon](entities/amazon.md) | organization | technology, e-commerce, cloud, markets, amzn, ai-infrastructure | 57 |
 | [Best Buy](entities/best-buy.md) | organization | retail, consumer-electronics, business, stores, strategy | 4 |
 | [PayPal](entities/paypal.md) | organization | finance, payments, fintech, markets | 53 |
 | [Stripe](entities/stripe.md) | organization | payments, fintech, acquisitions, paypal, markets | 2 |
 | [Advent](entities/advent.md) | organization | private-equity, fintech, acquisitions, paypal, markets | 1 |
-| [Berkshire Hathaway](entities/berkshire-hathaway.md) | organization | finance, insurance, conglomerate, markets, brk-b, quality, value, corporate-governance, succession | 45 |
+| [Berkshire Hathaway](entities/berkshire-hathaway.md) | organization | finance, insurance, conglomerate, markets, brk-b, quality, value, corporate-governance, succession | 46 |
 | [American Express](entities/american-express.md) | organization | finance, credit-cards, consumer-credit, markets, financials | 40 |
 | [Ralph Lauren](entities/ralph-lauren.md) | organization | retail, apparel, consumer-discretionary, markets | 32 |
 | [Target](entities/target.md) | organization | retail, consumer, markets, big-box | 21 |
@@ -1625,7 +1626,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Concept | Tags | Sources |
 | --- | --- | --- |
 | [Tokenized Securities](concepts/tokenized-securities.md) | finance, securities, tokenization, blockchain, settlement, regulation | 2 |
-| [Agentic Commerce](concepts/agentic-commerce.md) | ai, agents, payments, commerce, authorization, identity | 1 |
+| [Agentic Commerce](concepts/agentic-commerce.md) | ai, agents, payments, commerce, authorization, identity | 2 |
 | [Ternary Language Models](concepts/ternary-language-models.md) | ai, llm, quantization, ternary-models, model-compression, inference-efficiency | 1 |
 | [AI-Assisted Regulatory Decision-Making](concepts/ai-assisted-regulatory-decision-making.md) | ai, government, regulation, accountability, transparency, environmental-policy, chemical-safety | 1 |
 | [Connected-Car Surveillance](concepts/connected-car-surveillance.md) | privacy, surveillance, vehicles, telematics, data-governance, mobility | 2 |
@@ -1634,7 +1635,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Cancer Prevention](concepts/cancer-prevention.md) | public-health, cancer, prevention, epidemiology, risk-factors | 1 |
 | [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 4 |
 | [Workplace Data Privacy](concepts/workplace-data-privacy.md) | privacy, employment, data-governance, surveillance, consent | 1 |
-| [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 9 |
+| [Mental-Health Chatbot Safety](concepts/mental-health-chatbot-safety.md) | ai, mental-health, clinical-evidence, safety, chatbots | 10 |
 | [Prompt Injection](concepts/prompt-injection.md) | ai, security, prompt-injection, llm, legal-tech, untrusted-content | 1 |
 | [Medical AI Evaluation](concepts/medical-ai-evaluation.md) | ai, medicine, evaluation, safety, benchmarks | 2 |
 | [Paid Family Leave](concepts/paid-family-leave.md) | labor, benefits, caregiving, worker-protection | 2 |
@@ -1742,8 +1743,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 314 |
-| [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 12 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 315 |
+| [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |

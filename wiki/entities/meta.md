@@ -4,9 +4,9 @@ title: Meta
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-09-09
+updated: 2026-09-21
 tags: [technology, social-media, ai, privacy, instagram, platforms, platform-accountability, robotics]
-source_count: 39
+source_count: 40
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 39
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Muse's app-store rise and purchasing capability move personal agents toward delegated commerce and stronger authorization controls.
 
 - [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Muse personal-agent coverage reinforces scoped permissions, auditable actions, consent, and user-controlled revocation.
 
