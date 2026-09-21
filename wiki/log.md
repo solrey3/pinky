@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-21] ingest | Evening Brief — Monday, September 21, 2026
+- Source: `pinky/raw/newsletters/2026-09-21-evening-dispatch.md`
+- Summary: September 21 evening brief — Paramount's reported antitrust settlement, OpenAI's global AI-standards proposal, agentic purchasing, press-access litigation, a concentrated AMD-led market, Bitcoin's 13.35% jump, and WTI's 10.21% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-21-evening.md` (new); entity pages `paramount`, `openai`, `donald-trump`, `wti`; concept pages `digital-media-consolidation`, `federal-ai-governance`, `agentic-commerce`, `press-freedom`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market changes from the adjacent noon dispatch require timestamp, baseline, feed, or contract reconciliation; political, legal, scientific, economic, technology, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-21] ingest | Morning Dispatch — Monday, September 21, 2026
 - Source: `pinky/raw/newsletters/2026-09-21-daytime-dispatch.md`
 - Summary: September 21 morning dispatch — Saudi pipeline resilience, Buffett's reported Berkshire succession, Meta Muse's move toward delegated purchasing, layered mental-health AI regulation, supply-chain threat intelligence, a narrow AMD-led market, Bitcoin's 10.71% jump, and WTI's 8.45% decline.
