@@ -3,9 +3,9 @@ id: 2b7532a5-db8e-4f8a-b2ac-6688d7690c48
 title: Semiconductor Scaling
 type: concept
 created: 2026-06-23
-updated: 2026-09-20
+updated: 2026-09-21
 tags: [semiconductors, transistors, chip-design, foundry, ai-hardware, nanosheets, stacked-fets, custom-silicon, compilers, runtimes, inference-chips, liquid-cooling, sub-1-nanometer, rfic-design, design-automation]
-source_count: 50
+source_count: 51
 ---
 
 # Semiconductor Scaling
@@ -13,6 +13,8 @@ source_count: 50
 Semiconductor scaling is the continued improvement of chip density, performance, power efficiency, and manufacturing capability through transistor architecture, process-node engineering, packaging, and foundry execution. In the AI-infrastructure graph, it is the physical foundation beneath model training, inference, memory bandwidth, and data-center economics.
 
 ## Sources
+
+- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Samsung's expected HBM4 and HBM4E expansion reinforces memory bandwidth and manufacturing capacity as AI-scaling constraints.
 
 - [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — Samsung's expected HBM4 and HBM4E output expansion shows that memory bandwidth and manufacturing capacity are central constraints on AI scaling.
 

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-21] ingest | Midnight Dispatch — Monday, September 21, 2026
+- Source: `pinky/raw/newsletters/2026-09-21-midnight-dispatch.md`
+- Summary: September 21 midnight dispatch — Saudi pipeline resilience, Buffett's reported Berkshire succession, supply-chain threat intelligence, Samsung HBM expansion, PlayStation's digital turn, a narrow AMD-led market, Bitcoin's 6.51% gain, and WTI's 8.29% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-21-midnight.md` (new); entity pages `saudi-arabia`, `berkshire-hathaway`, `samsung`, `wti`; concept pages `software-supply-chain-security`, `digital-media-consolidation`, `semiconductor-scaling`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI change from September 20's repeated snapshot requires timestamp, baseline, or contract reconciliation; political, legal, scientific, economic, technology, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-20] ingest | Evening Brief — Sunday, September 20, 2026
 - Source: `pinky/raw/newsletters/2026-09-20-evening-dispatch.md`
 - Summary: September 20 evening brief — Saudi pipeline resilience, Iran's reported negotiating conditions, supply-chain threat intelligence, Samsung HBM expansion, open-source funding, a narrow AMD-led market, Bitcoin's 6.32% gain, and WTI's 9.21% decline.
