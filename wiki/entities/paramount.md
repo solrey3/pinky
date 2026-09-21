@@ -4,9 +4,9 @@ title: Paramount
 type: entity
 entity_type: organization
 created: 2026-07-01
-updated: 2026-08-06
+updated: 2026-09-21
 tags: [media, entertainment, streaming, merger, consolidation, regulation]
-source_count: 9
+source_count: 10
 ---
 
 # Paramount
@@ -14,6 +14,8 @@ source_count: 9
 Paramount is a major media and entertainment company. In this wiki, it is tracked as part of the media-consolidation and distribution-control thread.
 
 ## Sources
+
+- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-noon.md) — Reportedly considered a $1.5 billion California investment as a concession during merger scrutiny, linking corporate investment promises to regulatory approval.
 
 - [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — U.K. approval advances its proposed $110 billion Warner Bros. Discovery transaction.
 
