@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-22] ingest | Midnight Dispatch — Tuesday, September 22, 2026
+- Source: `pinky/raw/newsletters/2026-09-22-midnight-dispatch.md`
+- Summary: September 22 midnight dispatch — Paramount's reported antitrust settlement, a Meta Muse zero-day, Trump TV and press-access concerns, limits on warrantless ICE raids, concentrated AMD-led gains, Bitcoin's 5.90% rise, and WTI's 8.80% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-22-midnight.md` (new); entity pages `paramount`, `meta`, `donald-trump`, `wti`; concept pages `digital-media-consolidation`, `agentic-ai-security`, `press-freedom`, `immigration-enforcement-escalation`, `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The Bitcoin and WTI changes from the adjacent evening dispatch require timestamp, baseline, feed, or contract reconciliation; political, legal, corporate, technology, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-21] ingest | Evening Brief — Monday, September 21, 2026
 - Source: `pinky/raw/newsletters/2026-09-21-evening-dispatch.md`
 - Summary: September 21 evening brief — Paramount's reported antitrust settlement, OpenAI's global AI-standards proposal, agentic purchasing, press-access litigation, a concentrated AMD-led market, Bitcoin's 13.35% jump, and WTI's 10.21% decline.

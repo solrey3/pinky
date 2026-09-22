@@ -3,9 +3,9 @@ id: 61d06d6b-bc1d-4cf5-85a5-1bffd022d972
 title: Digital Media Consolidation
 type: concept
 created: 2026-07-01
-updated: 2026-09-21
+updated: 2026-09-22
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 24
+source_count: 25
 ---
 
 # Digital Media Consolidation
@@ -13,6 +13,8 @@ source_count: 24
 Digital media consolidation is the concentration of content ownership, distribution channels, and platform control in fewer companies or ecosystems. It matters because distribution control can shape access, pricing, discovery, preservation, and regulatory concern.
 
 ## Sources
+
+- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — Paramount's reported antitrust settlement advances the proposed Warner transaction without resolving the ownership- and distribution-concentration concern.
 
 - [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletter-2026-09-21-evening.md) — Paramount's reported settlement of the states' antitrust case removes a legal obstacle to the Warner transaction without eliminating ownership-concentration concerns.
 
