@@ -4,9 +4,9 @@ title: U.S. Congress
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-09-16
+updated: 2026-09-22
 tags: [government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight, war-powers]
-source_count: 13
+source_count: 14
 ---
 
 # U.S. Congress
@@ -14,6 +14,8 @@ source_count: 13
 The U.S. Congress is tracked in the newsletter graph when legislative timing, oversight, war powers, fiscal policy, or regulatory coalitions shape the news cycle.
 
 ## Sources
+
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — Questions about lawmakers' technical fluency make institutional expertise and independent support capacity part of credible AI rulemaking.
 
 - [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — House passage of an Iran war-powers resolution keeps congressional authority over military action at the center of the governance record.
 

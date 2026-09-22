@@ -5,7 +5,7 @@ type: concept
 created: 2026-09-20
 updated: 2026-09-22
 tags: [ai, governance, federal-policy, executive-power, oversight]
-source_count: 3
+source_count: 4
 ---
 
 # Federal AI Governance
@@ -13,6 +13,8 @@ source_count: 3
 Federal AI governance is the allocation of authority, accountability, standards, and oversight for artificial-intelligence policy and deployment across national-government institutions. Central coordination can reduce fragmented policy, but it also requires transparent mandates, independent review, and clear limits on executive discretion.
 
 ## Sources
+
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — Questions about congressional technical fluency show that rulemaking legitimacy depends partly on institutional expertise, independent advice, and the ability to scrutinize technical claims.
 
 - [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — OpenAI's request for U.S.-led global safety standards makes international legitimacy, coordination, and enforceability part of federal AI governance.
 

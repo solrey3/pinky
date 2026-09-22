@@ -2458,3 +2458,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: September 21 noon dispatch — Paramount's reported merger concession, AI purchasing autonomy, crypto political spending, and surveillance concerns accompany a concentrated Nasdaq/AMD/Bitcoin rally, broad internal weakness, WTI's 10.06% fall, and prediction-market prices requiring market-structure context.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-21-noon.md` (new); entity pages `paramount`, `amd`, `wti`, `polymarket`; concept pages `agentic-commerce`, `risk-off-market-rotation`, `prediction-markets`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Noon market figures require reconciliation with adjacent snapshots, and Polymarket's displayed Senate prices sum to 102%; political, legal, corporate, market, injury, and sports claims remain subject to primary confirmation.
+
+## [2026-09-22] ingest | Noon Dispatch — Tuesday, September 22, 2026
+- Source: `pinky/raw/newsletters/2026-09-22-noon-dispatch.md`
+- Summary: September 22 noon dispatch — FAA operational AI, congressional capacity for AI rulemaking, a Waymo public-space safety incident, concentrated AMD-led gains, Bitcoin's 6.84% rise, and WTI's 9.98% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-22-noon.md` (new); entity pages `faa`, `us-congress`, `waymo`, `wti`; concept pages `federal-ai-governance`, `autonomous-vehicle-operational-safety` (new), `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI and market changes from the adjacent morning dispatch require timestamp, baseline, feed, or contract reconciliation; political, geopolitical, technology, market, medical, legal, injury, and sports claims remain subject to primary confirmation.

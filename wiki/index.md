@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-22-noon](sources/newsletter-2026-09-22-noon.md) | Noon Dispatch — Tuesday, September 22, 2026 | newsletter | [newsletter, noon-dispatch, markets, ai-governance, aviation-ai, autonomous-vehicles, iran, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-22 |
 | [newsletter-2026-09-22-daytime](sources/newsletter-2026-09-22-daytime.md) | Morning Dispatch — Tuesday, September 22, 2026 | newsletter | [newsletter, daytime-dispatch, markets, media-consolidation, ai-governance, aviation-ai, agentic-ai-security, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-22 |
 | [newsletter-2026-09-22-midnight](sources/newsletter-2026-09-22-midnight.md) | Midnight Dispatch — Tuesday, September 22, 2026 | newsletter | [newsletter, midnight-dispatch, markets, media-consolidation, agentic-ai-security, press-freedom, immigration, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-22 |
 | [newsletter-2026-09-21-evening](sources/newsletter-2026-09-21-evening.md) | Evening Brief — Monday, September 21, 2026 | newsletter | [newsletter, evening-dispatch, markets, media-consolidation, ai-governance, agentic-commerce, press-freedom, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-21 |
@@ -1045,7 +1046,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
 | [Ro Khanna](entities/ro-khanna.md) | person | politics, congress, foreign-policy, west-bank, united-states | 2 |
 | [John Fetterman](entities/john-fetterman.md) | person | politics, senate, democratic-party, libertarian, united-states | 1 |
-| [U.S. Congress](entities/us-congress.md) | organization | government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight, war-powers | 13 |
+| [U.S. Congress](entities/us-congress.md) | organization | government, congress, legislation, united-states, crypto-regulation, housing-policy, ai-oversight, war-powers | 14 |
 | [Lindsey Graham](entities/lindsey-graham.md) | person | politics, senate, republican-party, south-carolina, obituary | 5 |
 | [HHS Office of Inspector General](entities/hhs-office-of-inspector-general.md) | organization | hhs, inspector-general, healthcare, fraud | 1 |
 | [Space Development Agency](entities/space-development-agency.md) | organization | space, defense, pentagon, procurement, satellites, infrastructure | 5 |
@@ -1157,7 +1158,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 95 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 99 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1291,7 +1292,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Qwen](entities/qwen.md) | product | ai, llm, open-weights, local-ai, developer-tools, agentic-coding | 9 |
 | [Qwen3.8-Max](entities/qwen3-8-max.md) | product | ai, llm, coding-model, qwen, developer-tools | 3 |
 | [Kakehashi](entities/kakehashi.md) | product | developer-tools, macos, linux, arm, compatibility-layer | 1 |
-| [Waymo](entities/waymo.md) | organization | autonomous-vehicles, robotaxi, alphabet, operations, regulation | 1 |
+| [Waymo](entities/waymo.md) | organization | autonomous-vehicles, robotaxi, alphabet, operations, regulation, safety | 3 |
 | [Stack Overflow](entities/stack-overflow.md) | organization | developer-community, programming, knowledge-base, tooling, trust | 1 |
 | [Hacker News](entities/hacker-news.md) | organization | technology, developers, community, feeds | 3 |
 | [DEF CON](entities/defcon.md) | other | security, conference, hardware-security, security-key, hacker-culture | 1 |
@@ -1583,7 +1584,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Nike](entities/nike.md) | organization | retail, apparel, china, consumer, earnings | 6 |
 | [Humana](entities/humana.md) | organization | healthcare, insurance, managed-care, earnings | 1 |
 
-| [FAA](entities/faa.md) | organization | government, aviation, transportation, leadership | 4 |
+| [FAA](entities/faa.md) | organization | government, aviation, transportation, leadership, ai, safety | 7 |
 | [Chris Rocheleau](entities/chris-rocheleau.md) | person | aviation, faa, transportation, leadership | 1 |
 | [Mercedes-Benz](entities/mercedes-benz.md) | organization | automotive, germany, trade-policy, supply-chains | 1 |
 | [Gallup](entities/gallup.md) | organization | polling, public-opinion, elections, trust | 1 |
@@ -1702,7 +1703,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [DevOps & Observability](concepts/devops-and-observability.md) | [devops, monitoring, observability, git, ci-cd, automation] | 5 |
 | [Diátaxis](concepts/diataxis.md) | [documentation, technical-writing, developer-tools, knowledge-management, tutorials, how-to, reference, explanation] | 1 |
 | [Digital Media Consolidation](concepts/digital-media-consolidation.md) | [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership] | 23 |
-| [Federal AI Governance](concepts/federal-ai-governance.md) | [ai, governance, federal-policy, executive-power, oversight] | 1 |
+| [Federal AI Governance](concepts/federal-ai-governance.md) | [ai, governance, federal-policy, executive-power, oversight] | 4 |
+| [Autonomous Vehicle Operational Safety](concepts/autonomous-vehicle-operational-safety.md) | [autonomous-vehicles, safety, robotaxis, operations, public-space, governance] | 1 |
 | [Digital Gardens](concepts/digital-gardens.md) | [knowledge-management, web, publishing, metaphor, ai-first-notes, openknowledge] | 2 |
 | [DRAYMOND](concepts/draymond-defense.md) | [basketball, nba, analytics, defense, statistics] | 1 |
 | [Eschatology](concepts/eschatology.md) | [religion, theology, apocalypse, time, narrative, destiny] | 2 |
@@ -1722,7 +1724,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Measles Resurgence](concepts/measles-resurgence.md) | [public-health, measles, vaccines, surveillance, outbreak-risk] | 2 |
 | [Passwordless Authentication Security](concepts/passwordless-authentication-security.md) | security, authentication, passkeys, webauthn, identity | 1 |
 | [Cryptographic Agility](concepts/cryptographic-agility.md) | cryptography, security, key-management, certificates, rsa, migration, technical-debt | 1 |
-| [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law | 63 |
+| [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law | 66 |
 | [mRNA Vaccine Safety](concepts/mrna-vaccine-safety.md) | [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication] | 4 |
 | [Nicotine Harm Reduction](concepts/nicotine-harm-reduction.md) | [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda] | 2 |
 | [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 138 |
@@ -1747,7 +1749,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 316 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 320 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |
