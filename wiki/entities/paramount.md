@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-01
 updated: 2026-09-22
 tags: [media, entertainment, streaming, merger, consolidation, regulation]
-source_count: 12
+source_count: 13
 ---
 
 # Paramount
@@ -14,6 +14,8 @@ source_count: 12
 Paramount is a major media and entertainment company. In this wiki, it is tracked as part of the media-consolidation and distribution-control thread.
 
 ## Sources
+
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Repeats the reported states' antitrust settlement as clearing a major obstacle to the proposed Warner transaction while concentration concerns remain.
 
 - [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — The reported states' antitrust settlement is described as clearing a major obstacle to the proposed Warner transaction while leaving concentration concerns intact.
 

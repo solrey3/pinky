@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-12
 updated: 2026-09-22
 tags: [technology, social-media, ai, privacy, instagram, platforms, platform-accountability, robotics]
-source_count: 41
+source_count: 42
 ---
 
 # Meta
@@ -14,6 +14,8 @@ source_count: 41
 Meta is tracked as a major social-media and AI platform operator, especially when product changes create privacy, moderation, or platform-control issues.
 
 ## Sources
+
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Muse is reportedly blocked by Amazon and affected by a zero-day, joining platform authorization risk with privileged-agent security.
 
 - [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — Muse pairs app-store growth and purchasing authority with a reported zero-day, making delegated credentials and transactions a high-impact security boundary.
 

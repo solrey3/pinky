@@ -3,9 +3,9 @@ id: d68f1374-533a-44a3-9945-fb6e46b52b62
 title: Agentic Commerce
 type: concept
 created: 2026-09-18
-updated: 2026-09-21
+updated: 2026-09-22
 tags: [ai, agents, payments, commerce, authorization, identity]
-source_count: 4
+source_count: 5
 ---
 
 # Agentic Commerce
@@ -13,6 +13,8 @@ source_count: 4
 Agentic commerce is the use of software agents to search, compare, negotiate, select, or purchase goods and services on a person's or organization's behalf. It turns delegated intent into a payment and identity problem: an agent must prove who authorized it, what scope and budget it has, and whether a transaction reflects current user intent.
 
 ## Sources
+
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Amazon's reported block on Muse shows that delegated purchasing requires merchant-platform consent as well as scoped credentials and user authorization.
 
 - [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletter-2026-09-21-evening.md) — Repeats consumer-agent adoption and payment-access concerns, reinforcing scoped credentials, confirmation thresholds, revocation, receipts, and dispute rules.
 
