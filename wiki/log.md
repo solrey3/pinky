@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-22] ingest | Evening Brief — Tuesday, September 22, 2026
+- Source: `pinky/raw/newsletters/2026-09-22-evening-dispatch.md`
+- Summary: September 22 evening brief — Trump's U.N. and Iran messaging, FAA operational AI, Microsoft's disruption of AI-assisted cybercrime tied to 12,000 accounts, GPT-6 Sol and Luna, Claude Opus 5.5, concentrated AMD-led gains, Bitcoin's 6.60% rise, and WTI's 11.83% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-22-evening.md` (new); entity pages `donald-trump`, `faa`, `microsoft`, `openai`, `anthropic`, `wti`; concept pages `federal-ai-governance`, `agentic-ai-security`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market changes from adjacent September 22 dispatches require timestamp, baseline, feed, or contract reconciliation; political, legal, medical, technology, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-22] ingest | Morning Dispatch — Tuesday, September 22, 2026
 - Source: `pinky/raw/newsletters/2026-09-22-daytime-dispatch.md`
 - Summary: September 22 morning dispatch — OpenAI's global AI-standards proposal, FAA operational AI, Amazon's block on Meta Muse, a reported Muse zero-day, Paramount's antitrust settlement, concentrated AMD-led gains, Bitcoin's 6.54% rise, and WTI's 11.36% decline.

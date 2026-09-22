@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-05
 updated: 2026-09-22
 tags: [ai, agents, cybersecurity, authorization, containment, identity, auditability]
-source_count: 11
+source_count: 12
 ---
 
 # Agentic AI Security
@@ -13,6 +13,8 @@ source_count: 11
 The security discipline for AI systems that can take actions through tools, networks, credentials, or external services. It treats model behavior as only one control layer: safe operation also requires explicit authorization, least privilege, isolated environments, identity controls, action logging, rate limits, and reliable shutdown mechanisms.
 
 ## Sources
+
+- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Microsoft's takedown of an AI-assisted cybercrime platform broadens the concept from accidental agent overreach to deliberate scaling of credential abuse.
 
 - [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Muse's reported zero-day and shopping access combine privileged-agent security with third-party platform authorization.
 

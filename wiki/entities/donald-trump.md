@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-09-22
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs, press-freedom]
-source_count: 72
+source_count: 73
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 72
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Uses the U.N. address to frame an America-first response to global threats while suggesting the Iran war may be approaching an end.
 
 - [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — The White House reportedly launches “Trump TV” amid press bans, shifting official messaging toward an administration-controlled channel during an access dispute.
 

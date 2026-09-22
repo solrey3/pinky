@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-22-evening](sources/newsletter-2026-09-22-evening.md) | Evening Brief — Tuesday, September 22, 2026 | newsletter | [newsletter, evening-dispatch, markets, ai-governance, aviation-ai, ai-cybersecurity, frontier-models, iran, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-22 |
 | [newsletter-2026-09-22-noon](sources/newsletter-2026-09-22-noon.md) | Noon Dispatch — Tuesday, September 22, 2026 | newsletter | [newsletter, noon-dispatch, markets, ai-governance, aviation-ai, autonomous-vehicles, iran, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-22 |
 | [newsletter-2026-09-22-daytime](sources/newsletter-2026-09-22-daytime.md) | Morning Dispatch — Tuesday, September 22, 2026 | newsletter | [newsletter, daytime-dispatch, markets, media-consolidation, ai-governance, aviation-ai, agentic-ai-security, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-22 |
 | [newsletter-2026-09-22-midnight](sources/newsletter-2026-09-22-midnight.md) | Midnight Dispatch — Tuesday, September 22, 2026 | newsletter | [newsletter, midnight-dispatch, markets, media-consolidation, agentic-ai-security, press-freedom, immigration, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-22 |
