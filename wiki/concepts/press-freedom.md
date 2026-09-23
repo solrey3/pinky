@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-13
 updated: 2026-09-22
 tags: [first-amendment, journalism, censorship, courts, civil-liberties, media, press-access, executive-power]
-source_count: 11
+source_count: 12
 ---
 
 # Press Freedom
@@ -13,6 +13,8 @@ source_count: 11
 The legal and civic protection of reporting, publication, and news gathering from state or judicial suppression.
 
 ## Sources
+
+- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — The administration's legal defense of excluding selected White House outlets moves the conflict from access practice into an explicit claim of executive authority.
 
 - [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — The reported launch of an administration-controlled television channel amid press bans raises the distinction between official communication and independent scrutiny.
 

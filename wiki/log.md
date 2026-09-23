@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-23] ingest | Morning Dispatch — Wednesday, September 23, 2026
+- Source: `pinky/raw/newsletters/2026-09-23-daytime-dispatch.md`
+- Summary: September 23 morning dispatch — Trump's U.N. address and White House press-access defense, GPT-6 Sol and Luna, Claude Opus 5.5, uncertainty-aware AI, concentrated AMD-led gains, Bitcoin's 5.65% rise, and WTI's 10.10% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-23-daytime.md` (new); entity pages `donald-trump`, `openai`, `anthropic`, `wti`; concept pages `press-freedom`, `ai-model-safety-boundaries`, `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI and Bitcoin quotes differ from the same day's midnight dispatch and require timestamp, baseline, feed, or contract reconciliation; political, legal, environmental, technology, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-23] ingest | Midnight Dispatch — Wednesday, September 23, 2026
 - Source: `pinky/raw/newsletters/2026-09-23-midnight-dispatch.md`
 - Summary: September 23 midnight dispatch — Trump's U.N. and Iran messaging, fading hopes for U.S.–Iran talks, FAA operational AI, GPT-6 Sol and Luna, Claude Opus 5.5, concentrated AMD-led gains, Bitcoin's 6.72% rise, and WTI's 11.10% decline.
