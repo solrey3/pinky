@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-23-evening](sources/newsletter-2026-09-23-evening.md) | Evening Brief — Wednesday, September 23, 2026 | newsletter | [newsletter, evening-dispatch, markets, surveillance, ai-science, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-23 |
 | [newsletter-2026-09-23-noon](sources/newsletter-2026-09-23-noon.md) | Noon Dispatch — Wednesday, September 23, 2026 | newsletter | [newsletter, noon-dispatch, markets, china, iran, autonomous-vehicles, facial-recognition, biodiversity, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-23 |
 | [newsletter-2026-09-23-daytime](sources/newsletter-2026-09-23-daytime.md) | Morning Dispatch — Wednesday, September 23, 2026 | newsletter | [newsletter, daytime-dispatch, markets, frontier-models, press-freedom, model-uncertainty, biodiversity, broadband, oil, prediction-markets, sports, wrestling] | 2026-09-23 |
 | [newsletter-2026-09-23-midnight](sources/newsletter-2026-09-23-midnight.md) | Midnight Dispatch — Wednesday, September 23, 2026 | newsletter | [newsletter, midnight-dispatch, markets, aviation-ai, frontier-models, iran, semiconductors, oil, prediction-markets, data-centers, sports, wrestling] | 2026-09-23 |
@@ -1637,6 +1638,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Tokenized Securities](concepts/tokenized-securities.md) | finance, securities, tokenization, blockchain, settlement, regulation | 2 |
 | [Agentic Commerce](concepts/agentic-commerce.md) | ai, agents, payments, commerce, authorization, identity | 3 |
 | [Ternary Language Models](concepts/ternary-language-models.md) | ai, llm, quantization, ternary-models, model-compression, inference-efficiency | 1 |
+| [AI-Assisted Scientific Discovery](concepts/ai-assisted-scientific-discovery.md) | [ai, science, discovery, biology, validation, reproducibility] | 1 |
 | [AI-Assisted Regulatory Decision-Making](concepts/ai-assisted-regulatory-decision-making.md) | ai, government, regulation, accountability, transparency, environmental-policy, chemical-safety | 1 |
 | [Connected-Car Surveillance](concepts/connected-car-surveillance.md) | privacy, surveillance, vehicles, telematics, data-governance, mobility | 2 |
 | [Ghost Job Listings](concepts/ghost-job-listings.md) | labor, hiring, transparency, job-search, regulation | 4 |

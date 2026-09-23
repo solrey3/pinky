@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-22
 updated: 2026-09-23
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law]
-source_count: 68
+source_count: 69
 ---
 
 # Prediction Markets
@@ -13,6 +13,8 @@ source_count: 68
 Prediction markets are trading venues or market-like instruments that convert expectations about events into prices or probabilities. In this wiki they matter less as oracle machines than as sentiment, incentive, and provenance objects: the price can be useful, but only if the market source, liquidity, rules, extraction method, and failure modes are visible.
 
 ## Sources
+
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Polymarket’s 67% Democratic and 35% Republican Senate-control quotes total 102%, requiring spread, contract, liquidity, and timestamp context.
 
 - [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — Polymarket repeats Senate-control prices totaling 101% and a fully allocated Brazil matchup; both need rules, spread, liquidity, and timestamp context.
 

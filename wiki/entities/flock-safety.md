@@ -4,9 +4,9 @@ title: Flock Safety
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-09-17
+updated: 2026-09-23
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 25
+source_count: 26
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 25
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Charges alleging Indiana officers tracked romantic partners make insider authorization, immutable audit logs, supervisory review, and penalties the central governance failure.
 
 - [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — A physical camera teardown adds hardware transparency to continuing questions about collection, retention, access, auditing, and misuse.
 
