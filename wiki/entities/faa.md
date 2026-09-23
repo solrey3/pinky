@@ -4,9 +4,9 @@ title: FAA
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-09-22
+updated: 2026-09-23
 tags: [government, aviation, transportation, leadership, ai, safety]
-source_count: 8
+source_count: 9
 ---
 
 # FAA
@@ -14,6 +14,8 @@ source_count: 8
 The Federal Aviation Administration, the U.S. aviation regulator. In the newsletter graph, the FAA appears when aviation safety, leadership continuity, and transportation-policy capacity become visible.
 
 ## Sources
+
+- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — Its delay-reduction AI remains a safety-critical deployment requiring bounded authority, controller override, monitoring, and fallback procedures.
 
 - [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Its delay-reduction tool moves AI into live air-traffic workflows where bounded authority, controller override, monitoring, and fallback remain essential.
 
