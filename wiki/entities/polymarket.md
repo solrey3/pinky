@@ -4,9 +4,9 @@ title: Polymarket
 type: entity
 entity_type: product
 created: 2026-07-13
-updated: 2026-09-21
+updated: 2026-09-24
 tags: [prediction-markets, crypto, markets, forecasting]
-source_count: 64
+source_count: 65
 ---
 
 # Polymarket
@@ -14,6 +14,8 @@ source_count: 64
 Polymarket is a prediction-market platform tracked here when market-implied political or event probabilities enter the newsletter graph.
 
 ## Sources
+
+- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-evening.md) — New York seeks to shut the platform down as an allegedly illegal gambling operation, making jurisdiction and product classification central to its market signals.
 
 - [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-noon.md) — Lists Democrats at 63% and Republicans at 39% for Senate control; the 102% combined price requires contract, spread, liquidity, and timestamp context.
 

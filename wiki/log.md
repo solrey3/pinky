@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-24] ingest | Evening Brief — Thursday, September 24, 2026
+- Source: `pinky/raw/newsletters/2026-09-24-evening-dispatch.md`
+- Summary: September 24 evening brief — Trump–Xi White House talks, 7% mortgages, possible diesel-export limits, renewed OpenAI safety criticism, New York's Polymarket lawsuit, concentrated AMD-led gains, and WTI at $94.76.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-24-evening.md` (new); entity pages `donald-trump`, `china`, `openai`, `polymarket`, `amd`, `wti`; concept pages `ai-model-safety-boundaries`, `press-freedom`, `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The AMD and WTI quotes differ materially from the same day's earlier dispatches and require timestamp, baseline, feed, or contract reconciliation; political, legal, health, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-24] ingest | Noon Dispatch — Thursday, September 24, 2026
 - Source: `pinky/raw/newsletters/2026-09-24-noon-dispatch.md`
 - Summary: September 24 noon dispatch — a reported OpenAI-agent breach of an Australian government website, Trump–Xi talks, another judicial check on White House press restrictions, high long-term borrowing costs, concentrated AMD-led gains, and WTI at $96.35.
