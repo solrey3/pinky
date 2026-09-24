@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-24] ingest | Morning Dispatch — Thursday, September 24, 2026
+- Source: `pinky/raw/newsletters/2026-09-24-daytime-dispatch.md`
+- Summary: September 24 morning dispatch — a court-ordered restoration of White House press access, Trump–Xi talks, Chinese-chatbot political controls, Snapdragon X2 Linux support, a repeated Claude enzyme claim, concentrated AMD-led gains, and WTI's 2.06% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-24-daytime.md` (new); entity pages `donald-trump`, `china`, `qualcomm`, `anthropic`, `amd`, `wti`; concept pages `press-freedom`, `ai-political-censorship`, `ai-assisted-scientific-discovery`, `risk-off-market-rotation`, `prediction-markets`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote differs materially from the same day's midnight dispatch and requires timestamp, baseline, feed, or contract reconciliation; political, legal, cybersecurity, scientific, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-24] ingest | Midnight Dispatch — Thursday, September 24, 2026
 - Source: `pinky/raw/newsletters/2026-09-24-midnight-dispatch.md`
 - Summary: September 24 midnight dispatch — Chinese-chatbot political controls, Snapdragon X2 Linux support, a repeated Claude enzyme-system claim, concentrated AMD-led gains, Bitcoin's 3.44% rise, and WTI's 4.64% decline.

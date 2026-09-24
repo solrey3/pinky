@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-24
 updated: 2026-09-24
 tags: [technology, semiconductors, mobile, ai-chips, acquisition, runtime, linux, snapdragon-x2]
-source_count: 3
+source_count: 4
 ---
 
 # Qualcomm
@@ -14,6 +14,8 @@ source_count: 3
 Qualcomm is a semiconductor and wireless-technology company best known for mobile chipsets and connectivity platforms. In the newsletter graph, Qualcomm enters through its planned acquisition of Modular, a signal that AI chip competition increasingly includes software runtimes, compilers, and workload portability.
 
 ## Sources
+
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Repeats planned Linux support for Snapdragon X2 without adding implementation or availability detail.
 
 - [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Announces planned Linux support for Snapdragon X2, extending Qualcomm's PC platform beyond its hardware and AI-runtime strategy.
 

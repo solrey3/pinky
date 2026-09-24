@@ -3,9 +3,9 @@ id: bb401f4f-67ee-4edd-bbf2-789f05d90068
 title: Press Freedom
 type: concept
 created: 2026-07-13
-updated: 2026-09-22
+updated: 2026-09-24
 tags: [first-amendment, journalism, censorship, courts, civil-liberties, media, press-access, executive-power]
-source_count: 12
+source_count: 13
 ---
 
 # Press Freedom
@@ -13,6 +13,8 @@ source_count: 12
 The legal and civic protection of reporting, publication, and news gathering from state or judicial suppression.
 
 ## Sources
+
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — A judge reportedly orders the White House to restore CNN, MS NOW, and Politico access, moving the selective-access dispute from pending litigation to judicial remedy.
 
 - [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — The administration's legal defense of excluding selected White House outlets moves the conflict from access practice into an explicit claim of executive authority.
 
