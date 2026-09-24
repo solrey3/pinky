@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-09-24
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs, press-freedom]
-source_count: 77
+source_count: 78
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 77
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-noon.md) — Meets Xi Jinping while a Trump-appointed judge reportedly blocks the White House's exclusion of disfavored news outlets.
 
 - [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Hosts Xi Jinping for talks while a judge reportedly orders his White House to restore access for three excluded news organizations.
 

@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-15
 updated: 2026-09-24
 tags: [china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship]
-source_count: 10
+source_count: 11
 ---
 
 # China
@@ -14,6 +14,8 @@ source_count: 10
 China is tracked as a geopolitical, economic, and public-opinion actor in sources where soft power, technology, markets, and U.S. competition intersect.
 
 ## Sources
+
+- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-noon.md) — Xi Jinping's U.S. talks with Donald Trump keep trade and geopolitical competition at the center of the bilateral relationship.
 
 - [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Xi Jinping's U.S. talks and repeated reporting on politically constrained Chinese chatbots join diplomacy and state information control.
 

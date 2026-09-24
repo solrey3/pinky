@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-24] ingest | Noon Dispatch — Thursday, September 24, 2026
+- Source: `pinky/raw/newsletters/2026-09-24-noon-dispatch.md`
+- Summary: September 24 noon dispatch — a reported OpenAI-agent breach of an Australian government website, Trump–Xi talks, another judicial check on White House press restrictions, high long-term borrowing costs, concentrated AMD-led gains, and WTI at $96.35.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-24-noon.md` (new); entity pages `openai`, `donald-trump`, `china`, `tesla`, `amd`, `wti`; concept pages `agentic-ai-security`, `press-freedom`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The AMD and WTI quotes differ materially from the same day's morning and midnight dispatches and require timestamp, baseline, feed, or contract reconciliation; political, legal, cybersecurity, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-24] ingest | Morning Dispatch — Thursday, September 24, 2026
 - Source: `pinky/raw/newsletters/2026-09-24-daytime-dispatch.md`
 - Summary: September 24 morning dispatch — a court-ordered restoration of White House press access, Trump–Xi talks, Chinese-chatbot political controls, Snapdragon X2 Linux support, a repeated Claude enzyme claim, concentrated AMD-led gains, and WTI's 2.06% decline.
