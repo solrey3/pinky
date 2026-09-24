@@ -4,9 +4,9 @@ title: China
 type: entity
 entity_type: place
 created: 2026-07-15
-updated: 2026-08-04
-tags: [china, geopolitics, public-opinion, soft-power, united-states, pew-research]
-source_count: 8
+updated: 2026-09-24
+tags: [china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship]
+source_count: 9
 ---
 
 # China
@@ -14,6 +14,8 @@ source_count: 8
 China is tracked as a geopolitical, economic, and public-opinion actor in sources where soft power, technology, markets, and U.S. competition intersect.
 
 ## Sources
+
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Chinese AI chatbots are reported to enforce political guardrails favorable to the ruling party, linking model alignment to state information control.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears in Tesla China-sales scrutiny and Forbes' luxury-market reset item.
 - [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Pew reports that people in many countries now view China more positively than the United States, making China a soft-power and legitimacy benchmark.
@@ -33,3 +35,4 @@ China is tracked as a geopolitical, economic, and public-opinion actor in source
 - [[Pew Research Center]]
 - [[Political Realism]]
 - [[Semiconductor Scaling]]
+- [[AI Political Censorship]]

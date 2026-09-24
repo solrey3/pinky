@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-24-midnight](sources/newsletter-2026-09-24-midnight.md) | Midnight Dispatch — Thursday, September 24, 2026 | newsletter | [newsletter, midnight-dispatch, markets, ai-science, ai-censorship, linux, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-24 |
 | [newsletter-2026-09-23-evening](sources/newsletter-2026-09-23-evening.md) | Evening Brief — Wednesday, September 23, 2026 | newsletter | [newsletter, evening-dispatch, markets, surveillance, ai-science, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-23 |
 | [newsletter-2026-09-23-noon](sources/newsletter-2026-09-23-noon.md) | Noon Dispatch — Wednesday, September 23, 2026 | newsletter | [newsletter, noon-dispatch, markets, china, iran, autonomous-vehicles, facial-recognition, biodiversity, semiconductors, oil, prediction-markets, sports, wrestling] | 2026-09-23 |
 | [newsletter-2026-09-23-daytime](sources/newsletter-2026-09-23-daytime.md) | Morning Dispatch — Wednesday, September 23, 2026 | newsletter | [newsletter, daytime-dispatch, markets, frontier-models, press-freedom, model-uncertainty, biodiversity, broadband, oil, prediction-markets, sports, wrestling] | 2026-09-23 |
@@ -1043,7 +1044,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Russia](entities/russia.md) | place | russia, geopolitics, war, ukraine, security, diplomacy | 11 |
 | [Volodymyr Zelensky](entities/volodymyr-zelensky.md) | person | person, ukraine, geopolitics, war, russia | 7 |
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
-| [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research | 8 |
+| [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 9 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
 | [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia | 1 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
@@ -1163,7 +1164,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 103 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 105 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1238,9 +1239,9 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Base UI](entities/base-ui.md) | product | frontend, react, component-library, developer-tools, ui | 1 |
 | [Bitcoin](entities/bitcoin.md) | product | crypto, cryptocurrency, bitcoin, markets, risk-assets, risk-on | 70 |
 | [Charles Schwab](entities/charles-schwab.md) | organization | finance, brokerage, markets, schw, brokerages, risk-assets, financials | 44 |
-| [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware | 123 |
+| [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware | 125 |
 | [Android](entities/android.md) | product | android, mobile, operating-system, google, app-stores, sideloading, security | 10 |
-| [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation | 89 |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation | 92 |
 | [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai, image-provenance | 37 |
 | [Apertus](entities/apertus.md) | product | ai, open-foundation-model, open-weights, sovereign-ai, model-governance | 2 |
 | [Asahi Linux](entities/asahi-linux.md) | product | linux, apple-silicon, macos, operating-systems, developer-tools | 1 |
@@ -1304,7 +1305,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Cathie Wood](entities/cathie-wood.md) | person | investing, ark-invest, tesla, spacex, markets | 1 |
 | [Ruff](entities/ruff.md) | product | python, linting, developer-tools, code-quality, ai-augmented-development | 1 |
 | [Oracle](entities/oracle.md) | organization | technology, cloud, enterprise-software, ai-infrastructure, layoffs, debt, capex | 2 |
-| [Qualcomm](entities/qualcomm.md) | organization | technology, semiconductors, mobile, ai-chips, acquisition, runtime | 2 |
+| [Qualcomm](entities/qualcomm.md) | organization | technology, semiconductors, mobile, ai-chips, acquisition, runtime, linux, snapdragon-x2 | 3 |
 | [San Antonio Spurs](entities/san-antonio-spurs.md) | organization | nba, basketball, san-antonio-spurs, nba-finals, organization, sports | 15 |
 | [Shadcn/UI](entities/shadcn-ui.md) | product | frontend, react, component-library, developer-tools, ui | 1 |
 | [Social Security](entities/social-security.md) | organization | public-policy, retirement, entitlement, fiscal-policy, united-states | 4 |
@@ -1638,7 +1639,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Tokenized Securities](concepts/tokenized-securities.md) | finance, securities, tokenization, blockchain, settlement, regulation | 2 |
 | [Agentic Commerce](concepts/agentic-commerce.md) | ai, agents, payments, commerce, authorization, identity | 3 |
 | [Ternary Language Models](concepts/ternary-language-models.md) | ai, llm, quantization, ternary-models, model-compression, inference-efficiency | 1 |
-| [AI-Assisted Scientific Discovery](concepts/ai-assisted-scientific-discovery.md) | [ai, science, discovery, biology, validation, reproducibility] | 1 |
+| [AI-Assisted Scientific Discovery](concepts/ai-assisted-scientific-discovery.md) | [ai, science, discovery, biology, validation, reproducibility] | 2 |
+| [AI Political Censorship](concepts/ai-political-censorship.md) | [ai, censorship, information-control, model-alignment, china, governance] | 1 |
 | [AI-Assisted Regulatory Decision-Making](concepts/ai-assisted-regulatory-decision-making.md) | ai, government, regulation, accountability, transparency, environmental-policy, chemical-safety | 1 |
 | [Connected-Car Surveillance](concepts/connected-car-surveillance.md) | privacy, surveillance, vehicles, telematics, data-governance, mobility | 2 |
 | [Ghost Job Listings](concepts/ghost-job-listings.md) | labor, hiring, transparency, job-search, regulation | 4 |
@@ -1730,7 +1732,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Measles Resurgence](concepts/measles-resurgence.md) | [public-health, measles, vaccines, surveillance, outbreak-risk] | 2 |
 | [Passwordless Authentication Security](concepts/passwordless-authentication-security.md) | security, authentication, passkeys, webauthn, identity | 1 |
 | [Cryptographic Agility](concepts/cryptographic-agility.md) | cryptography, security, key-management, certificates, rsa, migration, technical-debt | 1 |
-| [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law | 67 |
+| [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law | 70 |
 | [mRNA Vaccine Safety](concepts/mrna-vaccine-safety.md) | [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication] | 4 |
 | [Nicotine Harm Reduction](concepts/nicotine-harm-reduction.md) | [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda] | 2 |
 | [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 138 |
@@ -1755,7 +1757,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 324 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 326 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 8 |

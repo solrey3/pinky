@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-24] ingest | Midnight Dispatch — Thursday, September 24, 2026
+- Source: `pinky/raw/newsletters/2026-09-24-midnight-dispatch.md`
+- Summary: September 24 midnight dispatch — Chinese-chatbot political controls, Snapdragon X2 Linux support, a repeated Claude enzyme-system claim, concentrated AMD-led gains, Bitcoin's 3.44% rise, and WTI's 4.64% decline.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-24-midnight.md` (new); entity pages `china`, `qualcomm`, `anthropic`, `amd`, `wti`; concept pages `ai-political-censorship` (new), `ai-assisted-scientific-discovery`, `risk-off-market-rotation`, `prediction-markets`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote differs from the prior evening dispatch and requires timestamp, baseline, feed, or contract reconciliation; political, legal, health, cybersecurity, scientific, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-23] ingest | Evening Brief — Wednesday, September 23, 2026
 - Source: `pinky/raw/newsletters/2026-09-23-evening-dispatch.md`
 - Summary: September 23 evening brief — alleged Flock-camera misuse by Indiana officers, Claude’s reported enzyme-system discovery, concentrated AMD-led gains, Bitcoin’s 3.91% rise, and WTI’s 7.57% decline.
