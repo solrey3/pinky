@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-23
 updated: 2026-09-25
 tags: [technology, cloud, enterprise-software, ai-infrastructure, layoffs, debt, capex]
-source_count: 4
+source_count: 5
 ---
 
 # Oracle
@@ -15,6 +15,7 @@ Oracle is an enterprise software and cloud-infrastructure company. In the newsle
 
 ## Sources
 
+- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-noon.md) — Repeats the warning that Oracle might not meet a data-center lease obligation, reinforcing execution and financing risk in AI-infrastructure expansion.
 - [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-daytime.md) — Reportedly warns that it might not meet a data-center lease commitment, adding execution and financing risk to its AI-infrastructure expansion.
 - [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — Shares rise as faster AI-cloud growth and lower cash burn suggest improving economics for its infrastructure expansion.
 - [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Reported 21,000 layoffs are framed as helping fund debt-fueled AI investments, making Oracle a case study in the labor and financing costs of AI infrastructure buildout.

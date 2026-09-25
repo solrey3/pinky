@@ -3,9 +3,9 @@ id: bb401f4f-67ee-4edd-bbf2-789f05d90068
 title: Press Freedom
 type: concept
 created: 2026-07-13
-updated: 2026-09-24
+updated: 2026-09-25
 tags: [first-amendment, journalism, censorship, courts, civil-liberties, media, press-access, executive-power]
-source_count: 15
+source_count: 16
 ---
 
 # Press Freedom
@@ -13,6 +13,8 @@ source_count: 15
 The legal and civic protection of reporting, publication, and news gathering from state or judicial suppression.
 
 ## Sources
+
+- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-noon.md) — Reporters reportedly return after a judge orders White House access restored, moving the selective-access dispute from judicial remedy toward operational compliance.
 
 - [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-evening.md) — White House television-pool access remains unsettled during Xi Jinping's visit, showing that operational access can remain contested despite reported judicial relief.
 
