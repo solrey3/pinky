@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-25] ingest | Evening Brief — Friday, September 25, 2026
+- Source: `pinky/raw/newsletters/2026-09-25-evening-dispatch.md`
+- Summary: September 25 evening brief — Supreme Court voter-database and border-phone-search developments, Oracle lease risk, Iran escalation, gambling-style prediction-market regulation, concentrated AMD-led gains, and WTI at $92.44.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-25-evening.md` (new); entity pages `us-supreme-court`, `oracle`, `iran`, `amd`, `wti`; concept pages `digital-border-searches`, `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The AMD, WTI, Bitcoin, and index figures differ from earlier September 25 dispatches and require timestamp, baseline, feed, or contract reconciliation; political, military, legal, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-25] ingest | Morning Dispatch — Friday, September 25, 2026
 - Source: `pinky/raw/newsletters/2026-09-25-daytime-dispatch.md`
 - Summary: September 25 morning dispatch — Trump–Xi White House talks, 7% mortgages, Oracle data-center lease risk, a Dutch NixOS public-sector initiative, concentrated AMD-led gains, and WTI at $92.97.
