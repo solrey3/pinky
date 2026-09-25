@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-25] ingest | Morning Dispatch — Friday, September 25, 2026
+- Source: `pinky/raw/newsletters/2026-09-25-daytime-dispatch.md`
+- Summary: September 25 morning dispatch — Trump–Xi White House talks, 7% mortgages, Oracle data-center lease risk, a Dutch NixOS public-sector initiative, concentrated AMD-led gains, and WTI at $92.97.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-25-daytime.md` (new); entity pages `donald-trump`, `china`, `oracle`, `amd`, `wti`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI and Bitcoin changes differ from the adjacent midnight dispatch and require timestamp, baseline, feed, or contract reconciliation; political, geopolitical, public-health, market, weather, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-25] ingest | Midnight Dispatch — Friday, September 25, 2026
 - Source: `pinky/raw/newsletters/2026-09-25-midnight-dispatch.md`
 - Summary: September 25 midnight dispatch — Trump–Xi White House talks, 7% mortgages, possible diesel-export limits, concentrated AMD-led gains, Bitcoin weakness, and WTI at $93.09.
