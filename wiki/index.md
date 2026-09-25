@@ -132,7 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
-| [newsletter-2026-09-25-evening](sources/newsletter-2026-09-25-evening.md) | Evening Brief — Friday, September 25, 2026 | newsletter | [newsletter, evening-dispatch, markets, election-law, border-searches, data-centers, iran, prediction-markets, semiconductors, oil, sports, wrestling] | 2026-09-25 |
+| [newsletter-2026-09-25-evening](sources/newsletter-2026-09-25-evening.md) | Evening Brief — Friday, September 25, 2026 | newsletter | [newsletter, evening-dispatch, markets, election-law, border-searches, data-centers, iran, black-sea, semiconductors, oil, sports, wrestling] | 2026-09-25 |
 | [newsletter-2026-09-25-noon](sources/newsletter-2026-09-25-noon.md) | Noon Dispatch — Friday, September 25, 2026 | newsletter | [newsletter, noon-dispatch, markets, mortgages, data-centers, press-freedom, ai-governance, semiconductors, oil, sports, wrestling] | 2026-09-25 |
 | [newsletter-2026-09-25-daytime](sources/newsletter-2026-09-25-daytime.md) | Morning Dispatch — Friday, September 25, 2026 | newsletter | [newsletter, daytime-dispatch, markets, china, mortgages, data-centers, nixos, semiconductors, oil, sports, wrestling] | 2026-09-25 |
 | [newsletter-2026-09-25-midnight](sources/newsletter-2026-09-25-midnight.md) | Midnight Dispatch — Friday, September 25, 2026 | newsletter | [newsletter, midnight-dispatch, markets, china, mortgages, diesel, semiconductors, open-source, sports, wrestling] | 2026-09-25 |

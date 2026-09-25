@@ -2542,3 +2542,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: September 25 noon dispatch — 7% mortgages, near-peak long yields, Oracle's data-center lease warning, restored White House press access, an appellate win for the Pentagon in Anthropic's blacklist case, and an AMD-led technology rally amid weak small caps, diversified exposures, Bitcoin, and oil.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-25-noon.md` (new); entity pages `oracle`, `anthropic`, `amd`, `wti`; concept pages `press-freedom`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The Anthropic appellate headline appears to reverse or limit earlier lower-court coverage, and intraday market figures require timestamp, baseline, feed, and contract reconciliation; legal, political, public-health, market, injury, and sports claims remain subject to primary confirmation.
+
+## [2026-09-25] update | Evening Brief — Friday, September 25, 2026
+- Source: `pinky/raw/newsletters/2026-09-25-evening-dispatch.md`
+- Summary: Reconciled the existing ingest to the immutable raw newsletter: retained Supreme Court voter-check and border-phone-search developments, Oracle lease risk, Iran and Black Sea tensions, concentrated AMD-led gains, and WTI at $92.44; removed unsupported prediction-market claims and corrected Bitcoin's decline to 3.07%.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-25-evening.md`; `pinky/wiki/concepts/prediction-markets.md`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Existing entity and relevant concept pages were verified. Market figures across September 25 dispatches still require timestamp, baseline, feed, or contract reconciliation; aggregated claims remain subject to primary confirmation.
