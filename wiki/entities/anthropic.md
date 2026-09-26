@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-05-28
 updated: 2026-09-26
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation]
-source_count: 95
+source_count: 96
 ---
 
 # Anthropic
@@ -52,6 +52,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - **May 30, 2026**: gHacks confirms **Claude Opus 4.8 with effort controls and dynamic workflows for Claude Code** — the effort controls are described as the headline feature. This is the full feature release detail for the model that went live May 28.
 
 ## Sources
+
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — Repeats the appellate ruling permitting a government blacklist tied to Claude feature restrictions, keeping procurement power central to Anthropic's governance record.
 
 - [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Repeats the appellate ruling permitting the government blacklist tied to Claude feature restrictions, reinforcing the reversal or limitation of the earlier lower-court outcome.
 

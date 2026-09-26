@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-01
 updated: 2026-09-26
 tags: [ai, labor, jobs, automation, customer-service, economics, robotics, worker-agency]
-source_count: 10
+source_count: 11
 ---
 
 # AI Labor Displacement
@@ -13,6 +13,8 @@ source_count: 10
 AI labor displacement is the risk and process by which AI systems substitute for, deskill, reallocate, or reprice human work. In this wiki, the concept matters when automation moves from abstract productivity claims into visible job categories, customer experience, wages, scheduling, bargaining power, or institutional accountability.
 
 ## Sources
+
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — Repeats Tesla-worker resistance to training Optimus replacements, reinforcing that automation depends on worker knowledge, participation, consent, and bargaining power.
 
 - [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Tesla workers reportedly resist training Optimus robots presented as replacements, showing that automation depends on worker knowledge, participation, bargaining power, and consent.
 

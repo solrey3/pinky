@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-26] ingest | Morning Dispatch — Saturday, September 26, 2026
+- Source: `pinky/raw/newsletters/2026-09-26-daytime-dispatch.md`
+- Summary: September 26 morning dispatch — immigration-database voter checks, nor'easter preparations, an Anthropic blacklist ruling, Tesla-worker resistance to Optimus training, concentrated AMD-led weekly gains, 7.22% mortgages, and WTI at $92.41.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-26-daytime.md` (new); entity pages `us-supreme-court`, `anthropic`, `tesla`, `amd`, `wti`; concept pages `ai-labor-displacement`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI and Bitcoin figures differ from the adjacent midnight dispatch and require timestamp, baseline, feed, or contract reconciliation; political, legal, weather, market, injury, contract, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-25] ingest | Evening Brief — Friday, September 25, 2026
 - Source: `pinky/raw/newsletters/2026-09-25-evening-dispatch.md`
 - Summary: September 25 evening brief — Supreme Court voter-database and border-phone-search developments, Oracle lease risk, Iran escalation, gambling-style prediction-market regulation, concentrated AMD-led gains, and WTI at $92.44.
