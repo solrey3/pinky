@@ -153,22 +153,22 @@ The Nasdaq led at **+2.06%**, the S&P 500 gained **1.21%**, and the Russell 2000
 ### Scoreboard
 
 #### 🏈 NCAAF
-Rankings: [AP Top 25](https://apnews.com/hub/ap-top-25-college-football-poll) *(verified Sept. 20 poll; AP rank shown beside ranked teams)*
+Rankings: [AP Top 25](https://apnews.com/hub/ap-top-25-college-football-poll) *(verified Sept. 20 poll; ranks shown beside ranked teams)*
 
 | Matchup | Final/Status | Box Score |
 |---|---|---|
 | Army at Temple | Army 21, Temple 17 | [Full box score](https://www.espn.com/college-football/boxscore/_/gameId/401862779) |
 | Howard at Rutgers | Rutgers 58, Howard 7 | [Full box score](https://www.espn.com/college-football/boxscore/_/gameId/401858468) |
 | Navy at UAB | UAB 24, Navy 20 | [Full box score](https://www.espn.com/college-football/boxscore/_/gameId/401862778) |
-| Northwestern at AP #5 Indiana | AP #5 Indiana 29, Northwestern 23 | [Full box score](https://sports.yahoo.com/ncaaf/northwestern-wildcats-indiana-hoosiers-202609250027/) |
+| Northwestern at #5 Indiana | #5 Indiana 29, Northwestern 23 | [Full box score](https://sports.yahoo.com/ncaaf/northwestern-wildcats-indiana-hoosiers-202609250027/) |
 | Clemson at California | Clemson 24, California 10 | [Full box score](https://www.espn.com/college-football/boxscore/_/gameId/401858234) |
 
 | Time | Matchup | TV |
 |---|---|---|
-| 12:00 PM EDT | AP #1 Texas at AP #14 Tennessee | ABC |
-| 12:00 PM EDT | Illinois at AP #7 Ohio State | FOX |
-| 12:00 PM EDT | Sam Houston at AP #11 Texas Tech | TNT |
-| 12:00 PM EDT | Wake Forest at AP #16 Louisville | ESPN, Disney+ |
+| 12:00 PM EDT | #1 Texas at #14 Tennessee | ABC |
+| 12:00 PM EDT | Illinois at #7 Ohio State | FOX |
+| 12:00 PM EDT | Sam Houston at #11 Texas Tech | TNT |
+| 12:00 PM EDT | Wake Forest at #16 Louisville | ESPN, Disney+ |
 | 12:00 PM EDT | Colorado at Baylor | ESPN2 |
 | 12:00 PM EDT | Bucknell at Pittsburgh | ACCNX |
 | 12:00 PM EDT | Virginia Tech at Boston College | ACC Network |
@@ -179,14 +179,14 @@ Rankings: [AP Top 25](https://apnews.com/hub/ap-top-25-college-football-poll) *(
 | 12:45 PM EDT | South Alabama at Kentucky | SEC Network |
 | 1:00 PM EDT | Lindenwood at Eastern Michigan | ESPN+ |
 | 1:30 PM EDT | UCLA at Maryland | BTN |
-| 2:00 PM EDT | AP #3 Notre Dame at Purdue | Peacock |
+| 2:00 PM EDT | #3 Notre Dame at Purdue | Peacock |
 | 2:00 PM EDT | Northern Illinois at Georgia State | ESPN+ |
 | 3:00 PM EDT | Central Arkansas at Florida State | ACC Network |
 | 3:00 PM EDT | Hawai'i at Wyoming | CW |
-| 3:30 PM EDT | Oklahoma at AP #2 Georgia | ESPN, Disney+ |
-| 3:30 PM EDT | AP #4 Ole Miss at AP #21 Florida | ABC |
-| 3:30 PM EDT | AP #15 Utah at Iowa State | FOX |
-| 3:30 PM EDT | AP #17 Iowa at AP #18 Michigan | CBS |
+| 3:30 PM EDT | Oklahoma at #2 Georgia | ESPN, Disney+ |
+| 3:30 PM EDT | #4 Ole Miss at #21 Florida | ABC |
+| 3:30 PM EDT | #15 Utah at Iowa State | FOX |
+| 3:30 PM EDT | #17 Iowa at #18 Michigan | CBS |
 | 3:30 PM EDT | TCU at UCF | FS1 |
 | 3:30 PM EDT | William & Mary at Duke | ACCNX |
 | 3:30 PM EDT | Boise State at Western Michigan | ESPN2 |
