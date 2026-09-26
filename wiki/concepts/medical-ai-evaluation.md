@@ -3,9 +3,9 @@ id: e654e631-fd72-450b-a0bd-49fd8d8645b1
 title: Medical AI Evaluation
 type: concept
 created: 2026-08-09
-updated: 2026-08-09
+updated: 2026-09-26
 tags: [ai, medicine, evaluation, safety, benchmarks]
-source_count: 2
+source_count: 3
 ---
 
 # Medical AI Evaluation
@@ -13,6 +13,8 @@ source_count: 2
 The measurement of AI performance on clinical tests, diagnostic tasks, and care workflows. Benchmark accuracy establishes task capability but not automatically clinical usefulness, calibration, patient safety, accountability, or performance under distribution shift.
 
 ## Sources
+
+- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-evening.md) — Warns that chatbot health advice cannot replace physicians, reinforcing clinical validation, accountability, and escalation as deployment requirements.
 
 - [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Reports claims of AI beating doctors on medical tests while preserving the distinction between benchmark capability and safe clinical deployment.
 
