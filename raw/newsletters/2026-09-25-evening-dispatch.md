@@ -41,6 +41,7 @@ created: 2026-09-25T22:20:31+00:00
 - **[China blocks Ayungin resupply mission anew](https://www.philstar.com/headlines/2026/09/26/2558942/china-blocks-ayungin-resupply-mission-anew)** — West Philippine Sea tensions remain front and center. (Philstar)
 - **[SWS: 52% of Pinoys feel helpless against corruption](https://www.philstar.com/headlines/2026/09/26/2558944/sws-52-percent-pinoys-feel-helpless-vs-corruption)** — The survey captures broad public frustration. (Philstar)
 - **[Mary Jane Veloso walks free after pardon](https://www.rappler.com/philippines/overseas-filipinos/mary-jane-veloso-released-detention-september-25-2026/)** — Veloso’s release closes a long-running detention chapter. (Rappler)
+- **[Prosecution says it is prepared to question Baste Duterte](https://www.abs-cbn.com/news/nation/2026/9/26/-sana-dumating-prosecution-says-prepared-to-question-baste-duterte-1005)** — The House panel says it is ready if the Davao mayor takes the stand in his sister’s impeachment trial. (ABS-CBN News)
 
 ### AI & Tech Desk
 - **[The iPhone 18 Pro is Apple’s coolest smartphone—literally](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/)** — Ars puts Apple’s thermal improvements through review. (Ars Technica)
@@ -133,16 +134,19 @@ created: 2026-09-25T22:20:31+00:00
 - **[Yankees retire CC Sabathia’s No. 52](https://sports.yahoo.com/articles/yankees-retire-hall-of-famer-cc-214947884.html)** — The Hall of Famer also received a Monument Park plaque. (MLB / Yahoo Sports)
 - **[Sinner ruled out of China Open with knee injury](https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Blink%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D)** — The injury reshapes the Beijing field. (Tennis / Yahoo Sports)
 - **[PGA Tour’s major-market dilemma](https://sportsdata.usatoday.com/golf/pga/presidents-cup)** — Presidents Cup attention renews questions about golf’s market reach. (PGA / Yahoo Sports)
-- **[Dani Martínez ends two-year win drought](https://www.cyclingnews.com/pro-cycling/racing/cro-race-colombian-dani-martinez-ends-two-year-drought-on-wins-with-small-group-victory-on-stage-4/)** — The Colombian took CRO Race stage 4 from a small group. (Cycling / Cyclingnews)
 
 ### Scoreboard
 
 #### 🏈 NFL
+Standings: [NFL standings](https://www.nfl.com/standings/)
+
 | Matchup | Final/Status | Box Score |
 |---|---|---|
 | Falcons at Packers | Atlanta 35, Green Bay 14 — Final | [Full box score](https://sports.yahoo.com/nfl/atlanta-falcons-green-bay-packers-20260924009/) |
 
 #### 🏈 NCAAF
+Rankings: [AP Top 25](https://apnews.com/hub/ap-top-25-college-football-poll)
+
 | Matchup | Final/Status | Box Score |
 |---|---|---|
 | Liberty at Coastal Carolina | Liberty 34, Coastal Carolina 17 — Final | [Full box score](https://www.espn.com/college-football/boxscore/_/gameId/401869941) |
@@ -201,6 +205,8 @@ Standings: [MLB standings](https://www.mlb.com/standings)
 | 9/26, 4:10 PM EDT | Rangers at Twins | MLB.TV, Twins.TV, Rangers Sports Network |
 
 #### 🏒 NHL
+Standings: [NHL standings](https://www.nhl.com/standings/)
+
 | Matchup | Final/Status | Box Score |
 |---|---|---|
 | Bruins at Flyers | Philadelphia 2–0 | [Full box score](https://www.espn.com/nhl/boxscore/_/gameId/401879363) |
@@ -233,11 +239,6 @@ Standings: [MLS standings](https://www.mlssoccer.com/standings/)
 | 9/26, 7:30 PM EDT | Chicago at Charlotte | Apple TV |
 | 9/26, 7:30 PM EDT | Orlando at Philadelphia | Apple TV |
 | 9/26, 7:30 PM EDT | St. Louis at Red Bull New York | Apple TV |
-
-#### 🚴 Cycling
-Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
-
-**2026 final:** Tadej Pogacar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel. Mathieu van der Poel won Stage 21 in 1:58:49.
 
 ### Team Reports
 
