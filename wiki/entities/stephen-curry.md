@@ -4,9 +4,9 @@ title: "Stephen Curry"
 type: entity
 entity_type: person
 created: "2026-05-14T23:10:00-0400"
-updated: 2026-07-22
-tags: [basketball, nba, player, shooting, analytics, endorsement, li-ning]
-source_count: 4
+updated: 2026-09-26
+tags: [basketball, nba, player, shooting, analytics, endorsement, li-ning, golden-state-warriors, contract]
+source_count: 5
 ---
 
 # Stephen Curry
@@ -18,6 +18,8 @@ NBA point guard widely credited with revolutionizing the game through three-poin
 On **June 2, 2026** (per r/sports), Curry signed with **Li-Ning** — a Chinese athletic brand — following his split from Under Armour. The move is commercially significant: Li-Ning is aggressively bidding for Western sports cachet as it competes with Nike and Adidas in the global athletic market. Signing one of the most recognized basketball players of the era is their biggest Western endorsement acquisition. For Curry, it is a bet on Asian market growth and a willingness to associate with a brand that carries geopolitical weight at a moment of elevated US-China trade tension.
 
 ## Sources
+
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Reportedly agrees to a two-year, $116 million Warriors extension, reinforcing his stated intention to remain with Golden State.
 
 - [2026-05-14: How Our RAPTOR Metric Works](sources/fivethirtyeight-raptor-metric.md) — Archetype of the ball-dominant scorer/spacer RAPTOR rates as phenomenally good
 - [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Curry signs with Li-Ning after Under Armour split; significant endorsement shift with commercial and geopolitical undertones

@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-09-02
-tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality]
-source_count: 38
+updated: 2026-09-26
+tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality, lease-financing]
+source_count: 39
 ---
 
 # AI Infrastructure Energy Demand
@@ -13,6 +13,8 @@ source_count: 38
 AI infrastructure energy demand is the load-growth created by training, inference, networking, cooling, and data-center expansion for AI systems. It connects model capability to electricity procurement, grid reliability, siting politics, and capex.
 
 ## Sources
+
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Oracle's warning that it might not meet a data-center lease obligation makes lease finance and execution capacity explicit constraints on AI infrastructure expansion.
 
 - [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-noon.md) — Small modular reactors remain a proposed data-center supply option whose licensing, build-time, cost, waste, and grid constraints require evaluation.
 

@@ -2548,3 +2548,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: Reconciled the existing ingest to the immutable raw newsletter: retained Supreme Court voter-check and border-phone-search developments, Oracle lease risk, Iran and Black Sea tensions, concentrated AMD-led gains, and WTI at $92.44; removed unsupported prediction-market claims and corrected Bitcoin's decline to 3.07%.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-25-evening.md`; `pinky/wiki/concepts/prediction-markets.md`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Existing entity and relevant concept pages were verified. Market figures across September 25 dispatches still require timestamp, baseline, feed, or contract reconciliation; aggregated claims remain subject to primary confirmation.
+
+## [2026-09-26] ingest | Midnight Dispatch — Saturday, September 26, 2026
+- Source: `pinky/raw/newsletters/2026-09-26-midnight-dispatch.md`
+- Summary: September 26 midnight dispatch — Supreme Court voter-check and border-phone-search disputes, Oracle lease risk, Anthropic's appellate blacklist loss, worker resistance to Tesla robot training, an AMD-led technology rally with weak breadth, and Stephen Curry's reported Warriors extension.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-26-midnight.md` (new); entity pages `us-supreme-court`, `oracle`, `anthropic`, `tesla`, `amd`, `stephen-curry`; concept pages `digital-border-searches`, `ai-infrastructure-energy-demand`, `ai-labor-displacement`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Market values repeat a weekly snapshot rather than establish a new session; legal, political, contract, market, injury, and sports claims remain subject to primary confirmation.

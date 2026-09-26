@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-09-25
+updated: 2026-09-26
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 19
+source_count: 20
 ---
 
 # U.S. Supreme Court
@@ -14,6 +14,8 @@ source_count: 19
 The highest court in the United States. In the newsletter graph, it is tracked when Court rulings reshape constitutional boundaries, regulatory power, civil liberties, or institutional checks.
 
 ## Sources
+
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Repeats the revived immigration-database voter-check effort and pending border-phone-search challenge; both require procedural context before broad doctrinal conclusions.
 
 - [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — Reportedly revives immigration-database voter checks and faces a border-phone-search challenge, joining election administration with digital-privacy limits.
 
