@@ -290,12 +290,12 @@ Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 > - [Arsenal weighs three options to replace injured Kai Havertz](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1FzNmVvU3N6MUlnczlmQV8yN0gzQXE5OS1ITUNpbXFMUy1zZmFUX044Z1NxcGdRVzBfZU9iT3ZrX3k4aDhXUHlSeFdsMUE0RzlEVGNhQjZ3NVpjRFBNdlBweFFjWkhiQlExWV9TOEFDSGtZcFFaeGc4ck1ya3RHNEt3Skh3WUpleThsNkZjajjSAZYBQVVfeXFMTkl3ekNMcVdhVkVJa20ycTlzVzNoZWhSNGl0cXBRdWljcC02VzVyODlqZlFBMjVFY1gxNXZlTzUyMWZkcE1OZHhjVjdrb0lQeTdBUTFZdEJyQkhhdmFkNmJuM01EelltejJkYnQxc01TY3VEZFlINFVjZkhoOF9mcjQ3WDdaMmVSanU3SlNRTmE1VEpUNnVn?oc=5) — The attack’s depth is back under the microscope.
 > - [Arsenal gets clarity if Manchester City is stripped of titles](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnBydjk1SWRsa1VjcXQ5OTY0OC1WSlltN2JsZzVuQklDOFQ0dmdXWUcxWFN5QW04YnNiVl9VMnFrc0lGN25DT1pWYVU2eVR6YmppS0JQcUE3aC1KNFZEd00zUzZleXk3ZzFKUXQxU2c4VXdPZ2pMdXBSNTlLTkVfNjlKOFB4b1U2TWRrU1l1eVJrdGEtUUxXOGZqUjhIWjhrc3M5MEZTRDBRMnJGZnc?oc=5) — Arsenal is among the clubs watching the potential competitive fallout.
 
-> **COMO 1907** — [Team source](https://comofootball.com/en/)
+> **COMO 1907** — [Team source](https://comofootball.com/en/) · [Champions League](https://www.uefa.com/uefachampionsleague/)
 >
-> Last five: T 1–1 Udinese; W 2–1 Napoli; W 4–1 Genoa; W 2–1 Parma; L 0–2 Frosinone. Next: Roma at home Oct. 11 at 6:30 AM ET; at Fiorentina Oct. 18 at 9 AM ET, both on Paramount+.
+> Last five in Serie A: T 1–1 Udinese; W 2–1 Napoli; W 4–1 Genoa; W 2–1 Parma; L 0–2 Frosinone. Como also opened its Champions League campaign with a 4–1 win over RB Leipzig. Next: Roma at home Oct. 11 on Paramount+; at Feyenoord Oct. 14 at 12:45 PM ET on Paramount+; Manchester United at home Oct. 21 at 12:45 PM ET on Paramount+.
 >
-> - [Frosinone–Como match preview](https://news.google.com/rss/articles/CBMib0FVX3lxTE5sb2NtTC15MmFaZUk1WC1YaWI5ZWRrdHRZT0ZhN0cwZ3IweFhhTHFkN0hwRE1ZX3dfelRadXppTzM2QUFtdnFOLWxiRkVkRnp1bTI5VWdrbnh5WnM5T2trb0RDVGJWM1NlbFRZLUVmUQ?oc=5) — Como entered the trip looking to extend a strong three-win run.
-> - [Serie A releases dates and times for Weeks 12–19](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFJPTEZ6TXI0Xy1mYWtDd09qS3pwOUszTVJoYk4ycmFYNFVUY2JQR2wzRUs4MU1lYWFIalplRk94NmZFaF8xcUJMeERzR2ZObVdlcHp1SGRIODVtQnZOY19UQS0zX3ZyVTQ3bzJQMTFQc2ZUN1FlbW5QMWYxR01xakRGLWhqYWM?oc=5) — Como’s later-season calendar now has firmer kickoff windows.
+> - [Stadio Sinigaglia will host Champions League football](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjgwYTE4ZDlXQ1o1aTBra0hHcnVWMnBDNGNnZDZ3bXN2c2U2U3BSeXpfZjUyRlV1YkNPRU84dDBYZ2ViLVFuRVQ5akdXUjRZMnZsVkk4c09DNHlYdXAwVlljUDJEbmUwRTdEaWM5bVd0MDV6U1ZlcGc4elFVLUtHNkFlTjBTcEJ5RGc?oc=5) — Como’s historic home is ready for Europe’s biggest club competition.
+> - [Como’s remarkable road to the Champions League](https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHM2UnFnR2plQXItd3JvZnBxVk9HVjhhdWlycTZXLWl4eUg0aGdQM0N1VWo3RThaeUtVT2FLajc3N25tZnE1Q2lrOU9nWTgwdTdaaGF5aDk5dlZnSjktMGtqQmhjem8wNV9hWDJoU21WNDNiaFkyUmppOXJSNDRxamJMTV8zWWRETUR5TUZhazFmbVNTQ1BGeFB2WVpySnJYcThhV19OcHFkQS1SVUFiZzBEVWQ5eUpTSWoxQVozWnZXM3l4MHRLUV9n?oc=5) — UEFA traces the climb that brought the Lake Como club onto the continental stage.
 
 ---
 
