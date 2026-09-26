@@ -270,15 +270,20 @@ Standings: [MLS standings](https://www.mlssoccer.com/standings/)
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
-**Saturday night has Collision, CMLL and plenty of All Out chatter.**
+**Tonight’s Spotlight — All Out and Worlds Collide.** AEW’s PPV starts at 8 PM ET; WWE/AAA/NXT has a same-night live event in Chicago, with no live stream announced for tonight.
+
+- [AEW All Out 2026 start time and match card](https://www.cagesideseats.com/aew/477829/aew-all-out-2026-start-time-match-card) — Tailgate Brawl pre-show at 7 PM ET on TNT/HBO Max; PPV main card at 8 PM ET.
+- [WWE/AAA/NXT Worlds Collide](https://www.wwe.com/event/worlds-collide-1) — WWE lists the Chicago show for tonight at 7:30 PM local time; [Cageside reports a Wednesday YouTube airing rather than a live stream](https://www.cagesideseats.com/wwe/477521/wwe-worlds-collide-2026-predictions-how-to-watch-stream-opposite-aew-chicago-2026-predictions-punk-mysterio-aaa-nxt).
 
 ### Upcoming TV / PLE Schedule
 | Group | Upcoming | Watch / Verify |
 |---|---|---|
+| AEW | **All Out PPV TODAY — Sep. 26, 8 PM ET**; pre-show 7 PM ET | [Event preview](https://www.cagesideseats.com/aew/477829/aew-all-out-2026-start-time-match-card) · HBO Max/PPV; pre-show TNT/HBO Max |
+| WWE / AAA / NXT | **Worlds Collide TODAY — Sep. 26, 7:30 PM Chicago local (live event)**; YouTube airing Wednesday | [Official event](https://www.wwe.com/event/worlds-collide-1) · [Broadcast report](https://www.cagesideseats.com/wwe/477521/wwe-worlds-collide-2026-predictions-how-to-watch-stream-opposite-aew-chicago-2026-predictions-punk-mysterio-aaa-nxt) |
 | WWE | Raw Sep. 28; SmackDown Oct. 2 | Netflix/USA/Peacock · [Events](https://www.wwe.com/events) |
 | NXT | TV Sep. 29 | CW/Peacock · [Events](https://www.wwe.com/events) |
 | AAA | Cards vary | [Official](https://www.luchalibreaaa.com/) |
-| AEW | Collision tonight; Dynamite Sep. 30 | TNT/TBS/PPV · [Events](https://www.allelitewrestling.com/aew-events) |
+| AEW | Dynamite Sep. 30; All Out PPV tonight (above) | TBS/PPV · [Events](https://www.allelitewrestling.com/aew-events) |
 | ROH | TV Oct. 1 | HonorClub · [Official](https://www.ringofhonor.com/) |
 | TNA | iMPACT! Oct. 1 | AXS/TNA+ · [Events](https://tnawrestling.com/events/) |
 | NJPW | Calendar-based cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
