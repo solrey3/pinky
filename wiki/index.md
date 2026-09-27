@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-27-daytime](sources/newsletter-2026-09-27-daytime.md) | Morning Dispatch — Sunday, September 27, 2026 | newsletter | [newsletter, daytime-dispatch, markets, election-law, military-ai, copyright, climate, mortgages, semiconductors, sports, wrestling] | 2026-09-27 |
 | [newsletter-2026-09-27-midnight](sources/newsletter-2026-09-27-midnight.md) | Midnight Dispatch — Sunday, September 27, 2026 | newsletter | [newsletter, midnight-dispatch, markets, election-law, black-sea, mortgages, cybersecurity, military-ai, semiconductors, sports, wrestling] | 2026-09-27 |
 | [newsletter-2026-09-26-evening](sources/newsletter-2026-09-26-evening.md) | Evening Brief — Saturday, September 26, 2026 | newsletter | [newsletter, evening-dispatch, markets, election-law, medical-ai, ai-governance, data-breach, black-sea, mortgages, semiconductors, sports, wrestling] | 2026-09-26 |
 | [newsletter-2026-09-26-noon](sources/newsletter-2026-09-26-noon.md) | Noon Dispatch — Saturday, September 26, 2026 | newsletter | [newsletter, noon-dispatch, markets, election-law, agentic-ai-security, ai-labor, mortgages, black-sea, semiconductors, sports, wrestling] | 2026-09-26 |
