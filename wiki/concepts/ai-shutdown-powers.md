@@ -3,9 +3,9 @@ id: 23fbc027-acdf-40af-b1f0-bfd7d8d34364
 title: AI Shutdown Powers
 type: concept
 created: 2026-07-23
-updated: 2026-07-24
+updated: 2026-09-27
 tags: [ai, governance, emergency-powers, safety, regulation, shutdown-authority]
-source_count: 2
+source_count: 3
 ---
 
 # AI Shutdown Powers
@@ -13,6 +13,8 @@ source_count: 2
 AI shutdown powers are legal or operational authorities that let a government or controlling institution order an AI system paused, disconnected, restricted, or terminated when it is judged dangerous or rogue. The key issue is boundary design: who can invoke the power, what evidence threshold applies, what system scope is covered, and how false positives or political misuse are constrained.
 
 ## Sources
+
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Bill Gates criticizes the framing of the AI “kill switch” debate, adding technical-feasibility skepticism without resolving authority or safeguard design.
 
 - [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The proposed AI Kill Switch Act would let the Trump administration order shutdowns of rogue AI systems, moving AI safety from voluntary guardrails toward emergency-state authority.
 - [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The AI Kill Switch Act appears again as proposed authority for the Trump administration to shut down rogue AI systems.

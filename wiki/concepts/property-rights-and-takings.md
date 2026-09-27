@@ -3,9 +3,9 @@ id: a98cf4eb-606f-4a4d-ba4c-4d62a32dbb63
 title: Property Rights and Takings
 type: concept
 created: 2026-07-17
-updated: 2026-08-03
+updated: 2026-09-27
 tags: [law, property-rights, eminent-domain, takings, supreme-court, infrastructure]
-source_count: 13
+source_count: 14
 ---
 
 # Property Rights and Takings
@@ -13,6 +13,8 @@ source_count: 13
 Property rights and takings doctrine covers when government or state-authorized actors can seize or burden private property for public use, and what compensation or litigation costs owners can recover. It matters when infrastructure development moves private losses onto individual landowners.
 
 ## Sources
+
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — A Houston dispute over police destruction of an innocent woman’s car extends compensation questions from eminent domain to direct government-caused property loss.
 
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — HOA foreclosure fights keep private-association enforcement in the same ownership-security frame as public takings doctrine.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Rhode Island eminent-domain limits and HOA foreclosure scrutiny connect public takings doctrine with private property-enforcement pressure.

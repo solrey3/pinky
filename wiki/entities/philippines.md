@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-09-27
 tags: [philippines, makati, sports, tennis, weather, southeast-asia]
-source_count: 1
+source_count: 2
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 1
 The Philippines is tracked in the newsletter graph through Makati weather context and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Receives U.S. backing after alleged Chinese maneuvers at Ayungin Shoal while its Coast Guard checks separate exercise reports near Bajo de Masinloc.
 
 - [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Makati opens hot and showery, while ESPN coverage frames Alex Eala as a national Filipino sports-devotion story.
 

@@ -4,9 +4,9 @@ title: Iran
 type: entity
 entity_type: place
 created: 2026-06-20
-updated: 2026-09-25
+updated: 2026-09-27
 tags: [iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy]
-source_count: 102
+source_count: 103
 ---
 
 # Iran
@@ -14,6 +14,8 @@ source_count: 102
 Iran is tracked in the newsletter graph as a geopolitical and energy-market actor. Its relevance is strongest where diplomacy, Strait of Hormuz shipping, oil prices, and U.S. executive politics intersect.
 
 ## Sources
+
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Reports Tehran is ready for renewed strikes after President Trump rejected a deal, preserving the escalation risk around stalled diplomacy.
 
 - [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — Reportedly favors continued offensive pressure rather than retreat, sustaining escalation, Hormuz, and energy-market risk.
 
