@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-27-evening](sources/newsletter-2026-09-27-evening.md) | Evening Brief — Sunday, September 27, 2026 | newsletter | [newsletter, evening-dispatch, markets, election-law, immigration, private-credit, ai-governance, electric-trucking, philippines, mortgages, semiconductors, sports, wrestling] | 2026-09-27 |
 | [newsletter-2026-09-27-noon](sources/newsletter-2026-09-27-noon.md) | Noon Dispatch — Sunday, September 27, 2026 | newsletter | [newsletter, noon-dispatch, markets, iran, china, philippines, ai-governance, property-rights, electric-trucking, mortgages, semiconductors, sports, wrestling] | 2026-09-27 |
 | [newsletter-2026-09-27-daytime](sources/newsletter-2026-09-27-daytime.md) | Morning Dispatch — Sunday, September 27, 2026 | newsletter | [newsletter, daytime-dispatch, markets, election-law, military-ai, copyright, climate, mortgages, semiconductors, sports, wrestling] | 2026-09-27 |
 | [newsletter-2026-09-27-midnight](sources/newsletter-2026-09-27-midnight.md) | Midnight Dispatch — Sunday, September 27, 2026 | newsletter | [newsletter, midnight-dispatch, markets, election-law, black-sea, mortgages, cybersecurity, military-ai, semiconductors, sports, wrestling] | 2026-09-27 |

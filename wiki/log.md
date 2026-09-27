@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-27] ingest | Evening Brief — Sunday, September 27, 2026
+- Source: `pinky/raw/newsletters/2026-09-27-evening-dispatch.md`
+- Summary: September 27 evening brief — immigration-database voter checks, a nationwide DHS surge, private-credit scrutiny, Anthropic's White House access, Philippine maritime-security and bridge plans, concentrated AMD-led gains, 7.22% mortgages, and WTI at $92.41.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-27-evening.md` (new); entity pages `us-supreme-court`, `anthropic`, `philippines`, `tesla`, `amd`, `wti`; concept pages `immigration-enforcement-escalation`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The oil table change differs from the stated weekly slide; legal, enforcement, security, weather, market, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-27] ingest | Noon Dispatch — Sunday, September 27, 2026
 - Source: `pinky/raw/newsletters/2026-09-27-noon-dispatch.md`
 - Summary: September 27 noon dispatch — Iran escalation signaling, Philippine–China maritime friction, AI shutdown-power debate, government-damaged property, electric-truck infrastructure constraints, concentrated AMD-led gains, 7.22% mortgages, and WTI at $92.41.

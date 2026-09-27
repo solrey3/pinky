@@ -6,14 +6,16 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-09-27
 tags: [philippines, makati, sports, tennis, weather, southeast-asia]
-source_count: 2
+source_count: 3
 ---
 
 # Philippines
 
-The Philippines is tracked in the newsletter graph through Makati weather context and Filipino sports-culture items.
+The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — Weighs stronger maritime protections while ADB feasibility funding advances a proposed Luzon–Visayas bridge.
 
 - [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Receives U.S. backing after alleged Chinese maneuvers at Ayungin Shoal while its Coast Guard checks separate exercise reports near Bajo de Masinloc.
 
