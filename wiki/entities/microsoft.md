@@ -4,9 +4,9 @@ title: Microsoft
 type: entity
 entity_type: organization
 created: 2026-06-02
-updated: 2026-09-22
+updated: 2026-09-28
 tags: [technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware]
-source_count: 42
+source_count: 43
 ---
 
 # Microsoft
@@ -42,6 +42,8 @@ The irony of announcing major developer tooling at Build while a 1-click credent
 Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake in OpenAI (whose models power GitHub Copilot, Azure OpenAI Service, and Bing), while simultaneously building its own MAI model family. This dual-track approach mirrors what Google has done (Gemini + Vertex AI) and what Meta has done (Llama open weights + internal inference). The big-tech proprietary model wave — Microsoft, Google, Meta, Apple — is structurally different from the pure-AI-company models (OpenAI, Anthropic) in one way: distribution is already built in. Azure, Windows, Office, GitHub — Microsoft's model deployment surface is enormous before the first customer API call.
 
 ## Sources
+
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Community groups seek local benefits tied to data-center costs, making host-community consent and burden sharing part of AI infrastructure deployment.
 
 - [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Disrupts an AI-assisted cybercrime platform reportedly tied to 12,000 compromised accounts, linking AI abuse to credential and infrastructure enforcement.
 

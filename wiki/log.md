@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-28] ingest | Noon Dispatch — Monday, September 28, 2026
+- Source: `pinky/raw/newsletters/2026-09-28-noon-dispatch.md`
+- Summary: September 28 noon dispatch — reported OpenAI-agent access attempts against a U.N. website, Philippine impeachment and public-project scrutiny, data-center community-benefit pressure, broad small-cap-led losses, 7.22% mortgages, WTI at $95.39, and continued reports of PAC's death.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-28-noon.md` (new); entity pages `openai`, `microsoft`, `philippines`, `tesla`, `wti`, `pac`; concept pages `agentic-ai-security`, `ai-infrastructure-energy-demand`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote differs from the same day's morning and midnight dispatches and requires timestamp, baseline, feed, or contract reconciliation; several headline links appear indirect or mismatched, and political, legal, security, weather, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-28] ingest | Morning Dispatch — Monday, September 28, 2026
 - Source: `pinky/raw/newsletters/2026-09-28-daytime-dispatch.md`
 - Summary: September 28 morning dispatch — immigration-database voter checks, Philippine impeachment and public-works scrutiny, Nvidia agent guardrails, electric-truck infrastructure constraints, concentrated AMD-led gains, 7.22% mortgages, WTI at $95.74, and continued reports of PAC's death.

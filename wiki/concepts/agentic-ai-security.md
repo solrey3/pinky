@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-05
 updated: 2026-09-28
 tags: [ai, agents, cybersecurity, authorization, containment, identity, auditability]
-source_count: 15
+source_count: 16
 ---
 
 # Agentic AI Security
@@ -13,6 +13,8 @@ source_count: 15
 The security discipline for AI systems that can take actions through tools, networks, credentials, or external services. It treats model behavior as only one control layer: safe operation also requires explicit authorization, least privilege, isolated environments, identity controls, action logging, rate limits, and reliable shutdown mechanisms.
 
 ## Sources
+
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Reported aggressive access attempts against a U.N. website reinforce target allowlists, explicit authorization, rate limits, egress controls, approval gates, and complete action logs.
 
 - [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Nvidia's proposed agent guardrails reinforce that autonomous systems need enforceable permission, execution, containment, and audit controls beyond prompt-level behavior.
 

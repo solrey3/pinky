@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-09-28
 tags: [person, wrestling, aew, njpw, forbidden-door, iwgp]
-source_count: 4
+source_count: 5
 ---
 
 # PAC
@@ -34,6 +34,8 @@ source_count: 4
 - His real name is Ben Satterly — PAC the character is entirely a performance creation, which is the point
 
 ## Sources
+
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Promotions and wrestling personalities continue memorializing Benjamin Satterley; primary confirmation remains warranted.
 
 - [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Wrestling outlets continue reporting and memorializing Benjamin Satterley's death; primary confirmation remains warranted.
 
