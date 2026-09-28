@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-28] ingest | Morning Dispatch — Monday, September 28, 2026
+- Source: `pinky/raw/newsletters/2026-09-28-daytime-dispatch.md`
+- Summary: September 28 morning dispatch — immigration-database voter checks, Philippine impeachment and public-works scrutiny, Nvidia agent guardrails, electric-truck infrastructure constraints, concentrated AMD-led gains, 7.22% mortgages, WTI at $95.74, and continued reports of PAC's death.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-28-daytime.md` (new); entity pages `us-supreme-court`, `philippines`, `nvidia`, `tesla`, `amd`, `wti`, `pac`; concept pages `agentic-ai-security`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote differs from the same day's midnight dispatch and requires timestamp, baseline, feed, or contract reconciliation; political, legal, security, weather, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-28] ingest | Midnight Dispatch — Monday, September 28, 2026
 - Source: `pinky/raw/newsletters/2026-09-28-midnight-dispatch.md`
 - Summary: September 28 midnight dispatch — immigration-database voter checks, Black Sea grain disruption, private-credit scrutiny, Sara Duterte's impeachment trial, concentrated AMD-led gains, 7.22% mortgages, WTI at $93.84, and reports of PAC's death.

@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-09-28
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 4
+source_count: 5
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 4
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Expands accountability coverage from Sara Duterte's impeachment trial to disputed Taguig flood-control projects, while a U.N. walkout and higher aviation fuel surcharges add foreign-policy and household-cost dimensions.
 
 - [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-midnight.md) — Opens Vice President Sara Duterte's Senate impeachment trial, with Baste Duterte expected before the impeachment court September 29–30.
 
