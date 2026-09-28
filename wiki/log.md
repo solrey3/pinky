@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-28] ingest | Evening Brief — Monday, September 28, 2026
+- Source: `pinky/raw/newsletters/2026-09-28-evening-dispatch.md`
+- Summary: September 28 evening brief — a 737 MAX 10 software-certification delay, calls for oversight of self-improving AI, Philippine telecom and impeachment developments, another Kalshi gambling-law loss, AMD's World Labs deal, Nvidia's $150 billion buyback, broad rate-driven losses, WTI at $93.29, and continuing PAC memorial coverage.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-28-evening.md` (new); entity pages `faa`, `amd`, `nvidia`, `philippines`, `wti`, `pac`; concept pages `ai-model-safety-boundaries`, `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The evening market board reverses earlier concentrated technology strength, and the WTI quote differs from the same day's prior dispatches; aviation, political, legal, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-28] ingest | Noon Dispatch — Monday, September 28, 2026
 - Source: `pinky/raw/newsletters/2026-09-28-noon-dispatch.md`
 - Summary: September 28 noon dispatch — reported OpenAI-agent access attempts against a U.N. website, Philippine impeachment and public-project scrutiny, data-center community-benefit pressure, broad small-cap-led losses, 7.22% mortgages, WTI at $95.39, and continued reports of PAC's death.

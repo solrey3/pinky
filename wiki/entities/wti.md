@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-09-28
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 120
+source_count: 121
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 120
 West Texas Intermediate crude oil benchmark; tracked here as an energy, inflation, and cross-asset risk signal.
 
 ## Sources
+
+- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Rises 1.23% to $93.29, differing from the day's earlier quotes and requiring timestamp, baseline, feed, or futures-contract reconciliation.
 
 - [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Rises 3.50% to $95.39, differing from the morning's $95.74 and midnight's $93.84 and requiring timestamp, baseline, feed, or contract reconciliation.
 
