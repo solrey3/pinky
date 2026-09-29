@@ -540,6 +540,8 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Zaccharie Risacher](entities/zaccharie-risacher.md) | person | basketball, nba, prospect, dallas-mavericks, trade | 1 |
 | [Moussa Cisse](entities/moussa-cisse.md) | person | basketball, nba, knicks | 1 |
 | [Allen Iverson](entities/allen-iverson.md) | person | person, basketball, nba | 1 |
+| [Amen Thompson](entities/amen-thompson.md) | person | basketball, nba, houston-rockets, overtime-elite | 1 |
+| [Ausar Thompson](entities/ausar-thompson.md) | person | basketball, nba, detroit-pistons, overtime-elite | 1 |
 | [Austin Reaves](entities/austin-reaves.md) | person | basketball, nba, los-angeles-lakers, lebron-james | 1 |
 | [Anthony Davis](entities/anthony-davis.md) | person | person, basketball, nba | 1 |
 | [Bill Russell](entities/bill-russell.md) | person | person, basketball, nba | 1 |

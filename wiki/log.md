@@ -2638,3 +2638,13 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: September 29 noon dispatch — OpenAI reportedly cancels a model release over security concerns, Anthropic pairs an IPO pitch with an extinction warning, AI-advertising data leakage draws scrutiny, Philippine impeachment proceedings pause briefly, and broad selling hits small caps and real estate while WTI falls to $90.32.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-09-29-noon.md` (new); entity pages `openai`, `anthropic`, `philippines`, `wti`; concept pages `ai-model-safety-boundaries`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. AI safety, privacy, legal, grid, housing, market, sports, and wrestling claims require primary confirmation; WTI differs materially from adjacent September 29 snapshots and requires timestamp, baseline, feed, or futures-contract reconciliation.
+
+## [2026-09-29] update | Amen Thompson and Ausar Thompson
+- Source: NBA player profiles and biographical references linked on the entity pages (no local raw source)
+- Summary: Added linked NBA player profiles for the twins, their 2023 draft positions, and Overtime Elite backgrounds.
+- Pages touched: `pinky/wiki/entities/amen-thompson.md` (new); `pinky/wiki/entities/ausar-thompson.md` (new); `pinky/wiki/index.md`; `pinky/wiki/log.md`
+
+## [2026-09-29] update | Amen Thompson and Ausar Thompson — raw-first provenance
+- Source: `pinky/raw/people/amen-thompson.md`; `pinky/raw/people/ausar-thompson.md`
+- Summary: Created raw people notes, then linked each wiki entity to its corresponding raw entry and updated source counts.
+- Pages touched: `pinky/raw/people/amen-thompson.md` (new); `pinky/raw/people/ausar-thompson.md` (new); `pinky/wiki/entities/amen-thompson.md`; `pinky/wiki/entities/ausar-thompson.md`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
