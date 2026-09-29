@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-29] ingest | Evening Brief — Tuesday, September 29, 2026
+- Source: `pinky/raw/newsletters/2026-09-29-evening-dispatch.md`
+- Summary: September 29 evening brief — Oura's reported IPO delay, Philippine digital-evidence and impeachment developments, AMD's $8 billion World Labs acquisition, a Rocket Lab procurement protest, broad small-cap-led losses, WTI at $88.94, and continuing PAC memorial coverage.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-29-evening.md` (new); entity pages `amd`, `philippines`, `rocket-lab`, `wti`, `pac`; concept pages `world-models`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote is the fourth distinct September 29 snapshot and requires timestamp, baseline, feed, or contract reconciliation; several links appear indirect or mismatched, and political, legal, acquisition, procurement, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-29] ingest | Morning Dispatch — Tuesday, September 29, 2026
 - Source: `pinky/raw/newsletters/2026-09-29-daytime-dispatch.md`
 - Summary: September 29 morning dispatch — a repeated 737 MAX 10 software-certification delay, researcher and papal calls for AI oversight, Philippine maritime and impeachment developments, Starship's reported orbital Starlink deployment, Nvidia China-sales scrutiny, broad rate-driven losses, WTI at $92.26, and continuing PAC memorial coverage.

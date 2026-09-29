@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-09-29
 tags: [person, wrestling, aew, njpw, forbidden-door, iwgp]
-source_count: 8
+source_count: 9
 ---
 
 # PAC
@@ -34,6 +34,8 @@ source_count: 8
 - His real name is Ben Satterly — PAC the character is entirely a performance creation, which is the point
 
 ## Sources
+
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — AEW, TNA, and The Rock continue memorial coverage, including an Ospreay–Ricochet tribute match; primary confirmation of the underlying death report remains warranted.
 
 - [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — WWE and AEW tribute coverage continues for Benjamin Satterley; primary confirmation of the underlying death report remains warranted.
 

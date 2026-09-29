@@ -4,9 +4,9 @@ title: Rocket Lab
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-06-30
+updated: 2026-09-29
 tags: [space, launch, satellites, connectivity, acquisition, infrastructure]
-source_count: 2
+source_count: 3
 ---
 
 # Rocket Lab
@@ -14,6 +14,8 @@ source_count: 2
 A space company focused on launch services and space systems. In this wiki, Rocket Lab is relevant as part of the infrastructure layer where launch, satellites, connectivity, and defense/commercial space services converge.
 
 ## Sources
+
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — Its procurement protest reportedly puts NASA's planned 2028 Mars-orbiter launch timetable at risk.
 
 - [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Announces a planned acquisition of Iridium, framed as space-sector consolidation and vertical integration.
 

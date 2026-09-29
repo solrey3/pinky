@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-09-29
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 10
+source_count: 11
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 10
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — Tracks the ICC's rejection of a Duterte-camp digital-evidence challenge and the impeachment court's one-day procedural pause before an October 1 resumption.
 
 - [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-noon.md) — Tracks the brief procedural pause in Sara Duterte's impeachment trial, a revised electricity-bill format, and EJ Obiena's record-setting Asian Games title defense.
 
