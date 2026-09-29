@@ -4,9 +4,9 @@ title: FAA
 type: entity
 entity_type: organization
 created: 2026-07-30
-updated: 2026-09-28
+updated: 2026-09-29
 tags: [government, aviation, transportation, leadership, ai, safety]
-source_count: 10
+source_count: 11
 ---
 
 # FAA
@@ -14,6 +14,8 @@ source_count: 10
 The Federal Aviation Administration, the U.S. aviation regulator. In the newsletter graph, the FAA appears when aviation safety, leadership continuity, and transportation-policy capacity become visible.
 
 ## Sources
+
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — The reported 737 MAX 10 software-related approval delay continues, emphasizing software assurance, independent testing, and certification evidence.
 
 - [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Reportedly delays Boeing 737 MAX 10 approval over a software problem, keeping software assurance and certification evidence central to aviation safety.
 

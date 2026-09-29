@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-09-28
+updated: 2026-09-29
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 7
+source_count: 8
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 7
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — Tracks a court challenge to delayed barangay and SK elections, Sara Duterte's impeachment trial, and NTC broadband-quality fines against the three major carriers.
 
 - [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Tracks telecom opposition to proposed service-quality fines, Sara Duterte's impeachment trial, and the aftermath of a German bus crash involving Filipinos.
 
