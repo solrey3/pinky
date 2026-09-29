@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-29] ingest | Morning Dispatch — Tuesday, September 29, 2026
+- Source: `pinky/raw/newsletters/2026-09-29-daytime-dispatch.md`
+- Summary: September 29 morning dispatch — a repeated 737 MAX 10 software-certification delay, researcher and papal calls for AI oversight, Philippine maritime and impeachment developments, Starship's reported orbital Starlink deployment, Nvidia China-sales scrutiny, broad rate-driven losses, WTI at $92.26, and continuing PAC memorial coverage.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-29-daytime.md` (new); entity pages `faa`, `philippines`, `spacex`, `nvidia`, `wti`, `pac`; concept pages `ai-model-safety-boundaries`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote differs from the same day's midnight snapshot and requires timestamp, baseline, feed, or contract reconciliation; several links are indirect, and political, maritime, aviation, technology, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-29] ingest | Midnight Dispatch — Tuesday, September 29, 2026
 - Source: `pinky/raw/newsletters/2026-09-29-midnight-dispatch.md`
 - Summary: September 29 midnight dispatch — a repeated 737 MAX 10 software-certification delay, Pope Leo's AI-safety appeal, Philippine election, impeachment, and broadband enforcement developments, Starship's reported orbital Starlink deployment, AMD's World Labs deal, broad rate-driven losses, WTI at $93.94, and continuing PAC memorial coverage.

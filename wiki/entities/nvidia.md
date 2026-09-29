@@ -4,9 +4,9 @@ title: Nvidia
 type: entity
 entity_type: organization
 created: 2026-06-15
-updated: 2026-09-28
+updated: 2026-09-29
 tags: [technology, ai, semiconductors, gpu, datacenter, capital-markets, robotics, ai-agents, risk-on, risk-off, liquid-cooling, data-centers, ai-hardware, markets]
-source_count: 161
+source_count: 162
 ---
 
 # Nvidia
@@ -14,6 +14,8 @@ source_count: 161
 American semiconductor and AI-infrastructure company whose GPUs and networking stack sit at the center of modern model training and inference. In the newsletter graph, Nvidia matters less as a ticker quote than as the hardware layer behind the AI boom.
 
 ## Sources
+
+- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — China chip-sales scrutiny highlights the collision between semiconductor commerce, export policy, and national security; NVDA gains 0.65% against broad losses.
 
 - [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Announces a reported $150 billion buyback authorization while NVDA gains 0.65% against a broadly negative market.
 
