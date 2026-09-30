@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-09-30-daytime](sources/newsletter-2026-09-30-daytime.md) | Morning Dispatch — Wednesday, September 30, 2026 | newsletter | [newsletter, daytime-dispatch, markets, tariffs, philippines, openai, medical-research, oil, sports, wrestling] | 2026-09-30 |
 | [newsletter-2026-09-30-midnight](sources/newsletter-2026-09-30-midnight.md) | Midnight Dispatch — Wednesday, September 30, 2026 | newsletter | [newsletter, midnight-dispatch, markets, ai-safety, openai, philippines, world-models, medical-ai, oil, sports, wrestling] | 2026-09-30 |
 | [newsletter-2026-09-29-evening](sources/newsletter-2026-09-29-evening.md) | Evening Brief — Tuesday, September 29, 2026 | newsletter | [newsletter, evening-dispatch, markets, ipo, ai-security, philippines, impeachment, world-models, commercial-space, oil, sports, wrestling] | 2026-09-29 |
 | [newsletter-2026-09-29-noon](sources/newsletter-2026-09-29-noon.md) | Noon Dispatch — Tuesday, September 29, 2026 | newsletter | [newsletter, noon-dispatch, markets, ai-safety, ai-privacy, philippines, impeachment, senior-housing, grid-reform, oil, sports, wrestling] | 2026-09-29 |

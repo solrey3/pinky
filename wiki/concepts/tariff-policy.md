@@ -3,9 +3,9 @@ id: 8973c792-4d45-4edb-b549-6a4bdbf4265f
 title: Tariff Policy
 type: concept
 created: 2026-07-24
-updated: 2026-09-10
+updated: 2026-09-30
 tags: [trade, tariffs, section-301, section-338, economic-policy, supply-chains, inflation, executive-power, credibility]
-source_count: 47
+source_count: 48
 ---
 
 # Tariff Policy
@@ -13,6 +13,8 @@ source_count: 47
 Tariff policy is the use of import duties to pursue revenue, industrial policy, bargaining leverage, sanctions-like pressure, or domestic political goals. The operator question is not just whether tariffs raise or lower prices, but who has legal authority to impose them, which statutory tool is used, what supply-chain effects follow, and how costs transmit into inflation, consumers, and markets.
 
 ## Sources
+
+- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — A proposed $60 billion U.S.–China tariff-cut package suggests selective de-escalation, but product scope, timing, exclusions, and enforcement determine its real cost impact.
 
 - [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — Canada's $20 billion retaliation is active, sustaining reciprocal escalation and targeted aerospace and consumer-cost exposure.
 
