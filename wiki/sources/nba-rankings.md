@@ -4,7 +4,7 @@ title: NBA Rankings — Personal All-Time Player Pyramid
 type: source
 source_type: journal
 created: 2026-05-25
-updated: 2026-09-09
+updated: 2026-09-30
 tags: [nba, basketball, rankings, personal, all-time, goat]
 source_path: raw/journal/nba-rankings.md
 ---
@@ -16,7 +16,7 @@ source_path: raw/journal/nba-rankings.md
 
 ## Summary
 
-Personal all-time NBA player rankings organized as a tiered pyramid with five primary tiers plus two additional "Level" groupings and a "Too Old School For Me" category. 112 players ranked total. The pyramid reflects a personal basketball canon, not an objective statistical ranking — acknowledges era bias ("Too Old School For Me" is a candid admission).
+Personal all-time NBA player rankings organized as a tiered pyramid with five primary tiers plus two additional "Level" groupings and a "Too Old School For Me" category. 113 players ranked total. The pyramid reflects a personal basketball canon, not an objective statistical ranking — acknowledges era bias ("Too Old School For Me" is a candid admission).
 
 ## Tier Structure
 
@@ -64,7 +64,7 @@ Personal all-time NBA player rankings organized as a tiered pyramid with five pr
 Bob Pettit · Bob Cousy · Jalen Brunson · Bill Walton · Willis Reed · Kyrie Irving · Jason Kidd · Paul Pierce · Rick Barry · John Stockton · Victor Wembanyama · Allen Iverson · James Harden · Vince Carter · Tracy McGrady · Walt Frazier · Shai Gilgeous-Alexander · Chris Paul · Steve Nash · George Gervin · Carmelo Anthony · Anthony Davis · Sam Jones · Russell Westbrook · Patrick Ewing · Kevin McHale · James Worthy · Dennis Rodman · George Mikan · Robert Parish · Dave Cowens
 
 ### Level 1 (Very Good)
-Luka Dončić · Gary Payton · Wes Unseld · Ray Allen · Dominique Wilkins · Clyde Drexler · Reggie Miller · Pau Gasol · Jimmy Butler · Dwight Howard · Karl-Anthony Towns · Paul George · Earl Monroe · Damian Lillard · Tyrese Haliburton · Nate Thurmond · Bernard King · Dave DeBusschere · Hal Greer · Dennis Johnson · Nate Archibald · Bob McAdoo · Jerry Lucas · Alex English · Pete Maravich · Rasheed Wallace · Adrian Dantley · David Thompson · Lenny Wilkens · Chris Webber · Sidney Moncrief · Artis Gilmore · Klay Thompson · OG Anunoby · Manu Ginóbili · Tony Parker · Joe Dumars · Tim Hardaway · Mitch Richmond · Chris Mullin
+Luka Dončić · Gary Payton · Wes Unseld · Ray Allen · Dominique Wilkins · Clyde Drexler · Reggie Miller · Pau Gasol · Jimmy Butler · Dwight Howard · Karl-Anthony Towns · Paul George · Earl Monroe · Damian Lillard · Tyrese Haliburton · Nate Thurmond · Bernard King · Dave DeBusschere · Hal Greer · Dennis Johnson · Nate Archibald · Bob McAdoo · Jerry Lucas · Alex English · Pete Maravich · Rasheed Wallace · Adrian Dantley · David Thompson · Lenny Wilkens · Chris Webber · Sidney Moncrief · Artis Gilmore · Klay Thompson · OG Anunoby · Manu Ginóbili · Tony Parker · Joe Dumars · Michael Finley · Tim Hardaway · Mitch Richmond · Chris Mullin
 
 ### Too Old School For Me
 Billy Cunningham · Elvin Hayes · Dolph Schayes · Bill Sharman · Paul Arizin · Tom Heinsohn · Dan Issel · Paul Westphal · Bob Dandridge · Dave Bing · Cliff Hagan

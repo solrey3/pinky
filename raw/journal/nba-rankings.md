@@ -108,6 +108,7 @@ tags: nba, basketball, rankings, personal
 1. Manu Ginóbili
 1. Tony Parker
 1. Joe Dumars
+1. Michael Finley
 1. Tim Hardaway
 1. Mitch Richmond
 1. Chris Mullin

@@ -4,7 +4,7 @@ title: Pro Wrestling Rankings
 type: capture
 capture_type: list
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-09-30
 tags: [WRESTLING, RANKINGS, PRO-WRESTLING]
 ---
 
@@ -48,48 +48,49 @@ tags: [WRESTLING, RANKINGS, PRO-WRESTLING]
 | 34 | Eddie Guerrero |
 | 35 | Kofi |
 | 36 | Randy Orton |
-| 37 | Kyle Fletcher |
-| 38 | Gunther (WALTER) |
-| 39 | Chris Benoit |
-| 40 | Johnny Gargano |
-| 41 | Edge (Adam Copeland) |
-| 42 | Kurt Angle |
-| 43 | Scott Hall |
-| 44 | Owen Hart |
-| 45 | Kevin Owens |
-| 46 | Tommaso Ciampa |
-| 47 | Adam Cole |
-| 48 | Jake "The Snake" Roberts |
-| 49 | Christian Cage |
-| 50 | Rusev |
-| 51 | Curt Hennig |
-| 52 | Kevin Nash |
-| 53 | Brock Lesnar |
-| 54 | Harley Race |
-| 55 | Goldberg |
-| 56 | Darby Allin |
-| 57 | Bam Bam Bigelow |
-| 58 | Claudio Castagnoli |
-| 59 | PAC |
-| 60 | Sami Zayn |
-| 61 | Dean Malenko |
-| 62 | Andrade |
-| 63 | Dustin Rhodes |
-| 64 | Bobby Lashley |
-| 65 | The Great Muto |
-| 66 | Hulk Hogan |
-| 67 | Rick Rude |
-| 68 | Jimmy Snuka |
-| 69 | Ultimate Warrior |
-| 70 | Sheamus |
-| 71 | Drew McIntyre |
-| 72 | Kevin Von Erich |
-| 73 | Andre the Giant |
-| 74 | Arn Anderson |
-| 75 | Triple H |
-| 76 | Ricochet |
-| 77 | Keith Lee |
-| 78 | Jeff Hardy |
-| 79 | Davey Boy Smith |
-| 80 | The Iron Sheik |
-| 81 | King Kong Bundy |
+| 37 | Penta |
+| 38 | Kyle Fletcher |
+| 39 | Gunther (WALTER) |
+| 40 | Chris Benoit |
+| 41 | Johnny Gargano |
+| 42 | Edge (Adam Copeland) |
+| 43 | Kurt Angle |
+| 44 | Scott Hall |
+| 45 | Owen Hart |
+| 46 | Kevin Owens |
+| 47 | Tommaso Ciampa |
+| 48 | Adam Cole |
+| 49 | Jake "The Snake" Roberts |
+| 50 | Christian Cage |
+| 51 | Rusev |
+| 52 | Curt Hennig |
+| 53 | Kevin Nash |
+| 54 | Brock Lesnar |
+| 55 | Harley Race |
+| 56 | Goldberg |
+| 57 | Darby Allin |
+| 58 | Bam Bam Bigelow |
+| 59 | Claudio Castagnoli |
+| 60 | PAC |
+| 61 | Sami Zayn |
+| 62 | Dean Malenko |
+| 63 | Andrade |
+| 64 | Dustin Rhodes |
+| 65 | Bobby Lashley |
+| 66 | The Great Muto |
+| 67 | Hulk Hogan |
+| 68 | Rick Rude |
+| 69 | Jimmy Snuka |
+| 70 | Ultimate Warrior |
+| 71 | Sheamus |
+| 72 | Drew McIntyre |
+| 73 | Kevin Von Erich |
+| 74 | Andre the Giant |
+| 75 | Arn Anderson |
+| 76 | Triple H |
+| 77 | Ricochet |
+| 78 | Keith Lee |
+| 79 | Jeff Hardy |
+| 80 | Davey Boy Smith |
+| 81 | The Iron Sheik |
+| 82 | King Kong Bundy |
