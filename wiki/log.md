@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-30] ingest | Midnight Dispatch — Wednesday, September 30, 2026
+- Source: `pinky/raw/newsletters/2026-09-30-midnight-dispatch.md`
+- Summary: September 30 midnight dispatch — Oura's reported IPO delay, Philippine ICC, BARMM, GCash, and earthquake developments, continued AI-safety debate and OpenAI protests, AMD's repeated World Labs acquisition report, broad small-cap-led losses, WTI at $89.79, and continuing PAC memorial coverage.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-30-midnight.md` (new); entity pages `amd`, `philippines`, `openai`, `wti`, `pac`; concept pages `world-models`, `ai-model-safety-boundaries`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote differs from the prior evening snapshot and requires timestamp, baseline, feed, or contract reconciliation; several links appear indirect, stale, or mismatched, and political, legal, acquisition, medical, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-29] ingest | Evening Brief — Tuesday, September 29, 2026
 - Source: `pinky/raw/newsletters/2026-09-29-evening-dispatch.md`
 - Summary: September 29 evening brief — Oura's reported IPO delay, Philippine digital-evidence and impeachment developments, AMD's $8 billion World Labs acquisition, a Rocket Lab procurement protest, broad small-cap-led losses, WTI at $88.94, and continuing PAC memorial coverage.

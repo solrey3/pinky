@@ -3,9 +3,9 @@ id: 6a6f3743-5093-49bd-b1bf-1c7d4596ff8e
 title: AI Model Safety Boundaries
 type: concept
 created: 2026-06-09
-updated: 2026-09-29
+updated: 2026-09-30
 tags: [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai]
-source_count: 52
+source_count: 53
 ---
 
 # AI Model Safety Boundaries
@@ -13,6 +13,8 @@ source_count: 52
 AI model safety boundaries are the policies, classifiers, refusals, system prompts, and deployment rules that determine which topics or tasks a frontier model may discuss, assist with, or decline. They are not merely product UX; they encode the provider's risk model, legal exposure, brand position, and assumptions about dual-use capability.
 
 ## Sources
+
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — AI-hacking concern and public protest reinforce that model safety spans technical containment, misuse controls, auditable thresholds, and institutional legitimacy.
 
 - [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-noon.md) — OpenAI's reported cancellation of a model release makes pre-deployment evaluation, release authority, remediation, and auditable thresholds concrete safety controls.
 

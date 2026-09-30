@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-09-29
+updated: 2026-09-30
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 11
+source_count: 12
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 11
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — Tracks the ICC's rejection of Rodrigo Duterte's evidence-verification request, BARMM parliamentary preparations, a GCash outage, and an Occidental Mindoro earthquake.
 
 - [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — Tracks the ICC's rejection of a Duterte-camp digital-evidence challenge and the impeachment court's one-day procedural pause before an October 1 resumption.
 

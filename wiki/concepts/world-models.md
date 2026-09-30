@@ -3,9 +3,9 @@ id: 6309035d-1498-403b-9d16-3d3914144d86
 title: World Models
 type: concept
 created: 2026-07-13
-updated: 2026-09-29
+updated: 2026-09-30
 tags: [ai, world-models, simulation, forecasting, agents, robotics, limitations]
-source_count: 4
+source_count: 5
 ---
 
 # World Models
@@ -14,6 +14,7 @@ AI systems or model components that try to learn simulated representations of en
 
 ## Sources
 
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — The repeated AMD–World Labs acquisition report links simulation and planning models to semiconductor-platform strategy, though its indirect link does not confirm the transaction.
 - [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — AMD's reported $8 billion World Labs acquisition reinforces the strategic link between AI compute platforms and learned simulation and planning.
 - [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — AMD's reported World Labs acquisition ties learned simulation and planning systems to semiconductor-platform strategy.
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Google DeepMind’s Gemini Robotics 2 item links model world-understanding to embodied robot planning and motion.
