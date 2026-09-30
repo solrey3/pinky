@@ -4,9 +4,9 @@ title: Federal Reserve
 type: entity
 entity_type: organization
 created: 2026-06-17
-updated: 2026-09-18
+updated: 2026-09-30
 tags: [monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets]
-source_count: 124
+source_count: 125
 ---
 
 # Federal Reserve
@@ -14,6 +14,8 @@ source_count: 124
 The central bank of the United States. In the newsletter graph, the Fed is tracked less as a generic rate-setting body and more as a market-structure actor: its rate targets, communications strategy, and guidance discipline affect how investors interpret incoming data.
 
 ## Sources
+
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — Lists EFFR at 3.88% within a 3.75%–4.00% target range and reports renewed political pressure for Jerome Powell's resignation.
 
 - [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Trump backs Kevin Warsh after the reported rate increase; the listed 3.75%–4.00% target range agrees with some adjacent editions but conflicts with others and requires official confirmation.
 

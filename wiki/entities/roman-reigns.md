@@ -4,9 +4,9 @@ title: Roman Reigns
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-08-04
+updated: 2026-09-30
 tags: [person, wrestling, bloodline]
-source_count: 15
+source_count: 16
 ---
 
 # Roman Reigns
@@ -33,6 +33,8 @@ source_count: 15
 - Roman vs. Cody Rhodes at WM39 and WM40 were the biggest WrestleMania main events in 20 years
 
 ## Sources
+
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — Reportedly says he continues fighting leukemia; the sensitive medical claim warrants confirmation from his complete statement and authoritative reporting.
 
 - [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Appears in Raw fallout coverage with LA Knight and the post-SummerSlam news cycle.
 - [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Retains the World Heavyweight Title over Seth Rollins in the main event coverage.
