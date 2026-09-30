@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-09-30] ingest | Noon Dispatch — Wednesday, September 30, 2026
+- Source: `pinky/raw/newsletters/2026-09-30-noon-dispatch.md`
+- Summary: September 30 noon dispatch — the end of the U.S. military mission in Iraq and Iran's victory framing, Philippine impeachment and election-integrity developments, Cloudflare's quantum-safe TLS plan, a claimed Microsoft access-control failure, narrow technology-led gains under near-peak long yields, WTI at $91.51, and continuing PAC memorial coverage.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-09-30-noon.md` (new); entity pages `iran`, `iraq`, `philippines`, `cloudflare`, `microsoft`, `openai`, `wti`, `pac`; concept pages `cryptographic-agility`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote is the third distinct September 30 snapshot and requires timestamp, baseline, feed, or contract reconciliation; political, legal, cybersecurity, market, death, injury, and sports claims remain subject to primary confirmation, especially the extraordinary Microsoft-records claim.
+
 ## [2026-09-30] ingest | Morning Dispatch — Wednesday, September 30, 2026
 - Source: `pinky/raw/newsletters/2026-09-30-daytime-dispatch.md`
 - Summary: September 30 morning dispatch — Oura's reported IPO delay, proposed U.S.–China tariff cuts, rapid Supreme Court action, Philippine impeachment and infrastructure-audit developments, an obesity-drug trial, OpenAI protests and model-drift monitoring, broad small-cap-led losses, WTI at $90.24, and continuing PAC memorial coverage.

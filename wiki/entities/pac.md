@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-05-27T03:20:14Z
 updated: 2026-09-30
 tags: [person, wrestling, aew, njpw, forbidden-door, iwgp]
-source_count: 11
+source_count: 12
 ---
 
 # PAC
@@ -34,6 +34,8 @@ source_count: 11
 - His real name is Ben Satterly — PAC the character is entirely a performance creation, which is the point
 
 ## Sources
+
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — AEW frames Dynamite around a tribute while additional wrestlers publish memorials; primary confirmation of the underlying death report remains warranted.
 
 - [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — AEW plans an Ospreay–Ricochet tribute match and NXT airs a remembrance; primary confirmation of the underlying death report remains warranted.
 

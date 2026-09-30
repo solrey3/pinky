@@ -3,9 +3,9 @@ id: 0580bdd3-037d-42ae-8d6c-c48410ecd046
 title: Cryptographic Agility
 type: concept
 created: 2026-09-08
-updated: 2026-09-08
-tags: [cryptography, security, key-management, certificates, rsa, migration, technical-debt]
-source_count: 2
+updated: 2026-09-30
+tags: [cryptography, security, key-management, certificates, rsa, migration, technical-debt, post-quantum-cryptography, tls]
+source_count: 3
 ---
 
 # Cryptographic Agility
@@ -13,6 +13,8 @@ source_count: 2
 Cryptographic agility is the ability to inventory, replace, and retire algorithms, keys, certificates, and trust anchors as attack methods, computing power, standards, or operational requirements change. It treats cryptography as a managed lifecycle rather than a permanent property of deployed systems.
 
 ## Sources
+
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Cloudflare's quantum-safe TLS certificate plan turns algorithm migration into certificate issuance, compatibility, trust-anchor, and deployment work.
 
 - [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — Factored 1990s certificate-authority RSA keys reinforce that legacy key strength decays and obsolete trust material must be retired.
 
@@ -27,4 +29,4 @@ Cryptographic agility is the ability to inventory, replace, and retire algorithm
 
 ## Notes
 
-Migration planning should cover discovery, dependency mapping, dual-operation where necessary, revocation, trust-store cleanup, and evidence that retired keys can no longer authenticate active systems. A historical key compromise is not automatically a current incident; impact depends on whether any live verifier still trusts the affected material.
+Migration planning should cover discovery, dependency mapping, hybrid or dual-operation where necessary, revocation, trust-store cleanup, client and intermediary compatibility, and evidence that retired keys can no longer authenticate active systems. A historical key compromise is not automatically a current incident; impact depends on whether any live verifier still trusts the affected material.
