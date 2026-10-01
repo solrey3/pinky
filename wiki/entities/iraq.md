@@ -4,9 +4,9 @@ title: Iraq
 type: entity
 entity_type: place
 created: 2026-07-20
-updated: 2026-09-30
+updated: 2026-10-01
 tags: [iraq, middle-east, military, geopolitics, united-states, iran]
-source_count: 2
+source_count: 3
 ---
 
 # Iraq
@@ -14,6 +14,8 @@ source_count: 2
 Middle Eastern country and recurring U.S. military-policy theater. In this wiki graph, Iraq appears through strike and casualty reporting tied to Iran escalation.
 
 ## Sources
+
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Repeats that the U.S. military mission has ended while leaving residual force posture and the role of Iran-linked militias unresolved.
 
 - [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Reports the end of the U.S. military mission and Iran's victory framing, while leaving the residual force posture and long-term security balance unresolved.
 

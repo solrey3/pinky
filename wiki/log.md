@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-01] ingest | Midnight Dispatch — Thursday, October 1, 2026
+- Source: `pinky/raw/newsletters/2026-10-01-midnight-dispatch.md`
+- Summary: October 1 midnight dispatch — an Israel-bound flight's Saudi diversion, the reported end of the U.S. military mission in Iraq, Philippine impeachment proceedings, warrantless border-device searches, continued CNN pool exclusion, a Texas AI-surveillance ruling, Gemini 4 Argon, broad rate-driven losses, WTI at $89.38, and AEW's PAC tribute.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-01-midnight.md` (new); entity pages `iraq`, `philippines`, `google`, `wti`, `pac`; concept pages `digital-border-searches`, `press-freedom`, `automated-license-plate-reader-surveillance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The WTI quote continues a sequence of changing snapshots that requires timestamp, baseline, feed, or contract reconciliation; aviation, military, political, legal, model, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-09-30] ingest | Evening Brief — Wednesday, September 30, 2026
 - Source: `pinky/raw/newsletters/2026-09-30-evening-dispatch.md`
 - Summary: September 30 evening brief — an Israel-bound flight's Saudi diversion, Philippine telecom and impeachment developments, a Texas AI-surveillance ruling, Google's unverified Gemini 4 Argon preview, broad rate-driven losses, WTI at $90.34, and Roman Reigns' leukemia statement.

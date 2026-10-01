@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-09-30
+updated: 2026-10-01
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 15
+source_count: 16
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 15
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Tracks Sara Duterte's impeachment trial, the Supreme Court's impeachment-threshold ruling, and diverging diesel and gasoline prices.
 
 - [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — Tracks telecom firms' due-process challenge to regulatory fines, a widening probe involving Velasco, and the Supreme Court's dismissal of impeachment-threshold petitions.
 
