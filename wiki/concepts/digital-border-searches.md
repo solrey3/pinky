@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-29
 updated: 2026-10-01
 tags: [privacy, civil-liberties, border-searches, devices, fourth-amendment, warrants]
-source_count: 6
+source_count: 7
 ---
 
 # Digital Border Searches
@@ -13,6 +13,8 @@ source_count: 6
 Digital border searches are inspections, demands, or seizures involving phones and other devices at ports of entry, where privacy, consent, evidence preservation, and government authority collide.
 
 ## Sources
+
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Repeats a court document presented as allowing warrantless phone searches at the border, where broad search authority meets extensive personal data.
 
 - [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — A reported ruling permits warrantless phone searches at the border, preserving the conflict between the border-search exception and extensive digital records.
 

@@ -3,9 +3,9 @@ id: f66a35c7-0060-4bf3-8984-565503dfd847
 title: Monetary Policy Forward Guidance
 type: concept
 created: 2026-06-17
-updated: 2026-09-25
+updated: 2026-10-01
 tags: [monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages]
-source_count: 141
+source_count: 142
 ---
 
 # Monetary Policy Forward Guidance
@@ -13,6 +13,8 @@ source_count: 141
 A central-bank communication strategy that attempts to shape expectations by signaling likely future policy paths. Forward guidance can reduce uncertainty when credible, but it can also constrain policymakers or make markets overfit to official forecasts instead of current data.
 
 ## Sources
+
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Softer core inflation is interpreted as reducing the likelihood of another 2026 hike; this is an expectations update, not direct Federal Reserve guidance.
 
 - [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-daytime.md) — A 5.461% 30-year Treasury yield and 7.17% mortgage quote show restrictive policy transmission, but market borrowing costs are not direct Federal Reserve guidance.
 

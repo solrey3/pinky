@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-01] ingest | Morning Dispatch — Thursday, October 1, 2026
+- Source: `pinky/raw/newsletters/2026-10-01-daytime-dispatch.md`
+- Summary: October 1 morning dispatch — an Israel-bound flight's alleged hijacking attempt, Philippine extradition and public-finance developments, warrantless border-device searches, softer-inflation rate expectations, Gemini 4 Argon, broad market losses, an internally inconsistent long-yield range, WTI at $92.33, and continuing PAC tribute coverage.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-01-daytime.md` (new); entity pages `philippines`, `google`, `wti`, `pac`; concept pages `digital-border-searches`, `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The 30-year yield exceeds its displayed 52-week high, and WTI differs sharply from the same day's midnight quote; timestamps, baselines, feeds, and contract identifiers require reconciliation. Aviation, political, legal, medical, model, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-01] ingest | Midnight Dispatch — Thursday, October 1, 2026
 - Source: `pinky/raw/newsletters/2026-10-01-midnight-dispatch.md`
 - Summary: October 1 midnight dispatch — an Israel-bound flight's Saudi diversion, the reported end of the U.S. military mission in Iraq, Philippine impeachment proceedings, warrantless border-device searches, continued CNN pool exclusion, a Texas AI-surveillance ruling, Gemini 4 Argon, broad rate-driven losses, WTI at $89.38, and AEW's PAC tribute.
