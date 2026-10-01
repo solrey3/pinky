@@ -4,9 +4,9 @@ title: Tesla
 type: entity
 entity_type: organization
 created: 2026-06-22
-updated: 2026-09-28
+updated: 2026-10-01
 tags: [automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta, robotics, labor]
-source_count: 97
+source_count: 98
 ---
 
 # Tesla
@@ -14,6 +14,8 @@ source_count: 97
 Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesla is tracked less as a generic EV maker and more as a regulatory and safety actor when Autopilot/driver-assist incidents surface.
 
 ## Sources
+
+- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-noon.md) — Wall Street reportedly expects a delivery decline; TSLA falls 5.38% in the broad noon selloff.
 
 - [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Heavy electric-truck deployment remains constrained by charging infrastructure; TSLA falls 4.06% in the noon snapshot.
 

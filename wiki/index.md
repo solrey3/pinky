@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-01-noon](sources/newsletter-2026-10-01-noon.md) | Noon Dispatch — Thursday, October 1, 2026 | newsletter | [newsletter, noon-dispatch, markets, monetary-policy, medicare, immigration, philippines, openstreetmap, nasa, sports, wrestling] | 2026-10-01 |
 | [newsletter-2026-10-01-daytime](sources/newsletter-2026-10-01-daytime.md) | Morning Dispatch — Thursday, October 1, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, border-searches, federal-reserve, gemini, oil, sports, wrestling] | 2026-10-01 |
 | [newsletter-2026-10-01-midnight](sources/newsletter-2026-10-01-midnight.md) | Midnight Dispatch — Thursday, October 1, 2026 | newsletter | [newsletter, midnight-dispatch, markets, iraq, philippines, surveillance, border-searches, press-freedom, gemini, oil, sports, wrestling] | 2026-10-01 |
 | [newsletter-2026-09-30-evening](sources/newsletter-2026-09-30-evening.md) | Evening Brief — Wednesday, September 30, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, surveillance, federal-reserve, gemini, public-health, oil, sports, wrestling] | 2026-09-30 |
@@ -1052,7 +1053,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [NATO](entities/nato.md) | organization | geopolitics, security, alliance, europe, ukraine, diplomacy | 1 |
 | [Centers for Disease Control and Prevention](entities/centers-for-disease-control-and-prevention.md) | organization | public-health, government, cdc, vaccines, disease-control, united-states | 2 |
 | [U.S. Food and Drug Administration](entities/us-food-and-drug-administration.md) | organization | government, public-health, regulation, fda, nicotine, tobacco, gene-therapy, united-states | 10 |
-| [Federal Reserve](entities/federal-reserve.md) | organization | monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets | 123 |
+| [Federal Reserve](entities/federal-reserve.md) | organization | monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets | 126 |
 | [Harriet Tubman](entities/harriet-tubman.md) | person | history, abolition, civil-war, currency, public-memory | 1 |
 | [U.S. Treasury](entities/us-treasury.md) | organization | government, finance, currency, united-states, public-symbolism, bond-buybacks | 5 |
 | [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 26 |
@@ -1308,7 +1309,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware | 44 |
 | [Mozilla Firefox](entities/mozilla-firefox.md) | product | browser, webassembly, developer-tools, open-web, runtime, ai, privacy | 2 |
 | [Modular](entities/modular.md) | organization | technology, ai, compilers, runtimes, ai-infrastructure, acquisition | 1 |
-| [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 13 |
+| [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 14 |
 | [Netflix](entities/netflix.md) | organization | streaming, platform, accounts, identity, subscriptions, media | 52 |
 | [Paramount](entities/paramount.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 10 |
 | [Warner Bros. Discovery](entities/warner-bros-discovery.md) | organization | media, entertainment, streaming, merger, consolidation, regulation | 6 |
@@ -1352,7 +1353,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Rocket Lab](entities/rocket-lab.md) | organization | space, launch, satellites, connectivity, acquisition, infrastructure | 2 |
 | [Iridium](entities/iridium.md) | organization | space, satellites, communications, connectivity, acquisition, infrastructure | 2 |
 | [TSM](entities/tsm.md) | organization | technology, semiconductors, foundry, ai-chips, markets, risk-on, risk-off | 97 |
-| [Tesla](entities/tesla.md) | organization | automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta, robotics, labor | 95 |
+| [Tesla](entities/tesla.md) | organization | automotive, ev, autonomy, autopilot, driver-assistance, safety, regulation, markets, risk-on, high-beta, robotics, labor | 98 |
 | [Valve](entities/valve.md) | organization | gaming, steam, steamos, hardware, linux, steam-machine, game-tech | 5 |
 | [U.S. Census Bureau](entities/us-census-bureau.md) | organization | government, statistics, census, public-data, privacy, statistical-privacy | 2 |
 | [YouTube](entities/youtube.md) | product | video, platform, creators, privacy, google, media | 9 |
@@ -1576,7 +1577,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [OpenBSD](entities/openbsd.md) | product | operating-system, security, open-source, wpa3, networking | 1 |
 | [Pi-hole](entities/pi-hole.md) | product | networking, dns, ad-blocking, observability, privacy, homelab | 2 |
 | [Kokoro](entities/kokoro.md) | product | ai, text-to-speech, local-ai, cpu, open-tooling, audio | 1 |
-| [StreetComplete](entities/streetcomplete.md) | product | openstreetmap, maps, crowdsourcing, mobile, open-source, civic-tech | 1 |
+| [StreetComplete](entities/streetcomplete.md) | product | openstreetmap, maps, crowdsourcing, mobile, open-source, civic-tech, ios | 2 |
 | [PeopleSoft](entities/peoplesoft.md) | product | enterprise-software, oracle, peoplesoft, cybersecurity, cve, data-theft | 6 |
 | [Podman](entities/podman.md) | product | containers, developer-tools, devops, linux, infrastructure, container-runtime | 2 |
 | [X (Twitter)](entities/x-twitter.md) | organization | social-media, privacy, platform, x, twitter, ftc, elon-musk | 1 |
@@ -1766,7 +1767,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law | 73 |
 | [mRNA Vaccine Safety](concepts/mrna-vaccine-safety.md) | [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication] | 4 |
 | [Nicotine Harm Reduction](concepts/nicotine-harm-reduction.md) | [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda] | 2 |
-| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 140 |
+| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 143 |
 | [Online Age Verification](concepts/online-age-verification.md) | [internet, identity, age-verification, privacy, children, regulation, access-control] | 8 |
 | [Permanent Daylight Saving Time](concepts/permanent-daylight-saving-time.md) | [time-policy, daylight-saving-time, congress, legislation, clocks, public-policy] | 2 |
 | [Private Credit](concepts/private-credit.md) | finance, lending, private-markets, credit-risk, liquidity, regulation, financial-stability | 1 |
@@ -1789,7 +1790,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 352 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 356 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 9 |

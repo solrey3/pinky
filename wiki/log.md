@@ -2690,3 +2690,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Source: `pinky/raw/people/amen-thompson.md`; `pinky/raw/people/ausar-thompson.md`
 - Summary: Created raw people notes, then linked each wiki entity to its corresponding raw entry and updated source counts.
 - Pages touched: `pinky/raw/people/amen-thompson.md` (new); `pinky/raw/people/ausar-thompson.md` (new); `pinky/wiki/entities/amen-thompson.md`; `pinky/wiki/entities/ausar-thompson.md`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+
+## [2026-10-01] ingest | Noon Dispatch — Thursday, October 1, 2026
+- Source: `pinky/raw/newsletters/2026-10-01-noon-dispatch.md`
+- Summary: October 1 noon dispatch — softer inflation reduces expectations of another 2026 hike while long yields and mortgages remain restrictive; broad market losses, expected Tesla delivery weakness, StreetComplete's iOS beta, and conflicting reports about a NASA Swift rescue round out the brief.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-01-noon.md` (new); entity pages `federal-reserve`, `nasa`, `streetcomplete`, `tesla`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The Swift rescue report conflicts with the August 20 dispatch and requires primary confirmation; legal, political, market, technology, sports, and wrestling claims remain subject to primary confirmation.

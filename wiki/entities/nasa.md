@@ -4,9 +4,9 @@ title: NASA
 type: entity
 entity_type: organization
 created: 2026-06-09
-updated: 2026-09-11
+updated: 2026-10-01
 tags: [space, science, government, artemis, moon]
-source_count: 13
+source_count: 14
 ---
 
 # NASA
@@ -14,6 +14,8 @@ source_count: 13
 NASA is the United States civilian space agency. In the newsletter stream it appears through human-spaceflight and science-mission milestones rather than only launch-provider infrastructure.
 
 ## Sources
+
+- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-noon.md) — Reports a rapidly assembled unconventional rescue mission for Swift. **Contradiction:** the August 20 dispatch says NASA abandoned a proposed rescue, so the current mission status requires primary confirmation.
 
 - [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-noon.md) — Roman Space Telescope fuel is reported sufficient for 22 years, creating mission-extension option value while leaving hardware, funding, and operations as separate constraints.
 
