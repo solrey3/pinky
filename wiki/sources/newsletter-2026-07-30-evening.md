@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-30
 updated: 2026-07-30
 tags: [newsletter, evening-dispatch, markets, mixed-close, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, semiconductors, amd, tsm, nvidia, tesla, ai-security, critical-infrastructure, iran, faa, trade-policy, mercedes-benz, google-deepmind, robotics, github, quantum-computing, vulnerability-discovery, prediction-markets, mets, yankees, wrestling]
-source_path: pinky/raw/newsletters/2026-07-30-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-30-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, July 30, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-30  
-**Source:** [pinky/raw/newsletters/2026-07-30-evening-dispatch.md](../../raw/newsletters/2026-07-30-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-30-evening-dispatch.md](newsletters/2026-07-30-evening-dispatch.md)
 
 ---
 

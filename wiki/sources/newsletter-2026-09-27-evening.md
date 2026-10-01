@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-27
 updated: 2026-09-27
 tags: [newsletter, evening-dispatch, markets, election-law, immigration, private-credit, ai-governance, electric-trucking, philippines, mortgages, semiconductors, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-27-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-27-evening-dispatch.md
 ---
 
 # Evening Brief — Sunday, September 27, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-27  
-**Source:** [pinky/raw/newsletters/2026-09-27-evening-dispatch.md](../../raw/newsletters/2026-09-27-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-27-evening-dispatch.md](newsletters/2026-09-27-evening-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-22
 updated: 2026-08-22
 tags: [newsletter, evening-dispatch, markets, bitcoin, tariffs, ghost-jobs, spaceports, software-deprecation, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-22-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-22-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, August 22, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-22  
-**Source:** [pinky/raw/newsletters/2026-08-22-evening-dispatch.md](../../raw/newsletters/2026-08-22-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-22-evening-dispatch.md](newsletters/2026-08-22-evening-dispatch.md)
 
 ## Summary
 

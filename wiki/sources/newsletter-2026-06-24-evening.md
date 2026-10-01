@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-24
 updated: 2026-06-24
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, s-and-p-500, russell-2000, federal-reserve, trump, iran, openai, broadcom, qualcomm, modular, google, gemini, fcc, privacy, semiconductors, amd, nvidia, tsm, wrestling, wwe-nxt, aew, njpw, roh]
-source_path: pinky/raw/newsletters/2026-06-24-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-24-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, June 24, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-24  
-**Source:** [pinky/raw/newsletters/2026-06-24-evening-dispatch.md](../../raw/newsletters/2026-06-24-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-24-evening-dispatch.md](newsletters/2026-06-24-evening-dispatch.md)
 
 ---
 

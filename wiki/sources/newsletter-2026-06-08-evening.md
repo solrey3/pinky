@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-08
 updated: 2026-06-08
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, s&p, ai, apple, google, gemini, supply-chain-security, microsoft, wrestling, penta, rey-mysterio, golf, bruce-springsteen]
-source_path: pinky/raw/newsletters/2026-06-08-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-08-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, June 8, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-08  
-**Source:** [pinky/raw/newsletters/2026-06-08-evening-dispatch.md](../../../raw/newsletters/2026-06-08-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-08-evening-dispatch.md](newsletters/2026-06-08-evening-dispatch.md)
 
 ---
 

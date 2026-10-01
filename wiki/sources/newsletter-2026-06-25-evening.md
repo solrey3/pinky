@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-25
 updated: 2026-06-25
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, russell-2000, bitcoin, federal-reserve, iran, hormuz, apple, ibm, anthropic, alibaba, openknowledge, semiconductor-scaling, wrestling, aew, wwe, njpw, noah, tna]
-source_path: pinky/raw/newsletters/2026-06-25-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-25-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, June 25, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-25  
-**Source:** [pinky/raw/newsletters/2026-06-25-evening-dispatch.md](../../raw/newsletters/2026-06-25-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-25-evening-dispatch.md](newsletters/2026-06-25-evening-dispatch.md)
 
 ---
 

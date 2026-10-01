@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-28
 updated: 2026-07-28
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, prediction-markets, corporate-governance, boardroom-diversity, immigration, iran, hormuz, ai-security, codex, kimi-k3, semiconductors, ai-capex, micron, amd, tsm, nvidia, tesla, amazon, visa, boeing, ford, mets, yankees, new-jersey-devils, tour-de-france, golf, wrestling]
-source_path: pinky/raw/newsletters/2026-07-28-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-28-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, July 28, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-28  
-**Source:** [pinky/raw/newsletters/2026-07-28-evening-dispatch.md](../../raw/newsletters/2026-07-28-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-28-evening-dispatch.md](newsletters/2026-07-28-evening-dispatch.md)
 
 ---
 

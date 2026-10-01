@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-10
 updated: 2026-08-10
 tags: [newsletter, midnight-dispatch, markets, risk-on, family-leave, critical-infrastructure, ai-weather-forecasting, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-10-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-10-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Monday, August 10, 2026
 
 **Author:** Midnight Dispatch (automated)  
 **Date:** 2026-08-10  
-**Source:** [pinky/raw/newsletters/2026-08-10-midnight-dispatch.md](../../raw/newsletters/2026-08-10-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-10-midnight-dispatch.md](newsletters/2026-08-10-midnight-dispatch.md)
 
 ## Summary
 

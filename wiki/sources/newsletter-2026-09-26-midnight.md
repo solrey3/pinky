@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-26
 updated: 2026-09-26
 tags: [newsletter, midnight-dispatch, markets, election-law, border-searches, data-centers, ai-labor, iran, black-sea, semiconductors, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-26-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-26-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Saturday, September 26, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-26  
-**Source:** [pinky/raw/newsletters/2026-09-26-midnight-dispatch.md](../../raw/newsletters/2026-09-26-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-26-midnight-dispatch.md](newsletters/2026-09-26-midnight-dispatch.md)
 
 ## Summary
 

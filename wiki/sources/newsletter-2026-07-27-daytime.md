@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-27
 updated: 2026-07-27
 tags: [newsletter, daytime-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, tariffs, iran, foodborne-outbreaks, open-weights-ai, kimi-k3, postgresql, vercel, spacex, starship, social-media-research, ai-infrastructure, glp-1, cold-chain, semiconductors, amd, tsm, nvidia, tesla, amazon, prediction-markets, mets, new-jersey-devils, tour-de-france, golf, wrestling]
-source_path: pinky/raw/newsletters/2026-07-27-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-27-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Monday, July 27, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-27  
-**Source:** [pinky/raw/newsletters/2026-07-27-daytime-dispatch.md](../../raw/newsletters/2026-07-27-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-27-daytime-dispatch.md](newsletters/2026-07-27-daytime-dispatch.md)
 
 ---
 

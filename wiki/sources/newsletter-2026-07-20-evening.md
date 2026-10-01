@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-20
 updated: 2026-07-20
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, iran, jordan, canada, tariffs, foodborne-outbreaks, open-weights-ai, public-records, platform-enforcement, semiconductors, amd, tsm, nvidia, paypal, polymarket, new-jersey-devils, tour-de-france, wrestling]
-source_path: pinky/raw/newsletters/2026-07-20-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-20-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, July 20, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-20  
-**Source:** [pinky/raw/newsletters/2026-07-20-evening-dispatch.md](../../raw/newsletters/2026-07-20-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-20-evening-dispatch.md](newsletters/2026-07-20-evening-dispatch.md)
 
 ---
 

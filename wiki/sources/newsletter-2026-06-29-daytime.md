@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-29
 updated: 2026-06-29
 tags: [newsletter, daytime-dispatch, markets, risk-off, nasdaq, federal-reserve, iran, microsoft, openai, ai-copyright, age-verification, ai-hiring-bias, semiconductors, amd, nvidia, tsm, wrestling, wwe, nxt, aew, njpw, roh, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-06-29-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-29-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Monday, June 29, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-29  
-**Source:** [pinky/raw/newsletters/2026-06-29-daytime-dispatch.md](../../raw/newsletters/2026-06-29-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-29-daytime-dispatch.md](newsletters/2026-06-29-daytime-dispatch.md)
 
 ---
 

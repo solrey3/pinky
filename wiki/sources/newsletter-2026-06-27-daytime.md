@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-27
 updated: 2026-06-27
 tags: [newsletter, daytime-dispatch, markets, risk-off, nasdaq, bitcoin, wti, federal-reserve, iran, hormuz, openai, gpt-5-6-sol, anthropic, mythos, deepseek, netflix, spacex, starlink, facial-recognition, wrestling, wwe, aew, cmll]
-source_path: pinky/raw/newsletters/2026-06-27-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-27-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Saturday, June 27, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-27  
-**Source:** [pinky/raw/newsletters/2026-06-27-daytime-dispatch.md](../../raw/newsletters/2026-06-27-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-27-daytime-dispatch.md](newsletters/2026-06-27-daytime-dispatch.md)
 
 ---
 

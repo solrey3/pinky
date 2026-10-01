@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-19
 updated: 2026-05-19
 tags: [newsletter, news, markets, sports, weather, current-events, karpathy, anthropic, amd, tesla, knicks, mets, wembanyama, iran, plex, discord, supply-chain, npm]
-source_path: raw/newsletters/2026-05-19-morning-dispatch.md, raw/newsletters/2026-05-19-evening-dispatch.md
+source_path: wiki/sources/newsletters/2026-05-19-morning-dispatch.md, wiki/sources/newsletters/2026-05-19-evening-dispatch.md
 ---
 
 # Newsletter 2026-05-19 — The Morning Dispatch & Evening Brief
 
 **Date:** Tuesday, May 19, 2026  
 **Author:** Sancho, News Correspondent  
-**Sources:** [raw/newsletters/2026-05-19-morning-dispatch.md](../../raw/newsletters/2026-05-19-morning-dispatch.md) | [raw/newsletters/2026-05-19-evening-dispatch.md](../../raw/newsletters/2026-05-19-evening-dispatch.md)
+**Sources:** [wiki/sources/newsletters/2026-05-19-morning-dispatch.md](newsletters/2026-05-19-morning-dispatch.md) | [wiki/sources/newsletters/2026-05-19-evening-dispatch.md](newsletters/2026-05-19-evening-dispatch.md)
 
 ## Summary
 

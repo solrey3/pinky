@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-27
 updated: 2026-05-27
 tags: [newsletter, evening-dispatch, okc, spurs, wembanyama, golden-knights, avalanche, nhl, nba, amd, oil, iran, paxton, cornyn, texas, njpw, roland-garros, aew, edge, christian-cage, russell-2000, ralph-lauren, tsla, schw, bitcoin, ucl, arsenal, psg, world-cup, youtube, ai-disclosure, duckduckgo, anthropic, openai, mets, dodgers]
-source_path: pinky/raw/newsletters/2026-05-27-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-27-evening-dispatch.md
 ---
 
 # Newsletter 2026-05-27 — Evening Dispatch
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-05-27  
-**Source:** [pinky/raw/newsletters/2026-05-27-evening-dispatch.md](../../../raw/newsletters/2026-05-27-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-27-evening-dispatch.md](newsletters/2026-05-27-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-06
 updated: 2026-07-06
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, open-source-ai, open-weights, organic-maps, openprinter, trump, ukraine, zelensky, nato, vaccines, covid-stimulus, inflation, semiconductors, amd, tsm, nvidia, tesla, netflix, lebron-james, new-jersey-devils, wrestling, wwe, sheamus, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-06-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-06-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Monday, July 6, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-06  
-**Source:** [pinky/raw/newsletters/2026-07-06-daytime-dispatch.md](../../raw/newsletters/2026-07-06-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-06-daytime-dispatch.md](newsletters/2026-07-06-daytime-dispatch.md)
 
 ---
 

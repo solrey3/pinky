@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-26
 updated: 2026-08-26
 tags: [newsletter, midnight-dispatch, markets, oil, bitcoin, tariffs, surveillance, data-centers, apple-silicon, metabolic-monitoring, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-26-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-26-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Wednesday, August 26, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-26  
-**Source:** [pinky/raw/newsletters/2026-08-26-midnight-dispatch.md](../../raw/newsletters/2026-08-26-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-26-midnight-dispatch.md](newsletters/2026-08-26-midnight-dispatch.md)
 
 ## Summary
 

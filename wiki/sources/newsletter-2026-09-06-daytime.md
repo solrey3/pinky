@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-06
 updated: 2026-09-06
 tags: [newsletter, daytime-dispatch, markets, oil, labor-market, ukraine, robotaxis, space, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-06-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-06-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Sunday, September 6, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-06  
-**Source:** [pinky/raw/newsletters/2026-09-06-daytime-dispatch.md](../../raw/newsletters/2026-09-06-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-06-daytime-dispatch.md](newsletters/2026-09-06-daytime-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-28
 updated: 2026-06-28
 tags: [newsletter, daytime-dispatch, markets, risk-off, nasdaq, bitcoin, wti, federal-reserve, iran, bahrain, kuwait, github, microsoft, openai, netflix, semiconductors, wrestling, wwe, sami-zayn, world-cup]
-source_path: pinky/raw/newsletters/2026-06-28-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-28-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Sunday, June 28, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-28  
-**Source:** [pinky/raw/newsletters/2026-06-28-daytime-dispatch.md](../../raw/newsletters/2026-06-28-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-28-daytime-dispatch.md](newsletters/2026-06-28-daytime-dispatch.md)
 
 ---
 

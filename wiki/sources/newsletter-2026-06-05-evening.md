@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-05
 updated: 2026-06-05
 tags: [newsletter, evening-dispatch, nasdaq, s&p, bitcoin, tsla, amd, amzn, brk-b, schd, vnq, treasury, php-usd, measles, putin, zelensky, doge, ice, immigration, iss, spx-private-tech, carolina-hurricanes, vgk, stanley-cup, nba-finals, knicks, spurs, roland-garros, zverev, cobolli, andreeva, chwalinska, pga-memorial, poston, lpga-womens-open, lopez, wwe-smackdown, chad-gable, cody-rhodes, gunther, dominik-mysterio, raquel-rodriguez, mjf, forbidden-door, anthony-head, microsoft, pg-durable, gemma4-qat, faiss, mouseless, steve-lacy, osees, phoebe-bridgers, markets, gas-prices, mortgage]
-source_path: pinky/raw/newsletters/2026-06-05-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-05-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, June 5, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-05  
-**Source:** [pinky/raw/newsletters/2026-06-05-evening-dispatch.md](../../../raw/newsletters/2026-06-05-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-05-evening-dispatch.md](newsletters/2026-06-05-evening-dispatch.md)
 
 ---
 

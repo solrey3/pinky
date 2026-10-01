@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-17
 updated: 2026-09-17
 tags: [newsletter, noon-dispatch, markets, monetary-policy, apple, surveillance, semiconductors, oil, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-17-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-17-noon-dispatch.md
 ---
 
 # Noon Dispatch — Thursday, September 17, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-17  
-**Source:** [pinky/raw/newsletters/2026-09-17-noon-dispatch.md](../../raw/newsletters/2026-09-17-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-17-noon-dispatch.md](newsletters/2026-09-17-noon-dispatch.md)
 
 ## Summary
 

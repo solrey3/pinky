@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-15
 updated: 2026-06-15
 tags: [newsletter, evening-dispatch, markets, risk-on, russell-2000, amd, nvidia, wti, iran, ai-security, ai-output-liability, stanley-cup, carolina-hurricanes, vgk, njpw, will-ospreay, wrestling]
-source_path: pinky/raw/newsletters/2026-06-15-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-15-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, June 15, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-15  
-**Source:** [pinky/raw/newsletters/2026-06-15-evening-dispatch.md](../../raw/newsletters/2026-06-15-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-15-evening-dispatch.md](newsletters/2026-06-15-evening-dispatch.md)
 
 ---
 

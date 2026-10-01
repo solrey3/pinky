@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-21
 updated: 2026-07-21
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, passport-rankings, property-rights, civil-asset-forfeiture, ai-evaluation, ai-copyright, open-weights-ai, qwen, gemini, semiconductors, amd, tsm, nvidia, paypal, polymarket, new-jersey-devils, tour-de-france, wrestling, oneplus]
-source_path: pinky/raw/newsletters/2026-07-21-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-21-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, July 21, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-21  
-**Source:** [pinky/raw/newsletters/2026-07-21-evening-dispatch.md](../../raw/newsletters/2026-07-21-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-21-evening-dispatch.md](newsletters/2026-07-21-evening-dispatch.md)
 
 ---
 

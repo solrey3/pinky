@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-13
 updated: 2026-09-13
 tags: [newsletter, daytime-dispatch, markets, oil, inflation, monetary-policy, ai-safety, openai, robotics, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-13-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-13-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Sunday, September 13, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-13  
-**Source:** [pinky/raw/newsletters/2026-09-13-daytime-dispatch.md](../../raw/newsletters/2026-09-13-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-13-daytime-dispatch.md](newsletters/2026-09-13-daytime-dispatch.md)
 
 ## Summary
 

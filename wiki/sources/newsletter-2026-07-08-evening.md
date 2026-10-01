@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-08
 updated: 2026-07-08
 tags: [newsletter, evening-dispatch, markets, mixed-close, federal-reserve, treasury, bitcoin, wti, iran, trump, openai, xai, grok, ai-evaluation, message-scanning, privacy, semiconductors, amd, tsm, nvidia, tesla, schwab, lebron-james, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-08-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-08-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, July 8, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-08  
-**Source:** [pinky/raw/newsletters/2026-07-08-evening-dispatch.md](../../raw/newsletters/2026-07-08-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-08-evening-dispatch.md](newsletters/2026-07-08-evening-dispatch.md)
 
 ---
 

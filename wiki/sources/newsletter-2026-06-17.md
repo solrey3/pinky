@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-17
 updated: 2026-06-17
 tags: [newsletter, morning-dispatch, markets, risk-on, russell-2000, wti, iran, trump, habeas-corpus, local-ai, grapheneos, anthropic, claude-agent-sdk, wrestling]
-source_path: pinky/raw/newsletters/2026-06-17-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-17-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-17 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-17  
-**Source:** [pinky/raw/newsletters/2026-06-17-morning-dispatch.md](../../raw/newsletters/2026-06-17-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-17-morning-dispatch.md](newsletters/2026-06-17-morning-dispatch.md)
 
 ---
 

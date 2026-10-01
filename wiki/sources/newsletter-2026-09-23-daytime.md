@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-23
 updated: 2026-09-23
 tags: [newsletter, daytime-dispatch, markets, frontier-models, press-freedom, model-uncertainty, biodiversity, broadband, oil, prediction-markets, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-23-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-23-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Wednesday, September 23, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-23  
-**Source:** [pinky/raw/newsletters/2026-09-23-daytime-dispatch.md](../../raw/newsletters/2026-09-23-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-23-daytime-dispatch.md](newsletters/2026-09-23-daytime-dispatch.md)
 
 ## Summary
 

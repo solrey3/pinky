@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-31
 updated: 2026-08-31
 tags: [newsletter, evening-dispatch, markets, platform-regulation, browser-extensions, immigration, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-31-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-31-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, August 31, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-31  
-**Source:** [pinky/raw/newsletters/2026-08-31-evening-dispatch.md](../../raw/newsletters/2026-08-31-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-31-evening-dispatch.md](newsletters/2026-08-31-evening-dispatch.md)
 
 ## Summary
 

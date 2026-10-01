@@ -11,7 +11,7 @@ set -euo pipefail
 
 PINKY_DIR="${PINKY_DIR:-$HOME/pinky}"
 PAGES_DIR="${PAGES_DIR:-$HOME/solrey3.github.io}"
-NEWSLETTERS_DIR="$PINKY_DIR/raw/newsletters"
+NEWSLETTERS_DIR="$PINKY_DIR/wiki/sources/newsletters"
 TARGET_DIR="$PAGES_DIR/news"
 TARGET="$TARGET_DIR/index.md"
 TARGET_REL="news/index.md"

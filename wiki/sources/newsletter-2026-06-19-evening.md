@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-19
 updated: 2026-06-19
 tags: [newsletter, evening-dispatch, markets, risk-on, nasdaq, russell-2000, wti, bitcoin, federal-reserve, iran, hormuz, trump, microsoft, cryptocurrency-malware, ai-education, robotics, boston-dynamics, hyundai, amd, nvidia, wrestling, aew, wwe, tna]
-source_path: pinky/raw/newsletters/2026-06-19-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-19-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, June 19, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-19  
-**Source:** [pinky/raw/newsletters/2026-06-19-evening-dispatch.md](../../raw/newsletters/2026-06-19-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-19-evening-dispatch.md](newsletters/2026-06-19-evening-dispatch.md)
 
 ---
 

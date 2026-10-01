@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-31
 updated: 2026-05-31
 tags: [newsletter, morning-dispatch, spurs, okc, wembanyama, nba-finals, arsenal, psg, ucl, aew, wwe, njpw, aaa, roland-garros, swiatek, gauff, sabalenka, markets, amd, iran, oil, lpga, pga, charles-schwab-challenge, delaney-hall, nj-politics, zelensky, ukraine, botnet, av2, accenture, ookla, meltzer, world-cup, fifa]
-source_path: pinky/raw/newsletters/2026-05-31-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-31-morning-dispatch.md
 ---
 
 # Newsletter 2026-05-31 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-05-31  
-**Source:** [pinky/raw/newsletters/2026-05-31-morning-dispatch.md](../../../raw/newsletters/2026-05-31-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-31-morning-dispatch.md](newsletters/2026-05-31-morning-dispatch.md)
 
 ---
 

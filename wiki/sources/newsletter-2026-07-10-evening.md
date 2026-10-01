@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-10
 updated: 2026-07-10
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, iran, apple, openai, gpt-5-6, grok, claude, ai-litigation, trade-secrets, surveillance, subscription-dark-patterns, semiconductors, amd, tsm, nvidia, tesla, netflix, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-10-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-10-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, July 10, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-10  
-**Source:** [pinky/raw/newsletters/2026-07-10-evening-dispatch.md](../../raw/newsletters/2026-07-10-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-10-evening-dispatch.md](newsletters/2026-07-10-evening-dispatch.md)
 
 ---
 

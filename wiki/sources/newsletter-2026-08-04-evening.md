@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-04
 updated: 2026-08-04
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, tesla, china, currency-intervention, japan, power-grid, ai-infrastructure, open-weights-ai, mistral, shieldstral, foodborne-outbreaks, chipotle, prediction-markets, polymarket, kalshi, tour-de-france, tour-de-france-femmes, marlen-reusser, wwe, aew, tna, cmll, njpw, wrestling, brock-lesnar, dory-funk-jr]
-source_path: pinky/raw/newsletters/2026-08-04-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-04-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, August 4, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-08-04  
-**Source:** [pinky/raw/newsletters/2026-08-04-evening-dispatch.md](../../raw/newsletters/2026-08-04-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-04-evening-dispatch.md](newsletters/2026-08-04-evening-dispatch.md)
 
 ---
 

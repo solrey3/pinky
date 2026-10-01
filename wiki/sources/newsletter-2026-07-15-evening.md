@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-15
 updated: 2026-07-15
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, iran, gulf-shipping, israel, china, pew-research, media-consolidation, antitrust, open-weights-ai, xai, microsoft, android, semiconductors, amd, tsm, nvidia, tesla, netflix, paypal, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, world-cup, mlb-all-star, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-15-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-15-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, July 15, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-07-15  
-**Source:** [pinky/raw/newsletters/2026-07-15-evening-dispatch.md](../../raw/newsletters/2026-07-15-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-15-evening-dispatch.md](newsletters/2026-07-15-evening-dispatch.md)
 
 ---
 

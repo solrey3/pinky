@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-03
 updated: 2026-07-03
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, heat-wave, birthright-citizenship, google, android, antitrust, local-ai, valve, steam-machine, sqlite, tla-plus, synthetic-biology, semiconductors, amd, tsm, nvidia, tesla, netflix, wrestling, wwe, sami-zayn, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-03-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-03-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, July 3, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-03  
-**Source:** [pinky/raw/newsletters/2026-07-03-evening-dispatch.md](../../raw/newsletters/2026-07-03-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-03-evening-dispatch.md](newsletters/2026-07-03-evening-dispatch.md)
 
 ---
 

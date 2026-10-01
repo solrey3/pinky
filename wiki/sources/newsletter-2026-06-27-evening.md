@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-27
 updated: 2026-06-27
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, bitcoin, wti, federal-reserve, iran, bahrain, deepseek, github, netflix, semiconductors, wrestling, wwe, sami-zayn, world-cup]
-source_path: pinky/raw/newsletters/2026-06-27-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-27-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, June 27, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-27  
-**Source:** [pinky/raw/newsletters/2026-06-27-evening-dispatch.md](../../raw/newsletters/2026-06-27-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-27-evening-dispatch.md](newsletters/2026-06-27-evening-dispatch.md)
 
 ---
 

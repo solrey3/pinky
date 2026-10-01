@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-09
 updated: 2026-06-09
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, anthropic, claude-fable-5, opencv, npm, linux-cve, immigration, social-security, nasa, nba-finals, spurs, knicks, wembanyama, stanley-cup, wrestling]
-source_path: pinky/raw/newsletters/2026-06-09-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-09-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, June 9, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-09  
-**Source:** [pinky/raw/newsletters/2026-06-09-evening-dispatch.md](../../../raw/newsletters/2026-06-09-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-09-evening-dispatch.md](newsletters/2026-06-09-evening-dispatch.md)
 
 ---
 

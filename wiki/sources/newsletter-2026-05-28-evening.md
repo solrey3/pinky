@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-28
 updated: 2026-05-28
 tags: [newsletter, evening-dispatch, markets, anthropic, claude-opus-4.8, amd, ralph-lauren, oil, russell-2000, iran, carolina-hurricanes, roland-garros, arsenal, psg, ucl, aew, wwe, mjf, rush, brock-lesnar, jim-ross, polymarket, raspberry-pi, illinois-ai, llm-research, mets, dodgers, njpw, nlpga, charles-schwab-challenge]
-source_path: pinky/raw/newsletters/2026-05-28-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-28-evening-dispatch.md
 ---
 
 # Newsletter 2026-05-28 — Evening Dispatch
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-05-28  
-**Source:** [pinky/raw/newsletters/2026-05-28-evening-dispatch.md](../../../raw/newsletters/2026-05-28-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-28-evening-dispatch.md](newsletters/2026-05-28-evening-dispatch.md)
 
 ---
 

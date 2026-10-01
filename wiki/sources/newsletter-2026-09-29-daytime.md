@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-29
 updated: 2026-09-29
 tags: [newsletter, daytime-dispatch, markets, aviation-safety, ai-governance, philippines, commercial-space, semiconductors, oil, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-29-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-29-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Tuesday, September 29, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-29  
-**Source:** [pinky/raw/newsletters/2026-09-29-daytime-dispatch.md](../../raw/newsletters/2026-09-29-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-29-daytime-dispatch.md](newsletters/2026-09-29-daytime-dispatch.md)
 
 ## Summary
 

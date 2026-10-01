@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-22
 updated: 2026-09-22
 tags: [newsletter, noon-dispatch, markets, ai-governance, aviation-ai, autonomous-vehicles, iran, semiconductors, oil, prediction-markets, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-22-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-22-noon-dispatch.md
 ---
 
 # Noon Dispatch — Tuesday, September 22, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-22  
-**Source:** [pinky/raw/newsletters/2026-09-22-noon-dispatch.md](../../raw/newsletters/2026-09-22-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-22-noon-dispatch.md](newsletters/2026-09-22-noon-dispatch.md)
 
 ## Summary
 

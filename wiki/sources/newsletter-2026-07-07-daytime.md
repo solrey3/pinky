@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-07
 updated: 2026-07-07
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, ai-sentiment, anthropic, claude-code, prompt-steganography, fcc, broadband, openwrt-one, open-hardware, iran, hormuz, semiconductors, amd, tsm, nvidia, tesla, target, schwab, new-jersey-devils, wrestling, wwe, cm-punk, cody-rhodes, sami-zayn, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-07-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-07-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Tuesday, July 7, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-07  
-**Source:** [pinky/raw/newsletters/2026-07-07-daytime-dispatch.md](../../raw/newsletters/2026-07-07-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-07-daytime-dispatch.md](newsletters/2026-07-07-daytime-dispatch.md)
 
 ---
 

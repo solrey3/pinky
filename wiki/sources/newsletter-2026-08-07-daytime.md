@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-07
 updated: 2026-08-07
 tags: [newsletter, daytime-dispatch, markets, risk-on, agentic-ai, semiconductors, hormuz, constitutional-law, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-07-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-07-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Friday, August 7, 2026
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-08-07  
-**Source:** [pinky/raw/newsletters/2026-08-07-daytime-dispatch.md](../../raw/newsletters/2026-08-07-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-07-daytime-dispatch.md](newsletters/2026-08-07-daytime-dispatch.md)
 
 ## Summary
 

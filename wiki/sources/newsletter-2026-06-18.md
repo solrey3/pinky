@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-18
 updated: 2026-06-18
 tags: [newsletter, morning-dispatch, markets, risk-on, russell-2000, wti, iran, trump, civil-liberties, federal-reserve, quantum-error-correction, nvidia, amd, privacy, wrestling, aew, njpw, tna]
-source_path: pinky/raw/newsletters/2026-06-18-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-18-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-18 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-18  
-**Source:** [pinky/raw/newsletters/2026-06-18-morning-dispatch.md](../../raw/newsletters/2026-06-18-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-18-morning-dispatch.md](newsletters/2026-06-18-morning-dispatch.md)
 
 ---
 

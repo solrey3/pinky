@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-05
 updated: 2026-06-05
 tags: [newsletter, morning-dispatch, nhl, carolina-hurricanes, vgk, stanley-cup, nba-finals, knicks, spurs, wembanyama, roland-garros, andreeva, chwalinska, bitcoin, dow, s&p, amd, tsm, amzn, nflx, tsla, anthropic, vulnerability-framework, prince, timeless, pixies, reissues, massive-attack, primavera-sound, cody-rhodes, gunther, mjf, sheamus, senate-reconciliation, immigration, ndaa, iran, zelensky, coal, gas-prices, pga-memorial, lpga-us-open]
-source_path: pinky/raw/newsletters/2026-06-05-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-05-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-05 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-05  
-**Source:** [pinky/raw/newsletters/2026-06-05-morning-dispatch.md](../../../raw/newsletters/2026-06-05-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-05-morning-dispatch.md](newsletters/2026-06-05-morning-dispatch.md)
 
 ---
 

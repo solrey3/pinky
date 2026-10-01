@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-24
 updated: 2026-08-24
 tags: [newsletter, noon-dispatch, markets, bitcoin, tariffs, western-water, ai-watermarking, lunar-exploration, wildfire, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-24-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-24-noon-dispatch.md
 ---
 
 # Noon Dispatch — Monday, August 24, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-24  
-**Source:** [pinky/raw/newsletters/2026-08-24-noon-dispatch.md](../../raw/newsletters/2026-08-24-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-24-noon-dispatch.md](newsletters/2026-08-24-noon-dispatch.md)
 
 ## Summary
 

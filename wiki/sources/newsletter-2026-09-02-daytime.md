@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-02
 updated: 2026-09-02
 tags: [newsletter, daytime-dispatch, markets, bonds, oil, iran, ai, measles, nuclear-power, space, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-02-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-02-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Wednesday, September 2, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-02  
-**Source:** [pinky/raw/newsletters/2026-09-02-daytime-dispatch.md](../../raw/newsletters/2026-09-02-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-02-daytime-dispatch.md](newsletters/2026-09-02-daytime-dispatch.md)
 
 ## Summary
 

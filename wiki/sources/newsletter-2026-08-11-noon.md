@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-11
 updated: 2026-08-11
 tags: [newsletter, noon-dispatch, markets, oil, surveillance, passkeys, ai-inference, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-11-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-11-noon-dispatch.md
 ---
 
 # Noon Dispatch — Tuesday, August 11, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-08-11  
-**Source:** [pinky/raw/newsletters/2026-08-11-noon-dispatch.md](../../raw/newsletters/2026-08-11-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-11-noon-dispatch.md](newsletters/2026-08-11-noon-dispatch.md)
 
 ## Summary
 

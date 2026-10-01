@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-09
 updated: 2026-08-09
 tags: [newsletter, daytime-dispatch, markets, risk-on, family-leave, immigration, hormuz, defense-production, ai-weather-forecasting, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-09-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-09-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Sunday, August 9, 2026
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-08-09  
-**Source:** [pinky/raw/newsletters/2026-08-09-daytime-dispatch.md](../../raw/newsletters/2026-08-09-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-09-daytime-dispatch.md](newsletters/2026-08-09-daytime-dispatch.md)
 
 ## Summary
 

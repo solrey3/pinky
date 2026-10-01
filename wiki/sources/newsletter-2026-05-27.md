@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-27
 updated: 2026-05-27
 tags: [newsletter, morning-dispatch, okc, spurs, wembanyama, golden-knights, avalanche, nhl, nba, amd, oil, iran, biden, paxton, cornyn, texas, njpw, roland-garros, starlette, cve, fastapi, mets, wrestling, meltzer, ralph-lauren, russell-2000]
-source_path: pinky/raw/newsletters/2026-05-27-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-27-morning-dispatch.md
 ---
 
 # Newsletter 2026-05-27 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-05-27  
-**Source:** [pinky/raw/newsletters/2026-05-27-morning-dispatch.md](../../../raw/newsletters/2026-05-27-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-27-morning-dispatch.md](newsletters/2026-05-27-morning-dispatch.md)
 
 ---
 

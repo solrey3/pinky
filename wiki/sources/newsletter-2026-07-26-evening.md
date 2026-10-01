@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-26
 updated: 2026-07-26
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, tariffs, iran, foodborne-outbreaks, ai-psychosis, researcher-access, grapheneos, token-fraud, ai-infrastructure, glp-1, cold-chain, semiconductors, amd, tsm, nvidia, tesla, amazon, prediction-markets, polymarket, mets, new-jersey-devils, tour-de-france, golf, wrestling]
-source_path: pinky/raw/newsletters/2026-07-26-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-26-evening-dispatch.md
 ---
 
 # Evening Brief — Sunday, July 26, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-26  
-**Source:** [pinky/raw/newsletters/2026-07-26-evening-dispatch.md](../../raw/newsletters/2026-07-26-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-26-evening-dispatch.md](newsletters/2026-07-26-evening-dispatch.md)
 
 ---
 

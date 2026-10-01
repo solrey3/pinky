@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-30
 updated: 2026-07-30
 tags: [newsletter, midnight-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, semiconductors, amd, tsm, nvidia, tesla, iran, jordan, trump, tariffs, birthright-citizenship, civil-liberties, james-comey, ai-security, ai-research-opacity, open-weights-ai, vulnerability-discovery, prediction-markets, kawhi-leonard, alex-eala, aew, wrestling]
-source_path: pinky/raw/newsletters/2026-07-30-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-30-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Thursday, July 30, 2026
 
 **Author:** Midnight Dispatch (automated)  
 **Date:** 2026-07-30  
-**Source:** [pinky/raw/newsletters/2026-07-30-midnight-dispatch.md](../../raw/newsletters/2026-07-30-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-30-midnight-dispatch.md](newsletters/2026-07-30-midnight-dispatch.md)
 
 ---
 

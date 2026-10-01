@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-30
 updated: 2026-07-30
 tags: [newsletter, noon-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, semiconductors, amd, tsm, nvidia, tesla, public-health, foodborne-outbreaks, autonomous-border-surveillance, ai-security, vulnerability-discovery, google-deepmind, robotics, online-age-verification, refactoring, streaming, prediction-markets, mets, giants, new-jersey-devils, wrestling]
-source_path: pinky/raw/newsletters/2026-07-30-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-30-noon-dispatch.md
 ---
 
 # Noon Dispatch — Thursday, July 30, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-07-30  
-**Source:** [pinky/raw/newsletters/2026-07-30-noon-dispatch.md](../../raw/newsletters/2026-07-30-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-30-noon-dispatch.md](newsletters/2026-07-30-noon-dispatch.md)
 
 ---
 

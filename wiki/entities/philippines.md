@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-01
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 17
+source_count: 18
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 17
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — Tracks the revised Sara Duterte impeachment witness list, the Supreme Court's Senate-quorum ruling, and proposed additional DSWD program funding.
 
 - [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Tracks the prospective Quiboloy extradition filing, witness selection in Sara Duterte's prosecution, public-spending delays attributed to cash constraints, and rice-stock preparation for a possible super El Niño.
 

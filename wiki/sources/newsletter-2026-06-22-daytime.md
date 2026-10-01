@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-22
 updated: 2026-06-22
 tags: [newsletter, daytime-dispatch, markets, risk-on, nasdaq, russell-2000, s-and-p-500, wti, bitcoin, federal-reserve, iran, hormuz, anthropic, claude, identity-verification, deno, desktop-runtime, apertus, sovereign-ai, amd, nvidia, tsm, wrestling, aaa, aew, wwe, njpw]
-source_path: pinky/raw/newsletters/2026-06-22-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-22-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Monday, June 22, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-22  
-**Source:** [pinky/raw/newsletters/2026-06-22-daytime-dispatch.md](../../raw/newsletters/2026-06-22-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-22-daytime-dispatch.md](newsletters/2026-06-22-daytime-dispatch.md)
 
 ---
 

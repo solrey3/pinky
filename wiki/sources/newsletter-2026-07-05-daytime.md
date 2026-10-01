@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-05
 updated: 2026-07-05
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, semiconductors, amd, tsm, nvidia, tesla, netflix, plex, youtube, openai-codex, shadcn-ui, base-ui, security, privacy, digital-media, lebron-james, new-jersey-devils, wrestling, wwe, cody-rhodes, sami-zayn, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-05-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-05-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Sunday, July 5, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-05  
-**Source:** [pinky/raw/newsletters/2026-07-05-daytime-dispatch.md](../../raw/newsletters/2026-07-05-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-05-daytime-dispatch.md](newsletters/2026-07-05-daytime-dispatch.md)
 
 ---
 

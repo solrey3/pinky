@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-05
 updated: 2026-08-05
 tags: [newsletter, noon-dispatch, markets, risk-on, ai-spending, cloudflare, qwen, spacex, oil, election-security, cyclosporiasis, cycling, mets, wrestling]
-source_path: pinky/raw/newsletters/2026-08-05-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-05-noon-dispatch.md
 ---
 
 # Noon Dispatch — Wednesday, August 5, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-08-05  
-**Source:** [pinky/raw/newsletters/2026-08-05-noon-dispatch.md](../../raw/newsletters/2026-08-05-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-05-noon-dispatch.md](newsletters/2026-08-05-noon-dispatch.md)
 
 ## Summary
 

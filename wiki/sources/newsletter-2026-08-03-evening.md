@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-03
 updated: 2026-08-03
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, ups, vnq, tariffs, iran, hormuz, critical-infrastructure, water-systems, fcc, robotics, ai-security, ai-evaluation, developer-tools, open-source, cloudflare, openai, hugging-face, palantir, boeing, visa, biocatch, ai-fraud, prediction-markets, polymarket, kalshi, mets, yankees, giants, new-jersey-devils, inter-miami, wembanyama, alex-eala, wwe, tko, aew, tna, cmll, njpw, wrestling]
-source_path: pinky/raw/newsletters/2026-08-03-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-03-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, August 3, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-08-03  
-**Source:** [pinky/raw/newsletters/2026-08-03-evening-dispatch.md](../../raw/newsletters/2026-08-03-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-03-evening-dispatch.md](newsletters/2026-08-03-evening-dispatch.md)
 
 ---
 

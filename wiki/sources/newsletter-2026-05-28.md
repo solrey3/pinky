@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-28
 updated: 2026-05-28
 tags: [newsletter, morning-dispatch, markets, amd, tsm, russell-2000, iran, oil, arsenal, psg, ucl, shohei-ohtani, mets, mjf, rush, aew, njpw, roland-garros, naomi-osaka, carolina-hurricanes, crystal-palace, youtube-ai, duckduckgo, buttigieg, redistricting, texas-senate, polymarket, ebola, ebola-drc, charles-schwab, meltzer, world-cup]
-source_path: pinky/raw/newsletters/2026-05-28-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-28-morning-dispatch.md
 ---
 
 # Newsletter 2026-05-28 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-05-28  
-**Source:** [pinky/raw/newsletters/2026-05-28-morning-dispatch.md](../../../raw/newsletters/2026-05-28-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-28-morning-dispatch.md](newsletters/2026-05-28-morning-dispatch.md)
 
 ---
 

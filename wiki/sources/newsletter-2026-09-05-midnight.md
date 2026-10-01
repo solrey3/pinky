@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-05
 updated: 2026-09-05
 tags: [newsletter, midnight-dispatch, markets, oil, ai-consolidation, robotaxis, formal-methods, space, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-05-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-05-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Saturday, September 5, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-05  
-**Source:** [pinky/raw/newsletters/2026-09-05-midnight-dispatch.md](../../raw/newsletters/2026-09-05-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-05-midnight-dispatch.md](newsletters/2026-09-05-midnight-dispatch.md)
 
 ## Summary
 

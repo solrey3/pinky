@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-25
 updated: 2026-06-25
 tags: [newsletter, daytime-dispatch, markets, risk-off, nasdaq, s-and-p-500, russell-2000, federal-reserve, trump, iran, openai, broadcom, anthropic, alibaba, nvidia, amd, tsm, ai-hardware, model-extraction, data-centers, wrestling, aew, wwe-nxt, cmll]
-source_path: pinky/raw/newsletters/2026-06-25-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-25-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Thursday, June 25, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-25  
-**Source:** [pinky/raw/newsletters/2026-06-25-daytime-dispatch.md](../../raw/newsletters/2026-06-25-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-25-daytime-dispatch.md](newsletters/2026-06-25-daytime-dispatch.md)
 
 ---
 

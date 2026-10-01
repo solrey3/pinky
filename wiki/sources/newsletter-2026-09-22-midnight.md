@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-22
 updated: 2026-09-22
 tags: [newsletter, midnight-dispatch, markets, media-consolidation, agentic-ai-security, press-freedom, immigration, semiconductors, oil, prediction-markets, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-22-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-22-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Tuesday, September 22, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-22  
-**Source:** [pinky/raw/newsletters/2026-09-22-midnight-dispatch.md](../../raw/newsletters/2026-09-22-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-22-midnight-dispatch.md](newsletters/2026-09-22-midnight-dispatch.md)
 
 ## Summary
 

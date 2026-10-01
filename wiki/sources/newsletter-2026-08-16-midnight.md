@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-16
 updated: 2026-08-16
 tags: [newsletter, midnight-dispatch, markets, retail-sales, oil, anthropic, duckdb, dementia-research, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-16-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-16-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Sunday, August 16, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-16  
-**Source:** [pinky/raw/newsletters/2026-08-16-midnight-dispatch.md](../../raw/newsletters/2026-08-16-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-16-midnight-dispatch.md](newsletters/2026-08-16-midnight-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-09
 updated: 2026-09-09
 tags: [newsletter, evening-dispatch, markets, oil, tariffs, apple, model-extraction, data-centers, financial-surveillance, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-09-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-09-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, September 9, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-09  
-**Source:** [pinky/raw/newsletters/2026-09-09-evening-dispatch.md](../../raw/newsletters/2026-09-09-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-09-evening-dispatch.md](newsletters/2026-09-09-evening-dispatch.md)
 
 ## Summary
 

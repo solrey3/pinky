@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-28
 updated: 2026-08-28
 tags: [newsletter, evening-dispatch, markets, monetary-policy, anthropic, apple, nvidia, immigration, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-28-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-28-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, August 28, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-28  
-**Source:** [pinky/raw/newsletters/2026-08-28-evening-dispatch.md](../../raw/newsletters/2026-08-28-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-28-evening-dispatch.md](newsletters/2026-08-28-evening-dispatch.md)
 
 ## Summary
 

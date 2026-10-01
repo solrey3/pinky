@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-12
 updated: 2026-08-12
 tags: [newsletter, midnight-dispatch, markets, oil, surveillance, open-weights, ai-infrastructure, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-12-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-12-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Wednesday, August 12, 2026
 
 **Author:** Midnight Dispatch (automated)  
 **Date:** 2026-08-12  
-**Source:** [pinky/raw/newsletters/2026-08-12-midnight-dispatch.md](../../raw/newsletters/2026-08-12-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-12-midnight-dispatch.md](newsletters/2026-08-12-midnight-dispatch.md)
 
 ## Summary
 

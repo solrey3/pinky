@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-02
 updated: 2026-08-02
 tags: [newsletter, noon-dispatch, markets, risk-on, mixed-close, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, ups, vnq, iran, property-rights, immigration, wildfire, ai-security, anthropic, claude, go, diataxis, bor, documentation, linux, reddit, google, databricks, prediction-markets, polymarket, kalshi, mets, yankees, giants, new-jersey-devils, inter-miami, barcelona, arsenal, wwe, summerslam, aaa, aew, njpw, cmll, wrestling]
-source_path: pinky/raw/newsletters/2026-08-02-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-02-noon-dispatch.md
 ---
 
 # Noon Dispatch — Sunday, August 2, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-08-02  
-**Source:** [pinky/raw/newsletters/2026-08-02-noon-dispatch.md](../../raw/newsletters/2026-08-02-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-02-noon-dispatch.md](newsletters/2026-08-02-noon-dispatch.md)
 
 ---
 

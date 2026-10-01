@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-02
 updated: 2026-06-02
 tags: [newsletter, evening-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, golden-knights, roland-garros, sabalenka, mensik, fonseca, andreeva, kostyuk, markets, bitcoin, oil, iran, wti, semiconductors, nvda, tsm, amd, nflx, pypl, schw, ups, tsla, mets, pga, lpga, wrestling, wwe, aew, cmll, mick-foley, jon-moxley, sol-ruca, microsoft, mai-code-1, mai-thinking-1, android-scam-detection, leiden-declaration, ai-executive-order, ndaa, new-jersey-primary, delaney-hall, ebola, polymarket, mortgage, gas-prices, php-usd]
-source_path: pinky/raw/newsletters/2026-06-02-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-02-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, June 2, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-02  
-**Source:** [pinky/raw/newsletters/2026-06-02-evening-dispatch.md](../../../raw/newsletters/2026-06-02-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-02-evening-dispatch.md](newsletters/2026-06-02-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-01
 updated: 2026-08-01
 tags: [newsletter, midnight-dispatch, markets, risk-on, mixed-close, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amd, nvidia, tsm, amazon, ups, tariffs, iran, ebola, prediction-markets, kalshi, flock-safety, alpr, ai-security, anthropic, tailscale, hugging-face, android, databricks, fifa, wembanyama, mets, yankees, giants, new-jersey-devils, wwe, summerslam, aew, njpw, wrestling]
-source_path: pinky/raw/newsletters/2026-08-01-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-01-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Saturday, August 1, 2026
 
 **Author:** Midnight Dispatch (automated)  
 **Date:** 2026-08-01  
-**Source:** [pinky/raw/newsletters/2026-08-01-midnight-dispatch.md](../../raw/newsletters/2026-08-01-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-01-midnight-dispatch.md](newsletters/2026-08-01-midnight-dispatch.md)
 
 ---
 

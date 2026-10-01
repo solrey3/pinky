@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-29
 updated: 2026-05-29
 tags: [newsletter, morning-dispatch, markets, amd, russell-2000, iran, oil, spurs, okc, game7, wembanyama, sga, knicks, mitchell-robinson, carolina-hurricanes, arsenal, psg, ucl, roland-garros, ben-shelton, blue-origin, new-glenn, anthropic, claude-opus-4.8, llm-research, polymarket, ralph-lauren, schw, bitcoin, aew, wwe, tna, meltzer, njpw]
-source_path: pinky/raw/newsletters/2026-05-29-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-29-morning-dispatch.md
 ---
 
 # Newsletter 2026-05-29 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-05-29  
-**Source:** [pinky/raw/newsletters/2026-05-29-morning-dispatch.md](../../../raw/newsletters/2026-05-29-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-29-morning-dispatch.md](newsletters/2026-05-29-morning-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-31
 updated: 2026-07-31
 tags: [newsletter, evening-dispatch, markets, risk-on, mixed-close, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amd, nvidia, tsm, amazon, ups, prediction-markets, kalshi, immigration, flock-safety, alpr, ai-security, anthropic, tailscale, hugging-face, deepseek, synthetic-imagery, google-earth, gm, databricks, mets, yankees, giants, new-jersey-devils, inter-miami, fifa, aew, wwe, njpw, wrestling]
-source_path: pinky/raw/newsletters/2026-07-31-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-31-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, July 31, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-31  
-**Source:** [pinky/raw/newsletters/2026-07-31-evening-dispatch.md](../../raw/newsletters/2026-07-31-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-31-evening-dispatch.md](newsletters/2026-07-31-evening-dispatch.md)
 
 ---
 

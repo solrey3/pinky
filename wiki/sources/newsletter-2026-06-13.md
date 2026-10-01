@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-13
 updated: 2026-06-13
 tags: [newsletter, morning-dispatch, markets, rotation, russell-2000, wti, iran, anthropic, fable, mythos, google, gemini, peoplesoft, ffmpeg, cybersecurity, nba-finals, knicks, spurs, stanley-cup, carolina-hurricanes, vgk, wrestling]
-source_path: pinky/raw/newsletters/2026-06-13-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-13-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-13 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-13  
-**Source:** [pinky/raw/newsletters/2026-06-13-morning-dispatch.md](../../../raw/newsletters/2026-06-13-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-13-morning-dispatch.md](newsletters/2026-06-13-morning-dispatch.md)
 
 ---
 

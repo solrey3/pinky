@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-28
 updated: 2026-08-28
 tags: [newsletter, noon-dispatch, markets, monetary-policy, anthropic, agentic-ai, food-safety, immigration, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-28-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-28-noon-dispatch.md
 ---
 
 # Noon Dispatch — Friday, August 28, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-28  
-**Source:** [pinky/raw/newsletters/2026-08-28-noon-dispatch.md](../../raw/newsletters/2026-08-28-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-28-noon-dispatch.md](newsletters/2026-08-28-noon-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-26
 updated: 2026-07-26
 tags: [newsletter, daytime-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, heat-dome, wildfires, wildfire-resilience, anthropic, claude-opus-5, context-engineering, cloudflare, ruff, ukraine, drones, semiconductors, amd, tsm, nvidia, tesla, amazon, prediction-markets, polymarket, nba, new-jersey-devils, tour-de-france, golf, wrestling]
-source_path: pinky/raw/newsletters/2026-07-26-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-26-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Sunday, July 26, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-26  
-**Source:** [pinky/raw/newsletters/2026-07-26-daytime-dispatch.md](../../raw/newsletters/2026-07-26-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-26-daytime-dispatch.md](newsletters/2026-07-26-daytime-dispatch.md)
 
 ---
 

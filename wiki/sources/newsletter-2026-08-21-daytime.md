@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-21
 updated: 2026-08-21
 tags: [newsletter, daytime-dispatch, markets, bonds, college-enrollment, healthcare-costs, internet-access, github, ai-generated-content, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-21-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-21-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Friday, August 21, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-21  
-**Source:** [pinky/raw/newsletters/2026-08-21-daytime-dispatch.md](../../raw/newsletters/2026-08-21-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-21-daytime-dispatch.md](newsletters/2026-08-21-daytime-dispatch.md)
 
 ## Summary
 

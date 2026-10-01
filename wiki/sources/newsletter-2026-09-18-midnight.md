@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-18
 updated: 2026-09-18
 tags: [newsletter, midnight-dispatch, markets, monetary-policy, central-bank-independence, apple, legal-ai, model-compression, oil, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-18-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-18-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Friday, September 18, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-18  
-**Source:** [pinky/raw/newsletters/2026-09-18-midnight-dispatch.md](../../raw/newsletters/2026-09-18-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-18-midnight-dispatch.md](newsletters/2026-09-18-midnight-dispatch.md)
 
 ## Summary
 

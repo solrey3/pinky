@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-02
 updated: 2026-08-02
 tags: [newsletter, daytime-dispatch, morning-dispatch, markets, risk-on, mixed-close, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, ups, red-sea, iran, property-rights, ai-labor, customer-service, ai-security, anthropic, claude, go, rss, best-buy, databricks, social-security, prediction-markets, polymarket, kalshi, mets, giants, new-jersey-devils, inter-miami, barcelona, arsenal, wwe, summerslam, aaa, aew, njpw, cmll, wrestling]
-source_path: pinky/raw/newsletters/2026-08-02-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-02-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Sunday, August 2, 2026
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-08-02  
-**Source:** [pinky/raw/newsletters/2026-08-02-daytime-dispatch.md](../../raw/newsletters/2026-08-02-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-02-daytime-dispatch.md](newsletters/2026-08-02-daytime-dispatch.md)
 
 ---
 

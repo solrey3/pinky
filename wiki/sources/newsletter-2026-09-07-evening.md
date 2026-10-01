@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-07
 updated: 2026-09-07
 tags: [newsletter, evening-dispatch, markets, oil, labor-market, iran, commercial-space, software-supply-chain, ai-weather-forecasting, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-07-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-07-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, September 7, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-07  
-**Source:** [pinky/raw/newsletters/2026-09-07-evening-dispatch.md](../../raw/newsletters/2026-09-07-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-07-evening-dispatch.md](newsletters/2026-09-07-evening-dispatch.md)
 
 ## Summary
 

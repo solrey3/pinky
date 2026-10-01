@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-16
 updated: 2026-09-16
 tags: [newsletter, midnight-dispatch, markets, oil, crypto-regulation, ai-healthcare, ai-growth, press-freedom, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-16-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-16-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Wednesday, September 16, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-16  
-**Source:** [pinky/raw/newsletters/2026-09-16-midnight-dispatch.md](../../raw/newsletters/2026-09-16-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-16-midnight-dispatch.md](newsletters/2026-09-16-midnight-dispatch.md)
 
 ## Summary
 

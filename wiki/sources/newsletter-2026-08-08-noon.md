@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-08
 updated: 2026-08-08
 tags: [newsletter, noon-dispatch, markets, risk-on, labor-market, ai-education, cyclone-forecasting, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-08-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-08-noon-dispatch.md
 ---
 
 # Noon Dispatch — Saturday, August 8, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-08-08  
-**Source:** [pinky/raw/newsletters/2026-08-08-noon-dispatch.md](../../raw/newsletters/2026-08-08-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-08-noon-dispatch.md](newsletters/2026-08-08-noon-dispatch.md)
 
 ## Summary
 

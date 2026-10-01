@@ -6,7 +6,7 @@ source_type: newsletter
 created: 2026-05-26
 updated: 2026-05-26
 tags: [newsletter, news, markets, iran, knicks, nba-finals, amd, oil, sonny-rollins, aew, mets, roland-garros, wembanyama, nj-politics]
-source_path: raw/newsletters/2026-05-25-evening-dispatch.md + raw/newsletters/2026-05-26-morning-dispatch.md
+source_path: wiki/sources/newsletters/2026-05-25-evening-dispatch.md + wiki/sources/newsletters/2026-05-26-morning-dispatch.md
 ---
 
 # Newsletters 2026-05-25 Evening through 2026-05-26 Morning

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-03
 updated: 2026-06-03
 tags: [newsletter, evening-dispatch, nba-finals, spurs, knicks, stanley-cup, vgk, golden-knights, carolina-hurricanes, roland-garros, sabalenka, shnaider, kostyuk, cobolli, faa, arnaldi, berrettini, mensik, fonseca, oil, iran, kuwait, bitcoin, amd, tsm, nvda, amzn, nflx, markets, semiconductors, php-usd, vnq-reits, mortgage, gas-prices, wwe, aew, mjf, rush, owen-hart-tournament, cm-punk, njpw-bosj, gemma4, elixir-1.20, dashlane-breach, macbook-neo, ai-executive-order, doge, war-powers-act, iran-war, nj-primary, mets, dodgers, athletics, pirates, pga-memorial, lpga-us-womens-open, world-cup]
-source_path: pinky/raw/newsletters/2026-06-03-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-03-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, June 3, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-03  
-**Source:** [pinky/raw/newsletters/2026-06-03-evening-dispatch.md](../../../raw/newsletters/2026-06-03-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-03-evening-dispatch.md](newsletters/2026-06-03-evening-dispatch.md)
 
 ---
 

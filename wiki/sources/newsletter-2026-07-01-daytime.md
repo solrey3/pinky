@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-01
 updated: 2026-07-01
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, supreme-court, birthright-citizenship, anthropic, claude-sonnet-5, claude-code, godot, ai-browser-security, semiconductors, amd, tsm, nvidia, tesla, wrestling, wwe, nxt, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-01-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-01-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Wednesday, July 1, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-01  
-**Source:** [pinky/raw/newsletters/2026-07-01-daytime-dispatch.md](../../raw/newsletters/2026-07-01-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-01-daytime-dispatch.md](newsletters/2026-07-01-daytime-dispatch.md)
 
 ---
 

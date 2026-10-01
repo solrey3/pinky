@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-23
 updated: 2026-08-23
 tags: [newsletter, midnight-dispatch, markets, bitcoin, tariffs, ghost-jobs, neural-plasticity, spaceports, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-23-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-23-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Sunday, August 23, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-23  
-**Source:** [pinky/raw/newsletters/2026-08-23-midnight-dispatch.md](../../raw/newsletters/2026-08-23-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-23-midnight-dispatch.md](newsletters/2026-08-23-midnight-dispatch.md)
 
 ## Summary
 

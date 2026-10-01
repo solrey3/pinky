@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-13
 updated: 2026-07-13
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, iran, hormuz, lindsey-graham, ice, hhs-oig, press-freedom, ebola, microsoft, ai-infrastructure-energy-demand, apple, openai, trade-secrets, speech-recognition, climate-gov, open-data, world-models, semiconductors, amd, tsm, nvidia, tesla, netflix, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, mlb-all-star, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-13-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-13-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, July 13, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-13  
-**Source:** [pinky/raw/newsletters/2026-07-13-evening-dispatch.md](../../raw/newsletters/2026-07-13-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-13-evening-dispatch.md](newsletters/2026-07-13-evening-dispatch.md)
 
 ---
 

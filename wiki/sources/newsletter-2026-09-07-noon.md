@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-07
 updated: 2026-09-07
 tags: [newsletter, noon-dispatch, markets, oil, labor-market, iran, robotaxis, commercial-space, open-source-funding, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-07-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-07-noon-dispatch.md
 ---
 
 # Noon Dispatch — Monday, September 7, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-07  
-**Source:** [pinky/raw/newsletters/2026-09-07-noon-dispatch.md](../../raw/newsletters/2026-09-07-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-07-noon-dispatch.md](newsletters/2026-09-07-noon-dispatch.md)
 
 ## Summary
 

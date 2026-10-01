@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-25
 updated: 2026-09-25
 tags: [newsletter, daytime-dispatch, markets, china, mortgages, data-centers, nixos, semiconductors, oil, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-25-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-25-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Friday, September 25, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-25  
-**Source:** [pinky/raw/newsletters/2026-09-25-daytime-dispatch.md](../../raw/newsletters/2026-09-25-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-25-daytime-dispatch.md](newsletters/2026-09-25-daytime-dispatch.md)
 
 ## Summary
 

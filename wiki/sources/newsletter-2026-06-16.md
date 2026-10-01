@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-16
 updated: 2026-06-16
 tags: [newsletter, morning-dispatch, markets, risk-on, russell-2000, amd, nvidia, wti, iran, linkedin, iroh, google, ai-output-liability, wrestling, njpw, wwe-raw]
-source_path: pinky/raw/newsletters/2026-06-16-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-16-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-16 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-16  
-**Source:** [pinky/raw/newsletters/2026-06-16-morning-dispatch.md](../../raw/newsletters/2026-06-16-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-16-morning-dispatch.md](newsletters/2026-06-16-morning-dispatch.md)
 
 ---
 

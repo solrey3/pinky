@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-23
 updated: 2026-06-23
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, s-and-p-500, russell-2000, federal-reserve, iran, trump, oracle, ai-hiring-bias, samsung, semiconductors, amd, nvidia, tsm, netflix, wrestling, wwe, aew, roh, njpw, cmll]
-source_path: pinky/raw/newsletters/2026-06-23-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-23-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, June 23, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-23  
-**Source:** [pinky/raw/newsletters/2026-06-23-evening-dispatch.md](../../raw/newsletters/2026-06-23-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-23-evening-dispatch.md](newsletters/2026-06-23-evening-dispatch.md)
 
 ---
 

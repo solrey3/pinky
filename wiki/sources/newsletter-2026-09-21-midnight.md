@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-21
 updated: 2026-09-21
 tags: [newsletter, midnight-dispatch, markets, energy-security, corporate-succession, software-supply-chain, digital-media, semiconductors, oil, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-21-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-21-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Monday, September 21, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-21  
-**Source:** [pinky/raw/newsletters/2026-09-21-midnight-dispatch.md](../../raw/newsletters/2026-09-21-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-21-midnight-dispatch.md](newsletters/2026-09-21-midnight-dispatch.md)
 
 ## Summary
 

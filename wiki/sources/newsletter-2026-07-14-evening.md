@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-14
 updated: 2026-07-14
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, iran, hormuz, centcom, daylight-saving-time, meta, ai-hiring-bias, cursor, vulnerability-disclosure, data-centers, ai-infrastructure-energy-demand, semiconductors, amd, tsm, nvidia, tesla, netflix, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, mlb-all-star, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-14-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-14-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, July 14, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-07-14  
-**Source:** [pinky/raw/newsletters/2026-07-14-evening-dispatch.md](../../raw/newsletters/2026-07-14-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-14-evening-dispatch.md](newsletters/2026-07-14-evening-dispatch.md)
 
 ---
 

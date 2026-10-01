@@ -6,7 +6,7 @@ source_type: newsletter
 created: 2026-05-27
 updated: 2026-05-27
 tags: [newsletter, news, markets, iran, knicks, nba-finals, spurs, okc, stanley-cup, hurricanes, golden-knights, amd, oil, paxton, cornyn, texas, sonny-rollins, mets, wrestling, roland-garros, meltzer]
-source_path: raw/newsletters/2026-05-26-evening-brief.md
+source_path: wiki/sources/newsletters/2026-05-26-evening-brief.md
 ---
 
 # Newsletter 2026-05-26 — Evening Brief

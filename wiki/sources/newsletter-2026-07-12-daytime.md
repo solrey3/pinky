@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-12
 updated: 2026-07-12
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, iran, hormuz, lindsey-graham, meta, privacy, congress, crypto-regulation, housing-policy, quantum-error-correction, mesh-llm, iroh, reusable-rockets, semiconductors, amd, tsm, nvidia, tesla, netflix, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-12-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-12-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Sunday, July 12, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-12  
-**Source:** [pinky/raw/newsletters/2026-07-12-daytime-dispatch.md](../../raw/newsletters/2026-07-12-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-12-daytime-dispatch.md](newsletters/2026-07-12-daytime-dispatch.md)
 
 ---
 

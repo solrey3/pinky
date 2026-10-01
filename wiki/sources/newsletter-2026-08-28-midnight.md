@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-28
 updated: 2026-08-28
 tags: [newsletter, midnight-dispatch, markets, platform-accountability, agentic-ai, small-models, iran, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-28-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-28-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Friday, August 28, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-28  
-**Source:** [pinky/raw/newsletters/2026-08-28-midnight-dispatch.md](../../raw/newsletters/2026-08-28-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-28-midnight-dispatch.md](newsletters/2026-08-28-midnight-dispatch.md)
 
 ## Summary
 

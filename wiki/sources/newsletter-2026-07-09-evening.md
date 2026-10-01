@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-09
 updated: 2026-07-09
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, iran, ice, mexico, mitch-mcconnell, openai, gpt-5-6, eu, chat-control, ai-copyright, private-message-scanning, postgres, rust, semiconductors, amd, tsm, nvidia, tesla, schwab, lebron-james, stephen-curry, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-09-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-09-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, July 9, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-09  
-**Source:** [pinky/raw/newsletters/2026-07-09-evening-dispatch.md](../../raw/newsletters/2026-07-09-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-09-evening-dispatch.md](newsletters/2026-07-09-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-15
 updated: 2026-08-15
 tags: [newsletter, midnight-dispatch, markets, oil, anthropic, cybersecurity, electric-aviation, qwen, earthquake, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-15-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-15-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Saturday, August 15, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-15  
-**Source:** [pinky/raw/newsletters/2026-08-15-midnight-dispatch.md](../../raw/newsletters/2026-08-15-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-15-midnight-dispatch.md](newsletters/2026-08-15-midnight-dispatch.md)
 
 ## Summary
 

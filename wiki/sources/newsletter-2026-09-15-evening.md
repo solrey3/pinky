@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-15
 updated: 2026-09-15
 tags: [newsletter, evening-dispatch, markets, oil, crypto-regulation, ai-growth, spacex, semiconductors, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-15-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-15-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, September 15, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-15  
-**Source:** [pinky/raw/newsletters/2026-09-15-evening-dispatch.md](../../raw/newsletters/2026-09-15-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-15-evening-dispatch.md](newsletters/2026-09-15-evening-dispatch.md)
 
 ## Summary
 

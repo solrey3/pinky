@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-20
 updated: 2026-09-20
 tags: [newsletter, noon-dispatch, markets, corporate-succession, iran, software-supply-chain, digital-media, image-generation, diesel, prediction-markets, oil, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-20-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-20-noon-dispatch.md
 ---
 
 # Noon Dispatch — Sunday, September 20, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-20  
-**Source:** [pinky/raw/newsletters/2026-09-20-noon-dispatch.md](../../raw/newsletters/2026-09-20-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-20-noon-dispatch.md](newsletters/2026-09-20-noon-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-30
 updated: 2026-06-30
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, supreme-court, birthright-citizenship, anthropic, claude-sonnet-5, claude-code, ai-browser-security, semiconductors, amd, tsm, nvidia, tesla, lebron-james, wrestling, wwe, nxt, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-06-30-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-30-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, June 30, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-30  
-**Source:** [pinky/raw/newsletters/2026-06-30-evening-dispatch.md](../../raw/newsletters/2026-06-30-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-30-evening-dispatch.md](newsletters/2026-06-30-evening-dispatch.md)
 
 ---
 

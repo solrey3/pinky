@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-02
 updated: 2026-07-02
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, pfas, mrna, ukraine, russia, t-mobile, vmware, broadcom, playstation, synthetic-biology, android, google, semiconductors, amd, tsm, nvidia, tesla, nba, lebron-james, wrestling, wwe, nxt, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-02-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-02-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Thursday, July 2, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-02  
-**Source:** [pinky/raw/newsletters/2026-07-02-daytime-dispatch.md](../../raw/newsletters/2026-07-02-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-02-daytime-dispatch.md](newsletters/2026-07-02-daytime-dispatch.md)
 
 ---
 

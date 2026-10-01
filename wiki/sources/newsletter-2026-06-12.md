@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-12
 updated: 2026-06-12
 tags: [newsletter, morning-dispatch, markets, risk-off, nasdaq, s-and-p-500, wti, tariffs, iran, homebrew, facial-recognition, asahi-linux, apple, nba-finals, knicks, spurs, stanley-cup, carolina-hurricanes, vgk, wrestling]
-source_path: pinky/raw/newsletters/2026-06-12-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-12-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-12 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-12  
-**Source:** [pinky/raw/newsletters/2026-06-12-morning-dispatch.md](../../../raw/newsletters/2026-06-12-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-12-morning-dispatch.md](newsletters/2026-06-12-morning-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-11
 updated: 2026-08-11
 tags: [newsletter, evening-dispatch, markets, oil, ai, surveillance, climate, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-11-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-11-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, August 11, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-08-11  
-**Source:** [pinky/raw/newsletters/2026-08-11-evening-dispatch.md](../../raw/newsletters/2026-08-11-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-11-evening-dispatch.md](newsletters/2026-08-11-evening-dispatch.md)
 
 ## Summary
 

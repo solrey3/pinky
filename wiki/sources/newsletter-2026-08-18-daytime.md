@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-18
 updated: 2026-08-18
 tags: [newsletter, daytime-dispatch, markets, ai-infrastructure, ai-safety, industrial-automation, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-18-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-18-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Tuesday, August 18, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-18  
-**Source:** [pinky/raw/newsletters/2026-08-18-daytime-dispatch.md](../../raw/newsletters/2026-08-18-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-18-daytime-dispatch.md](newsletters/2026-08-18-daytime-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-02
 updated: 2026-06-02
 tags: [newsletter, morning-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, golden-knights, roland-garros, sabalenka, osaka, andreeva, auger-aliassime, obj, odell-beckham-jr, giants, mets, markets, amd, tsm, nvda, nasdaq, semiconductors, bitcoin, oil, iran, lebanon, trump, netanyahu, florida-lawsuit, openai, sam-altman, github-copilot, surface-laptop, rtx-spark, aws, mick-foley, aew, wwe-raw, finn-balor, smackdown, roman-reigns, njpw, bosj, aaa, steph-curry, li-ning, world-cup, fifa, polymarket, mortgage, gas-prices, php-usd]
-source_path: pinky/raw/newsletters/2026-06-02-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-02-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-02 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-02  
-**Source:** [pinky/raw/newsletters/2026-06-02-morning-dispatch.md](../../../raw/newsletters/2026-06-02-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-02-morning-dispatch.md](newsletters/2026-06-02-morning-dispatch.md)
 
 ---
 

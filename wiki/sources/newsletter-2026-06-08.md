@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-08
 updated: 2026-06-08
 tags: [newsletter, morning-dispatch, markets, risk-off, nasdaq, s&p, tesla, bitcoin, iran, israel, ai-security, breach-disclosure, nba-finals, knicks, spurs, wembanyama, stanley-cup, carolina-hurricanes, vgk, pga-memorial, lpga-us-open, nelly-korda, jt-poston, wrestling, njpw, tna, wwe, aj-styles, sol-ruca]
-source_path: pinky/raw/newsletters/2026-06-08-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-08-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-08 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-08  
-**Source:** [pinky/raw/newsletters/2026-06-08-morning-dispatch.md](../../../raw/newsletters/2026-06-08-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-08-morning-dispatch.md](newsletters/2026-06-08-morning-dispatch.md)
 
 ---
 

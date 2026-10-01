@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-10
 updated: 2026-06-10
 tags: [newsletter, morning-dispatch, markets, risk-off, nasdaq, anthropic, claude-fable-5, google, gemini, opencv, linux-cve, nba-finals, spurs, knicks, stanley-cup, carolina-hurricanes, vgk, wrestling, zaria]
-source_path: pinky/raw/newsletters/2026-06-10-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-10-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-10 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-10  
-**Source:** [pinky/raw/newsletters/2026-06-10-morning-dispatch.md](../../../raw/newsletters/2026-06-10-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-10-morning-dispatch.md](newsletters/2026-06-10-morning-dispatch.md)
 
 ---
 

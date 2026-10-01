@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-18
 updated: 2026-05-18
 tags: [newsletter, news, markets, sports, weather, current-events, iran, musk, openai, ebola, amd, san-diego, shooting]
-source_path: raw/newsletters/2026-05-18-morning-dispatch.md, raw/newsletters/2026-05-18-evening-brief.md
+source_path: wiki/sources/newsletters/2026-05-18-morning-dispatch.md, wiki/sources/newsletters/2026-05-18-evening-brief.md
 ---
 
 # Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief
 
 **Date:** Monday, May 18, 2026  
 **Author:** Sancho, News Correspondent  
-**Sources:** [raw/newsletters/2026-05-18-morning-dispatch.md](../../raw/newsletters/2026-05-18-morning-dispatch.md) | [raw/newsletters/2026-05-18-evening-brief.md](../../raw/newsletters/2026-05-18-evening-brief.md)
+**Sources:** [wiki/sources/newsletters/2026-05-18-morning-dispatch.md](newsletters/2026-05-18-morning-dispatch.md) | [wiki/sources/newsletters/2026-05-18-evening-brief.md](newsletters/2026-05-18-evening-brief.md)
 
 ## Summary
 

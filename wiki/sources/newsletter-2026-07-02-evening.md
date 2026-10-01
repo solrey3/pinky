@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-02
 updated: 2026-07-02
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, supreme-court, executive-power, democratic-socialism, fda, zyn, nicotine, iran, google, ai-infrastructure, podman, palantir, x, privacy, semiconductors, amd, tsm, nvidia, tesla, lebron-james, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-02-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-02-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, July 2, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-02  
-**Source:** [pinky/raw/newsletters/2026-07-02-evening-dispatch.md](../../raw/newsletters/2026-07-02-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-02-evening-dispatch.md](newsletters/2026-07-02-evening-dispatch.md)
 
 ---
 

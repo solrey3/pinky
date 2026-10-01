@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-09
 updated: 2026-06-09
 tags: [newsletter, morning-dispatch, markets, risk-off, nasdaq, apple, google, gemini, microsoft, supply-chain-security, opencv, gps-jamming, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, vgk, wrestling, bruce-springsteen]
-source_path: pinky/raw/newsletters/2026-06-09-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-09-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-09 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-09  
-**Source:** [pinky/raw/newsletters/2026-06-09-morning-dispatch.md](../../../raw/newsletters/2026-06-09-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-09-morning-dispatch.md](newsletters/2026-06-09-morning-dispatch.md)
 
 ---
 

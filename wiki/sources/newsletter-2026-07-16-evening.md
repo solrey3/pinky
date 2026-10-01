@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-16
 updated: 2026-07-16
 tags: [newsletter, evening-dispatch, markets, mixed-close, federal-reserve, treasury, bitcoin, wti, iran, immigration, medicare, ai-prior-authorization, property-rights, texas-flooding, anthropic, ai-safety, t-mobile, open-weights-ai, kimi-k3, microsoft, oneplus, semiconductors, amd, tsm, nvidia, paypal, new-jersey-devils, wrestling, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-16-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-16-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, July 16, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-16  
-**Source:** [pinky/raw/newsletters/2026-07-16-evening-dispatch.md](../../raw/newsletters/2026-07-16-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-16-evening-dispatch.md](newsletters/2026-07-16-evening-dispatch.md)
 
 ---
 

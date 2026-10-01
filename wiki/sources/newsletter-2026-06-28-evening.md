@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-28
 updated: 2026-06-28
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, bitcoin, wti, federal-reserve, iran, bahrain, kuwait, trump, microsoft, openai, netflix, semiconductors, amd, nvidia, tsm, wrestling, tna, aew, wwe, world-cup]
-source_path: pinky/raw/newsletters/2026-06-28-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-28-evening-dispatch.md
 ---
 
 # Evening Brief — Sunday, June 28, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-28  
-**Source:** [pinky/raw/newsletters/2026-06-28-evening-dispatch.md](../../raw/newsletters/2026-06-28-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-28-evening-dispatch.md](newsletters/2026-06-28-evening-dispatch.md)
 
 ---
 

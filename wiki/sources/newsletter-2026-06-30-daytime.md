@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-30
 updated: 2026-06-30
 tags: [newsletter, daytime-dispatch, markets, risk-off, federal-reserve, geofence-warrants, privacy, supreme-court, qwen, local-ai, rocket-lab, iridium, satellite-networking, semiconductors, south-korea, amd, nvidia, tsm, wrestling, wwe, nxt, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-06-30-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-30-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Tuesday, June 30, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-30  
-**Source:** [pinky/raw/newsletters/2026-06-30-daytime-dispatch.md](../../raw/newsletters/2026-06-30-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-30-daytime-dispatch.md](newsletters/2026-06-30-daytime-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-16
 updated: 2026-08-16
 tags: [newsletter, daytime-dispatch, markets, oil, immigration, government-transparency, ai-watermarking, duckdb, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-16-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-16-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Sunday, August 16, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-16  
-**Source:** [pinky/raw/newsletters/2026-08-16-daytime-dispatch.md](../../raw/newsletters/2026-08-16-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-16-daytime-dispatch.md](newsletters/2026-08-16-daytime-dispatch.md)
 
 ## Summary
 

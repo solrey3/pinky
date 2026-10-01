@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-26
 updated: 2026-09-26
 tags: [newsletter, noon-dispatch, markets, election-law, agentic-ai-security, ai-labor, mortgages, black-sea, semiconductors, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-26-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-26-noon-dispatch.md
 ---
 
 # Noon Dispatch — Saturday, September 26, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-26  
-**Source:** [pinky/raw/newsletters/2026-09-26-noon-dispatch.md](../../raw/newsletters/2026-09-26-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-26-noon-dispatch.md](newsletters/2026-09-26-noon-dispatch.md)
 
 ## Summary
 

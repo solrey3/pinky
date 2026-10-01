@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-30
 updated: 2026-09-30
 tags: [newsletter, midnight-dispatch, markets, ai-safety, openai, philippines, world-models, medical-ai, oil, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-30-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-30-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Wednesday, September 30, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-30  
-**Source:** [pinky/raw/newsletters/2026-09-30-midnight-dispatch.md](../../raw/newsletters/2026-09-30-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-30-midnight-dispatch.md](newsletters/2026-09-30-midnight-dispatch.md)
 
 ## Summary
 

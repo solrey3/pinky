@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-23
 updated: 2026-08-23
 tags: [newsletter, evening-dispatch, markets, bitcoin, mental-health-ai, tariffs, ai-infrastructure, vaccine-misinformation, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-23-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-23-evening-dispatch.md
 ---
 
 # Evening Brief — Sunday, August 23, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-23  
-**Source:** [pinky/raw/newsletters/2026-08-23-evening-dispatch.md](../../raw/newsletters/2026-08-23-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-23-evening-dispatch.md](newsletters/2026-08-23-evening-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-26
 updated: 2026-06-26
 tags: [newsletter, evening-dispatch, markets, risk-off, nasdaq, bitcoin, wti, federal-reserve, iran, hormuz, war-powers, openai, gpt-5-6-sol, aws, microvms, netflix, spacex, starlink, facial-recognition, wrestling, wwe, aew, njpw, tna]
-source_path: pinky/raw/newsletters/2026-06-26-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-26-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, June 26, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-26  
-**Source:** [pinky/raw/newsletters/2026-06-26-evening-dispatch.md](../../raw/newsletters/2026-06-26-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-26-evening-dispatch.md](newsletters/2026-06-26-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-18
 updated: 2026-06-18
 tags: [newsletter, evening-dispatch, markets, risk-on, nasdaq, russell-2000, wti, bitcoin, iran, federal-reserve, openai, google, android, github, supply-chain-security, apple, aew, wwe, njpw, cmll, tna]
-source_path: pinky/raw/newsletters/2026-06-18-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-18-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, June 18, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-18  
-**Source:** [pinky/raw/newsletters/2026-06-18-evening-dispatch.md](../../raw/newsletters/2026-06-18-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-18-evening-dispatch.md](newsletters/2026-06-18-evening-dispatch.md)
 
 ---
 

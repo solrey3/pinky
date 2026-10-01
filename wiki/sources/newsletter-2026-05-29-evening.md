@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-29
 updated: 2026-05-29
 tags: [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, bitcoin, spurs, okc, game7, arsenal, psg, ucl, roland-garros, fonseca, djokovic, carolina-hurricanes, blue-origin, cody-rhodes, gunther, roman-reigns, clash-in-italy, smackdown, aew, njpw, gta6, liquid-ai, polymarket, texas-senate, paxton, mortgage, gas-prices, lpga, pga]
-source_path: pinky/raw/newsletters/2026-05-29-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-29-evening-dispatch.md
 ---
 
 # Newsletter 2026-05-29 — Evening Dispatch
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-05-29  
-**Source:** [pinky/raw/newsletters/2026-05-29-evening-dispatch.md](../../../raw/newsletters/2026-05-29-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-29-evening-dispatch.md](newsletters/2026-05-29-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-19
 updated: 2026-07-19
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, iran, state-department, foodborne-outbreaks, platform-moderation, claude-code, bun, qwen, alibaba, space-development-agency, semiconductors, amd, tsm, nvidia, paypal, polymarket, fifa-world-cup, new-jersey-devils, tour-de-france, wrestling, wwe, aew, roh, njpw, tna, cmll]
-source_path: pinky/raw/newsletters/2026-07-19-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-19-evening-dispatch.md
 ---
 
 # Evening Brief — Sunday, July 19, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-19  
-**Source:** [pinky/raw/newsletters/2026-07-19-evening-dispatch.md](../../raw/newsletters/2026-07-19-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-19-evening-dispatch.md](newsletters/2026-07-19-evening-dispatch.md)
 
 ---
 

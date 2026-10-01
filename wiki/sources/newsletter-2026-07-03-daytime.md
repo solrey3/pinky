@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-03
 updated: 2026-07-03
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, privacy, geolocation-data, fda, zyn, nicotine, podman, apple, safari, mcp, synthetic-biology, google, android, antitrust, semiconductors, amd, tsm, nvidia, tesla, lebron-james, new-jersey-devils, wrestling, wwe, nxt, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-03-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-03-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Friday, July 3, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-03  
-**Source:** [pinky/raw/newsletters/2026-07-03-daytime-dispatch.md](../../raw/newsletters/2026-07-03-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-03-daytime-dispatch.md](newsletters/2026-07-03-daytime-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-18
 updated: 2026-07-18
 tags: [newsletter, daytime-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, iran, jordan, israel, aipac, public-health, foodborne-outbreaks, property-rights, regulatory-capture, open-weights-ai, kimi-k3, space-development-agency, fcc, paramount, arch-linux, wordpress, kubernetes, semiconductors, amd, tsm, nvidia, paypal, philippines, alex-eala, new-jersey-devils, wrestling, world-cup, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-18-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-18-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Saturday, July 18, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-18  
-**Source:** [pinky/raw/newsletters/2026-07-18-daytime-dispatch.md](../../raw/newsletters/2026-07-18-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-18-daytime-dispatch.md](newsletters/2026-07-18-daytime-dispatch.md)
 
 ---
 

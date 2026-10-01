@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-03
 updated: 2026-06-03
 tags: [newsletter, morning-dispatch, nba-finals, spurs, knicks, wembanyama, stanley-cup, carolina-hurricanes, golden-knights, roland-garros, sabalenka, kostyuk, mensik, zverev, fau-aliassime, berrettini, chwalinska, kalinskaya, markets, oil, iran, bitcoin, tsm, amd, nvda, nflx, php-usd, cny-usd, nj-primaries, murphy, booker, hamawy, haaland, karen-bass, lahn, scotus, alabama, usmca, canada, microsoft, build-2026, mai-code, vscode, nbd-vram, stanford-law, ai, openai, gpt5, mick-foley, mjf, tony-dangelo, nxt, aew-grand-slam-mexico, wwe-lawsuit, chess, pragg, magnus-carlsen, mastodon, digable-planets, long-covid, wwe, njpw, pga-memorial, lpga-us-open, world-cup, mets, ups, ups-surge, gas-prices, mortgage]
-source_path: pinky/raw/newsletters/2026-06-03-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-03-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-03 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-03  
-**Source:** [pinky/raw/newsletters/2026-06-03-morning-dispatch.md](../../../raw/newsletters/2026-06-03-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-03-morning-dispatch.md](newsletters/2026-06-03-morning-dispatch.md)
 
 ---
 

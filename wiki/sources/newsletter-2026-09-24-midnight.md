@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-24
 updated: 2026-09-24
 tags: [newsletter, midnight-dispatch, markets, ai-science, ai-censorship, linux, semiconductors, oil, prediction-markets, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-24-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-24-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Thursday, September 24, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-24  
-**Source:** [pinky/raw/newsletters/2026-09-24-midnight-dispatch.md](../../raw/newsletters/2026-09-24-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-24-midnight-dispatch.md](newsletters/2026-09-24-midnight-dispatch.md)
 
 ## Summary
 

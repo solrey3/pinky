@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-26
 updated: 2026-09-26
 tags: [newsletter, evening-dispatch, markets, election-law, medical-ai, ai-governance, data-breach, black-sea, mortgages, semiconductors, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-26-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-26-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, September 26, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-26  
-**Source:** [pinky/raw/newsletters/2026-09-26-evening-dispatch.md](../../raw/newsletters/2026-09-26-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-26-evening-dispatch.md](newsletters/2026-09-26-evening-dispatch.md)
 
 ## Summary
 

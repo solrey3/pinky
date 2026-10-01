@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-19
 updated: 2026-06-19
 tags: [newsletter, morning-dispatch, markets, risk-on, nasdaq, russell-2000, wti, bitcoin, federal-reserve, github, supply-chain-security, microsoft, cryptocurrency-malware, amd, fda, mrna-vaccine, wrestling, roh, tna, wwe, cmll, aaa]
-source_path: pinky/raw/newsletters/2026-06-19-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-19-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-19 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-19  
-**Source:** [pinky/raw/newsletters/2026-06-19-morning-dispatch.md](../../raw/newsletters/2026-06-19-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-19-morning-dispatch.md](newsletters/2026-06-19-morning-dispatch.md)
 
 ---
 

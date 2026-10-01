@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-01
 updated: 2026-06-01
 tags: [newsletter, morning-dispatch, wwe, clash-in-italy, sol-ruca, becky-lynch, roman-reigns, jacob-fatu, cody-rhodes, gunther, brock-lesnar, roland-garros, swiatek, kostyuk, fonseca, cobolli, zverev, mensik, markets, amd, oil, iran, spurs, knicks, nba-finals, carolina-hurricanes, golden-knights, pga, charles-schwab-challenge, russell-henley, lpga, boutier, mets, giants, ups, bitcoin, php-usd, fcc, pence, newark, delaney-hall, chatgpt, cloudflare, botnet, meta, bonsai-4b, meltzer, world-cup, fifa, king-of-the-ring]
-source_path: pinky/raw/newsletters/2026-06-01-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-01-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-01 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-01  
-**Source:** [pinky/raw/newsletters/2026-06-01-morning-dispatch.md](../../../raw/newsletters/2026-06-01-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-01-morning-dispatch.md](newsletters/2026-06-01-morning-dispatch.md)
 
 ---
 

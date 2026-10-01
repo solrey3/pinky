@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-21
 updated: 2026-09-21
 tags: [newsletter, evening-dispatch, markets, media-consolidation, ai-governance, agentic-commerce, press-freedom, semiconductors, oil, prediction-markets, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-21-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-21-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, September 21, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-21  
-**Source:** [pinky/raw/newsletters/2026-09-21-evening-dispatch.md](../../raw/newsletters/2026-09-21-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-21-evening-dispatch.md](newsletters/2026-09-21-evening-dispatch.md)
 
 ## Summary
 

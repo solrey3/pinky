@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-28
 updated: 2026-09-28
 tags: [newsletter, noon-dispatch, markets, philippines, agentic-ai-security, data-centers, electric-trucking, mortgages, oil, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-28-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-28-noon-dispatch.md
 ---
 
 # Noon Dispatch — Monday, September 28, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-28  
-**Source:** [pinky/raw/newsletters/2026-09-28-noon-dispatch.md](../../raw/newsletters/2026-09-28-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-28-noon-dispatch.md](newsletters/2026-09-28-noon-dispatch.md)
 
 ## Summary
 

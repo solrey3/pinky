@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-22
 updated: 2026-06-22
 tags: [newsletter, evening-dispatch, markets, risk-on, nasdaq, russell-2000, s-and-p-500, federal-reserve, iran, quantum-computing, amd, tsm, nvidia, tesla, anthropic, openai, codex, valve, steam-machine, wwe, aew, tna, wrestling]
-source_path: pinky/raw/newsletters/2026-06-22-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-22-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, June 22, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-22  
-**Source:** [pinky/raw/newsletters/2026-06-22-evening-dispatch.md](../../raw/newsletters/2026-06-22-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-22-evening-dispatch.md](newsletters/2026-06-22-evening-dispatch.md)
 
 ---
 

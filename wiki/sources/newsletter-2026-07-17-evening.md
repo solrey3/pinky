@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-17
 updated: 2026-07-17
 tags: [newsletter, evening-dispatch, markets, mixed-close, federal-reserve, treasury, bitcoin, wti, iran, trump, canada, public-health, foodborne-outbreaks, property-rights, regulatory-capture, open-weights-ai, kimi-k3, sqlite, fcc, paramount, semiconductors, amd, tsm, nvidia, paypal, openwrt, pi-hole, oneplus, pew-research, new-jersey-devils, wrestling, world-cup, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-17-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-17-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, July 17, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-17  
-**Source:** [pinky/raw/newsletters/2026-07-17-evening-dispatch.md](../../raw/newsletters/2026-07-17-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-17-evening-dispatch.md](newsletters/2026-07-17-evening-dispatch.md)
 
 ---
 

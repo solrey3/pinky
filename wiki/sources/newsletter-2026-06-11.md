@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-11
 updated: 2026-06-11
 tags: [newsletter, morning-dispatch, markets, risk-off, nasdaq, amd, inflation, iran, usmca, anthropic, fable, google, diffusiongemma, facial-recognition, ai-liability, nba-finals, spurs, knicks, stanley-cup, carolina-hurricanes, vgk, aew, njpw, wrestling]
-source_path: pinky/raw/newsletters/2026-06-11-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-11-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-11 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-11  
-**Source:** [pinky/raw/newsletters/2026-06-11-morning-dispatch.md](../../../raw/newsletters/2026-06-11-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-11-morning-dispatch.md](newsletters/2026-06-11-morning-dispatch.md)
 
 ---
 

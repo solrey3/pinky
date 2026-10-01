@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-11
 updated: 2026-07-11
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, iran, trump, congress, crypto-regulation, housing-policy, quantum-error-correction, sqlite, semiconductors, amd, tsm, nvidia, tesla, netflix, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-11-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-11-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, July 11, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-11  
-**Source:** [pinky/raw/newsletters/2026-07-11-evening-dispatch.md](../../raw/newsletters/2026-07-11-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-11-evening-dispatch.md](newsletters/2026-07-11-evening-dispatch.md)
 
 ---
 

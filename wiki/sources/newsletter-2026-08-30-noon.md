@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-30
 updated: 2026-08-30
 tags: [newsletter, noon-dispatch, markets, climate-risk, prediction-markets, data-center-automation, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-30-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-30-noon-dispatch.md
 ---
 
 # Noon Dispatch — Sunday, August 30, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-30  
-**Source:** [pinky/raw/newsletters/2026-08-30-noon-dispatch.md](../../raw/newsletters/2026-08-30-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-30-noon-dispatch.md](newsletters/2026-08-30-noon-dispatch.md)
 
 ## Summary
 

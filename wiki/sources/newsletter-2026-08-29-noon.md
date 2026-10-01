@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-29
 updated: 2026-08-29
 tags: [newsletter, noon-dispatch, markets, monetary-policy, surveillance, prediction-markets, sqlite, generative-ai, climate, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-29-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-29-noon-dispatch.md
 ---
 
 # Noon Dispatch — Saturday, August 29, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-29  
-**Source:** [pinky/raw/newsletters/2026-08-29-noon-dispatch.md](../../raw/newsletters/2026-08-29-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-29-noon-dispatch.md](newsletters/2026-08-29-noon-dispatch.md)
 
 ## Summary
 

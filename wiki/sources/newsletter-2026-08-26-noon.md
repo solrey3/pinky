@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-26
 updated: 2026-08-26
 tags: [newsletter, noon-dispatch, markets, oil, tariffs, local-ai, duckdb, platform-accountability, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-26-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-26-noon-dispatch.md
 ---
 
 # Noon Dispatch — Wednesday, August 26, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-26  
-**Source:** [pinky/raw/newsletters/2026-08-26-noon-dispatch.md](../../raw/newsletters/2026-08-26-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-26-noon-dispatch.md](newsletters/2026-08-26-noon-dispatch.md)
 
 ## Summary
 

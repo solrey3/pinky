@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-17
 updated: 2026-08-17
 tags: [newsletter, evening-dispatch, markets, ai-infrastructure, measles, duckdb, deepseek, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-17-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-17-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, August 17, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-17  
-**Source:** [pinky/raw/newsletters/2026-08-17-evening-dispatch.md](../../raw/newsletters/2026-08-17-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-17-evening-dispatch.md](newsletters/2026-08-17-evening-dispatch.md)
 
 ## Summary
 

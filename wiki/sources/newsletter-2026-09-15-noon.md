@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-15
 updated: 2026-09-15
 tags: [newsletter, noon-dispatch, markets, monetary-policy, election-law, environmental-regulation, regulatory-ai, orbital-weapons, swift, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-15-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-15-noon-dispatch.md
 ---
 
 # Noon Dispatch — Tuesday, September 15, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-15  
-**Source:** [pinky/raw/newsletters/2026-09-15-noon-dispatch.md](../../raw/newsletters/2026-09-15-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-15-noon-dispatch.md](newsletters/2026-09-15-noon-dispatch.md)
 
 ## Summary
 

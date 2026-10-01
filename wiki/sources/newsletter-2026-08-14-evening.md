@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-14
 updated: 2026-08-14
 tags: [newsletter, evening-dispatch, markets, anthropic, cybersecurity, electric-aviation, qwen, wayland, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-14-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-14-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, August 14, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-14  
-**Source:** [pinky/raw/newsletters/2026-08-14-evening-dispatch.md](../../raw/newsletters/2026-08-14-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-14-evening-dispatch.md](newsletters/2026-08-14-evening-dispatch.md)
 
 ## Summary
 

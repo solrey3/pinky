@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-31
 updated: 2026-07-31
 tags: [newsletter, noon-dispatch, markets, risk-on, mixed-close, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amd, tsm, nvidia, amazon, tariffs, colorado-river, water-policy, prediction-markets, kalshi, github, stacked-prs, chrome, ai-security, google-deepmind, robotics, ai-evaluation, mets, giants, new-jersey-devils, inter-miami, wrestling]
-source_path: pinky/raw/newsletters/2026-07-31-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-31-noon-dispatch.md
 ---
 
 # Noon Dispatch — Friday, July 31, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-07-31  
-**Source:** [pinky/raw/newsletters/2026-07-31-noon-dispatch.md](../../raw/newsletters/2026-07-31-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-31-noon-dispatch.md](newsletters/2026-07-31-noon-dispatch.md)
 
 ---
 

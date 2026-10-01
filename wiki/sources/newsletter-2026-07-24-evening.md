@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-24
 updated: 2026-07-24
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, tariffs, canada, media-consolidation, surveillance, data-centers, open-weights-ai, ai-security, gene-editing, semiconductors, amd, tsm, nvidia, tesla, amazon, polymarket, lebron-james, mets, new-york-giants, new-jersey-devils, tour-de-france, golf, wrestling]
-source_path: pinky/raw/newsletters/2026-07-24-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-24-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, July 24, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-07-24  
-**Source:** [pinky/raw/newsletters/2026-07-24-evening-dispatch.md](../../raw/newsletters/2026-07-24-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-24-evening-dispatch.md](newsletters/2026-07-24-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-09
 updated: 2026-08-09
 tags: [newsletter, noon-dispatch, markets, risk-on, family-leave, medical-ai, food-safety, energy-transition, hormuz, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-09-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-09-noon-dispatch.md
 ---
 
 # Noon Dispatch — Sunday, August 9, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-08-09  
-**Source:** [pinky/raw/newsletters/2026-08-09-noon-dispatch.md](../../raw/newsletters/2026-08-09-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-09-noon-dispatch.md](newsletters/2026-08-09-noon-dispatch.md)
 
 ## Summary
 

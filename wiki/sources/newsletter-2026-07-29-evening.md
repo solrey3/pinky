@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-29
 updated: 2026-07-29
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, fed-day, treasury, bitcoin, wti, oil, nasdaq, semiconductors, amd, tsm, nvidia, tesla, apple, iran, ukraine, trump, sanctions, ai-security, ai-worms, online-age-verification, property-rights, prediction-markets, mets, giants, new-jersey-devils, aew, njpw, wrestling]
-source_path: pinky/raw/newsletters/2026-07-29-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-29-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, July 29, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-29  
-**Source:** [pinky/raw/newsletters/2026-07-29-evening-dispatch.md](../../raw/newsletters/2026-07-29-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-29-evening-dispatch.md](newsletters/2026-07-29-evening-dispatch.md)
 
 ---
 

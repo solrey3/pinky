@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-12
 updated: 2026-09-12
 tags: [newsletter, evening-dispatch, markets, oil, inflation, monetary-policy, ai-safety, nvidia, robotics, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-12-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-12-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, September 12, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-12  
-**Source:** [pinky/raw/newsletters/2026-09-12-evening-dispatch.md](../../raw/newsletters/2026-09-12-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-12-evening-dispatch.md](newsletters/2026-09-12-evening-dispatch.md)
 
 ## Summary
 

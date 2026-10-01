@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-08
 updated: 2026-09-08
 tags: [newsletter, evening-dispatch, markets, oil, iran, ai-mathematics, genomics, semiconductors, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-08-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-08-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, September 8, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-08  
-**Source:** [pinky/raw/newsletters/2026-09-08-evening-dispatch.md](../../raw/newsletters/2026-09-08-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-08-evening-dispatch.md](newsletters/2026-09-08-evening-dispatch.md)
 
 ## Summary
 

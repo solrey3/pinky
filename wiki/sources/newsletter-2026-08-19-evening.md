@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-19
 updated: 2026-08-19
 tags: [newsletter, evening-dispatch, markets, bonds, public-debt, personalized-cancer-vaccines, workplace-data-privacy, fintech, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-19-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-19-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, August 19, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-19  
-**Source:** [pinky/raw/newsletters/2026-08-19-evening-dispatch.md](../../raw/newsletters/2026-08-19-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-19-evening-dispatch.md](newsletters/2026-08-19-evening-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-24
 updated: 2026-07-24
 tags: [newsletter, daytime-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, tariffs, section-301, ai-shutdown-powers, open-weights-ai, google, antitrust, foodborne-outbreaks, semiconductors, amd, tsm, nvidia, tesla, amazon, netflix, polymarket, lebron-james, mets, new-jersey-devils, tour-de-france, wrestling]
-source_path: pinky/raw/newsletters/2026-07-24-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-24-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Friday, July 24, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-24  
-**Source:** [pinky/raw/newsletters/2026-07-24-daytime-dispatch.md](../../raw/newsletters/2026-07-24-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-24-daytime-dispatch.md](newsletters/2026-07-24-daytime-dispatch.md)
 
 ---
 

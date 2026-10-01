@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-18
 updated: 2026-07-18
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, iran, jordan, canada, wildfire-smoke, trump, ai-prior-authorization, gpt-5-6, openai, lg, space-development-agency, semiconductors, amd, tsm, nvidia, paypal, new-york-knicks, connor-bedard, new-jersey-devils, chelsea, fifa, tour-de-france, wrestling, wwe, aew, roh, njpw, tna, cmll]
-source_path: pinky/raw/newsletters/2026-07-18-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-18-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, July 18, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-18  
-**Source:** [pinky/raw/newsletters/2026-07-18-evening-dispatch.md](../../raw/newsletters/2026-07-18-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-18-evening-dispatch.md](newsletters/2026-07-18-evening-dispatch.md)
 
 ---
 

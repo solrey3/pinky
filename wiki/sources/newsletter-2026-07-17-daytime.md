@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-17
 updated: 2026-07-17
 tags: [newsletter, daytime-dispatch, markets, mixed-close, federal-reserve, treasury, bitcoin, wti, trump, elections, immigration, texas-flooding, public-health, open-weights-ai, kimi-k3, microsoft, spacex, t-mobile, google, semiconductors, amd, tsm, nvidia, paypal, new-jersey-devils, wrestling, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-17-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-17-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Friday, July 17, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-17  
-**Source:** [pinky/raw/newsletters/2026-07-17-daytime-dispatch.md](../../raw/newsletters/2026-07-17-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-17-daytime-dispatch.md](newsletters/2026-07-17-daytime-dispatch.md)
 
 ---
 

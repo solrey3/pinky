@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-01
 updated: 2026-08-01
 tags: [newsletter, evening-dispatch, markets, risk-on, mixed-close, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, ups, critical-infrastructure, water-systems, ai-labor, customer-service, ukraine, russia, prediction-markets, kalshi, ai-security, anthropic, claude, reddit, google, cursor, best-buy, ai-infrastructure, privacy, cybercrime-convention, texas-senate, fifa, uefa, wembanyama, messi, mets, yankees, giants, new-jersey-devils, wwe, summerslam, aew, njpw, cmll, wrestling]
-source_path: pinky/raw/newsletters/2026-08-01-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-01-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, August 1, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-08-01  
-**Source:** [pinky/raw/newsletters/2026-08-01-evening-dispatch.md](../../raw/newsletters/2026-08-01-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-01-evening-dispatch.md](newsletters/2026-08-01-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-30
 updated: 2026-05-30
 tags: [newsletter, morning-dispatch, markets, amd, iran, oil, spurs, okc, game7, wembanyama, sga, jalen-williams, carolina-hurricanes, stanley-cup, arsenal, psg, ucl, roland-garros, fonseca, djokovic, naomi-osaka, anthropic, claude-opus-4.8, blue-origin, fcc, bitcoin, ups, nj-politics, delaney-hall, aew, wwe, mets, meltzer, world-cup]
-source_path: pinky/raw/newsletters/2026-05-30-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-30-morning-dispatch.md
 ---
 
 # Newsletter 2026-05-30 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-05-30  
-**Source:** [pinky/raw/newsletters/2026-05-30-morning-dispatch.md](../../../raw/newsletters/2026-05-30-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-30-morning-dispatch.md](newsletters/2026-05-30-morning-dispatch.md)
 
 ---
 

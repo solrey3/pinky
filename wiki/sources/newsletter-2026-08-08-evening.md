@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-08
 updated: 2026-08-08
 tags: [newsletter, evening-dispatch, markets, risk-on, labor-market, hormuz, ai-weather-forecasting, academic-integrity, data-residency, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-08-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-08-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, August 8, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-08-08  
-**Source:** [pinky/raw/newsletters/2026-08-08-evening-dispatch.md](../../raw/newsletters/2026-08-08-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-08-evening-dispatch.md](newsletters/2026-08-08-evening-dispatch.md)
 
 ## Summary
 

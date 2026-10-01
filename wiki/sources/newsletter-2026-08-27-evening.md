@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-27
 updated: 2026-08-27
 tags: [newsletter, evening-dispatch, markets, nvidia, platform-accountability, surveillance, iran, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-27-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-27-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, August 27, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-27  
-**Source:** [pinky/raw/newsletters/2026-08-27-evening-dispatch.md](../../raw/newsletters/2026-08-27-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-27-evening-dispatch.md](newsletters/2026-08-27-evening-dispatch.md)
 
 ## Summary
 

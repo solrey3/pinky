@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-24
 updated: 2026-06-24
 tags: [newsletter, daytime-dispatch, markets, risk-off, nasdaq, s-and-p-500, russell-2000, federal-reserve, quantum-computing-policy, post-quantum-cryptography, oracle, vulnerability-disclosure, raspberry-pi, amd, nvidia, tsm, netflix, wrestling, wwe-nxt, aew, cmll]
-source_path: pinky/raw/newsletters/2026-06-24-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-24-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Wednesday, June 24, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-24  
-**Source:** [pinky/raw/newsletters/2026-06-24-daytime-dispatch.md](../../raw/newsletters/2026-06-24-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-24-daytime-dispatch.md](newsletters/2026-06-24-daytime-dispatch.md)
 
 ---
 

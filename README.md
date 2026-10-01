@@ -49,7 +49,7 @@ pinky/
 3. Reads those pages, synthesizes answer with citations
 
 ### Publish Latest Dispatch
-The News Correspondent pipeline publishes the newest file from `raw/newsletters/` to GitHub Pages:
+The News Correspondent pipeline publishes the newest file from `wiki/sources/newsletters/` to GitHub Pages:
 
 ```bash
 ~/pinky/scripts/publish-latest-newsletter.sh [optional/path/to/newsletter.md]

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-11
 updated: 2026-09-11
 tags: [newsletter, midnight-dispatch, markets, oil, anthropic, apple, shopify, native-mobile-development, iran, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-11-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-11-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Friday, September 11, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-11  
-**Source:** [pinky/raw/newsletters/2026-09-11-midnight-dispatch.md](../../raw/newsletters/2026-09-11-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-11-midnight-dispatch.md](newsletters/2026-09-11-midnight-dispatch.md)
 
 ## Summary
 

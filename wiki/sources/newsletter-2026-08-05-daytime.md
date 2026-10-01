@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-05
 updated: 2026-08-05
 tags: [newsletter, daytime-dispatch, morning-dispatch, markets, risk-on, federal-reserve, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, election-security, ai-errors, legal-sanctions, ukraine, russia, spacex, lunar-debris, prediction-markets, tour-de-france, tour-de-france-femmes, mets, aew, wrestling]
-source_path: pinky/raw/newsletters/2026-08-05-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-05-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Wednesday, August 5, 2026
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-08-05  
-**Source:** [pinky/raw/newsletters/2026-08-05-daytime-dispatch.md](../../raw/newsletters/2026-08-05-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-05-daytime-dispatch.md](newsletters/2026-08-05-daytime-dispatch.md)
 
 ## Summary
 

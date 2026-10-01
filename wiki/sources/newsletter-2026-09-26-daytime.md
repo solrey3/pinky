@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-26
 updated: 2026-09-26
 tags: [newsletter, daytime-dispatch, markets, election-law, ai-governance, ai-labor, mortgages, semiconductors, oil, sports, wrestling]
-source_path: pinky/raw/newsletters/2026-09-26-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-26-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Saturday, September 26, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-26  
-**Source:** [pinky/raw/newsletters/2026-09-26-daytime-dispatch.md](../../raw/newsletters/2026-09-26-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-26-daytime-dispatch.md](newsletters/2026-09-26-daytime-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-04
 updated: 2026-07-04
 tags: [newsletter, daytime-dispatch, july-fourth, markets, risk-on, federal-reserve, treasury, bitcoin, power-grid, ai-infrastructure-energy-demand, synthetic-biology, agentic-coding, semiconductors, amd, tsm, nvidia, tesla, netflix, lebron-james, new-jersey-devils, wrestling, wwe, cody-rhodes, sami-zayn, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-04-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-04-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Saturday, July 4, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-04  
-**Source:** [pinky/raw/newsletters/2026-07-04-daytime-dispatch.md](../../raw/newsletters/2026-07-04-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-04-daytime-dispatch.md](newsletters/2026-07-04-daytime-dispatch.md)
 
 ---
 

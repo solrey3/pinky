@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-08
 updated: 2026-08-08
 tags: [newsletter, daytime-dispatch, markets, risk-on, labor-market, birthright-citizenship, wildfire-monitoring, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-08-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-08-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Saturday, August 8, 2026
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-08-08  
-**Source:** [pinky/raw/newsletters/2026-08-08-daytime-dispatch.md](../../raw/newsletters/2026-08-08-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-08-daytime-dispatch.md](newsletters/2026-08-08-daytime-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-04
 updated: 2026-06-04
 tags: [newsletter, morning-dispatch, nba-finals, knicks, spurs, wembanyama, kat, roland-garros, shnaider, sabalenka, kostyuk, andreeva, mensik, cobolli, arnaldi, zverev, bitcoin, amd, amzn, nflx, vnq, treasury, mjf, rush, will-ospreay, mercedes-mone, aew, vgk, carolina-hurricanes, hockey, todd-blanche, trump, russell-wilson, nasa-maven, elixir, gemma4, lets-encrypt, social-security, scott-pelley, pga-memorial, lpga-us-open, el-salvador-btc, polymarket, php-usd, oil, iran]
-source_path: pinky/raw/newsletters/2026-06-04-morning-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-04-morning-dispatch.md
 ---
 
 # Newsletter 2026-06-04 — Morning Dispatch
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-06-04  
-**Source:** [pinky/raw/newsletters/2026-06-04-morning-dispatch.md](../../../raw/newsletters/2026-06-04-morning-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-04-morning-dispatch.md](newsletters/2026-06-04-morning-dispatch.md)
 
 ---
 

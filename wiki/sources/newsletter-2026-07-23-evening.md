@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-23
 updated: 2026-07-23
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, tesla, google, antitrust, ai-infrastructure, open-weights-ai, ai-shutdown-powers, public-health, foodborne-outbreaks, cybersecurity, prediction-markets, lebron-james, new-jersey-devils, tour-de-france, wrestling]
-source_path: pinky/raw/newsletters/2026-07-23-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-23-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, July 23, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-23  
-**Source:** [pinky/raw/newsletters/2026-07-23-evening-dispatch.md](../../raw/newsletters/2026-07-23-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-23-evening-dispatch.md](newsletters/2026-07-23-evening-dispatch.md)
 
 ---
 

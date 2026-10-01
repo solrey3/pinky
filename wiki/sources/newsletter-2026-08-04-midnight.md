@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-04
 updated: 2026-08-04
 tags: [newsletter, midnight-dispatch, markets, risk-on, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, ups, vnq, tariffs, iran, hormuz, government-funding, delaney-hall, public-health, foodborne-outbreaks, openai, reddit, google, ai-overviews, developer-tools, open-source, ai-evaluation, microsoft, palantir, boeing, visa, biocatch, ai-fraud, prediction-markets, polymarket, kalshi, knicks, mls, alex-eala, wwe, aew, tna, cmll, njpw, wrestling]
-source_path: pinky/raw/newsletters/2026-08-04-midnight-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-04-midnight-dispatch.md
 ---
 
 # Midnight Dispatch — Tuesday, August 4, 2026
 
 **Author:** Midnight Dispatch (automated)  
 **Date:** 2026-08-04  
-**Source:** [pinky/raw/newsletters/2026-08-04-midnight-dispatch.md](../../raw/newsletters/2026-08-04-midnight-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-04-midnight-dispatch.md](newsletters/2026-08-04-midnight-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-26
 updated: 2026-06-26
 tags: [newsletter, daytime-dispatch, markets, risk-off, nasdaq, russell-2000, bitcoin, wti, federal-reserve, ibm, anthropic, alibaba, elon-musk, semiconductor-scaling, model-extraction, wrestling, aew, roh, cmll, stardom, tna]
-source_path: pinky/raw/newsletters/2026-06-26-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-26-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Friday, June 26, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-06-26  
-**Source:** [pinky/raw/newsletters/2026-06-26-daytime-dispatch.md](../../raw/newsletters/2026-06-26-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-26-daytime-dispatch.md](newsletters/2026-06-26-daytime-dispatch.md)
 
 ---
 

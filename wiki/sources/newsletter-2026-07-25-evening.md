@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-25
 updated: 2026-07-25
 tags: [newsletter, evening-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, nasdaq, tariffs, ukraine, drones, iran-sanctions, android, anthropic, claude, context-engineering, open-weights-ai, nasa, wildfires, semiconductors, amd, tsm, nvidia, tesla, amazon, prediction-markets, lebron-james, philadelphia-76ers, new-jersey-devils, tour-de-france, golf, wrestling]
-source_path: pinky/raw/newsletters/2026-07-25-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-25-evening-dispatch.md
 ---
 
 # Evening Brief — Saturday, July 25, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-07-25  
-**Source:** [pinky/raw/newsletters/2026-07-25-evening-dispatch.md](../../raw/newsletters/2026-07-25-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-25-evening-dispatch.md](newsletters/2026-07-25-evening-dispatch.md)
 
 ---
 

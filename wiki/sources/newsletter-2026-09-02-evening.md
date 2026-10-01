@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-02
 updated: 2026-09-02
 tags: [newsletter, evening-dispatch, markets, bonds, oil, iran, antitrust, ai, space, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-02-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-02-evening-dispatch.md
 ---
 
 # Evening Brief — Wednesday, September 2, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-02  
-**Source:** [pinky/raw/newsletters/2026-09-02-evening-dispatch.md](../../raw/newsletters/2026-09-02-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-02-evening-dispatch.md](newsletters/2026-09-02-evening-dispatch.md)
 
 ## Summary
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-31
 updated: 2026-05-31
 tags: [newsletter, evening-dispatch, spurs, knicks, nba-finals, wembanyama, amd, oil, iran, psg, arsenal, ucl, roland-garros, swiatek, wwe, clash-in-italy, cody-rhodes, roman-reigns, brock-lesnar, markets, botnet, cloudflare, creatine, magnus-carlsen, golf, mlb, mets]
-source_path: pinky/raw/newsletters/2026-05-31-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-31-evening-dispatch.md
 ---
 
 # Evening Brief — Sunday, May 31, 2026
 
 **Author:** The Evening Brief  
 **Date:** 2026-05-31  
-**Source:** [pinky/raw/newsletters/2026-05-31-evening-dispatch.md](../../raw/newsletters/2026-05-31-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-31-evening-dispatch.md](newsletters/2026-05-31-evening-dispatch.md)
 
 ## Summary
 

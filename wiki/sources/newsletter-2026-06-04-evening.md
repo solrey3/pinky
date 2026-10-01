@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-04
 updated: 2026-06-04
 tags: [newsletter, evening-dispatch, nba-finals, knicks, spurs, wembanyama, kat, brunson, bitcoin, dow, nasdaq, roland-garros, andreeva, chwalinska, shnaider, kostyuk, iran, rice, bolton, social-security, coal, voidzero, cloudflare, evan-you, uc-berkeley, ai-education, meta-glasses, facial-recognition, nsa, anthropic, mythos, dual-use-ai, microsoft, atom-computing, quantum, vgk, carolina-hurricanes, hockey, pga-memorial, lpga-womens-open, mjf, aew, will-ospreay, mercedes-mone, mick-foley, young-bucks, delaney-hall, nj-politics, prince, timeless, pixies, reissues, gas-prices, mortgage, forex, php-usd, yuan, polymarket, markets, semiconductors]
-source_path: pinky/raw/newsletters/2026-06-04-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-04-evening-dispatch.md
 ---
 
 # Evening Brief — Thursday, June 4, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-04  
-**Source:** [pinky/raw/newsletters/2026-06-04-evening-dispatch.md](../../../raw/newsletters/2026-06-04-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-04-evening-dispatch.md](newsletters/2026-06-04-evening-dispatch.md)
 
 ---
 

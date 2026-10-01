@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-09
 updated: 2026-07-09
 tags: [newsletter, daytime-dispatch, markets, mixed-close, federal-reserve, treasury, bitcoin, wti, iran, trump, xai, grok, bun, rust, right-to-repair, cloudflare, ai-evaluation, semiconductors, amd, tsm, nvidia, tesla, schwab, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-09-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-09-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Thursday, July 9, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-09  
-**Source:** [pinky/raw/newsletters/2026-07-09-daytime-dispatch.md](../../raw/newsletters/2026-07-09-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-09-daytime-dispatch.md](newsletters/2026-07-09-daytime-dispatch.md)
 
 ---
 

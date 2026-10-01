@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-12
 updated: 2026-06-12
 tags: [newsletter, evening-dispatch, markets, rotation, russell-2000, retail, wti, iran, google, gemini, peoplesoft, cybersecurity, nba-finals, knicks, spurs, stanley-cup, carolina-hurricanes, vgk, wrestling]
-source_path: pinky/raw/newsletters/2026-06-12-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-12-evening-dispatch.md
 ---
 
 # Evening Brief — Friday, June 12, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-12  
-**Source:** [pinky/raw/newsletters/2026-06-12-evening-dispatch.md](../../../raw/newsletters/2026-06-12-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-12-evening-dispatch.md](newsletters/2026-06-12-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-16
 updated: 2026-06-16
 tags: [newsletter, evening-dispatch, markets, risk-on, russell-2000, wti, treasury, spacex, cursor, github-copilot, grapheneos, local-ai, ai-security, privacy, wrestling]
-source_path: pinky/raw/newsletters/2026-06-16-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-16-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, June 16, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-06-16  
-**Source:** [pinky/raw/newsletters/2026-06-16-evening-dispatch.md](../../raw/newsletters/2026-06-16-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-16-evening-dispatch.md](newsletters/2026-06-16-evening-dispatch.md)
 
 ---
 

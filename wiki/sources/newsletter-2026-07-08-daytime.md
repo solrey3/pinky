@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-08
 updated: 2026-07-08
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, iran, supreme-court, gun-control, ice, fda, sickle-cell, gene-therapy, ai-security, github, tenda, deepseek, sovereign-ai, semiconductors, amd, tsm, nvidia, target, schwab, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-08-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-08-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Wednesday, July 8, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-08  
-**Source:** [pinky/raw/newsletters/2026-07-08-daytime-dispatch.md](../../raw/newsletters/2026-07-08-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-08-daytime-dispatch.md](newsletters/2026-07-08-daytime-dispatch.md)
 
 ---
 

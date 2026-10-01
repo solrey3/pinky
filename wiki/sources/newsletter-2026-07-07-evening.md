@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-07
 updated: 2026-07-07
 tags: [newsletter, evening-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, iran, hormuz, ai-sentiment, data-centers, deepseek, sovereign-ai, openstreetmap, tts, semiconductors, amd, tsm, nvidia, tesla, schwab, target, new-jersey-devils, wrestling, wwe, cm-punk, aew, roh, njpw, tna, cmll, aaa, world-cup, wimbledon]
-source_path: pinky/raw/newsletters/2026-07-07-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-07-evening-dispatch.md
 ---
 
 # Evening Brief — Tuesday, July 7, 2026
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-07-07  
-**Source:** [pinky/raw/newsletters/2026-07-07-evening-dispatch.md](../../raw/newsletters/2026-07-07-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-07-evening-dispatch.md](newsletters/2026-07-07-evening-dispatch.md)
 
 ---
 

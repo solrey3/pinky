@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-20
 updated: 2026-09-20
 tags: [newsletter, evening-dispatch, markets, iran, energy-security, software-supply-chain, open-source-funding, semiconductors, oil, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-20-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-20-evening-dispatch.md
 ---
 
 # Evening Brief — Sunday, September 20, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-20  
-**Source:** [pinky/raw/newsletters/2026-09-20-evening-dispatch.md](../../raw/newsletters/2026-09-20-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-20-evening-dispatch.md](newsletters/2026-09-20-evening-dispatch.md)
 
 ## Summary
 

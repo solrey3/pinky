@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-05-30
 updated: 2026-05-30
 tags: [newsletter, evening-dispatch, markets, amd, nasdaq, russell-2000, iran, oil, hormuz, openrouter, accenture, ookla, botnet, carolina-hurricanes, stanley-cup, spurs, okc, game7, roland-garros, sabalenka, gauff, tiafoe, wwe, clash-in-italy, sami-zayn, njpw, aew, cmll, tko, ric-flair, ronda-rousey, nixos, shipping-rates, bitcoin, gas-prices, meltzer]
-source_path: pinky/raw/newsletters/2026-05-30-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-05-30-evening-dispatch.md
 ---
 
 # Newsletter 2026-05-30 — Evening Dispatch
 
 **Author:** Evening Brief (automated)  
 **Date:** 2026-05-30  
-**Source:** [pinky/raw/newsletters/2026-05-30-evening-dispatch.md](../../../raw/newsletters/2026-05-30-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-05-30-evening-dispatch.md](newsletters/2026-05-30-evening-dispatch.md)
 
 ---
 

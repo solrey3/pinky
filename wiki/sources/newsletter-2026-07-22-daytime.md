@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-22
 updated: 2026-07-22
 tags: [newsletter, daytime-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, oil, paypal, semiconductors, amd, tsm, nvidia, ai-evaluation, ai-copyright, gemini, openai, hugging-face, anthropic, kalshi, prediction-markets, press-freedom, environmental-health, power-grid, ukraine, new-jersey-devils, mets, tour-de-france, wrestling]
-source_path: pinky/raw/newsletters/2026-07-22-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-22-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Wednesday, July 22, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-22  
-**Source:** [pinky/raw/newsletters/2026-07-22-daytime-dispatch.md](../../raw/newsletters/2026-07-22-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-22-daytime-dispatch.md](newsletters/2026-07-22-daytime-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-06-01
 updated: 2026-06-01
 tags: [newsletter, evening-dispatch, anthropic, ipo, s1, openai, florida-lawsuit, alphabet, ai-arms-race, nvidia, rtx-spark, amd, tsm, semiconductors, computex, nasdaq, markets, wwe-raw, seth-rollins, jacob-fatu, roman-reigns, bloodline, oba-femi, iyo-sky, finn-balor, king-of-the-ring, queen-of-the-ring, roland-garros, sabalenka, tiafoe, myles-garrett, rams, serena-williams, celine-boutier, lpga, russell-henley, oil, iran, bitcoin, meta-ai, red-hat, npm, supply-chain, carnival-data-breach, pentagon, trump, tesla, ev-rebates, ups, mets, nyc-knicks, nba-finals]
-source_path: pinky/raw/newsletters/2026-06-01-evening-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-06-01-evening-dispatch.md
 ---
 
 # Evening Brief — Monday, June 1, 2026
 
 **Author:** Evening Dispatch (automated)  
 **Date:** 2026-06-01  
-**Source:** [pinky/raw/newsletters/2026-06-01-evening-dispatch.md](../../../raw/newsletters/2026-06-01-evening-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-06-01-evening-dispatch.md](newsletters/2026-06-01-evening-dispatch.md)
 
 ---
 

@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-09-04
 updated: 2026-09-04
 tags: [newsletter, noon-dispatch, markets, oil, ai-consolidation, robotaxis, surveillance, right-to-repair, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-09-04-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-09-04-noon-dispatch.md
 ---
 
 # Noon Dispatch — Friday, September 4, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-09-04  
-**Source:** [pinky/raw/newsletters/2026-09-04-noon-dispatch.md](../../raw/newsletters/2026-09-04-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-09-04-noon-dispatch.md](newsletters/2026-09-04-noon-dispatch.md)
 
 ## Summary
 

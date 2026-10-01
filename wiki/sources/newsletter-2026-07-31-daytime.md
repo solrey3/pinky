@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-31
 updated: 2026-07-31
 tags: [newsletter, daytime-dispatch, morning-dispatch, markets, mixed-close, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amd, tsm, nvidia, tesla, critical-infrastructure, cybersecurity, iran, red-sea, hamas, pfas, groundwater, anthropic, claude, ai-security, github, stacked-prs, quantum-computing, prediction-markets, mets, giants, new-jersey-devils, mls, wrestling]
-source_path: pinky/raw/newsletters/2026-07-31-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-31-daytime-dispatch.md
 ---
 
 # Morning Dispatch — Friday, July 31, 2026
 
 **Author:** Morning Dispatch (automated)  
 **Date:** 2026-07-31  
-**Source:** [pinky/raw/newsletters/2026-07-31-daytime-dispatch.md](../../raw/newsletters/2026-07-31-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-31-daytime-dispatch.md](newsletters/2026-07-31-daytime-dispatch.md)
 
 ---
 

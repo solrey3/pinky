@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-04
 updated: 2026-08-04
 tags: [newsletter, noon-dispatch, markets, risk-on, federal-reserve, treasury, mortgage-rates, bitcoin, wti, oil, nasdaq, semiconductors, amazon, amd, nvidia, tsm, tesla, hormuz, currency-intervention, measles, power-grid, ai-infrastructure, open-weights-ai, mistral, shieldstral, novo-nordisk, wegovy, prediction-markets, polymarket, kalshi, tour-de-france, tour-de-france-femmes, wwe, aew, tna, cmll, njpw, wrestling, brock-lesnar, dory-funk-jr]
-source_path: pinky/raw/newsletters/2026-08-04-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-04-noon-dispatch.md
 ---
 
 # Noon Dispatch — Tuesday, August 4, 2026
 
 **Author:** Noon Dispatch (automated)  
 **Date:** 2026-08-04  
-**Source:** [pinky/raw/newsletters/2026-08-04-noon-dispatch.md](../../raw/newsletters/2026-08-04-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-04-noon-dispatch.md](newsletters/2026-08-04-noon-dispatch.md)
 
 ---
 

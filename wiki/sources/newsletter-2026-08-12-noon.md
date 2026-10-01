@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-08-12
 updated: 2026-08-12
 tags: [newsletter, noon-dispatch, markets, oil, sqlite, vaccine-policy, cycling, baseball, wrestling]
-source_path: pinky/raw/newsletters/2026-08-12-noon-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-08-12-noon-dispatch.md
 ---
 
 # Noon Dispatch — Wednesday, August 12, 2026
 
 **Author:** News Correspondent  
 **Date:** 2026-08-12  
-**Source:** [pinky/raw/newsletters/2026-08-12-noon-dispatch.md](../../raw/newsletters/2026-08-12-noon-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-08-12-noon-dispatch.md](newsletters/2026-08-12-noon-dispatch.md)
 
 ## Summary
 

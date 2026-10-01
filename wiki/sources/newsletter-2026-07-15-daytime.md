@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-15
 updated: 2026-07-15
 tags: [newsletter, daytime-dispatch, markets, risk-off, federal-reserve, treasury, bitcoin, wti, iran, centcom, daylight-saving-time, eu, online-age-verification, meta, ai-hiring-bias, tailscale, secure-boot, cursor, vulnerability-disclosure, data-centers, ai-infrastructure-energy-demand, semiconductors, amd, tsm, nvidia, tesla, netflix, new-jersey-devils, wrestling, wwe, aew, roh, njpw, tna, cmll, aaa, world-cup, mlb-all-star, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-15-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-15-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Wednesday, July 15, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-15  
-**Source:** [pinky/raw/newsletters/2026-07-15-daytime-dispatch.md](../../raw/newsletters/2026-07-15-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-15-daytime-dispatch.md](newsletters/2026-07-15-daytime-dispatch.md)
 
 ---
 

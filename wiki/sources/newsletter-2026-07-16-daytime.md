@@ -6,14 +6,14 @@ source_type: newsletter
 created: 2026-07-16
 updated: 2026-07-16
 tags: [newsletter, daytime-dispatch, markets, risk-on, federal-reserve, treasury, bitcoin, wti, press-freedom, immigration-detention, medicaid-fraud, wildfire-smoke, media-consolidation, antitrust, open-weights-ai, xai, microsoft, gaming-labor, semiconductors, amd, tsm, nvidia, paypal, stripe, advent, new-jersey-devils, wrestling, world-cup, tour-de-france]
-source_path: pinky/raw/newsletters/2026-07-16-daytime-dispatch.md
+source_path: pinky/wiki/sources/newsletters/2026-07-16-daytime-dispatch.md
 ---
 
 # Daytime Dispatch — Thursday, July 16, 2026
 
 **Author:** Daytime Dispatch (automated)  
 **Date:** 2026-07-16  
-**Source:** [pinky/raw/newsletters/2026-07-16-daytime-dispatch.md](../../raw/newsletters/2026-07-16-daytime-dispatch.md)
+**Source:** [pinky/wiki/sources/newsletters/2026-07-16-daytime-dispatch.md](newsletters/2026-07-16-daytime-dispatch.md)
 
 ---
 
