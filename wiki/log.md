@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-02] ingest | Evening Brief — Friday, October 2, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-02-evening-dispatch.md`
+- Summary: October 2 evening brief — a weak jobs report, G7 petroleum-stock releases, Philippine Senate, school-safety, impeachment, and customs developments, opposition to Amazon's data-center plan, a technically impossible VPN mandate, narrow semiconductor-led market strength, a 7.47% mortgage quote, and WTI at $91.26.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-02-evening.md` (new); entity pages `philippines`, `amazon`, `wti`; concept pages `ai-infrastructure-energy-demand`, `online-age-verification`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. WTI is the fourth distinct October 2 snapshot; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, labor, infrastructure, market, death, injury, contract, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-02] ingest | Noon Dispatch — Friday, October 2, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-02-noon-dispatch.md`
 - Summary: October 2 noon dispatch — local-police payments for immigration arrests, coordinated diesel-stock releases, record-low reported Supreme Court approval, Philippine maritime, impeachment, and telecom developments, narrow semiconductor-led market strength, a 7.47% mortgage quote, and WTI at $90.86.

@@ -3,9 +3,9 @@ id: fa7ce80a-d3f8-4ea8-bd80-ec451337b546
 title: Online Age Verification
 type: concept
 created: 2026-06-29
-updated: 2026-07-30
+updated: 2026-10-02
 tags: [internet, identity, age-verification, privacy, children, regulation, access-control]
-source_count: 8
+source_count: 9
 ---
 
 # Online Age Verification
@@ -13,6 +13,8 @@ source_count: 8
 Online age verification is the policy and technical problem of determining whether a user is old enough to access an internet service or content category. It sits between child-safety policy, privacy, anonymity, platform liability, and identity infrastructure.
 
 ## Sources
+
+- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — A court reportedly agrees that Utah's VPN mandate requires technically impossible compliance, making architectural feasibility a threshold issue for age- and access-control policy.
 
 - [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Google Play age-signals API coverage moves age checks into Android distribution infrastructure while emphasizing privacy-preserving signals.
 - [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — The KIDS Act item frames age checks as internet plumbing, not just a content-policy rule, because broad verification mandates can change how users prove identity online.

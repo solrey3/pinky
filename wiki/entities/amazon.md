@@ -4,9 +4,9 @@ title: Amazon
 type: entity
 entity_type: organization
 created: 2026-07-12
-updated: 2026-09-01
+updated: 2026-10-02
 tags: [technology, e-commerce, cloud, markets, amzn, ai-infrastructure]
-source_count: 64
+source_count: 65
 ---
 
 # Amazon
@@ -14,6 +14,8 @@ source_count: 64
 Amazon is tracked as a mega-cap technology, e-commerce, and cloud-infrastructure company in market-watch contexts.
 
 ## Sources
+
+- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — A proposed $1 billion data-center development faces local opposition while AMZN gains 0.74%.
 
 - [2026-09-01: Evening Brief — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-evening.md) — The FTC alleges Amazon manipulated billions of ad auctions and obtained $20 billion illegally; AMZN falls 2.35%.
 

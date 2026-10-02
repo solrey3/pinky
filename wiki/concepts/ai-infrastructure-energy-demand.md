@@ -3,9 +3,9 @@ id: 5b04b9bc-1093-453a-a66e-fa2c0fb5f869
 title: AI Infrastructure Energy Demand
 type: concept
 created: 2026-07-02
-updated: 2026-09-28
+updated: 2026-10-02
 tags: [ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality, lease-financing]
-source_count: 40
+source_count: 41
 ---
 
 # AI Infrastructure Energy Demand
@@ -13,6 +13,8 @@ source_count: 40
 AI infrastructure energy demand is the load-growth created by training, inference, networking, cooling, and data-center expansion for AI systems. It connects model capability to electricity procurement, grid reliability, siting politics, and capex.
 
 ## Sources
+
+- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — Opposition to Amazon's proposed $1 billion data center reinforces local consent, land use, infrastructure burden, and benefit sharing as compute-scaling constraints.
 
 - [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Community-benefit demands around Microsoft's data centers frame compute expansion as local burden sharing, consent, and benefit allocation.
 
