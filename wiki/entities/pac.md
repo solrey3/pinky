@@ -4,9 +4,9 @@ title: PAC
 type: entity
 entity_type: person
 created: 2026-05-27T03:20:14Z
-updated: 2026-10-01
+updated: 2026-10-02
 tags: [person, wrestling, aew, njpw, forbidden-door, iwgp]
-source_count: 15
+source_count: 16
 ---
 
 # PAC
@@ -34,6 +34,8 @@ source_count: 15
 - His real name is Ben Satterly — PAC the character is entirely a performance creation, which is the point
 
 ## Sources
+
+- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-midnight.md) — Wrestling coverage continues the PAC tribute thread; primary confirmation of the underlying death report remains warranted.
 
 - [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — AEW stars continue publishing tributes after Dynamite; primary confirmation of the underlying death report remains warranted.
 

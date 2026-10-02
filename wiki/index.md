@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-02-midnight](sources/newsletter-2026-10-02-midnight.md) | Midnight Dispatch — Friday, October 2, 2026 | newsletter | [newsletter, midnight-dispatch, markets, monetary-policy, mortgages, philippines, pi, linux, oil, sports, wrestling] | 2026-10-02 |
 | [newsletter-2026-10-01-evening](sources/newsletter-2026-10-01-evening.md) | Evening Brief — Thursday, October 1, 2026 | newsletter | [newsletter, evening-dispatch, markets, monetary-policy, mortgages, philippines, google, pi, oil, sports, wrestling] | 2026-10-01 |
 | [newsletter-2026-10-01-noon](sources/newsletter-2026-10-01-noon.md) | Noon Dispatch — Thursday, October 1, 2026 | newsletter | [newsletter, noon-dispatch, markets, monetary-policy, medicare, immigration, philippines, openstreetmap, nasa, sports, wrestling] | 2026-10-01 |
 | [newsletter-2026-10-01-daytime](sources/newsletter-2026-10-01-daytime.md) | Morning Dispatch — Thursday, October 1, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, border-searches, federal-reserve, gemini, oil, sports, wrestling] | 2026-10-01 |
@@ -741,7 +742,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Yota Tsuji](entities/yota-tsuji.md) | person | wrestling, njpw, g1-climax, japan | 1 |
 | [Aaron Wolf](entities/aaron-wolf.md) | person | wrestling, njpw, g1-climax, judo, japan | 1 |
 | [Owen Hart](entities/owen-hart.md) | person | person, wrestling | 1 |
-| [PAC](entities/pac.md) | person | person, wrestling, aew, njpw, forbidden-door, iwgp | 12 |
+| [PAC](entities/pac.md) | person | person, wrestling, aew, njpw, forbidden-door, iwgp | 16 |
 | [Penta](entities/penta.md) | person | person, wrestling, wwe, lucha-libre, intercontinental-title | 6 |
 | [Randy Orton](entities/randy-orton.md) | person | person, wrestling | 4 |
 | [Rey Mysterio Jr.](entities/rey-mysterio.md) | person | person, wrestling, aaa, lucha-libre | 5 |
@@ -1079,7 +1080,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
 | [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 13 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
-| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 14 |
+| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 19 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
 | [New York](entities/new-york.md) | place | new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states | 7 |
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
@@ -1197,7 +1198,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 128 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 133 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1585,7 +1586,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Zyn](entities/zyn.md) | product | nicotine, tobacco, product, harm-reduction, fda, public-health | 2 |
 | [WordPress](entities/wordpress.md) | product | cms, wordpress, web, open-source, security, rce | 3 |
 | [PostgreSQL](entities/postgresql.md) | product | database, postgres, postgresql, rust, systems-programming, developer-tools | 3 |
-| [Pi (pi-coding-agent)](entities/pi.md) | product | cli, cli | 1 |
+| [Pi (pi-coding-agent)](entities/pi.md) | product | cli, cli | 3 |
 | [qmd](entities/qmd.md) | product | search, cli, markdown, llm | 1 |
 | [ripgrep (rg)](entities/ripgrep.md) | product | cli, cli | 2 |
 | [Tails OS](entities/tails-os.md) | platform | platform, platform | 1 |
@@ -1768,7 +1769,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Prediction Markets](concepts/prediction-markets.md) | markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law | 73 |
 | [mRNA Vaccine Safety](concepts/mrna-vaccine-safety.md) | [public-health, vaccines, mrna, safety, efficacy, evidence, risk-communication] | 4 |
 | [Nicotine Harm Reduction](concepts/nicotine-harm-reduction.md) | [public-health, nicotine, tobacco, harm-reduction, regulation, risk-communication, fda] | 2 |
-| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 143 |
+| [Monetary Policy Forward Guidance](concepts/monetary-policy-forward-guidance.md) | monetary-policy, central-banks, federal-reserve, interest-rates, communication, markets, prediction-markets, rates, treasury, mortgages | 145 |
 | [Online Age Verification](concepts/online-age-verification.md) | [internet, identity, age-verification, privacy, children, regulation, access-control] | 8 |
 | [Permanent Daylight Saving Time](concepts/permanent-daylight-saving-time.md) | [time-policy, daylight-saving-time, congress, legislation, clocks, public-policy] | 2 |
 | [Private Credit](concepts/private-credit.md) | finance, lending, private-markets, credit-risk, liquidity, regulation, financial-stability | 1 |
@@ -1791,7 +1792,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 356 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 358 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 9 |

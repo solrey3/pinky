@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-02] ingest | Midnight Dispatch — Friday, October 2, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-02-midnight-dispatch.md`
+- Summary: October 2 midnight dispatch — a Watergate review, softer-inflation rate expectations alongside a 7.47% mortgage quote, Philippine impeachment, Senate-procedure, GCash IPO, and scam-hub developments, Pi 1.0, Linux-kernel vulnerabilities, broad market losses, WTI at $92.69, and continuing PAC tributes.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-02-midnight.md` (new); entity pages `philippines`, `pi`, `wti`, `pac`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Much of the market board repeats the prior evening snapshot, while WTI is lower despite a positive displayed change; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, IPO, security, medical, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-01] ingest | Evening Brief — Thursday, October 1, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-01-evening-dispatch.md`
 - Summary: October 1 evening brief — a Watergate review, softer-inflation rate expectations alongside surging mortgage costs, Philippine impeachment and Senate-procedure developments, dismissal of Google AI-search antitrust suits, Pi 1.0, broad market losses, WTI at $92.91, and continuing PAC tributes.
