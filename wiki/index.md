@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-02-daytime](sources/newsletter-2026-10-02-daytime.md) | Morning Dispatch — Friday, October 2, 2026 | newsletter | [newsletter, daytime-dispatch, markets, mortgages, philippines, supreme-court, pi, oil, sports, wrestling] | 2026-10-02 |
 | [newsletter-2026-10-02-midnight](sources/newsletter-2026-10-02-midnight.md) | Midnight Dispatch — Friday, October 2, 2026 | newsletter | [newsletter, midnight-dispatch, markets, monetary-policy, mortgages, philippines, pi, linux, oil, sports, wrestling] | 2026-10-02 |
 | [newsletter-2026-10-01-evening](sources/newsletter-2026-10-01-evening.md) | Evening Brief — Thursday, October 1, 2026 | newsletter | [newsletter, evening-dispatch, markets, monetary-policy, mortgages, philippines, google, pi, oil, sports, wrestling] | 2026-10-01 |
 | [newsletter-2026-10-01-noon](sources/newsletter-2026-10-01-noon.md) | Noon Dispatch — Thursday, October 1, 2026 | newsletter | [newsletter, noon-dispatch, markets, monetary-policy, medicare, immigration, philippines, openstreetmap, nasa, sports, wrestling] | 2026-10-01 |

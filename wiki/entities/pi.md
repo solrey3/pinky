@@ -6,7 +6,7 @@ entity_type: product
 created: "2026-05-10T15:45:00-0400"
 updated: 2026-10-02
 tags: [cli, cli]
-source_count: 3
+source_count: 4
 ---
 
 # Pi (pi-coding-agent)
@@ -14,6 +14,8 @@ source_count: 3
 Terminal-based coding agent harness. Uses OpenRouter for LLM access. Supports file operations, bash execution, code editing, and writing. Progressive skill loading for specialized workflows.
 
 ## Sources
+
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — Pi 1.0 leads the cited Hacker News ranking with 1,275 points, extending evidence of public attention around the release.
 
 - [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-midnight.md) — Pi 1.0 again leads the cited Hacker News ranking, extending coverage of the coding-agent harness's public release milestone.
 

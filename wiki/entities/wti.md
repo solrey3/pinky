@@ -6,7 +6,7 @@ entity_type: other
 created: 2026-08-01
 updated: 2026-10-02
 tags: [commodities, oil, energy, markets, geopolitics]
-source_count: 133
+source_count: 134
 ---
 
 # WTI
@@ -14,6 +14,8 @@ source_count: 133
 West Texas Intermediate crude oil benchmark; tracked here as an energy, inflation, and cross-asset risk signal.
 
 ## Sources
+
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — Falls 3.68% to $89.19, sharply below the same day's midnight quote of $92.69; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
 - [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-midnight.md) — Quotes WTI at $92.69, below the prior evening's $92.91 despite a positive displayed change; timestamp, baseline, feed, or futures-contract reconciliation is required.
 

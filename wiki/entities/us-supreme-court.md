@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-09-30
+updated: 2026-10-02
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 28
+source_count: 29
 ---
 
 # U.S. Supreme Court
@@ -14,6 +14,8 @@ source_count: 28
 The highest court in the United States. In the newsletter graph, it is tracked when Court rulings reshape constitutional boundaries, regulatory power, civil liberties, or institutional checks.
 
 ## Sources
+
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — Reportedly opens a new term at record-low public approval, adding an institutional-legitimacy signal rather than a new doctrinal holding.
 
 - [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — Reportedly stays a third-party-removal injunction shortly after briefing; the procedural posture and order are needed before drawing a broader doctrinal conclusion.
 
