@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-02] ingest | Noon Dispatch — Friday, October 2, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-02-noon-dispatch.md`
+- Summary: October 2 noon dispatch — local-police payments for immigration arrests, coordinated diesel-stock releases, record-low reported Supreme Court approval, Philippine maritime, impeachment, and telecom developments, narrow semiconductor-led market strength, a 7.47% mortgage quote, and WTI at $90.86.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-02-noon.md` (new); entity pages `philippines`, `us-supreme-court`, `nvidia`, `wti`; concept pages `immigration-enforcement-escalation`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. WTI sits between the same day's midnight and morning snapshots; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, maritime, regulatory, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-02] ingest | Morning Dispatch — Friday, October 2, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-02-daytime-dispatch.md`
 - Summary: October 2 morning dispatch — a Watergate review, record-low reported Supreme Court approval, Philippine youth-election, maritime, impeachment, and vape-enforcement developments, Pi 1.0, broad market losses, 7.47% mortgages, and WTI at $89.19.

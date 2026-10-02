@@ -3,9 +3,9 @@ id: c28e9041-cbb6-4a28-9ef4-a0923c0a0a5a
 title: Immigration Enforcement Escalation
 type: concept
 created: 2026-07-31
-updated: 2026-09-27
+updated: 2026-10-02
 tags: [immigration, border-policy, enforcement, airports, migration, military]
-source_count: 18
+source_count: 19
 ---
 
 # Immigration Enforcement Escalation
@@ -13,6 +13,8 @@ source_count: 18
 Immigration enforcement escalation is the expansion of migration control from border crossings into airports, local jurisdictions, databases, and cross-border travel regimes.
 
 ## Sources
+
+- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-noon.md) — Reported DHS payments to local police for immigration arrests use fiscal incentives to expand federal enforcement capacity through local agencies.
 
 - [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — DHS announces a nationwide surge focused on jurisdictions labeled “sanctuary” cities, broadening enforcement from discrete operations toward a coordinated national footprint.
 
