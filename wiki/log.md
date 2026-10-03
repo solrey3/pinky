@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-03] ingest | Midnight Dispatch — Saturday, October 3, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-03-midnight-dispatch.md`
+- Summary: October 3 midnight dispatch — a weak jobs report, global bond selling, Philippine impeachment, cable, heritage-rice, and ferry-fire developments, Apple's tighter full-disk access for AI agents, narrow technology-led market strength, a 7.49% mortgage quote, and WTI at $91.26.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-03-midnight.md` (new); entity pages `philippines`, `apple`, `tesla`, `wti`; concept pages `agentic-access-control`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. WTI exactly repeats the prior evening snapshot; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, criminal, maritime, safety, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-02] ingest | Evening Brief — Friday, October 2, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-02-evening-dispatch.md`
 - Summary: October 2 evening brief — a weak jobs report, G7 petroleum-stock releases, Philippine Senate, school-safety, impeachment, and customs developments, opposition to Amazon's data-center plan, a technically impossible VPN mandate, narrow semiconductor-led market strength, a 7.47% mortgage quote, and WTI at $91.26.

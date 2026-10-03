@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-10-02
+updated: 2026-10-03
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 22
+source_count: 23
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 22
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-midnight.md) — Tracks impeachment-verdict timing, an indigenous-rice award, Globe's response to a subsea-cable break, and investigation of lithium batteries after the deadly *MV June Aster* fire.
 
 - [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — Tracks a possible Senate-majority realignment, added school-safety funding, Sara Duterte's impeachment trial, and Customs' claimed elimination of abandoned balikbayan-box backlogs.
 

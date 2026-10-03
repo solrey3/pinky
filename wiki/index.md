@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-03-midnight](sources/newsletter-2026-10-03-midnight.md) | Midnight Dispatch — Saturday, October 3, 2026 | newsletter | [newsletter, midnight-dispatch, markets, labor-market, philippines, apple, agentic-ai-security, bonds, oil, sports, wrestling] | 2026-10-03 |
 | [newsletter-2026-10-02-evening](sources/newsletter-2026-10-02-evening.md) | Evening Brief — Friday, October 2, 2026 | newsletter | [newsletter, evening-dispatch, markets, labor-market, philippines, data-centers, age-verification, oil, sports, wrestling] | 2026-10-02 |
 | [newsletter-2026-10-02-noon](sources/newsletter-2026-10-02-noon.md) | Noon Dispatch — Friday, October 2, 2026 | newsletter | [newsletter, noon-dispatch, markets, immigration, diesel, philippines, supreme-court, nvidia, oil, sports, wrestling] | 2026-10-02 |
 | [newsletter-2026-10-02-daytime](sources/newsletter-2026-10-02-daytime.md) | Morning Dispatch — Friday, October 2, 2026 | newsletter | [newsletter, daytime-dispatch, markets, mortgages, philippines, supreme-court, pi, oil, sports, wrestling] | 2026-10-02 |
