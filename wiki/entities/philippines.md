@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-03
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 25
+source_count: 26
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 25
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Tracks the ICC's admission of written testimony in Rodrigo Duterte's case, mapped electricity-system losses, and expected battery storage for the outage-strained Visayas grid.
 
 - [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-noon.md) — Tracks the ICC's admission of prior witness testimony in Rodrigo Duterte's case, mapped electricity-system losses, and battery storage expected to support the outage-strained Visayas grid.
 

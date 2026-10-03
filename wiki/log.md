@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-03] ingest | Evening Brief — Saturday, October 3, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-03-evening-dispatch.md`
+- Summary: October 3 evening brief — a softer jobs report, G-7 petroleum-stock releases, Philippine ICC and electricity developments, Apple's AI-agent disk controls, constitutional scrutiny of warrantless Flock searches, reported AI-linked layoffs, narrow technology-led market strength, a 7.49% mortgage quote, and WTI at $91.11.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-03-evening.md` (new); entity pages `philippines`, `apple`, `smithsonian`, `flock-safety`, `wti`; concept pages `agentic-access-control`, `automated-license-plate-reader-surveillance`, `ai-labor-displacement`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. WTI exactly repeats the same day's morning and noon snapshots; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, labor, energy, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-03] ingest | Morning Dispatch — Saturday, October 3, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-03-daytime-dispatch.md`
 - Summary: October 3 morning dispatch — a softer jobs report, Philippine ICC, subsea-cable, and LPG-price developments, Apple's tighter full-disk access for AI agents, a technically impossible VPN mandate, narrow technology-led market strength, a 7.49% mortgage quote, and WTI at $91.11.
