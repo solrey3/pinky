@@ -133,6 +133,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
 | [newsletter-2026-10-03-daytime](sources/newsletter-2026-10-03-daytime.md) | Morning Dispatch — Saturday, October 3, 2026 | newsletter | [newsletter, daytime-dispatch, markets, labor-market, philippines, apple, agentic-ai-security, online-age-verification, bonds, oil, sports, wrestling] | 2026-10-03 |
+| [newsletter-2026-10-03-noon](sources/newsletter-2026-10-03-noon.md) | Noon Dispatch — Saturday, October 3, 2026 | newsletter | [newsletter, noon-dispatch, markets, labor-market, philippines, apple, museums, agentic-ai-security, bonds, oil, sports, wrestling] | 2026-10-03 |
 | [newsletter-2026-10-03-midnight](sources/newsletter-2026-10-03-midnight.md) | Midnight Dispatch — Saturday, October 3, 2026 | newsletter | [newsletter, midnight-dispatch, markets, labor-market, philippines, apple, agentic-ai-security, bonds, oil, sports, wrestling] | 2026-10-03 |
 | [newsletter-2026-10-02-evening](sources/newsletter-2026-10-02-evening.md) | Evening Brief — Friday, October 2, 2026 | newsletter | [newsletter, evening-dispatch, markets, labor-market, philippines, data-centers, age-verification, oil, sports, wrestling] | 2026-10-02 |
 | [newsletter-2026-10-02-noon](sources/newsletter-2026-10-02-noon.md) | Noon Dispatch — Friday, October 2, 2026 | newsletter | [newsletter, noon-dispatch, markets, immigration, diesel, philippines, supreme-court, nvidia, oil, sports, wrestling] | 2026-10-02 |
@@ -1085,7 +1086,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
 | [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 13 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
-| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 20 |
+| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 21 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
 | [New York](entities/new-york.md) | place | new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states | 7 |
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
@@ -1113,7 +1114,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [CNN](entities/cnn.md) | organization | media, television, journalism, politics | 1 |
 | [Kaitlan Collins](entities/kaitlan-collins.md) | person | journalism, cnn, media, politics | 1 |
 | [Spain](entities/spain.md) | place | spain, europe, wildfires, emergency-management | 5 |
-| [Smithsonian](entities/smithsonian.md) | organization | museums, public-history, culture-war, united-states | 1 |
+| [Smithsonian](entities/smithsonian.md) | organization | museums, public-history, culture-war, united-states | 2 |
 | [Scott Gottlieb](entities/scott-gottlieb.md) | person | public-health, fda, foodborne-outbreaks, health-policy | 1 |
 | [U.S. Department of Justice](entities/us-department-of-justice.md) | organization | government, justice, courts, elections | 1 |
 | [Bryan Kohberger](entities/bryan-kohberger.md) | person | crime, courts, idaho | 2 |
@@ -1203,7 +1204,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 134 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 135 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1281,7 +1282,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware | 146 |
 | [Android](entities/android.md) | product | android, mobile, operating-system, google, app-stores, sideloading, security | 10 |
 | [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation | 97 |
-| [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai, image-provenance | 37 |
+| [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai, image-provenance | 38 |
 | [Apertus](entities/apertus.md) | product | ai, open-foundation-model, open-weights, sovereign-ai, model-governance | 2 |
 | [Asahi Linux](entities/asahi-linux.md) | product | linux, apple-silicon, macos, operating-systems, developer-tools | 1 |
 | [Deno](entities/deno.md) | product | developer-tools, javascript, typescript, runtime, desktop, application-runtime | 1 |
@@ -1708,7 +1709,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Autonomous Border Surveillance](concepts/autonomous-border-surveillance.md) | [surveillance, border-security, ai, civil-liberties, procurement, privacy] | 3 |
 | [AI Battlefield Autonomy](concepts/ai-battlefield-autonomy.md) | [ai, military, drones, autonomy, ukraine, dual-use, targeting] | 6 |
 | [Advantage Play](concepts/advantage-play.md) | [gambling, mathematics, poker, strategy, skill, risk] | 3 |
-| [Agentic Access Control](concepts/agentic-access-control.md) | [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents] | 24 |
+| [Agentic Access Control](concepts/agentic-access-control.md) | [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents] | 25 |
 | ["AI-Augmented Development"](concepts/ai-augmented-development.md) | [ai, llm, coding-agent, automation, development, fabric, computer-vision, local-ai, developer-infrastructure, agentic-software, package-managers, operating-systems, ai-coding-platforms, pricing, open-weights, ai-economics, robotics, repository-provenance, runtimes, java, agentic-access-control, postgres, standards, agent-reliability, linux, codex, steamos, export-controls, http-query, cybersecurity, ocr, ai-hiring-bias, semiconductor-scaling, vulnerability-disclosure, raspberry-pi, computer-use, custom-silicon, compilers, model-extraction, data-center-cooling, inference-optimization, speculative-decoding, rfic-design, claude-sonnet-5, claude-code, prompt-steganography] | 90 |
 | [Refactoring Economics](concepts/refactoring-economics.md) | [software-engineering, refactoring, economics, maintenance, ai-augmented-development] | 1 |
 | [AI Hiring Bias](concepts/ai-hiring-bias.md) | [ai, hiring, bias, employment, discrimination, governance, automated-decision-systems, algorithmic-accountability] | 4 |
@@ -1797,7 +1798,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 359 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 360 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 9 |

@@ -2738,3 +2738,9 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 - Summary: October 1 noon dispatch — softer inflation reduces expectations of another 2026 hike while long yields and mortgages remain restrictive; broad market losses, expected Tesla delivery weakness, StreetComplete's iOS beta, and conflicting reports about a NASA Swift rescue round out the brief.
 - Pages touched: `pinky/wiki/sources/newsletter-2026-10-01-noon.md` (new); entity pages `federal-reserve`, `nasa`, `streetcomplete`, `tesla`; concept pages `monetary-policy-forward-guidance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
 - Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The Swift rescue report conflicts with the August 20 dispatch and requires primary confirmation; legal, political, market, technology, sports, and wrestling claims remain subject to primary confirmation.
+
+## [2026-10-03] ingest | Noon Dispatch — Saturday, October 3, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-03-noon-dispatch.md`
+- Summary: October 3 noon dispatch — weak jobs data reshapes rate expectations, the G-7 reportedly coordinates an oil release, Philippine grid and ICC developments continue, Apple tightens AI-agent disk permissions, Smithsonian applies AI to collection discovery, and semiconductor strength masks weak market breadth.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-03-noon.md` (new); entity pages `philippines`, `apple`, `smithsonian`, `wti`; concept pages `agentic-access-control`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market and WTI figures repeat the morning snapshot rather than establish a fresh noon observation; political, legal, criminal, energy, market, injury, and sports claims remain subject to primary confirmation.

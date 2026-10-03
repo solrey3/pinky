@@ -4,9 +4,9 @@ title: Smithsonian
 type: entity
 entity_type: organization
 created: 2026-07-25
-updated: 2026-07-25
+updated: 2026-10-03
 tags: [museums, public-history, culture-war, united-states]
-source_count: 1
+source_count: 2
 ---
 
 # Smithsonian
@@ -14,6 +14,8 @@ source_count: 1
 U.S. museum and research institution tracked when public-history control enters the governance graph.
 
 ## Sources
+
+- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-noon.md) — Reportedly uses AI to connect American Revolution artifacts across collections, a machine-assisted discovery use case that still depends on curatorial provenance and interpretation.
 
 - [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Receives ordered disclaimers outside the Museum of American History, extending the public-memory control thread.
 
