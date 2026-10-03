@@ -3,9 +3,9 @@ id: fa7ce80a-d3f8-4ea8-bd80-ec451337b546
 title: Online Age Verification
 type: concept
 created: 2026-06-29
-updated: 2026-10-02
+updated: 2026-10-03
 tags: [internet, identity, age-verification, privacy, children, regulation, access-control]
-source_count: 9
+source_count: 10
 ---
 
 # Online Age Verification
@@ -13,6 +13,8 @@ source_count: 9
 Online age verification is the policy and technical problem of determining whether a user is old enough to access an internet service or content category. It sits between child-safety policy, privacy, anonymity, platform liability, and identity infrastructure.
 
 ## Sources
+
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — Repeats a court's reported finding that Utah's VPN mandate requires technically impossible compliance, keeping architectural feasibility central to age- and access-control policy.
 
 - [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — A court reportedly agrees that Utah's VPN mandate requires technically impossible compliance, making architectural feasibility a threshold issue for age- and access-control policy.
 
