@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-01
 updated: 2026-10-04
 tags: [energy, infrastructure, power-grid, resilience, heat-wave, emergency-orders, climate]
-source_count: 12
+source_count: 13
 ---
 
 # Power Grid Resilience
@@ -13,6 +13,8 @@ source_count: 12
 Power grid resilience is the ability of electrical systems to maintain or restore reliable service during stress: heat waves, storms, fuel constraints, transmission bottlenecks, demand spikes, cyber incidents, or regulatory emergencies.
 
 ## Sources
+
+- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Reiterates that electrification depends on wiring, supply, grid capacity, deployment, and policy rather than end-user demand alone.
 
 - [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Frames electrification as an infrastructure challenge involving generation, transmission, distribution, deployment, and permitting capacity.
 
