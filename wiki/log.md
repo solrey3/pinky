@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-04] ingest | Noon Dispatch — Sunday, October 4, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-04-noon-dispatch.md`
+- Summary: October 4 noon dispatch — a shrinking college-applicant pool, a consequential Supreme Court docket, a reported Chinese interception of a Philippine patrol aircraft, electrification infrastructure constraints, connected-car data collection, narrow semiconductor-led market strength, a 7.49% mortgage quote, and WTI at $91.11.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-04-noon.md` (new); entity pages `philippines`, `us-supreme-court`, `nvidia`, `wti`; concept pages `power-grid-resilience`, `connected-car-surveillance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market board, including WTI at $91.11 and +1.94%, repeats the morning snapshot; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, aviation, geopolitical, market, technology, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-04] ingest | Morning Dispatch — Sunday, October 4, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-04-daytime-dispatch.md`
 - Summary: October 4 morning dispatch — a softer jobs report, G-7 petroleum releases, a missing air ambulance, a consequential Supreme Court docket, Philippine impeachment, maritime-air, anti-scam, and coastal-erosion developments, Apple's AI-agent disk controls, constitutional scrutiny of warrantless Flock searches, narrow technology-led market strength, a 7.49% mortgage quote, and WTI at $91.11.

@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-04
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 28
+source_count: 29
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 28
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Tracks a reported Chinese J-16 interception near Bajo de Masinloc, possible lived-name records in higher education, and official rejection of a false class-suspension graphic.
 
 - [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Tracks a possible change to Sara Duterte's impeachment case, a Philippine–Chinese military-aircraft encounter near Bajo de Masinloc, a 244-person anti-scam raid, and coastal erosion in La Union and Ilocos Sur.
 
