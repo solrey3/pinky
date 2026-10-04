@@ -4,9 +4,9 @@ title: Flock Safety
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-10-03
+updated: 2026-10-04
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 27
+source_count: 28
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 27
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Repeats a federal ruling that warrantless searches of Flock records may violate the Fourth Amendment, keeping constitutional limits central.
 
 - [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — A federal judge reportedly questions warrantless searches of Flock records under the Fourth Amendment, escalating governance scrutiny from policy controls to constitutional limits.
 

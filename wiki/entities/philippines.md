@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-10-03
+updated: 2026-10-04
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 26
+source_count: 27
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 26
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Tracks the arrest of 244 mostly Chinese workers in a major POGO raid, proposed House additions to aid and road spending, and calls for expanded education funding.
 
 - [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Tracks the ICC's admission of written testimony in Rodrigo Duterte's case, mapped electricity-system losses, and expected battery storage for the outage-strained Visayas grid.
 

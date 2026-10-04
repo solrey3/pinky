@@ -4,9 +4,9 @@ title: Smithsonian
 type: entity
 entity_type: organization
 created: 2026-07-25
-updated: 2026-10-03
+updated: 2026-10-04
 tags: [museums, public-history, culture-war, united-states]
-source_count: 3
+source_count: 4
 ---
 
 # Smithsonian
@@ -14,6 +14,8 @@ source_count: 3
 U.S. museum and research institution tracked when public-history control enters the governance graph.
 
 ## Sources
+
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Repeats the reported use of AI to connect American Revolution artifacts while preserving the need for provenance and curatorial interpretation.
 
 - [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Repeats the reported use of AI to connect American Revolution artifacts across collections while preserving the need for curatorial provenance and interpretation.
 
