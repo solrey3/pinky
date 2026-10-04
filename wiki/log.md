@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-04] ingest | Morning Dispatch — Sunday, October 4, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-04-daytime-dispatch.md`
+- Summary: October 4 morning dispatch — a softer jobs report, G-7 petroleum releases, a missing air ambulance, a consequential Supreme Court docket, Philippine impeachment, maritime-air, anti-scam, and coastal-erosion developments, Apple's AI-agent disk controls, constitutional scrutiny of warrantless Flock searches, narrow technology-led market strength, a 7.49% mortgage quote, and WTI at $91.11.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-04-daytime.md` (new); entity pages `philippines`, `us-supreme-court`, `apple`, `flock-safety`, `wti`; concept pages `agentic-access-control`, `automated-license-plate-reader-surveillance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market board, including WTI at $91.11 and +1.94%, repeats the midnight snapshot; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, criminal, aviation, geopolitical, climate, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-04] ingest | Midnight Dispatch — Sunday, October 4, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-04-midnight-dispatch.md`
 - Summary: October 4 midnight dispatch — a softer jobs report, a missing air ambulance, Philippine POGO, budget, and education developments, Apple's AI-agent disk controls, constitutional scrutiny of warrantless Flock searches, hard budget caps for automated systems, narrow technology-led market strength, a 7.49% mortgage quote, and WTI at $91.11.

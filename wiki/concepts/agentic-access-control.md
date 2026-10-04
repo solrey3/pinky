@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-20
 updated: 2026-10-04
 tags: [ai, agents, identity, access-control, security, cloud, automation, least-privilege, ai-browsers, browser-agents]
-source_count: 29
+source_count: 30
 ---
 
 # Agentic Access Control
@@ -13,6 +13,8 @@ source_count: 29
 Agentic access control is the practice of treating AI agents as explicit security principals: scoped identities with temporary credentials, least-privilege permissions, auditable actions, expiration, and revocation. The core shift is from “an agent uses my account” to “an agent receives a bounded identity for a bounded job.”
 
 ## Sources
+
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Repeats Apple's reported restriction of AI-agent full-disk access, reinforcing explicit scope, observability, and revocation for local-file authority.
 
 - [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Pairs Apple's reported restriction of AI-agent disk access with hard spending caps, combining permission boundaries with resource stop conditions.
 

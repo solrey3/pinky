@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-08
 updated: 2026-10-04
 tags: [technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai, image-provenance]
-source_count: 42
+source_count: 43
 ---
 
 # Apple
@@ -14,6 +14,8 @@ source_count: 42
 American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and Apple Intelligence. In this wiki's current-events layer, Apple enters through the 2026 AI platform race, through Mac platform-control issues that affect alternate operating-system workflows, through architecture-transition history from PowerPC to Intel to Apple Silicon, and through consumer-device security updates.
 
 ## Sources
+
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
 
 - [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
 
