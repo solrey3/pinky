@@ -4,9 +4,9 @@ title: Cloudflare
 type: entity
 entity_type: organization
 created: 2026-06-20
-updated: 2026-09-30
+updated: 2026-10-05
 tags: [cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control, post-quantum-cryptography, tls]
-source_count: 8
+source_count: 9
 ---
 
 # Cloudflare
@@ -14,6 +14,8 @@ source_count: 8
 Cloudflare is a cloud infrastructure and security company. In the newsletter graph, it matters as a platform operator whose networking, identity, and edge-compute decisions shape how automated systems get deployed and governed.
 
 ## Sources
+
+- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-noon.md) — Introduces a Web Search API, extending Cloudflare's developer platform with programmable retrieval for applications and agents.
 
 - [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Plans quantum-safe TLS certificates, moving post-quantum migration into certificate-authority operations and web-infrastructure compatibility.
 
