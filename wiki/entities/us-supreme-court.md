@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-29
 updated: 2026-10-05
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 34
+source_count: 35
 ---
 
 # U.S. Supreme Court
@@ -14,6 +14,8 @@ source_count: 34
 The highest court in the United States. In the newsletter graph, it is tracked when Court rulings reshape constitutional boundaries, regulatory power, civil liberties, or institutional checks.
 
 ## Sources
+
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Reportedly questions oil companies' effort to halt state climate lawsuits; the petition, jurisdictional issue, and hearing record are needed before inferring an outcome.
 
 - [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Again previews a term involving guns, immigration, and climate policy; case dockets and records remain necessary for doctrinal conclusions.
 

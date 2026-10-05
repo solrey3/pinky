@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-05
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 33
+source_count: 34
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 33
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Tracks national drought preparation, flagged transactions reportedly linked to Sara Duterte, the end of the southwest monsoon, and a proposed NCAP readiness inquiry.
 
 - [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-noon.md) — Tracks flood-control reports tied to flagged transactions involving Sara Duterte, her impeachment trial, the end of the southwest monsoon, and a proposed readiness inquiry before NCAP traffic-camera enforcement returns.
 

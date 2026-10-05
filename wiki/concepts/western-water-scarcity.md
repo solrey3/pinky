@@ -3,9 +3,9 @@ id: de08089d-b254-4729-bc10-c218ade949fb
 title: Western Water Scarcity
 type: concept
 created: 2026-07-31
-updated: 2026-08-24
+updated: 2026-10-05
 tags: [water, drought, climate, infrastructure, federal-policy, allocation, western-us]
-source_count: 4
+source_count: 5
 ---
 
 # Western Water Scarcity
@@ -13,6 +13,8 @@ source_count: 4
 Western water scarcity is the policy condition where climate stress, population demand, agricultural use, hydrology, and interstate compacts force governments to ration or reallocate limited water. The key question is not only whether water is scarce, but who has authority to impose cuts and how those cuts are justified.
 
 ## Sources
+
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Low Colorado River levels and high demand again force allocation choices across the basin, keeping authority, conservation burdens, and user priorities unresolved.
 
 - [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletter-2026-08-24-evening.md) — A federal Colorado River proposal keeps drought response centered on allocation authority, conservation burdens, and competing users.
 

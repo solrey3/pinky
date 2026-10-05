@@ -3,9 +3,9 @@ id: 0381cadc-c90d-4506-a9bb-29cc2d8f076e
 title: AI-Assisted Scientific Discovery
 type: concept
 created: 2026-09-23
-updated: 2026-09-24
+updated: 2026-10-05
 tags: [ai, science, discovery, biology, validation, reproducibility]
-source_count: 3
+source_count: 4
 ---
 
 # AI-Assisted Scientific Discovery
@@ -13,6 +13,8 @@ source_count: 3
 AI-assisted scientific discovery uses machine-learning systems to generate hypotheses, identify patterns, propose mechanisms, or design experiments. A model-generated novelty becomes scientific knowledge only after transparent methods, empirical validation, reproducibility, and independent review distinguish genuine discovery from data leakage, artifact, or plausible conjecture.
 
 ## Sources
+
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Reports that Opus 5.5 agents identified two candidate room-temperature magnetic semiconductors; synthesis, measurement, replication, and review remain necessary before treating candidates as discoveries.
 
 - [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Again repeats Anthropic's enzyme-system claim; coverage recurrence does not supply experimental validation or independent corroboration.
 

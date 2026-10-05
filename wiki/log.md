@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-05] ingest | Evening Brief — Monday, October 5, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-05-evening-dispatch.md`
+- Summary: October 5 evening brief — Supreme Court climate-litigation scrutiny, Philippine drought and transaction investigations, Colorado River scarcity, Reflection AI's Beam open-weight model, agent-assisted materials research, a concentrated semiconductor-led rally, a 7.49% mortgage quote, and WTI at $89.30.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-05-evening.md` (new); entity pages `philippines`, `us-supreme-court`, `reflection-ai` (new), `wti`; concept pages `western-water-scarcity`, `open-weights-ai`, `ai-assisted-scientific-discovery`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. WTI is $1.29 below the same day's noon snapshot and changes direction; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, scientific, market, technology, health, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-05] ingest | Noon Dispatch — Monday, October 5, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-05-noon-dispatch.md`
 - Summary: October 5 noon dispatch — renewed Hormuz shipping attacks, Philippine impeachment and flood-control scrutiny, AI-glasses regulation, GrapheneOS hardware standards, Cloudflare's Web Search API, a concentrated semiconductor-led rally, a 7.49% mortgage quote, and WTI at $90.59.
