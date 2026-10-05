@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-05] ingest | Morning Dispatch — Monday, October 5, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-05-daytime-dispatch.md`
+- Summary: October 5 morning dispatch — a college-enrollment squeeze, soft jobs data, Brazil's runoff, Philippine impeachment and flood-control accountability, human-art protections in AI policy, a Huawei–Qualcomm patent agreement, a local-Qwen hardware claim, narrow semiconductor-led market strength, a 7.49% mortgage quote, and WTI at $90.67.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-05-daytime.md` (new); entity pages `philippines`, `qualcomm`, `qwen`, `wti`; concept pages `federal-ai-governance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. WTI is $0.59 above the same day's midnight snapshot; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, military, election, audit, health, cybersecurity, market, technology, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-05] ingest | Midnight Dispatch — Monday, October 5, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-05-midnight-dispatch.md`
 - Summary: October 5 midnight dispatch — a college-enrollment squeeze, Brazil's presidential runoff, a consequential Supreme Court docket, Philippine impeachment and ICC proceedings, electrification constraints, a local-Qwen hardware claim, AI acceptable-risk debate, narrow semiconductor-led market strength, a 7.49% mortgage quote, and WTI at $90.08.

@@ -4,9 +4,9 @@ title: Qualcomm
 type: entity
 entity_type: organization
 created: 2026-06-24
-updated: 2026-09-24
-tags: [technology, semiconductors, mobile, ai-chips, acquisition, runtime, linux, snapdragon-x2]
-source_count: 4
+updated: 2026-10-05
+tags: [technology, semiconductors, mobile, ai-chips, acquisition, runtime, linux, snapdragon-x2, patents]
+source_count: 5
 ---
 
 # Qualcomm
@@ -14,6 +14,8 @@ source_count: 4
 Qualcomm is a semiconductor and wireless-technology company best known for mobile chipsets and connectivity platforms. In the newsletter graph, Qualcomm enters through its planned acquisition of Modular, a signal that AI chip competition increasingly includes software runtimes, compilers, and workload portability.
 
 ## Sources
+
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Announces a broad patent-license agreement with Huawei; scope, duration, covered technologies, and financial terms require the primary agreement or company filings.
 
 - [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Repeats planned Linux support for Snapdragon X2 without adding implementation or availability detail.
 
@@ -30,3 +32,4 @@ Qualcomm is a semiconductor and wireless-technology company best known for mobil
 - [[AI-Augmented Development]]
 - [[Cloud & Infrastructure]]
 - [[Linux]]
+- [[Huawei]]

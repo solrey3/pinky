@@ -5,7 +5,7 @@ type: concept
 created: 2026-09-20
 updated: 2026-10-05
 tags: [ai, governance, federal-policy, executive-power, oversight]
-source_count: 7
+source_count: 8
 ---
 
 # Federal AI Governance
@@ -13,6 +13,8 @@ source_count: 7
 Federal AI governance is the allocation of authority, accountability, standards, and oversight for artificial-intelligence policy and deployment across national-government institutions. Central coordination can reduce fragmented policy, but it also requires transparent mandates, independent review, and clear limits on executive discretion.
 
 ## Sources
+
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Sanders' reported support for Pope Leo's defense of human art extends AI governance into provenance, consent, compensation, authorship, and cultural-policy questions.
 
 - [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Sam Altman's reported acceptance of some AI harms underscores that governance needs publicly accountable risk thresholds, independent evaluation, disclosure, incident response, and remedies rather than vendor-defined tolerance alone.
 
@@ -37,3 +39,5 @@ Federal AI governance is the allocation of authority, accountability, standards,
 ## Notes
 
 The institutional design question is not only whether government should coordinate AI policy, but who sets priorities, which agencies retain authority, what review mechanisms apply, and how decisions can be challenged or audited.
+
+The human-art debate should not be reduced to a single ban-or-permission question. Provenance disclosure, copyright ownership, training-data consent, labor effects, and compensation are distinct policy levers with different enforcement needs.

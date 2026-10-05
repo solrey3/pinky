@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-06-29
 updated: 2026-10-05
 tags: [ai, llm, open-weights, local-ai, developer-tools, agentic-coding, image-generation]
-source_count: 16
+source_count: 17
 ---
 
 # Qwen
@@ -14,6 +14,8 @@ source_count: 16
 Alibaba's Qwen family of large language models. In this wiki, Qwen is tracked as part of the open/local model ecosystem for developer workflows, coding agents, and non-frontier but practical inference.
 
 ## Sources
+
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Repeats a consumer-hardware claim for a 125B Qwen model; quantization, offloading, memory, context, throughput, and independent benchmarks remain unspecified.
 
 - [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Repeats a community claim that a 125B Qwen model runs on an RTX 4090; benchmarks, quantization, offloading, context, and throughput details remain necessary.
 

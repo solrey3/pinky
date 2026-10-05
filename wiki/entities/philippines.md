@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-05
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 31
+source_count: 32
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 31
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Tracks flood-control reports tied to flagged transactions involving Sara Duterte, her impeachment trial, uninsured MMDA flood-control assets, stricter pedestrian-incident rules, and obesity as a growing malnutrition problem.
 
 - [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Tracks Sara Duterte's impeachment trial, the rejected bid to exclude an AMLC witness, the ICC's amended e-court protocol before Rodrigo Duterte's trial, and rain risk from Super Typhoon Choi-wan's trough.
 
