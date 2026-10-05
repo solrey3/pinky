@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-10-04
+updated: 2026-10-05
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 30
+source_count: 31
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 30
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Tracks Sara Duterte's impeachment trial, the rejected bid to exclude an AMLC witness, the ICC's amended e-court protocol before Rodrigo Duterte's trial, and rain risk from Super Typhoon Choi-wan's trough.
 
 - [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Tracks the ICC's amended e-court protocol before Rodrigo Duterte's trial, possible lived-name records in higher education, and a teachers' protest met by police near Malacañang.
 

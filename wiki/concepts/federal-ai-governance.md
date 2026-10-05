@@ -3,9 +3,9 @@ id: 15095ce9-a4c8-454b-9597-61d2b1005df6
 title: Federal AI Governance
 type: concept
 created: 2026-09-20
-updated: 2026-09-23
+updated: 2026-10-05
 tags: [ai, governance, federal-policy, executive-power, oversight]
-source_count: 6
+source_count: 7
 ---
 
 # Federal AI Governance
@@ -13,6 +13,8 @@ source_count: 6
 Federal AI governance is the allocation of authority, accountability, standards, and oversight for artificial-intelligence policy and deployment across national-government institutions. Central coordination can reduce fragmented policy, but it also requires transparent mandates, independent review, and clear limits on executive discretion.
 
 ## Sources
+
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Sam Altman's reported acceptance of some AI harms underscores that governance needs publicly accountable risk thresholds, independent evaluation, disclosure, incident response, and remedies rather than vendor-defined tolerance alone.
 
 - [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — The FAA's operational AI deployment shows that federal governance includes assurance, operator authority, monitoring, and fallback in safety-critical systems.
 

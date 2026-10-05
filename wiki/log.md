@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-05] ingest | Midnight Dispatch — Monday, October 5, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-05-midnight-dispatch.md`
+- Summary: October 5 midnight dispatch — a college-enrollment squeeze, Brazil's presidential runoff, a consequential Supreme Court docket, Philippine impeachment and ICC proceedings, electrification constraints, a local-Qwen hardware claim, AI acceptable-risk debate, narrow semiconductor-led market strength, a 7.49% mortgage quote, and WTI at $90.08.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-05-midnight.md` (new); entity pages `philippines`, `us-supreme-court`, `qwen`, `openai`, `wti`; concept pages `power-grid-resilience`, `federal-ai-governance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. WTI is $1.03 below October 4's repeated snapshot, while the rest of the market board remains substantially unchanged; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, military, election, weather, market, technology, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-04] ingest | Evening Brief — Sunday, October 4, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-04-evening-dispatch.md`
 - Summary: October 4 evening brief — a shrinking college-applicant pool, a consequential Supreme Court docket, Philippine ICC, lived-name, and teachers' protest developments, electrification constraints, a local-Qwen hardware claim, private-credit scrutiny, narrow semiconductor-led market strength, a 7.49% mortgage quote, and WTI at $91.11.
