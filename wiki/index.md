@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-06-noon](sources/newsletter-2026-10-06-noon.md) | Noon Dispatch — Tuesday, October 6, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, el-nino, supreme-court, climate-litigation, agentic-ai-security, mistral, polars, semiconductors, bonds, oil, sports, wrestling] | 2026-10-06 |
 | [newsletter-2026-10-06-daytime](sources/newsletter-2026-10-06-daytime.md) | Morning Dispatch — Tuesday, October 6, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, impeachment, el-nino, supreme-court, climate-litigation, agentic-ai-security, open-weights-ai, semiconductors, bonds, oil, sports, wrestling] | 2026-10-06 |
 | [newsletter-2026-10-06-midnight](sources/newsletter-2026-10-06-midnight.md) | Midnight Dispatch — Tuesday, October 6, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, impeachment, supreme-court, climate-litigation, colorado-river, agentic-ai-security, open-weights-ai, semiconductors, bonds, oil, sports, wrestling] | 2026-10-06 |
 | [newsletter-2026-10-05-evening](sources/newsletter-2026-10-05-evening.md) | Evening Brief — Monday, October 5, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, supreme-court, colorado-river, open-weights-ai, ai-science, semiconductors, bonds, oil, sports, wrestling] | 2026-10-05 |
@@ -1075,7 +1076,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Federal Reserve](entities/federal-reserve.md) | organization | monetary-policy, central-bank, federal-reserve, interest-rates, forward-guidance, united-states, effr, rates, markets | 126 |
 | [Harriet Tubman](entities/harriet-tubman.md) | person | history, abolition, civil-war, currency, public-memory | 1 |
 | [U.S. Treasury](entities/us-treasury.md) | organization | government, finance, currency, united-states, public-symbolism, bond-buybacks | 5 |
-| [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 35 |
+| [U.S. Supreme Court](entities/us-supreme-court.md) | organization | government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment | 38 |
 | [U.S. Immigration and Customs Enforcement](entities/us-immigration-and-customs-enforcement.md) | organization | government, immigration, enforcement, ice, civil-liberties, united-states | 10 |
 | [Iran](entities/iran.md) | place | iran, geopolitics, middle-east, hormuz, oil, diplomacy, war-powers, nuclear-deal, shipping-risk, bahrain, foreign-policy | 104 |
 | [Jordan](entities/jordan.md) | place | jordan, middle-east, military, geopolitics, united-states, iran | 4 |
@@ -1097,7 +1098,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
 | [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 13 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
-| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 34 |
+| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 37 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
 | [New York](entities/new-york.md) | place | new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states | 7 |
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
@@ -1215,7 +1216,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 148 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 151 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1338,7 +1339,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Stoke Space](entities/stoke-space.md) | organization | space, launch, rockets, commercial-space | 1 |
 | [New York Knicks](entities/new-york-knicks.md) | organization | nba, basketball, new-york-knicks, nba-finals, nba-champions, organization, sports | 15 |
 | [Milwaukee Bucks](entities/milwaukee-bucks.md) | organization | nba, basketball, milwaukee, giannis-antetokounmpo | 1 |
-| [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control, mathematics | 64 |
+| [OpenAI](entities/openai.md) | organization | ai, llm, organization, openai, influence-operations, data-centers, ai-economics, frontier-models, talent, codex, developer-tools, cybersecurity, daybreak, custom-silicon, broadcom, custom-inference-chip, access-control, mathematics | 66 |
 | [xAI](entities/xai.md) | organization | ai, llm, frontier-models, grok, elon-musk | 5 |
 | [Thinking Machines Lab](entities/thinking-machines-lab.md) | organization | ai, open-weights, llm, model-release, developer-tools | 2 |
 | [OpenAI Codex](entities/openai-codex.md) | product | ai, coding-agent, developer-tools, openai, reliability, codex | 3 |
@@ -1509,7 +1510,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Wegovy](entities/wegovy.md) | product | pharma, healthcare, obesity-drugs, glp-1, novo-nordisk | 1 |
 | [Novo Nordisk](entities/novo-nordisk.md) | organization | pharma, healthcare, obesity-drugs, markets | 1 |
 | [Shieldstral](entities/shieldstral.md) | product | ai, moderation, multimodal, open-weights, mistral | 2 |
-| [Mistral AI](entities/mistral-ai.md) | organization | ai, llm, open-weights, france, moderation, browser-ai, privacy | 3 |
+| [Mistral AI](entities/mistral-ai.md) | organization | ai, llm, open-weights, france, moderation, browser-ai, privacy | 4 |
 | [Bristol Myers Squibb](entities/bristol-myers-squibb.md) | organization | pharma, healthcare, biopharma, mergers | 1 |
 | [AstraZeneca](entities/astrazeneca.md) | organization | pharma, healthcare, biopharma, mergers | 1 |
 | [ByteDance](entities/bytedance.md) | organization | technology, ai, video, china, seedance | 2 |
@@ -1810,10 +1811,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 373 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 376 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
-| [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability | 9 |
+| [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability | 19 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
 | ["Security & Privacy Toolkit"](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed] | 112 |
 | [Surveillance Pricing](concepts/surveillance-pricing.md) | [privacy, consumer-protection, pricing, retail, surveillance, new-jersey] | 1 |

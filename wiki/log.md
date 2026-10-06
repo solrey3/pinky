@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-06] ingest | Noon Dispatch — Tuesday, October 6, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-06-noon-dispatch.md`
+- Summary: October 6 noon dispatch — Bab al-Mandeb fighting, Supreme Court climate-litigation scrutiny, Philippine El Niño calamity declarations, reported OpenAI-agent activity against Wikimedia, Mistral Large 4 and Polars 2.0 releases, a broad technology-led rally, a 7.55% mortgage quote, and WTI at $88.72.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-06-noon.md` (new); entity pages `philippines`, `us-supreme-court`, `openai`, `mistral-ai`, `wti`; concept pages `agentic-ai-security`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The rally broadens from the morning snapshot while WTI rises $1.22 but retains a steep displayed decline; timestamps, baselines, feeds, and contract identifiers require reconciliation. Several links are indirect or mismatched, and political, legal, military, climate, public-health, market, technology, bankruptcy, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-06] ingest | Morning Dispatch — Tuesday, October 6, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-06-daytime-dispatch.md`
 - Summary: October 6 morning dispatch — Supreme Court climate-litigation scrutiny, Philippine El Niño calamity declarations and power-price pressure, Sara Duterte's impeachment trial, MCP agent-interoperability risk, Reflection AI's Beam model, a concentrated semiconductor-led rally, a 7.55% mortgage quote, and WTI at $87.50.

@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-06
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 36
+source_count: 37
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 36
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-noon.md) — Tracks El Niño calamity declarations across more than 100 areas, prospective retail participation in the GCash IPO, and calls for a larger PhilHealth budget.
 
 - [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Tracks El Niño calamity declarations across more than 100 areas, Sara Duterte's impeachment trial, and warnings that heat and drought could raise power demand and electricity prices.
 
