@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-06] ingest | Morning Dispatch — Tuesday, October 6, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-06-daytime-dispatch.md`
+- Summary: October 6 morning dispatch — Supreme Court climate-litigation scrutiny, Philippine El Niño calamity declarations and power-price pressure, Sara Duterte's impeachment trial, MCP agent-interoperability risk, Reflection AI's Beam model, a concentrated semiconductor-led rally, a 7.55% mortgage quote, and WTI at $87.50.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-06-daytime.md` (new); entity pages `philippines`, `us-supreme-court`, `reflection-ai`, `wti`; concept pages `agentic-ai-security`, `open-weights-ai`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Most of the market board repeats the midnight snapshot, but WTI falls $2.30 and its displayed decline steepens; timestamps, baselines, feeds, and contract identifiers require reconciliation. Political, legal, climate, market, technology, bankruptcy, health, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-06] ingest | Midnight Dispatch — Tuesday, October 6, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-06-midnight-dispatch.md`
 - Summary: October 6 midnight dispatch — Supreme Court climate-litigation scrutiny, Colorado River scarcity, Sara Duterte's impeachment trial and inflation concerns, MCP agent-interoperability risk, Reflection AI's Beam model, concentrated semiconductor-led gains, a 7.55% mortgage quote, and WTI at $89.80.

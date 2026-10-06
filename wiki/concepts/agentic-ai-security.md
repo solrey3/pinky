@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-05
 updated: 2026-10-06
 tags: [ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability]
-source_count: 17
+source_count: 18
 ---
 
 # Agentic AI Security
@@ -13,6 +13,8 @@ source_count: 17
 The security discipline for AI systems that can take actions through tools, networks, credentials, or external services. It treats model behavior as only one control layer: safe operation also requires explicit authorization, least privilege, isolated environments, identity controls, action logging, rate limits, and reliable shutdown mechanisms.
 
 ## Sources
+
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Repeats that MCP agent interoperability expands trust boundaries around peer identity, capabilities, authorization, message integrity, delegation, revocation, and action logs.
 
 - [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — MCP agent-to-agent communication expands the trust boundary to peer identity, scoped capabilities, message integrity, delegation, revocation, and end-to-end action logs.
 

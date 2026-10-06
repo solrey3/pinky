@@ -5,7 +5,7 @@ type: concept
 created: 2026-06-17
 updated: 2026-10-06
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 40
+source_count: 41
 ---
 
 # Open-Weights AI
@@ -13,6 +13,8 @@ source_count: 40
 AI models whose trained weights are released for outside use, inspection, adaptation, or local deployment, even when the training data and full training process may not be open. Open weights matter because they change who can run, audit, fine-tune, and operationalize model capabilities.
 
 ## Sources
+
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Repeats Reflection AI's reported 501B Beam release, keeping license terms, provenance, inference cost, safety, and independent testing ahead of parameter count.
 
 - [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Repeats Reflection AI's 501B Beam launch, keeping license terms, provenance, evaluations, inference cost, and independent testing ahead of parameter count.
 

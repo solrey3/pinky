@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-06-daytime](sources/newsletter-2026-10-06-daytime.md) | Morning Dispatch — Tuesday, October 6, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, impeachment, el-nino, supreme-court, climate-litigation, agentic-ai-security, open-weights-ai, semiconductors, bonds, oil, sports, wrestling] | 2026-10-06 |
 | [newsletter-2026-10-06-midnight](sources/newsletter-2026-10-06-midnight.md) | Midnight Dispatch — Tuesday, October 6, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, impeachment, supreme-court, climate-litigation, colorado-river, agentic-ai-security, open-weights-ai, semiconductors, bonds, oil, sports, wrestling] | 2026-10-06 |
 | [newsletter-2026-10-05-evening](sources/newsletter-2026-10-05-evening.md) | Evening Brief — Monday, October 5, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, supreme-court, colorado-river, open-weights-ai, ai-science, semiconductors, bonds, oil, sports, wrestling] | 2026-10-05 |
 | [newsletter-2026-10-05-noon](sources/newsletter-2026-10-05-noon.md) | Noon Dispatch — Monday, October 5, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, impeachment, ai-governance, wearable-ai, grapheneos, cloudflare, bonds, oil, sports, wrestling] | 2026-10-05 |
