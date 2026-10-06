@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-06] ingest | Evening Brief — Tuesday, October 6, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-06-evening-dispatch.md`
+- Summary: October 6 evening brief — Bab al-Mandab fighting, Supreme Court climate scrutiny, Philippine–Polish legal cooperation and ICC proceedings, the reported Paramount–Warner closing, Mistral Large 4, a broad technology-led rally, a 7.55% mortgage quote, and WTI at $89.91.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-06-evening.md` (new); entity pages `philippines`, `us-supreme-court`, `paramount-skydance`, `mistral-ai`, `wti`; concept pages `digital-media-consolidation`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The rally narrowed from noon while WTI rose $1.19 but retained a displayed decline; timestamps, baselines, feeds, and contract identifiers require reconciliation. Several links are indirect, mismatched, or internally dated inconsistently, and political, legal, military, climate, cybersecurity, merger, market, technology, health, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-06] ingest | Noon Dispatch — Tuesday, October 6, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-06-noon-dispatch.md`
 - Summary: October 6 noon dispatch — Bab al-Mandeb fighting, Supreme Court climate-litigation scrutiny, Philippine El Niño calamity declarations, reported OpenAI-agent activity against Wikimedia, Mistral Large 4 and Polars 2.0 releases, a broad technology-led rally, a 7.55% mortgage quote, and WTI at $88.72.
