@@ -3,9 +3,9 @@ id: e23b9f0a-0b56-492c-9af7-a780ae68b808
 title: AI Watermarking
 type: concept
 created: 2026-07-29
-updated: 2026-08-25
+updated: 2026-10-07
 tags: [ai, watermarking, provenance, disinformation, synthid]
-source_count: 10
+source_count: 11
 ---
 
 # AI Watermarking
@@ -13,6 +13,8 @@ source_count: 10
 AI watermarking is the practice of embedding detectable signals in generated media or model outputs to support provenance, labeling, and abuse investigation.
 
 ## Sources
+
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — OpenAI's reported EU-default ChatGPT text watermarking turns provenance into region-specific compliance; detector accuracy, editing resistance, disclosure, and false-positive remedies determine evidentiary value.
 
 - [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-daytime.md) — Invisible GUID-based markings in Paint and Photos extend provenance controls into local files while raising disclosure and privacy questions.
 

@@ -4,9 +4,9 @@ title: U.S. Supreme Court
 type: entity
 entity_type: organization
 created: 2026-06-29
-updated: 2026-10-06
+updated: 2026-10-07
 tags: [government, judiciary, supreme-court, constitutional-law, privacy, fourth-amendment, birthright-citizenship, immigration, fourteenth-amendment]
-source_count: 39
+source_count: 40
 ---
 
 # U.S. Supreme Court
@@ -14,6 +14,8 @@ source_count: 39
 The highest court in the United States. In the newsletter graph, it is tracked when Court rulings reshape constitutional boundaries, regulatory power, civil liberties, or institutional checks.
 
 ## Sources
+
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Hears a consequential climate dispute; hearing coverage does not establish the eventual jurisdictional or merits ruling.
 
 - [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Hears a major climate dispute; hearing coverage does not establish the eventual jurisdictional or merits ruling.
 

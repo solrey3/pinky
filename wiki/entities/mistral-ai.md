@@ -4,9 +4,9 @@ title: Mistral AI
 type: entity
 entity_type: organization
 created: 2026-08-04
-updated: 2026-10-06
+updated: 2026-10-07
 tags: [ai, llm, open-weights, france, moderation, browser-ai, privacy]
-source_count: 5
+source_count: 6
 ---
 
 # Mistral AI
@@ -14,6 +14,8 @@ source_count: 5
 Mistral AI is an AI lab; this source records its Shieldstral 3B open-weights multimodal moderation model.
 
 ## Sources
+
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Mistral Large 4 again draws technical attention without independent capability, efficiency, licensing, or deployment evidence.
 
 - [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Mistral Large 4 again leads technical attention without independent capability, efficiency, licensing, or deployment evidence.
 

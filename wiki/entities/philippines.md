@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-10-06
+updated: 2026-10-07
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 38
+source_count: 39
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 38
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Tracks unemployment reported at 2.77 million in August, continuing coverage of Sara Duterte's impeachment trial, and DICT Secretary Henry Aguda's denial of resignation rumors.
 
 - [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Tracks a mutual legal-assistance pact with Poland, the ICC prosecutor's objection to an evidence-disclosure cap in Rodrigo Duterte's case, and prospective retail participation in the GCash IPO.
 

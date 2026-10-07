@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-07] ingest | Midnight Dispatch — Wednesday, October 7, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-07-midnight-dispatch.md`
+- Summary: October 7 midnight dispatch — Bab al-Mandab fighting, Supreme Court climate scrutiny, Philippine labor and impeachment developments, reported EU-default ChatGPT watermarking, post-merger streaming unification, Mistral Large 4, a technology-led rally, a 7.52% mortgage quote, and WTI at $90.19.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-07-midnight.md` (new); entity pages `philippines`, `us-supreme-court`, `openai`, `paramount-skydance`, `mistral-ai`, `wti`; concept pages `ai-watermarking`, `digital-media-consolidation`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Most of the market board repeats the prior evening snapshot, while WTI rises $0.28 with a changed displayed decline and the mortgage quote falls three basis points; timestamps, baselines, feeds, and contract identifiers require reconciliation. The OpenAI link is a technical paper rather than rollout confirmation, and political, legal, military, climate, labor, technology, merger, market, health, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-06] ingest | Evening Brief — Tuesday, October 6, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-06-evening-dispatch.md`
 - Summary: October 6 evening brief — Bab al-Mandab fighting, Supreme Court climate scrutiny, Philippine–Polish legal cooperation and ICC proceedings, the reported Paramount–Warner closing, Mistral Large 4, a broad technology-led rally, a 7.55% mortgage quote, and WTI at $89.91.
