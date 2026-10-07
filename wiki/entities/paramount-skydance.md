@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-25
 updated: 2026-10-07
 tags: [media, entertainment, merger, consolidation, antitrust]
-source_count: 3
+source_count: 4
 ---
 
 # Paramount Skydance
@@ -14,6 +14,8 @@ source_count: 3
 Combined media company tracked through the Warner Bros. Discovery acquisition, its antitrust process, and post-closing integration.
 
 ## Sources
+
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Carries conflicting reports that three streaming services will unify while HBO Max and Paramount+ may remain separate brands; primary integration plans are needed.
 
 - [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Reportedly plans to unify HBO Max, Paramount+, and Discovery+, making pricing, account migration, catalog control, and distribution power the next integration tests.
 

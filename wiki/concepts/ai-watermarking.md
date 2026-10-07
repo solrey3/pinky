@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-29
 updated: 2026-10-07
 tags: [ai, watermarking, provenance, disinformation, synthid]
-source_count: 11
+source_count: 12
 ---
 
 # AI Watermarking
@@ -13,6 +13,8 @@ source_count: 11
 AI watermarking is the practice of embedding detectable signals in generated media or model outputs to support provenance, labeling, and abuse investigation.
 
 ## Sources
+
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Pairs reported EU-default ChatGPT text watermarking with a Philippine synthetic-image warning; rollout evidence, detector access, durability, and false-positive remedies remain decisive.
 
 - [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — OpenAI's reported EU-default ChatGPT text watermarking turns provenance into region-specific compliance; detector accuracy, editing resistance, disclosure, and false-positive remedies determine evidentiary value.
 

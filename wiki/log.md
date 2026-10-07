@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-07] ingest | Morning Dispatch — Wednesday, October 7, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-07-daytime-dispatch.md`
+- Summary: October 7 morning dispatch — lower reported Philippine unemployment, synthetic Duterte imagery, open-weight model competition, reported EU-default ChatGPT watermarking, conflicting streaming-integration signals, a technology-led rally, a 7.52% mortgage quote, and WTI at $89.98.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-07-daytime.md` (new); entity pages `philippines`, `openai`, `paramount-skydance`, `wti`; concept pages `synthetic-imagery-provenance`, `ai-watermarking`, `open-weights-ai`, `digital-media-consolidation`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market board repeats the midnight snapshot except WTI falls $0.21 and its displayed decline changes; timestamps, baselines, feeds, and contract identifiers require reconciliation. Streaming items conflict on whether the combined services will become one consumer product or retain separate brands, the OpenAI link is a technical paper rather than rollout confirmation, and political, legal, military, labor, housing, technology, merger, market, health, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-07] ingest | Midnight Dispatch — Wednesday, October 7, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-07-midnight-dispatch.md`
 - Summary: October 7 midnight dispatch — Bab al-Mandab fighting, Supreme Court climate scrutiny, Philippine labor and impeachment developments, reported EU-default ChatGPT watermarking, post-merger streaming unification, Mistral Large 4, a technology-led rally, a 7.52% mortgage quote, and WTI at $90.19.

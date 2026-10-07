@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-01
 updated: 2026-10-07
 tags: [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership]
-source_count: 28
+source_count: 29
 ---
 
 # Digital Media Consolidation
@@ -13,6 +13,8 @@ source_count: 28
 Digital media consolidation is the concentration of content ownership, distribution channels, and platform control in fewer companies or ecosystems. It matters because distribution control can shape access, pricing, discovery, preservation, and regulatory concern.
 
 ## Sources
+
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Conflicting reports predict service unification while allowing separate HBO Max and Paramount+ brands, showing that ownership consolidation need not map cleanly to one consumer storefront.
 
 - [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Reported plans to unify HBO Max, Paramount+, and Discovery+ provide an early post-closing integration signal and raise pricing, migration, catalog, and distribution-power questions.
 

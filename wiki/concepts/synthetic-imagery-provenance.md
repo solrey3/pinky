@@ -3,9 +3,9 @@ id: e1c2b169-42c4-420e-bf12-72943f95d92c
 title: Synthetic Imagery Provenance
 type: concept
 created: 2026-07-31
-updated: 2026-09-16
+updated: 2026-10-07
 tags: [ai, synthetic-media, satellite-imagery, maps, provenance, trust, photography, verification]
-source_count: 2
+source_count: 3
 ---
 
 # Synthetic Imagery Provenance
@@ -13,6 +13,8 @@ source_count: 2
 Synthetic imagery provenance is the practice of labeling, tracing, and constraining AI-generated or AI-altered images so users can distinguish observed imagery from generated artifacts.
 
 ## Sources
+
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — A fabricated Duterte-family image illustrates how unlabeled synthetic political imagery can distort identity and public understanding, requiring source verification beyond visual plausibility.
 
 - [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — Apple's Reference Image proposal shifts provenance from labeling synthetic output toward verifying an authentic photographic reference.
 
