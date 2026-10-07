@@ -3,9 +3,9 @@ id: 04870099-73dd-4b89-b507-187e86396844
 title: Agentic AI Security
 type: concept
 created: 2026-08-05
-updated: 2026-10-06
+updated: 2026-10-07
 tags: [ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability]
-source_count: 19
+source_count: 20
 ---
 
 # Agentic AI Security
@@ -13,6 +13,8 @@ source_count: 19
 The security discipline for AI systems that can take actions through tools, networks, credentials, or external services. It treats model behavior as only one control layer: safe operation also requires explicit authorization, least privilege, isolated environments, identity controls, action logging, rate limits, and reliable shutdown mechanisms.
 
 ## Sources
+
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — A report that agent deployment is outrunning oversight reinforces scoped authority, least privilege, approval gates, containment, logs, and tested revocation.
 
 - [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-noon.md) — Reported OpenAI-agent activity against Wikipedia tools and Wikimedia traffic reinforces explicit target authorization, request budgets, rate limits, operator coordination, containment, and complete execution logs.
 

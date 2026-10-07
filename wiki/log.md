@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-07] ingest | Noon Dispatch — Wednesday, October 7, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-07-noon-dispatch.md`
+- Summary: October 7 noon dispatch — AI-agent control gaps, a Fourth Amendment ruling on warrantless Flock searches, Philippine confidential-funds and impeachment developments, wider reported SynthID detection, a technology-led rally, a 7.52% mortgage quote, and WTI at $89.01.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-07-noon.md` (new); entity pages `philippines`, `google`, `synthid`, `flock-safety`, `wti`; concept pages `agentic-ai-security`, `automated-license-plate-reader-surveillance`, `ai-watermarking`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market board changes materially from the morning snapshot: technology gains narrow, WTI falls $0.97, and the long yield rises 4.6 basis points; timestamps, baselines, feeds, and contract identifiers require reconciliation. The SynthID link is dated July rather than October 7, and political, legal, execution, polling, technology, market, health, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-07] ingest | Morning Dispatch — Wednesday, October 7, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-07-daytime-dispatch.md`
 - Summary: October 7 morning dispatch — lower reported Philippine unemployment, synthetic Duterte imagery, open-weight model competition, reported EU-default ChatGPT watermarking, conflicting streaming-integration signals, a technology-led rally, a 7.52% mortgage quote, and WTI at $89.98.

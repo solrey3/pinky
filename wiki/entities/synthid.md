@@ -4,9 +4,9 @@ title: SynthID
 type: entity
 entity_type: product
 created: 2026-07-29
-updated: 2026-07-29
+updated: 2026-10-07
 tags: [ai, watermarking, google, provenance, disinformation]
-source_count: 1
+source_count: 2
 ---
 
 # SynthID
@@ -14,6 +14,8 @@ source_count: 1
 SynthID is Google's AI watermarking and provenance technology, tracked when generated-media labeling and disinformation controls enter the graph.
 
 ## Sources
+
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Reports wider detector availability, while the older linked article leaves rollout timing, supported media, durability, and false-positive handling to primary confirmation.
 
 - [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Ars Technica frames SynthID as hard to break and increasingly adopted, but insufficient by itself to solve AI disinformation.
 

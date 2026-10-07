@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-07-noon](sources/newsletter-2026-10-07-noon.md) | Noon Dispatch — Wednesday, October 7, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, impeachment, agentic-ai-security, surveillance, ai-watermarking, jpeg-xl, bonds, oil, sports, wrestling] | 2026-10-07 |
 | [newsletter-2026-10-07-daytime](sources/newsletter-2026-10-07-daytime.md) | Morning Dispatch — Wednesday, October 7, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, labor-market, synthetic-media, ai-watermarking, open-weights-ai, media-consolidation, semiconductors, bonds, oil, sports, wrestling] | 2026-10-07 |
 | [newsletter-2026-10-07-midnight](sources/newsletter-2026-10-07-midnight.md) | Midnight Dispatch — Wednesday, October 7, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, impeachment, supreme-court, climate-litigation, ai-watermarking, media-consolidation, mistral, semiconductors, bonds, oil, sports, wrestling] | 2026-10-07 |
 | [newsletter-2026-10-06-evening](sources/newsletter-2026-10-06-evening.md) | Evening Brief — Tuesday, October 6, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, supreme-court, climate-litigation, media-consolidation, mistral, semiconductors, bonds, oil, sports, wrestling] | 2026-10-06 |
@@ -1101,7 +1102,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
 | [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 13 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
-| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 40 |
+| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 41 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
 | [New York](entities/new-york.md) | place | new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states | 7 |
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
@@ -1219,7 +1220,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 154 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 155 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1315,7 +1316,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Cloudflare](entities/cloudflare.md) | organization | cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control, post-quantum-cryptography, tls | 8 |
 | [Electronic Frontier Foundation](entities/electronic-frontier-foundation.md) | organization | privacy, digital-rights, civil-liberties, advocacy, security, ftc | 1 |
 | [Palantir](entities/palantir.md) | organization | technology, data-platforms, ai, surveillance, procurement, sovereignty | 3 |
-| [Google](entities/google.md) | organization | technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store, advertising | 57 |
+| [Google](entities/google.md) | organization | technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store, advertising | 62 |
 | [Google DeepMind](entities/google-deepmind.md) | organization | ai, robotics, google, research, deepmind, genomics | 9 |
 | [Hugging Face](entities/hugging-face.md) | organization | ai, open-source, model-hub, evaluation, security, models | 19 |
 | [JFrog](entities/jfrog.md) | organization | cybersecurity, software-supply-chain, vulnerability-research, ai-security | 1 |
@@ -1618,7 +1619,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Climate.gov](entities/climate-gov.md) | product | climate, open-data, archive, public-data | 1 |
 | [GigaToken](entities/gigatoken.md) | product | ai, tokenization, llm, performance, developer-tools | 1 |
 | [Fairphone](entities/fairphone.md) | organization | technology, smartphones, repairability, sustainability | 1 |
-| [Flock Safety](entities/flock-safety.md) | organization | surveillance, law-enforcement, license-plate-readers, privacy, policing | 27 |
+| [Flock Safety](entities/flock-safety.md) | organization | surveillance, law-enforcement, license-plate-readers, privacy, policing | 30 |
 | [Claude Opus 5](entities/claude-opus-5.md) | product | ai, llm, anthropic, claude, model-release, frontier-models | 4 |
 | [Hanwha](entities/hanwha.md) | organization | hardware, security-cameras, github, credentials, cybersecurity | 2 |
 | [AlphaFold](entities/alphafold.md) | product | ai, biology, protein-folding, google-deepmind, gene-editing | 2 |
@@ -1640,7 +1641,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [JetBlue](entities/jetblue.md) | organization | airlines, travel, business | 2 |
 | [NBCUniversal](entities/nbcuniversal.md) | organization | media, streaming, business | 2 |
 | [Peacock](entities/peacock.md) | product | streaming, media, nbcuniversal | 1 |
-| [SynthID](entities/synthid.md) | product | ai, watermarking, google, provenance, disinformation | 1 |
+| [SynthID](entities/synthid.md) | product | ai, watermarking, google, provenance, disinformation | 2 |
 | [Microsoft Copilot](entities/microsoft-copilot.md) | product | ai, microsoft, office, word, security, productivity | 2 |
 | [Nike](entities/nike.md) | organization | retail, apparel, china, consumer, earnings | 6 |
 | [Humana](entities/humana.md) | organization | healthcare, insurance, managed-care, earnings | 1 |
@@ -1712,7 +1713,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Data Residency](concepts/data-residency.md) | privacy, cloud, compliance, jurisdiction, data-governance | 1 |
 | [Human-in-the-Loop AI Education](concepts/human-in-the-loop-ai-education.md) | ai, education, tutoring, teachers, human-oversight | 1 |
 | [AI Weather Forecasting](concepts/ai-weather-forecasting.md) | ai, weather, forecasting, cyclones, climate, resilience | 2 |
-| [Automated License-Plate Reader Surveillance](concepts/automated-license-plate-reader-surveillance.md) | surveillance, privacy, law-enforcement, alpr, data-quality, access-control | 35 |
+| [Automated License-Plate Reader Surveillance](concepts/automated-license-plate-reader-surveillance.md) | surveillance, privacy, law-enforcement, alpr, data-quality, access-control | 38 |
 | [Immigration Enforcement Escalation](concepts/immigration-enforcement-escalation.md) | immigration, border-policy, enforcement, airports, migration | 11 |
 | [Synthetic Imagery Provenance](concepts/synthetic-imagery-provenance.md) | ai, synthetic-media, satellite-imagery, maps, provenance, trust, photography, verification | 3 |
 | [Western Water Scarcity](concepts/western-water-scarcity.md) | [water, drought, climate, infrastructure, federal-policy, allocation, western-us] | 5 |
@@ -1814,10 +1815,10 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 379 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 380 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
-| [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability | 19 |
+| [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability | 20 |
 | [Score Effects](concepts/score-effects.md) | [basketball, nba, analytics, game-theory, statistics] | 1 |
 | ["Security & Privacy Toolkit"](concepts/security-and-privacy-toolkit.md) | [security, privacy, vpn, encryption, pentesting, osint, disclosure, ai-safety, linux, developer-infrastructure, facial-recognition, influence-operations, platform-security, cybercrime, enterprise-security, media-security, evidence-integrity, statistical-privacy, supply-chain-security, social-engineering, mobile-security, coding-assistants, local-ai, secure-boot, aur, hardware-security, memory-encryption, android, firmware, cryptocurrency-malware, repository-discovery, agentic-access-control, memory-safety, identity-verification, autonomous-vehicles, logging, jellyfin, rce, openai-daybreak, ai-hiring-bias, automated-decision-systems, post-quantum-cryptography, vulnerability-disclosure, telecom-identity, computer-use, model-extraction, data-center-security, zero-days, ai-browsers, prompt-steganography, citrixbleed] | 112 |
 | [Surveillance Pricing](concepts/surveillance-pricing.md) | [privacy, consumer-protection, pricing, retail, surveillance, new-jersey] | 1 |
@@ -1855,7 +1856,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Social Media Research Access](concepts/social-media-research-access.md) | [platforms, research, open-data, governance] | 2 |
 
 | [Document-Borne AI Worms](concepts/document-borne-ai-worms.md) | [ai, security, office-documents, worms, microsoft-copilot, prompt-injection] | 2 |
-| [AI Watermarking](concepts/ai-watermarking.md) | [ai, watermarking, provenance, disinformation, synthid] | 12 |
+| [AI Watermarking](concepts/ai-watermarking.md) | [ai, watermarking, provenance, disinformation, synthid] | 13 |
 | [Digital Border Searches](concepts/digital-border-searches.md) | [privacy, civil-liberties, border-searches, devices, fourth-amendment] | 1 |
 | [Critical Infrastructure Cybersecurity](concepts/critical-infrastructure-cybersecurity.md) | [cybersecurity, critical-infrastructure, utilities, water-systems, resilience, public-sector, offensive-cyber] | 15 |
 | [Groundwater Contamination](concepts/groundwater-contamination.md) | [environment, public-health, groundwater, pfas, benzene, testing, new-jersey] | 2 |
