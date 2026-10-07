@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-07
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 41
+source_count: 42
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 41
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Tracks calls for stronger primary and preventive care, Sara Duterte's continuing impeachment trial, and a jeepney driver's death during a transport strike.
 
 - [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Tracks COA's reported final ₱73 million OVP confidential-funds disallowance and prosecutors' plan to add it to Sara Duterte's impeachment case.
 

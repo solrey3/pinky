@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-07] ingest | Evening Brief — Wednesday, October 7, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-07-evening-dispatch.md`
+- Summary: October 7 evening brief — reported Treasury strain, Philippine preventive-care and impeachment developments, an open-weight model wave, Claude Haiku 5.5, GPT-6, a technology-led rally, a 7.52% mortgage quote, and WTI at $88.94.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-07-evening.md` (new); entity pages `philippines`, `us-treasury`, `anthropic`, `openai`, `wti`; concept pages `open-weights-ai`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Technology leadership widened from noon while WTI fell $0.07 and the long yield eased 2.6 basis points; timestamps, baselines, feeds, and contract identifiers require reconciliation. The TP-Link link is dated March rather than October 7, several sports links or schedule rows appear indirect or temporally inconsistent, and political, legal, terrorism, war, health, labor, technology, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-07] ingest | Noon Dispatch — Wednesday, October 7, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-07-noon-dispatch.md`
 - Summary: October 7 noon dispatch — AI-agent control gaps, a Fourth Amendment ruling on warrantless Flock searches, Philippine confidential-funds and impeachment developments, wider reported SynthID detection, a technology-led rally, a 7.52% mortgage quote, and WTI at $89.01.
