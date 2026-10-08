@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-08] ingest | Midnight Dispatch — Thursday, October 8, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-08-midnight-dispatch.md`
+- Summary: October 8 midnight dispatch — Treasury strain, Philippine investment diplomacy, impeachment and indigenous-rights developments, open-weight competition, Claude Haiku 5.5, resurfaced Microsoft AI-PC coverage, a technology-led rally, a 7.55% mortgage quote, and WTI at $89.77.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-08-midnight.md` (new); entity pages `philippines`, `anthropic`, `microsoft`, `wti`; concept pages `open-weights-ai`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Major-index closes and the long yield repeat the prior evening snapshot while WTI and Bitcoin move materially and the mortgage quote rises three basis points; timestamps, baselines, feeds, and contract identifiers require reconciliation. The Microsoft link is dated June rather than October 8, several sports links are indirect, and political, legal, regulatory, war, health, technology, market, death, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-07] ingest | Evening Brief — Wednesday, October 7, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-07-evening-dispatch.md`
 - Summary: October 7 evening brief — reported Treasury strain, Philippine preventive-care and impeachment developments, an open-weight model wave, Claude Haiku 5.5, GPT-6, a technology-led rally, a 7.52% mortgage quote, and WTI at $88.94.

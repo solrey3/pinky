@@ -3,9 +3,9 @@ id: c27585f1-5af8-49c3-aeb9-7c4b2bc9a0dc
 title: Open-Weights AI
 type: concept
 created: 2026-06-17
-updated: 2026-10-07
+updated: 2026-10-08
 tags: [ai, llm, open-weights, model-evaluation, local-ai, artificial-analysis, sovereign-ai, inference-optimization, speculative-decoding, hugging-face]
-source_count: 43
+source_count: 44
 ---
 
 # Open-Weights AI
@@ -13,6 +13,8 @@ source_count: 43
 AI models whose trained weights are released for outside use, inspection, adaptation, or local deployment, even when the training data and full training process may not be open. Open weights matter because they change who can run, audit, fine-tune, and operationalize model capabilities.
 
 ## Sources
+
+- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Repeats the competitive-disruption thesis while preserving license, provenance, evaluation, serving-cost, hardware, ecosystem, and availability questions as the meaningful test.
 
 - [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Repeats the disruptive-model-wave thesis while keeping licenses, provenance, independent evaluations, serving economics, hardware needs, and actual availability central to comparison.
 
