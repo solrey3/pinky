@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-08] ingest | Noon Dispatch — Thursday, October 8, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-08-noon-dispatch.md`
+- Summary: October 8 noon dispatch — AI-infrastructure debt, Canadian steel layoffs under tariff pressure, Philippine foreign-divorce, ICC, Taal, and ASEAN-grid developments, Nvidia physical-AI safety systems, a divided technology-led rally, a 7.55% mortgage quote, and WTI at $92.88.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-08-noon.md` (new); entity pages `philippines`, `nvidia`, `wti`; concept pages `tariff-policy`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Major-index gains narrow from the morning snapshot while WTI rises $0.96 and Bitcoin falls another $2,034.96; timestamps, baselines, feeds, and contract identifiers require reconciliation. Several sports links are indirect or mismatched, and political, legal, trade, volcanic, technology, market, health, injury, death, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-08] ingest | Morning Dispatch — Thursday, October 8, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-08-daytime-dispatch.md`
 - Summary: October 8 morning dispatch — Treasury strain, Philippine impeachment, foreign-divorce and disability-ID developments, political-AI call regulation, Claude Haiku 5.5, resurfaced Microsoft AI-PC coverage, a technology-led rally, a 7.55% mortgage quote, and WTI at $91.92.

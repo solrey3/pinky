@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-08
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 44
+source_count: 45
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 44
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-noon.md) — Tracks easier recognition of foreign divorces, Rodrigo Duterte's fitness for ICC trial, Taal-area evacuations, and ASEAN power-grid integration.
 
 - [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Tracks Sara Duterte's impeachment trial, a ruling easing recognition of foreign divorces, and the DOJ's warning over six million unaccounted disability IDs.
 
