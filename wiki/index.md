@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-08-evening](sources/newsletter-2026-10-08-evening.md) | Evening Brief — Thursday, October 8, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, icc, logistics, certificate-automation, google, small-models, bonds, bitcoin, oil, sports, wrestling] | 2026-10-08 |
 | [newsletter-2026-10-08-noon](sources/newsletter-2026-10-08-noon.md) | Noon Dispatch — Thursday, October 8, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, foreign-divorce, icc, taal, asean, physical-ai, tariffs, bonds, oil, sports, wrestling] | 2026-10-08 |
 | [newsletter-2026-10-08-daytime](sources/newsletter-2026-10-08-daytime.md) | Morning Dispatch — Thursday, October 8, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, impeachment, foreign-divorce, disability-ids, political-ai, anthropic, microsoft, bonds, oil, sports, wrestling] | 2026-10-08 |
 | [newsletter-2026-10-08-midnight](sources/newsletter-2026-10-08-midnight.md) | Midnight Dispatch — Thursday, October 8, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, impeachment, indigenous-rights, open-weights-ai, anthropic, microsoft, bonds, oil, sports, wrestling] | 2026-10-08 |
@@ -549,6 +550,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ## Entities
 
+| [Let's Encrypt](entities/lets-encrypt.md) | organization | security, tls, certificates, acme, automation, nonprofit | 1 |
 | [Karl Popper](entities/karl-popper.md) | person | philosopher, science, epistemology, falsifiability, critical-rationalism | 1 |
 | [David Hume](entities/david-hume.md) | person | philosopher, epistemology, induction, empiricism | 1 |
 | [Vienna Circle](entities/vienna-circle.md) | organization | philosophy, logical-positivism, verification, science | 1 |
@@ -1697,6 +1699,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 | Concept | Tags | Sources |
 | --- | --- | --- |
+| [Certificate Lifecycle Automation](concepts/certificate-lifecycle-automation.md) | security, tls, certificates, acme, automation, operations | 1 |
 | [Tokenized Securities](concepts/tokenized-securities.md) | finance, securities, tokenization, blockchain, settlement, regulation | 2 |
 | [Agentic Commerce](concepts/agentic-commerce.md) | ai, agents, payments, commerce, authorization, identity | 3 |
 | [Ternary Language Models](concepts/ternary-language-models.md) | ai, llm, quantization, ternary-models, model-compression, inference-efficiency | 1 |
