@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-08-daytime](sources/newsletter-2026-10-08-daytime.md) | Morning Dispatch — Thursday, October 8, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, impeachment, foreign-divorce, disability-ids, political-ai, anthropic, microsoft, bonds, oil, sports, wrestling] | 2026-10-08 |
 | [newsletter-2026-10-08-midnight](sources/newsletter-2026-10-08-midnight.md) | Midnight Dispatch — Thursday, October 8, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, impeachment, indigenous-rights, open-weights-ai, anthropic, microsoft, bonds, oil, sports, wrestling] | 2026-10-08 |
 | [newsletter-2026-10-07-evening](sources/newsletter-2026-10-07-evening.md) | Evening Brief — Wednesday, October 7, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, impeachment, preventive-care, open-weights-ai, treasury, bonds, oil, sports, wrestling] | 2026-10-07 |
 | [newsletter-2026-10-07-noon](sources/newsletter-2026-10-07-noon.md) | Noon Dispatch — Wednesday, October 7, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, impeachment, agentic-ai-security, surveillance, ai-watermarking, jpeg-xl, bonds, oil, sports, wrestling] | 2026-10-07 |

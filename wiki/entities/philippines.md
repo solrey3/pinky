@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-08
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 43
+source_count: 44
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 43
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Tracks Sara Duterte's impeachment trial, a ruling easing recognition of foreign divorces, and the DOJ's warning over six million unaccounted disability IDs.
 
 - [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Tracks Marcos's Singapore investment and regional talks, Sara Duterte's impeachment proceedings, and the Ombudsman's statement that indigenous peoples' rights must be protected in government projects.
 
