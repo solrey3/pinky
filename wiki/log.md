@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-09] ingest | Midnight Dispatch — Friday, October 9, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-09-midnight-dispatch.md`
+- Summary: October 9 midnight dispatch — Philippine ICC and impeachment proceedings, disputed OpenAI mathematics claims, SpaceX orbital-coordination concerns, prediction-market jurisdiction, large-cap gains against small-cap and Bitcoin weakness, a 7.54% mortgage quote, and WTI at $90.42.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-09-midnight.md` (new); entity pages `philippines`, `openai`, `spacex`, `wti`; concept pages `ai-assisted-scientific-discovery`, `prediction-markets`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Major-index prices and the long yield repeat the prior evening snapshot while WTI falls $0.76 and Bitcoin rises $701.98 despite both retaining their displayed directions; timestamps, baselines, feeds, and contract identifiers require reconciliation. Several sports links are indirect or mismatched, and political, legal, war, regulatory, technology, market, security, injury, death, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-08] ingest | Noon Dispatch — Thursday, October 8, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-08-noon-dispatch.md`
 - Summary: October 8 noon dispatch — AI-infrastructure debt, Canadian steel layoffs under tariff pressure, Philippine foreign-divorce, ICC, Taal, and ASEAN-grid developments, Nvidia physical-AI safety systems, a divided technology-led rally, a 7.55% mortgage quote, and WTI at $92.88.
