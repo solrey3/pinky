@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-09] ingest | Evening Brief — Friday, October 9, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-09-evening-dispatch.md`
+- Summary: October 9 evening brief — uneven postpandemic wealth gains, Philippine bribery-case, impeachment-livestream, and maritime developments, Deno joining Cloudflare, stronger large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.66.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-09-evening.md` (new); entity pages `philippines`, `cloudflare`, `deno`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Large-cap gains strengthen from noon while the Russell decline narrows, WTI falls $0.33 despite retaining a displayed gain, and Bitcoin falls another $245.67; timestamps, baselines, feeds, and contract identifiers require reconciliation. Several sports links are indirect or mismatched, and political, legal, military, technology, market, injury, death, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-09] ingest | Noon Dispatch — Friday, October 9, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-09-noon-dispatch.md`
 - Summary: October 9 noon dispatch — Philippine impeachment and Ayungin developments, a reported Microsoft immigration-sponsorship restriction, Deno joining Cloudflare, Treasury's crypto-reporting retreat, Anthropic's paused startup offer, narrowing large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.99.

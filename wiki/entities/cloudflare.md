@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-06-20
 updated: 2026-10-09
 tags: [cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control, post-quantum-cryptography, tls]
-source_count: 10
+source_count: 11
 ---
 
 # Cloudflare
@@ -14,6 +14,8 @@ source_count: 10
 Cloudflare is a cloud infrastructure and security company. In the newsletter graph, it matters as a platform operator whose networking, identity, and edge-compute decisions shape how automated systems get deployed and governed.
 
 ## Sources
+
+- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletter-2026-10-09-evening.md) — Repeats Deno's announcement that it is joining Cloudflare, reinforcing the runtime-to-edge-platform connection without adding confirmed governance or product terms.
 
 - [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Deno announces that it is joining Cloudflare, potentially connecting runtime stewardship and developer tooling directly to Cloudflare's edge platform.
 
