@@ -5,7 +5,7 @@ type: concept
 created: 2026-07-22
 updated: 2026-10-09
 tags: [markets, forecasting, elections, sports, kalshi, polymarket, probabilities, provenance, gambling-law]
-source_count: 74
+source_count: 75
 ---
 
 # Prediction Markets
@@ -13,6 +13,8 @@ source_count: 74
 Prediction markets are trading venues or market-like instruments that convert expectations about events into prices or probabilities. In this wiki they matter less as oracle machines than as sentiment, incentive, and provenance objects: the price can be useful, but only if the market source, liquidity, rules, extraction method, and failure modes are visible.
 
 ## Sources
+
+- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Repeats the NFL's preference for state oversight over CFTC authority, an advocacy position within the unresolved gambling-versus-derivatives classification dispute.
 
 - [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Reports that the NFL favors state oversight over CFTC authority, extending the dispute over whether sports-event contracts are gambling or federally regulated derivatives.
 

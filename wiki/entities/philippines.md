@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-09
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 47
+source_count: 48
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 47
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Tracks Rodrigo Duterte's fitness for ICC trial, a fatal Cebu City landslide, and proposed substitute buses along the capacity-constrained LRT-2 route.
 
 - [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Tracks Rodrigo Duterte's fitness for ICC trial, Sara Duterte's impeachment proceedings, a fatal Basilan ambush, and pork-industry demands for import restrictions.
 
