@@ -3,9 +3,9 @@ id: c6a0cae8-5786-482c-8249-643f7687db09
 title: Crypto Regulation
 type: concept
 created: 2026-07-12
-updated: 2026-09-16
+updated: 2026-10-09
 tags: [crypto, regulation, congress, digital-assets, financial-policy, markets]
-source_count: 7
+source_count: 8
 ---
 
 # Crypto Regulation
@@ -13,6 +13,8 @@ source_count: 7
 Crypto regulation is the policy effort to define how digital assets, exchanges, stablecoins, custody, disclosure, and market structure should be governed.
 
 ## Sources
+
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Treasury reportedly withdraws a cryptocurrency-surveillance proposal, illustrating administrative reversibility in digital-asset reporting and financial-privacy policy.
 
 - [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — The landmark bill's procedural defeat persists as the central signal that coalition risk can delay digital-asset market rules.
 
@@ -35,4 +37,4 @@ Crypto regulation is the policy effort to define how digital assets, exchanges, 
 
 ## Notes
 
-The August 22 reports show that market-structure legislation can move prices before final enactment because traders reprice expected compliance, access, and institutional participation. The September 15 procedural defeat adds the inverse case: legislative optimism remains fragile until a coalition can clear preliminary votes.
+The August 22 reports show that market-structure legislation can move prices before final enactment because traders reprice expected compliance, access, and institutional participation. The September 15 procedural defeat adds the inverse case: legislative optimism remains fragile until a coalition can clear preliminary votes. The October 9 Treasury retreat adds administrative reversibility: reporting and surveillance rules can shift without comprehensive market-structure legislation, leaving privacy and compliance expectations exposed to executive-policy change.

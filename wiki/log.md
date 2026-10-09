@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-09] ingest | Noon Dispatch — Friday, October 9, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-09-noon-dispatch.md`
+- Summary: October 9 noon dispatch — Philippine impeachment and Ayungin developments, a reported Microsoft immigration-sponsorship restriction, Deno joining Cloudflare, Treasury's crypto-reporting retreat, Anthropic's paused startup offer, narrowing large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.99.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-09-noon.md` (new); entity pages `philippines`, `microsoft`, `deno`, `cloudflare`, `anthropic`, `wti`; concept pages `immigration-enforcement-escalation`, `crypto-regulation`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market board changes materially from morning: large-cap gains narrow, Russell weakness deepens, chip shares turn sharply lower, WTI rises $1.38, and Bitcoin rises $99.38 despite retaining a displayed decline; timestamps, baselines, feeds, and contract identifiers require reconciliation. Several sports links are indirect or mismatched, and political, legal, military, regulatory, technology, market, injury, death, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-09] ingest | Morning Dispatch — Friday, October 9, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-09-daytime-dispatch.md`
 - Summary: October 9 morning dispatch — Philippine ICC, landslide, and LRT-2 developments, OpenAI employee-governance concerns, SpaceX orbital-coordination warnings, prediction-market jurisdiction, large-cap gains against small-cap and Bitcoin weakness, a 7.54% mortgage quote, and WTI at $90.61.

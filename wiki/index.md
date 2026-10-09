@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-09-noon](sources/newsletter-2026-10-09-noon.md) | Noon Dispatch — Friday, October 9, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, impeachment, microsoft, immigration, deno, cloudflare, crypto-regulation, anthropic, bonds, bitcoin, oil, sports, wrestling] | 2026-10-09 |
 | [newsletter-2026-10-09-daytime](sources/newsletter-2026-10-09-daytime.md) | Morning Dispatch — Friday, October 9, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, icc, openai, spacex, orbital-safety, prediction-markets, speech-to-text, bonds, bitcoin, oil, sports, wrestling] | 2026-10-09 |
 | [newsletter-2026-10-09-midnight](sources/newsletter-2026-10-09-midnight.md) | Midnight Dispatch — Friday, October 9, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, icc, impeachment, openai, ai-mathematics, spacex, orbital-safety, prediction-markets, bonds, bitcoin, oil, sports, wrestling] | 2026-10-09 |
 | [newsletter-2026-10-08-evening](sources/newsletter-2026-10-08-evening.md) | Evening Brief — Thursday, October 8, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, icc, logistics, certificate-automation, google, small-models, bonds, bitcoin, oil, sports, wrestling] | 2026-10-08 |
@@ -1110,7 +1111,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
 | [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 13 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
-| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 45 |
+| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 49 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
 | [New York](entities/new-york.md) | place | new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states | 7 |
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
@@ -1228,7 +1229,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 159 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 162 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1305,11 +1306,11 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Charles Schwab](entities/charles-schwab.md) | organization | finance, brokerage, markets, schw, brokerages, risk-assets, financials | 44 |
 | [AMD](entities/amd.md) | organization | technology, semiconductors, cpus, gpus, ai-chips, security, memory-encryption, ryzen, risk-on, risk-off, markets, ai-hardware | 146 |
 | [Android](entities/android.md) | product | android, mobile, operating-system, google, app-stores, sideloading, security | 10 |
-| [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation | 97 |
+| [Anthropic](entities/anthropic.md) | organization | ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation | 106 |
 | [Apple](entities/apple.md) | organization | technology, ai, apple, siri, apple-intelligence, macos, organization, security, firmware, beats, ios, swift, local-ai, image-provenance | 41 |
 | [Apertus](entities/apertus.md) | product | ai, open-foundation-model, open-weights, sovereign-ai, model-governance | 2 |
 | [Asahi Linux](entities/asahi-linux.md) | product | linux, apple-silicon, macos, operating-systems, developer-tools | 1 |
-| [Deno](entities/deno.md) | product | developer-tools, javascript, typescript, runtime, desktop, application-runtime | 1 |
+| [Deno](entities/deno.md) | product | developer-tools, javascript, typescript, runtime, desktop, application-runtime | 2 |
 | [DeepSeek](entities/deepseek.md) | organization | ai, llm, open-weights, inference, optimization, speculative-decoding, sovereign-ai, ai-chips, china | 5 |
 | [Flipper Zero](entities/flipper-zero.md) | product | hardware, hacking, security, embedded, developer-tools, radio, tooling | 1 |
 | [Arsenal FC](entities/arsenal.md) | organization | soccer, football, arsenal, premier-league, ucl, london, organization, sports | 23 |
@@ -1321,7 +1322,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [T-Mobile](entities/t-mobile.md) | organization | telecommunications, enterprise-it, cloud, virtualization, vmware, migration | 3 |
 | [Tenda](entities/tenda.md) | organization | networking, routers, firmware, security, backdoors, embedded-devices | 1 |
 | [Carolina Hurricanes](entities/carolina-hurricanes.md) | organization | nhl, hockey, carolina-hurricanes, stanley-cup, stanley-cup-champions | 28 |
-| [Cloudflare](entities/cloudflare.md) | organization | cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control, post-quantum-cryptography, tls | 8 |
+| [Cloudflare](entities/cloudflare.md) | organization | cloudflare, cloud, infrastructure, security, ai-agents, identity, access-control, post-quantum-cryptography, tls | 10 |
 | [Electronic Frontier Foundation](entities/electronic-frontier-foundation.md) | organization | privacy, digital-rights, civil-liberties, advocacy, security, ftc | 1 |
 | [Palantir](entities/palantir.md) | organization | technology, data-platforms, ai, surveillance, procurement, sovereignty | 3 |
 | [Google](entities/google.md) | organization | technology, ai, google, gemini, organization, live-translate, diffusiongemma, ai-liability, ai-overviews, cybercrime, scams, android, app-verification, ipv6, computer-use, play-store, advertising | 62 |
@@ -1338,7 +1339,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Iroh](entities/iroh.md) | product | developer-tools, networking, infrastructure, p2p, rust | 2 |
 | [LinkedIn](entities/linkedin.md) | organization | technology, social-network, professional-networking, security, social-engineering | 1 |
 | [Reddit](entities/reddit.md) | organization | social-media, platform, ai-search, google, markets, publisher-economics | 7 |
-| [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware | 44 |
+| [Microsoft](entities/microsoft.md) | organization | technology, ai, llm, microsoft, mai, coding-model, reasoning-model, organization, build-2026, linux, rtx-spark, quantum-computing, quantum-error-correction, atom-computing, supply-chain-security, github-copilot, cryptocurrency-malware | 47 |
 | [Mozilla Firefox](entities/mozilla-firefox.md) | product | browser, webassembly, developer-tools, open-web, runtime, ai, privacy | 2 |
 | [Modular](entities/modular.md) | organization | technology, ai, compilers, runtimes, ai-infrastructure, acquisition | 1 |
 | [NASA](entities/nasa.md) | organization | space, science, government, artemis, moon | 14 |
@@ -1723,7 +1724,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Human-in-the-Loop AI Education](concepts/human-in-the-loop-ai-education.md) | ai, education, tutoring, teachers, human-oversight | 1 |
 | [AI Weather Forecasting](concepts/ai-weather-forecasting.md) | ai, weather, forecasting, cyclones, climate, resilience | 2 |
 | [Automated License-Plate Reader Surveillance](concepts/automated-license-plate-reader-surveillance.md) | surveillance, privacy, law-enforcement, alpr, data-quality, access-control | 38 |
-| [Immigration Enforcement Escalation](concepts/immigration-enforcement-escalation.md) | immigration, border-policy, enforcement, airports, migration | 11 |
+| [Immigration Enforcement Escalation](concepts/immigration-enforcement-escalation.md) | immigration, border-policy, enforcement, airports, migration, military | 20 |
 | [Synthetic Imagery Provenance](concepts/synthetic-imagery-provenance.md) | ai, synthetic-media, satellite-imagery, maps, provenance, trust, photography, verification | 3 |
 | [Western Water Scarcity](concepts/western-water-scarcity.md) | [water, drought, climate, infrastructure, federal-policy, allocation, western-us] | 5 |
 | [Data Quality in Criminal Justice](concepts/data-quality-in-criminal-justice.md) | [criminal-justice, data-quality, due-process, records, privacy] | 2 |
@@ -1824,7 +1825,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 384 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 388 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability | 20 |
@@ -1851,7 +1852,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 
 ---
 
-| [Crypto Regulation](concepts/crypto-regulation.md) | [crypto, regulation, congress, digital-assets, financial-policy, markets] | 6 |
+| [Crypto Regulation](concepts/crypto-regulation.md) | [crypto, regulation, congress, digital-assets, financial-policy, markets] | 8 |
 | [Housing Policy](concepts/housing-policy.md) | housing, affordability, mortgages, public-policy, congress, rates | 13 |
 | [Reusable Rockets](concepts/reusable-rockets.md) | [space, launch, rockets, infrastructure, china, competition] | 7 |
 | [World Models](concepts/world-models.md) | [ai, world-models, simulation, forecasting, agents, robotics, limitations] | 5 |

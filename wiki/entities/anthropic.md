@@ -4,9 +4,9 @@ title: Anthropic
 type: entity
 entity_type: organization
 created: 2026-05-28
-updated: 2026-10-08
+updated: 2026-10-09
 tags: [ai, llm, organization, anthropic, claude, safety, research, ipo, nsa, mythos, dual-use, offensive-cyber, vulnerability-research, open-source, fable, guardrails, government-directive, agent-sdk, pricing, identity-verification, export-controls, model-extraction, alibaba, claude-sonnet-5, claude-code, prompt-steganography, agentic-security, valuation]
-source_count: 105
+source_count: 106
 ---
 
 # Anthropic
@@ -52,6 +52,8 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 - **May 30, 2026**: gHacks confirms **Claude Opus 4.8 with effort controls and dynamic workflows for Claude Code** — the effort controls are described as the headline feature. This is the full feature release detail for the model that went live May 28.
 
 ## Sources
+
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Reportedly pauses free Claude startup benefits shortly after launch, showing how promotional access and model-cost assumptions can change faster than startup planning cycles.
 
 - [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Repeats Claude Haiku 5.5 as an efficiency-oriented release whose capability, price, latency, availability, and safety require independent comparison.
 
