@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-10-evening](sources/newsletter-2026-10-10-evening.md) | Evening Brief — Saturday, October 10, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, nuclear-energy, impeachment, spacex, warehouse-automation, ai-ethics, duckdb, bonds, bitcoin, oil, sports, wrestling] | 2026-10-10 |
 | [newsletter-2026-10-10-noon](sources/newsletter-2026-10-10-noon.md) | Noon Dispatch — Saturday, October 10, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, impeachment, icc, prediction-markets, spacex, bitwarden, warehouse-automation, bonds, bitcoin, oil, sports, wrestling] | 2026-10-10 |
 | [newsletter-2026-10-10-daytime](sources/newsletter-2026-10-10-daytime.md) | Morning Dispatch — Saturday, October 10, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, election-law, deno, cloudflare, warehouse-automation, cybersecurity, bonds, bitcoin, oil, sports, wrestling] | 2026-10-10 |
 | [newsletter-2026-10-10-midnight](sources/newsletter-2026-10-10-midnight.md) | Midnight Dispatch — Saturday, October 10, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, election-law, deno, cloudflare, wealth-inequality, bonds, bitcoin, oil, sports, wrestling] | 2026-10-10 |

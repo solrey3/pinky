@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-10] ingest | Evening Brief — Saturday, October 10, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-10-evening-dispatch.md`
+- Summary: October 10 evening brief — concentrated postpandemic wealth gains, warehouse-automation limits, U.S. measles cases above 4,000, renewed Philippine nuclear-energy debate, higher Meralco fees, SpaceX–FCC regulatory maneuvering, Anthropic's model-welfare posture, repeated large-cap strength against small-cap and chip weakness, a 7.55% mortgage quote, and WTI at $91.85.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-10-evening.md` (new); entity pages `philippines`, `spacex`, `anthropic`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to noon, Bitcoin rises $17.39 while WTI, the 30-year yield, mortgage quote, indexes, and tracked equities repeat; timestamps, baselines, feeds, and contract identifiers require reconciliation. The SpaceX regulatory mechanism, Bataan revival implications, and claims about AI consciousness require primary-source scrutiny; several sports links or labels are indirect or mismatched, and political, legal, regulatory, health, technology, market, criminal, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-10] ingest | Noon Dispatch — Saturday, October 10, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-10-noon-dispatch.md`
 - Summary: October 10 noon dispatch — Philippine wage, ICC, impeachment, and Sandiganbayan developments, suspicious Kalshi personnel wagers, SpaceX–FCC regulatory maneuvering, Bitwarden's licensing change, repeated large-cap strength against small-cap and chip weakness, a 7.55% mortgage quote, and WTI at $91.85.
