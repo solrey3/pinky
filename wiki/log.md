@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-10] ingest | Morning Dispatch — Saturday, October 10, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-10-daytime-dispatch.md`
+- Summary: October 10 morning dispatch — a repeated federal voter-list ruling, Philippine wage, DICT, and food-security developments, Deno joining Cloudflare, a Telegram Desktop vulnerability report, persistent warehouse-automation limits, large-cap strength against small-cap and chip weakness, a 7.55% mortgage quote, and WTI at $91.85.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-10-daytime.md` (new); entity pages `philippines`, `us-department-of-justice`, `cloudflare`, `deno`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to midnight, Bitcoin rises $249.38 and WTI rises $0.19 while the 30-year yield, mortgage quote, indexes, and most equities repeat; timestamps, baselines, feeds, and contract identifiers require reconciliation. The DICT headline and linked URL appear mismatched, several sports links or labels are indirect or mismatched, and political, legal, weather, technology, market, criminal, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-10] ingest | Midnight Dispatch — Saturday, October 10, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-10-midnight-dispatch.md`
 - Summary: October 10 midnight dispatch — a federal voter-list ruling, Philippine unexplained-wealth and delayed-election coverage, Deno joining Cloudflare, uneven postpandemic wealth gains, large-cap strength against small-cap and chip weakness, a 7.55% mortgage quote, and WTI at $91.66.

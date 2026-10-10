@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-07-27
 updated: 2026-10-10
 tags: [government, justice, courts, elections, firearms]
-source_count: 3
+source_count: 4
 ---
 
 # U.S. Department of Justice
@@ -14,6 +14,8 @@ source_count: 3
 Federal executive department responsible for legal enforcement and litigation on behalf of the United States.
 
 ## Sources
+
+- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Repeats the report that a federal judge blocked DOJ requests for state voter lists intended for an eligibility database.
 
 - [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-midnight.md) — A federal judge reportedly blocks DOJ requests for state voter lists intended for an eligibility database.
 

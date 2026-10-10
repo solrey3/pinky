@@ -6,7 +6,7 @@ entity_type: product
 created: 2026-06-22
 updated: 2026-10-10
 tags: [developer-tools, javascript, typescript, runtime, desktop, application-runtime]
-source_count: 4
+source_count: 5
 ---
 
 # Deno
@@ -14,6 +14,8 @@ source_count: 4
 Deno is a JavaScript/TypeScript runtime and developer platform. In the newsletter graph, it becomes relevant when runtime tooling moves beyond server-side scripts and package workflows into desktop application surfaces.
 
 ## Sources
+
+- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Again repeats that Deno is joining Cloudflare, adding no confirmed detail about independence, licensing, migration, or product integration.
 
 - [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-midnight.md) — Repeats the announcement that Deno is joining Cloudflare, adding provenance but no new integration or independence details.
 
