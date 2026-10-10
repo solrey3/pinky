@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-10] ingest | Midnight Dispatch — Saturday, October 10, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-10-midnight-dispatch.md`
+- Summary: October 10 midnight dispatch — a federal voter-list ruling, Philippine unexplained-wealth and delayed-election coverage, Deno joining Cloudflare, uneven postpandemic wealth gains, large-cap strength against small-cap and chip weakness, a 7.55% mortgage quote, and WTI at $91.66.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-10-midnight.md` (new); entity pages `philippines`, `us-department-of-justice`, `cloudflare`, `deno`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market board substantially repeats the prior evening snapshot: Bitcoin rises $76.50 while retaining a displayed decline, WTI and the long yield are unchanged, and the mortgage quote rises one basis point; timestamps, baselines, feeds, and contract identifiers require reconciliation. Several sports links or labels are indirect or mismatched, and political, legal, weather, technology, market, criminal, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-09] ingest | Evening Brief — Friday, October 9, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-09-evening-dispatch.md`
 - Summary: October 9 evening brief — uneven postpandemic wealth gains, Philippine bribery-case, impeachment-livestream, and maritime developments, Deno joining Cloudflare, stronger large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.66.

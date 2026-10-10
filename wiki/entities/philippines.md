@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-10-09
+updated: 2026-10-10
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 50
+source_count: 51
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 50
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-midnight.md) — Tracks the ₱818 million unexplained-wealth allegation in Sara Duterte's trial, the effects of postponing barangay and SK elections until 2028, and an alleged gun-for-hire supplier's arrest.
 
 - [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletter-2026-10-09-evening.md) — Tracks the reported dismissal of a bribery case against Sara Duterte, removal of the impeachment-trial livestream on privacy grounds, and a maritime encounter involving a Chinese ship and 22 smaller vessels.
 
