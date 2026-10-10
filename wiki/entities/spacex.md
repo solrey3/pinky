@@ -4,9 +4,9 @@ title: SpaceX
 type: entity
 entity_type: organization
 created: 2026-06-16
-updated: 2026-10-09
+updated: 2026-10-10
 tags: [space, launch, rockets, ai, acquisitions, developer-tools, starlink, satellite-to-phone, starship, reusable-rockets, orbital-safety]
-source_count: 19
+source_count: 20
 ---
 
 # SpaceX
@@ -14,6 +14,8 @@ source_count: 19
 American aerospace and launch company founded by Elon Musk. In the newsletter graph, SpaceX sits at the intersection of space infrastructure, private-company finance, prediction-market speculation, and now AI developer tooling.
 
 ## Sources
+
+- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-noon.md) — A report that its wireless strategy works around FCC constraints extends the governance thread into spectrum regulation, though the mechanism and agency position need primary confirmation.
 
 - [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Repeats its call for stronger orbital coordination after reported Starlink near-misses; independent tracking and common conjunction thresholds remain necessary.
 

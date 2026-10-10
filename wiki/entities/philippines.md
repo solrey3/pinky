@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-10
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 52
+source_count: 53
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 52
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-noon.md) — Tracks the CALABARZON wage increase, seven additional drug-war incidents admitted in Rodrigo Duterte's ICC case, Sara Duterte's impeachment trial, and remote Sandiganbayan participation for Romualdez.
 
 - [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Tracks a CALABARZON minimum-wage increase of up to ₱45 per day, a reported DICT leadership change, and farmer-focused ASEAN food-security initiatives.
 
