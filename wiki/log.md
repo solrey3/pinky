@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-11] ingest | Midnight Dispatch — Sunday, October 11, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-11-midnight-dispatch.md`
+- Summary: October 11 midnight dispatch — concentrated postpandemic wealth gains, White House scrutiny of Fed governor Lisa Cook, renewed Philippine maritime pressure off Palawan, repeated SpaceX–FCC regulatory maneuvering, large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-11-midnight.md` (new); entity pages `philippines`, `spacex`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The board repeats Friday's closing indexes, yields, tracked equities, and WTI quote; Bitcoin rises $233.76 from the prior midnight dispatch and the mortgage quote falls one basis point. Timestamps, baselines, feeds, and contract identifiers require reconciliation. The Palawan, SpaceX, and Fed-investigation reports need primary-source confirmation, several sports links or labels are indirect or mismatched, and political, legal, regulatory, maritime, technology, market, execution, fire, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-10] ingest | Evening Brief — Saturday, October 10, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-10-evening-dispatch.md`
 - Summary: October 10 evening brief — concentrated postpandemic wealth gains, warehouse-automation limits, U.S. measles cases above 4,000, renewed Philippine nuclear-energy debate, higher Meralco fees, SpaceX–FCC regulatory maneuvering, Anthropic's model-welfare posture, repeated large-cap strength against small-cap and chip weakness, a 7.55% mortgage quote, and WTI at $91.85.

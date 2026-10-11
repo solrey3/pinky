@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-10-10
+updated: 2026-10-11
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 54
+source_count: 55
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 54
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-midnight.md) — Tracks a Chinese militia vessel and 22 sampans reportedly entering Palawan waters, ITCZ rain, a remembrance of activist and jeepney driver Elmer Cordero, and two Tondo fires.
 
 - [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-evening.md) — Tracks Marcos's regret over halting the Bataan Nuclear Power Plant, approval for Meralco to raise its own fees, Sara Duterte's impeachment trial, and the Jesus Is Lord Church anniversary.
 
