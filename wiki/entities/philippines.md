@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-11
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 57
+source_count: 58
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 57
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — Tracks prosecutors resting their impeachment case against Sara Duterte, Lino Cayetano becoming Marcos's sixth communications chief, and Marcos describing an Ayungin medical-evacuation incident as a potentially new phase of West Philippine Sea escalation.
 
 - [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — Tracks three Filipinos reportedly in intensive care after the Riyadh airport attack and Marcos administration communications-office turnover involving Lino Cayetano, Henry Aguda, Jay-R Ruiz, and Vince Dizon.
 

@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-11] ingest | Evening Brief — Sunday, October 11, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-11-evening-dispatch.md`
+- Summary: October 11 evening brief — escalating Saudi-Houthi airport strikes, weakening reported Trump support among young voters, Philippine impeachment and Ayungin developments, psychedelic-neuroscience and LLM-capability-baseline reports, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-11-evening.md` (new); entity pages `donald-trump`, `houthis`, `saudi-arabia`, `philippines`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The market board repeats the day's earlier indexes, yields, tracked equities, WTI quote, and mortgage rate; Bitcoin falls $404.94 from noon. The airport-strike, polling, impeachment, Ayungin, and neuroscience claims need primary-source confirmation; the PetaPixel link is dated June 30, and several sports links, labels, or schedules are indirect or temporally inconsistent.
+
 ## [2026-10-11] ingest | Noon Dispatch — Sunday, October 11, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-11-noon-dispatch.md`
 - Summary: October 11 noon dispatch — an unverified Russia-Ukraine energy-ceasefire claim and disputed diesel deal, escalating Saudi-Houthi airport strikes, three Filipinos reportedly hospitalized in Riyadh, First Nations-led dense housing, psychedelic-neuroscience and documentation-usability reports, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.

@@ -4,9 +4,9 @@ title: Saudi Arabia
 type: entity
 entity_type: place
 created: 2026-07-31
-updated: 2026-09-21
+updated: 2026-10-11
 tags: [saudi-arabia, middle-east, red-sea, shipping, geopolitics, energy-security]
-source_count: 5
+source_count: 6
 ---
 
 # Saudi Arabia
@@ -14,6 +14,8 @@ source_count: 5
 Saudi Arabia is a Gulf monarchy and regional power. In the newsletter graph it appears through energy, shipping, regional-security, and Middle East diplomacy items.
 
 ## Sources
+
+- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — Reportedly exchanges airport strikes with the Houthis, shifting the tracked threat from shipping lanes toward civilian aviation infrastructure and broader regional escalation.
 
 - [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Again frames the East–West Pipeline as strategic redundancy around Strait of Hormuz exposure.
 - [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Repeats the East–West Pipeline's role as an alternative oil route around Strait of Hormuz exposure.
@@ -24,5 +26,6 @@ Saudi Arabia is a Gulf monarchy and regional power. In the newsletter graph it a
 ## Related
 
 - [[Iran]]
+- [[Houthis]]
 - [[Red Sea Security]]
 - [[Israel]]
