@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-11] ingest | Morning Dispatch — Sunday, October 11, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-11-daytime-dispatch.md`
+- Summary: October 11 morning dispatch — concentrated postpandemic wealth gains, SpaceX's wireless-carrier ambitions and FCC maneuvering, Philippine overseas-worker, Sara Duterte-contract, class-suspension, and ICC coverage, psychedelic-neuroscience research, LineageOS 24.0, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-11-daytime.md` (new); entity pages `philippines`, `spacex`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The board repeats the midnight dispatch's indexes, yields, tracked equities, WTI quote, and mortgage rate; Bitcoin rises $222.42. Timestamps, baselines, feeds, and contract identifiers require reconciliation. The Rappler headline and linked URL appear mismatched, SpaceX's regulatory mechanism needs primary-source confirmation, several sports links or labels are indirect or mismatched, and political, legal, regulatory, weather, technology, market, criminal, injury, and sports claims remain subject to primary confirmation.
+
 ## [2026-10-11] ingest | Midnight Dispatch — Sunday, October 11, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-11-midnight-dispatch.md`
 - Summary: October 11 midnight dispatch — concentrated postpandemic wealth gains, White House scrutiny of Fed governor Lisa Cook, renewed Philippine maritime pressure off Palawan, repeated SpaceX–FCC regulatory maneuvering, large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.
