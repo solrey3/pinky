@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-11] ingest | Noon Dispatch — Sunday, October 11, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-11-noon-dispatch.md`
+- Summary: October 11 noon dispatch — an unverified Russia-Ukraine energy-ceasefire claim and disputed diesel deal, escalating Saudi-Houthi airport strikes, three Filipinos reportedly hospitalized in Riyadh, First Nations-led dense housing, psychedelic-neuroscience and documentation-usability reports, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-11-noon.md` (new); entity pages `donald-trump`, `russia`, `ukraine`, `philippines`, `wti`; concept pages `housing-policy`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The board repeats the morning dispatch's indexes, yields, tracked equities, WTI quote, and mortgage rate; Bitcoin rises $846.50. The reported Riyadh ICU count rises from two in the morning dispatch to three at noon. The ceasefire, diesel, airport-strike, climate-deception, and neuroscience claims need primary-source confirmation; timestamps, baselines, feeds, and contract identifiers require reconciliation, and several sports links or labels are indirect, mismatched, or temporally inconsistent.
+
 ## [2026-10-11] ingest | Morning Dispatch — Sunday, October 11, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-11-daytime-dispatch.md`
 - Summary: October 11 morning dispatch — concentrated postpandemic wealth gains, SpaceX's wireless-carrier ambitions and FCC maneuvering, Philippine overseas-worker, Sara Duterte-contract, class-suspension, and ICC coverage, psychedelic-neuroscience research, LineageOS 24.0, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.

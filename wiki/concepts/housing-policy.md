@@ -3,9 +3,9 @@ id: 9b9b1ee9-3add-4423-a95f-aa1588421b62
 title: Housing Policy
 type: concept
 created: 2026-07-12
-updated: 2026-08-04
+updated: 2026-10-11
 tags: [housing, affordability, mortgages, public-policy, congress, rates]
-source_count: 13
+source_count: 14
 ---
 
 # Housing Policy
@@ -13,6 +13,8 @@ source_count: 13
 Housing policy covers public interventions around housing supply, affordability, finance, zoning, subsidies, and mortgage-market pressure.
 
 ## Sources
+
+- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — First Nations-led dense development in Canada presents Indigenous land governance as a distinct route to housing supply outside ordinary municipal constraints.
 
 - [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Jersey Digs item on an approved 60-unit affordable-housing project keeps New Jersey housing supply in the feed.
 - [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — A 6.78% mortgage quote and HOA foreclosure fights connect affordability pressure with owner-governance risk.

@@ -4,9 +4,9 @@ title: Ukraine
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-09-19
+updated: 2026-10-11
 tags: [ukraine, geopolitics, war, russia, europe, security, diplomacy, air-defense]
-source_count: 21
+source_count: 22
 ---
 
 # Ukraine
@@ -14,6 +14,8 @@ source_count: 21
 Ukraine is a European state central to the continuing Russia-Ukraine war. In the newsletter graph, it functions as a geopolitical risk marker rather than a market ticker.
 
 ## Sources
+
+- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — Trump claims an energy ceasefire with Russia while Kyiv objects to an associated diesel deal; the dispatch offers no agreement text or implementation evidence.
 
 - [2026-09-19: Noon Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-noon.md) — The State Department reportedly approves a potential $2.6 billion air-defense sale, extending Ukraine support into another procurement stage.
 
