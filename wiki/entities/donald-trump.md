@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-10-11
+updated: 2026-10-12
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs, press-freedom]
-source_count: 83
+source_count: 84
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 83
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Repeats a Wall Street Journal poll report that Gen Z voters are reconsidering support for Trump; the dispatch still supplies no questionnaire, sample, field dates, or subgroup uncertainty.
 
 - [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — A Wall Street Journal poll report says Gen Z voters are reconsidering support for Trump; the dispatch provides no questionnaire, sample, field dates, or subgroup uncertainty.
 

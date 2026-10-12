@@ -4,9 +4,9 @@ title: Saudi Arabia
 type: entity
 entity_type: place
 created: 2026-07-31
-updated: 2026-10-11
+updated: 2026-10-12
 tags: [saudi-arabia, middle-east, red-sea, shipping, geopolitics, energy-security]
-source_count: 6
+source_count: 7
 ---
 
 # Saudi Arabia
@@ -14,6 +14,8 @@ source_count: 6
 Saudi Arabia is a Gulf monarchy and regional power. In the newsletter graph it appears through energy, shipping, regional-security, and Middle East diplomacy items.
 
 ## Sources
+
+- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Repeats reports of Saudi-Houthi airport strikes and says four Filipinos were injured at Riyadh airport, three of them requiring intensive care.
 
 - [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — Reportedly exchanges airport strikes with the Houthis, shifting the tracked threat from shipping lanes toward civilian aviation infrastructure and broader regional escalation.
 

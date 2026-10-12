@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-12-midnight](sources/newsletter-2026-10-12-midnight.md) | Midnight Dispatch — Monday, October 12, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, impeachment, saudi-arabia, houthis, browser-fingerprinting, psychedelics, bonds, bitcoin, oil, sports, wrestling] | 2026-10-12 |
 | [newsletter-2026-10-11-evening](sources/newsletter-2026-10-11-evening.md) | Evening Brief — Sunday, October 11, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, impeachment, maritime-security, saudi-arabia, houthis, psychedelics, llm-capabilities, bonds, bitcoin, oil, sports, wrestling] | 2026-10-11 |
 | [newsletter-2026-10-11-noon](sources/newsletter-2026-10-11-noon.md) | Noon Dispatch — Sunday, October 11, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, russia, ukraine, energy-ceasefire, housing, psychedelics, documentation, bonds, bitcoin, oil, sports, wrestling] | 2026-10-11 |
 | [newsletter-2026-10-11-daytime](sources/newsletter-2026-10-11-daytime.md) | Morning Dispatch — Sunday, October 11, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, icc, spacex, spectrum-regulation, wealth-inequality, psychedelics, lineageos, bonds, bitcoin, oil, sports, wrestling] | 2026-10-11 |
@@ -1038,7 +1039,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
 | [Greg Abbott](entities/greg-abbott.md) | person | politics, texas, governor, ai-infrastructure, power-grid | 2 |
-| [Houthis](entities/houthis.md) | organization | geopolitics, yemen, red-sea, shipping, middle-east | 3 |
+| [Houthis](entities/houthis.md) | organization | geopolitics, yemen, red-sea, shipping, middle-east | 4 |
 | [Marco Rubio](entities/marco-rubio.md) | person | politics, foreign-policy, state-department, public-health-funding | 1 |
 | [Democratic Republic of the Congo](entities/democratic-republic-of-the-congo.md) | place | africa, public-health, ebola, foreign-aid | 1 |
 | [Ebola](entities/ebola.md) | other | public-health, infectious-disease, outbreak-response, africa | 1 |
@@ -1080,7 +1081,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [U.S. Department of State](entities/us-department-of-state.md) | organization | government, foreign-policy, immigration, visas, united-states | 3 |
 | [Yulia Svyrydenko](entities/yulia-svyrydenko.md) | person | ukraine, politics, government, war, europe | 1 |
 | [U.S. Central Command](entities/us-central-command.md) | organization | military, united-states, centcom, iran, security | 6 |
-| [Donald Trump](entities/donald-trump.md) | person | politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs | 83 |
+| [Donald Trump](entities/donald-trump.md) | person | politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs | 84 |
 | [George Washington](entities/george-washington.md) | person | history, public-memory, slavery, museums, politics | 1 |
 | [New York Times](entities/new-york-times.md) | organization | journalism, media, press-freedom, subpoenas, first-amendment | 1 |
 | [E. Jean Carroll](entities/e-jean-carroll.md) | person | law, politics, trump, civil-litigation, defamation | 1 |
@@ -1104,7 +1105,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Jordan](entities/jordan.md) | place | jordan, middle-east, military, geopolitics, united-states, iran | 4 |
 | [Iraq](entities/iraq.md) | place | iraq, middle-east, military, geopolitics, united-states, iran | 2 |
 | [Israel](entities/israel.md) | place | israel, geopolitics, middle-east, foreign-policy, aid, united-states, hamas, diplomacy | 5 |
-| [Saudi Arabia](entities/saudi-arabia.md) | place | saudi-arabia, middle-east, red-sea, shipping, geopolitics, energy-security | 6 |
+| [Saudi Arabia](entities/saudi-arabia.md) | place | saudi-arabia, middle-east, red-sea, shipping, geopolitics, energy-security | 7 |
 | [Hamas](entities/hamas.md) | organization | hamas, gaza, israel, middle-east, diplomacy, disarmament | 3 |
 | [Keyport](entities/keyport.md) | place | new-jersey, groundwater, pfas, benzene, public-health | 2 |
 | [KrebsOnSecurity](entities/krebsonsecurity.md) | organization | cybersecurity, journalism, privacy, devices, consumer-security | 2 |
@@ -1120,7 +1121,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
 | [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 13 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
-| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 58 |
+| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 59 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
 | [New York](entities/new-york.md) | place | new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states | 7 |
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
@@ -1238,7 +1239,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 171 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 172 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1720,7 +1721,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [AI-Assisted Regulatory Decision-Making](concepts/ai-assisted-regulatory-decision-making.md) | ai, government, regulation, accountability, transparency, environmental-policy, chemical-safety | 1 |
 | [Connected-Car Surveillance](concepts/connected-car-surveillance.md) | privacy, surveillance, vehicles, telematics, data-governance, mobility | 2 |
 | [Ghost Job Listings](concepts/ghost-job-listings.md) | labor, hiring, transparency, job-search, regulation | 4 |
-| [Browser Fingerprinting](concepts/browser-fingerprinting.md) | privacy, browsers, tracking, webaudio, surveillance | 1 |
+| [Browser Fingerprinting](concepts/browser-fingerprinting.md) | privacy, browsers, tracking, webaudio, surveillance | 3 |
 | [Cancer Prevention](concepts/cancer-prevention.md) | public-health, cancer, prevention, epidemiology, risk-factors | 1 |
 | [Personalized Cancer Vaccines](concepts/personalized-cancer-vaccines.md) | medicine, oncology, mrna, vaccines, precision-medicine, melanoma | 4 |
 | [Workplace Data Privacy](concepts/workplace-data-privacy.md) | privacy, employment, data-governance, surveillance, consent | 1 |
@@ -1834,7 +1835,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 397 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 398 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability | 20 |

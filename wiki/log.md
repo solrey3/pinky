@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-12] ingest | Midnight Dispatch — Monday, October 12, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-12-midnight-dispatch.md`
+- Summary: October 12 midnight dispatch — repeated Saudi-Houthi airport strikes and weakening reported Trump support among young voters, Philippine Meralco-refund and Sara Duterte developments, four Filipinos reportedly injured in Riyadh, browser-fingerprinting concerns, large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $90.24.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-12-midnight.md` (new); entity pages `donald-trump`, `houthis`, `saudi-arabia`, `philippines`, `wti`; concept pages `browser-fingerprinting`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Most indexes, yields, and tracked equities repeat the prior evening board, while WTI falls $1.61 and Bitcoin rises $78.20. The airport-strike, casualty, polling, remittance, neuroscience, and legal claims need primary-source confirmation; timestamps, baselines, feeds, and contract identifiers require reconciliation, and several sports links, labels, dates, or schedules are indirect or temporally inconsistent.
+
 ## [2026-10-11] ingest | Evening Brief — Sunday, October 11, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-11-evening-dispatch.md`
 - Summary: October 11 evening brief — escalating Saudi-Houthi airport strikes, weakening reported Trump support among young voters, Philippine impeachment and Ayungin developments, psychedelic-neuroscience and LLM-capability-baseline reports, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $91.85.
