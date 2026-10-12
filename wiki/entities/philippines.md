@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-12
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 61
+source_count: 62
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 61
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletter-2026-10-12-evening.md) — Tracks Sara Duterte's claim that Marcos has viewed her as a threat since 2023 and another quorum interruption in her impeachment trial.
 
 - [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Tracks an NBI review of 121 Duterte properties, a quorum interruption in Sara Duterte's impeachment trial, and PAL's continuing Riyadh-flight suspension.
 

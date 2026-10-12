@@ -4,9 +4,9 @@ title: U.S. Department of Justice
 type: entity
 entity_type: organization
 created: 2026-07-27
-updated: 2026-10-10
+updated: 2026-10-12
 tags: [government, justice, courts, elections, firearms]
-source_count: 4
+source_count: 5
 ---
 
 # U.S. Department of Justice
@@ -14,6 +14,8 @@ source_count: 4
 Federal executive department responsible for legal enforcement and litigation on behalf of the United States.
 
 ## Sources
+
+- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletter-2026-10-12-evening.md) — Reports increased illegal-voting prosecutions amid stronger executive emphasis, without enough denominator or disposition data to infer underlying prevalence.
 
 - [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Repeats the report that a federal judge blocked DOJ requests for state voter lists intended for an eligibility database.
 

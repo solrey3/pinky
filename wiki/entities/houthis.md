@@ -6,7 +6,7 @@ entity_type: organization
 created: 2026-08-02
 updated: 2026-10-12
 tags: [geopolitics, yemen, red-sea, shipping, middle-east]
-source_count: 5
+source_count: 6
 ---
 
 # Houthis
@@ -14,6 +14,8 @@ source_count: 5
 Yemen-based Houthi movement tracked here through Red Sea/Bab el-Mandeb shipping-risk coverage.
 
 ## Sources
+
+- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletter-2026-10-12-evening.md) — Repeats reports of airport strikes exchanged with Saudi Arabia; attribution, chronology, damage, and the asserted oil-market effect require confirmation.
 
 - [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Repeats reports of airport strikes exchanged with Saudi Arabia as Philippine Airlines suspends Riyadh service; attribution and chronology require confirmation.
 

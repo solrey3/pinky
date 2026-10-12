@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-12] ingest | Evening Brief — Monday, October 12, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-12-evening-dispatch.md`
+- Summary: October 12 evening brief — increased DOJ illegal-voting prosecutions, continuing Saudi-Houthi airport strikes, Sara Duterte's political and impeachment claims, an uneven small-business AI divide, Dow and S&P gains against deeper technology, small-cap, and chip losses, a 7.54% mortgage quote, and WTI at $93.16.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-12-evening.md` (new); entity pages `us-department-of-justice`, `philippines`, `saudi-arabia`, `houthis`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to noon, WTI falls $0.42 and Bitcoin falls $154.64 while Dow and S&P gains narrow and Nasdaq, Russell, and semiconductor losses deepen. Election-prosecution, diesel-deal, airport-strike, entrapment, execution, and AI-adoption claims need primary-source confirmation; timestamps, baselines, feeds, and contract identifiers require reconciliation, and several sports links, labels, dates, or schedules are indirect or inconsistent.
+
 ## [2026-10-12] ingest | Noon Dispatch — Monday, October 12, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-12-noon-dispatch.md`
 - Summary: October 12 noon dispatch — an unconfirmed Russia-Ukraine energy-ceasefire claim and reported U.S. leverage over Ukrainian support, Philippine property and impeachment developments, Amazon's million-robot milestone, fragmented municipal Flock-camera retention, sharp Dow strength against technology, small-cap, and chip weakness, a 7.54% mortgage quote, and WTI at $93.58.
