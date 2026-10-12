@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-12] ingest | Morning Dispatch — Monday, October 12, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-12-daytime-dispatch.md`
+- Summary: October 12 morning dispatch — repeated Saudi-Houthi airport strikes and reported Trump weakness among young voters, PAL's Riyadh suspension, Sara Duterte's impeachment trial, proposed Philippine child-platform safeguards, browser-fingerprinting and psychedelic-neuroscience reports, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $92.86.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-12-daytime.md` (new); entity pages `donald-trump`, `houthis`, `saudi-arabia`, `philippines`, `wti`; concept pages `browser-fingerprinting`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Most indexes, yields, and tracked equities repeat the midnight board, while WTI rises $2.62 and Bitcoin falls $25.77. Airport-strike, polling, neuroscience, and legislative claims need primary-source confirmation; timestamps, baselines, feeds, and contract identifiers require reconciliation, and several sports links, dates, labels, or schedules are indirect or temporally inconsistent.
+
 ## [2026-10-12] ingest | Midnight Dispatch — Monday, October 12, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-12-midnight-dispatch.md`
 - Summary: October 12 midnight dispatch — repeated Saudi-Houthi airport strikes and weakening reported Trump support among young voters, Philippine Meralco-refund and Sara Duterte developments, four Filipinos reportedly injured in Riyadh, browser-fingerprinting concerns, large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $90.24.

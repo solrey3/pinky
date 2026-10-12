@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-12
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 59
+source_count: 60
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 59
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Tracks Sara Duterte's impeachment trial, PAL's Riyadh-service suspension after airport attacks, and House approval of proposed safeguards for children online.
 
 - [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Tracks a ₱2.64 billion Meralco customer refund, Sara Duterte's impeachment trial and response to an alleged Chinese remittance to Cale88, and four Filipinos reportedly injured at Riyadh airport.
 

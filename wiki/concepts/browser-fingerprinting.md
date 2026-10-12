@@ -5,7 +5,7 @@ type: concept
 created: 2026-08-20
 updated: 2026-10-12
 tags: [privacy, browsers, tracking, webaudio, surveillance]
-source_count: 3
+source_count: 4
 ---
 
 # Browser Fingerprinting
@@ -13,6 +13,8 @@ source_count: 3
 Browser fingerprinting identifies or correlates a browser by combining observable device, software, rendering, audio, and behavior characteristics, often without storing a conventional tracking cookie.
 
 ## Sources
+
+- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Repeats that browser and device characteristics can preserve cross-site correlation after conventional cookies are restricted.
 
 - [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Frames fingerprinting as the tracking layer that survives cookie restrictions by correlating browser and device characteristics without conventional stored identifiers.
 
