@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-12] ingest | Noon Dispatch — Monday, October 12, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-12-noon-dispatch.md`
+- Summary: October 12 noon dispatch — an unconfirmed Russia-Ukraine energy-ceasefire claim and reported U.S. leverage over Ukrainian support, Philippine property and impeachment developments, Amazon's million-robot milestone, fragmented municipal Flock-camera retention, sharp Dow strength against technology, small-cap, and chip weakness, a 7.54% mortgage quote, and WTI at $93.58.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-12-noon.md` (new); entity pages `donald-trump`, `russia`, `ukraine`, `philippines`, `flock-safety`, `wti`; concept pages `automated-license-plate-reader-surveillance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to morning, WTI rises $0.72 and Bitcoin falls $779.73 while Nasdaq, Russell, and semiconductor losses deepen. Ceasefire, diesel, support-cutoff, airport-strike, GLP-1, automation, and surveillance claims need primary-source confirmation; timestamps, baselines, feeds, and contract identifiers require reconciliation, and several sports links, labels, dates, or schedules are indirect or inconsistent.
+
 ## [2026-10-12] ingest | Morning Dispatch — Monday, October 12, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-12-daytime-dispatch.md`
 - Summary: October 12 morning dispatch — repeated Saudi-Houthi airport strikes and reported Trump weakness among young voters, PAL's Riyadh suspension, Sara Duterte's impeachment trial, proposed Philippine child-platform safeguards, browser-fingerprinting and psychedelic-neuroscience reports, repeated large-cap gains against small-cap and chip weakness, a 7.54% mortgage quote, and WTI at $92.86.

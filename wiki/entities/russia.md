@@ -4,9 +4,9 @@ title: Russia
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-10-11
+updated: 2026-10-12
 tags: [russia, geopolitics, war, ukraine, security, diplomacy]
-source_count: 12
+source_count: 13
 ---
 
 # Russia
@@ -14,6 +14,8 @@ source_count: 12
 Russia is tracked here mainly through geopolitical and military-risk coverage. In this source, it appears as the actor allegedly preparing a major strike against Ukraine.
 
 ## Sources
+
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Trump again claims an energy ceasefire and promotes a diesel arrangement, but Moscow had not confirmed the ceasefire and no agreement text is provided.
 
 - [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — Trump claims an energy ceasefire with Ukraine, but no agreement text, Russian confirmation, scope, or implementation evidence appears in the dispatch.
 

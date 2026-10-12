@@ -6,7 +6,7 @@ entity_type: person
 created: 2026-06-17
 updated: 2026-10-12
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs, press-freedom]
-source_count: 85
+source_count: 86
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 85
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Declares a Russia-Ukraine energy ceasefire and promotes a diesel arrangement, although Moscow had not confirmed the ceasefire and the dispatch provides no agreement text.
 
 - [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Repeats a Wall Street Journal poll report that Gen Z voters are reconsidering support for Trump without supplying the questionnaire, sample, field dates, or subgroup uncertainty.
 
