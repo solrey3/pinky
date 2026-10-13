@@ -3,9 +3,9 @@ id: 15095ce9-a4c8-454b-9597-61d2b1005df6
 title: Federal AI Governance
 type: concept
 created: 2026-09-20
-updated: 2026-10-05
+updated: 2026-10-13
 tags: [ai, governance, federal-policy, executive-power, oversight]
-source_count: 9
+source_count: 10
 ---
 
 # Federal AI Governance
@@ -13,6 +13,8 @@ source_count: 9
 Federal AI governance is the allocation of authority, accountability, standards, and oversight for artificial-intelligence policy and deployment across national-government institutions. Central coordination can reduce fragmented policy, but it also requires transparent mandates, independent review, and clear limits on executive discretion.
 
 ## Sources
+
+- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-midnight.md) — Sanders's proposed artificial-superintelligence ban raises definitional, jurisdictional, verification, international-coordination, and enforcement questions.
 
 - [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-noon.md) — A reported crackdown on AI glasses extends governance to wearable sensing, privacy, surveillance, disclosure, and enforceable limits on collection and downstream use.
 

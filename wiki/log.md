@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-13] ingest | Midnight Dispatch — Tuesday, October 13, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-13-midnight-dispatch.md`
+- Summary: October 13 midnight dispatch — increased DOJ illegal-voting prosecutions, an unconfirmed Russia-Ukraine energy-ceasefire claim, Sara Duterte unexplained-wealth testimony, Visayas power and Meralco cost pressure, a proposed artificial-superintelligence ban, repeated equity and semiconductor prices, a 7.57% mortgage quote, and WTI at $92.62.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-13-midnight.md` (new); entity pages `us-department-of-justice`, `donald-trump`, `russia`, `ukraine`, `philippines`, `wti`; concept pages `federal-ai-governance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The equity board repeats the prior evening snapshot; WTI falls $0.54, Bitcoin rises $714.82, and the mortgage quote rises three basis points. Ceasefire, diesel-deal, prosecution, unexplained-wealth, airport-strike, sting-operation, and ASI-ban claims need primary-source confirmation; the Visayas link points to a 2021 Luzon explainer, and several sports links, labels, dates, or schedules are indirect or inconsistent.
+
 ## [2026-10-12] ingest | Evening Brief — Monday, October 12, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-12-evening-dispatch.md`
 - Summary: October 12 evening brief — increased DOJ illegal-voting prosecutions, continuing Saudi-Houthi airport strikes, Sara Duterte's political and impeachment claims, an uneven small-business AI divide, Dow and S&P gains against deeper technology, small-cap, and chip losses, a 7.54% mortgage quote, and WTI at $93.16.
