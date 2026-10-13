@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-13] ingest | Morning Dispatch — Tuesday, October 13, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-13-daytime-dispatch.md`
+- Summary: October 13 morning dispatch — an IMF resilience warning, calendar phishing, reported federal activity at Ilhan Omar's home, Philippine El Niño preparation and a narrowed Sara Duterte impeachment case, AI kill-switch and ASI-ban proposals, Character.ai's reported bankruptcy and a Disney bid, repeated equity and semiconductor prices, a 7.57% mortgage quote, and WTI at $92.09.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-13-daytime.md` (new); entity pages `philippines`, `disney`, `wti`; concept pages `ai-model-safety-boundaries`, `federal-ai-governance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The equity board repeats the midnight snapshot; WTI falls $0.53, Bitcoin rises $304.04, and the mortgage quote and long yield are unchanged. Nobel, federal-search, bankruptcy, security, impeachment, AI-control, and ASI-ban claims need primary-source confirmation; several sports links, labels, dates, or schedules are indirect or inconsistent.
+
 ## [2026-10-13] ingest | Midnight Dispatch — Tuesday, October 13, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-13-midnight-dispatch.md`
 - Summary: October 13 midnight dispatch — increased DOJ illegal-voting prosecutions, an unconfirmed Russia-Ukraine energy-ceasefire claim, Sara Duterte unexplained-wealth testimony, Visayas power and Meralco cost pressure, a proposed artificial-superintelligence ban, repeated equity and semiconductor prices, a 7.57% mortgage quote, and WTI at $92.62.

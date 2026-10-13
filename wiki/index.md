@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-13-daytime](sources/newsletter-2026-10-13-daytime.md) | Morning Dispatch — Tuesday, October 13, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, impeachment, el-nino, ai-safety, ai-governance, character-ai, bankruptcy, semiconductors, bonds, bitcoin, oil, sports, wrestling] | 2026-10-13 |
 | [newsletter-2026-10-13-midnight](sources/newsletter-2026-10-13-midnight.md) | Midnight Dispatch — Tuesday, October 13, 2026 | newsletter | [newsletter, midnight-dispatch, markets, philippines, impeachment, election-law, russia, ukraine, energy-ceasefire, ai-governance, semiconductors, bonds, bitcoin, oil, sports, wrestling] | 2026-10-13 |
 | [newsletter-2026-10-12-evening](sources/newsletter-2026-10-12-evening.md) | Evening Brief — Monday, October 12, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, impeachment, election-law, saudi-arabia, houthis, ai-adoption, semiconductors, bonds, bitcoin, oil, sports, wrestling] | 2026-10-12 |
 | [newsletter-2026-10-12-noon](sources/newsletter-2026-10-12-noon.md) | Noon Dispatch — Monday, October 12, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, impeachment, russia, ukraine, energy-ceasefire, surveillance, automation, bonds, bitcoin, oil, sports, wrestling] | 2026-10-12 |
@@ -1125,7 +1126,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Pew Research Center](entities/pew-research-center.md) | organization | research, polling, public-opinion, social-media, children, internet-policy | 14 |
 | [China](entities/china.md) | place | china, geopolitics, public-opinion, soft-power, united-states, pew-research, ai, censorship | 13 |
 | [Mexico](entities/mexico.md) | place | mexico, geopolitics, immigration, diplomacy, latin-america | 1 |
-| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 63 |
+| [Philippines](entities/philippines.md) | place | philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment | 64 |
 | [India](entities/india.md) | place | india, space, launch, geopolitics, technology | 1 |
 | [New York](entities/new-york.md) | place | new-york, data-centers, ai-infrastructure, energy-policy, regulation, united-states | 7 |
 | [Mitch McConnell](entities/mitch-mcconnell.md) | person | politics, senate, republican-party, kentucky, health | 3 |
@@ -1243,7 +1244,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Big East](entities/big-east.md) | organization | college-sports, ncaab, conference, leadership | 6 |
 | [Gary Payton II](entities/gary-payton-ii.md) | person | basketball, nba, golden-state-warriors, free-agency | 2 |
 | [Davis Riley](entities/davis-riley.md) | person | golf, pga-tour, rocket-classic, leaderboard | 5 |
-| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 176 |
+| [WTI](entities/wti.md) | other | commodities, oil, energy, markets, geopolitics | 177 |
 | [SummerSlam](entities/summerslam.md) | other | wrestling, wwe, ple, summerslam | 9 |
 | [WrestleDream](entities/wrestledream.md) | other | wrestling, aew, ppv, orlando | 1 |
 | [Gianni Infantino](entities/gianni-infantino.md) | person | soccer, fifa, world-cup, governance | 3 |
@@ -1703,7 +1704,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Recently Added Entities
 | Entity | Type | Tags | Sources |
 | --- | --- | --- | --- |
-| [Disney](entities/disney.md) | organization | media, entertainment, distribution | 1 |
+| [Disney](entities/disney.md) | organization | media, entertainment, distribution | 3 |
 | [Taalas](entities/taalas.md) | organization | ai, semiconductors, inference | 3 |
 | [Kim Le Court-Pienaar](entities/kim-le-court-pienaar.md) | person | cycling, tour-de-france-femmes | 1 |
 | [Demi Vollering](entities/demi-vollering.md) | person | cycling, tour-de-france-femmes | 5 |
@@ -1757,7 +1758,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [AI Labor Displacement](concepts/ai-labor-displacement.md) | [ai, labor, jobs, automation, customer-service, economics, robotics, worker-agency] | 13 |
 | [AI Infrastructure Energy Demand](concepts/ai-infrastructure-energy-demand.md) | ai, infrastructure, energy, data-centers, electricity, power-grid, cloud, google, capex, credit-quality | 35 |
 | [AI Model Capability Extraction](concepts/ai-model-capability-extraction.md) | ai, security, model-extraction, frontier-models, llm, governance, api-abuse, provenance | 6 |
-| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai] | 53 |
+| [AI Model Safety Boundaries](concepts/ai-model-safety-boundaries.md) | [ai, safety, governance, llm, refusal, dual-use, competition, guardrails, government-directive, access-control, education, children, model-extraction, frontier-models, ai-browsers, agentic-ai] | 55 |
 | [Native Mobile Development](concepts/native-mobile-development.md) | [software-engineering, mobile, ios, android, swift, kotlin, react-native, architecture] | 2 |
 | [AI Psychosis](concepts/ai-psychosis.md) | [ai, mental-health, llm, safety, human-factors, guardrails] | 1 |
 | [AI Shutdown Powers](concepts/ai-shutdown-powers.md) | [ai, governance, emergency-powers, safety, regulation, shutdown-authority] | 2 |
@@ -1792,7 +1793,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [DevOps & Observability](concepts/devops-and-observability.md) | [devops, monitoring, observability, git, ci-cd, automation] | 5 |
 | [Diátaxis](concepts/diataxis.md) | [documentation, technical-writing, developer-tools, knowledge-management, tutorials, how-to, reference, explanation] | 1 |
 | [Digital Media Consolidation](concepts/digital-media-consolidation.md) | [media, streaming, consolidation, digital-distribution, platforms, regulation, ownership] | 29 |
-| [Federal AI Governance](concepts/federal-ai-governance.md) | [ai, governance, federal-policy, executive-power, oversight] | 10 |
+| [Federal AI Governance](concepts/federal-ai-governance.md) | [ai, governance, federal-policy, executive-power, oversight] | 11 |
 | [Autonomous Vehicle Operational Safety](concepts/autonomous-vehicle-operational-safety.md) | [autonomous-vehicles, safety, robotaxis, operations, public-space, governance] | 2 |
 | [Digital Gardens](concepts/digital-gardens.md) | [knowledge-management, web, publishing, metaphor, ai-first-notes, openknowledge] | 2 |
 | [DRAYMOND](concepts/draymond-defense.md) | [basketball, nba, analytics, defense, statistics] | 1 |
@@ -1839,7 +1840,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 | [Real Adjusted Plus Minus](concepts/real-adjusted-plus-minus.md) | [basketball, nba, analytics, statistics, regression] | 1 |
 | [Right to Repair](concepts/right-to-repair.md) | [repair, ownership, consumer-protection, agriculture, software-locks, ftc] | 1 |
 | [Replacement Level WAR](concepts/replacement-level-war.md) | [basketball, nba, analytics, statistics, value] | 1 |
-| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 402 |
+| [Risk-Off Market Rotation](concepts/risk-off-market-rotation.md) | markets, investing, risk-off, equities, crypto, rotation, semiconductors, crude-oil, small-caps, retail, risk-on, treasury, energy, nasdaq | 403 |
 | [Software Supply Chain Security](concepts/software-supply-chain-security.md) | cybersecurity, software-supply-chain, npm, packages, provenance, developer-tools, ci-cd, credentials, threat-intelligence | 13 |
 | [Open Source Funding](concepts/open-source-funding.md) | open-source, foss, funding, software-sustainability, maintainers, digital-infrastructure | 1 |
 | [Agentic AI Security](concepts/agentic-ai-security.md) | ai, agents, cybersecurity, authorization, containment, identity, auditability, mcp, interoperability | 20 |
