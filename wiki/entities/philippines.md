@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-13
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 65
+source_count: 66
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 65
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-evening.md) — Tracks military support for cutting communications with China's military, the reported narrowing of Sara Duterte's cases to an unexplained-wealth matter, and Marcos's pledge to protect free expression.
 
 - [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-noon.md) — Tracks the reported move to drop three of four Sara Duterte cases while retaining an unexplained-wealth matter, El Niño water-storage preparation, and an ICC status conference ahead of Rodrigo Duterte's reported trial date.
 

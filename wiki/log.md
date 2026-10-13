@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-13] ingest | Evening Brief — Tuesday, October 13, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-13-evening-dispatch.md`
+- Summary: October 13 evening brief — rising-rate and sovereign-yield pressure, a reported $1.2 billion Treasury penalty against Bank of America, Philippine military-China communications and Sara Duterte case developments, Google's personal-app hosting and Gemini coverage, an alleged OpenAI physical-security incident, continued technology and chip losses, a 7.57% mortgage quote, and WTI at $94.79.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-13-evening.md` (new); entity pages `philippines`, `google`, `openai`, `us-treasury`, `wti`; concept page `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to noon, broad-index losses narrow, WTI rises $0.60, Bitcoin rises $10.31, and the long yield declines 1.1 basis points. Legal, political, health, product, model, security, market, injury, and sports claims need primary-source confirmation; timestamps, baselines, feeds, and contract identifiers require reconciliation, and several sports links, labels, dates, or schedules are indirect or inconsistent.
+
 ## [2026-10-13] ingest | Noon Dispatch — Tuesday, October 13, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-13-noon-dispatch.md`
 - Summary: October 13 noon dispatch — recurring-shock and calendar-phishing warnings, a narrowed Sara Duterte case and another Duterte ICC conference, renewed AI kill-switch debate, Lake Mead's persistent scarcity, broad equity and semiconductor losses, a 7.57% mortgage quote, and WTI at $94.19.
