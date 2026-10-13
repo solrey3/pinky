@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-13] ingest | Noon Dispatch — Tuesday, October 13, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-13-noon-dispatch.md`
+- Summary: October 13 noon dispatch — recurring-shock and calendar-phishing warnings, a narrowed Sara Duterte case and another Duterte ICC conference, renewed AI kill-switch debate, Lake Mead's persistent scarcity, broad equity and semiconductor losses, a 7.57% mortgage quote, and WTI at $94.19.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-13-noon.md` (new); entity pages `philippines`, `wti`; concept pages `ai-shutdown-powers`, `western-water-scarcity`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to morning, the S&P turns negative, Nasdaq and Russell losses deepen, WTI rises $2.10, Bitcoin falls $168.15, and the long yield declines 2.4 basis points. Legal, political, economic, AI-control, environmental, market, injury, and sports claims need primary-source confirmation; timestamps, baselines, feeds, and contract identifiers require reconciliation, and several sports links or labels are indirect or inconsistent.
+
 ## [2026-10-13] ingest | Morning Dispatch — Tuesday, October 13, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-13-daytime-dispatch.md`
 - Summary: October 13 morning dispatch — an IMF resilience warning, calendar phishing, reported federal activity at Ilhan Omar's home, Philippine El Niño preparation and a narrowed Sara Duterte impeachment case, AI kill-switch and ASI-ban proposals, Character.ai's reported bankruptcy and a Disney bid, repeated equity and semiconductor prices, a 7.57% mortgage quote, and WTI at $92.09.
