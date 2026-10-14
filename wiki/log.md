@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-14] ingest | Morning Dispatch — Wednesday, October 14, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-14-daytime-dispatch.md`
+- Summary: October 14 morning dispatch — rising-rate and IMF resilience warnings, continued White House press-access relief, Flock-surveillance scrutiny, Philippine drug-shipment, impeachment, and police-accountability developments, Apple's reported Homeview hub, repeated equity and semiconductor prices, a 7.47% mortgage quote, and WTI at $94.79.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-14-daytime.md` (new); entity pages `philippines`, `apple`, `flock-safety`, `wti`; concept pages `automated-license-plate-reader-surveillance`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The index, ETF, stock, long-yield, mortgage, and WTI figures repeat the October 13 evening snapshot; Bitcoin falls $744.51 from evening and $481.42 from midnight. Legal, political, economic, surveillance, product, model, migration, market, criminal, injury, and sports claims need primary-source confirmation; the Shkreli link is dated 2015 and does not match its headline, and several sports links, labels, dates, or schedules are indirect or inconsistent.
+
 ## [2026-10-14] ingest | Midnight Dispatch — Wednesday, October 14, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-14-midnight-dispatch.md`
 - Summary: October 14 midnight dispatch — rising-rate and sovereign-yield pressure, an IMF resilience warning, calendar phishing, extended White House press-access relief, Philippine ICC and defense-logistics developments, reported Ledger hardware tampering, repeated equity and semiconductor prices, a 7.47% mortgage quote, and WTI at $94.77.

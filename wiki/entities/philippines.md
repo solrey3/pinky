@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-14
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 67
+source_count: 68
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 67
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — Tracks the suspected organizer of a Laos methamphetamine shipment, political incentives around narrowing Sara Duterte's impeachment case, and dismissal of an officer whose gun was used in a Tacloban school shooting.
 
 - [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-midnight.md) — Tracks the ICC's reported rejection of Rodrigo Duterte's proposed 10,000-item evidence cap, ITCZ rain risk, defense-logistics constraints, and a Pangasinan firearms operation.
 
