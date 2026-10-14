@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-14] ingest | Evening Brief — Wednesday, October 14, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-14-evening-dispatch.md`
+- Summary: October 14 evening brief — higher gasoline-linked inflation, a reported Character.AI bankruptcy opening for Disney, a multistate OpenAI safety-claims lawsuit, Philippine hunger at 22.6%, NASA Venus-mission reprieves, deeper technology and chip losses, a 7.47% mortgage quote, and WTI at $95.17.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-14-evening.md` (new); entity pages `philippines`, `openai`, `disney`, `nasa`, `wti`; concept pages `ai-model-safety-boundaries`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to noon, Nasdaq, Russell, and semiconductor losses deepen, WTI rises $0.08, and Bitcoin rises $96.69 while the mortgage quote is unchanged. Legal, political, economic, bankruptcy, AI-safety, market, criminal, health, injury, and sports claims need primary-source confirmation; several sports links, labels, dates, or schedules are indirect or inconsistent.
+
 ## [2026-10-14] ingest | Noon Dispatch — Wednesday, October 14, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-14-noon-dispatch.md`
 - Summary: October 14 noon dispatch — reported Starlink speed restrictions affecting Ukrainian operations, Sara Duterte impeachment polling and refusal to resign, Philippine water-conservation warnings, Anthropic's small-model self-replication research, passkey security, deeper technology and chip losses, a 7.47% mortgage quote, and WTI at $95.09.

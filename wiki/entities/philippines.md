@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-14
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 69
+source_count: 70
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 69
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-evening.md) — Tracks reported Q3 household hunger of 22.6%, Sara Duterte's renewed refusal to resign, and the December target for EDSA sidewalk expansion from Pasay to Makati.
 
 - [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Tracks polling support for Sara Duterte testifying in her impeachment trial, her refusal to resign, and water-conservation warnings ahead of a threatened “Super El Niño.”
 
