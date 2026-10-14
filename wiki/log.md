@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-14] ingest | Midnight Dispatch — Wednesday, October 14, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-14-midnight-dispatch.md`
+- Summary: October 14 midnight dispatch — rising-rate and sovereign-yield pressure, an IMF resilience warning, calendar phishing, extended White House press-access relief, Philippine ICC and defense-logistics developments, reported Ledger hardware tampering, repeated equity and semiconductor prices, a 7.47% mortgage quote, and WTI at $94.77.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-14-midnight.md` (new); entity pages `philippines`, `google`, `wti`; concept pages `press-freedom`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The index, ETF, stock, and long-yield figures repeat the prior evening snapshot; WTI falls $0.02, Bitcoin rises $263.09, and the mortgage quote falls ten basis points. Legal, economic, cybersecurity, model, market, criminal, injury, and sports claims need primary-source confirmation; the Ars Technica link is dated 2022 and does not match its headline, and several sports links, labels, dates, or live-score rows are indirect or inconsistent.
+
 ## [2026-10-13] ingest | Evening Brief — Tuesday, October 13, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-13-evening-dispatch.md`
 - Summary: October 13 evening brief — rising-rate and sovereign-yield pressure, a reported $1.2 billion Treasury penalty against Bank of America, Philippine military-China communications and Sara Duterte case developments, Google's personal-app hosting and Gemini coverage, an alleged OpenAI physical-security incident, continued technology and chip losses, a 7.57% mortgage quote, and WTI at $94.79.
