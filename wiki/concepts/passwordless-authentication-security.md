@@ -3,9 +3,9 @@ id: f4920320-b9e2-4689-9b16-c40b4571e4af
 title: Passwordless Authentication Security
 type: concept
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-10-14
 tags: [security, authentication, passkeys, webauthn, identity]
-source_count: 1
+source_count: 2
 ---
 
 # Passwordless Authentication Security
@@ -13,6 +13,8 @@ source_count: 1
 Passwordless authentication replaces shared secrets with cryptographic authenticators such as passkeys. It reduces phishing and password-reuse risk, but security still depends on correct relying-party validation, authenticator binding, account recovery, session handling, and implementation quality.
 
 ## Sources
+
+- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Presents passkeys as a sound password replacement while reinforcing that recovery, synchronization, enrollment, sessions, and relying-party validation remain security boundaries.
 
 - [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — A reported “Pass-ta-key” attack shows that passkeys narrow the credential attack surface without eliminating authentication-system failures.
 

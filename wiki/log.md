@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-14] ingest | Noon Dispatch — Wednesday, October 14, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-14-noon-dispatch.md`
+- Summary: October 14 noon dispatch — reported Starlink speed restrictions affecting Ukrainian operations, Sara Duterte impeachment polling and refusal to resign, Philippine water-conservation warnings, Anthropic's small-model self-replication research, passkey security, deeper technology and chip losses, a 7.47% mortgage quote, and WTI at $95.09.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-14-noon.md` (new); entity pages `ukraine`, `starlink`, `anthropic`, `philippines`, `wti`; concept pages `ai-self-replication-risk` (new), `passwordless-authentication-security`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to morning, Nasdaq, Russell, and semiconductor losses deepen, WTI rises $0.30, and Bitcoin falls $1,566.70 while the mortgage quote is unchanged. Political, medical, military, AI-safety, market, criminal, injury, and sports claims need primary-source confirmation; several sports links, dates, labels, or schedules are indirect or inconsistent.
+
 ## [2026-10-14] ingest | Morning Dispatch — Wednesday, October 14, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-14-daytime-dispatch.md`
 - Summary: October 14 morning dispatch — rising-rate and IMF resilience warnings, continued White House press-access relief, Flock-surveillance scrutiny, Philippine drug-shipment, impeachment, and police-accountability developments, Apple's reported Homeview hub, repeated equity and semiconductor prices, a 7.47% mortgage quote, and WTI at $94.79.
