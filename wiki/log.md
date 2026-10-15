@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-15] ingest | Morning Dispatch — Thursday, October 15, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-15-daytime-dispatch.md`
+- Summary: October 15 morning dispatch — gasoline-linked inflation, Philippine inflation anxiety and a record onion-cartel fine, reported Starlink restrictions affecting Ukraine, Fourth Amendment scrutiny of Flock cameras, connected-refrigeration cyber risk, OpenCode 2.0, repeated technology and chip losses, a 7.50% mortgage quote, and WTI at $93.52.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-15-daytime.md` (new); entity pages `philippines`, `ukraine`, `starlink`, `flock-safety`, `opencode`, `wti`; concept pages `automated-license-plate-reader-surveillance`, `critical-infrastructure-cybersecurity`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The equity, ETF, stock, and long-yield board repeats the midnight snapshot; WTI falls $0.51, Bitcoin rises $358.15, and the mortgage quote remains 7.50%. Legal, political, economic, military, cyber, product, market, injury, and sports claims need primary-source confirmation; the refrigerator item is labeled as an Ars Technica feed entry but links to CNN, and several sports links, dates, labels, or schedules are indirect or inconsistent.
+
 ## [2026-10-15] ingest | Midnight Dispatch — Thursday, October 15, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-15-midnight-dispatch.md`
 - Summary: October 15 midnight dispatch — gasoline-linked inflation, Philippine peso weakness beyond 63 per dollar, 22.6% household hunger, $3.03 billion in August remittances, cyber-physical refrigeration risk, OpenCode 2.0, reported Anthropic growth pressure, repeated technology and chip losses, a 7.50% mortgage quote, and WTI at $94.03.

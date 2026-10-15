@@ -4,9 +4,9 @@ title: Flock Safety
 type: entity
 entity_type: organization
 created: 2026-07-24
-updated: 2026-10-14
+updated: 2026-10-15
 tags: [surveillance, law-enforcement, license-plate-readers, privacy, policing]
-source_count: 32
+source_count: 33
 ---
 
 # Flock Safety
@@ -14,6 +14,8 @@ source_count: 32
 Surveillance-technology company associated with license-plate reader and vehicle-location systems used by law enforcement.
 
 ## Sources
+
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Frames Flock-camera regulation as a Fourth Amendment problem, reinforcing warrant, retention, access, audit, accuracy, and remedy requirements.
 
 - [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — Adds a federal judge's warning about Flock-enabled mass surveillance to continuing constitutional scrutiny of networked vehicle tracking.
 

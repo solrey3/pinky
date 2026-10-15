@@ -4,9 +4,9 @@ title: Starlink
 type: entity
 entity_type: product
 created: 2026-08-01
-updated: 2026-10-14
+updated: 2026-10-15
 tags: [satellite-networking, spacex, ukraine, communications, infrastructure, geopolitics, battlefield-connectivity]
-source_count: 2
+source_count: 3
 ---
 
 # Starlink
@@ -14,6 +14,8 @@ source_count: 2
 Starlink is SpaceX's satellite-internet service. In this wiki it matters when connectivity becomes infrastructure leverage in war, disaster response, rural access, or platform-control disputes.
 
 ## Sources
+
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Repeats reported performance restrictions affecting Ukrainian attacks and attributes Starshield limits to U.S. military and presidential control; both claims need primary confirmation.
 
 - [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Ukraine reportedly says a speed restriction is disrupting attacks, extending Starlink's role from network availability to provider-controlled battlefield performance.
 

@@ -4,9 +4,9 @@ title: Ukraine
 type: entity
 entity_type: place
 created: 2026-07-01
-updated: 2026-10-14
+updated: 2026-10-15
 tags: [ukraine, geopolitics, war, russia, europe, security, diplomacy, air-defense, starlink]
-source_count: 25
+source_count: 26
 ---
 
 # Ukraine
@@ -14,6 +14,8 @@ source_count: 25
 Ukraine is a European state central to the continuing Russia-Ukraine war. In the newsletter graph, it functions as a geopolitical risk marker rather than a market ticker.
 
 ## Sources
+
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Repeats Ukraine's report that Starlink restrictions are disrupting attacks, keeping provider-controlled network performance in the battlefield-dependency frame.
 
 - [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Reportedly says a Starlink speed restriction is disrupting battlefield attacks, making provider-controlled network performance an operational dependency requiring primary confirmation.
 
