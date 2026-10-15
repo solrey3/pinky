@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-15] ingest | Noon Dispatch — Thursday, October 15, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-15-noon-dispatch.md`
+- Summary: October 15 noon dispatch — worsening inflation, Philippine inflation anxiety and El Niño water preparation, renewed concern over a reported U.S.–Russia diesel arrangement, repeated connected-refrigeration cyber risk, continued technology and chip losses, a 7.50% mortgage quote, and WTI at $96.10.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-15-noon.md` (new); entity pages `donald-trump`, `philippines`, `wti`; concept pages `critical-infrastructure-cybersecurity`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. Relative to morning, WTI rises $2.58, Bitcoin rises $1,180.71, the long yield falls 9.9 basis points, and the mortgage quote remains 7.50%. Political, legal, economic, diplomatic, cyber, market, injury, and sports claims need primary-source confirmation; the refrigerator item is labeled as Ars Technica but links to CNN, the Lakers preview links to an Atlanta Hawks article, the Jorge Polanco item links to a Pete Alonso story, and several other sports links, dates, labels, or schedules are indirect or inconsistent.
+
 ## [2026-10-15] ingest | Morning Dispatch — Thursday, October 15, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-15-daytime-dispatch.md`
 - Summary: October 15 morning dispatch — gasoline-linked inflation, Philippine inflation anxiety and a record onion-cartel fine, reported Starlink restrictions affecting Ukraine, Fourth Amendment scrutiny of Flock cameras, connected-refrigeration cyber risk, OpenCode 2.0, repeated technology and chip losses, a 7.50% mortgage quote, and WTI at $93.52.

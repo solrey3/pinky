@@ -6,7 +6,7 @@ entity_type: place
 created: 2026-07-18
 updated: 2026-10-15
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 72
+source_count: 73
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 72
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-noon.md) — Tracks inflation as Filipinos' leading concern, Sandro Marcos joining Lakas, and mobile-water deployment as El Niño preparation.
 
 - [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Tracks inflation as the leading public concern, a reported record ₱1.76 billion onion-cartel fine, and basic-goods supply assurances ahead of a threatened “Super El Niño.”
 

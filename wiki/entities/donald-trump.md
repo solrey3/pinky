@@ -4,9 +4,9 @@ title: Donald Trump
 type: entity
 entity_type: person
 created: 2026-06-17
-updated: 2026-10-13
+updated: 2026-10-15
 tags: [politics, united-states, president, republican-party, trump, elections, iran, habeas-corpus, diplomacy, civil-liberties, qatar, hormuz, michigan, war-powers, primaries, save-america-act, postal-service, voter-data, birthright-citizenship, immigration, tariffs, press-freedom]
-source_count: 87
+source_count: 88
 ---
 
 # Donald Trump
@@ -14,6 +14,8 @@ source_count: 87
 U.S. political figure and Republican Party leader. In the newsletter graph, Trump is tracked as a recurring actor in U.S. elections, executive-power disputes, foreign-policy claims, and institutional-conflict stories.
 
 ## Sources
+
+- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-noon.md) — Appears in the White House decision not to livestream Nidal Hasan's military execution and in renewed European concern over a reported U.S.–Russia diesel arrangement affecting Ukraine.
 
 - [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-midnight.md) — Again declares a Russia-Ukraine energy ceasefire without reported Russian confirmation or agreement text.
 
