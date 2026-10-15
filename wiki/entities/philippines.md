@@ -15,151 +15,151 @@ The Philippines is tracked in the newsletter graph through Makati weather, marit
 
 ## Sources
 
-- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-noon.md) — Tracks inflation as Filipinos' leading concern, Sandro Marcos joining Lakas, and mobile-water deployment as El Niño preparation.
+- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-noon.md) — Tracks inflation as Filipinos' leading concern, Sandro Marcos joining Lakas, and mobile-water deployment as El Niño preparation.
 
-- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Tracks inflation as the leading public concern, a reported record ₱1.76 billion onion-cartel fine, and basic-goods supply assurances ahead of a threatened “Super El Niño.”
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-daytime.md) — Tracks inflation as the leading public concern, a reported record ₱1.76 billion onion-cartel fine, and basic-goods supply assurances ahead of a threatened “Super El Niño.”
 
-- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-midnight.md) — Tracks the peso weakening beyond 63 per dollar, reported Q3 household hunger of 22.6%, a drug-war family's truth-commission appeal, and $3.03 billion in August cash remittances.
+- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-midnight.md) — Tracks the peso weakening beyond 63 per dollar, reported Q3 household hunger of 22.6%, a drug-war family's truth-commission appeal, and $3.03 billion in August cash remittances.
 
-- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-evening.md) — Tracks reported Q3 household hunger of 22.6%, Sara Duterte's renewed refusal to resign, and the December target for EDSA sidewalk expansion from Pasay to Makati.
+- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-evening.md) — Tracks reported Q3 household hunger of 22.6%, Sara Duterte's renewed refusal to resign, and the December target for EDSA sidewalk expansion from Pasay to Makati.
 
-- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Tracks polling support for Sara Duterte testifying in her impeachment trial, her refusal to resign, and water-conservation warnings ahead of a threatened “Super El Niño.”
+- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-noon.md) — Tracks polling support for Sara Duterte testifying in her impeachment trial, her refusal to resign, and water-conservation warnings ahead of a threatened “Super El Niño.”
 
-- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — Tracks the suspected organizer of a Laos methamphetamine shipment, political incentives around narrowing Sara Duterte's impeachment case, and dismissal of an officer whose gun was used in a Tacloban school shooting.
+- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-daytime.md) — Tracks the suspected organizer of a Laos methamphetamine shipment, political incentives around narrowing Sara Duterte's impeachment case, and dismissal of an officer whose gun was used in a Tacloban school shooting.
 
-- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-midnight.md) — Tracks the ICC's reported rejection of Rodrigo Duterte's proposed 10,000-item evidence cap, ITCZ rain risk, defense-logistics constraints, and a Pangasinan firearms operation.
+- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-midnight.md) — Tracks the ICC's reported rejection of Rodrigo Duterte's proposed 10,000-item evidence cap, ITCZ rain risk, defense-logistics constraints, and a Pangasinan firearms operation.
 
-- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-evening.md) — Tracks military support for cutting communications with China's military, the reported narrowing of Sara Duterte's cases to an unexplained-wealth matter, and Marcos's pledge to protect free expression.
+- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-evening.md) — Tracks military support for cutting communications with China's military, the reported narrowing of Sara Duterte's cases to an unexplained-wealth matter, and Marcos's pledge to protect free expression.
 
-- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-noon.md) — Tracks the reported move to drop three of four Sara Duterte cases while retaining an unexplained-wealth matter, El Niño water-storage preparation, and an ICC status conference ahead of Rodrigo Duterte's reported trial date.
+- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-noon.md) — Tracks the reported move to drop three of four Sara Duterte cases while retaining an unexplained-wealth matter, El Niño water-storage preparation, and an ICC status conference ahead of Rodrigo Duterte's reported trial date.
 
-- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-daytime.md) — Tracks permission to drop three of four charges in Sara Duterte's impeachment case, her refusal to resign, and the government's defense of household water storage as El Niño preparation.
+- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-daytime.md) — Tracks permission to drop three of four charges in Sara Duterte's impeachment case, her refusal to resign, and the government's defense of household water storage as El Niño preparation.
 
-- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-midnight.md) — Tracks Sara Duterte's impeachment trial and a ₱1.5 billion unexplained-wealth estimate, plus Visayas power shortages and higher Meralco generation costs.
+- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-midnight.md) — Tracks Sara Duterte's impeachment trial and a ₱1.5 billion unexplained-wealth estimate, plus Visayas power shortages and higher Meralco generation costs.
 
-- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletter-2026-10-12-evening.md) — Tracks Sara Duterte's claim that Marcos has viewed her as a threat since 2023 and another quorum interruption in her impeachment trial.
+- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-evening.md) — Tracks Sara Duterte's claim that Marcos has viewed her as a threat since 2023 and another quorum interruption in her impeachment trial.
 
-- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Tracks an NBI review of 121 Duterte properties, a quorum interruption in Sara Duterte's impeachment trial, and PAL's continuing Riyadh-flight suspension.
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-noon.md) — Tracks an NBI review of 121 Duterte properties, a quorum interruption in Sara Duterte's impeachment trial, and PAL's continuing Riyadh-flight suspension.
 
-- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Tracks Sara Duterte's impeachment trial, PAL's Riyadh-service suspension after airport attacks, and House approval of proposed safeguards for children online.
+- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-daytime.md) — Tracks Sara Duterte's impeachment trial, PAL's Riyadh-service suspension after airport attacks, and House approval of proposed safeguards for children online.
 
-- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Tracks a ₱2.64 billion Meralco customer refund, Sara Duterte's impeachment trial and response to an alleged Chinese remittance to Cale88, and four Filipinos reportedly injured at Riyadh airport.
+- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-midnight.md) — Tracks a ₱2.64 billion Meralco customer refund, Sara Duterte's impeachment trial and response to an alleged Chinese remittance to Cale88, and four Filipinos reportedly injured at Riyadh airport.
 
-- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — Tracks prosecutors resting their impeachment case against Sara Duterte, Lino Cayetano becoming Marcos's sixth communications chief, and Marcos describing an Ayungin medical-evacuation incident as a potentially new phase of West Philippine Sea escalation.
+- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-evening.md) — Tracks prosecutors resting their impeachment case against Sara Duterte, Lino Cayetano becoming Marcos's sixth communications chief, and Marcos describing an Ayungin medical-evacuation incident as a potentially new phase of West Philippine Sea escalation.
 
-- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — Tracks three Filipinos reportedly in intensive care after the Riyadh airport attack and Marcos administration communications-office turnover involving Lino Cayetano, Henry Aguda, Jay-R Ruiz, and Vince Dizon.
+- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-noon.md) — Tracks three Filipinos reportedly in intensive care after the Riyadh airport attack and Marcos administration communications-office turnover involving Lino Cayetano, Henry Aguda, Jay-R Ruiz, and Vince Dizon.
 
-- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-daytime.md) — Tracks two Filipinos critically injured after a Riyadh airport attack, Rappler's account of investigating Sara Duterte-linked Davao contracts, selected class suspensions, and another ICC status conference in Rodrigo Duterte's case.
+- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-daytime.md) — Tracks two Filipinos critically injured after a Riyadh airport attack, Rappler's account of investigating Sara Duterte-linked Davao contracts, selected class suspensions, and another ICC status conference in Rodrigo Duterte's case.
 
-- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-midnight.md) — Tracks a Chinese militia vessel and 22 sampans reportedly entering Palawan waters, ITCZ rain, a remembrance of activist and jeepney driver Elmer Cordero, and two Tondo fires.
+- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-midnight.md) — Tracks a Chinese militia vessel and 22 sampans reportedly entering Palawan waters, ITCZ rain, a remembrance of activist and jeepney driver Elmer Cordero, and two Tondo fires.
 
-- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-evening.md) — Tracks Marcos's regret over halting the Bataan Nuclear Power Plant, approval for Meralco to raise its own fees, Sara Duterte's impeachment trial, and the Jesus Is Lord Church anniversary.
+- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-evening.md) — Tracks Marcos's regret over halting the Bataan Nuclear Power Plant, approval for Meralco to raise its own fees, Sara Duterte's impeachment trial, and the Jesus Is Lord Church anniversary.
 
-- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-noon.md) — Tracks the CALABARZON wage increase, seven additional drug-war incidents admitted in Rodrigo Duterte's ICC case, Sara Duterte's impeachment trial, and remote Sandiganbayan participation for Romualdez.
+- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-noon.md) — Tracks the CALABARZON wage increase, seven additional drug-war incidents admitted in Rodrigo Duterte's ICC case, Sara Duterte's impeachment trial, and remote Sandiganbayan participation for Romualdez.
 
-- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Tracks a CALABARZON minimum-wage increase of up to ₱45 per day, a reported DICT leadership change, and farmer-focused ASEAN food-security initiatives.
+- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-daytime.md) — Tracks a CALABARZON minimum-wage increase of up to ₱45 per day, a reported DICT leadership change, and farmer-focused ASEAN food-security initiatives.
 
-- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-midnight.md) — Tracks the ₱818 million unexplained-wealth allegation in Sara Duterte's trial, the effects of postponing barangay and SK elections until 2028, and an alleged gun-for-hire supplier's arrest.
+- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-midnight.md) — Tracks the ₱818 million unexplained-wealth allegation in Sara Duterte's trial, the effects of postponing barangay and SK elections until 2028, and an alleged gun-for-hire supplier's arrest.
 
-- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletter-2026-10-09-evening.md) — Tracks the reported dismissal of a bribery case against Sara Duterte, removal of the impeachment-trial livestream on privacy grounds, and a maritime encounter involving a Chinese ship and 22 smaller vessels.
+- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-evening.md) — Tracks the reported dismissal of a bribery case against Sara Duterte, removal of the impeachment-trial livestream on privacy grounds, and a maritime encounter involving a Chinese ship and 22 smaller vessels.
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Tracks Cardinal Tagle's elevation, Sara Duterte's impeachment trial and an undisclosed-wealth allegation, and the Coast Guard's medical-evacuation account of an Ayungin mission.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — Tracks Cardinal Tagle's elevation, Sara Duterte's impeachment trial and an undisclosed-wealth allegation, and the Coast Guard's medical-evacuation account of an Ayungin mission.
 
-- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Tracks Rodrigo Duterte's fitness for ICC trial, a fatal Cebu City landslide, and proposed substitute buses along the capacity-constrained LRT-2 route.
+- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-daytime.md) — Tracks Rodrigo Duterte's fitness for ICC trial, a fatal Cebu City landslide, and proposed substitute buses along the capacity-constrained LRT-2 route.
 
-- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Tracks Rodrigo Duterte's fitness for ICC trial, Sara Duterte's impeachment proceedings, a fatal Basilan ambush, and pork-industry demands for import restrictions.
+- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-midnight.md) — Tracks Rodrigo Duterte's fitness for ICC trial, Sara Duterte's impeachment proceedings, a fatal Basilan ambush, and pork-industry demands for import restrictions.
 
-- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-evening.md) — Tracks Rodrigo Duterte's fitness for ICC trial, Leviste's legal status, and FedEx's planned Clark logistics-hub expansion.
+- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-evening.md) — Tracks Rodrigo Duterte's fitness for ICC trial, Leviste's legal status, and FedEx's planned Clark logistics-hub expansion.
 
-- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-noon.md) — Tracks easier recognition of foreign divorces, Rodrigo Duterte's fitness for ICC trial, Taal-area evacuations, and ASEAN power-grid integration.
+- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-noon.md) — Tracks easier recognition of foreign divorces, Rodrigo Duterte's fitness for ICC trial, Taal-area evacuations, and ASEAN power-grid integration.
 
-- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Tracks Sara Duterte's impeachment trial, a ruling easing recognition of foreign divorces, and the DOJ's warning over six million unaccounted disability IDs.
+- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-daytime.md) — Tracks Sara Duterte's impeachment trial, a ruling easing recognition of foreign divorces, and the DOJ's warning over six million unaccounted disability IDs.
 
-- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Tracks Marcos's Singapore investment and regional talks, Sara Duterte's impeachment proceedings, and the Ombudsman's statement that indigenous peoples' rights must be protected in government projects.
+- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-midnight.md) — Tracks Marcos's Singapore investment and regional talks, Sara Duterte's impeachment proceedings, and the Ombudsman's statement that indigenous peoples' rights must be protected in government projects.
 
-- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Tracks calls for stronger primary and preventive care, Sara Duterte's continuing impeachment trial, and a jeepney driver's death during a transport strike.
+- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-evening.md) — Tracks calls for stronger primary and preventive care, Sara Duterte's continuing impeachment trial, and a jeepney driver's death during a transport strike.
 
-- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Tracks COA's reported final ₱73 million OVP confidential-funds disallowance and prosecutors' plan to add it to Sara Duterte's impeachment case.
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-noon.md) — Tracks COA's reported final ₱73 million OVP confidential-funds disallowance and prosecutors' plan to add it to Sara Duterte's impeachment case.
 
-- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Tracks unemployment reported at 2.77 million, a fabricated Duterte-family image as a synthetic-media warning, and condo demand supported by promotions and state-backed loans.
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-daytime.md) — Tracks unemployment reported at 2.77 million, a fabricated Duterte-family image as a synthetic-media warning, and condo demand supported by promotions and state-backed loans.
 
-- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Tracks unemployment reported at 2.77 million in August, continuing coverage of Sara Duterte's impeachment trial, and DICT Secretary Henry Aguda's denial of resignation rumors.
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-midnight.md) — Tracks unemployment reported at 2.77 million in August, continuing coverage of Sara Duterte's impeachment trial, and DICT Secretary Henry Aguda's denial of resignation rumors.
 
-- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Tracks a mutual legal-assistance pact with Poland, the ICC prosecutor's objection to an evidence-disclosure cap in Rodrigo Duterte's case, and prospective retail participation in the GCash IPO.
+- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-evening.md) — Tracks a mutual legal-assistance pact with Poland, the ICC prosecutor's objection to an evidence-disclosure cap in Rodrigo Duterte's case, and prospective retail participation in the GCash IPO.
 
-- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-noon.md) — Tracks El Niño calamity declarations across more than 100 areas, prospective retail participation in the GCash IPO, and calls for a larger PhilHealth budget.
+- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-noon.md) — Tracks El Niño calamity declarations across more than 100 areas, prospective retail participation in the GCash IPO, and calls for a larger PhilHealth budget.
 
-- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Tracks El Niño calamity declarations across more than 100 areas, Sara Duterte's impeachment trial, and warnings that heat and drought could raise power demand and electricity prices.
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-daytime.md) — Tracks El Niño calamity declarations across more than 100 areas, Sara Duterte's impeachment trial, and warnings that heat and drought could raise power demand and electricity prices.
 
-- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Tracks AMLC records in Sara Duterte's longest impeachment-trial day, renewed inflation concern, and a dispute over the provenance of Antonio Trillanes's trial material.
+- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-midnight.md) — Tracks AMLC records in Sara Duterte's longest impeachment-trial day, renewed inflation concern, and a dispute over the provenance of Antonio Trillanes's trial material.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Tracks national drought preparation, flagged transactions reportedly linked to Sara Duterte, the end of the southwest monsoon, and a proposed NCAP readiness inquiry.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Tracks national drought preparation, flagged transactions reportedly linked to Sara Duterte, the end of the southwest monsoon, and a proposed NCAP readiness inquiry.
 
-- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-noon.md) — Tracks flood-control reports tied to flagged transactions involving Sara Duterte, her impeachment trial, the end of the southwest monsoon, and a proposed readiness inquiry before NCAP traffic-camera enforcement returns.
+- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-noon.md) — Tracks flood-control reports tied to flagged transactions involving Sara Duterte, her impeachment trial, the end of the southwest monsoon, and a proposed readiness inquiry before NCAP traffic-camera enforcement returns.
 
-- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Tracks flood-control reports tied to flagged transactions involving Sara Duterte, her impeachment trial, uninsured MMDA flood-control assets, stricter pedestrian-incident rules, and obesity as a growing malnutrition problem.
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-daytime.md) — Tracks flood-control reports tied to flagged transactions involving Sara Duterte, her impeachment trial, uninsured MMDA flood-control assets, stricter pedestrian-incident rules, and obesity as a growing malnutrition problem.
 
-- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Tracks Sara Duterte's impeachment trial, the rejected bid to exclude an AMLC witness, the ICC's amended e-court protocol before Rodrigo Duterte's trial, and rain risk from Super Typhoon Choi-wan's trough.
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-midnight.md) — Tracks Sara Duterte's impeachment trial, the rejected bid to exclude an AMLC witness, the ICC's amended e-court protocol before Rodrigo Duterte's trial, and rain risk from Super Typhoon Choi-wan's trough.
 
-- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Tracks the ICC's amended e-court protocol before Rodrigo Duterte's trial, possible lived-name records in higher education, and a teachers' protest met by police near Malacañang.
+- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-evening.md) — Tracks the ICC's amended e-court protocol before Rodrigo Duterte's trial, possible lived-name records in higher education, and a teachers' protest met by police near Malacañang.
 
-- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Tracks a reported Chinese J-16 interception near Bajo de Masinloc, possible lived-name records in higher education, and official rejection of a false class-suspension graphic.
+- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-noon.md) — Tracks a reported Chinese J-16 interception near Bajo de Masinloc, possible lived-name records in higher education, and official rejection of a false class-suspension graphic.
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Tracks a possible change to Sara Duterte's impeachment case, a Philippine–Chinese military-aircraft encounter near Bajo de Masinloc, a 244-person anti-scam raid, and coastal erosion in La Union and Ilocos Sur.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Tracks a possible change to Sara Duterte's impeachment case, a Philippine–Chinese military-aircraft encounter near Bajo de Masinloc, a 244-person anti-scam raid, and coastal erosion in La Union and Ilocos Sur.
 
-- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Tracks the arrest of 244 mostly Chinese workers in a major POGO raid, proposed House additions to aid and road spending, and calls for expanded education funding.
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-midnight.md) — Tracks the arrest of 244 mostly Chinese workers in a major POGO raid, proposed House additions to aid and road spending, and calls for expanded education funding.
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Tracks the ICC's admission of written testimony in Rodrigo Duterte's case, mapped electricity-system losses, and expected battery storage for the outage-strained Visayas grid.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — Tracks the ICC's admission of written testimony in Rodrigo Duterte's case, mapped electricity-system losses, and expected battery storage for the outage-strained Visayas grid.
 
-- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-noon.md) — Tracks the ICC's admission of prior witness testimony in Rodrigo Duterte's case, mapped electricity-system losses, and battery storage expected to support the outage-strained Visayas grid.
+- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-noon.md) — Tracks the ICC's admission of prior witness testimony in Rodrigo Duterte's case, mapped electricity-system losses, and battery storage expected to support the outage-strained Visayas grid.
 
-- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — Tracks the ICC's admission of prior witness testimony in Rodrigo Duterte's case, a Philippines–Singapore subsea-cable cut, and household substitution away from high-priced LPG.
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-daytime.md) — Tracks the ICC's admission of prior witness testimony in Rodrigo Duterte's case, a Philippines–Singapore subsea-cable cut, and household substitution away from high-priced LPG.
 
-- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-midnight.md) — Tracks impeachment-verdict timing, an indigenous-rice award, Globe's response to a subsea-cable break, and investigation of lithium batteries after the deadly *MV June Aster* fire.
+- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-midnight.md) — Tracks impeachment-verdict timing, an indigenous-rice award, Globe's response to a subsea-cable break, and investigation of lithium batteries after the deadly *MV June Aster* fire.
 
-- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — Tracks a possible Senate-majority realignment, added school-safety funding, Sara Duterte's impeachment trial, and Customs' claimed elimination of abandoned balikbayan-box backlogs.
+- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-evening.md) — Tracks a possible Senate-majority realignment, added school-safety funding, Sara Duterte's impeachment trial, and Customs' claimed elimination of abandoned balikbayan-box backlogs.
 
-- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-noon.md) — Tracks rejection of China's claim near Batanes, Sara Duterte's impeachment trial, and NTC defense of telecom service-quality fines.
+- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-noon.md) — Tracks rejection of China's claim near Batanes, Sara Duterte's impeachment trial, and NTC defense of telecom service-quality fines.
 
-- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — Tracks proposed lower SK voting and candidacy ages, rejection of China's claim near Batanes, Sara Duterte's impeachment trial, and customs scrutiny of illegal online vape promotion.
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-daytime.md) — Tracks proposed lower SK voting and candidacy ages, rejection of China's claim near Batanes, Sara Duterte's impeachment trial, and customs scrutiny of illegal online vape promotion.
 
-- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-midnight.md) — Tracks the Supreme Court's Senate-quorum ruling, Sara Duterte's impeachment trial, GCash's planned record Philippine IPO, and an alleged scam-hub interception.
+- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-midnight.md) — Tracks the Supreme Court's Senate-quorum ruling, Sara Duterte's impeachment trial, GCash's planned record Philippine IPO, and an alleged scam-hub interception.
 
-- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — Tracks the revised Sara Duterte impeachment witness list, the Supreme Court's Senate-quorum ruling, and proposed additional DSWD program funding.
+- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-evening.md) — Tracks the revised Sara Duterte impeachment witness list, the Supreme Court's Senate-quorum ruling, and proposed additional DSWD program funding.
 
-- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Tracks the prospective Quiboloy extradition filing, witness selection in Sara Duterte's prosecution, public-spending delays attributed to cash constraints, and rice-stock preparation for a possible super El Niño.
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-daytime.md) — Tracks the prospective Quiboloy extradition filing, witness selection in Sara Duterte's prosecution, public-spending delays attributed to cash constraints, and rice-stock preparation for a possible super El Niño.
 
-- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Tracks Sara Duterte's impeachment trial, the Supreme Court's impeachment-threshold ruling, and diverging diesel and gasoline prices.
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-midnight.md) — Tracks Sara Duterte's impeachment trial, the Supreme Court's impeachment-threshold ruling, and diverging diesel and gasoline prices.
 
-- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — Tracks telecom firms' due-process challenge to regulatory fines, a widening probe involving Velasco, and the Supreme Court's dismissal of impeachment-threshold petitions.
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-evening.md) — Tracks telecom firms' due-process challenge to regulatory fines, a widening probe involving Velasco, and the Supreme Court's dismissal of impeachment-threshold petitions.
 
-- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Tracks the impeachment vote-threshold ruling, an electoral-sabotage investigation involving allegedly pre-shaded ballots, and food-supply assurances amid super El Niño risk.
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-noon.md) — Tracks the impeachment vote-threshold ruling, an electoral-sabotage investigation involving allegedly pre-shaded ballots, and food-supply assurances amid super El Niño risk.
 
-- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — Tracks dismissal of vote-threshold petitions in Sara Duterte's impeachment trial, correction of a false social-media-fine claim, and DepEd's response to infrastructure-audit findings.
+- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-daytime.md) — Tracks dismissal of vote-threshold petitions in Sara Duterte's impeachment trial, correction of a false social-media-fine claim, and DepEd's response to infrastructure-audit findings.
 
-- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — Tracks the ICC's rejection of Rodrigo Duterte's evidence-verification request, BARMM parliamentary preparations, a GCash outage, and an Occidental Mindoro earthquake.
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-midnight.md) — Tracks the ICC's rejection of Rodrigo Duterte's evidence-verification request, BARMM parliamentary preparations, a GCash outage, and an Occidental Mindoro earthquake.
 
-- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — Tracks the ICC's rejection of a Duterte-camp digital-evidence challenge and the impeachment court's one-day procedural pause before an October 1 resumption.
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-evening.md) — Tracks the ICC's rejection of a Duterte-camp digital-evidence challenge and the impeachment court's one-day procedural pause before an October 1 resumption.
 
-- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-noon.md) — Tracks the brief procedural pause in Sara Duterte's impeachment trial, a revised electricity-bill format, and EJ Obiena's record-setting Asian Games title defense.
+- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-noon.md) — Tracks the brief procedural pause in Sara Duterte's impeachment trial, a revised electricity-bill format, and EJ Obiena's record-setting Asian Games title defense.
 
-- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — Tracks a reported Coast Guard encounter near Kota Island, Sara Duterte impeachment testimony, and a proposed government-employee allowance increase.
+- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-daytime.md) — Tracks a reported Coast Guard encounter near Kota Island, Sara Duterte impeachment testimony, and a proposed government-employee allowance increase.
 
-- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — Tracks a court challenge to delayed barangay and SK elections, Sara Duterte's impeachment trial, and NTC broadband-quality fines against the three major carriers.
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-midnight.md) — Tracks a court challenge to delayed barangay and SK elections, Sara Duterte's impeachment trial, and NTC broadband-quality fines against the three major carriers.
 
-- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Tracks telecom opposition to proposed service-quality fines, Sara Duterte's impeachment trial, and the aftermath of a German bus crash involving Filipinos.
+- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-evening.md) — Tracks telecom opposition to proposed service-quality fines, Sara Duterte's impeachment trial, and the aftermath of a German bus crash involving Filipinos.
 
-- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Accountability coverage spans a ₱7.44-billion plunder bail request, Sara Duterte's impeachment trial, and audit findings on incomplete or ghost school projects.
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-noon.md) — Accountability coverage spans a ₱7.44-billion plunder bail request, Sara Duterte's impeachment trial, and audit findings on incomplete or ghost school projects.
 
-- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Expands accountability coverage from Sara Duterte's impeachment trial to disputed Taguig flood-control projects, while a U.N. walkout and higher aviation fuel surcharges add foreign-policy and household-cost dimensions.
+- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-daytime.md) — Expands accountability coverage from Sara Duterte's impeachment trial to disputed Taguig flood-control projects, while a U.N. walkout and higher aviation fuel surcharges add foreign-policy and household-cost dimensions.
 
-- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-midnight.md) — Opens Vice President Sara Duterte's Senate impeachment trial, with Baste Duterte expected before the impeachment court September 29–30.
+- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-midnight.md) — Opens Vice President Sara Duterte's Senate impeachment trial, with Baste Duterte expected before the impeachment court September 29–30.
 
-- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — Weighs stronger maritime protections while ADB feasibility funding advances a proposed Luzon–Visayas bridge.
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-evening.md) — Weighs stronger maritime protections while ADB feasibility funding advances a proposed Luzon–Visayas bridge.
 
-- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Receives U.S. backing after alleged Chinese maneuvers at Ayungin Shoal while its Coast Guard checks separate exercise reports near Bajo de Masinloc.
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-noon.md) — Receives U.S. backing after alleged Chinese maneuvers at Ayungin Shoal while its Coast Guard checks separate exercise reports near Bajo de Masinloc.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Makati opens hot and showery, while ESPN coverage frames Alex Eala as a national Filipino sports-devotion story.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Makati opens hot and showery, while ESPN coverage frames Alex Eala as a national Filipino sports-devotion story.
 
 ## Related
 

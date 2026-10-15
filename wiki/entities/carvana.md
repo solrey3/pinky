@@ -15,7 +15,7 @@ Carvana is an online used-car retailer. In the newsletter graph it appears as an
 
 ## Sources
 
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Carvana is an online used-car retailer. In the newsletter graph it appears as an auto-retail earnings and guidance signal.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Carvana is an online used-car retailer. In the newsletter graph it appears as an auto-retail earnings and guidance signal.
 
 ## Related
 

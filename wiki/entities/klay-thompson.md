@@ -35,7 +35,7 @@ Splash Bro. Four championships with Golden State, two-year recovery from Achille
 
 - [2026-05-27: Raw notes](../../raw/people/klay-thompson.md)
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Klay Thompson is listed among names to watch in post-LeBron NBA market chatter.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Klay Thompson is listed among names to watch in post-LeBron NBA market chatter.
 
 ## Related
 

@@ -14,17 +14,17 @@ AI battlefield autonomy is the use of machine-learning systems to perceive, trac
 
 ## Sources
 
-- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-midnight.md) — Repeats the reported military-intelligence hallucination, reinforcing that provenance and independent corroboration are escalation controls before machine output reaches command decisions.
+- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-midnight.md) — Repeats the reported military-intelligence hallucination, reinforcing that provenance and independent corroboration are escalation controls before machine output reaches command decisions.
 
-- [2026-09-19: Noon Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-noon.md) — Repeats the reported military-intelligence hallucination, showing how weak provenance and corroboration can turn model error into escalation risk before any weapon acts autonomously.
+- [2026-09-19: Noon Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-noon.md) — Repeats the reported military-intelligence hallucination, showing how weak provenance and corroboration can turn model error into escalation risk before any weapon acts autonomously.
 
-- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-daytime.md) — Repeats the reported military-intelligence hallucination and pairs it with FAA aviation AI, showing that provenance, corroboration, operator authority, and fallback procedures are shared safety-critical requirements.
+- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-daytime.md) — Repeats the reported military-intelligence hallucination and pairs it with FAA aviation AI, showing that provenance, corroboration, operator authority, and fallback procedures are shared safety-critical requirements.
 
-- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-midnight.md) — A reported AI hallucination about Chinese nuclear components nearly contributes to a U.S. attack, extending the autonomy problem upstream into intelligence validation and command decisions.
+- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-midnight.md) — A reported AI hallucination about Chinese nuclear components nearly contributes to a U.S. attack, extending the autonomy problem upstream into intelligence validation and command decisions.
 
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Reports compact edge models allowing drones to identify and attack targets autonomously, sharpening questions of human control, identification error, accountability, and disconnected operation.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — Reports compact edge models allowing drones to identify and attack targets autonomously, sharpening questions of human control, identification error, accountability, and disconnected operation.
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Auterion/Skyfall drone coverage shows autonomous target tracking becoming part of cheap Ukrainian kamikaze-drone deployment.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Auterion/Skyfall drone coverage shows autonomous target tracking becoming part of cheap Ukrainian kamikaze-drone deployment.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ Moonshine AI is tracked here for tiny speech-recognition and text-to-speech tool
 
 ## Sources
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Its micro speech recognition/TTS project is noted as sub-500kb audio AI with maker-board possibilities.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Its micro speech recognition/TTS project is noted as sub-500kb audio AI with maker-board possibilities.
 
 ## Related
 

@@ -15,7 +15,7 @@ Xbox is tracked as Microsoft’s gaming platform and business unit when platform
 
 ## Sources
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Xbox layoffs draw a rally at Bethesda HQ, turning gaming coverage into a labor and platform-strategy item.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Xbox layoffs draw a rally at Bethesda HQ, turning gaming coverage into a labor and platform-strategy item.
 
 ## Related
 

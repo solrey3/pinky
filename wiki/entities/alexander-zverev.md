@@ -38,27 +38,27 @@ The 2026 Roland Garros men's draw produced a final that nobody quite predicted: 
 
 ## Sources
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Reportedly defeats Ben Shelton to win the 2026 men's US Open title.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-evening.md) — Reportedly defeats Ben Shelton to win the 2026 men's US Open title.
 
-- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Roland Garros SF win**: def. (26) Jakub Menšík 7-5, 6-2, 3-6, 6-3. Men's Final confirmed: Zverev vs. Cobolli. Morning confirmation of finalist status and match details.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — **Roland Garros SF win**: def. (26) Jakub Menšík 7-5, 6-2, 3-6, 6-3. Men's Final confirmed: Zverev vs. Cobolli. Morning confirmation of finalist status and match details.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Zverev appears in Polymarket Wimbledon-winner chatter at **10%**, a prediction-market datapoint rather than a match result.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Zverev appears in Polymarket Wimbledon-winner chatter at **10%**, a prediction-market datapoint rather than a match result.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Zverev appears through Wimbledon/prediction-market context around Fritz vs. Zverev discussion.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Zverev appears through Wimbledon/prediction-market context around Fritz vs. Zverev discussion.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Zverev appears both as a Wimbledon result node and as Polymarket’s trending 2026 men’s Wimbledon winner candidate at **23%**.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Zverev appears both as a Wimbledon result node and as Polymarket’s trending 2026 men’s Wimbledon winner candidate at **23%**.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Zverev defeating Jiri Lehecka in four sets.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Zverev defeating Jiri Lehecka in four sets.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Wimbledon results and prediction-market chatter include Zverev wins and a Polymarket Wimbledon-winner line.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Wimbledon results and prediction-market chatter include Zverev wins and a Polymarket Wimbledon-winner line.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Wimbledon coverage has Zverev defeating Arthur Fery, while Polymarket lists him at **20%** for the 2026 men's title.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Wimbledon coverage has Zverev defeating Arthur Fery, while Polymarket lists him at **20%** for the 2026 men's title.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Zverev appears both in noisy prediction-market text and in the Wimbledon scoreboard with a straight-sets win over Arthur Fery.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Zverev appears both in noisy prediction-market text and in the Wimbledon scoreboard with a straight-sets win over Arthur Fery.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Zverev remains in the Wimbledon result stream as an advanced player in fetched results.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Zverev remains in the Wimbledon result stream as an advanced player in fetched results.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Zverev loses to Jannik Sinner in the Wimbledon men's singles result line.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Zverev loses to Jannik Sinner in the Wimbledon men's singles result line.
 
 ## Related
 

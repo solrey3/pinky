@@ -14,7 +14,7 @@ The practices and tools for continuous integration, deployment automation, syste
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Bor Linux desktop policy management and feed/parse failures connect desktop governance and operational visibility.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Bor Linux desktop policy management and feed/parse failures connect desktop governance and operational visibility.
 
 - [2026-05-10: lazygit Cheatsheet](sources/lazygit.md) — Terminal UI for git, the version control backbone of DevOps
 - [2026-05-10: lazydocker Cheatsheet](sources/lazydocker.md) — Container management and local dev environment orchestration

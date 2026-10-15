@@ -15,9 +15,9 @@ Tennessee city tracked here through local infrastructure, land-use, and eminent-
 
 ## Sources
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — The city approved eminent-domain action to block a data center near its zoo, moving the earlier proposal into formal action.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — The city approved eminent-domain action to block a data center near its zoo, moving the earlier proposal into formal action.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Considers eminent domain to stop a planned data center from disturbing zoo animals, tying compute infrastructure to takings politics.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Considers eminent domain to stop a planned data center from disturbing zoo animals, tying compute infrastructure to takings politics.
 
 ## Related
 

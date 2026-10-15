@@ -14,17 +14,17 @@ Geolocation data privacy is the governance problem around precise location trail
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Flock misuse arrests show how license-plate records can become searchable movement histories with audit and abuse risk.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Flock misuse arrests show how license-plate records can become searchable movement histories with audit and abuse risk.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Virginia's ban on geolocation-data sale makes commercial data brokerage a direct privacy-regulation target.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Virginia's ban on geolocation-data sale makes commercial data brokerage a direct privacy-regulation target.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — A Florida officer allegedly using a mass-surveillance network to stalk a romantic interest shows location/surveillance risk through insider misuse, not only brokers or warrants.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — A Florida officer allegedly using a mass-surveillance network to stalk a romantic interest shows location/surveillance risk through insider misuse, not only brokers or warrants.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Flock surveillance misuse arrests in Georgia reinforce insider abuse and auditability as core location-data risks.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Flock surveillance misuse arrests in Georgia reinforce insider abuse and auditability as core location-data risks.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Georgia arrests over Flock data misuse show license-plate surveillance can fail through credentialed insiders, not only external hacks or overbroad warrants.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Georgia arrests over Flock data misuse show license-plate surveillance can fail through credentialed insiders, not only external hacks or overbroad warrants.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Big Tech stonewalling of European social-media researchers keeps platform data access and auditability in the governance graph.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Big Tech stonewalling of European social-media researchers keeps platform data access and auditability in the governance graph.
 
 ## Related Concepts
 

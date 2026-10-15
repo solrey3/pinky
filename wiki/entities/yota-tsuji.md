@@ -15,7 +15,7 @@ Yota Tsuji is tracked as an NJPW wrestler and G1 Climax tournament participant.
 
 ## Sources
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Tsuji defeats Konosuke Takeshita on NJPW G1 Climax 36 Night 1.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Tsuji defeats Konosuke Takeshita on NJPW G1 Climax 36 Night 1.
 
 ## Related
 

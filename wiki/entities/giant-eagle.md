@@ -15,7 +15,7 @@ Regional U.S. grocery and convenience-store company. In the newsletter graph, Gi
 
 ## Sources
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — President Trump says Giant Eagle will lower prices on more than 300 products, making the chain a concrete grocery-price and cost-of-living policy anchor.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — President Trump says Giant Eagle will lower prices on more than 300 products, making the chain a concrete grocery-price and cost-of-living policy anchor.
 
 ## Related
 

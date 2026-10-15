@@ -15,130 +15,130 @@ Kalshi is a regulated prediction-market venue tracked here when event-contract p
 
 ## Sources
 
-- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — New Jersey asks the U.S. Supreme Court to affirm state authority over sports contracts as gambling; extraction again yields no reliable market data.
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-evening.md) — New Jersey asks the U.S. Supreme Court to affirm state authority over sports contracts as gambling; extraction again yields no reliable market data.
 
-- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-noon.md) — The court's gambling-not-swaps classification remains central while the data panel is unavailable.
+- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-noon.md) — The court's gambling-not-swaps classification remains central while the data panel is unavailable.
 
-- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — A court treats sports contracts as gambling rather than swaps while market-price extraction fails.
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-daytime.md) — A court treats sports contracts as gambling rather than swaps while market-price extraction fails.
 
-- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — A court treats sports contracts as gambling rather than swaps; the dispatch’s prediction-market data remain unavailable.
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-midnight.md) — A court treats sports contracts as gambling rather than swaps; the dispatch’s prediction-market data remain unavailable.
 
-- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — A Ninth Circuit ruling treats sports contracts as gambling rather than swaps while extraction remains unavailable.
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-evening.md) — A Ninth Circuit ruling treats sports contracts as gambling rather than swaps while extraction remains unavailable.
 
-- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — A Ninth Circuit ruling reportedly classifies its sports contracts as gambling rather than swaps.
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-noon.md) — A Ninth Circuit ruling reportedly classifies its sports contracts as gambling rather than swaps.
 
-- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — A CFTC order to keep operating escalates the conflict between federal derivatives authority and state gambling law.
+- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-evening.md) — A CFTC order to keep operating escalates the conflict between federal derivatives authority and state gambling law.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Prediction-market data is explicitly unavailable.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — Prediction-market data is explicitly unavailable.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Data remains unavailable.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Data remains unavailable.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Prediction-market data is explicitly unavailable.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — Prediction-market data is explicitly unavailable.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Prediction-market data was unavailable.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Prediction-market data was unavailable.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — The prediction-market feed remains unavailable.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — The prediction-market feed remains unavailable.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Kalshi data is explicitly unavailable in the prediction-market block.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Kalshi data is explicitly unavailable in the prediction-market block.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — The dispatch explicitly records Kalshi data as unavailable.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — The dispatch explicitly records Kalshi data as unavailable.
 
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — The prediction-market feed is explicitly marked unavailable.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Marked unavailable in the prediction-market section, preserving a feed gap.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Kalshi remains unavailable in the fetched extract, making prediction-market missingness part of the daily record.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Remains unavailable in the prediction-market section, preserving feed reliability as part of the evidence record.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Kalshi remains unavailable in the prediction-market section, preserving the extraction gap as part of the record.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Marked unavailable again, reinforcing forecast-feed provenance gaps.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Remains unavailable in this dispatch, preserving prediction-market feed gaps as part of the provenance record.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — The prediction-market feed is explicitly marked unavailable.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Marked unavailable in the prediction-market section, preserving a feed gap.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Kalshi remains unavailable in the fetched extract, making prediction-market missingness part of the daily record.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Remains unavailable in the prediction-market section, preserving feed reliability as part of the evidence record.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Kalshi remains unavailable in the prediction-market section, preserving the extraction gap as part of the record.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Marked unavailable again, reinforcing forecast-feed provenance gaps.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Remains unavailable in this dispatch, preserving prediction-market feed gaps as part of the provenance record.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Kalshi remains unavailable in the prediction-market section, preserving the extraction-gap note.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Kalshi remains unavailable in the prediction-market section, preserving the extraction-gap note.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Kalshi data remain unavailable, preserving prediction-market extraction limits as provenance.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Kalshi data remain unavailable, preserving prediction-market extraction limits as provenance.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Kalshi remains unavailable in the prediction-market section, preserving the feed-gap note.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Kalshi remains unavailable in the prediction-market section, preserving the feed-gap note.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Kalshi remains unavailable, continuing the prediction-market feed-gap pattern.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Kalshi remains unavailable, continuing the prediction-market feed-gap pattern.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Kalshi remains unavailable in the feed, so legal and extraction caveats stay attached to prediction-market evidence.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Kalshi remains unavailable in the feed, so legal and extraction caveats stay attached to prediction-market evidence.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — New York’s $36B illegal-gambling claim remains live while the dispatch’s Kalshi data panel is unavailable.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — New York’s $36B illegal-gambling claim remains live while the dispatch’s Kalshi data panel is unavailable.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — New York’s $36B illegal-gambling claim and unavailable Kalshi feed data keep legal-status and provenance risk paired.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — New York’s $36B illegal-gambling claim and unavailable Kalshi feed data keep legal-status and provenance risk paired.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — New York seeks $36B over an alleged illegal-gambling operation while the dispatch’s Kalshi panel remains unavailable.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — New York seeks $36B over an alleged illegal-gambling operation while the dispatch’s Kalshi panel remains unavailable.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Faces New York’s alleged illegal-gambling action while the dispatch’s Kalshi data panel remains unavailable.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Faces New York’s alleged illegal-gambling action while the dispatch’s Kalshi data panel remains unavailable.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — New York alleges Kalshi is running an illegal gambling operation while the dispatch’s Kalshi feed remains unavailable.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Feed remains unavailable in the prediction-market section, preserving the evidence-gap note.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Data remains unavailable, continuing the prediction-market feed-gap pattern.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Prediction-market data is unavailable, keeping Kalshi in the feed-gap/provenance thread.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Kalshi is explicitly unavailable, preserving prediction-market feed limitations in the source record.
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The dispatch notes prediction-market users have spent nearly $200 million on midterm election bets, while Kalshi data is unavailable in the fetched table.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — New York alleges Kalshi is running an illegal gambling operation while the dispatch’s Kalshi feed remains unavailable.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Feed remains unavailable in the prediction-market section, preserving the evidence-gap note.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Data remains unavailable, continuing the prediction-market feed-gap pattern.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Prediction-market data is unavailable, keeping Kalshi in the feed-gap/provenance thread.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Kalshi is explicitly unavailable, preserving prediction-market feed limitations in the source record.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — The dispatch notes prediction-market users have spent nearly $200 million on midterm election bets, while Kalshi data is unavailable in the fetched table.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Kalshi data remains unavailable, continuing the extraction-quality caveat.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Kalshi data remains unavailable, continuing the extraction-quality caveat.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Kalshi data is unavailable, preserving the gap between prediction-market interest and dependable ingest output.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Kalshi data is unavailable, preserving the gap between prediction-market interest and dependable ingest output.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Kalshi data is unavailable again, preserving the prediction-market extraction-quality caveat.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Kalshi data is unavailable again, preserving the prediction-market extraction-quality caveat.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Kalshi data is unavailable again, preserving the prediction-market coverage gap.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Kalshi data is unavailable again, preserving the prediction-market coverage gap.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Kalshi data is unavailable again, keeping the regulated prediction-market signal absent from the dispatch.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Kalshi data is unavailable again, keeping the regulated prediction-market signal absent from the dispatch.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Kalshi data is unavailable, repeating the prediction-market extraction gap.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Kalshi data is unavailable, repeating the prediction-market extraction gap.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Kalshi is unavailable again, preserving the recurring data-quality caveat in prediction-market extraction.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Kalshi is unavailable again, preserving the recurring data-quality caveat in prediction-market extraction.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Kalshi extraction fails again, preserving the recurring gap between prediction-market interest and dependable ingest output.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Kalshi extraction fails again, preserving the recurring gap between prediction-market interest and dependable ingest output.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Kalshi remains unavailable, preserving the recurring prediction-market extraction gap.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Kalshi remains unavailable, preserving the recurring prediction-market extraction gap.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Kalshi remains unavailable in the prediction-market section, preserving the data-gap caveat.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Kalshi is unavailable in the evening brief, reinforcing the gap between prediction-market promise and extraction reliability.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Kalshi remains unavailable in the prediction-market section, preserving the data-gap caveat.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Kalshi is unavailable in the evening brief, reinforcing the gap between prediction-market promise and extraction reliability.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Kalshi data is unavailable again, keeping the regulated prediction-market signal absent from the dispatch.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Kalshi data is unavailable again, keeping the regulated prediction-market signal absent from the dispatch.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Kalshi data remains unavailable, preserving the recurring extraction-gap note for prediction markets.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Kalshi data remains unavailable, preserving the recurring extraction-gap note for prediction markets.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Kalshi data remains unavailable, preserving the prediction-market extraction gap.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Kalshi data remains unavailable, preserving the prediction-market extraction gap.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Kalshi data remains unavailable, preserving the recurring extraction/provenance gap.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Kalshi remains unavailable, keeping regulated prediction-market coverage as a missing-data note rather than an actionable mover.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Kalshi data remains unavailable, preserving the recurring extraction/provenance gap.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Kalshi remains unavailable, keeping regulated prediction-market coverage as a missing-data note rather than an actionable mover.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Kalshi remains unavailable, preserving prediction-market extraction as a data-quality warning.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Kalshi remains unavailable, preserving prediction-market extraction as a data-quality warning.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Kalshi launches a midterm election forecasting hub, but newsletter extraction for Kalshi data fails, making prediction-market provenance a live issue.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Kalshi launches a midterm election forecasting hub, but newsletter extraction for Kalshi data fails, making prediction-market provenance a live issue.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Kalshi data is unavailable in this dispatch, making extraction reliability itself part of the prediction-market provenance story.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Kalshi data is unavailable in this dispatch, making extraction reliability itself part of the prediction-market provenance story.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Kalshi extraction is unavailable again, making prediction-market coverage partly a data-access and scraping-reliability problem.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Kalshi extraction is unavailable again, making prediction-market coverage partly a data-access and scraping-reliability problem.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Marked data unavailable, preserving the recurring prediction-market extraction-gap note.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Kalshi data remains unavailable, preserving the feed-quality caveat around prediction-market extraction.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Marked data unavailable, preserving the recurring prediction-market extraction-gap note.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Kalshi data remains unavailable, preserving the feed-quality caveat around prediction-market extraction.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Kalshi extraction remains unavailable, preserving the prediction-market data gap.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Kalshi extraction remains unavailable, preserving the prediction-market data gap.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Data is unavailable in the prediction-market block, preserving the extraction-gap warning.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Data is unavailable in the prediction-market block, preserving the extraction-gap warning.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Data remains unavailable, making prediction-market coverage partly a feed-reliability issue.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Data remains unavailable, making prediction-market coverage partly a feed-reliability issue.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Kalshi data remains unavailable, reinforcing prediction-market extraction and feed-reliability limits.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Kalshi data remains unavailable, reinforcing prediction-market extraction and feed-reliability limits.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Kalshi data remains unavailable, reinforcing prediction-market extraction and feed-reliability limits.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Kalshi data remains unavailable, reinforcing prediction-market extraction and feed-reliability limits.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Kalshi is listed in the prediction-market panel but data is unavailable, reinforcing extraction and feed-fragility caveats.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Kalshi is listed in the prediction-market panel but data is unavailable, reinforcing extraction and feed-fragility caveats.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Kalshi remains unavailable in the prediction-market panel.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Kalshi remains unavailable in the prediction-market panel.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Kalshi data remains unavailable while Minnesota prediction-market litigation keeps the legal-access thread alive.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Kalshi data remains unavailable while Minnesota prediction-market litigation keeps the legal-access thread alive.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Prediction-market data remains unavailable while the legal fight continues through Minnesota.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Prediction-market data remains unavailable while the legal fight continues through Minnesota.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Kalshi is unavailable in the prediction-market section, preserving a data-gap caveat.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Kalshi is unavailable in the prediction-market section, preserving a data-gap caveat.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Kalshi remains unavailable in the prediction-market panel, preserving the feed-extraction gap.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Listed as unavailable, extending the prediction-market feed-gap pattern.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Kalshi remains unavailable in the prediction-market panel, preserving the feed-extraction gap.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Listed as unavailable, extending the prediction-market feed-gap pattern.
 
 ## Related
 

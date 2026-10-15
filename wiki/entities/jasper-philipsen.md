@@ -15,9 +15,9 @@ Belgian road cyclist and sprint specialist. In the newsletter stream, he appears
 
 ## Sources
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Philipsen wins Tour de France Stage 17 while Tadej Pogacar continues to lead the general classification.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Philipsen wins Tour de France Stage 17 while Tadej Pogacar continues to lead the general classification.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Philipsen is listed as Tour de France Stage 17 winner.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Philipsen is listed as Tour de France Stage 17 winner.
 
 
 ## Related

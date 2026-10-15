@@ -15,9 +15,9 @@ Pi-hole is a DNS sinkhole and local-network observability tool commonly used to 
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — r/pihole appears in the Reddit feed with adoption/user-experience chatter.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — r/pihole appears in the Reddit feed with adoption/user-experience chatter.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — A Reddit user uses Pi-hole to discover that a Netgear WiFi extender generated most outgoing network traffic, illustrating practical device-level observability.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — A Reddit user uses Pi-hole to discover that a Netgear WiFi extender generated most outgoing network traffic, illustrating practical device-level observability.
 
 ## Related
 

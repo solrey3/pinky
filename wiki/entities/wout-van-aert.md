@@ -15,30 +15,30 @@ Wout van Aert is a Belgian cyclist tracked when major road-racing results and co
 
 ## Sources
 
-- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-noon.md) — Wins heat-shortened Vuelta a España stage 15 from a five-rider breakaway.
+- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-noon.md) — Wins heat-shortened Vuelta a España stage 15 from a five-rider breakaway.
 
-- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-daytime.md) — Wins Vuelta a España stage 15 from a five-rider breakaway.
+- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-daytime.md) — Wins Vuelta a España stage 15 from a five-rider breakaway.
 
-- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-midnight.md) — Wins Vuelta a España stage 15 from a five-rider breakaway.
+- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-midnight.md) — Wins Vuelta a España stage 15 from a five-rider breakaway.
 
-- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-evening.md) — Wins the shortened Vuelta a España stage 15 from a five-rider breakaway.
+- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-evening.md) — Wins the shortened Vuelta a España stage 15 from a five-rider breakaway.
 
-- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-noon.md) — Wins Vuelta stage 15 from a five-rider breakaway after extreme heat shortens the route by 70 kilometers.
+- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-noon.md) — Wins Vuelta stage 15 from a five-rider breakaway after extreme heat shortens the route by 70 kilometers.
 
-- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — Wins Vuelta a España stage 13 after the breakaway stays clear.
+- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-daytime.md) — Wins Vuelta a España stage 13 after the breakaway stays clear.
 
-- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Wins Vuelta a España stage 13 after the breakaway stays clear.
+- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-midnight.md) — Wins Vuelta a España stage 13 after the breakaway stays clear.
 
-- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletter-2026-09-04-evening.md) — Wins Vuelta a España stage 13 after the breakaway stays away.
+- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-evening.md) — Wins Vuelta a España stage 13 after the breakaway stays away.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Wins Vuelta a España stage 13 after the breakaway holds.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Wins Vuelta a España stage 13 after the breakaway holds.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Wins a wet Tour of Denmark queen stage for a stage hat-trick.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Wins a wet Tour of Denmark queen stage for a stage hat-trick.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Cyclingnews item says he won a wet Tour of Denmark queen stage for a stage hat-trick.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Cyclingnews item says he won a wet Tour of Denmark queen stage for a stage hat-trick.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Van Aert wins Stage 1 of the Tour of Denmark with a sprint from a small group.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Van Aert wins Stage 1 of the Tour of Denmark with a sprint from a small group.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
 
 ## Related
 

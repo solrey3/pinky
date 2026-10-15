@@ -14,19 +14,19 @@ The use of machine-learning models to predict atmospheric conditions and severe-
 
 ## Sources
 
-- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletter-2026-09-07-evening.md) — DeepMind's WeatherNext 3 keeps machine-learning forecasting in focus, though the dispatch reports attention rather than comparative validation results.
+- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-evening.md) — DeepMind's WeatherNext 3 keeps machine-learning forecasting in focus, though the dispatch reports attention rather than comparative validation results.
 
-- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — DeepMind's hurricane-forecasting breakthrough is highlighted as a high-impact operational use of machine learning.
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-daytime.md) — DeepMind's hurricane-forecasting breakthrough is highlighted as a high-impact operational use of machine learning.
 
-- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-midnight.md) — DeepMind's hurricane-forecasting breakthrough draws attention from weather scientists.
+- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-midnight.md) — DeepMind's hurricane-forecasting breakthrough draws attention from weather scientists.
 
-- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — DeepMind hurricane forecasting extends machine learning into severe-weather prediction.
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-daytime.md) — DeepMind hurricane forecasting extends machine learning into severe-weather prediction.
 
-- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — DeepMind hurricane forecasting extends machine learning into severe-weather prediction.
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-midnight.md) — DeepMind hurricane forecasting extends machine learning into severe-weather prediction.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — DeepMind hurricane forecasting illustrates AI’s growing role in severe-weather prediction.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — DeepMind hurricane forecasting illustrates AI’s growing role in severe-weather prediction.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — DeepMind's WeatherNext is highlighted for breakthrough cyclone forecasting.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — DeepMind's WeatherNext is highlighted for breakthrough cyclone forecasting.
 
 ## Related Concepts
 

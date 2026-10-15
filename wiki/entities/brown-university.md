@@ -15,7 +15,7 @@ Brown University is tracked here as an elite higher-education institution appear
 
 ## Sources
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Campus AI-cheating coverage makes Brown a node in the academic-integrity and AI-governance graph.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Campus AI-cheating coverage makes Brown a node in the academic-integrity and AI-governance graph.
 
 ## Related
 

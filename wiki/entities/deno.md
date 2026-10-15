@@ -15,15 +15,15 @@ Deno is a JavaScript/TypeScript runtime and developer platform. In the newslette
 
 ## Sources
 
-- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Again repeats that Deno is joining Cloudflare, adding no confirmed detail about independence, licensing, migration, or product integration.
+- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-daytime.md) — Again repeats that Deno is joining Cloudflare, adding no confirmed detail about independence, licensing, migration, or product integration.
 
-- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-midnight.md) — Repeats the announcement that Deno is joining Cloudflare, adding provenance but no new integration or independence details.
+- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-midnight.md) — Repeats the announcement that Deno is joining Cloudflare, adding provenance but no new integration or independence details.
 
-- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletter-2026-10-09-evening.md) — Repeats the announcement that Deno is joining Cloudflare; the item adds provenance but no confirmed detail about independence, licensing, or migration.
+- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-evening.md) — Repeats the announcement that Deno is joining Cloudflare; the item adds provenance but no confirmed detail about independence, licensing, or migration.
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Announces that Deno is joining Cloudflare, shifting the runtime's strategic context toward integration with a major edge-compute and security platform.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — Announces that Deno is joining Cloudflare, shifting the runtime's strategic context toward integration with a major edge-compute and security platform.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Deno Desktop appears as a high-interest Hacker News item, suggesting Deno is pushing further into local desktop-app packaging and runtime surfaces.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Deno Desktop appears as a high-interest Hacker News item, suggesting Deno is pushing further into local desktop-app packaging and runtime surfaces.
 
 ## Related
 

@@ -15,7 +15,7 @@ Major League Baseball club; in this source, Baltimore is listed in a 6–4 win o
 
 ## Sources
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Major League Baseball club; in this source, Baltimore is listed in a 6–4 win over Philadelphia and as the team trading Dean Kremer to Minnesota.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Major League Baseball club; in this source, Baltimore is listed in a 6–4 win over Philadelphia and as the team trading Dean Kremer to Minnesota.
 
 ## Related
 

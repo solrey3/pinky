@@ -15,8 +15,8 @@ U.S. federal statistical agency responsible for census data and other public dem
 
 ## Sources
 
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Census Bureau statistical-noise policy appears as a privacy-versus-public-data-utility issue.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Noise infusion being banned from Census Bureau statistical products keeps public-statistics privacy and data-quality governance in the news feed.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Census Bureau statistical-noise policy appears as a privacy-versus-public-data-utility issue.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Noise infusion being banned from Census Bureau statistical products keeps public-statistics privacy and data-quality governance in the news feed.
 
 ## Related
 

@@ -15,9 +15,9 @@ IBM is an American technology company with long-running importance in enterprise
 
 ## Sources
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — IBM debuts claimed sub-1 nanometer chip technology, extending the AI-hardware discussion toward transistor/process scaling.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — IBM debuts claimed sub-1 nanometer chip technology, extending the AI-hardware discussion toward transistor/process scaling.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM's sub-1 nanometer chip-technology claim repeats as the AI-hardware desk's process-scaling headline.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — IBM's sub-1 nanometer chip-technology claim repeats as the AI-hardware desk's process-scaling headline.
 
 ## Related
 

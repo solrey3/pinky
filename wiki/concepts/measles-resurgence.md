@@ -14,22 +14,22 @@ Measles resurgence is the return of elevated measles case counts after periods o
 
 ## Sources
 
-- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Reports that some states' 2026 case totals already exceed their full 2025 counts, signaling continued outbreak acceleration while leaving state-level causes unspecified.
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-noon.md) — Reports that some states' 2026 case totals already exceed their full 2025 counts, signaling continued outbreak acceleration while leaving state-level causes unspecified.
 
-- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Repeats an allegation that federal leadership sought removal of two Pennsylvania deaths from public reporting while CDC retained them internally; primary confirmation remains necessary.
+- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-daytime.md) — Repeats an allegation that federal leadership sought removal of two Pennsylvania deaths from public reporting while CDC retained them internally; primary confirmation remains necessary.
 
-- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-midnight.md) — Reports an allegation that federal leadership sought removal of two Pennsylvania deaths from public reporting while CDC retained them internally; the claim requires primary confirmation.
+- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-midnight.md) — Reports an allegation that federal leadership sought removal of two Pennsylvania deaths from public reporting while CDC retained them internally; the claim requires primary confirmation.
 
-- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — Repeats two Pennsylvania deaths among unvaccinated patients; the alleged CDC-count discrepancy still requires primary-source reconciliation.
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-daytime.md) — Repeats two Pennsylvania deaths among unvaccinated patients; the alleged CDC-count discrepancy still requires primary-source reconciliation.
 
-- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-midnight.md) — Pennsylvania confirms two deaths among unvaccinated patients; the reported discrepancy with CDC counting requires primary-source reconciliation.
+- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-midnight.md) — Pennsylvania confirms two deaths among unvaccinated patients; the reported discrepancy with CDC counting requires primary-source reconciliation.
 
-- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-noon.md) — Pennsylvania reports two measles deaths, converting outbreak vulnerability into demonstrated mortality.
+- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-noon.md) — Pennsylvania reports two measles deaths, converting outbreak vulnerability into demonstrated mortality.
 
-- [2026-08-17: Evening Brief — Monday, August 17, 2026](../sources/newsletter-2026-08-17-evening.md) — Kindergarten MMR coverage remains below the outbreak-prevention target, preserving population-level vulnerability.
+- [2026-08-17: Evening Brief — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-evening.md) — Kindergarten MMR coverage remains below the outbreak-prevention target, preserving population-level vulnerability.
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — The Hill reports research estimating the 2025 measles outbreak cost nearly $5.4M to contain.
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The dispatch carries a headline that measles cases have reached a 35-year high, putting vaccine-preventable disease back on the daily-risk board.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — The Hill reports research estimating the 2025 measles outbreak cost nearly $5.4M to contain.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — The dispatch carries a headline that measles cases have reached a 35-year high, putting vaccine-preventable disease back on the daily-risk board.
 
 ## Related Concepts
 

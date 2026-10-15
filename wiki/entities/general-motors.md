@@ -15,7 +15,7 @@ Automaker; in this source, preparing a proprietary in-vehicle AI system.
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — CNBC says GM plans a proprietary in-vehicle AI system later in 2026.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — CNBC says GM plans a proprietary in-vehicle AI system later in 2026.
 
 ## Related
 

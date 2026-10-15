@@ -15,7 +15,7 @@ Chick-fil-A is tracked here as a consumer brand and restaurant operator whose cu
 
 ## Sources
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Warns that a security incident may have exposed customer data, adding a retail/restaurant data-breach item to the security thread.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Warns that a security incident may have exposed customer data, adding a retail/restaurant data-breach item to the security thread.
 
 ## Related
 

@@ -15,11 +15,11 @@ Broadcom is a semiconductor and infrastructure-technology company. In the newsle
 
 ## Sources
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Broadcom is identified as the builder of OpenAI's first custom chip, tying the company to model-provider vertical integration and AI accelerator supply.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — Broadcom is identified as the builder of OpenAI's first custom chip, tying the company to model-provider vertical integration and AI accelerator supply.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — The OpenAI/Broadcom custom inference-chip announcement repeats in the daytime dispatch, reinforcing Broadcom's role as an AI-accelerator and model-provider infrastructure partner.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — The OpenAI/Broadcom custom inference-chip announcement repeats in the daytime dispatch, reinforcing Broadcom's role as an AI-accelerator and model-provider infrastructure partner.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — T-Mobile reportedly moving tens of thousands of VMs off VMware keeps Broadcom acquisition fallout in the enterprise-infrastructure and vendor-economics frame.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — T-Mobile reportedly moving tens of thousands of VMs off VMware keeps Broadcom acquisition fallout in the enterprise-infrastructure and vendor-economics frame.
 
 ## Related
 

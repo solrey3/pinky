@@ -15,7 +15,7 @@ Grafana OnCall appears through a devops feed item framing EOL status as a CVE-la
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Grafana OnCall appears through a devops feed item framing EOL status as a CVE-labeled operational-risk reminder.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Grafana OnCall appears through a devops feed item framing EOL status as a CVE-labeled operational-risk reminder.
 
 ## Related
 

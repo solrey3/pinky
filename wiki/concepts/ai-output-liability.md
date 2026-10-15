@@ -14,40 +14,40 @@ AI output liability is the accountability problem created when generated answers
 
 ## Sources
 
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — A court ruling against Google AI search answers frames generated search output as legally attributable to Google, while DiffusionGemma shows local AI capability continuing to improve.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — A German ruling treats Google AI Overviews as Google's own words, and a Florida facial-recognition false-match lawsuit shows algorithmic output becoming actionable harm in policing.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — The facial-recognition false-arrest case stays in the evening AI/tech desk, reinforcing that algorithmic matches become liability events when police treat them as decisive evidence.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — The Florida facial-recognition lawsuit persists in the AI/tech desk, keeping biometric match quality and police corroboration duties inside the AI liability frame.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — A police officer is investigated for allegedly using AI to create evidence, moving the liability frame from mistaken algorithmic matches into evidentiary fabrication and record integrity.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — A German court ruling says Google can be held liable for false AI Overview answers, returning the concept to generated search summaries as legally attributable platform output.
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The same German AI Overview liability ruling remains in the around-the-web feed, confirming the issue has enough persistence to track as a standing platform-risk theme.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — A court ruling against Google AI search answers frames generated search output as legally attributable to Google, while DiffusionGemma shows local AI capability continuing to improve.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — A German ruling treats Google AI Overviews as Google's own words, and a Florida facial-recognition false-match lawsuit shows algorithmic output becoming actionable harm in policing.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — The facial-recognition false-arrest case stays in the evening AI/tech desk, reinforcing that algorithmic matches become liability events when police treat them as decisive evidence.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — The Florida facial-recognition lawsuit persists in the AI/tech desk, keeping biometric match quality and police corroboration duties inside the AI liability frame.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — A police officer is investigated for allegedly using AI to create evidence, moving the liability frame from mistaken algorithmic matches into evidentiary fabrication and record integrity.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — A German court ruling says Google can be held liable for false AI Overview answers, returning the concept to generated search summaries as legally attributable platform output.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — The same German AI Overview liability ruling remains in the around-the-web feed, confirming the issue has enough persistence to track as a standing platform-risk theme.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Stanford HAI's AI hiring-tools bias item extends output liability from search and policing into employment screening, where algorithmic scores can become institutional rejection decisions.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Stanford HAI's AI hiring-tools bias item extends output liability from search and policing into employment screening, where algorithmic scores can become institutional rejection decisions.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The NYT/Microsoft/OpenAI supercomputer allegation keeps copyright liability attached to AI infrastructure, not only individual generated outputs.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — The NYT/Microsoft/OpenAI supercomputer allegation keeps copyright liability attached to AI infrastructure, not only individual generated outputs.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — The Microsoft/OpenAI copyright-infrastructure allegation and Claude Code MRI story extend accountability from generic generated text into physical AI infrastructure and consequential medical-adjacent advice.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — The Microsoft/OpenAI copyright-infrastructure allegation and Claude Code MRI story extend accountability from generic generated text into physical AI infrastructure and consequential medical-adjacent advice.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — NYT/Microsoft/OpenAI allegations keep copyright liability attached to AI compute infrastructure and training provenance, not just visible generated outputs.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — NYT/Microsoft/OpenAI allegations keep copyright liability attached to AI compute infrastructure and training provenance, not just visible generated outputs.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Publisher requests for court sanctions against OpenAI in a copyright case keep training provenance, discovery obligations, and AI platform liability in the legal-risk frame.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Publisher requests for court sanctions against OpenAI in a copyright case keep training provenance, discovery obligations, and AI platform liability in the legal-risk frame.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Publisher requests for OpenAI sanctions keep copyright litigation tied to model provenance, discovery conduct, and output/training accountability.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Publisher requests for OpenAI sanctions keep copyright litigation tied to model provenance, discovery conduct, and output/training accountability.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Apple's reported trade-secret lawsuit against OpenAI widens AI legal risk from copyright/output provenance into alleged misappropriation of proprietary model-building knowledge.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Apple's reported trade-secret lawsuit against OpenAI widens AI legal risk from copyright/output provenance into alleged misappropriation of proprietary model-building knowledge.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — The Apple/OpenAI trade-secret claim broadens AI legal-risk tracking beyond copyright and output liability into provenance of model-building know-how.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — The Apple/OpenAI trade-secret claim broadens AI legal-risk tracking beyond copyright and output liability into provenance of model-building know-how.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Apple's suit against OpenAI over alleged trade-secret theft keeps provenance, access controls, and developer/tool liability in the AI law graph.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Apple's suit against OpenAI over alleged trade-secret theft keeps provenance, access controls, and developer/tool liability in the AI law graph.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The nudify-app enforcement item is a concrete synthetic-media harm case where platforms, developers, and regulators contest responsibility for AI outputs.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — The nudify-app enforcement item is a concrete synthetic-media harm case where platforms, developers, and regulators contest responsibility for AI outputs.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Anthropic's approved $1.5B copyright settlement keeps training provenance, author opt-outs, and settlement mechanics inside the AI liability frame.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Anthropic's approved $1.5B copyright settlement keeps training provenance, author opt-outs, and settlement mechanics inside the AI liability frame.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Anthropic's approved $1.5B copyright settlement makes AI training provenance and copyright exposure financially material.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Anthropic's approved $1.5B copyright settlement makes AI training provenance and copyright exposure financially material.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Living-author style-imitation restrictions frame AI output controls as liability and rights-holder risk management.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — xAI/Grok reporting shifts generated-output harm into reporting duties, platform liability, and compliance evidence.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Living-author style-imitation restrictions frame AI output controls as liability and rights-holder risk management.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — xAI/Grok reporting shifts generated-output harm into reporting duties, platform liability, and compliance evidence.
 
 ## Related Concepts
 

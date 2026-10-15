@@ -15,7 +15,7 @@ Global automaker behind brands including Jeep. In the newsletter graph, Stellant
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — CNBC reports that Stellantis swung back to profit on stronger North American demand.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — CNBC reports that Stellantis swung back to profit on stronger North American demand.
 
 ## Related
 

@@ -15,7 +15,7 @@ U.S. secretary of state/political figure; in this source, bipartisan senators pr
 
 ## Sources
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — U.S. secretary of state/political figure; in this source, bipartisan senators press him to unlock family-planning funding tied to the DRC Ebola response.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — U.S. secretary of state/political figure; in this source, bipartisan senators press him to unlock family-planning funding tied to the DRC Ebola response.
 
 ## Related
 

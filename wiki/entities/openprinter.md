@@ -15,7 +15,7 @@ OpenPrinter is tracked as an open hardware/printing project that fits the operat
 
 ## Sources
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — High Hacker News attention gives open printing/hardware a place in the same operator-control thread as open maps and open AI.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — High Hacker News attention gives open printing/hardware a place in the same operator-control thread as open maps and open AI.
 
 ## Related
 

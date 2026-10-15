@@ -15,36 +15,36 @@ Tour de France Femmes is tracked as the women’s Tour cycling race and a recurr
 
 ## Sources
 
-- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Demi Vollering wins the final stage solo in Nice and seals her second overall title.
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-daytime.md) — Demi Vollering wins the final stage solo in Nice and seals her second overall title.
 
-- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-midnight.md) — Demi Vollering wins the final stage in Nice and seals the overall championship.
+- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-midnight.md) — Demi Vollering wins the final stage in Nice and seals the overall championship.
 
-- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Demi Vollering wins solo in Nice and seals the overall title; Kasia Niewiadoma-Phinney and Elisa Longo Borghini complete the podium.
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-evening.md) — Demi Vollering wins solo in Nice and seals the overall title; Kasia Niewiadoma-Phinney and Elisa Longo Borghini complete the podium.
 
-- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — The final stage remains live in the fetched feed while Marlen Reusser crashes on the descent.
+- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-noon.md) — The final stage remains live in the fetched feed while Marlen Reusser crashes on the descent.
 
-- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — Demi Vollering takes yellow after a late Stage 8 attack amid crash and heatstroke reports.
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-daytime.md) — Demi Vollering takes yellow after a late Stage 8 attack amid crash and heatstroke reports.
 
-- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — Stage 8 coverage records Demi Vollering taking the yellow jersey with a late attack.
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-midnight.md) — Stage 8 coverage records Demi Vollering taking the yellow jersey with a late attack.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Stage 8 changes the race lead as Vollering takes yellow and Ferrand-Prévot withdraws ill.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — Stage 8 changes the race lead as Vollering takes yellow and Ferrand-Prévot withdraws ill.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Stage 8 coverage records Pauline Ferrand-Prévot withdrawing because of illness.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Stage 8 coverage records Pauline Ferrand-Prévot withdrawing because of illness.
 
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Kasia Niewiadoma-Phinney wins on Mont Ventoux while the overall crown remains unsettled.
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — Kasia Niewiadoma-Phinney wins on Mont Ventoux while the overall crown remains unsettled.
 
-- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — Kasia Niewiadoma-Phinney wins on Mont Ventoux with a long-range attack and takes yellow.
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-noon.md) — Kasia Niewiadoma-Phinney wins on Mont Ventoux with a long-range attack and takes yellow.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Stage 6 goes to Kim Le Court-Pienaar as Mont Ventoux becomes the next hierarchy test.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Stage 6 goes to Kim Le Court-Pienaar as Mont Ventoux becomes the next hierarchy test.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Kim Le Court-Pienaar wins stage 6 as Demi Vollering prepares for Mont Ventoux.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Kim Le Court-Pienaar wins stage 6 as Demi Vollering prepares for Mont Ventoux.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Demi Vollering wins stage 5 in a three-rider climbing sprint; wildfire risk brings fan restrictions on Mont Ventoux.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — Demi Vollering wins stage 5 in a three-rider climbing sprint; wildfire risk brings fan restrictions on Mont Ventoux.
 
-- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — Demi Vollering wins stage 5, Marlen Reusser retains yellow, and wildfire risk restricts Mont Ventoux spectator access.
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Stage 5 enters the Beaujolais hills with a possible general-classification battle.
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Marlen Reusser wins the Dijon stage 4 time trial and takes the yellow jersey.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Marlen Reusser takes the yellow jersey after the Dijon stage 4 time trial.
+- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-evening.md) — Demi Vollering wins stage 5, Marlen Reusser retains yellow, and wildfire risk restricts Mont Ventoux spectator access.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — Stage 5 enters the Beaujolais hills with a possible general-classification battle.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Marlen Reusser wins the Dijon stage 4 time trial and takes the yellow jersey.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Marlen Reusser takes the yellow jersey after the Dijon stage 4 time trial.
 ## Related
 
 - [[Tour de France]]

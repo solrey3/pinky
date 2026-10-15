@@ -15,34 +15,34 @@ U.S. Immigration and Customs Enforcement (ICE) is tracked here where immigration
 
 ## Sources
 
-- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — A planned $2 million robotic-dog purchase and accelerated-removal proposals widen capability and due-process concerns.
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-daytime.md) — A planned $2 million robotic-dog purchase and accelerated-removal proposals widen capability and due-process concerns.
 
-- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Plans a $2 million purchase of dog-like robots, extending enforcement-capability and civil-liberties concerns.
+- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-midnight.md) — Plans a $2 million purchase of dog-like robots, extending enforcement-capability and civil-liberties concerns.
 
-- [2026-08-19: Morning Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-daytime.md) — ICE acknowledged investigating a critic based on protected speech, sharpening civil-liberties and accountability concerns.
+- [2026-08-19: Morning Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-daytime.md) — ICE acknowledged investigating a critic based on protected speech, sharpening civil-liberties and accountability concerns.
 
-- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-daytime.md) — Mounting deportations and efforts to locate migrant children raise recordkeeping, family-integrity, legal-representation, and due-process concerns.
+- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-daytime.md) — Mounting deportations and efforts to locate migrant children raise recordkeeping, family-integrity, legal-representation, and due-process concerns.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — NewsNation says ICE enforcement activity is expanding across U.S. airports and other jurisdictions.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — NewsNation says ICE enforcement activity is expanding across U.S. airports and other jurisdictions.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — A fatal Houston traffic-stop shooting by an ICE officer keeps immigration enforcement in the civil-liberties and accountability frame.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — A fatal Houston traffic-stop shooting by an ICE officer keeps immigration enforcement in the civil-liberties and accountability frame.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Mexico seeking a criminal investigation after a fatal Houston ICE incident keeps immigration enforcement inside the civil-liberties, accountability, and diplomatic-risk frame.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Mexico seeking a criminal investigation after a fatal Houston ICE incident keeps immigration enforcement inside the civil-liberties, accountability, and diplomatic-risk frame.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — The fatal ICE shooting of Lorenzo Salgado Araujo is summarized as an immigration-enforcement accountability story.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — The fatal ICE shooting of Lorenzo Salgado Araujo is summarized as an immigration-enforcement accountability story.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Maine senators seek an independent investigation after the Biddeford ICE shooting, extending the accountability thread.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Maine senators seek an independent investigation after the Biddeford ICE shooting, extending the accountability thread.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — DHS says an ICE officer fatally shot a man in Maine after fearing for public safety, keeping law-enforcement accountability in the civil-liberties file.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — DHS says an ICE officer fatally shot a man in Maine after fearing for public safety, keeping law-enforcement accountability in the civil-liberties file.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — ICE pauses most traffic stops after a fatal Maine shooting, shifting the enforcement thread toward accountability and operational restraint.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — ICE pauses most traffic stops after a fatal Maine shooting, shifting the enforcement thread toward accountability and operational restraint.
 
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — ICE appears through questions about why all officers are not using body-worn cameras, reinforcing enforcement-auditability and evidence-capture concerns.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — ICE appears through questions about why all officers are not using body-worn cameras, reinforcing enforcement-auditability and evidence-capture concerns.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — ICE is preparing a New York City/Queens/Long Island operation, extending the immigration-enforcement accountability thread.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — ICE is preparing a New York City/Queens/Long Island operation, extending the immigration-enforcement accountability thread.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through the Houston ICE shooting witness-release court order.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appears through the Houston ICE shooting witness-release court order.
 
 ## Related
 

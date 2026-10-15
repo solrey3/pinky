@@ -15,7 +15,7 @@ Aaron Wolf is tracked as an NJPW tournament participant whose combat-sports back
 
 ## Sources
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Wolf wins in his NJPW G1 Climax tournament debut.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Wolf wins in his NJPW G1 Climax tournament debut.
 
 ## Related
 

@@ -15,8 +15,8 @@ JPMorgan is a major U.S. bank and market-research voice. In these sources it app
 
 ## Sources
 
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — MarketWatch cites JPMorgan strategists arguing tech stocks may take a back seat for the rest of 2026.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — JPMorgan is a major U.S. bank and market-research voice. In this source it argues investors are overlooking healthcare stocks while AI dominates attention.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — MarketWatch cites JPMorgan strategists arguing tech stocks may take a back seat for the rest of 2026.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — JPMorgan is a major U.S. bank and market-research voice. In this source it argues investors are overlooking healthcare stocks while AI dominates attention.
 
 ## Related
 

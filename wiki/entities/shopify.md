@@ -15,9 +15,9 @@ Canadian commerce-platform company that provides online storefront, payments, an
 
 ## Sources
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — The move from React Native to Swift and Kotlin remains the dispatch's large-scale mobile-architecture case study.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — The move from React Native to Swift and Kotlin remains the dispatch's large-scale mobile-architecture case study.
 
-- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — Shopify reports moving its mobile applications from React Native back to native Swift and Kotlin.
+- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-midnight.md) — Shopify reports moving its mobile applications from React Native back to native Swift and Kotlin.
 
 ## Related
 

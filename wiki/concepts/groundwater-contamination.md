@@ -14,8 +14,8 @@ Groundwater contamination is the presence of hazardous chemicals, industrial res
 
 ## Sources
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Keyport PFAS/benzene tests tie local cancer-cluster concern to groundwater evidence and public-health trust.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Keyport groundwater tests finding PFAS and benzene make local environmental-health evidence and cancer-cluster concern the main issue.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Keyport PFAS/benzene tests tie local cancer-cluster concern to groundwater evidence and public-health trust.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Keyport groundwater tests finding PFAS and benzene make local environmental-health evidence and cancer-cluster concern the main issue.
 
 ## Related Concepts
 

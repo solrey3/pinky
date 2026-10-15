@@ -15,7 +15,7 @@ Yulia Svyrydenko is a Ukrainian political figure tracked here when Kyiv leadersh
 
 ## Sources
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The dispatch says Svyrydenko steps down as Ukraine changes political strategy during wartime.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — The dispatch says Svyrydenko steps down as Ukraine changes political strategy during wartime.
 
 ## Related
 

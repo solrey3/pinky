@@ -15,7 +15,7 @@ Mexico is tracked in the newsletter graph where U.S.-Mexico diplomacy, immigrati
 
 ## Sources
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Mexico seeks a criminal investigation after a man was killed by ICE in Houston, turning an immigration-enforcement incident into a diplomatic accountability issue.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Mexico seeks a criminal investigation after a man was killed by ICE in Houston, turning an immigration-enforcement incident into a diplomatic accountability issue.
 
 ## Related
 

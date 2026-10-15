@@ -15,7 +15,7 @@ MLB outfielder tracked for Mets lineup and injury news.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Soto expects to return to the Mets lineup this year despite a calf issue.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Soto expects to return to the Mets lineup this year despite a calf issue.
 
 ## Related
 

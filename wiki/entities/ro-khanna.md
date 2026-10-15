@@ -15,8 +15,8 @@ Ro Khanna is a U.S. member of Congress tracked in the newsletter graph when fore
 
 ## Sources
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Ro Khanna says armed Israeli settlers detained him in the West Bank, making him part of the dispatch's foreign-policy and congressional-accountability thread.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Khanna's claim that armed Israeli settlers detained him in the West Bank remains a congressional foreign-policy flashpoint.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Ro Khanna says armed Israeli settlers detained him in the West Bank, making him part of the dispatch's foreign-policy and congressional-accountability thread.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Khanna's claim that armed Israeli settlers detained him in the West Bank remains a congressional foreign-policy flashpoint.
 
 ## Related
 

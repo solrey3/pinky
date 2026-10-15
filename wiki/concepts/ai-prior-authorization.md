@@ -14,10 +14,10 @@ AI prior authorization is the use of automated or AI-assisted systems to approve
 
 ## Sources
 
-- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — Reported high denial rates in Medicare's AI-assisted claims reviews shift scrutiny from hypothetical governance risk toward observed access outcomes.
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-midnight.md) — Reported high denial rates in Medicare's AI-assisted claims reviews shift scrutiny from hypothetical governance risk toward observed access outcomes.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — The dispatch treats Medicare AI prior authorization as a policy gatekeeping issue where automation can directly affect access to care.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — KFF/Ars coverage asks whether AI will fix prior authorization or make denials harder to contest.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — The dispatch treats Medicare AI prior authorization as a policy gatekeeping issue where automation can directly affect access to care.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — KFF/Ars coverage asks whether AI will fix prior authorization or make denials harder to contest.
 
 ## Related Concepts
 

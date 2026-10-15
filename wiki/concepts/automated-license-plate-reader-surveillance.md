@@ -14,87 +14,87 @@ Automated license-plate reader surveillance uses cameras and OCR systems to conv
 
 ## Sources
 
-- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Explicitly asks how Flock cameras should be regulated under the Fourth Amendment, reinforcing warrants, purpose limitation, retention, auditability, accuracy, and remedies.
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-daytime.md) — Explicitly asks how Flock cameras should be regulated under the Fourth Amendment, reinforcing warrants, purpose limitation, retention, auditability, accuracy, and remedies.
 
-- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — A federal judge's warning about Flock-enabled mass surveillance reinforces authorization, purpose limitation, retention, audit, accuracy, and remedy requirements.
+- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-daytime.md) — A federal judge's warning about Flock-enabled mass surveillance reinforces authorization, purpose limitation, retention, audit, accuracy, and remedy requirements.
 
-- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — A map of cities retaining Flock cameras shows fragmented local adoption while warrant, retention, access, audit, accuracy, and remedy questions remain unresolved.
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-noon.md) — A map of cities retaining Flock cameras shows fragmented local adoption while warrant, retention, access, audit, accuracy, and remedy questions remain unresolved.
 
-- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Reports a Fourth Amendment violation from a warrantless Flock query, strengthening the case for warrants, purpose limitation, scoped searches, audit trails, and remedies.
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-noon.md) — Reports a Fourth Amendment violation from a warrantless Flock query, strengthening the case for warrants, purpose limitation, scoped searches, audit trails, and remedies.
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Repeats constitutional scrutiny of warrantless Flock-record searches, reinforcing the need for warrants, scoped queries, logs, and remedies.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Repeats constitutional scrutiny of warrantless Flock-record searches, reinforcing the need for warrants, scoped queries, logs, and remedies.
 
-- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Repeats constitutional scrutiny of warrantless Flock-record searches, reinforcing the need for warrants, scoped queries, logs, and remedies.
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-midnight.md) — Repeats constitutional scrutiny of warrantless Flock-record searches, reinforcing the need for warrants, scoped queries, logs, and remedies.
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — A federal judge reportedly finds warrantless Flock-record searches may violate the Fourth Amendment, adding constitutional scrutiny to retention, access, audit, and misuse concerns.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — A federal judge reportedly finds warrantless Flock-record searches may violate the Fourth Amendment, adding constitutional scrutiny to retention, access, audit, and misuse concerns.
 
-- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Repeats that a false AI-surveillance match led to an innocent driver's detention and litigation that reportedly ended the program, reinforcing accuracy and remedy requirements.
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-midnight.md) — Repeats that a false AI-surveillance match led to an innocent driver's detention and litigation that reportedly ended the program, reinforcing accuracy and remedy requirements.
 
-- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — A Texas lawsuit reportedly ends an AI-surveillance detention program after a false match led to an innocent driver's detention, highlighting accuracy, review, audit, and remedy requirements.
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-evening.md) — A Texas lawsuit reportedly ends an AI-surveillance detention program after a false match led to an innocent driver's detention, highlighting accuracy, review, audit, and remedy requirements.
 
-- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Alleged police use of Flock data to track romantic partners demonstrates why purpose limitation, scoped authorization, immutable query logs, review, and penalties are necessary.
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-evening.md) — Alleged police use of Flock data to track romantic partners demonstrates why purpose limitation, scoped authorization, immutable query logs, review, and penalties are necessary.
 
-- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — A physical Flock-camera teardown expands scrutiny from database use and legal doctrine to device architecture and technical transparency.
+- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-noon.md) — A physical Flock-camera teardown expands scrutiny from database use and legal doctrine to device architecture and technical transparency.
 
-- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — A district court reportedly holds that Flock-camera use is not a Fourth Amendment search, increasing the importance of statutory limits, retention controls, scoped access, and auditability.
+- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-midnight.md) — A district court reportedly holds that Flock-camera use is not a Fourth Amendment search, increasing the importance of statutory limits, retention controls, scoped access, and auditability.
 
-- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Reports of police searching Flock records with vague text terms show why purpose limitation, scoped queries, audit logs, and review matter after collection.
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-midnight.md) — Reports of police searching Flock records with vague text terms show why purpose limitation, scoped queries, audit logs, and review matter after collection.
 
-- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Conservative Republican concern shows ALPR privacy objections crossing partisan lines while retention, access, audit, and misuse controls remain unresolved.
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-daytime.md) — Conservative Republican concern shows ALPR privacy objections crossing partisan lines while retention, access, audit, and misuse controls remain unresolved.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Continued community resistance shows that network legitimacy depends on procurement, retention, access, audit, and misuse controls.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Continued community resistance shows that network legitimacy depends on procurement, retention, access, audit, and misuse controls.
 
-- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Community revolt against Flock cameras demonstrates that procurement legitimacy remains contested alongside retention, access, audit, and misuse controls.
+- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-daytime.md) — Community revolt against Flock cameras demonstrates that procurement legitimacy remains contested alongside retention, access, audit, and misuse controls.
 
-- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-noon.md) — Vendor switching leaves capability-level governance unresolved, while alleged repeated tracking after lawful police recording raises retaliation and query-authorization concerns.
+- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-noon.md) — Vendor switching leaves capability-level governance unresolved, while alleged repeated tracking after lawful police recording raises retaliation and query-authorization concerns.
 
-- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — Flock-camera safety claims remain contested by privacy, retention, access, and misuse concerns.
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-daytime.md) — Flock-camera safety claims remain contested by privacy, retention, access, and misuse concerns.
 
-- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — Law-enforcement leaders debate whether Flock cameras’ claimed safety value justifies their privacy costs.
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-midnight.md) — Law-enforcement leaders debate whether Flock cameras’ claimed safety value justifies their privacy costs.
 
-- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Record municipal Flock cancellations demonstrate procurement exit as an ALPR governance mechanism.
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-evening.md) — Record municipal Flock cancellations demonstrate procurement exit as an ALPR governance mechanism.
 
-- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Texas blocks state-agency funding for Flock cameras, demonstrating budget authority as an ALPR governance mechanism.
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-noon.md) — Texas blocks state-agency funding for Flock cameras, demonstrating budget authority as an ALPR governance mechanism.
 
-- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Record municipal Flock contract terminations show procurement becoming a direct surveillance-governance control.
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-daytime.md) — Record municipal Flock contract terminations show procurement becoming a direct surveillance-governance control.
 
-- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-evening.md) — Anti-Flock activism is framed as insufficient without broader rules for surveillance collection, retention, access, auditing, and misuse.
+- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-evening.md) — Anti-Flock activism is framed as insufficient without broader rules for surveillance collection, retention, access, auditing, and misuse.
 
-- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-daytime.md) — Continued Flock expansion and backlash keep ALPR legitimacy, retention, access, auditing, accuracy, and misuse controls unresolved.
+- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-daytime.md) — Continued Flock expansion and backlash keep ALPR legitimacy, retention, access, auditing, accuracy, and misuse controls unresolved.
 
-- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-midnight.md) — Continued nationwide expansion and backlash keep ALPR legitimacy, retention, access, auditing, accuracy, and misuse controls unresolved.
+- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-midnight.md) — Continued nationwide expansion and backlash keep ALPR legitimacy, retention, access, auditing, accuracy, and misuse controls unresolved.
 
-- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — Growing backlash against expanding Flock networks keeps legitimacy, retention, access, audit, and misuse controls central.
+- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-evening.md) — Growing backlash against expanding Flock networks keeps legitimacy, retention, access, audit, and misuse controls central.
 
-- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletter-2026-08-24-evening.md) — Counter-surveillance of a Flock convention shows scrutiny and resistance extending from camera networks to the institutions and vendors behind them.
+- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-evening.md) — Counter-surveillance of a Flock convention shows scrutiny and resistance extending from camera networks to the institutions and vendors behind them.
 
-- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — Physical attacks on Flock cameras show legitimacy failures can become direct resistance against surveillance infrastructure.
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-daytime.md) — Physical attacks on Flock cameras show legitimacy failures can become direct resistance against surveillance infrastructure.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — Reported access for more than 400 Illinois agencies shows how network scale amplifies authorization, audit, retention, and misuse risk.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — Reported access for more than 400 Illinois agencies shows how network scale amplifies authorization, audit, retention, and misuse risk.
 
-- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Flock’s effort to answer mounting surveillance fears shows that legitimacy requires enforceable retention, access, accuracy, and misuse controls—not reassurance alone.
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-evening.md) — Flock’s effort to answer mounting surveillance fears shows that legitimacy requires enforceable retention, access, accuracy, and misuse controls—not reassurance alone.
 
-- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Bipartisan Flock-camera backlash broadens concern from isolated misuse to the legitimacy of networked vehicle tracking.
+- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-midnight.md) — Bipartisan Flock-camera backlash broadens concern from isolated misuse to the legitimacy of networked vehicle tracking.
 
-- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-evening.md) — Flock-camera defenses and criticism keep accuracy, retention, access, and misuse controls central to surveillance legitimacy.
+- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-evening.md) — Flock-camera defenses and criticism keep accuracy, retention, access, and misuse controls central to surveillance legitimacy.
 
-- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Bipartisan Flock backlash and technology linking phones to license plates extend ALPR governance into cross-device location correlation.
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-noon.md) — Bipartisan Flock backlash and technology linking phones to license plates extend ALPR governance into cross-device location correlation.
 
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Bipartisan Flock-camera resistance reinforces that legitimacy depends on retention, access, accuracy, and enforceable misuse controls.
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — Bipartisan Flock-camera resistance reinforces that legitimacy depends on retention, access, accuracy, and enforceable misuse controls.
 
-- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Bipartisan scrutiny of Flock cameras broadens concern over privacy, retention, access, accuracy, and misuse.
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-daytime.md) — Bipartisan scrutiny of Flock cameras broadens concern over privacy, retention, access, accuracy, and misuse.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — The nationwide Flock camera debate frames automated plate readers as a public-safety tool with privacy, retention, access, and misuse risks.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — The nationwide Flock camera debate frames automated plate readers as a public-safety tool with privacy, retention, access, and misuse risks.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — The theft of every Flock camera in a Minnesota town amid expanding bans adds legitimacy and physical-infrastructure backlash to access-control concerns.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — The theft of every Flock camera in a Minnesota town amid expanding bans adds legitimacy and physical-infrastructure backlash to access-control concerns.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Georgia Flock arrests reinforce ALPR systems as audit-log, access-control, and civil-liberties infrastructure.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Georgia Flock arrests reinforce ALPR systems as audit-log, access-control, and civil-liberties infrastructure.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Georgia Flock database-misuse arrests reinforce ALPR surveillance as an access-control and audit-log problem.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Georgia Flock database-misuse arrests reinforce ALPR surveillance as an access-control and audit-log problem.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Georgia arrests for Flock database misuse reinforce that ALPR risk is access-control and audit-log risk, not just collection risk.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Georgia arrests for Flock database misuse reinforce that ALPR risk is access-control and audit-log risk, not just collection risk.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Flock database misuse allegations and high misread rates make ALPR a standing surveillance, data-quality, and access-control concern.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Flock database misuse allegations and high misread rates make ALPR a standing surveillance, data-quality, and access-control concern.
 
 ## Related Concepts
 

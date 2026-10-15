@@ -15,8 +15,8 @@ Jessica Pegula is an American tennis player tracked in the sports graph through 
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in prediction-market trending topics against Alex Eala.
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Pegula loses to Coco Gauff at Wimbledon, making the match a notable all-American result in the dispatch.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Appears in prediction-market trending topics against Alex Eala.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Pegula loses to Coco Gauff at Wimbledon, making the match a notable all-American result in the dispatch.
 
 ## Related
 

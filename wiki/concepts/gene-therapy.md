@@ -14,11 +14,11 @@ Gene therapy is the treatment of disease by altering, replacing, editing, or add
 
 ## Sources
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — FDA approval of a pediatric sickle-cell gene therapy marks a regulatory milestone for advanced biotechnology in children.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — FDA approval of a pediatric sickle-cell gene therapy marks a regulatory milestone for advanced biotechnology in children.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — AlphaFold-assisted redesign of gene-editing proteins reframes AI biology work as a safety-improvement mechanism for gene-editing interventions.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — AlphaFold-assisted redesign of gene-editing proteins reframes AI biology work as a safety-improvement mechanism for gene-editing interventions.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — AlphaFold-assisted redesign of gene-editing proteins links AI protein design to safer biological interventions.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — AlphaFold-assisted redesign of gene-editing proteins links AI protein design to safer biological interventions.
 
 ## Related Concepts
 

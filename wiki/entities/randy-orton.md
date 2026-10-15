@@ -34,11 +34,11 @@ source_count: 4
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — RKOs Cody Rhodes at SummerSlam, enabling CM Punk’s WWE Title victory.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — RKOs Cody Rhodes at SummerSlam, enabling CM Punk’s WWE Title victory.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Orton returns and costs Cody Rhodes against CM Punk, resetting the Sunday wrestling conversation.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Orton returns and costs Cody Rhodes against CM Punk, resetting the Sunday wrestling conversation.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Randy Orton RKOing Cody Rhodes becomes the decisive SummerSlam title-finish note.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Randy Orton RKOing Cody Rhodes becomes the decisive SummerSlam title-finish note.
 
 - [2026-05-27: Raw notes](../../raw/people/randy-orton.md)
 

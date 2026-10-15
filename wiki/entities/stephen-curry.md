@@ -19,14 +19,14 @@ On **June 2, 2026** (per r/sports), Curry signed with **Li-Ning** — a Chinese 
 
 ## Sources
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Reportedly agrees to a two-year, $116 million Warriors extension, reinforcing his stated intention to remain with Golden State.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Reportedly agrees to a two-year, $116 million Warriors extension, reinforcing his stated intention to remain with Golden State.
 
 - [2026-05-14: How Our RAPTOR Metric Works](sources/fivethirtyeight-raptor-metric.md) — Archetype of the ball-dominant scorer/spacer RAPTOR rates as phenomenally good
-- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Curry signs with Li-Ning after Under Armour split; significant endorsement shift with commercial and geopolitical undertones
+- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](../sources/newsletters/newsletter-2026-06-02.md) — Curry signs with Li-Ning after Under Armour split; significant endorsement shift with commercial and geopolitical undertones
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Curry acknowledges the appeal of playing with LeBron James, adding a player-voice signal to LeBron recruitment speculation.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Curry acknowledges the appeal of playing with LeBron James, adding a player-voice signal to LeBron recruitment speculation.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Curry becomes the first active player with his own Hall of Fame exhibit, a legacy/recognition marker while still active.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Curry becomes the first active player with his own Hall of Fame exhibit, a legacy/recognition marker while still active.
 
 ## Related
 

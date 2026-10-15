@@ -15,7 +15,7 @@ Novo Nordisk is a pharmaceutical company; this source tracks stock pressure afte
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Novo Nordisk is a pharmaceutical company; this source tracks stock pressure after a Wegovy pill surprise miss.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Novo Nordisk is a pharmaceutical company; this source tracks stock pressure after a Wegovy pill surprise miss.
 
 ## Related
 

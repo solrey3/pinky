@@ -15,7 +15,7 @@ John Deere is tracked in the wiki as an agricultural-equipment manufacturer cent
 
 ## Sources
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — An FTC settlement gives John Deere owners expanded right-to-repair protections for farm equipment.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — An FTC settlement gives John Deere owners expanded right-to-repair protections for farm equipment.
 
 ## Related
 

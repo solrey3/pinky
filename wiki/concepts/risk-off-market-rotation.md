@@ -14,778 +14,778 @@ A market regime where investors do not leave risk assets uniformly; instead, the
 
 ## Sources
 
-- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-noon.md) — Shows continued Nasdaq, semiconductor, small-cap, international-equity, and Bitcoin weakness against gains in the Dow, dividends, real estate, value, and selected consumer shares.
+- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-noon.md) — Shows continued Nasdaq, semiconductor, small-cap, international-equity, and Bitcoin weakness against gains in the Dow, dividends, real estate, value, and selected consumer shares.
 
-- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Repeats the midnight technology, semiconductor, small-cap, and international-equity losses against gains in the Dow, dividends, real estate, and value; no fresh equity move should be inferred.
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-daytime.md) — Repeats the midnight technology, semiconductor, small-cap, and international-equity losses against gains in the Dow, dividends, real estate, and value; no fresh equity move should be inferred.
 
-- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-midnight.md) — Repeats the prior evening's technology, semiconductor, small-cap, and international-equity losses against gains in the Dow, dividends, real estate, value, and WTI; no fresh equity move should be inferred.
+- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-midnight.md) — Repeats the prior evening's technology, semiconductor, small-cap, and international-equity losses against gains in the Dow, dividends, real estate, value, and WTI; no fresh equity move should be inferred.
 
-- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-evening.md) — Shows the technology and semiconductor selloff deepening, led by AMD, TSM, and Nvidia, while the Dow, dividend equities, real estate, and WTI gain.
+- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-evening.md) — Shows the technology and semiconductor selloff deepening, led by AMD, TSM, and Nvidia, while the Dow, dividend equities, real estate, and WTI gain.
 
-- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Shows an intensified technology and semiconductor selloff, led by AMD, TSM, and Nvidia, against gains in the Dow, dividend equities, real estate, and WTI.
+- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-noon.md) — Shows an intensified technology and semiconductor selloff, led by AMD, TSM, and Nvidia, against gains in the Dow, dividend equities, real estate, and WTI.
 
-- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — Repeats the prior evening's technology, semiconductor, small-cap, and international-equity losses against gains in the Dow, dividend equities, real estate, and WTI; no fresh market move should be inferred.
+- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-daytime.md) — Repeats the prior evening's technology, semiconductor, small-cap, and international-equity losses against gains in the Dow, dividend equities, real estate, and WTI; no fresh market move should be inferred.
 
-- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-midnight.md) — Repeats the prior evening's Nasdaq, Russell, semiconductor, and international-equity losses against gains in the Dow, dividend equities, real estate, and WTI; no fresh equity move should be inferred.
+- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-midnight.md) — Repeats the prior evening's Nasdaq, Russell, semiconductor, and international-equity losses against gains in the Dow, dividend equities, real estate, and WTI; no fresh equity move should be inferred.
 
-- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-evening.md) — Shows Nasdaq and Russell losses, 4–8% semiconductor declines, and weakness in international equities while the Dow, dividend equities, real estate, and WTI gain.
+- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-evening.md) — Shows Nasdaq and Russell losses, 4–8% semiconductor declines, and weakness in international equities while the Dow, dividend equities, real estate, and WTI gain.
 
-- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-noon.md) — Shows S&P, Nasdaq, and Russell losses, 5–9% semiconductor declines, and gains in dividend and real-estate funds while the Dow remains positive and WTI rises.
+- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-noon.md) — Shows S&P, Nasdaq, and Russell losses, 5–9% semiconductor declines, and gains in dividend and real-estate funds while the Dow remains positive and WTI rises.
 
-- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-daytime.md) — Repeats the midnight board's Dow and S&P gains against Nasdaq, Russell, and semiconductor losses; no fresh equity move should be inferred.
+- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-daytime.md) — Repeats the midnight board's Dow and S&P gains against Nasdaq, Russell, and semiconductor losses; no fresh equity move should be inferred.
 
-- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-midnight.md) — Repeats the prior evening's Dow and S&P gains against Nasdaq, Russell, and semiconductor losses; no fresh equity move should be inferred.
+- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-midnight.md) — Repeats the prior evening's Dow and S&P gains against Nasdaq, Russell, and semiconductor losses; no fresh equity move should be inferred.
 
-- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletter-2026-10-12-evening.md) — Shows Dow and S&P gains against Nasdaq and Russell losses, 5–9% semiconductor declines, and gains in dividend and real-estate funds while WTI rises 5.53%.
+- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-evening.md) — Shows Dow and S&P gains against Nasdaq and Russell losses, 5–9% semiconductor declines, and gains in dividend and real-estate funds while WTI rises 5.53%.
 
-- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Shows the Dow up 1.20% while Nasdaq falls 0.62%, Russell 2000 falls 1.55%, and major chip shares lose 5–8%; WTI jumps 6.00% beneath a 5.598% long yield.
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-noon.md) — Shows the Dow up 1.20% while Nasdaq falls 0.62%, Russell 2000 falls 1.55%, and major chip shares lose 5–8%; WTI jumps 6.00% beneath a 5.598% long yield.
 
-- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 2.18% beneath a 5.600% long yield while WTI jumps to $92.86.
+- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-daytime.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 2.18% beneath a 5.600% long yield while WTI jumps to $92.86.
 
-- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 2.21% beneath a 5.600% long yield while WTI falls to $90.24.
+- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-midnight.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 2.21% beneath a 5.600% long yield while WTI falls to $90.24.
 
-- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — Again repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 0.15% beneath a 5.600% long yield while WTI holds at $91.85.
+- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-evening.md) — Again repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 0.15% beneath a 5.600% long yield while WTI holds at $91.85.
 
-- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — Repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 0.64% beneath a 5.600% long yield while WTI holds at $91.85.
+- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-noon.md) — Repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin rises 0.64% beneath a 5.600% long yield while WTI holds at $91.85.
 
-- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-daytime.md) — Repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 0.38% beneath a 5.600% long yield while WTI holds at $91.85.
+- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-daytime.md) — Repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 0.38% beneath a 5.600% long yield while WTI holds at $91.85.
 
-- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-midnight.md) — Repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 0.65% beneath a 5.600% long yield while WTI holds at $91.85.
+- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-midnight.md) — Repeats Friday's large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 0.65% beneath a 5.600% long yield while WTI holds at $91.85.
 
-- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-evening.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.02% beneath a 5.600% long yield while WTI holds at $91.85.
+- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-evening.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.02% beneath a 5.600% long yield while WTI holds at $91.85.
 
-- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-noon.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.04% beneath a 5.600% long yield while WTI holds at $91.85.
+- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-noon.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.04% beneath a 5.600% long yield while WTI holds at $91.85.
 
-- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.24% beneath a 5.600% long yield while WTI rises to $91.85.
+- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-daytime.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.24% beneath a 5.600% long yield while WTI rises to $91.85.
 
-- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-midnight.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.54% beneath a 5.600% long yield while WTI holds at $91.66.
+- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-midnight.md) — Repeats large-cap gains against a 0.91% Russell decline and roughly 2–4% chip losses; Bitcoin falls 3.54% beneath a 5.600% long yield while WTI holds at $91.66.
 
-- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletter-2026-10-09-evening.md) — Shows stronger large-cap gains while the Russell 2000 falls 0.91%, major chip names decline roughly 2–4%, and Bitcoin loses 3.88% beneath a 5.600% long yield; WTI rises to $91.66.
+- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-evening.md) — Shows stronger large-cap gains while the Russell 2000 falls 0.91%, major chip names decline roughly 2–4%, and Bitcoin loses 3.88% beneath a 5.600% long yield; WTI rises to $91.66.
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Shows narrower large-cap gains while the Russell 2000 falls 1.01%, major chip names decline, and Bitcoin loses 3.60% beneath a 5.623% long yield; WTI rises to $91.99.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — Shows narrower large-cap gains while the Russell 2000 falls 1.01%, major chip names decline, and Bitcoin loses 3.60% beneath a 5.623% long yield; WTI rises to $91.99.
 
-- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Repeats large-cap gains near annual highs while the Russell 2000 falls 0.45% and Bitcoin loses 3.71% beneath a 5.606% long yield; WTI rises to $90.61.
+- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-daytime.md) — Repeats large-cap gains near annual highs while the Russell 2000 falls 0.45% and Bitcoin loses 3.71% beneath a 5.606% long yield; WTI rises to $90.61.
 
-- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Shows large-cap gains near annual highs while the Russell 2000 falls 0.45% and Bitcoin loses 3.98% beneath a 5.606% long yield; WTI rises to $90.42.
+- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-midnight.md) — Shows large-cap gains near annual highs while the Russell 2000 falls 0.45% and Bitcoin loses 3.98% beneath a 5.606% long yield; WTI rises to $90.42.
 
-- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-evening.md) — Shows large-cap gains near annual highs alongside a Russell 2000 decline and a 5.56% Bitcoin drop beneath a 5.606% long yield; WTI rises to $91.18.
+- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-evening.md) — Shows large-cap gains near annual highs alongside a Russell 2000 decline and a 5.56% Bitcoin drop beneath a 5.606% long yield; WTI rises to $91.18.
 
-- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-noon.md) — Shows concentrated technology-led gains while small caps, international equities, real estate, and Bitcoin decline beneath a 5.659% long yield; WTI rises to $92.88.
+- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-noon.md) — Shows concentrated technology-led gains while small caps, international equities, real estate, and Bitcoin decline beneath a 5.659% long yield; WTI rises to $92.88.
 
-- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Repeats technology-led risk-on closes while small caps, real estate, international equities, and Bitcoin decline beneath a 5.661% long yield; WTI jumps to $91.92.
+- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-daytime.md) — Repeats technology-led risk-on closes while small caps, real estate, international equities, and Bitcoin decline beneath a 5.661% long yield; WTI jumps to $91.92.
 
-- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Repeats technology-led risk-on closes while small caps, real estate, international equities, and Bitcoin decline beneath a 5.661% long yield; WTI reverses higher to $89.77.
+- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-midnight.md) — Repeats technology-led risk-on closes while small caps, real estate, international equities, and Bitcoin decline beneath a 5.661% long yield; WTI reverses higher to $89.77.
 
-- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Shows technology-led risk-on trade: Nasdaq gains 2.52% and the S&P 500 1.96% while small caps, real estate, international equities, Bitcoin, and WTI decline beneath a 5.661% long yield.
+- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-evening.md) — Shows technology-led risk-on trade: Nasdaq gains 2.52% and the S&P 500 1.96% while small caps, real estate, international equities, Bitcoin, and WTI decline beneath a 5.661% long yield.
 
-- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Shows broad but technology-led gains: Nasdaq rises 2.26% and the S&P 500 1.83% while small caps slip; WTI falls 2.30% beneath a 5.687% long yield.
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-noon.md) — Shows broad but technology-led gains: Nasdaq rises 2.26% and the S&P 500 1.83% while small caps slip; WTI falls 2.30% beneath a 5.687% long yield.
 
-- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Repeats the technology-led risk-on board: Nasdaq gains 2.99%, the S&P 500 1.93%, and chips surge while real estate and selected names decline; WTI falls 1.24% beneath a 5.641% long yield.
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-daytime.md) — Repeats the technology-led risk-on board: Nasdaq gains 2.99%, the S&P 500 1.93%, and chips surge while real estate and selected names decline; WTI falls 1.24% beneath a 5.641% long yield.
 
-- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Repeats a broad but technology-led risk-on board: Nasdaq gains 2.99%, the S&P 500 1.93%, and chips surge while real estate and selected names decline; WTI falls 1.01% beneath a 5.641% long yield.
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-midnight.md) — Repeats a broad but technology-led risk-on board: Nasdaq gains 2.99%, the S&P 500 1.93%, and chips surge while real estate and selected names decline; WTI falls 1.01% beneath a 5.641% long yield.
 
-- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Preserves broad but technology-led risk-on trade: Nasdaq gains 2.99%, the S&P 500 1.93%, and chips surge while real estate and selected financial and media names decline; WTI falls 3.19% beneath a 5.641% long yield.
+- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-evening.md) — Preserves broad but technology-led risk-on trade: Nasdaq gains 2.99%, the S&P 500 1.93%, and chips surge while real estate and selected financial and media names decline; WTI falls 3.19% beneath a 5.641% long yield.
 
-- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-noon.md) — Broadens the technology-led rally: Nasdaq gains 3.34%, the S&P 500 2.20%, and chips surge while real estate and selected stocks decline; WTI falls 4.47% beneath a 5.629% long yield.
+- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-noon.md) — Broadens the technology-led rally: Nasdaq gains 3.34%, the S&P 500 2.20%, and chips surge while real estate and selected stocks decline; WTI falls 4.47% beneath a 5.629% long yield.
 
-- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Extends concentrated risk-on leadership: Nasdaq rises 2.45% and chips surge while the Dow, dividends, and real estate decline, as WTI falls 5.78% beneath a 5.665% long yield.
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-daytime.md) — Extends concentrated risk-on leadership: Nasdaq rises 2.45% and chips surge while the Dow, dividends, and real estate decline, as WTI falls 5.78% beneath a 5.665% long yield.
 
-- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Preserves concentrated risk-on leadership: Nasdaq rises 2.45% and chips surge while the Dow, dividends, and real estate decline beneath a 5.665% long yield.
+- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-midnight.md) — Preserves concentrated risk-on leadership: Nasdaq rises 2.45% and chips surge while the Dow, dividends, and real estate decline beneath a 5.665% long yield.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Shows concentrated risk-on leadership: Nasdaq rises 2.45% and chips surge while the Dow, dividends, and real estate decline beneath a 5.665% long yield.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Shows concentrated risk-on leadership: Nasdaq rises 2.45% and chips surge while the Dow, dividends, and real estate decline beneath a 5.665% long yield.
 
-- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-noon.md) — Shows concentrated risk-on leadership: Nasdaq rises 2.14% and semiconductors surge while the Dow and several diversified exposures decline beneath a 5.686% long yield.
+- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-noon.md) — Shows concentrated risk-on leadership: Nasdaq rises 2.14% and semiconductors surge while the Dow and several diversified exposures decline beneath a 5.686% long yield.
 
-- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Keeps the Nasdaq positive through semiconductor strength while the Dow and every tracked diversified ETF decline beneath a 5.63% long yield.
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-daytime.md) — Keeps the Nasdaq positive through semiconductor strength while the Dow and every tracked diversified ETF decline beneath a 5.63% long yield.
 
-- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Preserves the narrow completed-week split: semiconductor strength supports Nasdaq while the Dow and diversified funds weaken beneath a 5.63% long yield.
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-midnight.md) — Preserves the narrow completed-week split: semiconductor strength supports Nasdaq while the Dow and diversified funds weaken beneath a 5.63% long yield.
 
-- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Repeats the completed-week split: semiconductor strength supports Nasdaq while the Dow and diversified funds weaken beneath a 5.63% long yield.
+- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-evening.md) — Repeats the completed-week split: semiconductor strength supports Nasdaq while the Dow and diversified funds weaken beneath a 5.63% long yield.
 
-- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Repeats the completed-week pattern: semiconductor strength keeps Nasdaq positive while the Dow and diversified funds weaken beneath a 5.63% long yield.
+- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-noon.md) — Repeats the completed-week pattern: semiconductor strength keeps Nasdaq positive while the Dow and diversified funds weaken beneath a 5.63% long yield.
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Repeats the completed-week board: Nasdaq positive, Dow and diversified funds negative, with semiconductor leadership beneath a 5.63% long yield.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Repeats the completed-week board: Nasdaq positive, Dow and diversified funds negative, with semiconductor leadership beneath a 5.63% long yield.
 
-- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Repeats the completed-week board: Nasdaq positive, Dow and diversified funds negative, with semiconductor leadership beneath a 5.63% long yield.
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-midnight.md) — Repeats the completed-week board: Nasdaq positive, Dow and diversified funds negative, with semiconductor leadership beneath a 5.63% long yield.
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Repeats the completed-week board: Nasdaq positive, Dow and every tracked diversified ETF negative, with semiconductor leadership beneath a 5.63% long yield.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — Repeats the completed-week board: Nasdaq positive, Dow and every tracked diversified ETF negative, with semiconductor leadership beneath a 5.63% long yield.
 
-- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-noon.md) — Repeats the completed-week board: Nasdaq positive, Dow and every tracked diversified ETF negative, with semiconductor leadership beneath a 5.63% long yield.
+- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-noon.md) — Repeats the completed-week board: Nasdaq positive, Dow and every tracked diversified ETF negative, with semiconductor leadership beneath a 5.63% long yield.
 
-- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — The Nasdaq finishes positive while the Dow and every tracked diversified ETF decline under a 5.63% long yield, repeating narrow technology leadership.
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-daytime.md) — The Nasdaq finishes positive while the Dow and every tracked diversified ETF decline under a 5.63% long yield, repeating narrow technology leadership.
 
-- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-midnight.md) — The completed week leaves the Nasdaq positive but the Dow and every tracked diversified ETF negative under a 5.63% long yield, preserving narrow technology leadership.
+- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-midnight.md) — The completed week leaves the Nasdaq positive but the Dow and every tracked diversified ETF negative under a 5.63% long yield, preserving narrow technology leadership.
 
-- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — Nvidia and TSM lift the Nasdaq while the Dow falls 1.26% and every tracked diversified ETF declines under a 5.63% long yield, preserving narrow semiconductor leadership.
+- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-evening.md) — Nvidia and TSM lift the Nasdaq while the Dow falls 1.26% and every tracked diversified ETF declines under a 5.63% long yield, preserving narrow semiconductor leadership.
 
-- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-noon.md) — Nvidia and TSM lift the Nasdaq while the Dow drops 1.39% and every tracked diversified ETF declines under a 5.615% long yield, extending narrow semiconductor leadership.
+- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-noon.md) — Nvidia and TSM lift the Nasdaq while the Dow drops 1.39% and every tracked diversified ETF declines under a 5.615% long yield, extending narrow semiconductor leadership.
 
-- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — Every tracked index and diversified ETF declines, led by real estate and small caps, while Nvidia and TSM remain narrow positive exceptions under a 5.603% long yield.
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-daytime.md) — Every tracked index and diversified ETF declines, led by real estate and small caps, while Nvidia and TSM remain narrow positive exceptions under a 5.603% long yield.
 
-- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-midnight.md) — Every tracked index and diversified ETF declines, led by small caps and real estate, while Nvidia and TSM remain narrow positive exceptions under a 5.603% long yield.
+- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-midnight.md) — Every tracked index and diversified ETF declines, led by small caps and real estate, while Nvidia and TSM remain narrow positive exceptions under a 5.603% long yield.
 
-- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — Every tracked index and diversified ETF declines, led by small-cap and real-estate weakness, while Nvidia and TSM remain narrow positive exceptions under a 5.603% long yield.
+- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-evening.md) — Every tracked index and diversified ETF declines, led by small-cap and real-estate weakness, while Nvidia and TSM remain narrow positive exceptions under a 5.603% long yield.
 
-- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-noon.md) — Every tracked index and diversified ETF declines, led by small-cap and real-estate weakness, while Nvidia and TSM provide narrow exceptions under a 5.622% long yield.
+- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-noon.md) — Every tracked index and diversified ETF declines, led by small-cap and real-estate weakness, while Nvidia and TSM provide narrow exceptions under a 5.622% long yield.
 
-- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Every tracked broad index and diversified ETF declines under a quoted 5.638% long yield, while isolated semiconductor gains preserve narrow leadership.
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-daytime.md) — Every tracked broad index and diversified ETF declines under a quoted 5.638% long yield, while isolated semiconductor gains preserve narrow leadership.
 
-- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Every tracked index and diversified ETF declines under a 5.638% 30-year yield, with small caps, dividends, value, and real estate all weakening despite isolated stock gains.
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-midnight.md) — Every tracked index and diversified ETF declines under a 5.638% 30-year yield, with small caps, dividends, value, and real estate all weakening despite isolated stock gains.
 
-- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — All major indexes and tracked diversified ETFs fall, led by the Dow and small caps, while Nvidia and TSM gain against a 5.638% 30-year yield.
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-evening.md) — All major indexes and tracked diversified ETFs fall, led by the Dow and small caps, while Nvidia and TSM gain against a 5.638% 30-year yield.
 
-- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Nasdaq and the S&P 500 edge higher while small caps and every tracked diversified ETF decline under a 5.644% 30-year yield, extending narrow technology leadership.
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-noon.md) — Nasdaq and the S&P 500 edge higher while small caps and every tracked diversified ETF decline under a 5.644% 30-year yield, extending narrow technology leadership.
 
-- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — Broad losses persist across every tracked index and ETF; Russell loses 2.84%, VNQ 3.30%, and Tesla 6.88% while long yields remain restrictive.
+- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-daytime.md) — Broad losses persist across every tracked index and ETF; Russell loses 2.84%, VNQ 3.30%, and Tesla 6.88% while long yields remain restrictive.
 
-- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — All tracked indexes and ETFs decline; Russell loses 2.84%, VNQ 3.30%, and Tesla 6.88% while the 30-year yield remains near its displayed annual high.
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-midnight.md) — All tracked indexes and ETFs decline; Russell loses 2.84%, VNQ 3.30%, and Tesla 6.88% while the 30-year yield remains near its displayed annual high.
 
-- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — All tracked indexes and ETFs decline; Russell loses 2.84%, VNQ 3.30%, and Tesla 6.88% while the 30-year yield remains near its displayed annual high.
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-evening.md) — All tracked indexes and ETFs decline; Russell loses 2.84%, VNQ 3.30%, and Tesla 6.88% while the 30-year yield remains near its displayed annual high.
 
-- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-noon.md) — All tracked indexes and ETFs decline; Russell loses 3.12% and VNQ 3.58% while the 30-year yield approaches its displayed annual high.
+- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-noon.md) — All tracked indexes and ETFs decline; Russell loses 3.12% and VNQ 3.58% while the 30-year yield approaches its displayed annual high.
 
-- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — All tracked indexes and ETFs decline; Russell loses 2.00% and VNQ 3.43% while long yields remain near their annual high.
+- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-daytime.md) — All tracked indexes and ETFs decline; Russell loses 2.00% and VNQ 3.43% while long yields remain near their annual high.
 
-- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — All four major indexes and every tracked ETF decline; Russell loses 2.00% and VNQ 3.43% while the 30-year yield sits near its annual high.
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-midnight.md) — All four major indexes and every tracked ETF decline; Russell loses 2.00% and VNQ 3.43% while the 30-year yield sits near its annual high.
 
-- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — All four major indexes and every tracked ETF decline; Russell loses 2.00% and VNQ 3.43% as the 30-year yield jumps 26 basis points.
+- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-evening.md) — All four major indexes and every tracked ETF decline; Russell loses 2.00% and VNQ 3.43% as the 30-year yield jumps 26 basis points.
 
-- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — All four major indexes decline, led by the Russell 2000 at -2.30%; real estate loses 3.72% as long yields approach annual highs and WTI rises.
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-noon.md) — All four major indexes decline, led by the Russell 2000 at -2.30%; real estate loses 3.72% as long yields approach annual highs and WTI rises.
 
-- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Nasdaq gains 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and Bitcoin weaken under elevated long rates.
+- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-daytime.md) — Nasdaq gains 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and Bitcoin weaken under elevated long rates.
 
-- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-midnight.md) — Nasdaq gains 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, Bitcoin, and several watched stocks weaken under elevated long rates.
+- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-midnight.md) — Nasdaq gains 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, Bitcoin, and several watched stocks weaken under elevated long rates.
 
-- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and WTI weaken under elevated long rates.
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-evening.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and WTI weaken under elevated long rates.
 
-- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and WTI weaken under elevated long rates.
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-noon.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and WTI weaken under elevated long rates.
 
-- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-daytime.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and WTI weaken under elevated long rates.
+- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-daytime.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, and WTI weaken under elevated long rates.
 
-- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-midnight.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, Bitcoin, and WTI weaken under elevated long rates.
+- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-midnight.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, value, real estate, Bitcoin, and WTI weaken under elevated long rates.
 
-- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-evening.md) — The completed-week board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under elevated long rates.
+- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-evening.md) — The completed-week board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under elevated long rates.
 
-- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-noon.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
+- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-noon.md) — The repeated weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
 
-- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — The weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-daytime.md) — The weekly board shows Nasdaq up 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Nasdaq gains 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Nasdaq gains 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
 
-- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — Nasdaq rises 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
+- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-evening.md) — Nasdaq rises 2.06% and AMD 12.65%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
 
-- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-noon.md) — Nasdaq rises 1.96% and AMD 12.42%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
+- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-noon.md) — Nasdaq rises 1.96% and AMD 12.42%, while small caps, dividends, small value, real estate, Bitcoin, and WTI decline under near-peak long rates.
 
-- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-daytime.md) — Nasdaq rises 1.97% and AMD 15.44%, while the Dow, Russell 2000, every tracked diversified ETF, Bitcoin, and WTI decline under near-peak long rates.
+- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-daytime.md) — Nasdaq rises 1.97% and AMD 15.44%, while the Dow, Russell 2000, every tracked diversified ETF, Bitcoin, and WTI decline under near-peak long rates.
 
-- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-midnight.md) — Nasdaq rises 1.97% and AMD 15.44%, while the Dow, Russell 2000, every tracked diversified ETF, Bitcoin, and WTI decline under near-peak long rates.
+- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-midnight.md) — Nasdaq rises 1.97% and AMD 15.44%, while the Dow, Russell 2000, every tracked diversified ETF, Bitcoin, and WTI decline under near-peak long rates.
 
-- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-evening.md) — Nasdaq rises 1.97% and AMD 15.44%, while the Dow, Russell 2000, and every tracked diversified ETF decline under near-peak long rates, preserving concentrated technology leadership.
+- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-evening.md) — Nasdaq rises 1.97% and AMD 15.44%, while the Dow, Russell 2000, and every tracked diversified ETF decline under near-peak long rates, preserving concentrated technology leadership.
 
-- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-noon.md) — Nasdaq rises 1.28% and AMD 11.95%, while the Dow, Russell 2000, dividends, value, international equities, and real estate decline under near-peak long rates, preserving concentrated growth leadership.
+- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-noon.md) — Nasdaq rises 1.28% and AMD 11.95%, while the Dow, Russell 2000, dividends, value, international equities, and real estate decline under near-peak long rates, preserving concentrated growth leadership.
 
-- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Nasdaq rises 3.69% and AMD 19.92%, while small caps, dividends, value, real estate, financials, and WTI weaken under near-peak long rates, preserving concentrated growth leadership.
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-daytime.md) — Nasdaq rises 3.69% and AMD 19.92%, while small caps, dividends, value, real estate, financials, and WTI weaken under near-peak long rates, preserving concentrated growth leadership.
 
-- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Nasdaq rises 3.69% and AMD 19.92%, while small caps, dividends, value, real estate, financials, and WTI weaken under near-peak long rates, preserving concentrated risk-on leadership.
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-midnight.md) — Nasdaq rises 3.69% and AMD 19.92%, while small caps, dividends, value, real estate, financials, and WTI weaken under near-peak long rates, preserving concentrated risk-on leadership.
 
-- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Nasdaq rises 3.69% and AMD 19.92%, while small caps, dividends, value, real estate, financials, and WTI weaken, preserving concentrated risk-on leadership.
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-evening.md) — Nasdaq rises 3.69% and AMD 19.92%, while small caps, dividends, value, real estate, financials, and WTI weaken, preserving concentrated risk-on leadership.
 
-- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-noon.md) — Nasdaq rises 3.81%, AMD 20.00%, and Bitcoin 3.42%, while small caps, dividend, value, real estate, financials, and WTI weaken, preserving concentrated risk-on leadership.
+- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-noon.md) — Nasdaq rises 3.81%, AMD 20.00%, and Bitcoin 3.42%, while small caps, dividend, value, real estate, financials, and WTI weaken, preserving concentrated risk-on leadership.
 
-- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — Nasdaq rises 4.86%, AMD 23.71%, and Bitcoin 5.65%, while the Dow, dividend, value, real estate, financials, transports, and WTI decline, preserving concentrated risk-on leadership.
+- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-daytime.md) — Nasdaq rises 4.86%, AMD 23.71%, and Bitcoin 5.65%, while the Dow, dividend, value, real estate, financials, transports, and WTI decline, preserving concentrated risk-on leadership.
 
-- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — Nasdaq rises 4.86%, AMD 23.71%, and Bitcoin 6.72%, while the Dow, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
+- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-midnight.md) — Nasdaq rises 4.86%, AMD 23.71%, and Bitcoin 6.72%, while the Dow, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
 
-- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Nasdaq rises 4.86%, AMD 23.71%, and Bitcoin 6.60%, while the Dow, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
+- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-evening.md) — Nasdaq rises 4.86%, AMD 23.71%, and Bitcoin 6.60%, while the Dow, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
 
-- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — Nasdaq rises 4.68%, AMD 22.34%, and Bitcoin 6.84%, while the Dow, dividend, value, real estate, and WTI decline, extending concentrated risk-on leadership without broad confirmation.
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-noon.md) — Nasdaq rises 4.68%, AMD 22.34%, and Bitcoin 6.84%, while the Dow, dividend, value, real estate, and WTI decline, extending concentrated risk-on leadership without broad confirmation.
 
-- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Nasdaq rises 3.57%, AMD 24.75%, and Bitcoin 6.54%, while the Dow, Russell, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-daytime.md) — Nasdaq rises 3.57%, AMD 24.75%, and Bitcoin 6.54%, while the Dow, Russell, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
 
-- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — Nasdaq rises 3.57%, AMD 24.75%, and Bitcoin 5.90%, while the Dow, Russell, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
+- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-midnight.md) — Nasdaq rises 3.57%, AMD 24.75%, and Bitcoin 5.90%, while the Dow, Russell, dividend, value, real estate, and WTI decline, preserving concentrated risk-on leadership without broad confirmation.
 
-- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletter-2026-09-21-evening.md) — Nasdaq rises 3.57%, AMD 24.75%, and Bitcoin 13.35%, while the Dow, Russell, dividend, value, real estate, and WTI decline, deepening concentrated risk-on leadership without broad confirmation.
+- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-evening.md) — Nasdaq rises 3.57%, AMD 24.75%, and Bitcoin 13.35%, while the Dow, Russell, dividend, value, real estate, and WTI decline, deepening concentrated risk-on leadership without broad confirmation.
 
-- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-noon.md) — Nasdaq rises 3.02%, AMD 23.58%, and Bitcoin 12.48%, while the Dow, Russell, most tracked ETFs, and WTI decline, showing concentrated risk-on leadership rather than broad confirmation.
+- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-noon.md) — Nasdaq rises 3.02%, AMD 23.58%, and Bitcoin 12.48%, while the Dow, Russell, most tracked ETFs, and WTI decline, showing concentrated risk-on leadership rather than broad confirmation.
 
-- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 10.71%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-daytime.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 10.71%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 6.51%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-midnight.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 6.51%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 6.32%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-evening.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 6.32%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 6.21%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-noon.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 6.21%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 5.66%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-daytime.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 5.66%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-midnight.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 5.68%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-midnight.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 5.68%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-19: Evening Brief — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-evening.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.20%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-19: Evening Brief — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-evening.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.20%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-19: Noon Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-noon.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.95%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
+- [2026-09-19: Noon Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-noon.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.95%, while the Dow, Russell, every tracked ETF, and WTI decline, preserving narrow breadth and cross-asset dispersion.
 
-- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-daytime.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.51%, while the Dow, Russell, most tracked ETFs, and WTI decline, extending narrow breadth and cross-asset dispersion.
+- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-daytime.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.51%, while the Dow, Russell, most tracked ETFs, and WTI decline, extending narrow breadth and cross-asset dispersion.
 
-- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-midnight.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.27%, while the Dow, Russell, most tracked ETFs, and WTI decline, preserving narrow breadth and sharp cross-asset dispersion.
+- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-midnight.md) — Nasdaq gains 0.72%, AMD 8.46%, and Bitcoin 7.27%, while the Dow, Russell, most tracked ETFs, and WTI decline, preserving narrow breadth and sharp cross-asset dispersion.
 
-- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletter-2026-09-18-evening.md) — Nasdaq gains 0.72% and AMD 8.46%, while the Dow loses 1.69%, Russell 1.50%, every tracked ETF declines, Netflix falls 7.25%, and high long rates preserve a narrow, stressed close.
+- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-evening.md) — Nasdaq gains 0.72% and AMD 8.46%, while the Dow loses 1.69%, Russell 1.50%, every tracked ETF declines, Netflix falls 7.25%, and high long rates preserve a narrow, stressed close.
 
-- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — Nasdaq remains barely positive and AMD gains 5.37%, while the Dow falls 1.96%, Russell 1.82%, every tracked ETF declines, Netflix loses 7.44%, and high long rates preserve a narrow, stressed tape.
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-noon.md) — Nasdaq remains barely positive and AMD gains 5.37%, while the Dow falls 1.96%, Russell 1.82%, every tracked ETF declines, Netflix loses 7.44%, and high long rates preserve a narrow, stressed tape.
 
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Nasdaq gains 1.29% and AMD 8.24%, while the Dow, Russell, dividend, value, and real-estate exposures weaken; WTI falls sharply but high long rates preserve a narrow-growth rather than broad risk-on reading.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — Nasdaq gains 1.29% and AMD 8.24%, while the Dow, Russell, dividend, value, and real-estate exposures weaken; WTI falls sharply but high long rates preserve a narrow-growth rather than broad risk-on reading.
 
-- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-midnight.md) — Nasdaq gains 1.29% and AMD 8.24%, while the Dow, Russell, dividend, value, and real-estate exposures weaken; high long rates and $101 oil keep the growth-led close from reading as broad risk-on.
+- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-midnight.md) — Nasdaq gains 1.29% and AMD 8.24%, while the Dow, Russell, dividend, value, and real-estate exposures weaken; high long rates and $101 oil keep the growth-led close from reading as broad risk-on.
 
-- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-evening.md) — Nasdaq gains 1.29% and AMD 8.24%, while the Dow, Russell, dividend, value, and real-estate exposures weaken; the close is growth-led but narrow rather than uniformly risk-on.
+- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-evening.md) — Nasdaq gains 1.29% and AMD 8.24%, while the Dow, Russell, dividend, value, and real-estate exposures weaken; the close is growth-led but narrow rather than uniformly risk-on.
 
-- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — A growth-led rebound reverses the morning selloff: Nasdaq gains 1.25% and AMD 8.34%, while the Dow, dividend stocks, and several consumer and financial names remain weak.
+- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-noon.md) — A growth-led rebound reverses the morning selloff: Nasdaq gains 1.25% and AMD 8.34%, while the Dow, dividend stocks, and several consumer and financial names remain weak.
 
-- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Every tracked index and ETF declines after the reported hike, led by Russell 2000 at -2.14%; Nvidia and TSM lose more than 4% while Berkshire Hathaway and PayPal gain.
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-daytime.md) — Every tracked index and ETF declines after the reported hike, led by Russell 2000 at -2.14%; Nvidia and TSM lose more than 4% while Berkshire Hathaway and PayPal gain.
 
-- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — Every tracked index and ETF declines after the reported hike, led by Russell 2000 at -2.14%; Nvidia and TSM fall more than 4% while WTI and Berkshire Hathaway rise.
+- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-midnight.md) — Every tracked index and ETF declines after the reported hike, led by Russell 2000 at -2.14%; Nvidia and TSM fall more than 4% while WTI and Berkshire Hathaway rise.
 
-- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-evening.md) — All tracked indexes and ETFs decline after the reported Fed hike, led by Russell 2000 at -2.14%; Nvidia and TSM fall more than 4% while WTI rises and Berkshire Hathaway gains.
+- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-evening.md) — All tracked indexes and ETFs decline after the reported Fed hike, led by Russell 2000 at -2.14%; Nvidia and TSM fall more than 4% while WTI rises and Berkshire Hathaway gains.
 
-- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-noon.md) — All tracked indexes decline, led by Russell 2000 at -1.27%; SCHD gains while international equities, Nvidia, TSM, and Bitcoin weaken amid high long rates and $100-plus oil.
+- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-noon.md) — All tracked indexes decline, led by Russell 2000 at -1.27%; SCHD gains while international equities, Nvidia, TSM, and Bitcoin weaken amid high long rates and $100-plus oil.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — Every tracked index and ETF declines, led by Russell 2000 at -3.04%; Nvidia and TSM fall sharply while oil, Treasury yields, and mortgage rates remain restrictive.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — Every tracked index and ETF declines, led by Russell 2000 at -3.04%; Nvidia and TSM fall sharply while oil, Treasury yields, and mortgage rates remain restrictive.
 
-- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — Every tracked index and ETF declines, led by Russell 2000 at -3.04%; Nvidia and TSM fall sharply while WTI rises and Treasury rates sit near annual highs.
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-midnight.md) — Every tracked index and ETF declines, led by Russell 2000 at -3.04%; Nvidia and TSM fall sharply while WTI rises and Treasury rates sit near annual highs.
 
-- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-evening.md) — Every tracked index and ETF declines, led by Russell 2000 at -3.04%; Nvidia and TSM fall sharply while rising oil, near-peak Treasury rates, and selective stock gains preserve internal dispersion.
+- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-evening.md) — Every tracked index and ETF declines, led by Russell 2000 at -3.04%; Nvidia and TSM fall sharply while rising oil, near-peak Treasury rates, and selective stock gains preserve internal dispersion.
 
-- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-noon.md) — Every tracked index and ETF declines, led by the Russell at -3.11%; Nvidia and TSM fall nearly 6% while high Treasury rates and selective stock gains preserve internal dispersion.
+- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-noon.md) — Every tracked index and ETF declines, led by the Russell at -3.11%; Nvidia and TSM fall nearly 6% while high Treasury rates and selective stock gains preserve internal dispersion.
 
-- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — Every tracked index and ETF declines, led by the Russell at -2.80%; Nvidia falls 8.42% while elevated yields, $103.97 WTI, and selective stock gains preserve internal dispersion.
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-daytime.md) — Every tracked index and ETF declines, led by the Russell at -2.80%; Nvidia falls 8.42% while elevated yields, $103.97 WTI, and selective stock gains preserve internal dispersion.
 
-- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Every tracked index and ETF declines, led by a 2.80% Russell loss, while Nvidia falls 8.42%, long yields remain elevated, and Bitcoin plus selected stocks resist the selloff.
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-midnight.md) — Every tracked index and ETF declines, led by a 2.80% Russell loss, while Nvidia falls 8.42%, long yields remain elevated, and Bitcoin plus selected stocks resist the selloff.
 
-- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Every tracked index and ETF declines, led by a 2.61% Russell loss, while Nvidia falls 7.89%, WTI jumps 7.23%, and long yields remain near annual highs.
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-noon.md) — Every tracked index and ETF declines, led by a 2.61% Russell loss, while Nvidia falls 7.89%, WTI jumps 7.23%, and long yields remain near annual highs.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Every tracked index and ETF declines, led by a 2.80% Russell loss, while Nvidia falls 8.42%, WTI jumps 6.08%, long yields stay near annual highs, and Bitcoin plus selected stocks resist the selloff.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — Every tracked index and ETF declines, led by a 2.80% Russell loss, while Nvidia falls 8.42%, WTI jumps 6.08%, long yields stay near annual highs, and Bitcoin plus selected stocks resist the selloff.
 
-- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Every tracked index and ETF declines while WTI jumps 7.05%, long yields remain high, and AMD and TSM provide narrow semiconductor exceptions.
+- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-daytime.md) — Every tracked index and ETF declines while WTI jumps 7.05%, long yields remain high, and AMD and TSM provide narrow semiconductor exceptions.
 
-- [2026-09-14: Midnight Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-midnight.md) — Every tracked index and ETF declines while WTI jumps 7.54%, long yields remain high, and AMD, TSM, and Bitcoin provide selective exceptions.
+- [2026-09-14: Midnight Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-midnight.md) — Every tracked index and ETF declines while WTI jumps 7.54%, long yields remain high, and AMD, TSM, and Bitcoin provide selective exceptions.
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Every tracked index and ETF declines while WTI surges 10.49%, long yields stay high, and AMD and TSM remain narrow semiconductor exceptions.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-evening.md) — Every tracked index and ETF declines while WTI surges 10.49%, long yields stay high, and AMD and TSM remain narrow semiconductor exceptions.
 
-- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
+- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-noon.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
 
-- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-daytime.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
+- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-daytime.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
 
-- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-midnight.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
 
-- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
+- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-evening.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
 
-- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-noon.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
+- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-noon.md) — Every tracked index and ETF declines while WTI reaches $100.05, Nvidia and Bitcoin fall, long yields stay high, and AMD and TSM remain narrow exceptions.
 
-- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-daytime.md) — Every tracked index and ETF declines, led by the Russell and Dow, while WTI reaches $100.05, long yields rise, Bitcoin falls, and AMD and TSM remain narrow exceptions.
+- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-daytime.md) — Every tracked index and ETF declines, led by the Russell and Dow, while WTI reaches $100.05, long yields rise, Bitcoin falls, and AMD and TSM remain narrow exceptions.
 
-- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-midnight.md) — Every tracked index and ETF declines, led by the Russell and Dow, while WTI jumps 7.48%, long yields rise, Bitcoin falls, and AMD and TSM remain narrow semiconductor exceptions.
+- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-midnight.md) — Every tracked index and ETF declines, led by the Russell and Dow, while WTI jumps 7.48%, long yields rise, Bitcoin falls, and AMD and TSM remain narrow semiconductor exceptions.
 
-- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletter-2026-09-11-evening.md) — Every tracked index and ETF declines, led by the Russell and Dow, while WTI jumps 7.48%, Bitcoin falls, long yields rise, and AMD and TSM form a narrow semiconductor exception.
+- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-evening.md) — Every tracked index and ETF declines, led by the Russell and Dow, while WTI jumps 7.48%, Bitcoin falls, long yields rise, and AMD and TSM form a narrow semiconductor exception.
 
-- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — Every tracked index and ETF declines, led by the Dow, while WTI rises 6.90% and AMD and TSM provide concentrated semiconductor counter-signals.
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-noon.md) — Every tracked index and ETF declines, led by the Dow, while WTI rises 6.90% and AMD and TSM provide concentrated semiconductor counter-signals.
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Every tracked index and ETF declines, led by small caps, while Bitcoin falls, WTI rises 7.16%, long yields remain high, and AMD and TSM buck the selloff.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — Every tracked index and ETF declines, led by small caps, while Bitcoin falls, WTI rises 7.16%, long yields remain high, and AMD and TSM buck the selloff.
 
-- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — Every tracked index and ETF declines, led by small caps, while Bitcoin falls, WTI surges 11.14%, long yields press their annual ceiling, and AMD and TSM buck the selloff.
+- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-midnight.md) — Every tracked index and ETF declines, led by small caps, while Bitcoin falls, WTI surges 11.14%, long yields press their annual ceiling, and AMD and TSM buck the selloff.
 
-- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — Broad index and ETF losses coexist with AMD and TSM gains, Bitcoin weakness, WTI up 13.61%, and the 30-year yield at its annual ceiling.
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-evening.md) — Broad index and ETF losses coexist with AMD and TSM gains, Bitcoin weakness, WTI up 13.61%, and the 30-year yield at its annual ceiling.
 
-- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-noon.md) — Broad index and ETF losses coexist with AMD and TSM gains, Bitcoin weakness, WTI up 10.71%, and the 30-year yield near its annual high.
+- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-noon.md) — Broad index and ETF losses coexist with AMD and TSM gains, Bitcoin weakness, WTI up 10.71%, and the 30-year yield near its annual high.
 
-- [2026-09-10: Morning Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-daytime.md) — Near-flat broad indexes mask AMD and TSM gains against Dow, dividend, value, real-estate, consumer, and crypto weakness, while WTI rises 6.68% and long yields remain elevated.
+- [2026-09-10: Morning Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-daytime.md) — Near-flat broad indexes mask AMD and TSM gains against Dow, dividend, value, real-estate, consumer, and crypto weakness, while WTI rises 6.68% and long yields remain elevated.
 
-- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — Near-flat broad indexes mask AMD and TSM gains against Dow, dividend, value, real-estate, consumer, and crypto weakness, while WTI rises 5.06% and long yields remain elevated.
+- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-midnight.md) — Near-flat broad indexes mask AMD and TSM gains against Dow, dividend, value, real-estate, consumer, and crypto weakness, while WTI rises 5.06% and long yields remain elevated.
 
-- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-evening.md) — A nearly flat S&P masks AMD and TSM gains against Dow, dividend, value, real-estate, consumer, and crypto weakness, while WTI rises 5.88% and long yields remain elevated.
+- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-evening.md) — A nearly flat S&P masks AMD and TSM gains against Dow, dividend, value, real-estate, consumer, and crypto weakness, while WTI rises 5.88% and long yields remain elevated.
 
-- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — A nearly flat S&P masks AMD's 14.34% surge and broader chip strength against Dow, dividend, real-estate, consumer, and crypto weakness, while WTI rises 5.51% and long yields remain elevated.
+- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-noon.md) — A nearly flat S&P masks AMD's 14.34% surge and broader chip strength against Dow, dividend, real-estate, consumer, and crypto weakness, while WTI rises 5.51% and long yields remain elevated.
 
-- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — A nearly flat S&P masks chip gains against Dow, dividend, real-estate, consumer, and crypto weakness, while WTI rises 4.11% and long yields remain elevated.
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-daytime.md) — A nearly flat S&P masks chip gains against Dow, dividend, real-estate, consumer, and crypto weakness, while WTI rises 4.11% and long yields remain elevated.
 
-- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — A nearly flat S&P masks semiconductor gains against Dow, dividend, real-estate, consumer, and crypto weakness, while WTI and long yields remain elevated.
+- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-midnight.md) — A nearly flat S&P masks semiconductor gains against Dow, dividend, real-estate, consumer, and crypto weakness, while WTI and long yields remain elevated.
 
-- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-evening.md) — A flat S&P masks semiconductor strength against Dow, dividend, real-estate, consumer, and crypto weakness, while oil and long yields remain elevated.
+- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-evening.md) — A flat S&P masks semiconductor strength against Dow, dividend, real-estate, consumer, and crypto weakness, while oil and long yields remain elevated.
 
-- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-noon.md) — Near-flat S&P masks semiconductor and small-cap strength against Dow, dividend, consumer, and crypto weakness, with oil and long yields elevated.
+- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-noon.md) — Near-flat S&P masks semiconductor and small-cap strength against Dow, dividend, consumer, and crypto weakness, with oil and long yields elevated.
 
-- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — Near-flat indexes conceal Nvidia and international-equity strength, real-estate and consumer weakness, Bitcoin down 1.21%, oil up 2.98%, and elevated long borrowing costs.
+- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-daytime.md) — Near-flat indexes conceal Nvidia and international-equity strength, real-estate and consumer weakness, Bitcoin down 1.21%, oil up 2.98%, and elevated long borrowing costs.
 
-- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — Near-flat indexes conceal Nvidia and international-equity strength, real-estate and consumer weakness, Bitcoin down 1.00%, oil up 2.07%, and elevated long borrowing costs.
+- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-midnight.md) — Near-flat indexes conceal Nvidia and international-equity strength, real-estate and consumer weakness, Bitcoin down 1.00%, oil up 2.07%, and elevated long borrowing costs.
 
-- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletter-2026-09-07-evening.md) — Near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.62%, oil up 1.40%, and elevated long borrowing costs.
+- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-evening.md) — Near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.62%, oil up 1.40%, and elevated long borrowing costs.
 
-- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-noon.md) — Near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.98%, oil up 1.40%, and elevated long borrowing costs.
+- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-noon.md) — Near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.98%, oil up 1.40%, and elevated long borrowing costs.
 
-- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-daytime.md) — Friday's near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.36%, oil up 1.40%, and elevated long borrowing costs.
+- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-daytime.md) — Friday's near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.36%, oil up 1.40%, and elevated long borrowing costs.
 
-- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-midnight.md) — Near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.06%, oil up 1.40%, and elevated long borrowing costs.
+- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-midnight.md) — Near-flat indexes conceal Nvidia and international-equity gains, real-estate and consumer weakness, Bitcoin down 2.06%, oil up 1.40%, and elevated long borrowing costs.
 
-- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-evening.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
+- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-evening.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
 
-- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-noon.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
+- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-noon.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
 
-- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-daytime.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
+- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-daytime.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
 
-- [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-midnight.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
+- [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-midnight.md) — Near-flat indexes conceal WTI's 9.69% weekly surge, Nvidia strength, real-estate weakness, consumer-stock losses, and elevated long borrowing costs.
 
-- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-evening.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities near their high, real estate down 1.25%, and several consumer names down roughly 2%–4%.
+- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-evening.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities near their high, real estate down 1.25%, and several consumer names down roughly 2%–4%.
 
-- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-noon.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities up 1.02%, real estate down 1.25%, and several consumer names down roughly 2%–4%.
+- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-noon.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities up 1.02%, real estate down 1.25%, and several consumer names down roughly 2%–4%.
 
-- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities up 1.02%, real estate down 1.25%, and several consumer names down roughly 2%–4%.
+- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-daytime.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities up 1.02%, real estate down 1.25%, and several consumer names down roughly 2%–4%.
 
-- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities up 1.02%, real estate down 1.25%, and several consumer names down roughly 2%–4%.
+- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-midnight.md) — Near-flat weekly indexes conceal WTI up 9.69%, Nvidia up 5.89%, international equities up 1.02%, real estate down 1.25%, and several consumer names down roughly 2%–4%.
 
-- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletter-2026-09-04-evening.md) — Near-flat indexes conceal WTI up 6.37%, Nvidia up 5.89%, international equities near their annual high, real estate down 1.25%, and several consumer names down roughly 2%–4%.
+- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-evening.md) — Near-flat indexes conceal WTI up 6.37%, Nvidia up 5.89%, international equities near their annual high, real estate down 1.25%, and several consumer names down roughly 2%–4%.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Near-flat indexes conceal WTI up 5.87%, Nvidia up 6.14%, Amazon down 3.92%, and elevated long-term borrowing costs.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Near-flat indexes conceal WTI up 5.87%, Nvidia up 6.14%, Amazon down 3.92%, and elevated long-term borrowing costs.
 
-- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Slight large-cap gains coexist with a 1.53% Russell decline, WTI up 5.99%, PayPal down 7.56%, semiconductor weakness, and elevated long yields.
+- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-daytime.md) — Slight large-cap gains coexist with a 1.53% Russell decline, WTI up 5.99%, PayPal down 7.56%, semiconductor weakness, and elevated long yields.
 
-- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-midnight.md) — Slight large-cap gains coexist with a 1.53% Russell decline, WTI up 7.18%, PayPal down 7.56%, and elevated long yields.
+- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-midnight.md) — Slight large-cap gains coexist with a 1.53% Russell decline, WTI up 7.18%, PayPal down 7.56%, and elevated long yields.
 
-- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — Slight large-cap gains coexist with a 1.53% Russell decline, PayPal down 7.56%, WTI up 6.89%, Bitcoin up 5.03%, and elevated long yields.
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-evening.md) — Slight large-cap gains coexist with a 1.53% Russell decline, PayPal down 7.56%, WTI up 6.89%, Bitcoin up 5.03%, and elevated long yields.
 
-- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Modest large-cap gains coexist with a 1.61% Russell decline, semiconductor weakness, PayPal down 9.29%, WTI up 6.91%, and elevated long yields.
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-noon.md) — Modest large-cap gains coexist with a 1.61% Russell decline, semiconductor weakness, PayPal down 9.29%, WTI up 6.91%, and elevated long yields.
 
-- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — Nasdaq and Nvidia gains coexist with a 1.75% Russell decline, losses across every tracked ETF, PayPal down 11.55%, WTI up 7.00%, and elevated long yields.
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-daytime.md) — Nasdaq and Nvidia gains coexist with a 1.75% Russell decline, losses across every tracked ETF, PayPal down 11.55%, WTI up 7.00%, and elevated long yields.
 
-- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Nasdaq and Nvidia gains coexist with a 1.75% Russell decline, losses across every tracked ETF, PayPal down 11.55%, WTI up 6.08%, and elevated long yields.
+- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-midnight.md) — Nasdaq and Nvidia gains coexist with a 1.75% Russell decline, losses across every tracked ETF, PayPal down 11.55%, WTI up 6.08%, and elevated long yields.
 
-- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Nasdaq and Nvidia gains coexist with a 1.75% Russell decline, losses across every tracked ETF, PayPal down 11.55%, WTI up 8.67%, and elevated long yields.
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-evening.md) — Nasdaq and Nvidia gains coexist with a 1.75% Russell decline, losses across every tracked ETF, PayPal down 11.55%, WTI up 8.67%, and elevated long yields.
 
-- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-noon.md) — Nasdaq and Nvidia gains coexist with a 2.01% Russell decline, losses across every tracked ETF, PayPal down 12.43%, WTI up 8.92%, and elevated long yields.
+- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-noon.md) — Nasdaq and Nvidia gains coexist with a 2.01% Russell decline, losses across every tracked ETF, PayPal down 12.43%, WTI up 8.92%, and elevated long yields.
 
-- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — Every major index and tracked ETF declines, led by Russell 2000 at -2.99%, while PayPal falls 15.85%, WTI rises 8.23%, and long yields remain elevated.
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-daytime.md) — Every major index and tracked ETF declines, led by Russell 2000 at -2.99%, while PayPal falls 15.85%, WTI rises 8.23%, and long yields remain elevated.
 
-- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-midnight.md) — All four indexes and every tracked ETF decline, led by Russell 2000 at -2.99%, while PayPal falls 15.85%, WTI rises 8.76%, and long yields remain elevated.
+- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-midnight.md) — All four indexes and every tracked ETF decline, led by Russell 2000 at -2.99%, while PayPal falls 15.85%, WTI rises 8.76%, and long yields remain elevated.
 
-- [2026-09-01: Evening Brief — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-evening.md) — All four major indexes and every tracked ETF decline, led by the Russell 2000 at -2.99%, while PayPal falls 15.85%, WTI rises 8.56%, and long yields climb.
+- [2026-09-01: Evening Brief — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-evening.md) — All four major indexes and every tracked ETF decline, led by the Russell 2000 at -2.99%, while PayPal falls 15.85%, WTI rises 8.56%, and long yields climb.
 
-- [2026-09-01: Noon Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-noon.md) — A green Nasdaq coexists with Dow and Russell losses, declines across every tracked ETF, a 15.34% PayPal plunge, and a 5.72% WTI jump.
+- [2026-09-01: Noon Dispatch — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-noon.md) — A green Nasdaq coexists with Dow and Russell losses, declines across every tracked ETF, a 15.34% PayPal plunge, and a 5.72% WTI jump.
 
-- [2026-09-01: Morning Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-daytime.md) — Nasdaq and chip gains coexist with Dow and Russell losses, weaker domestic ETFs, a 14.62% PayPal plunge, and a 5.35% WTI jump.
+- [2026-09-01: Morning Dispatch — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-daytime.md) — Nasdaq and chip gains coexist with Dow and Russell losses, weaker domestic ETFs, a 14.62% PayPal plunge, and a 5.35% WTI jump.
 
-- [2026-09-01: Midnight Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-midnight.md) — Nasdaq and chip gains coexist with Dow and Russell losses, weaker domestic ETFs, and a 14.62% PayPal plunge.
+- [2026-09-01: Midnight Dispatch — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-midnight.md) — Nasdaq and chip gains coexist with Dow and Russell losses, weaker domestic ETFs, and a 14.62% PayPal plunge.
 
-- [2026-08-31: Evening Brief — Monday, August 31, 2026](../sources/newsletter-2026-08-31-evening.md) — Nasdaq and chip gains coexist with Dow and Russell losses, mostly weaker domestic ETFs, falling Bitcoin, and a 14.62% PayPal plunge.
+- [2026-08-31: Evening Brief — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-evening.md) — Nasdaq and chip gains coexist with Dow and Russell losses, mostly weaker domestic ETFs, falling Bitcoin, and a 14.62% PayPal plunge.
 
-- [2026-08-31: Noon Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-noon.md) — Nasdaq and AI-chip gains coexist with Dow and Russell losses, mostly weaker ETFs, falling Bitcoin, and a 13.20% PayPal plunge.
+- [2026-08-31: Noon Dispatch — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-noon.md) — Nasdaq and AI-chip gains coexist with Dow and Russell losses, mostly weaker ETFs, falling Bitcoin, and a 13.20% PayPal plunge.
 
-- [2026-08-31: Morning Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-daytime.md) — Rising large-cap indexes coexist with Russell weakness, losses across every tracked ETF, falling Bitcoin, and a 12.82% PayPal decline.
+- [2026-08-31: Morning Dispatch — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-daytime.md) — Rising large-cap indexes coexist with Russell weakness, losses across every tracked ETF, falling Bitcoin, and a 12.82% PayPal decline.
 
-- [2026-08-31: Midnight Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-midnight.md) — Rising large-cap indexes coexist with Russell weakness, losses across all tracked ETFs, falling Bitcoin, and a 12.82% PayPal decline.
+- [2026-08-31: Midnight Dispatch — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-midnight.md) — Rising large-cap indexes coexist with Russell weakness, losses across all tracked ETFs, falling Bitcoin, and a 12.82% PayPal decline.
 
-- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Large-cap gains near annual highs coexist with Russell weakness, losses across all tracked ETFs, and a 12.82% PayPal decline.
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-evening.md) — Large-cap gains near annual highs coexist with Russell weakness, losses across all tracked ETFs, and a 12.82% PayPal decline.
 
-- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-noon.md) — Large-cap gains near annual highs coexist with Russell weakness, losses across all tracked ETFs, and a 12.82% PayPal decline.
+- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-noon.md) — Large-cap gains near annual highs coexist with Russell weakness, losses across all tracked ETFs, and a 12.82% PayPal decline.
 
-- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — Large-cap gains near annual highs coexist with Russell weakness, falling ETFs, and a 12.82% PayPal decline.
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-daytime.md) — Large-cap gains near annual highs coexist with Russell weakness, falling ETFs, and a 12.82% PayPal decline.
 
-- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — Large-cap gains near annual highs coexist with Russell weakness, falling ETFs, and a 12.82% PayPal decline.
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-midnight.md) — Large-cap gains near annual highs coexist with Russell weakness, falling ETFs, and a 12.82% PayPal decline.
 
-- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Large-cap gains coexist with Russell weakness, falling ETFs and oil, and a 12.82% PayPal decline.
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-evening.md) — Large-cap gains coexist with Russell weakness, falling ETFs and oil, and a 12.82% PayPal decline.
 
-- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Large-cap and weekly gains coexist with Russell weakness, declining ETFs, lower oil, and a 12.82% PayPal drop.
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-noon.md) — Large-cap and weekly gains coexist with Russell weakness, declining ETFs, lower oil, and a 12.82% PayPal drop.
 
-- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Large-cap gains and a positive week coexist with weak small caps, most ETFs, oil, Bitcoin, Tesla, and PayPal.
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-daytime.md) — Large-cap gains and a positive week coexist with weak small caps, most ETFs, oil, Bitcoin, Tesla, and PayPal.
 
-- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Large-cap gains and a positive week coexist with Friday weakness in small caps, most ETFs, oil, Bitcoin, Tesla, and PayPal.
+- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-midnight.md) — Large-cap gains and a positive week coexist with Friday weakness in small caps, most ETFs, oil, Bitcoin, Tesla, and PayPal.
 
-- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — Large-cap indexes rise near annual highs while Russell 2000, most tracked ETFs, WTI, Bitcoin, PayPal, and Tesla decline, preserving narrow breadth.
+- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-evening.md) — Large-cap indexes rise near annual highs while Russell 2000, most tracked ETFs, WTI, Bitcoin, PayPal, and Tesla decline, preserving narrow breadth.
 
-- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-noon.md) — Large-cap indexes rise while Russell 2000, WTI, Bitcoin, PayPal, Tesla, and diversified ETFs weaken, preserving narrow breadth.
+- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-noon.md) — Large-cap indexes rise while Russell 2000, WTI, Bitcoin, PayPal, Tesla, and diversified ETFs weaken, preserving narrow breadth.
 
-- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks decline, preserving internal dispersion.
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-daytime.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks decline, preserving internal dispersion.
 
-- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks decline, preserving internal dispersion.
+- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-midnight.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks decline, preserving internal dispersion.
 
-- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-evening.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks decline, preserving internal dispersion.
+- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-evening.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks decline, preserving internal dispersion.
 
-- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks fall, preserving internal dispersion in a risk-on reversal.
+- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-noon.md) — All four indexes rally near annual highs, but real estate, WTI, and several watched stocks fall, preserving internal dispersion in a risk-on reversal.
 
-- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — S&P, Nasdaq, and small caps weaken while international equities, AMD, UPS, Berkshire Hathaway, and Bitcoin gain; WTI falls 3.46%.
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-daytime.md) — S&P, Nasdaq, and small caps weaken while international equities, AMD, UPS, Berkshire Hathaway, and Bitcoin gain; WTI falls 3.46%.
 
 
-- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — S&P, Nasdaq, and small caps weaken while international equities, AMD, UPS, Berkshire Hathaway, and Bitcoin gain; WTI falls 3.72%.
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-midnight.md) — S&P, Nasdaq, and small caps weaken while international equities, AMD, UPS, Berkshire Hathaway, and Bitcoin gain; WTI falls 3.72%.
 
-- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-evening.md) — Nasdaq and small caps weaken while international equities, AMD, UPS, Berkshire Hathaway, and Bitcoin gain; WTI falls 5.92%.
+- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-evening.md) — Nasdaq and small caps weaken while international equities, AMD, UPS, Berkshire Hathaway, and Bitcoin gain; WTI falls 5.92%.
 
-- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-noon.md) — Tech and small caps weaken while international equities, AMD, UPS, and selected quality shares gain; WTI falls 5.42%.
+- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-noon.md) — Tech and small caps weaken while international equities, AMD, UPS, and selected quality shares gain; WTI falls 5.42%.
 
-- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-daytime.md) — Modest index declines conceal an 8.13% oil drop, weaker chips, and gains in diversified ETFs, real estate, and selected consumer shares.
+- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-daytime.md) — Modest index declines conceal an 8.13% oil drop, weaker chips, and gains in diversified ETFs, real estate, and selected consumer shares.
 
-- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-midnight.md) — Modest index moves conceal a 7.75% oil drop, weaker chips, and gains in Bitcoin, diversified ETFs, real estate, and selected consumer shares.
+- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-midnight.md) — Modest index moves conceal a 7.75% oil drop, weaker chips, and gains in Bitcoin, diversified ETFs, real estate, and selected consumer shares.
 
-- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — A firmer Dow contrasts with weaker S&P, Nasdaq, and Russell prints; oil and chips fall while dividends, international equities, real estate, and selected consumer names gain.
+- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-evening.md) — A firmer Dow contrasts with weaker S&P, Nasdaq, and Russell prints; oil and chips fall while dividends, international equities, real estate, and selected consumer names gain.
 
-- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-noon.md) — Dow strength contrasts with weaker S&P 500, Nasdaq, and Russell 2000; oil and chips fall while dividends, international, real estate, Netflix, and Tesla rise.
+- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-noon.md) — Dow strength contrasts with weaker S&P 500, Nasdaq, and Russell 2000; oil and chips fall while dividends, international, real estate, Netflix, and Tesla rise.
 
-- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-daytime.md) — Nasdaq, Russell, and semiconductors fall sharply while Bitcoin, SCHD, VNQ, and selected consumer and financial names gain; WTI drops 6.47%.
+- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-daytime.md) — Nasdaq, Russell, and semiconductors fall sharply while Bitcoin, SCHD, VNQ, and selected consumer and financial names gain; WTI drops 6.47%.
 
-- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-midnight.md) — Nasdaq, Russell, and semiconductors fall sharply while Bitcoin, SCHD, VNQ, and selected consumer and financial names gain.
+- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-midnight.md) — Nasdaq, Russell, and semiconductors fall sharply while Bitcoin, SCHD, VNQ, and selected consumer and financial names gain.
 
-- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletter-2026-08-24-evening.md) — Nasdaq, Russell, and semiconductors fall sharply while Bitcoin gains 7.99%, SCHD rises 2.68%, and selected defensive and consumer names advance.
+- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-evening.md) — Nasdaq, Russell, and semiconductors fall sharply while Bitcoin gains 7.99%, SCHD rises 2.68%, and selected defensive and consumer names advance.
 
-- [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-noon.md) — Nasdaq and semiconductors fall sharply while Bitcoin gains 8.43%, SCHD rises 2.62%, and Tesla and Netflix advance.
+- [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-noon.md) — Nasdaq and semiconductors fall sharply while Bitcoin gains 8.43%, SCHD rises 2.62%, and Tesla and Netflix advance.
 
-- [2026-08-24: Morning Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-daytime.md) — All four indexes decline, led by tech, while Bitcoin gains 6.15%, SCHD and Tesla rise, and long yields remain elevated.
+- [2026-08-24: Morning Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-daytime.md) — All four indexes decline, led by tech, while Bitcoin gains 6.15%, SCHD and Tesla rise, and long yields remain elevated.
 
-- [2026-08-24: Midnight Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-midnight.md) — All four indexes decline, led by tech, while Bitcoin gains 5.33%, SCHD and Tesla rise, and long yields remain elevated.
+- [2026-08-24: Midnight Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-midnight.md) — All four indexes decline, led by tech, while Bitcoin gains 5.33%, SCHD and Tesla rise, and long yields remain elevated.
 
-- [2026-08-23: Evening Brief — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-evening.md) — All four indexes decline, led by tech, while Bitcoin gains 12.47%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-23: Evening Brief — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-evening.md) — All four indexes decline, led by tech, while Bitcoin gains 12.47%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-noon.md) — All four indexes decline, led by tech, while Bitcoin gains 11.43%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-noon.md) — All four indexes decline, led by tech, while Bitcoin gains 11.43%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-23: Morning Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-daytime.md) — All four indexes decline, led by tech, while Bitcoin gains 10.51%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-23: Morning Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-daytime.md) — All four indexes decline, led by tech, while Bitcoin gains 10.51%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-23: Midnight Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-midnight.md) — All four indexes decline, led by tech, while Bitcoin jumps 11.03%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-23: Midnight Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-midnight.md) — All four indexes decline, led by tech, while Bitcoin jumps 11.03%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-evening.md) — All four indexes decline, led by tech, while Bitcoin jumps 18.89%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-evening.md) — All four indexes decline, led by tech, while Bitcoin jumps 18.89%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-noon.md) — All four indexes decline, led by tech, while Bitcoin jumps 19.03%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-noon.md) — All four indexes decline, led by tech, while Bitcoin jumps 19.03%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-daytime.md) — All four indexes decline and semiconductors lead losses while Bitcoin jumps 19.09%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-daytime.md) — All four indexes decline and semiconductors lead losses while Bitcoin jumps 19.09%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-midnight.md) — All four indexes decline and semiconductors lead losses while Bitcoin jumps 21.25%, oil, SCHD, and Tesla rise, and long yields remain elevated.
+- [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-midnight.md) — All four indexes decline and semiconductors lead losses while Bitcoin jumps 21.25%, oil, SCHD, and Tesla rise, and long yields remain elevated.
 
-- [2026-08-21: Evening Brief — Friday, August 21, 2026](../sources/newsletter-2026-08-21-evening.md) — All four indexes decline, led by Nasdaq at -2.05%, while Bitcoin jumps 21.64%, oil, SCHD, and Tesla rise, and semiconductors weaken amid elevated long yields.
+- [2026-08-21: Evening Brief — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-evening.md) — All four indexes decline, led by Nasdaq at -2.05%, while Bitcoin jumps 21.64%, oil, SCHD, and Tesla rise, and semiconductors weaken amid elevated long yields.
 
-- [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-noon.md) — All four indexes decline and semiconductors weaken while Bitcoin jumps 19.69%, oil and SCHD rise, and selected high-beta stocks gain amid elevated long yields.
+- [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-noon.md) — All four indexes decline and semiconductors weaken while Bitcoin jumps 19.69%, oil and SCHD rise, and selected high-beta stocks gain amid elevated long yields.
 
-- [2026-08-21: Morning Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-daytime.md) — All four indexes fall roughly 2% or more, led by Nasdaq at -2.75%, while Bitcoin jumps 20.67%, oil and SCHD rise, and Netflix, Tesla, and PayPal gain amid elevated long yields.
+- [2026-08-21: Morning Dispatch — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-daytime.md) — All four indexes fall roughly 2% or more, led by Nasdaq at -2.75%, while Bitcoin jumps 20.67%, oil and SCHD rise, and Netflix, Tesla, and PayPal gain amid elevated long yields.
 
-- [2026-08-21: Midnight Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-midnight.md) — All four indexes fall roughly 2% or more, led by Nasdaq at -2.75%, while Bitcoin jumps 15.62%, oil and SCHD rise, and Netflix, Tesla, and PayPal gain amid elevated long yields.
+- [2026-08-21: Midnight Dispatch — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-midnight.md) — All four indexes fall roughly 2% or more, led by Nasdaq at -2.75%, while Bitcoin jumps 15.62%, oil and SCHD rise, and Netflix, Tesla, and PayPal gain amid elevated long yields.
 
-- [2026-08-20: Evening Brief — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-evening.md) — All four indexes fall roughly 2% or more, led by Nasdaq at -2.75%, while Bitcoin jumps 15.80%, oil and SCHD rise, and Netflix, Tesla, and PayPal gain amid elevated long yields.
+- [2026-08-20: Evening Brief — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-evening.md) — All four indexes fall roughly 2% or more, led by Nasdaq at -2.75%, while Bitcoin jumps 15.80%, oil and SCHD rise, and Netflix, Tesla, and PayPal gain amid elevated long yields.
 
-- [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-noon.md) — All four indexes fall, led by Nasdaq at -2.62%, while Bitcoin jumps 15.18% and SCHD, VNQ, Tesla, Netflix, PayPal, and Schwab gain amid elevated long yields.
+- [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-noon.md) — All four indexes fall, led by Nasdaq at -2.62%, while Bitcoin jumps 15.18% and SCHD, VNQ, Tesla, Netflix, PayPal, and Schwab gain amid elevated long yields.
 
-- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — All four indexes decline while Bitcoin jumps 14.12%, Tesla, Netflix, SCHD, and VNQ gain, and semiconductors weaken amid elevated long yields.
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-daytime.md) — All four indexes decline while Bitcoin jumps 14.12%, Tesla, Netflix, SCHD, and VNQ gain, and semiconductors weaken amid elevated long yields.
 
-- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-midnight.md) — All four indexes decline while Bitcoin jumps 10.04%, Tesla, Netflix, SCHD, and VNQ gain, and semiconductors weaken amid elevated long yields.
+- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-midnight.md) — All four indexes decline while Bitcoin jumps 10.04%, Tesla, Netflix, SCHD, and VNQ gain, and semiconductors weaken amid elevated long yields.
 
-- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-evening.md) — All four indexes decline while Bitcoin jumps 10.66% and oil, Netflix, Tesla, PayPal, SCHD, and VNQ gain; semiconductors weaken and long yields remain high.
+- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-evening.md) — All four indexes decline while Bitcoin jumps 10.66% and oil, Netflix, Tesla, PayPal, SCHD, and VNQ gain; semiconductors weaken and long yields remain high.
 
-- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-noon.md) — All four indexes decline while Bitcoin, WTI, Netflix, Tesla, SCHD, VBR, and VNQ gain; Treasury buyback signaling eases yield pressure but long borrowing costs remain elevated.
+- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-noon.md) — All four indexes decline while Bitcoin, WTI, Netflix, Tesla, SCHD, VBR, and VNQ gain; Treasury buyback signaling eases yield pressure but long borrowing costs remain elevated.
 
-- [2026-08-19: Morning Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-daytime.md) — All four indexes decline while oil, Bitcoin, VNQ, SCHD, Nvidia, AMD, Netflix, PayPal, Schwab, and Costco gain; long yields remain near their annual ceiling.
+- [2026-08-19: Morning Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-daytime.md) — All four indexes decline while oil, Bitcoin, VNQ, SCHD, Nvidia, AMD, Netflix, PayPal, Schwab, and Costco gain; long yields remain near their annual ceiling.
 
-- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-midnight.md) — All four indexes decline while Bitcoin, oil, VNQ, Nvidia, AMD, Netflix, and Schwab gain; the 30-year yield remains near its annual ceiling.
+- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-midnight.md) — All four indexes decline while Bitcoin, oil, VNQ, Nvidia, AMD, Netflix, and Schwab gain; the 30-year yield remains near its annual ceiling.
 
-- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — All four indexes decline while oil, Bitcoin, VNQ, Netflix, and Schwab gain; long yields remain near their annual ceiling.
+- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-evening.md) — All four indexes decline while oil, Bitcoin, VNQ, Netflix, and Schwab gain; long yields remain near their annual ceiling.
 
-- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-noon.md) — Major indexes sag while Russell is flat near its high; oil, Bitcoin, VNQ, Netflix, Schwab, and PayPal rise as Amazon, TSM, Berkshire, and Ralph Lauren fall.
+- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-noon.md) — Major indexes sag while Russell is flat near its high; oil, Bitcoin, VNQ, Netflix, Schwab, and PayPal rise as Amazon, TSM, Berkshire, and Ralph Lauren fall.
 
-- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-daytime.md) — Russell 2000 and semiconductors rise while the Dow and selected megacaps fall, long yields press their annual ceiling, and WTI gains 3.63%.
+- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-daytime.md) — Russell 2000 and semiconductors rise while the Dow and selected megacaps fall, long yields press their annual ceiling, and WTI gains 3.63%.
 
-- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-midnight.md) — Russell 2000 and semiconductors rise while the Dow and several megacaps fall, long yields approach their annual ceiling, and WTI gains 4.82%.
+- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-midnight.md) — Russell 2000 and semiconductors rise while the Dow and several megacaps fall, long yields approach their annual ceiling, and WTI gains 4.82%.
 
-- [2026-08-17: Evening Brief — Monday, August 17, 2026](../sources/newsletter-2026-08-17-evening.md) — Russell 2000 and semiconductors rise while the Dow, Amazon, Berkshire, and Ralph Lauren fall and the 30-year yield reaches 5.309%.
+- [2026-08-17: Evening Brief — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-evening.md) — Russell 2000 and semiconductors rise while the Dow, Amazon, Berkshire, and Ralph Lauren fall and the 30-year yield reaches 5.309%.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — S&P 500, Nasdaq, and Russell gains coexist with Dow weakness, chip leadership, and a 30-year yield at the top of its annual range.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — S&P 500, Nasdaq, and Russell gains coexist with Dow weakness, chip leadership, and a 30-year yield at the top of its annual range.
 
-- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-daytime.md) — Small caps, dividends, value, and Schwab press annual highs while the Dow, Amazon, and Berkshire fall and long rates remain elevated.
+- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-daytime.md) — Small caps, dividends, value, and Schwab press annual highs while the Dow, Amazon, and Berkshire fall and long rates remain elevated.
 
-- [2026-08-17: Midnight Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-midnight.md) — Small caps, dividends, value, and selected financial exposure press annual highs while the Dow, Amazon, and Berkshire fall and long rates remain elevated.
+- [2026-08-17: Midnight Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-midnight.md) — Small caps, dividends, value, and selected financial exposure press annual highs while the Dow, Amazon, and Berkshire fall and long rates remain elevated.
 
-- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Small caps and diversified ETFs remain near highs while the Dow, Amazon, and Berkshire fall and long rates and oil remain elevated.
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-evening.md) — Small caps and diversified ETFs remain near highs while the Dow, Amazon, and Berkshire fall and long rates and oil remain elevated.
 
-- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-noon.md) — Small caps and diversified ETFs remain near highs while the Dow, Amazon, and Berkshire fall, cash holdings are large, oil rises, and long rates stay elevated.
+- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-noon.md) — Small caps and diversified ETFs remain near highs while the Dow, Amazon, and Berkshire fall, cash holdings are large, oil rises, and long rates stay elevated.
 
-- [2026-08-16: Morning Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-daytime.md) — Small caps and diversified ETFs remain near highs while the Dow falls, Bitcoin stays low in its range, oil rises, and long rates remain elevated.
+- [2026-08-16: Morning Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-daytime.md) — Small caps and diversified ETFs remain near highs while the Dow falls, Bitcoin stays low in its range, oil rises, and long rates remain elevated.
 
-- [2026-08-16: Midnight Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-midnight.md) — Friday closes show small caps and diversified ETFs near annual highs while the Dow falls, retail demand weakens, cash holdings swell, oil rises, and long rates remain elevated.
+- [2026-08-16: Midnight Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-midnight.md) — Friday closes show small caps and diversified ETFs near annual highs while the Dow falls, retail demand weakens, cash holdings swell, oil rises, and long rates remain elevated.
 
-- [2026-08-15: Evening Brief — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-evening.md) — Small caps and diversified ETFs rise near annual highs while the Dow falls, retail demand softens, cash allocations swell, oil rises, and long rates stay elevated.
+- [2026-08-15: Evening Brief — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-evening.md) — Small caps and diversified ETFs rise near annual highs while the Dow falls, retail demand softens, cash allocations swell, oil rises, and long rates stay elevated.
 
-- [2026-08-15: Noon Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-noon.md) — Small caps and diversified ETFs rise near annual highs while the Dow falls, retail demand softens, cash allocations swell, and long rates stay elevated.
+- [2026-08-15: Noon Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-noon.md) — Small caps and diversified ETFs rise near annual highs while the Dow falls, retail demand softens, cash allocations swell, and long rates stay elevated.
 
-- [2026-08-15: Morning Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-daytime.md) — Small caps and diversified ETFs strengthen near annual highs while the Dow falls, retail data softens, Bitcoin remains weak, oil rises, and long rates stay elevated.
+- [2026-08-15: Morning Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-daytime.md) — Small caps and diversified ETFs strengthen near annual highs while the Dow falls, retail data softens, Bitcoin remains weak, oil rises, and long rates stay elevated.
 
-- [2026-08-15: Midnight Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-midnight.md) — Russell 2000 and diversified ETFs strengthen near annual highs while the Dow falls, Bitcoin remains weak, WTI rises 5.12% weekly, and long rates stay elevated.
+- [2026-08-15: Midnight Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-midnight.md) — Russell 2000 and diversified ETFs strengthen near annual highs while the Dow falls, Bitcoin remains weak, WTI rises 5.12% weekly, and long rates stay elevated.
 
-- [2026-08-14: Evening Brief — Friday, August 14, 2026](../sources/newsletter-2026-08-14-evening.md) — S&P, Nasdaq, Russell, and broad ETFs gain while the Dow and Bitcoin fall and the 30-year yield presses its annual high.
+- [2026-08-14: Evening Brief — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-evening.md) — S&P, Nasdaq, Russell, and broad ETFs gain while the Dow and Bitcoin fall and the 30-year yield presses its annual high.
 
-- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-noon.md) — S&P and Russell approach annual highs while the Dow, Bitcoin, Amazon, and Berkshire decline and long rates remain elevated.
+- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-noon.md) — S&P and Russell approach annual highs while the Dow, Bitcoin, Amazon, and Berkshire decline and long rates remain elevated.
 
-- [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-daytime.md) — S&P, Nasdaq, Russell, and most ETFs advance near annual highs while the Dow slips, Bitcoin falls 1.91%, and long rates remain elevated.
+- [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-daytime.md) — S&P, Nasdaq, Russell, and most ETFs advance near annual highs while the Dow slips, Bitcoin falls 1.91%, and long rates remain elevated.
 
-- [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-midnight.md) — Nasdaq, Russell, and broad ETFs rally near annual highs while the Dow slips, Bitcoin and oil decline, and long rates remain elevated.
+- [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-midnight.md) — Nasdaq, Russell, and broad ETFs rally near annual highs while the Dow slips, Bitcoin and oil decline, and long rates remain elevated.
 
-- [2026-08-13: Evening Brief — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-evening.md) — Nasdaq, Russell, and broad ETFs rally near annual highs while the Dow slips, Bitcoin falls, oil softens, and long rates remain elevated.
+- [2026-08-13: Evening Brief — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-evening.md) — Nasdaq, Russell, and broad ETFs rally near annual highs while the Dow slips, Bitcoin falls, oil softens, and long rates remain elevated.
 
-- [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-noon.md) — Nasdaq and Russell lead while the Dow, Bitcoin, Amazon, and Berkshire decline and long rates remain near annual highs.
+- [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-noon.md) — Nasdaq and Russell lead while the Dow, Bitcoin, Amazon, and Berkshire decline and long rates remain near annual highs.
 
-- [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-daytime.md) — S&P, Nasdaq, and Russell gains coexist with a 1.07% Dow decline, VNQ weakness, falling Bitcoin, and a 5.247% 30-year yield.
+- [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-daytime.md) — S&P, Nasdaq, and Russell gains coexist with a 1.07% Dow decline, VNQ weakness, falling Bitcoin, and a 5.247% 30-year yield.
 
-- [2026-08-13: Midnight Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-midnight.md) — S&P, Nasdaq, and Russell rise while the Dow falls 1.07%, VNQ loses 1.63%, Bitcoin declines 1.95%, and long rates remain elevated.
+- [2026-08-13: Midnight Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-midnight.md) — S&P, Nasdaq, and Russell rise while the Dow falls 1.07%, VNQ loses 1.63%, Bitcoin declines 1.95%, and long rates remain elevated.
 
-- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — Nasdaq and Russell rise while the Dow falls 1.07%, WTI gains 5.63%, Bitcoin loses 2.30%, and VNQ declines 1.63%.
+- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-evening.md) — Nasdaq and Russell rise while the Dow falls 1.07%, WTI gains 5.63%, Bitcoin loses 2.30%, and VNQ declines 1.63%.
 
-- [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-noon.md) — S&P, Nasdaq, and Russell rise while the Dow falls 1.00%, WTI jumps 6.73%, Bitcoin loses 2.36%, and VNQ declines 1.60%, preserving strong cross-asset dispersion.
+- [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-noon.md) — S&P, Nasdaq, and Russell rise while the Dow falls 1.00%, WTI jumps 6.73%, Bitcoin loses 2.36%, and VNQ declines 1.60%, preserving strong cross-asset dispersion.
 
-- [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-daytime.md) — Indexes slip 0.11%–0.54% while WTI jumps 5.60%, AMD falls 8.53%, VNQ loses 2.57%, and SCHD gains 1.24%.
+- [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-daytime.md) — Indexes slip 0.11%–0.54% while WTI jumps 5.60%, AMD falls 8.53%, VNQ loses 2.57%, and SCHD gains 1.24%.
 
-- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Indexes fall only 0.11%–0.54%, while WTI jumps 7.71%, AMD loses 8.53%, VNQ falls 2.57%, and SCHD gains 1.24%.
+- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-midnight.md) — Indexes fall only 0.11%–0.54%, while WTI jumps 7.71%, AMD loses 8.53%, VNQ falls 2.57%, and SCHD gains 1.24%.
 
-- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-evening.md) — Indexes slip 0.11%–0.54% while WTI jumps 7.69%, VNQ falls 2.57%, AMD loses 8.53%, and long rates remain elevated.
+- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-evening.md) — Indexes slip 0.11%–0.54% while WTI jumps 7.69%, VNQ falls 2.57%, AMD loses 8.53%, and long rates remain elevated.
 
-- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Major indexes move only -0.35% to +0.11%, while WTI jumps 7.69%, AMD falls 9.81%, VNQ loses 2.23%, and long rates remain elevated.
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-noon.md) — Major indexes move only -0.35% to +0.11%, while WTI jumps 7.69%, AMD falls 9.81%, VNQ loses 2.23%, and long rates remain elevated.
 
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Indexes gain 1.19%–2.67% and Nvidia rises 5.28%, while WTI jumps 9.07%, VNQ falls 1.98%, Bitcoin slips, and long rates remain elevated.
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — Indexes gain 1.19%–2.67% and Nvidia rises 5.28%, while WTI jumps 9.07%, VNQ falls 1.98%, Bitcoin slips, and long rates remain elevated.
 
-- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Indexes rise 1.19%–2.67% and Nvidia gains 5.28%, while WTI jumps 6.28%, VNQ falls 1.98%, Bitcoin declines, and long rates remain high.
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-midnight.md) — Indexes rise 1.19%–2.67% and Nvidia gains 5.28%, while WTI jumps 6.28%, VNQ falls 1.98%, Bitcoin declines, and long rates remain high.
 
-- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Indexes gain 1.19%–2.67%, but VNQ falls 1.98%, the 30-year yield reaches 5.243%, and WTI surges 9.41%.
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-evening.md) — Indexes gain 1.19%–2.67%, but VNQ falls 1.98%, the 30-year yield reaches 5.243%, and WTI surges 9.41%.
 
-- [2026-08-10: Noon Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-noon.md) — Indexes gain 1.27%–2.93%, but VNQ falls 2.17%, the 30-year yield reaches 5.24%, and WTI surges 7.99%.
+- [2026-08-10: Noon Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-noon.md) — Indexes gain 1.27%–2.93%, but VNQ falls 2.17%, the 30-year yield reaches 5.24%, and WTI surges 7.99%.
 
-- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Indexes gain 2.96%–5.19%, Nvidia rises 11.56%, and WTI gains 5.07%, while VNQ falls and the 30-year yield stays elevated.
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-daytime.md) — Indexes gain 2.96%–5.19%, Nvidia rises 11.56%, and WTI gains 5.07%, while VNQ falls and the 30-year yield stays elevated.
 
-- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-midnight.md) — Indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and the 30-year Treasury yield remains 5.211%.
+- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-midnight.md) — Indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and the 30-year Treasury yield remains 5.211%.
 
-- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and the 30-year yield remains 5.211%.
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-evening.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and the 30-year yield remains 5.211%.
 
-- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and long-term borrowing costs stay elevated.
+- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-noon.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and long-term borrowing costs stay elevated.
 
-- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and long-term borrowing costs remain elevated.
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-daytime.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while VNQ declines and long-term borrowing costs remain elevated.
 
-- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while WTI remains down 7.67% for the week and VNQ declines.
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-midnight.md) — Completed-week indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while WTI remains down 7.67% for the week and VNQ declines.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while WTI falls 7.67% and VNQ declines.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — Indexes gain 2.96%–5.19% and Nvidia rises 11.56%, while WTI falls 7.67% and VNQ declines.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Indexes gain 2.96%–5.19% and Nvidia jumps 11.56%, while WTI falls 7.67% and VNQ declines.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Indexes gain 2.96%–5.19% and Nvidia jumps 11.56%, while WTI falls 7.67% and VNQ declines.
 
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Indexes gain 2.96%–5.19% and Nvidia jumps 11.56%, while WTI falls 7.67% for the week and VNQ declines.
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — Indexes gain 2.96%–5.19% and Nvidia jumps 11.56%, while WTI falls 7.67% for the week and VNQ declines.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — A Nasdaq-led weekly rally and near-high indexes coexist with a 7.67% weekly WTI decline and negative VNQ performance.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — A Nasdaq-led weekly rally and near-high indexes coexist with a 7.67% weekly WTI decline and negative VNQ performance.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Indexes gain 2.96%–5.19% and Nvidia jumps 11.56%, while WTI falls 4.06% and VNQ declines, preserving cross-asset divergence.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Indexes gain 2.96%–5.19% and Nvidia jumps 11.56%, while WTI falls 4.06% and VNQ declines, preserving cross-asset divergence.
 
-- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — Nasdaq gains 5.15% and Nvidia 11.45%, while WTI and VNQ decline, preserving cross-asset divergence.
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-noon.md) — Nasdaq gains 5.15% and Nvidia 11.45%, while WTI and VNQ decline, preserving cross-asset divergence.
 
-- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-daytime.md) — Indexes rise 1.88%–4.88% and Nvidia/Amazon lead, while WTI and VNQ decline and long rates remain elevated.
+- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-daytime.md) — Indexes rise 1.88%–4.88% and Nvidia/Amazon lead, while WTI and VNQ decline and long rates remain elevated.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Indexes surge 1.88%–4.88% and Amazon/Nvidia lead, while WTI and VNQ decline, preserving cross-asset divergence.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Indexes surge 1.88%–4.88% and Amazon/Nvidia lead, while WTI and VNQ decline, preserving cross-asset divergence.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Indexes gain 1.88%–4.88%, Amazon and Nvidia surge, while WTI and VNQ decline, preserving cross-asset divergence.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Indexes gain 1.88%–4.88%, Amazon and Nvidia surge, while WTI and VNQ decline, preserving cross-asset divergence.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Indexes rally 2.47%–4.82% and Nvidia/Amazon surge while WTI falls 4.28% and VNQ declines, preserving cross-asset divergence.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — Indexes rally 2.47%–4.82% and Nvidia/Amazon surge while WTI falls 4.28% and VNQ declines, preserving cross-asset divergence.
 
-- [2026-08-06: Morning Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-daytime.md) — Indexes gain 3.88%–7.86% and AI-linked stocks surge while WTI falls 6.20% and SCHD/VNQ decline, preserving cross-asset divergence.
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Indexes surge 3.88%–7.86% and AI-linked stocks jump, while WTI falls 6.61%, SCHD and VNQ decline, preserving cross-asset divergence.
+- [2026-08-06: Morning Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-daytime.md) — Indexes gain 3.88%–7.86% and AI-linked stocks surge while WTI falls 6.20% and SCHD/VNQ decline, preserving cross-asset divergence.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — Indexes surge 3.88%–7.86% and AI-linked stocks jump, while WTI falls 6.61%, SCHD and VNQ decline, preserving cross-asset divergence.
 
-- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — Indexes close up 3.88%–7.86% and AI-linked stocks surge, while WTI -11.33%, SCHD, and VNQ remain non-confirming.
-- [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-noon.md) — All four major indexes surge 4%–8%, but WTI -11.02%, VNQ weakness, and SCHD softness preserve strong cross-asset divergence.
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — A powerful equity rally coexists with WTI -9.97% and VNQ -2.01%, preserving cross-asset divergence.
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — A clearly risk-on close still has non-uniform internals: WTI drops 10.11%, VNQ falls, and dividend exposure lags.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Used as the contrast case: indexes and high beta are strongly risk-on, but WTI, VNQ, SCHD, and Costco show the rally is not uniform.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The dispatch is risk-on rather than risk-off, but elevated long rates, VNQ weakness, UPS weakness, WTI softness, and AMD red ink keep rotation risk visible.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — The dispatch is risk-on rather than risk-off, but high long rates, mortgage costs, VNQ weakness, UPS weakness, and AMD softness show why rotation risk still matters.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — The evening close turns hotter risk-on — S&P +2.53%, Nasdaq +3.94%, Amazon +22.75% — while oil, Bitcoin, UPS, VNQ, AMD, long rates, and mortgages keep cross-asset confirmation uneven.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Nasdaq, S&P, and Amazon strengthen sharply, but oil, Bitcoin, UPS, VNQ, and AMD keep the risk-on read uneven.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Morning data keeps the “green but not clean” regime alive: indexes and Amazon are strong while chips, UPS, VNQ, Bitcoin, oil, and long rates remain stress points.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — A high-index, Amazon-led tape coexists with oil weakness, long-rate pressure, chip/logistics stress, VNQ weakness, and soft Bitcoin.
+- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-evening.md) — Indexes close up 3.88%–7.86% and AI-linked stocks surge, while WTI -11.33%, SCHD, and VNQ remain non-confirming.
+- [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-noon.md) — All four major indexes surge 4%–8%, but WTI -11.02%, VNQ weakness, and SCHD softness preserve strong cross-asset divergence.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — A powerful equity rally coexists with WTI -9.97% and VNQ -2.01%, preserving cross-asset divergence.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — A clearly risk-on close still has non-uniform internals: WTI drops 10.11%, VNQ falls, and dividend exposure lags.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Used as the contrast case: indexes and high beta are strongly risk-on, but WTI, VNQ, SCHD, and Costco show the rally is not uniform.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — The dispatch is risk-on rather than risk-off, but elevated long rates, VNQ weakness, UPS weakness, WTI softness, and AMD red ink keep rotation risk visible.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — The dispatch is risk-on rather than risk-off, but high long rates, mortgage costs, VNQ weakness, UPS weakness, and AMD softness show why rotation risk still matters.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — The evening close turns hotter risk-on — S&P +2.53%, Nasdaq +3.94%, Amazon +22.75% — while oil, Bitcoin, UPS, VNQ, AMD, long rates, and mortgages keep cross-asset confirmation uneven.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — Nasdaq, S&P, and Amazon strengthen sharply, but oil, Bitcoin, UPS, VNQ, and AMD keep the risk-on read uneven.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Morning data keeps the “green but not clean” regime alive: indexes and Amazon are strong while chips, UPS, VNQ, Bitcoin, oil, and long rates remain stress points.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — A high-index, Amazon-led tape coexists with oil weakness, long-rate pressure, chip/logistics stress, VNQ weakness, and soft Bitcoin.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The evening board keeps the green-but-not-clean diagnosis: indexes and Amazon are strong, but chips, UPS, VNQ, long rates, oil, and Bitcoin complicate risk appetite.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — The evening board keeps the green-but-not-clean diagnosis: indexes and Amazon are strong, but chips, UPS, VNQ, long rates, oil, and Bitcoin complicate risk appetite.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Indexes and Amazon are strong, but long rates, mortgages, oil, chips, UPS, VNQ, and Bitcoin keep the tape green-but-not-clean.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Indexes and Amazon are strong, but long rates, mortgages, oil, chips, UPS, VNQ, and Bitcoin keep the tape green-but-not-clean.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — The source is nominally risk-on near index highs, but high long rates, chip weakness, UPS downside, Bitcoin softness, and oil strength keep the mixed-rotation frame alive.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — The source is nominally risk-on near index highs, but high long rates, chip weakness, UPS downside, Bitcoin softness, and oil strength keep the mixed-rotation frame alive.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Indexes and Amazon are strong, but long rates, mortgages, WTI, Bitcoin, UPS, and chip weakness keep the tape green-but-not-clean.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Indexes and Amazon are strong, but long rates, mortgages, WTI, Bitcoin, UPS, and chip weakness keep the tape green-but-not-clean.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Indexes close higher and near 52-week highs, but long rates, mortgages, Bitcoin, chip weakness, UPS, and Tesla keep the tape green-but-not-clean.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Indexes close higher and near 52-week highs, but long rates, mortgages, Bitcoin, chip weakness, UPS, and Tesla keep the tape green-but-not-clean.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Indexes and Amazon are green, but long rates, oil, UPS, semiconductors, Bitcoin, and Tesla keep the risk-on label qualified.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Indexes and Amazon are green, but long rates, oil, UPS, semiconductors, Bitcoin, and Tesla keep the risk-on label qualified.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — The source calls the tape green, but long rates, WTI, UPS, Bitcoin, and AI-chip weakness keep the stress-channel diagnosis alive.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — The source calls the tape green, but long rates, WTI, UPS, Bitcoin, and AI-chip weakness keep the stress-channel diagnosis alive.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Indexes are green and near highs, but long rates, WTI, UPS, Tesla, and chip weakness keep the close from reading as clean risk-on.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Indexes are green and near highs, but long rates, WTI, UPS, Tesla, and chip weakness keep the close from reading as clean risk-on.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — The evening close is headline risk-on but still rotation-sensitive: Amazon and indexes rally while AMD, Nvidia, Tesla, UPS, oil, Bitcoin, and long rates resist clean confirmation.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — The evening close is headline risk-on but still rotation-sensitive: Amazon and indexes rally while AMD, Nvidia, Tesla, UPS, oil, Bitcoin, and long rates resist clean confirmation.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Broad indexes are green near highs, but Russell softness and AMD/Nvidia/Tesla weakness show the rotation is still selective rather than a clean risk-on confirmation.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Morning data preserve the mixed-close/selective-stress shape: broad indexes near highs while AMD/Nvidia/TSM/Tesla/UPS are weak.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — The dispatch keeps the mixed-close pattern intact: broad indexes firm, but AMD/Nvidia/TSM/Tesla/UPS weakness shows selective stress rather than broad liquidation.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The evening close is mixed rather than messy: S&P/Dow/Russell rise, Nasdaq dips, and AMD/Nvidia/TSM/Tesla/UPS weakness contrasts with dividend, value, international, REIT, Berkshire, Schwab, Costco, PayPal, and Netflix strength.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Lunch-hour data soften the selloff but preserve the same shape: AMD, Nvidia, TSM, Tesla, and UPS are stressed while Dow, SCHD, VXUS, VBR, VNQ, Berkshire, Schwab, Costco, PayPal, Amazon, and Netflix are green.
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Nasdaq, S&P, Russell, TSLA, AMD, AMZN, and Bitcoin sold off while BRK.B, SCHW, COST, UPS, and VNQ were green or resilient.
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — End-of-day close confirmed the same pattern: Nasdaq -4.27% and S&P -2.56% while SCHD, VBR, VNQ, BRK.B, COST, RL, and TGT held up or gained.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The next morning preserved the split: AI/growth names remained pressured while dividend, value, real estate, consumer, and Berkshire-style quality pockets were resilient.
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — The close intensified the pattern: Nasdaq -5.22%, S&P 500 -2.93%, and Russell 2000 -2.21%, while dividend, value, real estate, Berkshire, select financials, retail, and Costco-style quality names held up or gained.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — The morning dispatch preserves the same red-index/green-pocket structure: AI and growth are hit while SCHD, VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient.
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — The close worsens the selloff: Nasdaq -6.27%, S&P 500 -3.80%, and AMD -16.61%, but VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, SCHD, and VBR still show selective demand.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — The morning repeats the severe split tape: Nasdaq -6.27%, S&P 500 -3.80%, AMD -16.61%, NVDA and TSM down sharply, while VNQ, SCHD, VBR, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient or green.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — The close remains risk-off but selective: Nasdaq -3.81%, S&P 500 -2.51%, and WTI -5.35% trigger the major-move alert while VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, and SCHD show resilience or gains.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — The next morning preserves the same split: Nasdaq -3.81%, S&P 500 -2.51%, WTI -7.94%, and AI/growth weakness against resilient value, dividend, real-estate, financial, and consumer pockets.
-- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — The close partially reverses the risk-off damage but keeps rotation as the structure: Russell 2000 +3.90%, VBR +2.99%, VNQ +1.78%, SCHD +1.61%, TGT +10.33%, RL +10.21%, and WTI -7.68%.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Weekend tables preserve the relief-rotation structure: weekly green indexes, Russell 2000 +3.90%, VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI down hard.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening tables keep the same relief-rotation shape: Russell +3.90%, VXUS/VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI -7.03%.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Sunday tables preserve the same weekly structure: major indexes green, Russell 2000 +3.90%, small-value/dividend/international/REIT strength, RL and TGT +10%+, and WTI -6.25%.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening weekend tables repeat the relief-rotation structure: small caps lead, VXUS/VBR/VNQ/SCHD sit near upper rails, RL/TGT remain +10% retail standouts, Bitcoin rebounds, and WTI stays down on the week.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Monday morning board keeps the relief rotation intact: major indexes green near highs, Russell 2000 +3.90%, VBR/VXUS/VNQ/SCHD strong, RL/TGT +10%+, and WTI -10.95%.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — The close turns the relief rotation into a broader risk-on tape: S&P 500 +2.01%, Nasdaq +2.91%, Russell 2000 +3.84%, AMD +11.61%, RL +10.60%, Bitcoin +4.39%, and WTI -9.85%.
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The morning board preserves the broad risk-on phase: major indexes and ETFs press 52-week highs, AMD/RL/TGT/AXP lead single-stock risk appetite, and WTI falls -11.13%.
-- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — The close confirms the risk-on phase: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, WTI -13.54%, and the 30-year Treasury down 10 bps.
-- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Morning tables preserve the risk-on close: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, and WTI still down double digits at -11.48%.
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The evening close strengthens the risk-on phase: S&P 500 +2.11%, Dow +3.15%, Nasdaq +3.39%, Russell 2000 +2.91%, AMD +13.28%, and WTI -11.63%.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Morning tables carry forward the broad risk-on tape: S&P 500 +2.11%, Dow +3.15%, Nasdaq +3.39%, Russell 2000 +2.91%, semiconductors and financials strong, and WTI still sharply lower at -8.46%.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Evening close stays risk-on in equities: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, but WTI -6.48% and Bitcoin -4.30% keep cross-asset dissonance alive.
-- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Morning tables preserve the same risk-on/cross-asset split: major indexes near highs, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, while Bitcoin -5.98% and WTI -6.25% cross negative alert lines.
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Evening close confirms equity risk appetite: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, TSM +9.75%, but WTI -5.21% and Bitcoin -4.89% keep cross-asset confirmation weak.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning tables preserve the same split: major indexes and chips remain green near highs, while WTI -5.21% and Bitcoin -2.99% keep the cross-asset read mixed.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Evening tables confirm the carry-forward: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, while WTI -5.21% and Bitcoin -2.57% remain non-confirming.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Sunday tables carry the same two-part regime: major indexes and semiconductors remain risk-on near highs, while WTI and Bitcoin remain non-confirming.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — Broad indexes are green near highs, but Russell softness and AMD/Nvidia/Tesla weakness show the rotation is still selective rather than a clean risk-on confirmation.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Morning data preserve the mixed-close/selective-stress shape: broad indexes near highs while AMD/Nvidia/TSM/Tesla/UPS are weak.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — The dispatch keeps the mixed-close pattern intact: broad indexes firm, but AMD/Nvidia/TSM/Tesla/UPS weakness shows selective stress rather than broad liquidation.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — The evening close is mixed rather than messy: S&P/Dow/Russell rise, Nasdaq dips, and AMD/Nvidia/TSM/Tesla/UPS weakness contrasts with dividend, value, international, REIT, Berkshire, Schwab, Costco, PayPal, and Netflix strength.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Lunch-hour data soften the selloff but preserve the same shape: AMD, Nvidia, TSM, Tesla, and UPS are stressed while Dow, SCHD, VXUS, VBR, VNQ, Berkshire, Schwab, Costco, PayPal, Amazon, and Netflix are green.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — Nasdaq, S&P, Russell, TSLA, AMD, AMZN, and Bitcoin sold off while BRK.B, SCHW, COST, UPS, and VNQ were green or resilient.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — End-of-day close confirmed the same pattern: Nasdaq -4.27% and S&P -2.56% while SCHD, VBR, VNQ, BRK.B, COST, RL, and TGT held up or gained.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — The next morning preserved the split: AI/growth names remained pressured while dividend, value, real estate, consumer, and Berkshire-style quality pockets were resilient.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — The close intensified the pattern: Nasdaq -5.22%, S&P 500 -2.93%, and Russell 2000 -2.21%, while dividend, value, real estate, Berkshire, select financials, retail, and Costco-style quality names held up or gained.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — The morning dispatch preserves the same red-index/green-pocket structure: AI and growth are hit while SCHD, VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — The close worsens the selloff: Nasdaq -6.27%, S&P 500 -3.80%, and AMD -16.61%, but VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, SCHD, and VBR still show selective demand.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — The morning repeats the severe split tape: Nasdaq -6.27%, S&P 500 -3.80%, AMD -16.61%, NVDA and TSM down sharply, while VNQ, SCHD, VBR, BRK.B, AXP, SCHW, RL, TGT, and COST remain resilient or green.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — The close remains risk-off but selective: Nasdaq -3.81%, S&P 500 -2.51%, and WTI -5.35% trigger the major-move alert while VBR, VNQ, BRK.B, AXP, SCHW, RL, TGT, COST, and SCHD show resilience or gains.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — The next morning preserves the same split: Nasdaq -3.81%, S&P 500 -2.51%, WTI -7.94%, and AI/growth weakness against resilient value, dividend, real-estate, financial, and consumer pockets.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletters/newsletter-2026-06-12-evening.md) — The close partially reverses the risk-off damage but keeps rotation as the structure: Russell 2000 +3.90%, VBR +2.99%, VNQ +1.78%, SCHD +1.61%, TGT +10.33%, RL +10.21%, and WTI -7.68%.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — Weekend tables preserve the relief-rotation structure: weekly green indexes, Russell 2000 +3.90%, VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI down hard.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Evening tables keep the same relief-rotation shape: Russell +3.90%, VXUS/VBR/VNQ/SCHD strength, retail breakouts, AMD +9.69%, and WTI -7.03%.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Sunday tables preserve the same weekly structure: major indexes green, Russell 2000 +3.90%, small-value/dividend/international/REIT strength, RL and TGT +10%+, and WTI -6.25%.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Evening weekend tables repeat the relief-rotation structure: small caps lead, VXUS/VBR/VNQ/SCHD sit near upper rails, RL/TGT remain +10% retail standouts, Bitcoin rebounds, and WTI stays down on the week.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — Monday morning board keeps the relief rotation intact: major indexes green near highs, Russell 2000 +3.90%, VBR/VXUS/VNQ/SCHD strong, RL/TGT +10%+, and WTI -10.95%.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — The close turns the relief rotation into a broader risk-on tape: S&P 500 +2.01%, Nasdaq +2.91%, Russell 2000 +3.84%, AMD +11.61%, RL +10.60%, Bitcoin +4.39%, and WTI -9.85%.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — The morning board preserves the broad risk-on phase: major indexes and ETFs press 52-week highs, AMD/RL/TGT/AXP lead single-stock risk appetite, and WTI falls -11.13%.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletters/newsletter-2026-06-16-evening.md) — The close confirms the risk-on phase: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, WTI -13.54%, and the 30-year Treasury down 10 bps.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-17.md) — Morning tables preserve the risk-on close: Dow +2.22%, Nasdaq +2.72%, Russell 2000 +2.52%, broad ETF strength, and WTI still down double digits at -11.48%.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — The evening close strengthens the risk-on phase: S&P 500 +2.11%, Dow +3.15%, Nasdaq +3.39%, Russell 2000 +2.91%, AMD +13.28%, and WTI -11.63%.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — Morning tables carry forward the broad risk-on tape: S&P 500 +2.11%, Dow +3.15%, Nasdaq +3.39%, Russell 2000 +2.91%, semiconductors and financials strong, and WTI still sharply lower at -8.46%.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — Evening close stays risk-on in equities: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, but WTI -6.48% and Bitcoin -4.30% keep cross-asset dissonance alive.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-19.md) — Morning tables preserve the same risk-on/cross-asset split: major indexes near highs, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, while Bitcoin -5.98% and WTI -6.25% cross negative alert lines.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — Evening close confirms equity risk appetite: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, TSM +9.75%, but WTI -5.21% and Bitcoin -4.89% keep cross-asset confirmation weak.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — Weekend morning tables preserve the same split: major indexes and chips remain green near highs, while WTI -5.21% and Bitcoin -2.99% keep the cross-asset read mixed.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Evening tables confirm the carry-forward: S&P 500 +1.44%, Nasdaq +2.74%, Russell 2000 +2.01%, AMD +10.02%, and TSM +9.75%, while WTI -5.21% and Bitcoin -2.57% remain non-confirming.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Sunday tables carry the same two-part regime: major indexes and semiconductors remain risk-on near highs, while WTI and Bitcoin remain non-confirming.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Evening tables repeat the two-part regime: indexes and semiconductors are risk-on near highs, while WTI and Bitcoin remain non-confirming.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Evening tables repeat the two-part regime: indexes and semiconductors are risk-on near highs, while WTI and Bitcoin remain non-confirming.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Monday tables keep the risk-on equity phase intact: indexes and semiconductors are strong near highs, while oil is softer and Bitcoin is only bouncing from low-range territory.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Monday tables keep the risk-on equity phase intact: indexes and semiconductors are strong near highs, while oil is softer and Bitcoin is only bouncing from low-range territory.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Monday evening closes with a cleaner risk-on board: S&P 500 +0.56%, Dow +1.00%, Nasdaq +1.07%, Russell 2000 +2.05%, TSM +10.32%, AMD +7.83%, Bitcoin +2.14%, and WTI +0.64%, though retail/REIT/Netflix pockets remain weak.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Monday evening closes with a cleaner risk-on board: S&P 500 +0.56%, Dow +1.00%, Nasdaq +1.07%, Russell 2000 +2.05%, TSM +10.32%, AMD +7.83%, Bitcoin +2.14%, and WTI +0.64%, though retail/REIT/Netflix pockets remain weak.
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Tuesday tables keep equities risk-on near highs, led by Russell 2000 **+2.05%**, TSM **+10.32%**, and AMD **+7.83%**, while oil **-4.43%** and low-range Bitcoin restore some cross-asset caution.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — Tuesday tables keep equities risk-on near highs, led by Russell 2000 **+2.05%**, TSM **+10.32%**, and AMD **+7.83%**, while oil **-4.43%** and low-range Bitcoin restore some cross-asset caution.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — The close flips the read back toward risk-off rotation: S&P 500 **-2.50%**, Nasdaq **-4.11%**, Nvidia **-5.84%**, AMD **-5.01%**, and NFLX **-10.84%**, while Russell 2000 stays slightly green and oil/Bitcoin fall.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — The close flips the read back toward risk-off rotation: S&P 500 **-2.50%**, Nasdaq **-4.11%**, Nvidia **-5.84%**, AMD **-5.01%**, and NFLX **-10.84%**, while Russell 2000 stays slightly green and oil/Bitcoin fall.
 
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Wednesday morning preserves the risk-off/split-tape read: Nasdaq **-4.11%**, S&P 500 **-2.50%**, Nvidia **-5.84%**, AMD **-5.01%**, oil **-5.93%**, and Bitcoin **-2.61%**, while Russell 2000 stays slightly green.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — Wednesday morning preserves the risk-off/split-tape read: Nasdaq **-4.11%**, S&P 500 **-2.50%**, Nvidia **-5.84%**, AMD **-5.01%**, oil **-5.93%**, and Bitcoin **-2.61%**, while Russell 2000 stays slightly green.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — The close remains selective risk-off: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-8.79%**, and Bitcoin **-4.89%**, while Russell 2000 **+1.61%**, TSM **+3.52%**, and AMD **+2.45%** keep the tape from being uniform liquidation.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — The close remains selective risk-off: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-8.79%**, and Bitcoin **-4.89%**, while Russell 2000 **+1.61%**, TSM **+3.52%**, and AMD **+2.45%** keep the tape from being uniform liquidation.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Thursday morning preserves the selective risk-off read: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-7.12%**, and Bitcoin **-2.52%** are weak, but Russell 2000 **+1.61%**, AMD **+2.45%**, and TSM **+3.52%** remain resilient.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Thursday morning preserves the selective risk-off read: S&P 500 **-2.04%**, Nasdaq **-3.41%**, WTI **-7.12%**, and Bitcoin **-2.52%** are weak, but Russell 2000 **+1.61%**, AMD **+2.45%**, and TSM **+3.52%** remain resilient.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The evening close sharpens the split: Nasdaq **-2.55%** and Bitcoin **-5.08%** are weak, while Russell 2000 **+3.08%**, Dow **+0.83%**, AMD **+3.92%**, and TSM **+0.66%** show internal risk appetite.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — The evening close sharpens the split: Nasdaq **-2.55%** and Bitcoin **-5.08%** are weak, while Russell 2000 **+3.08%**, Dow **+0.83%**, AMD **+3.92%**, and TSM **+0.66%** show internal risk appetite.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Friday morning keeps the split-tape diagnosis: Nasdaq **-2.55%**, Bitcoin **-6.83%**, and WTI **-7.43%** are weak, while Russell 2000 **+3.08%**, AMD **+3.92%**, TSM **+0.66%**, VBR, and VNQ hold up.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — The close is harsher risk-off in growth and cross-assets: Nasdaq **-4.60%**, Bitcoin **-6.47%**, WTI **-6.12%**, Nvidia **-8.62%**, and TSM **-6.44%**, while Dow/Russell/VBR/VNQ/SCHD/TGT remain green.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Weekend tables preserve the same selective risk-off read: Nasdaq **-4.60%**, WTI sharply lower, Bitcoin weak, Nvidia/TSM/AMD red, while Dow/Russell/VBR/VNQ/SCHD/TGT/UPS remain resilient.
-- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Evening tables confirm the same regime: Nasdaq **-4.60%**, Nvidia **-8.62%**, TSM **-6.44%**, Bitcoin and WTI weak, while Dow/Russell/SCHD/VBR/VNQ/TGT/UPS/BRK.B remain resilient.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — Friday morning keeps the split-tape diagnosis: Nasdaq **-2.55%**, Bitcoin **-6.83%**, and WTI **-7.43%** are weak, while Russell 2000 **+3.08%**, AMD **+3.92%**, TSM **+0.66%**, VBR, and VNQ hold up.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — The close is harsher risk-off in growth and cross-assets: Nasdaq **-4.60%**, Bitcoin **-6.47%**, WTI **-6.12%**, Nvidia **-8.62%**, and TSM **-6.44%**, while Dow/Russell/VBR/VNQ/SCHD/TGT remain green.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — Weekend tables preserve the same selective risk-off read: Nasdaq **-4.60%**, WTI sharply lower, Bitcoin weak, Nvidia/TSM/AMD red, while Dow/Russell/VBR/VNQ/SCHD/TGT/UPS remain resilient.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-evening.md) — Evening tables confirm the same regime: Nasdaq **-4.60%**, Nvidia **-8.62%**, TSM **-6.44%**, Bitcoin and WTI weak, while Dow/Russell/SCHD/VBR/VNQ/TGT/UPS/BRK.B remain resilient.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Sunday tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/Target/UPS pockets remain resilient.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — Sunday tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/Target/UPS pockets remain resilient.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Evening completed-week tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/retail/quality pockets remain resilient.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — Evening completed-week tables confirm the same selective risk-off regime: Nasdaq, semis, Bitcoin, and WTI are weak while Dow/Russell/dividend/small-value/REIT/retail/quality pockets remain resilient.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Monday morning tables preserve selective risk-off: Nasdaq **-4.60%**, Nvidia **-8.62%**, TSM **-6.44%**, and AMD **-2.94%** against resilient Dow/Russell/value/dividend/REIT/retail pockets.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — Monday morning tables preserve selective risk-off: Nasdaq **-4.60%**, Nvidia **-8.62%**, TSM **-6.44%**, and AMD **-2.94%** against resilient Dow/Russell/value/dividend/REIT/retail pockets.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — The close remains selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red, while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire hold up.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — The close remains selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red, while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire hold up.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Tuesday morning preserves selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire remain resilient.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Tuesday morning preserves selective risk-off: Nasdaq **-1.32%** and Nvidia/TSM/AMD are red while Dow **+0.91%**, Russell **+0.20%**, VBR, VNQ, Target, PayPal, and Berkshire remain resilient.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — The close flips equities risk-on: S&P 500 **+1.82%**, Nasdaq **+2.45%**, Russell 2000 **+1.64%**, AMD **+11.75%**, TSM **+9.44%**, and TSLA **+10.22%**, while Bitcoin and WTI lag.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — The close flips equities risk-on: S&P 500 **+1.82%**, Nasdaq **+2.45%**, Russell 2000 **+1.64%**, AMD **+11.75%**, TSM **+9.44%**, and TSLA **+10.22%**, while Bitcoin and WTI lag.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Wednesday daytime carries forward the risk-on equity board: S&P 500 **+1.82%**, Nasdaq **+2.45%**, Russell 2000 **+1.64%**, AMD **+11.75%**, TSM **+9.44%**, and TSLA **+10.22%**, with Bitcoin and WTI still non-confirming.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Wednesday daytime carries forward the risk-on equity board: S&P 500 **+1.82%**, Nasdaq **+2.45%**, Russell 2000 **+1.64%**, AMD **+11.75%**, TSM **+9.44%**, and TSLA **+10.22%**, with Bitcoin and WTI still non-confirming.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — The equity close stays risk-on: S&P 500 **+1.70%**, Nasdaq **+2.21%**, Russell 2000 **+0.87%**, and Tesla **+13.25%**, but the 30-year Treasury yield rising **11 bps** keeps the cross-asset read mixed.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — The equity close stays risk-on: S&P 500 **+1.70%**, Nasdaq **+2.21%**, Russell 2000 **+0.87%**, and Tesla **+13.25%**, but the 30-year Treasury yield rising **11 bps** keeps the cross-asset read mixed.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — The equity board stays risk-on with S&P 500 **+1.70%**, Nasdaq **+2.21%**, Tesla **+13.25%**, and AMD **+4.07%**, but the 30-year Treasury near its yearly high keeps cross-asset confirmation mixed.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — The equity board stays risk-on with S&P 500 **+1.70%**, Nasdaq **+2.21%**, Tesla **+13.25%**, and AMD **+4.07%**, but the 30-year Treasury near its yearly high keeps cross-asset confirmation mixed.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — The close is big-index risk-on: S&P 500 **+1.71%**, Dow **+1.89%**, Nasdaq **+1.87%**, but Russell 2000 **-0.39%**, mixed semiconductors, and a **+12 bps** 30-year Treasury keep breadth and rates from confirming fully.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — The close is big-index risk-on: S&P 500 **+1.71%**, Dow **+1.89%**, Nasdaq **+1.87%**, but Russell 2000 **-0.39%**, mixed semiconductors, and a **+12 bps** 30-year Treasury keep breadth and rates from confirming fully.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — The board remains big-index risk-on with S&P 500 **+1.71%**, Dow **+1.89%**, and Nasdaq **+1.87%**, but Russell **-0.39%**, mixed chips, and a high 30-year Treasury keep confirmation incomplete.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — The board remains big-index risk-on with S&P 500 **+1.71%**, Dow **+1.89%**, and Nasdaq **+1.87%**, but Russell **-0.39%**, mixed chips, and a high 30-year Treasury keep confirmation incomplete.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — The close stays big-index risk-on with S&P 500 **+1.71%**, Dow **+1.89%**, and Nasdaq **+1.87%**, but Russell **-0.39%**, mixed chips, and a high 30-year Treasury keep confirmation incomplete.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — The close stays big-index risk-on with S&P 500 **+1.71%**, Dow **+1.89%**, and Nasdaq **+1.87%**, but Russell **-0.39%**, mixed chips, and a high 30-year Treasury keep confirmation incomplete.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Big indexes remain risk-on and Bitcoin jumps **+6.61%**, but Russell weakness, high long rates, and soft chips keep confirmation incomplete.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Big indexes remain risk-on and Bitcoin jumps **+6.61%**, but Russell weakness, high long rates, and soft chips keep confirmation incomplete.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Sunday carry-forward data keep big indexes risk-on, but Russell weakness, soft semiconductors, and the 30-year Treasury near its high keep confirmation incomplete.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Sunday carry-forward data keep big indexes risk-on, but Russell weakness, soft semiconductors, and the 30-year Treasury near its high keep confirmation incomplete.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Sunday evening data keep big indexes risk-on and add a **+5.00%** Bitcoin confirmation, but Russell weakness, soft semiconductors, and high long rates still prevent a clean all-asset rally label.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Sunday evening data keep big indexes risk-on and add a **+5.00%** Bitcoin confirmation, but Russell weakness, soft semiconductors, and high long rates still prevent a clean all-asset rally label.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Large-cap indexes remain risk-on, but Russell 2000 weakness, soft semiconductors, and high long rates keep confirmation incomplete.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Large-cap indexes remain risk-on, but Russell 2000 weakness, soft semiconductors, and high long rates keep confirmation incomplete.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — The board flips louder risk-on in big indexes — Nasdaq **+3.26%**, S&P **+2.49%**, Dow **+2.27%**, Tesla **+10.55%**, Schwab **+10.97%** — but the Russell is flat, Target is **-10.18%**, VNQ is negative, and the 30-year Treasury is near **5%**.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — The board flips louder risk-on in big indexes — Nasdaq **+3.26%**, S&P **+2.49%**, Dow **+2.27%**, Tesla **+10.55%**, Schwab **+10.97%** — but the Russell is flat, Target is **-10.18%**, VNQ is negative, and the 30-year Treasury is near **5%**.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — The close is large-cap risk-on — S&P **+0.85%**, Dow **+1.42%** — but Russell **-0.93%**, Nasdaq flat, AMD/TSM weak, WTI **+5.28%**, and the 30-year Treasury at **5.043%** make confirmation incomplete.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — The close is large-cap risk-on — S&P **+0.85%**, Dow **+1.42%** — but Russell **-0.93%**, Nasdaq flat, AMD/TSM weak, WTI **+5.28%**, and the 30-year Treasury at **5.043%** make confirmation incomplete.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Large-cap indexes remain near highs, but Russell 2000 weakness, mixed semiconductors, high long rates, Bitcoin softness, and WTI's jump make the tape mixed rather than cleanly risk-on.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Large-cap indexes remain near highs, but Russell 2000 weakness, mixed semiconductors, high long rates, Bitcoin softness, and WTI's jump make the tape mixed rather than cleanly risk-on.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — The close shifts more mixed: S&P **-0.22%**, Nasdaq **-1.31%**, Russell **-2.25%**, AMD/TSM weak, Bitcoin soft, WTI **+8.84%**, and the 30-year Treasury at **5.065%**.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — The close shifts more mixed: S&P **-0.22%**, Nasdaq **-1.31%**, Russell **-2.25%**, AMD/TSM weak, Bitcoin soft, WTI **+8.84%**, and the 30-year Treasury at **5.065%**.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — The board stays mixed: S&P **-0.22%**, Nasdaq **-1.31%**, Russell **-2.25%**, AMD **-10.93%**, TSM **-8.50%**, Bitcoin soft, and WTI **+7.10%**.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — The board stays mixed: S&P **-0.22%**, Nasdaq **-1.31%**, Russell **-2.25%**, AMD **-10.93%**, TSM **-8.50%**, Bitcoin soft, and WTI **+7.10%**.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — The close is large-index green — S&P +0.81%, Dow +0.35%, Nasdaq +0.64% — but Russell 2000 falls 0.67%, WTI rises 4.76%, Tesla drops 4.41%, and semiconductors are split, so the read is risk-on but not breadth-clean.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — The close is large-index green — S&P +0.81%, Dow +0.35%, Nasdaq +0.64% — but Russell 2000 falls 0.67%, WTI rises 4.76%, Tesla drops 4.41%, and semiconductors are split, so the read is risk-on but not breadth-clean.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Headline indexes are green and near 52-week highs, but Russell 2000 weakness, WTI strength, Tesla weakness, and split semiconductors keep the read from becoming clean risk-on.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Headline indexes are green and near 52-week highs, but Russell 2000 weakness, WTI strength, Tesla weakness, and split semiconductors keep the read from becoming clean risk-on.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — The close is tech-led risk-on — S&P 500 **+1.23%**, Nasdaq **+1.74%**, Nvidia/AMD surging — but Dow **-0.50%**, Russell **-0.61%**, and elevated long rates keep breadth confirmation incomplete.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — The close is tech-led risk-on — S&P 500 **+1.23%**, Nasdaq **+1.74%**, Nvidia/AMD surging — but Dow **-0.50%**, Russell **-0.61%**, and elevated long rates keep breadth confirmation incomplete.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — The July 11 daytime board is tech-led risk-on, but Dow/Russell weakness, high long rates, and real-estate lag keep breadth caveats intact.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — The July 11 daytime board is tech-led risk-on, but Dow/Russell weakness, high long rates, and real-estate lag keep breadth caveats intact.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — The weekly board is tech-led risk-on — S&P 500 +1.23%, Nasdaq +1.74%, Nvidia/AMD strong — but Dow, Russell, VNQ, Netflix, and Costco lag, so breadth is still incomplete.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — The dispatch reinforces a tech-led but breadth-limited read: S&P/Nasdaq lead while Dow, Russell, REITs, and consumer names lag.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — The weekly board is tech-led risk-on — S&P 500 +1.23%, Nasdaq +1.74%, Nvidia/AMD strong — but Dow, Russell, VNQ, Netflix, and Costco lag, so breadth is still incomplete.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — The dispatch reinforces a tech-led but breadth-limited read: S&P/Nasdaq lead while Dow, Russell, REITs, and consumer names lag.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — The evening brief repeats a risk-on-but-narrow tape: S&P 500/Nasdaq near highs while Dow, Russell, REITs, and some consumer names lag.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — The evening brief repeats a risk-on-but-narrow tape: S&P 500/Nasdaq near highs while Dow, Russell, REITs, and some consumer names lag.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The dispatch repeats the tech-led but breadth-limited regime: S&P 500/Nasdaq and chips lead while Dow, Russell, REITs, Netflix, Costco, and Berkshire lag.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — The dispatch repeats the tech-led but breadth-limited regime: S&P 500/Nasdaq and chips lead while Dow, Russell, REITs, Netflix, Costco, and Berkshire lag.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — All major indexes close lower, Russell 2000 is weakest at **-1.87%**, Bitcoin falls, and WTI jumps, making the evening a clearer risk-off print.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — All major indexes close lower, Russell 2000 is weakest at **-1.87%**, Bitcoin falls, and WTI jumps, making the evening a clearer risk-off print.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — All four major equity indexes are negative, Russell 2000 is weakest at **-1.87%**, Bitcoin falls, and WTI jumps **11.46%**, making the day an explicit risk-off print with energy stress.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — All four major equity indexes are negative, Russell 2000 is weakest at **-1.87%**, Bitcoin falls, and WTI jumps **11.46%**, making the day an explicit risk-off print with energy stress.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — The close partially repairs equities — S&P **+0.53%**, Nasdaq **+1.12%** — but Dow/Russell remain red and WTI **+10.75%**, so the regime is split rather than cleanly risk-on.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — The close partially repairs equities — S&P **+0.53%**, Nasdaq **+1.12%** — but Dow/Russell remain red and WTI **+10.75%**, so the regime is split rather than cleanly risk-on.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — S&P/Nasdaq strength and Nvidia/AMD rallies coexist with Dow/Russell weakness, Netflix/Tesla/TSM softness, and WTI **+12.10%**.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — S&P/Nasdaq strength and Nvidia/AMD rallies coexist with Dow/Russell weakness, Netflix/Tesla/TSM softness, and WTI **+12.10%**.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — All four major indexes close green, but WTI **+12.37%**, high long rates, TSM/Netflix/Costco weakness, and PayPal/Nvidia/AMD leadership make the tape green but still stress-sensitive.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — All four major indexes close green, but WTI **+12.37%**, high long rates, TSM/Netflix/Costco weakness, and PayPal/Nvidia/AMD leadership make the tape green but still stress-sensitive.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — All four major indexes are green and the S&P 500 sits near its 52-week high, but high long rates, WTI strength, TSM/Netflix/Costco weakness, and PayPal rumor-driven leadership keep the read stress-sensitive.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — All four major indexes are green and the S&P 500 sits near its 52-week high, but high long rates, WTI strength, TSM/Netflix/Costco weakness, and PayPal rumor-driven leadership keep the read stress-sensitive.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — The evening close is mixed: Dow is barely green and S&P nearly flat, but Nasdaq **-1.24%**, Russell **-0.60%**, AMD **-8.37%**, and TSM **-6.23%** make the tape stress-sensitive rather than clean risk-on.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — The evening close is mixed: Dow is barely green and S&P nearly flat, but Nasdaq **-1.24%**, Russell **-0.60%**, AMD **-8.37%**, and TSM **-6.23%** make the tape stress-sensitive rather than clean risk-on.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — The mixed board is cooling rather than cracking: S&P near highs, Nasdaq/Russell weak, PayPal surging, AMD/TSM down, and SCHD/VBR/VNQ/TGT/UPS showing selective demand.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — The mixed board is cooling rather than cracking: S&P near highs, Nasdaq/Russell weak, PayPal surging, AMD/TSM down, and SCHD/VBR/VNQ/TGT/UPS showing selective demand.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, Nvidia **-3.86%**, Netflix/Tesla weakness, and resilient dividend/value/REIT/retail/logistics pockets make the close tech-led risk-off rather than broad liquidation.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, Nvidia **-3.86%**, Netflix/Tesla weakness, and resilient dividend/value/REIT/retail/logistics pockets make the close tech-led risk-off rather than broad liquidation.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The dispatch confirms a tech-led risk-off structure: S&P 500 **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal and value/dividend/REIT/retail/logistics resilience.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The evening close confirms tech-led risk-off: Nasdaq/semis/Tesla/Netflix are weak while PayPal, dividend/value/REIT, retail, and UPS hold up.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — The dispatch confirms a tech-led risk-off structure: S&P 500 **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal and value/dividend/REIT/retail/logistics resilience.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — The evening close confirms tech-led risk-off: Nasdaq/semis/Tesla/Netflix are weak while PayPal, dividend/value/REIT, retail, and UPS hold up.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Sunday repeats the tech-led risk-off structure: S&P **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal and defensive/value/REIT/retail/logistics resilience.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Sunday repeats the tech-led risk-off structure: S&P **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal and defensive/value/REIT/retail/logistics resilience.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Sunday evening repeats the tech-led risk-off structure: S&P **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal, REITs, dividend/value, retail, and logistics strength.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Sunday evening repeats the tech-led risk-off structure: S&P **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal, REITs, dividend/value, retail, and logistics strength.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Monday daytime repeats the tech-led risk-off structure: S&P **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal, REITs, dividend/value, retail, and logistics strength.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Monday daytime repeats the tech-led risk-off structure: S&P **-1.55%**, Nasdaq **-2.90%**, AMD **-11.14%**, TSM **-8.23%**, and Nvidia **-3.86%**, offset by PayPal, REITs, dividend/value, retail, and logistics strength.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The evening close is red but selective: S&P -0.96%, Dow -1.26%, Nasdaq -1.41%, Russell -0.36%, AMD/TSM/NFLX/TSLA weak, but PayPal +19.24% and VNQ/Target/Schwab resilient.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Major indexes are red and semiconductors/high-beta tech weaken, but PayPal, VNQ, SCHD, VBR, Target, and Costco keep the move selective rather than liquidating.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — The evening close is red but selective: S&P -0.96%, Dow -1.26%, Nasdaq -1.41%, Russell -0.36%, AMD/TSM/NFLX/TSLA weak, but PayPal +19.24% and VNQ/Target/Schwab resilient.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Major indexes are red and semiconductors/high-beta tech weaken, but PayPal, VNQ, SCHD, VBR, Target, and Costco keep the move selective rather than liquidating.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The close remains red-but-selective: S&P -0.46%, Dow -0.54%, Nasdaq -1.03%, Russell +0.76%, with PayPal, SCHD, VBR, VNQ, retail, and UPS offsetting high-beta weakness.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — The close remains red-but-selective: S&P -0.46%, Dow -0.54%, Nasdaq -1.03%, Russell +0.76%, with PayPal, SCHD, VBR, VNQ, retail, and UPS offsetting high-beta weakness.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Daytime tables stay selective risk-off: S&P/Dow/Nasdaq red, Russell green, oil sharply higher, PayPal/retail/logistics resilient, and high-beta tech weak.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Daytime tables stay selective risk-off: S&P/Dow/Nasdaq red, Russell green, oil sharply higher, PayPal/retail/logistics resilient, and high-beta tech weak.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Nasdaq closes -2.20% and megacaps sell off, but AMD/TSM, Bitcoin, oil, SCHD/VBR/VNQ, Ralph Lauren, Costco, and UPS keep the move selective rather than a uniform liquidation.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Nasdaq closes -2.20% and megacaps sell off, but AMD/TSM, Bitcoin, oil, SCHD/VBR/VNQ, Ralph Lauren, Costco, and UPS keep the move selective rather than a uniform liquidation.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Nasdaq -2.20%, megacap weakness, WTI +8.28%, and high long rates preserve selective risk-off, while AMD, TSM, SCHD, VBR, VNQ, RL, COST, and UPS keep resilience pockets alive.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Nasdaq -2.20%, megacap weakness, WTI +8.28%, and high long rates preserve selective risk-off, while AMD, TSM, SCHD, VBR, VNQ, RL, COST, and UPS keep resilience pockets alive.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The close worsens to S&P -1.67%, Dow -1.60%, Nasdaq -2.88%, Russell -1.16%, with Tesla -18.25% and oil +10.97%, while AMD/TSM and Bitcoin provide limited non-uniform resilience.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The morning carries forward a harsher risk-off close: S&P -1.67%, Nasdaq -2.88%, Tesla -18.25%, oil higher, and long rates near the upper rail, while AMD/TSM/Nvidia stay green.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — The close worsens to S&P -1.67%, Dow -1.60%, Nasdaq -2.88%, Russell -1.16%, with Tesla -18.25% and oil +10.97%, while AMD/TSM and Bitcoin provide limited non-uniform resilience.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — The morning carries forward a harsher risk-off close: S&P -1.67%, Nasdaq -2.88%, Tesla -18.25%, oil higher, and long rates near the upper rail, while AMD/TSM/Nvidia stay green.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — The close remains selective risk-off: S&P -0.61%, Nasdaq -2.13%, Tesla -17.81%, Amazon -6.12%, AXP -8.21%, and WTI +8.70%, offset by AMD/TSM/Nvidia and near-high SCHD/VBR/VNQ.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — The close remains selective risk-off: S&P -0.61%, Nasdaq -2.13%, Tesla -17.81%, Amazon -6.12%, AXP -8.21%, and WTI +8.70%, offset by AMD/TSM/Nvidia and near-high SCHD/VBR/VNQ.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Indexes remain red with Nasdaq, Tesla, Amazon, AXP, and Bitcoin weak, while AMD/TSM/Nvidia and SCHD/VBR/VNQ keep the move selective.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Indexes remain red with Nasdaq, Tesla, Amazon, AXP, and Bitcoin weak, while AMD/TSM/Nvidia and SCHD/VBR/VNQ keep the move selective.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Nasdaq, Tesla, Amazon, AXP, and Bitcoin weaken while AMD/TSM/Nvidia and SCHD/VBR/VNQ keep the move selective.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Nasdaq, Tesla, Amazon, AXP, and Bitcoin weaken while AMD/TSM/Nvidia and SCHD/VBR/VNQ keep the move selective.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — S&P -0.61%, Nasdaq -2.13%, Tesla -17.81%, Amazon -6.12%, AXP -8.21%, Bitcoin -2.50%, and WTI +5.18% keep the board risk-off, while AMD/TSM/Nvidia and SCHD/VBR/VNQ preserve selectivity.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — S&P -0.61%, Nasdaq -2.13%, Tesla -17.81%, Amazon -6.12%, AXP -8.21%, and Bitcoin -1.09% keep the tape risk-off, while AMD/TSM/Nvidia and selected ETFs preserve selectivity.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — S&P -0.61%, Nasdaq -2.13%, Tesla -17.81%, Amazon -6.12%, AXP -8.21%, Bitcoin -2.50%, and WTI +5.18% keep the board risk-off, while AMD/TSM/Nvidia and SCHD/VBR/VNQ preserve selectivity.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — S&P -0.61%, Nasdaq -2.13%, Tesla -17.81%, Amazon -6.12%, AXP -8.21%, and Bitcoin -1.09% keep the tape risk-off, while AMD/TSM/Nvidia and selected ETFs preserve selectivity.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Nasdaq -2.13%, Tesla -17.81%, Amazon and AXP weakness coexist with AMD/TSM/Nvidia strength and resilient ETF pockets.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Nasdaq -2.13%, Tesla -17.81%, Amazon and AXP weakness coexist with AMD/TSM/Nvidia strength and resilient ETF pockets.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Nasdaq -2.26%, Tesla -16.33%, Amazon -7.44%, AI chips, Bitcoin, and WTI weaken while Dow/Russell and dividend/value/REIT/quality pockets stay green.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Nasdaq -2.26%, Tesla -16.33%, Amazon -7.44%, AI chips, Bitcoin, and WTI weaken while Dow/Russell and dividend/value/REIT/quality pockets stay green.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Nasdaq **-2.26%**, Tesla **-16.33%**, Amazon **-7.44%**, chips, Bitcoin, and WTI are weak while Dow/Russell and dividend/value/REIT/quality pockets hold up.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Nasdaq **-2.26%**, Tesla **-16.33%**, Amazon **-7.44%**, chips, Bitcoin, and WTI are weak while Dow/Russell and dividend/value/REIT/quality pockets hold up.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Nasdaq -3.72%, AMD -16.50%, Tesla -18.87%, TSM/Nvidia/Amazon weakness, and WTI -14.17% contrast with Dow, SCHD, VBR, VNQ, Berkshire, Schwab, Costco, PayPal, and Netflix strength.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Nasdaq -3.72%, AMD -16.50%, Tesla -18.87%, TSM/Nvidia/Amazon weakness, and WTI -14.17% contrast with Dow, SCHD, VBR, VNQ, Berkshire, Schwab, Costco, PayPal, and Netflix strength.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Nasdaq -4.42%, AMD -22.64%, Tesla -19.55%, TSM/Nvidia/Amazon weakness, and WTI -5.02% contrast with green SCHD/VBR/VNQ/Berkshire/Schwab/Costco/PayPal/Netflix pockets.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Fed Day closes as a sharper Nasdaq/AI-chip/high-beta selloff while dividend/value/REIT and quality pockets remain resilient.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Nasdaq -4.42%, AMD -22.64%, Tesla -19.55%, TSM/Nvidia/Amazon weakness, and WTI -5.02% contrast with green SCHD/VBR/VNQ/Berkshire/Schwab/Costco/PayPal/Netflix pockets.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Fed Day closes as a sharper Nasdaq/AI-chip/high-beta selloff while dividend/value/REIT and quality pockets remain resilient.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Nasdaq falls 4.86% and AMD/TSLA/TSM/NVDA are major alerts, while SCHD/VBR/VNQ, Berkshire, Schwab, Costco, PayPal, and Netflix preserve selective demand.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Daytime confirms the same selective regime: Nasdaq -4.86%, AMD -22.23%, Tesla -20.24%, TSM/Nvidia/Amazon weakness, and UPS pressure coexist with green SCHD/VBR/VNQ, Berkshire, Schwab, Costco, PayPal, and Netflix.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Nasdaq falls 4.86% and AMD/TSLA/TSM/NVDA are major alerts, while SCHD/VBR/VNQ, Berkshire, Schwab, Costco, PayPal, and Netflix preserve selective demand.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Daytime confirms the same selective regime: Nasdaq -4.86%, AMD -22.23%, Tesla -20.24%, TSM/Nvidia/Amazon weakness, and UPS pressure coexist with green SCHD/VBR/VNQ, Berkshire, Schwab, Costco, PayPal, and Netflix.
 
 ## Related Concepts
 

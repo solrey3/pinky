@@ -15,7 +15,7 @@ Starbucks is a global coffee retail chain. In the newsletter graph it appears as
 
 ## Sources
 
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Starbucks is a global coffee retail chain. In the newsletter graph it appears as a consumer/retail earnings signal.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Starbucks is a global coffee retail chain. In the newsletter graph it appears as a consumer/retail earnings signal.
 
 ## Related
 

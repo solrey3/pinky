@@ -15,7 +15,7 @@ A major East Asian economy and technology-manufacturing power. In the newsletter
 
 ## Sources
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Reported plan to spend **$1T** on memory-chip production and humanoid robots, reinforcing national industrial-policy competition around AI infrastructure.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Reported plan to spend **$1T** on memory-chip production and humanoid robots, reinforcing national industrial-policy competition around AI infrastructure.
 
 ## Related
 

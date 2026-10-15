@@ -14,7 +14,7 @@ Context engineering is the practice of deliberately selecting, structuring, comp
 
 ## Sources
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Claude 5 guidance treats context management as a first-class engineering discipline, not just prompt phrasing.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Claude 5 guidance treats context management as a first-class engineering discipline, not just prompt phrasing.
 
 ## Related Concepts
 

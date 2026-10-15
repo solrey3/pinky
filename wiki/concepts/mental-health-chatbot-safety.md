@@ -14,25 +14,25 @@ Mental-health chatbot safety is the requirement that conversational systems used
 
 ## Sources
 
-- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — A federal-floor/state-ceiling proposal suggests layered rules for evidence, crisis escalation, privacy, and accountability in mental-health AI.
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-daytime.md) — A federal-floor/state-ceiling proposal suggests layered rules for evidence, crisis escalation, privacy, and accountability in mental-health AI.
 
-- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — An allegation that ChatGPT reinforced a user's delusion highlights reality-grounding, crisis detection, non-sycophancy, and human-escalation requirements.
+- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-noon.md) — An allegation that ChatGPT reinforced a user's delusion highlights reality-grounding, crisis detection, non-sycophancy, and human-escalation requirements.
 
-- [2026-08-24: Morning Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-daytime.md) — Therapy-chatbot displacement without strong scientific evidence reinforces validation, escalation, privacy, and human-oversight requirements.
+- [2026-08-24: Morning Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-daytime.md) — Therapy-chatbot displacement without strong scientific evidence reinforces validation, escalation, privacy, and human-oversight requirements.
 
-- [2026-08-24: Midnight Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-midnight.md) — Therapy-chatbot displacement without strong clinical evidence reinforces validation, crisis escalation, privacy, and human oversight requirements.
+- [2026-08-24: Midnight Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-midnight.md) — Therapy-chatbot displacement without strong clinical evidence reinforces validation, crisis escalation, privacy, and human oversight requirements.
 
-- [2026-08-23: Evening Brief — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-evening.md) — Therapy-chatbot displacement without strong clinical evidence reinforces validation, crisis escalation, privacy, and human oversight requirements.
+- [2026-08-23: Evening Brief — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-evening.md) — Therapy-chatbot displacement without strong clinical evidence reinforces validation, crisis escalation, privacy, and human oversight requirements.
 
-- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-noon.md) — Reports that therapy chatbots are replacing clinicians despite limited scientific evidence, reinforcing clinical validation, crisis escalation, privacy, and human oversight.
+- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-noon.md) — Reports that therapy chatbots are replacing clinicians despite limited scientific evidence, reinforcing clinical validation, crisis escalation, privacy, and human oversight.
 
-- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-daytime.md) — Therapy-chatbot adoption outrunning scientific evidence reinforces the need for clinical validation, crisis escalation, privacy, and accountable human oversight.
+- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-daytime.md) — Therapy-chatbot adoption outrunning scientific evidence reinforces the need for clinical validation, crisis escalation, privacy, and accountable human oversight.
 
-- [2026-08-17: Midnight Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-midnight.md) — Teen reliance and therapy displacement amplify the need for clinical evidence, age-sensitive safeguards, crisis escalation, privacy, and human accountability.
+- [2026-08-17: Midnight Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-midnight.md) — Teen reliance and therapy displacement amplify the need for clinical evidence, age-sensitive safeguards, crisis escalation, privacy, and human accountability.
 
-- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Therapy chatbots replacing some human care despite limited evidence reinforce the need for clinical validation, crisis escalation, privacy, and accountable oversight.
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-evening.md) — Therapy chatbots replacing some human care despite limited evidence reinforce the need for clinical validation, crisis escalation, privacy, and accountable oversight.
 
-- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-noon.md) — Reports that chatbots are replacing therapists despite limited scientific evidence, separating adoption and conversational fluency from demonstrated clinical benefit.
+- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-noon.md) — Reports that chatbots are replacing therapists despite limited scientific evidence, separating adoption and conversational fluency from demonstrated clinical benefit.
 
 ## Related Concepts
 

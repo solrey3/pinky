@@ -21,5 +21,5 @@ source_count: 2
 
 ## Sources
 
-- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Pixies announce 'Bossanova' and 'Trompe le Monde' reissues with unreleased tracks. Both are key albums in the Pixies catalog; unreleased material from this era is genuinely rare.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletters/newsletter-2026-06-04-evening.md) — Pixies announce 'Bossanova' and 'Trompe le Monde' reissues with unreleased tracks. Both are key albums in the Pixies catalog; unreleased material from this era is genuinely rare.
 

@@ -15,7 +15,7 @@ CNN journalist tracked when press-politics conflict enters the newsletter graph.
 
 ## Sources
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Named in coverage of Trump's WHCA dinner speech jabs.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Named in coverage of Trump's WHCA dinner speech jabs.
 
 ## Related
 

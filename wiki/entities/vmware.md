@@ -15,7 +15,7 @@ VMware is an enterprise virtualization and private-cloud platform. In the newsle
 
 ## Sources
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — T-Mobile's reported move of tens of thousands of VMs off VMware makes post-acquisition platform dependence and migration cost a live enterprise-infrastructure issue.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — T-Mobile's reported move of tens of thousands of VMs off VMware makes post-acquisition platform dependence and migration cost a live enterprise-infrastructure issue.
 
 ## Related
 

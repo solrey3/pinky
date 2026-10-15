@@ -15,7 +15,7 @@ The New York Times is tracked as a journalism institution when reporting, subpoe
 
 ## Sources
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The paper files a motion to quash subpoenas tied to Air Force One coverage, placing it directly in the press-freedom thread.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — The paper files a motion to quash subpoenas tied to Air Force One coverage, placing it directly in the press-freedom thread.
 
 ## Related
 

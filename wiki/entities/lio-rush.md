@@ -15,7 +15,7 @@ Lio Rush is tracked as a pro wrestler appearing in ROH and broader wrestling-new
 
 ## Sources
 
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Mentioned in ROH TV results coverage for the July 23 episode.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Mentioned in ROH TV results coverage for the July 23 episode.
 
 ## Related
 

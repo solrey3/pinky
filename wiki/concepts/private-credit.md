@@ -14,9 +14,9 @@ Privately negotiated lending conducted outside public bond markets and conventio
 
 ## Sources
 
-- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Reports regulatory scrutiny of a private-equity firm's private-credit exposure, sharpening questions about concentration, leverage, valuation, and liquidity without demonstrating a systemwide crisis.
+- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-evening.md) — Reports regulatory scrutiny of a private-equity firm's private-credit exposure, sharpening questions about concentration, leverage, valuation, and liquidity without demonstrating a systemwide crisis.
 
-- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-midnight.md) — Frames rapid private-credit growth as a source of public scrutiny over opaque risk outside traditional banking.
+- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-midnight.md) — Frames rapid private-credit growth as a source of public scrutiny over opaque risk outside traditional banking.
 
 ## Related Concepts
 

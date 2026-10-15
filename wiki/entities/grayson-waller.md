@@ -15,7 +15,7 @@ Grayson Waller is a WWE performer tracked when NXT/WWE television and storyline 
 
 ## Sources
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — NXT fallout centers on a Grayson Waller pipe-bomb-style promo/result thread.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — NXT fallout centers on a Grayson Waller pipe-bomb-style promo/result thread.
 
 ## Related
 

@@ -15,15 +15,15 @@ Mike Santana is tracked as a wrestling free-agency and TNA-adjacent news node.
 
 ## Sources
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — A “7/15” post is interpreted as a free-agency hint.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — A “7/15” post is interpreted as a free-agency hint.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Mike Santana is noted as no longer appearing on the TNA roster page.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Mike Santana is noted as no longer appearing on the TNA roster page.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Mike Santana is reported as joining NXT, while TNA publicly congratulates him on the move.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Mike Santana is reported as joining NXT, while TNA publicly congratulates him on the move.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Mike Santana appears through the NXT rebrand to Cruz Montana.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Mike Santana appears through the NXT rebrand to Cruz Montana.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — NXT headline says Mike Santana has a new NXT name, Cruz Montana.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — NXT headline says Mike Santana has a new NXT name, Cruz Montana.
 
 ## Related
 

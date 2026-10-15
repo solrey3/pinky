@@ -14,39 +14,39 @@ Foodborne outbreaks are illness clusters tied to contaminated food products, sou
 
 ## Sources
 
-- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-noon.md) — The lettuce-linked cyclospora investigation widens to 20 states, raising the stakes for produce traceability and public communication.
+- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-noon.md) — The lettuce-linked cyclospora investigation widens to 20 states, raising the stakes for produce traceability and public communication.
 
-- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-noon.md) — CDC-linked reporting puts the cyclosporiasis case count at 15,716, increasing the importance of traceable case definitions, source attribution, and public correction channels.
+- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-noon.md) — CDC-linked reporting puts the cyclosporiasis case count at 15,716, increasing the importance of traceable case definitions, source attribution, and public correction channels.
 
-- [2026-08-17: Midnight Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-midnight.md) — Raw milk's renewed popularity despite health warnings shows consumer enthusiasm diverging from established pathogen and outbreak risk.
+- [2026-08-17: Midnight Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-midnight.md) — Raw milk's renewed popularity despite health warnings shows consumer enthusiasm diverging from established pathogen and outbreak risk.
 
-- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — Foodborne-illness fears reportedly increase farmers’ market visits, showing consumer substitution in response to perceived supply-chain risk.
+- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-noon.md) — Foodborne-illness fears reportedly increase farmers’ market visits, showing consumer substitution in response to perceived supply-chain risk.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — CDC-linked reporting traces a multistate salmonella outbreak to Mexican jalapeños, reinforcing produce-source provenance and public warning workflows.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — CDC-linked reporting traces a multistate salmonella outbreak to Mexican jalapeños, reinforcing produce-source provenance and public warning workflows.
 
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Chipotle’s jalapeño pull after a salmonella investigation shows outbreak tracing changing restaurant operations.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Michigan officials confirm two deaths tied to cyclosporiasis, making outbreak surveillance and public-health provenance central.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Robert Redfield’s cyclospora comments broaden the produce-risk frame beyond lettuce and keep foodborne provenance active.
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Taylor Farms' iceberg-lettuce pull amid cyclosporiasis coverage connects produce sourcing, illness surveillance, recall execution, and possible grocery-price effects.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Chipotle’s jalapeño pull after a salmonella investigation shows outbreak tracing changing restaurant operations.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Michigan officials confirm two deaths tied to cyclosporiasis, making outbreak surveillance and public-health provenance central.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Robert Redfield’s cyclospora comments broaden the produce-risk frame beyond lettuce and keep foodborne provenance active.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Taylor Farms' iceberg-lettuce pull amid cyclosporiasis coverage connects produce sourcing, illness surveillance, recall execution, and possible grocery-price effects.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Taylor Farms removing all central-Mexico iceberg lettuce extends the cyclospora outbreak thread from illness surveillance to sourcing and recall execution.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Taylor Farms removing all central-Mexico iceberg lettuce extends the cyclospora outbreak thread from illness surveillance to sourcing and recall execution.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Taylor Farms expands the lettuce recall to 27 states, turning the outbreak thread into a wider recall-scope and consumer-notification problem.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Taylor Farms expands the lettuce recall to 27 states, turning the outbreak thread into a wider recall-scope and consumer-notification problem.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — FDA-linked lettuce/cyclospora reporting extends the recurring produce-contamination and recall-execution thread.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — FDA-linked lettuce/cyclospora reporting extends the recurring produce-contamination and recall-execution thread.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — FDA says the positive cyclospora lettuce test was a false alarm, showing why outbreak workflows need correction channels as much as alert channels.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The Taco Bell/cyclospora lawsuit extends the Taylor Farms/lettuce/public-health provenance thread from recall coverage into litigation.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — FDA says the positive cyclospora lettuce test was a false alarm, showing why outbreak workflows need correction channels as much as alert channels.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — The Taco Bell/cyclospora lawsuit extends the Taylor Farms/lettuce/public-health provenance thread from recall coverage into litigation.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The FDA tracks a second cyclospora outbreak with 72 cases, extending the outbreak thread from lettuce-test corrections into fresh surveillance.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — FDA investigation of a second cyclospora outbreak extends the food-safety surveillance thread.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Scott Gottlieb says the cyclospora outbreak is not under control, keeping FDA communication and food-supply traceability in view.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — The FDA tracks a second cyclospora outbreak with 72 cases, extending the outbreak thread from lettuce-test corrections into fresh surveillance.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — FDA investigation of a second cyclospora outbreak extends the food-safety surveillance thread.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Scott Gottlieb says the cyclospora outbreak is not under control, keeping FDA communication and food-supply traceability in view.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — CDC-linked coverage says the cyclospora outbreak has widened to nine states.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — CDC-linked coverage says the cyclospora outbreak has widened to nine states.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Cyclospora coverage links outbreak risk to consolidated food distribution, keeping supply-chain traceability and public-health communication active.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Cyclospora coverage links outbreak risk to consolidated food distribution, keeping supply-chain traceability and public-health communication active.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Cyclospora coverage shows consumer behavior changing, with a poll reporting reduced produce buying.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Cyclospora coverage shows consumer behavior changing, with a poll reporting reduced produce buying.
 
 ## Related Concepts
 

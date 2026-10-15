@@ -15,8 +15,8 @@ Becky Lynch is a WWE wrestler tracked for roster, television, and championship-s
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Her Raw return is repeated as part of the post-SummerSlam WWE headline stack.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Returns on WWE Raw alongside Stephanie Vaquer, making her part of the post-SummerSlam television reset.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Her Raw return is repeated as part of the post-SummerSlam WWE headline stack.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Returns on WWE Raw alongside Stephanie Vaquer, making her part of the post-SummerSlam television reset.
 
 ## Related
 

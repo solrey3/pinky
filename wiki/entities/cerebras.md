@@ -15,11 +15,11 @@ Cerebras Systems is an AI-compute company known for wafer-scale processors and h
 
 ## Sources
 
-- [2026-08-19: Morning Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-daytime.md) — The CS-4 announcement extends Cerebras's specialized AI-compute product line.
+- [2026-08-19: Morning Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-daytime.md) — The CS-4 announcement extends Cerebras's specialized AI-compute product line.
 
-- [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-midnight.md) — Cerebras's GPT-5.6 Sol work highlights ultrafast inference on specialized compute.
+- [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-midnight.md) — Cerebras's GPT-5.6 Sol work highlights ultrafast inference on specialized compute.
 
-- [2026-08-13: Evening Brief — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-evening.md) — Cerebras describes accelerating GPT-5.6 Sol for ultrafast inference.
+- [2026-08-13: Evening Brief — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-evening.md) — Cerebras describes accelerating GPT-5.6 Sol for ultrafast inference.
 
 ## Related
 

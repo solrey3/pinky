@@ -15,9 +15,9 @@ AI protein-structure system associated with biological modeling and protein-desi
 
 ## Sources
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Researchers use AlphaFold AI to redesign gene-editing proteins for safer behavior.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Researchers use AlphaFold AI to redesign gene-editing proteins for safer behavior.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Used to redesign gene-editing proteins with a safer-design framing.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Used to redesign gene-editing proteins with a safer-design framing.
 
 ## Related
 

@@ -14,15 +14,15 @@ AI-assisted scientific discovery uses machine-learning systems to generate hypot
 
 ## Sources
 
-- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Reports mathematicians' criticism of how OpenAI presented results on more than 300 problems, reinforcing that candidate proofs require novelty checks, attribution, expert review, and correction records.
+- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-midnight.md) — Reports mathematicians' criticism of how OpenAI presented results on more than 300 problems, reinforcing that candidate proofs require novelty checks, attribution, expert review, and correction records.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Reports that Opus 5.5 agents identified two candidate room-temperature magnetic semiconductors; synthesis, measurement, replication, and review remain necessary before treating candidates as discoveries.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Reports that Opus 5.5 agents identified two candidate room-temperature magnetic semiconductors; synthesis, measurement, replication, and review remain necessary before treating candidates as discoveries.
 
-- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Again repeats Anthropic's enzyme-system claim; coverage recurrence does not supply experimental validation or independent corroboration.
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-daytime.md) — Again repeats Anthropic's enzyme-system claim; coverage recurrence does not supply experimental validation or independent corroboration.
 
-- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Repeats Anthropic's enzyme-system claim without adding experimental validation; repeated coverage is not independent corroboration.
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-midnight.md) — Repeats Anthropic's enzyme-system claim without adding experimental validation; repeated coverage is not independent corroboration.
 
-- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Anthropic reports that Claude identified a novel enzyme system with CRISPR-like repeats; the newsletter establishes the claim's existence, not experimental or independent validation.
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-evening.md) — Anthropic reports that Claude identified a novel enzyme system with CRISPR-like repeats; the newsletter establishes the claim's existence, not experimental or independent validation.
 
 ## Related Concepts
 

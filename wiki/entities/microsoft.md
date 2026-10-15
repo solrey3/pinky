@@ -43,80 +43,80 @@ Microsoft's AI posture in 2026 is notably layered: it holds a major equity stake
 
 ## Sources
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Reportedly loses eligibility to sponsor foreign workers for U.S. permanent residency, connecting immigration enforcement with skilled-labor access and employer compliance.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — Reportedly loses eligibility to sponsor foreign workers for U.S. permanent residency, connecting immigration enforcement with skilled-labor access and employer compliance.
 
-- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Again surfaces AI-oriented hardware and Windows coverage through a June-dated link that does not independently establish an October 8 debut.
+- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-daytime.md) — Again surfaces AI-oriented hardware and Windows coverage through a June-dated link that does not independently establish an October 8 debut.
 
-- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Resurfaces AI-oriented hardware and Windows coverage through a June-dated link, so it does not independently establish a new October 8 launch.
+- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-midnight.md) — Resurfaces AI-oriented hardware and Windows coverage through a June-dated link, so it does not independently establish a new October 8 launch.
 
-- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — A researcher claims an access-control failure could have exposed 17 trillion records; the scale, affected services, exploitability, and remediation require primary technical confirmation.
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-noon.md) — A researcher claims an access-control failure could have exposed 17 trillion records; the scale, affected services, exploitability, and remediation require primary technical confirmation.
 
-- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Community groups seek local benefits tied to data-center costs, making host-community consent and burden sharing part of AI infrastructure deployment.
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-noon.md) — Community groups seek local benefits tied to data-center costs, making host-community consent and burden sharing part of AI infrastructure deployment.
 
-- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Disrupts an AI-assisted cybercrime platform reportedly tied to 12,000 compromised accounts, linking AI abuse to credential and infrastructure enforcement.
+- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-evening.md) — Disrupts an AI-assisted cybercrime platform reportedly tied to 12,000 compromised accounts, linking AI abuse to credential and infrastructure enforcement.
 
-- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-noon.md) — Rust's reported Tier-1 status signals deeper institutional support for memory-safe systems development.
+- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-noon.md) — Rust's reported Tier-1 status signals deeper institutional support for memory-safe systems development.
 
-- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Extends its longest stock-market winning streak of the year as AI-software fears ease.
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-daytime.md) — Extends its longest stock-market winning streak of the year as AI-software fears ease.
 
-- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Extends its longest stock-market winning streak of the year as AI-software fears ease.
+- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-midnight.md) — Extends its longest stock-market winning streak of the year as AI-software fears ease.
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — MarketWatch frames Microsoft as having a rare 26-year-style stock run that erases year-to-date losses.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears through feed and sysadmin items, including WinUI Print Management chatter.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Yahoo Finance frames Microsoft’s AI cybersecurity push as a potential growth driver for MSFT stock.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — MarketWatch frames Microsoft as having a rare 26-year-style stock run that erases year-to-date losses.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Appears through feed and sysadmin items, including WinUI Print Management chatter.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Yahoo Finance frames Microsoft’s AI cybersecurity push as a potential growth driver for MSFT stock.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Microsoft appears through Windows 11 memory-optimization feed chatter.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Microsoft appears through Windows 11 memory-optimization feed chatter.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Flint is presented as a visualization language for the AI era, extending Microsoft’s developer-tooling footprint.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Flint is presented as a visualization language for the AI era, extending Microsoft’s developer-tooling footprint.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Flint appears as Microsoft’s AI-era visualization-language experiment on the tech desk.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Flint appears as Microsoft’s AI-era visualization-language experiment on the tech desk.
 
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Appears as the patch-capacity side of the Anthropic vulnerability-discovery item.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Appears as the patch-capacity side of the Anthropic AI-assisted vulnerability-discovery story.
-- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Microsoft launches MAI-Code-1-Flash (coding model) and MAI-Thinking-1 (reasoning model) the same afternoon; HN lights up with 279 points on the Code launch.
-- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — **Microsoft Build 2026**: MAI-Code-1-Flash (470 HN pts); **Linux tools** for Windows devs; **RTX Spark desktop** integration. Concurrent VSCode GitHub token-stealing exploit (1-click; HN 402 pts) — patch required.
-- [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **Microsoft + Atom Computing quantum computing progress update** (Ars Technica). Also EeroQ referenced. Quiet but steady advancement — the quantum era inches forward.
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Microsoft/Atom Computing/EeroQ coverage promises useful quantum error correction by 2028, giving the quantum roadmap a concrete date to track.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — The same useful quantum error correction by 2028 claim repeats in the AI desk, turning the date into a watchlist milestone rather than a one-off headline.
-- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Microsoft open-sources pg_durable** — in-database durable execution for Postgres (HN 245 pts). Drop persistent, transactional workflow orchestration directly into a Postgres instance without sidecars. A new pattern for teams already on Postgres: durable execution without a separate service like Temporal or Conductor.
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories were reportedly laced with credential stealers, with Azure Functions action and 72 other repositories disabled after a supply-chain attack targeting AI coding agents.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — TechCrunch/HN item framed the same compromise as Microsoft open-source tools hacked to steal passwords from AI developers, keeping supply-chain trust at the top of the AI desk.
-- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — A critical GitHub Copilot vulnerability reportedly allowed 2FA-code theft, adding authentication-adjacent AI coding assistants to Microsoft's security surface.
-- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Microsoft reports a lightweight crypto-clipper/backdoor that uses Tor and worm-like propagation, extending the Microsoft security thread from developer identity into wallet/clipboard malware and endpoint persistence.
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The crypto-clipper/backdoor remains the evening AI/security anchor, reinforcing wallet/clipboard monitoring and Tor-based persistence as practical endpoint concerns.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — The same crypto-clipper/backdoor item remains in the morning tech desk, keeping wallet-address substitution, clipboard monitoring, Tor control, and worm-like propagation in Microsoft's security-research thread.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — The crypto-clipper/backdoor story persists into the evening dispatch, turning wallet/clipboard hygiene and Tor/persistence monitoring into a repeated operational checklist item.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — The crypto-clipper/backdoor item repeats again, confirming wallet-address verification, clipboard skepticism, Tor egress monitoring, and persistence review as durable operator controls.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Appears as the patch-capacity side of the Anthropic vulnerability-discovery item.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Appears as the patch-capacity side of the Anthropic AI-assisted vulnerability-discovery story.
+- [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletters/newsletter-2026-06-02-evening.md) — Microsoft launches MAI-Code-1-Flash (coding model) and MAI-Thinking-1 (reasoning model) the same afternoon; HN lights up with 279 points on the Code launch.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletters/newsletter-2026-06-03.md) — **Microsoft Build 2026**: MAI-Code-1-Flash (470 HN pts); **Linux tools** for Windows devs; **RTX Spark desktop** integration. Concurrent VSCode GitHub token-stealing exploit (1-click; HN 402 pts) — patch required.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletters/newsletter-2026-06-04-evening.md) — **Microsoft + Atom Computing quantum computing progress update** (Ars Technica). Also EeroQ referenced. Quiet but steady advancement — the quantum era inches forward.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — Microsoft/Atom Computing/EeroQ coverage promises useful quantum error correction by 2028, giving the quantum roadmap a concrete date to track.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — The same useful quantum error correction by 2028 claim repeats in the AI desk, turning the date into a watchlist milestone rather than a one-off headline.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — **Microsoft open-sources pg_durable** — in-database durable execution for Postgres (HN 245 pts). Drop persistent, transactional workflow orchestration directly into a Postgres instance without sidecars. A new pattern for teams already on Postgres: durable execution without a separate service like Temporal or Conductor.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — Microsoft-linked packages/repositories were reportedly laced with credential stealers, with Azure Functions action and 72 other repositories disabled after a supply-chain attack targeting AI coding agents.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — TechCrunch/HN item framed the same compromise as Microsoft open-source tools hacked to steal passwords from AI developers, keeping supply-chain trust at the top of the AI desk.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletters/newsletter-2026-06-16-evening.md) — A critical GitHub Copilot vulnerability reportedly allowed 2FA-code theft, adding authentication-adjacent AI coding assistants to Microsoft's security surface.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-19.md) — Microsoft reports a lightweight crypto-clipper/backdoor that uses Tor and worm-like propagation, extending the Microsoft security thread from developer identity into wallet/clipboard malware and endpoint persistence.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — The crypto-clipper/backdoor remains the evening AI/security anchor, reinforcing wallet/clipboard monitoring and Tor-based persistence as practical endpoint concerns.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — The same crypto-clipper/backdoor item remains in the morning tech desk, keeping wallet-address substitution, clipboard monitoring, Tor control, and worm-like propagation in Microsoft's security-research thread.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — The crypto-clipper/backdoor story persists into the evening dispatch, turning wallet/clipboard hygiene and Tor/persistence monitoring into a repeated operational checklist item.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — The crypto-clipper/backdoor item repeats again, confirming wallet-address verification, clipboard skepticism, Tor egress monitoring, and persistence review as durable operator controls.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Microsoft's crypto-clipper/backdoor item persists into the evening dispatch, keeping wallet-address verification, clipboard distrust, Tor monitoring, and persistence review active.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Microsoft's crypto-clipper/backdoor item persists into the evening dispatch, keeping wallet-address verification, clipboard distrust, Tor monitoring, and persistence review active.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — The New York Times/OpenAI complaint alleges Microsoft built copyright-infringing supercomputer capacity for OpenAI, tying Microsoft AI infrastructure to copyright and platform-liability risk.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — The New York Times/OpenAI complaint alleges Microsoft built copyright-infringing supercomputer capacity for OpenAI, tying Microsoft AI infrastructure to copyright and platform-liability risk.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — The New York Times/OpenAI complaint again alleges Microsoft built disputed supercomputer capacity for OpenAI, tying Microsoft AI infrastructure to copyright and platform-liability risk.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — The New York Times/OpenAI complaint again alleges Microsoft built disputed supercomputer capacity for OpenAI, tying Microsoft AI infrastructure to copyright and platform-liability risk.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — The NYT/OpenAI complaint again alleges Microsoft built disputed supercomputer capacity for OpenAI, keeping AI infrastructure inside copyright-liability risk.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — The NYT/OpenAI complaint again alleges Microsoft built disputed supercomputer capacity for OpenAI, keeping AI infrastructure inside copyright-liability risk.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Microsoft's 2025 emissions rise **25%** as AI data centers expand, making it the edition's clearest AI energy-demand example.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Microsoft's 2025 emissions rise **25%** as AI data centers expand, making it the edition's clearest AI energy-demand example.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — A record Microsoft patch release appears alongside a same-day Windows 0-day, reinforcing patch volume as necessary but not sufficient security work.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — A record Microsoft patch release appears alongside a same-day Windows 0-day, reinforcing patch volume as necessary but not sufficient security work.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — A Windows 0-day arrives alongside a record 570 security patches, underscoring patch discipline and attack-surface management.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — A Windows 0-day arrives alongside a record 570 security patches, underscoring patch discipline and attack-surface management.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Microsoft open-sourcing Comic Chat adds a nostalgia/open-source artifact to the company's developer and platform history thread.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Microsoft open-sourcing Comic Chat adds a nostalgia/open-source artifact to the company's developer and platform history thread.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Microsoft open-sources Comic Chat, adding a preservation/open-source-software-history artifact to the company's platform graph.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Microsoft open-sources Comic Chat, adding a preservation/open-source-software-history artifact to the company's platform graph.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Microsoft joins Nvidia and Meta in warning against open-weight AI restrictions.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Microsoft joins Nvidia and Meta in warning against open-weight AI restrictions.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Microsoft earnings loom in coverage of AI-related bond cracks and AI capex credit risk.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Microsoft earnings loom in coverage of AI-related bond cracks and AI capex credit risk.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Pitches AI security tools as outperforming competing platforms, linking enterprise defense to AI-assisted threat modeling.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Pitches AI security tools as outperforming competing platforms, linking enterprise defense to AI-assisted threat modeling.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Pitches AI security tools while pending Big Tech earnings keep AI-capex questions in focus.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Pitches AI security tools while pending Big Tech earnings keep AI-capex questions in focus.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Appears as the patch-capacity counterparty in coverage of Anthropic finding vulnerabilities faster than Microsoft can fix them.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Faces patch-throughput pressure in coverage of Anthropic finding bugs faster than Microsoft can remediate them.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Appears as the patch-capacity counterparty in coverage of Anthropic finding vulnerabilities faster than Microsoft can fix them.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Faces patch-throughput pressure in coverage of Anthropic finding bugs faster than Microsoft can remediate them.
 
 ## Related
 

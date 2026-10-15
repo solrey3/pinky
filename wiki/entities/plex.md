@@ -15,7 +15,7 @@ A media-server and streaming platform used for personal media libraries and subs
 
 ## Sources
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Plex's five-year membership pass at $250 extends the streaming/platform pricing and self-hosted media economics thread.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Plex's five-year membership pass at $250 extends the streaming/platform pricing and self-hosted media economics thread.
 
 ## Related
 

@@ -15,8 +15,8 @@ U.S. Department of Homeland Security; appears here through a court order to rele
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Reason reports DHS is spending $1 billion on autonomous border-surveillance towers, extending the surveillance-infrastructure thread.
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — A federal judge orders DHS to release a witness tied to the Houston ICE shooting case.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Reason reports DHS is spending $1 billion on autonomous border-surveillance towers, extending the surveillance-infrastructure thread.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — A federal judge orders DHS to release a witness tied to the Houston ICE shooting case.
 
 ## Related
 

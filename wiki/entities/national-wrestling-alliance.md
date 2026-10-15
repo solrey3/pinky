@@ -15,7 +15,7 @@ Professional wrestling promotion tracked when newsletter coverage mentions NWA c
 
 ## Sources
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — NWA adds Nattie vs. Kenzie Paige vs. Kylie Paige at NWA 78 and an Empowerrr return item.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — NWA adds Nattie vs. Kenzie Paige vs. Kylie Paige at NWA 78 and an Empowerrr return item.
 
 ## Related
 

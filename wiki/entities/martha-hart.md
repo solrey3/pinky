@@ -15,7 +15,7 @@ Wrestling-linked public figure and widow of Owen Hart; appears here in AEW Redem
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Appears in AEW Redemption fallout through Mick Foley’s reunion comments.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Appears in AEW Redemption fallout through Mick Foley’s reunion comments.
 
 ## Related
 

@@ -15,87 +15,87 @@ American technology company behind the iPhone, Mac, iPad, Apple Watch, Siri, and
 
 ## Sources
 
-- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — Reports a Homeview smart-home hub, provisionally extending Apple's platform-control strategy into a shared household interface pending primary product documentation.
+- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-daytime.md) — Reports a Homeview smart-home hub, provisionally extending Apple's platform-control strategy into a shared household interface pending primary product documentation.
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
 
-- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-midnight.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
 
-- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-noon.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
+- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-noon.md) — Repeats reported full-disk-access restrictions intended to constrain AI-agent abuse through platform-level least privilege.
 
-- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — Repeats reported full-disk-access restrictions intended to reduce AI-agent abuse and enforce least privilege for local files.
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-daytime.md) — Repeats reported full-disk-access restrictions intended to reduce AI-agent abuse and enforce least privilege for local files.
 
-- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-midnight.md) — Reportedly tightens full-disk-access permissions to reduce AI-agent abuse, making local file access a least-privilege platform concern.
+- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-midnight.md) — Reportedly tightens full-disk-access permissions to reduce AI-agent abuse, making local file access a least-privilege platform concern.
 
-- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-midnight.md) — Reportedly considers M-series Ultra AI servers, extending Apple silicon toward vertically integrated data-center AI infrastructure.
+- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-midnight.md) — Reportedly considers M-series Ultra AI servers, extending Apple silicon toward vertically integrated data-center AI infrastructure.
 
-- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-evening.md) — Reportedly considers an M-series Ultra AI server, extending Apple silicon toward data-center AI infrastructure.
+- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-evening.md) — Reportedly considers an M-series Ultra AI server, extending Apple silicon toward data-center AI infrastructure.
 
-- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — Reportedly considers M-series Ultra AI servers, extending Apple silicon toward data-center AI infrastructure.
+- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-noon.md) — Reportedly considers M-series Ultra AI servers, extending Apple silicon toward data-center AI infrastructure.
 
-- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Reportedly considers M-series Ultra AI servers, extending Apple silicon from local devices toward data-center infrastructure.
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-daytime.md) — Reportedly considers M-series Ultra AI servers, extending Apple silicon from local devices toward data-center infrastructure.
 
-- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — Reportedly considers AI servers built around M-series Ultra chips, extending Apple silicon from local devices into data-center infrastructure.
+- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-midnight.md) — Reportedly considers AI servers built around M-series Ultra chips, extending Apple silicon from local devices into data-center infrastructure.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — Proposes Reference Image as a verification mechanism for photographic authenticity, extending Apple's security role into image provenance.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — Proposes Reference Image as a verification mechanism for photographic authenticity, extending Apple's security role into image provenance.
 
-- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — Releases iOS 27, iPadOS 27, and macOS 27 across its principal software platforms.
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-daytime.md) — Releases iOS 27, iPadOS 27, and macOS 27 across its principal software platforms.
 
-- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Releases iOS 27, iPadOS 27, and macOS 27 across its principal software platforms.
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-midnight.md) — Releases iOS 27, iPadOS 27, and macOS 27 across its principal software platforms.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Releases iOS 27 and macOS Golden Gate 27 with Siri AI and Liquid Glass refinements.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — Releases iOS 27 and macOS Golden Gate 27 with Siri AI and Liquid Glass refinements.
 
-- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — The iPhone Duo keeps Apple's entry into foldable phones at the center of the consumer-device cycle.
+- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-midnight.md) — The iPhone Duo keeps Apple's entry into foldable phones at the center of the consumer-device cycle.
 
-- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — The foldable iPhone remains the leading consumer-device story, with pricing tolerance central to the market response.
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-evening.md) — The foldable iPhone remains the leading consumer-device story, with pricing tolerance central to the market response.
 
-- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-noon.md) — The foldable iPhone remains the lead consumer-technology product story.
+- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-noon.md) — The foldable iPhone remains the lead consumer-technology product story.
 
-- [2026-09-10: Morning Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-daytime.md) — The foldable iPhone Duo dominates technology feeds and marks Apple's entry into foldable phones.
+- [2026-09-10: Morning Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-daytime.md) — The foldable iPhone Duo dominates technology feeds and marks Apple's entry into foldable phones.
 
-- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — A roughly $2,000 foldable iPhone, new leadership, and new pricing remain the reported next product-cycle and succession agenda.
+- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-midnight.md) — A roughly $2,000 foldable iPhone, new leadership, and new pricing remain the reported next product-cycle and succession agenda.
 
-- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-evening.md) — Reportedly unveils a $2,000 foldable iPhone, AirPods 5, new leadership and pricing, and a Siri conversation-recap capability.
+- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-evening.md) — Reportedly unveils a $2,000 foldable iPhone, AirPods 5, new leadership and pricing, and a Siri conversation-recap capability.
 
-- [2026-09-01: Noon Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-noon.md) — John Ternus reportedly succeeds Tim Cook as CEO, concentrating Apple's next strategic test on AI execution.
+- [2026-09-01: Noon Dispatch — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-noon.md) — John Ternus reportedly succeeds Tim Cook as CEO, concentrating Apple's next strategic test on AI execution.
 
-- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — Apple One and Apple TV subscription prices reportedly rise by as much as 20%, adding recurring-service affordability to the platform-pricing record.
+- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-evening.md) — Apple One and Apple TV subscription prices reportedly rise by as much as 20%, adding recurring-service affordability to the platform-pricing record.
 
-- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-midnight.md) — Introduces M6 and M5 Ultra as performance and AI-compute upgrades.
+- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-midnight.md) — Introduces M6 and M5 Ultra as performance and AI-compute upgrades.
 
-- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — Introduces M6 and M5 Ultra as performance and AI-compute upgrades.
+- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-evening.md) — Introduces M6 and M5 Ultra as performance and AI-compute upgrades.
 
-- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-noon.md) — Introduces M6 and M5 Ultra while positioning new Mac desktops for local AI inference and development.
+- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-noon.md) — Introduces M6 and M5 Ultra while positioning new Mac desktops for local AI inference and development.
 
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Siri/Apple Intelligence was a Hacker News item, and MacRumors reported Apple revealing an AI architecture built around Google Gemini models.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Gemini-backed architecture story persisted into the morning feed alongside macOS Golden Gate/Gemini Siri coverage.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — macOS 27 beta reportedly breaks Asahi Linux boot support, showing how Apple platform updates can disrupt alternate OS workflows on Apple Silicon.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Ars Technica's 20-year Intel Mac retrospective puts Apple's architecture strategy in context: PowerPC to Intel, then Intel to Apple Silicon.
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The Intel Mac retrospective remains in the morning feed, keeping Apple's architecture transitions visible as a long-run platform-control story.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Apple patches a high-severity eavesdropping vulnerability in Beats Studio Buds, showing that peripheral firmware belongs in the same security-maintenance perimeter as phones and Macs.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — Siri/Apple Intelligence was a Hacker News item, and MacRumors reported Apple revealing an AI architecture built around Google Gemini models.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — The Gemini-backed architecture story persisted into the morning feed alongside macOS Golden Gate/Gemini Siri coverage.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — macOS 27 beta reportedly breaks Asahi Linux boot support, showing how Apple platform updates can disrupt alternate OS workflows on Apple Silicon.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — Ars Technica's 20-year Intel Mac retrospective puts Apple's architecture strategy in context: PowerPC to Intel, then Intel to Apple Silicon.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — The Intel Mac retrospective remains in the morning feed, keeping Apple's architecture transitions visible as a long-run platform-control story.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — Apple patches a high-severity eavesdropping vulnerability in Beats Studio Buds, showing that peripheral firmware belongs in the same security-maintenance perimeter as phones and Macs.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apple appears through iOS 27 feature coverage and a Swift-in-the-kernel item, extending the platform story from consumer features into systems-language internals.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Apple appears through iOS 27 feature coverage and a Swift-in-the-kernel item, extending the platform story from consumer features into systems-language internals.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Apple raises prices on Macs and iPads, adding consumer-hardware affordability and platform-pricing pressure to the Apple thread.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — Apple raises prices on Macs and iPads, adding consumer-hardware affordability and platform-pricing pressure to the Apple thread.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Apple/WebKit introduces a Safari MCP server, tying browser developer tools to AI-assisted workflows and browser automation.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Apple/WebKit introduces a Safari MCP server, tying browser developer tools to AI-assisted workflows and browser automation.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Apple reportedly sues OpenAI over alleged trade-secret theft, moving Apple from AI-platform dependency into direct AI litigation and IP/provenance conflict.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Apple reportedly sues OpenAI over alleged trade-secret theft, moving Apple from AI-platform dependency into direct AI litigation and IP/provenance conflict.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — The Apple/OpenAI trade-secret lawsuit remains a lead AI-governance item, turning Apple into a direct litigant over AI provenance and employee movement.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — The Apple/OpenAI trade-secret lawsuit remains a lead AI-governance item, turning Apple into a direct litigant over AI provenance and employee movement.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Apple sues OpenAI after an ex-engineer allegedly used a bug to steal trade secrets, and its SpeechAnalyzer API appears in speech-recognition benchmarking.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Apple sues OpenAI after an ex-engineer allegedly used a bug to steal trade secrets, and its SpeechAnalyzer API appears in speech-recognition benchmarking.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — An Xcode-free Mac/iOS build-and-shipping workflow keeps Apple platform development tied to automation and terminal-centric tooling.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — An Xcode-free Mac/iOS build-and-shipping workflow keeps Apple platform development tied to automation and terminal-centric tooling.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — San Francisco ordering Apple to remove nudify apps turns App Store control into a local-enforcement and synthetic-media abuse issue.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — San Francisco ordering Apple to remove nudify apps turns App Store control into a local-enforcement and synthetic-media abuse issue.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Ships iOS/macOS 26.6 and remains in the platform-update and smart-glasses feed.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Ships iOS/macOS 26.6 and remains in the platform-update and smart-glasses feed.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through a new iPhone lease program and fake Sparrow Wallet app litigation in Bitcoin feeds.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appears through a new iPhone lease program and fake Sparrow Wallet app litigation in Bitcoin feeds.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
 ## Related
 

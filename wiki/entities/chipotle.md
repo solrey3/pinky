@@ -15,7 +15,7 @@ Chipotle is a fast-casual restaurant chain appearing here through food-safety an
 
 ## Sources
 
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Chipotle pulls jalapeños from some locations after a salmonella investigation, making food-safety provenance operationally visible.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Chipotle pulls jalapeños from some locations after a salmonella investigation, making food-safety provenance operationally visible.
 
 ## Related
 

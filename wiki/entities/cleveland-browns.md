@@ -15,9 +15,9 @@ NFL franchise.
 
 ## Sources
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — The Browns appear through Jerry Jeudy disputing a training-camp video.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — The Browns appear through Jerry Jeudy disputing a training-camp video.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Denzel Ward's two-year extension keeps the Browns in NFL contract news.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Denzel Ward's two-year extension keeps the Browns in NFL contract news.
 
 ## Related
 

@@ -15,16 +15,16 @@ The Federal Communications Commission is the U.S. telecommunications regulator. 
 
 ## Sources
 
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Reason reports an FCC ban on foreign-made robots, including Roombas, extending the agency from telecom identity and drone authorization into consumer-robotics equipment restriction.
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — An FCC proposal could require ID for prepaid burner phones, making telecom anonymity, fraud prevention, and privacy tradeoffs explicit.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Reason reports an FCC ban on foreign-made robots, including Roombas, extending the agency from telecom identity and drone authorization into consumer-robotics equipment restriction.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — An FCC proposal could require ID for prepaid burner phones, making telecom anonymity, fraud prevention, and privacy tradeoffs explicit.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Broadband fee-transparency rollback coverage shifts FCC relevance from telecom identity into consumer disclosure and hidden-cost policy.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Broadband fee-transparency rollback coverage shifts FCC relevance from telecom identity into consumer disclosure and hidden-cost policy.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Ars reports FCC officials accepted pricey Paramount gifts while the company needed deal approvals, making agency ethics and capture risk explicit.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Ars reports FCC officials accepted pricey Paramount gifts while the company needed deal approvals, making agency ethics and capture risk explicit.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — FCC gift-taking from Paramount while deal approvals were pending keeps the agency in the regulatory-capture and media-ethics thread.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — FCC gift-taking from Paramount while deal approvals were pending keeps the agency in the regulatory-capture and media-ethics thread.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — The FCC is reported as considering a ban on drones it had already approved for sale, making equipment authorization and later reversal an access-control/regulatory-risk case.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — The FCC is reported as considering a ban on drones it had already approved for sale, making equipment authorization and later reversal an access-control/regulatory-risk case.
 
 ## Related
 

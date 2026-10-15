@@ -15,7 +15,7 @@ Nonprofit certificate authority that provides automated, publicly trusted TLS ce
 
 ## Sources
 
-- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-evening.md) — Reportedly plans to shorten certificate lifetimes to 64 days in February 2027, increasing the importance of reliable automated renewal; the newsletter's general ACME link does not independently confirm the schedule.
+- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-evening.md) — Reportedly plans to shorten certificate lifetimes to 64 days in February 2027, increasing the importance of reliable automated renewal; the newsletter's general ACME link does not independently confirm the schedule.
 
 ## Related
 

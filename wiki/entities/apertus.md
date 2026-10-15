@@ -15,9 +15,9 @@ Apertus is tracked here as an open foundation model associated with the sovereig
 
 ## Sources
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apertus appears as an "Open Foundation Model for Sovereign AI," making it relevant to both open-weights/local-control strategy and institutional AI autonomy.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Apertus appears as an "Open Foundation Model for Sovereign AI," making it relevant to both open-weights/local-control strategy and institutional AI autonomy.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus again appears as an open foundation model for sovereign AI, confirming that the item is part of an ongoing model-control and institutional-autonomy thread.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Apertus again appears as an open foundation model for sovereign AI, confirming that the item is part of an ongoing model-control and institutional-autonomy thread.
 
 ## Related
 

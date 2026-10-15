@@ -15,13 +15,13 @@ Sony's console-gaming platform. In the newsletter graph, PlayStation is relevant
 
 ## Sources
 
-- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Repeats the reported retreat from physical discs, reinforcing digital distribution, preservation, resale, and platform-control concerns.
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-noon.md) — Repeats the reported retreat from physical discs, reinforcing digital distribution, preservation, resale, and platform-control concerns.
 
-- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — A renewed report of retreat from physical discs reinforces digital distribution, preservation, resale, and platform-control concerns.
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-daytime.md) — A renewed report of retreat from physical discs reinforces digital distribution, preservation, resale, and platform-control concerns.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Reported end of physical-disc production for new PlayStation games in January 2028 signals another hard move toward all-digital console distribution.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Reported end of physical-disc production for new PlayStation games in January 2028 signals another hard move toward all-digital console distribution.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Reported 2028 end of new-game physical-disc production stays in the feed, reinforcing PlayStation as a digital-distribution and preservation-risk platform.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — Reported 2028 end of new-game physical-disc production stays in the feed, reinforcing PlayStation as a digital-distribution and preservation-risk platform.
 
 ## Related
 

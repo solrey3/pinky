@@ -15,8 +15,8 @@ American professional golfer on the LPGA Tour and one of the defining players of
 
 ## Sources
 
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Won the **U.S. Women's Open presented by Ally** at -8, one shot clear of Charley Hull and Gaby Lopez at -7.
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Evening scoreboard repeats/locks the final board: Korda at -8, one clear of Charley Hull and Gaby Lopez.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — Won the **U.S. Women's Open presented by Ally** at -8, one shot clear of Charley Hull and Gaby Lopez at -7.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — Evening scoreboard repeats/locks the final board: Korda at -8, one clear of Charley Hull and Gaby Lopez.
 
 ## Related
 

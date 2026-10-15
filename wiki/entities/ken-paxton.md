@@ -15,7 +15,7 @@ Ken Paxton is a Texas Republican politician tracked here primarily through the 2
 
 ## Sources
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Appears in Fox News polling coverage showing James Talarico leading Paxton by three points in the Texas Senate race.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Appears in Fox News polling coverage showing James Talarico leading Paxton by three points in the Texas Senate race.
 
 ## Related
 

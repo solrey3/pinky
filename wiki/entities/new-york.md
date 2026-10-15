@@ -15,20 +15,20 @@ New York is tracked in the newsletter graph as a state-level policy and infrastr
 
 ## Sources
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — A judge rejects a school-requested red-flag order and no-knock search warrant against a 13-year-old, adding a civil-liberties boundary case.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — A judge rejects a school-requested red-flag order and no-knock search warrant against a 13-year-old, adding a civil-liberties boundary case.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — The state’s Kalshi action extends its role in regulating prediction markets and platform-like financial activity.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — The state’s Kalshi action extends its role in regulating prediction markets and platform-like financial activity.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — New York’s $36B claim against Kalshi turns prediction-market legality into a state-enforcement story.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — New York’s $36B claim against Kalshi turns prediction-market legality into a state-enforcement story.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — A first-in-the-nation statewide freeze on hyperscale data centers turns New York into a policy test case for AI infrastructure energy demand, grid capacity, and permitting restraint.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — A first-in-the-nation statewide freeze on hyperscale data centers turns New York into a policy test case for AI infrastructure energy demand, grid capacity, and permitting restraint.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Reuters/Ars coverage repeats New York's one-year data-center construction ban, confirming the state as a test case for AI infrastructure siting and grid constraints.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Reuters/Ars coverage repeats New York's one-year data-center construction ban, confirming the state as a test case for AI infrastructure siting and grid constraints.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — The data-center ban remains the state-level brake on AI infrastructure growth and power/permitting capacity.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — The data-center ban remains the state-level brake on AI infrastructure growth and power/permitting capacity.
 
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — A man is arrested after setting off an explosive outside a New York federal building.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — A man is arrested after setting off an explosive outside a New York federal building.
 
 ## Related
 

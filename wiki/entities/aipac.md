@@ -15,7 +15,7 @@ AIPAC is a U.S. pro-Israel advocacy and political fundraising organization. In t
 
 ## Sources
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — AIPAC halts fundraising for endorsed House Democrats who opposed Israel aid, turning the Israel-policy split into a campaign-finance signal.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — AIPAC halts fundraising for endorsed House Democrats who opposed Israel aid, turning the Israel-policy split into a campaign-finance signal.
 
 ## Related
 

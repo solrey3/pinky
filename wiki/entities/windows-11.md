@@ -15,9 +15,9 @@ Microsoft desktop operating system tracked here through platform and update-poli
 
 ## Sources
 
-- [2026-08-21: Morning Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-daytime.md) — A reported update causes game crashes and PC reboots, making update validation a platform-reliability issue.
+- [2026-08-21: Morning Dispatch — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-daytime.md) — A reported update causes game crashes and PC reboots, making update validation a platform-reliability issue.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Feed item says Microsoft is emphasizing memory optimization for 8GB PCs among Windows 11 focus areas.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Feed item says Microsoft is emphasizing memory optimization for 8GB PCs among Windows 11 focus areas.
 
 ## Related
 

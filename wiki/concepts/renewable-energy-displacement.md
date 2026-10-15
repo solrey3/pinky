@@ -14,7 +14,7 @@ The replacement of fossil-fuel consumption by renewable generation, distinct fro
 
 ## Sources
 
-- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — Highlights the gap between booming renewable deployment and the absence of a corresponding decline in fossil-fuel demand.
+- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-noon.md) — Highlights the gap between booming renewable deployment and the absence of a corresponding decline in fossil-fuel demand.
 
 ## Related Concepts
 

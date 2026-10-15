@@ -34,47 +34,47 @@ source_count: 23
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains in the Meltzer 6-star ledger.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed in the six-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains in the Meltzer 6-star ledger.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Listed in the six-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains the 6-star anchor in the Meltzer table.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains the 6-star anchor in the Meltzer table.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains listed as a 6-star Meltzer match.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains listed as a 6-star Meltzer match.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Okada remains in the Meltzer table for the six-star Wrestle Kingdom 20 match with Tanahashi.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Okada remains in the Meltzer table for the six-star Wrestle Kingdom 20 match with Tanahashi.
 
 - [2026-05-27: Raw notes](../../raw/people/kazuchika-okada.md)
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — The wrestling-rating table lists **Hiroshi Tanahashi vs. Kazuchika Okada** at NJPW Wrestle Kingdom 20 as the top 2026 match shown, rated 6 stars.
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The Meltzer 5-star table again lists Tanahashi vs. Okada at Wrestle Kingdom 20 as the newest fetched six-star benchmark.
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — The Meltzer 5-star-plus table again lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as the top 2026 match shown, rated 6 stars.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — The wrestling-rating table lists **Hiroshi Tanahashi vs. Kazuchika Okada** at NJPW Wrestle Kingdom 20 as the top 2026 match shown, rated 6 stars.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — The Meltzer 5-star table again lists Tanahashi vs. Okada at Wrestle Kingdom 20 as the newest fetched six-star benchmark.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — The Meltzer 5-star-plus table again lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as the top 2026 match shown, rated 6 stars.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Okada's Wrestle Kingdom 20 match with Hiroshi Tanahashi remains the table's **6-star** highlight.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Okada's Wrestle Kingdom 20 match with Hiroshi Tanahashi remains the table's **6-star** highlight.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Kazuchika Okada remains linked to the six-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Kazuchika Okada remains linked to the six-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Kazuchika Okada remains in the six-star Wrestle Kingdom 20 ratings marker against Hiroshi Tanahashi.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Kazuchika Okada remains in the six-star Wrestle Kingdom 20 ratings marker against Hiroshi Tanahashi.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Okada remains tied to the 6-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Okada remains tied to the 6-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Kazuchika Okada remains in the Meltzer ratings archive via the 6-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Kazuchika Okada remains in the Meltzer ratings archive via the 6-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Okada remains tied to the six-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Okada remains tied to the six-star Wrestle Kingdom 20 match against Hiroshi Tanahashi.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Okada remains tied to the Wrestle Kingdom 20 6-star match with Hiroshi Tanahashi.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Okada remains tied to the Wrestle Kingdom 20 6-star match with Hiroshi Tanahashi.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Kazuchika Okada remains in the Meltzer 5-star table through the 6-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Okada remains in the Wrestle Kingdom 20 six-star table with Hiroshi Tanahashi.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Kazuchika Okada remains in the Meltzer 5-star table through the 6-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Okada remains in the Wrestle Kingdom 20 six-star table with Hiroshi Tanahashi.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Okada remains attached to the six-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Okada remains attached to the six-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Okada’s Wrestle Kingdom 20 match with Tanahashi remains the 6-star table anchor.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Okada’s Wrestle Kingdom 20 match with Tanahashi remains the 6-star table anchor.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Okada remains the top listed Meltzer-rating item via the Wrestle Kingdom 20 match with Hiroshi Tanahashi.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Okada remains the top listed Meltzer-rating item via the Wrestle Kingdom 20 match with Hiroshi Tanahashi.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Kazuchika Okada remains in the Meltzer ratings table through the 6-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Okada vs. Tanahashi at Wrestle Kingdom 20 remains the six-star anchor in the ratings table.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Kazuchika Okada remains in the Meltzer ratings table through the 6-star Wrestle Kingdom 20 match with Hiroshi Tanahashi.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Okada vs. Tanahashi at Wrestle Kingdom 20 remains the six-star anchor in the ratings table.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains the 6-star anchor on the ratings board.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — His Wrestle Kingdom 20 match with Hiroshi Tanahashi remains the 6-star anchor on the ratings board.
 
 ## Related
 

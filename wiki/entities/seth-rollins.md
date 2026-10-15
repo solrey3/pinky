@@ -34,31 +34,31 @@ source_count: 14
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Loses to Roman Reigns in the SummerSlam Night 2 main event coverage.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Loses to Roman Reigns in the SummerSlam Night 2 main event.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Loses to Roman Reigns in the SummerSlam Night 2 main event coverage.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Loses to Roman Reigns in the SummerSlam Night 2 main event.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results advertise Seth Rollins vs. Roman Reigns as a card anchor.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results advertise Seth Rollins vs. Roman Reigns as a card anchor.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — WWE headline quotes him saying Roman Reigns calls him “Number Two.”
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — WWE headline quotes him saying Roman Reigns calls him “Number Two.”
 
-- [2026-06-01: Evening Brief — June 1, 2026](sources/newsletter-2026-06-01-evening.md) — **King of the Ring 2026, Raw (June 1):** Defeats Bron Breakker after Breakker speared Paul Heyman through a barricade, allowing Rollins to capitalize. Advances in the King of the Ring tournament. The Visionary gets a tournament slot on the same night the bracket opens.
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — WWE Raw coverage sets Rollins against Bron Breakker in a steel cage match at WWE Night of Champions.
+- [2026-06-01: Evening Brief — June 1, 2026](../sources/newsletters/newsletter-2026-06-01-evening.md) — **King of the Ring 2026, Raw (June 1):** Defeats Bron Breakker after Breakker speared Paul Heyman through a barricade, allowing Rollins to capitalize. Advances in the King of the Ring tournament. The Visionary gets a tournament slot on the same night the bracket opens.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — WWE Raw coverage sets Rollins against Bron Breakker in a steel cage match at WWE Night of Champions.
 - [2026-05-27: Raw notes](../../raw/people/seth-rollins.md)
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — A Seth Rollins and Roman Reigns contract signing is added to the July 13 WWE Raw card.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — A Seth Rollins and Roman Reigns contract signing is added to the July 13 WWE Raw card.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Seth Rollins is tied to the SummerSlam contract-signing angle opposite Roman Reigns.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Seth Rollins is tied to the SummerSlam contract-signing angle opposite Roman Reigns.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Seth Rollins takes down Roman Reigns with a Pedigree and Stomp after a Raw verbal exchange, extending their SummerSlam build.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Seth Rollins takes down Roman Reigns with a Pedigree and Stomp after a Raw verbal exchange, extending their SummerSlam build.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Seth Rollins is the target of Roman Reigns' SummerSlam storyline quote in the WWE headline stack.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Seth Rollins is the target of Roman Reigns' SummerSlam storyline quote in the WWE headline stack.
 
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Seth Rollins is announced to open WWE Raw, anchoring the Monday TV build.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Seth Rollins is announced to open WWE Raw, anchoring the Monday TV build.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Raw coverage centers on Seth Rollins opposite Roman Reigns in the SummerSlam build.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Raw coverage centers on Seth Rollins opposite Roman Reigns in the SummerSlam build.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raw coverage flags his face-off with Roman Reigns on the SummerSlam go-home show.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Raw coverage flags his face-off with Roman Reigns on the SummerSlam go-home show.
 
 ## Related
 

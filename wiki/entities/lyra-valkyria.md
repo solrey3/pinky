@@ -15,7 +15,7 @@ Lyra Valkyria is tracked as a WWE wrestler when TV/community-feed coverage appea
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Valkyria reacts to beating Bayley in the community feed.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Valkyria reacts to beating Bayley in the community feed.
 
 ## Related
 

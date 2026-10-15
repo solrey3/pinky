@@ -15,13 +15,13 @@ Matias Vanhanen is tracked as a Devils prospect when prospect-profile coverage a
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Vanhanen appears in a Devils prospects profile linked from the sports desk.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Vanhanen appears in a Devils prospects profile linked from the sports desk.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Vanhanen receives a Devils prospect-profile mention in the evening sports wire.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Vanhanen receives a Devils prospect-profile mention in the evening sports wire.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Devils prospect-profile coverage keeps Vanhanen in the team development graph.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Devils prospect-profile coverage keeps Vanhanen in the team development graph.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Named in a Devils prospect-profile batch in the sports wire.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Named in a Devils prospect-profile batch in the sports wire.
 
 ## Related
 

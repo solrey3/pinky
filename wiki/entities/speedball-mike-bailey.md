@@ -15,7 +15,7 @@ Professional wrestler tracked through AEW card-building and match announcements.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Bailey is booked against Kyle Fletcher for the International Title at AEW Grand Slam: Mexico 2026.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Bailey is booked against Kyle Fletcher for the International Title at AEW Grand Slam: Mexico 2026.
 
 ## Related
 

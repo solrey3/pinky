@@ -15,7 +15,7 @@ Seth Halvorsen is tracked as an MLB pitcher when transaction news appears.
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Halvorsen is acquired by the Dodgers in a trade with the Rockies.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Halvorsen is acquired by the Dodgers in a trade with the Rockies.
 
 ## Related
 

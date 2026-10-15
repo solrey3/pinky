@@ -15,7 +15,7 @@ Media personality and WWE performer; appears here through WWE title-talk coverag
 
 ## Sources
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Keeps WWE title talk loud in Fightful coverage.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Keeps WWE title talk loud in Fightful coverage.
 
 ## Related
 

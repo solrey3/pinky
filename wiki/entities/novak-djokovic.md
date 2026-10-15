@@ -32,35 +32,35 @@ Djokovic led 2-0 sets against the 19-year-old Brazilian before losing the next t
 
 ## Sources
 
-- [2026-05-29: Newsletter 2026-05-29 — Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Djokovic eliminated by 19-year-old Joao Fonseca (28) in R3 at Roland Garros; 4-6, 4-6, 6-3, 7-5, 7-5 — the tournament's biggest upset.
-- [2026-05-30: Newsletter 2026-05-30 — Morning Dispatch](sources/newsletter-2026-05-30.md) — Djokovic's elimination recapped as Roland Garros continues. The field moves forward; the context of this defeat deepens as younger players (Mensik, Fonseca) continue advancing.
+- [2026-05-29: Newsletter 2026-05-29 — Evening Dispatch](../sources/newsletters/newsletter-2026-05-29-evening.md) — Djokovic eliminated by 19-year-old Joao Fonseca (28) in R3 at Roland Garros; 4-6, 4-6, 6-3, 7-5, 7-5 — the tournament's biggest upset.
+- [2026-05-30: Newsletter 2026-05-30 — Morning Dispatch](../sources/newsletters/newsletter-2026-05-30.md) — Djokovic's elimination recapped as Roland Garros continues. The field moves forward; the context of this defeat deepens as younger players (Mensik, Fonseca) continue advancing.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Djokovic beats Roman Safiullin at Wimbledon, extending his grand-slam continuity beyond the earlier Roland-Garros mentions.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Djokovic beats Roman Safiullin at Wimbledon, extending his grand-slam continuity beyond the earlier Roland-Garros mentions.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Wimbledon result lists Djokovic defeating Safiullin, keeping his late-career grand-slam continuity active.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Wimbledon result lists Djokovic defeating Safiullin, keeping his late-career grand-slam continuity active.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Djokovic wins a five-set Wimbledon thriller over Felix Auger-Aliassime and advances to play Jannik Sinner in the semifinals.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Djokovic wins a five-set Wimbledon thriller over Felix Auger-Aliassime and advances to play Jannik Sinner in the semifinals.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Djokovic surviving a five-set Wimbledon match is part of the day's tennis result stack.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Djokovic surviving a five-set Wimbledon match is part of the day's tennis result stack.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Djokovic defeating Felix Auger-Aliassime in five sets.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Wimbledon coverage notes Djokovic defeating Felix Auger-Aliassime in five sets.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Wimbledon results include Djokovic defeating Auger-Aliassime, adding tennis-scoreboard continuity.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Wimbledon results include Djokovic defeating Auger-Aliassime, adding tennis-scoreboard continuity.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Wimbledon coverage has Djokovic losing to Jannik Sinner and saying he would like to play Wimbledon at least one more time.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Wimbledon coverage has Djokovic losing to Jannik Sinner and saying he would like to play Wimbledon at least one more time.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Djokovic loses to Jannik Sinner in the Wimbledon men’s singles scoreboard.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Djokovic loses to Jannik Sinner in the Wimbledon men’s singles scoreboard.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Djokovic appears through a straight-sets Wimbledon loss to Jannik Sinner in the fetched results.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Djokovic loses to Jannik Sinner in the Wimbledon men's singles result.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Djokovic appears through a straight-sets Wimbledon loss to Jannik Sinner in the fetched results.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Djokovic loses to Jannik Sinner in the Wimbledon men's singles result.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Djokovic withdraws from Montreal in the tennis notes.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Djokovic withdraws from Montreal in the tennis notes.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Withdraws from the Montreal Masters event alongside Jannik Sinner.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Withdraws from the Montreal Masters event alongside Jannik Sinner.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Listed with Aryna Sabalenka among US Open mixed-doubles headliners.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Listed with Aryna Sabalenka among US Open mixed-doubles headliners.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Listed with Aryna Sabalenka as a US Open mixed-doubles headliner.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Listed with Aryna Sabalenka as a US Open mixed-doubles headliner.
 
 ## Related
 

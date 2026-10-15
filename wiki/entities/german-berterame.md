@@ -15,7 +15,7 @@ Germán Berterame is a professional soccer player appearing in the newsletter gr
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Is discharged from the hospital after a head collision against CF Montréal.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Is discharged from the hospital after a head collision against CF Montréal.
 
 ## Related
 

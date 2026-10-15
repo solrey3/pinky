@@ -15,7 +15,7 @@ A popular component pattern/library in the React front-end ecosystem. In the new
 
 ## Sources
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Shadcn/UI now defaults to Base UI instead of Radix, making component-library defaults a workflow and dependency-selection signal.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Shadcn/UI now defaults to Base UI instead of Radix, making component-library defaults a workflow and dependency-selection signal.
 
 ## Related
 

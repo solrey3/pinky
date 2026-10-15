@@ -15,7 +15,7 @@ Bethesda Softworks is tracked as a game publisher/studio network when labor, pla
 
 ## Sources
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Hundreds rally at Bethesda HQ to protest Xbox layoffs, making Bethesda a node in the gaming-labor story.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Hundreds rally at Bethesda HQ to protest Xbox layoffs, making Bethesda a node in the gaming-labor story.
 
 ## Related
 

@@ -15,370 +15,370 @@ West Texas Intermediate crude oil benchmark; tracked here as an energy, inflatio
 
 ## Sources
 
-- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-noon.md) — Quotes $96.10, up 2.52% on its displayed baseline and $2.58 above the morning snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-15: Noon Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-noon.md) — Quotes $96.10, up 2.52% on its displayed baseline and $2.58 above the morning snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Quotes $93.52, down 0.23% on its displayed baseline and $0.51 below the midnight snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-daytime.md) — Quotes $93.52, down 0.23% on its displayed baseline and $0.51 below the midnight snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-midnight.md) — Quotes $94.03, up 0.31% on its displayed baseline but $1.14 below the prior evening snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-midnight.md) — Quotes $94.03, up 0.31% on its displayed baseline but $1.14 below the prior evening snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-evening.md) — Quotes $95.17, up 3.61% on its displayed baseline and $0.08 above the noon snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-evening.md) — Quotes $95.17, up 3.61% on its displayed baseline and $0.08 above the noon snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Quotes $95.09, up 3.53% on its displayed baseline and $0.30 above the morning snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-noon.md) — Quotes $95.09, up 3.53% on its displayed baseline and $0.30 above the morning snapshot; timestamp, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — Quotes $94.79, up 3.20%, exactly repeating the prior evening price; no fresh move should be inferred and contract reconciliation remains necessary.
+- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-daytime.md) — Quotes $94.79, up 3.20%, exactly repeating the prior evening price; no fresh move should be inferred and contract reconciliation remains necessary.
 
-- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-midnight.md) — Quotes $94.77, up 3.18% on its displayed baseline but $0.02 below the prior evening snapshot; timestamp, feed, and contract reconciliation remain necessary.
+- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-midnight.md) — Quotes $94.77, up 3.18% on its displayed baseline but $0.02 below the prior evening snapshot; timestamp, feed, and contract reconciliation remain necessary.
 
-- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-evening.md) — Quotes $94.79, up 3.61% on its displayed baseline and $0.60 above the noon snapshot; timestamp, feed, and contract reconciliation remain necessary.
+- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-evening.md) — Quotes $94.79, up 3.61% on its displayed baseline and $0.60 above the noon snapshot; timestamp, feed, and contract reconciliation remain necessary.
 
-- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-noon.md) — Quotes $94.19, up 2.95% on its displayed baseline and $2.10 above the morning snapshot; timestamp, feed, and contract reconciliation remain necessary.
+- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-noon.md) — Quotes $94.19, up 2.95% on its displayed baseline and $2.10 above the morning snapshot; timestamp, feed, and contract reconciliation remain necessary.
 
-- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-daytime.md) — Quotes $92.09, up 0.66% on its displayed baseline but $0.53 below the midnight snapshot; timestamp, feed, and contract reconciliation remain necessary.
+- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-daytime.md) — Quotes $92.09, up 0.66% on its displayed baseline but $0.53 below the midnight snapshot; timestamp, feed, and contract reconciliation remain necessary.
 
-- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-midnight.md) — Quotes $92.62, up 1.24% on its displayed baseline but $0.54 below the prior evening snapshot; timestamp, feed, and contract reconciliation remain necessary.
+- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-midnight.md) — Quotes $92.62, up 1.24% on its displayed baseline but $0.54 below the prior evening snapshot; timestamp, feed, and contract reconciliation remain necessary.
 
-- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletter-2026-10-12-evening.md) — Quotes $93.16, up 5.53%, $0.42 below the noon snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-evening.md) — Quotes $93.16, up 5.53%, $0.42 below the noon snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Quotes $93.58, up 6.00%, $0.72 above the morning snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-noon.md) — Quotes $93.58, up 6.00%, $0.72 above the morning snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Quotes $92.86, up 5.19%, $2.62 above the midnight snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-daytime.md) — Quotes $92.86, up 5.19%, $2.62 above the midnight snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Quotes $90.24, up 2.22%, $1.61 below the prior evening snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-midnight.md) — Quotes $90.24, up 2.22%, $1.61 below the prior evening snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — Quotes $91.85, up 2.69%, exactly repeating the midnight, morning, and noon Sunday snapshots; no fresh move should be inferred.
+- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-evening.md) — Quotes $91.85, up 2.69%, exactly repeating the midnight, morning, and noon Sunday snapshots; no fresh move should be inferred.
 
-- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — Quotes $91.85, up 2.69%, exactly repeating the midnight and morning Sunday snapshots; no fresh move should be inferred.
+- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-noon.md) — Quotes $91.85, up 2.69%, exactly repeating the midnight and morning Sunday snapshots; no fresh move should be inferred.
 
-- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-daytime.md) — Quotes $91.85, up 2.69%, exactly repeating the midnight Sunday snapshot; no fresh move should be inferred.
+- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-daytime.md) — Quotes $91.85, up 2.69%, exactly repeating the midnight Sunday snapshot; no fresh move should be inferred.
 
-- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-midnight.md) — Quotes $91.85, up 2.69%, repeating October 10's price with a slightly different displayed percentage; no fresh Sunday move should be inferred.
+- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-midnight.md) — Quotes $91.85, up 2.69%, repeating October 10's price with a slightly different displayed percentage; no fresh Sunday move should be inferred.
 
-- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-evening.md) — Quotes $91.85, up 2.71%, exactly repeating the morning and noon snapshots; no additional move should be inferred.
+- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-evening.md) — Quotes $91.85, up 2.71%, exactly repeating the morning and noon snapshots; no additional move should be inferred.
 
-- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-noon.md) — Quotes $91.85, up 2.71%, exactly repeating the morning snapshot; no additional move should be inferred.
+- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-noon.md) — Quotes $91.85, up 2.71%, exactly repeating the morning snapshot; no additional move should be inferred.
 
-- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-daytime.md) — Quotes $91.85, up 2.71%, $0.19 above the midnight snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
+- [2026-10-10: Morning Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-daytime.md) — Quotes $91.85, up 2.71%, $0.19 above the midnight snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
 
-- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-midnight.md) — Quotes $91.66, up 2.49%, exactly repeating the prior evening snapshot; no additional move should be inferred.
+- [2026-10-10: Midnight Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-midnight.md) — Quotes $91.66, up 2.49%, exactly repeating the prior evening snapshot; no additional move should be inferred.
 
-- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletter-2026-10-09-evening.md) — Quotes $91.66, up 2.49%, $0.33 below the noon snapshot despite retaining a positive displayed move; reconciliation remains necessary.
+- [2026-10-09: Evening Brief — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-evening.md) — Quotes $91.66, up 2.49%, $0.33 below the noon snapshot despite retaining a positive displayed move; reconciliation remains necessary.
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Quotes $91.99, up 2.86%, $1.38 above the morning snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — Quotes $91.99, up 2.86%, $1.38 above the morning snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
 
-- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Quotes $90.61, up 1.32%, $0.19 above the midnight snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
+- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-daytime.md) — Quotes $90.61, up 1.32%, $0.19 above the midnight snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
 
-- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Quotes $90.42, up 1.11%, $0.76 below the prior evening snapshot despite a positive displayed move; reconciliation remains necessary.
+- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-midnight.md) — Quotes $90.42, up 1.11%, $0.76 below the prior evening snapshot despite a positive displayed move; reconciliation remains necessary.
 
-- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-noon.md) — Quotes $92.88, up 3.86%, $0.96 above the morning snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
+- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-noon.md) — Quotes $92.88, up 3.86%, $0.96 above the morning snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
 
-- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Quotes $91.92, up 2.78%, $2.15 above the same day's midnight snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
+- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-daytime.md) — Quotes $91.92, up 2.78%, $2.15 above the same day's midnight snapshot; timestamp, baseline, feed, and contract reconciliation remain necessary.
 
-- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Quotes $89.77, up 0.38%, $0.83 above the prior evening snapshot with reversed displayed direction; reconciliation remains necessary.
+- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-midnight.md) — Quotes $89.77, up 0.38%, $0.83 above the prior evening snapshot with reversed displayed direction; reconciliation remains necessary.
 
-- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Quotes $88.94, down 2.38%, seven cents below the noon snapshot with a slightly deeper displayed decline; reconciliation remains necessary.
+- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-evening.md) — Quotes $88.94, down 2.38%, seven cents below the noon snapshot with a slightly deeper displayed decline; reconciliation remains necessary.
 
-- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Quotes $89.01, down 2.30%, $0.97 below the morning snapshot with a deeper displayed decline; reconciliation remains necessary.
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-noon.md) — Quotes $89.01, down 2.30%, $0.97 below the morning snapshot with a deeper displayed decline; reconciliation remains necessary.
 
-- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Quotes $89.98, down 1.24%, $0.21 below the midnight snapshot with a changed displayed decline; reconciliation remains necessary.
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-daytime.md) — Quotes $89.98, down 1.24%, $0.21 below the midnight snapshot with a changed displayed decline; reconciliation remains necessary.
 
-- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Quotes $90.19, down 1.01%, $0.28 above the prior evening snapshot with a changed displayed decline; reconciliation remains necessary.
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-midnight.md) — Quotes $90.19, down 1.01%, $0.28 above the prior evening snapshot with a changed displayed decline; reconciliation remains necessary.
 
-- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Quotes $89.91, down 3.19%, $1.19 above the noon snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-evening.md) — Quotes $89.91, down 3.19%, $1.19 above the noon snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-noon.md) — Quotes $88.72, down 4.47%, $1.22 above the morning snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-noon.md) — Quotes $88.72, down 4.47%, $1.22 above the morning snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Quotes $87.50, down 5.78%, $2.30 below the midnight snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-daytime.md) — Quotes $87.50, down 5.78%, $2.30 below the midnight snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Quotes $89.80, down 3.31%, fifty cents above the prior evening snapshot despite a steeper displayed decline; reconciliation remains necessary.
+- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-midnight.md) — Quotes $89.80, down 3.31%, fifty cents above the prior evening snapshot despite a steeper displayed decline; reconciliation remains necessary.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Quotes $89.30, down 1.24%, $1.29 below noon; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Quotes $89.30, down 1.24%, $1.29 below noon; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-noon.md) — Quotes $90.59, up 0.19%, eight cents below the morning snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-noon.md) — Quotes $90.59, up 0.19%, eight cents below the morning snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Quotes $90.67, up 0.28%, versus the same day's midnight quote of $90.08; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-daytime.md) — Quotes $90.67, up 0.28%, versus the same day's midnight quote of $90.08; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Quotes $90.08, down 0.38%, below October 4's repeated $91.11 snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-midnight.md) — Quotes $90.08, down 0.38%, below October 4's repeated $91.11 snapshot; timestamp, baseline, feed, and futures-contract reconciliation remain necessary.
 
-- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Quotes $91.11, up 1.94%, repeating earlier Sunday snapshots; no additional market move should be inferred.
+- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-evening.md) — Quotes $91.11, up 1.94%, repeating earlier Sunday snapshots; no additional market move should be inferred.
 
-- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Quotes $91.11, up 1.94%, exactly repeating the morning Sunday snapshot; no additional market move should be inferred.
+- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-noon.md) — Quotes $91.11, up 1.94%, exactly repeating the morning Sunday snapshot; no additional market move should be inferred.
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Quotes $91.11, up 1.94%, exactly repeating the midnight Sunday snapshot; no additional market move should be inferred.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Quotes $91.11, up 1.94%, exactly repeating the midnight Sunday snapshot; no additional market move should be inferred.
 
-- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Quotes $91.11, up 1.94%; the price repeats three October 3 snapshots but reverses their displayed direction, requiring data reconciliation.
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-midnight.md) — Quotes $91.11, up 1.94%; the price repeats three October 3 snapshots but reverses their displayed direction, requiring data reconciliation.
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Falls 1.61% to $91.11, repeating the morning and noon quotes; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — Falls 1.61% to $91.11, repeating the morning and noon quotes; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-noon.md) — Falls 1.61% to $91.11, exactly repeating the morning quote; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-noon.md) — Falls 1.61% to $91.11, exactly repeating the morning quote; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — Falls 1.61% to $91.11, slightly below the same day's midnight quote; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-daytime.md) — Falls 1.61% to $91.11, slightly below the same day's midnight quote; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-midnight.md) — Falls 1.45% to $91.26, exactly repeating the prior evening snapshot; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-midnight.md) — Falls 1.45% to $91.26, exactly repeating the prior evening snapshot; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — Falls 1.45% to $91.26, the fourth distinct quote of the day; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-evening.md) — Falls 1.45% to $91.26, the fourth distinct quote of the day; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-noon.md) — Falls 1.88% to $90.86, between the same day's morning and midnight quotes; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-noon.md) — Falls 1.88% to $90.86, between the same day's morning and midnight quotes; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — Falls 3.68% to $89.19, sharply below the same day's midnight quote of $92.69; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-daytime.md) — Falls 3.68% to $89.19, sharply below the same day's midnight quote of $92.69; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-midnight.md) — Quotes WTI at $92.69, below the prior evening's $92.91 despite a positive displayed change; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-midnight.md) — Quotes WTI at $92.69, below the prior evening's $92.91 despite a positive displayed change; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — Quotes WTI at $92.91, differing from the same day's earlier snapshots; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-evening.md) — Quotes WTI at $92.91, differing from the same day's earlier snapshots; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Quotes WTI at $92.33, sharply above the same day's midnight quote; timestamp, baseline, feed, or futures-contract reconciliation is required.
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-daytime.md) — Quotes WTI at $92.33, sharply above the same day's midnight quote; timestamp, baseline, feed, or futures-contract reconciliation is required.
 
-- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Falls 3.48% to $89.38; the shift from September 30's multiple quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-midnight.md) — Falls 3.48% to $89.38; the shift from September 30's multiple quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — Falls 2.24% to $90.34; the fourth distinct September 30 quote requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-evening.md) — Falls 2.24% to $90.34; the fourth distinct September 30 quote requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Falls 0.97% to $91.51; the difference from the same day's morning and midnight quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-noon.md) — Falls 0.97% to $91.51; the difference from the same day's morning and midnight quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — Falls 2.35% to $90.24; the difference from the same day's midnight quote requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-daytime.md) — Falls 2.35% to $90.24; the difference from the same day's midnight quote requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — Falls 2.84% to $89.79; the difference from the prior evening's $88.94 quote requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-midnight.md) — Falls 2.84% to $89.79; the difference from the prior evening's $88.94 quote requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — Falls 5.99% to $88.94; the fourth distinct September 29 quote requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-evening.md) — Falls 5.99% to $88.94; the fourth distinct September 29 quote requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-noon.md) — Falls 4.53% to $90.32; the difference from the morning's $92.26 and midnight's $93.94 requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-noon.md) — Falls 4.53% to $90.32; the difference from the morning's $92.26 and midnight's $93.94 requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — Falls 2.48% to $92.26; the difference from the same day's midnight quote requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-daytime.md) — Falls 2.48% to $92.26; the difference from the same day's midnight quote requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — Falls 0.71% to $93.94; the changed quote from September 28 snapshots requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-midnight.md) — Falls 0.71% to $93.94; the changed quote from September 28 snapshots requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Rises 1.23% to $93.29, differing from the day's earlier quotes and requiring timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-evening.md) — Rises 1.23% to $93.29, differing from the day's earlier quotes and requiring timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Rises 3.50% to $95.39, differing from the morning's $95.74 and midnight's $93.84 and requiring timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-noon.md) — Rises 3.50% to $95.39, differing from the morning's $95.74 and midnight's $93.84 and requiring timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Rises 3.88% to $95.74, differing from midnight's $93.84 and 1.82% move and requiring timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-daytime.md) — Rises 3.88% to $95.74, differing from midnight's $93.84 and 1.82% move and requiring timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-midnight.md) — Rises 1.82% to $93.84, reversing the direction of the preceding $92.41 snapshots and requiring timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-midnight.md) — Rises 1.82% to $93.84, reversing the direction of the preceding $92.41 snapshots and requiring timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — Closes at $92.41, down 2.30% in the table, while the prose cites a 7.87% weekly slide that requires baseline reconciliation.
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-evening.md) — Closes at $92.41, down 2.30% in the table, while the prose cites a 7.87% weekly slide that requires baseline reconciliation.
 
-- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Closes at $92.41, down 2.30% in the table, while the prose cites a 7.87% weekly slide that requires baseline reconciliation.
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-noon.md) — Closes at $92.41, down 2.30% in the table, while the prose cites a 7.87% weekly slide that requires baseline reconciliation.
 
-- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-daytime.md) — Quotes WTI at $92.41 with a 2.30% table decline but describes a 7.87% weekly slide, requiring baseline and futures-contract reconciliation.
+- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-daytime.md) — Quotes WTI at $92.41 with a 2.30% table decline but describes a 7.87% weekly slide, requiring baseline and futures-contract reconciliation.
 
-- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-midnight.md) — Quotes WTI at $92.41 with a 2.30% table decline but describes a 7.87% weekly slide, requiring baseline and futures-contract reconciliation.
+- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-midnight.md) — Quotes WTI at $92.41 with a 2.30% table decline but describes a 7.87% weekly slide, requiring baseline and futures-contract reconciliation.
 
-- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — Falls 3.52% to $92.41 and 7.87% for the week; adjacent snapshots require timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-daytime.md) — Falls 3.52% to $92.41 and 7.87% for the week; adjacent snapshots require timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — Falls 3.49% to $92.44; the difference from the day’s earlier snapshots requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-evening.md) — Falls 3.49% to $92.44; the difference from the day’s earlier snapshots requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-noon.md) — Falls 1.74% to $94.11; the difference from the morning and midnight snapshots requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-noon.md) — Falls 1.74% to $94.11; the difference from the morning and midnight snapshots requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-daytime.md) — Falls 2.93% to $92.97; the small difference from the midnight snapshot requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-daytime.md) — Falls 2.93% to $92.97; the small difference from the midnight snapshot requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-midnight.md) — Falls 2.81% to $93.09 despite possible diesel-export limits; the change from the prior snapshot requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-midnight.md) — Falls 2.81% to $93.09 despite possible diesel-export limits; the change from the prior snapshot requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-evening.md) — Falls 1.06% to $94.76; the difference from the day's earlier quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-evening.md) — Falls 1.06% to $94.76; the difference from the day's earlier quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-noon.md) — Rises 0.60% to $96.35; the difference from the same day's earlier quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-noon.md) — Rises 0.60% to $96.35; the difference from the same day's earlier quotes requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Falls 2.06% to $93.81; the difference from midnight's $91.34 and −4.64% requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-daytime.md) — Falls 2.06% to $93.81; the difference from midnight's $91.34 and −4.64% requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Falls 4.64% to $91.34; the changed price and percentage from the prior evening require timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-midnight.md) — Falls 4.64% to $91.34; the changed price and percentage from the prior evening require timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Falls 7.57% to $92.71; differences from the same day’s earlier quotes require timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-evening.md) — Falls 7.57% to $92.71; differences from the same day’s earlier quotes require timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-noon.md) — Falls 7.80% to $92.48; the difference from the morning quote requires timestamp, baseline, feed, or futures-contract reconciliation.
+- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-noon.md) — Falls 7.80% to $92.48; the difference from the morning quote requires timestamp, baseline, feed, or futures-contract reconciliation.
 
-- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — Falls 10.10% to $90.17; the difference from the same day's midnight quote requires timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-daytime.md) — Falls 10.10% to $90.17; the difference from the same day's midnight quote requires timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — Falls 11.10% to $89.17 despite fading hopes for U.S.–Iran talks; the difference from the preceding quote requires timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-midnight.md) — Falls 11.10% to $89.17 despite fading hopes for U.S.–Iran talks; the difference from the preceding quote requires timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Falls 11.83% to $89.85 while technology and crypto rally; differences from the day's earlier quotes require timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-evening.md) — Falls 11.83% to $89.85 while technology and crypto rally; differences from the day's earlier quotes require timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — Falls 9.98% to $91.74 while technology and crypto rally; differences from the morning quote require timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-noon.md) — Falls 9.98% to $91.74 while technology and crypto rally; differences from the morning quote require timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Falls 11.36% to $90.33 while technology and crypto rise; the difference from the adjacent midnight quote requires timestamp, baseline, feed, or contract reconciliation.
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-daytime.md) — Falls 11.36% to $90.33 while technology and crypto rise; the difference from the adjacent midnight quote requires timestamp, baseline, feed, or contract reconciliation.
 
-- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — Falls 8.80% to $92.94 while technology and crypto rise; the difference from the adjacent evening quote requires timestamp, baseline, or contract reconciliation.
+- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-midnight.md) — Falls 8.80% to $92.94 while technology and crypto rise; the difference from the adjacent evening quote requires timestamp, baseline, or contract reconciliation.
 
-- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletter-2026-09-21-evening.md) — Falls 10.21% to $91.97 as technology and crypto surge; the move from noon requires timestamp, baseline, and futures-contract reconciliation.
+- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-evening.md) — Falls 10.21% to $91.97 as technology and crypto surge; the move from noon requires timestamp, baseline, and futures-contract reconciliation.
 
-- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-noon.md) — Falls 10.06% to $92.13, extending the morning decline but requiring timestamp, baseline, and futures-contract reconciliation.
+- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-noon.md) — Falls 10.06% to $92.13, extending the morning decline but requiring timestamp, baseline, and futures-contract reconciliation.
 
-- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Falls 8.45% to $93.77; the small price and percentage change from the adjacent midnight quote requires snapshot or contract reconciliation.
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-daytime.md) — Falls 8.45% to $93.77; the small price and percentage change from the adjacent midnight quote requires snapshot or contract reconciliation.
 
-- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Falls 8.29% to $93.94; the break from September 20's repeated $96.08 quote requires timestamp, baseline, or contract reconciliation.
+- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-midnight.md) — Falls 8.29% to $93.94; the break from September 20's repeated $96.08 quote requires timestamp, baseline, or contract reconciliation.
 
-- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — Falls 9.21% to $96.08 while Saudi pipeline and Iran diplomacy headlines preserve geopolitical tail risk; the repeated quote requires snapshot reconciliation.
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-evening.md) — Falls 9.21% to $96.08 while Saudi pipeline and Iran diplomacy headlines preserve geopolitical tail risk; the repeated quote requires snapshot reconciliation.
 
-- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Falls 9.21% to $96.08 while Iran diplomacy and Saudi pipeline headlines preserve geopolitical tail risk; the repeated quote requires snapshot reconciliation.
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-noon.md) — Falls 9.21% to $96.08 while Iran diplomacy and Saudi pipeline headlines preserve geopolitical tail risk; the repeated quote requires snapshot reconciliation.
 
-- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — Falls 9.21% to $96.08 while diesel-price headlines remain elevated; the repeated quote requires timestamp, baseline, or contract reconciliation.
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-daytime.md) — Falls 9.21% to $96.08 while diesel-price headlines remain elevated; the repeated quote requires timestamp, baseline, or contract reconciliation.
 
-- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-midnight.md) — Falls 9.21% to $96.08 beside a 5.68% Bitcoin gain; the unchanged price but revised percentage requires timestamp, baseline, or contract reconciliation.
+- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-midnight.md) — Falls 9.21% to $96.08 beside a 5.68% Bitcoin gain; the unchanged price but revised percentage requires timestamp, baseline, or contract reconciliation.
 
-- [2026-09-19: Evening Brief — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-evening.md) — Falls 5.24% to $96.08 while Bitcoin rises 7.20%; the repeated oil quote should be reconciled with adjacent dispatch timestamps.
+- [2026-09-19: Evening Brief — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-evening.md) — Falls 5.24% to $96.08 while Bitcoin rises 7.20%; the repeated oil quote should be reconciled with adjacent dispatch timestamps.
 
-- [2026-09-19: Noon Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-noon.md) — Falls 5.24% to $96.08 while Bitcoin rises 7.95%; the repeated oil quote should be reconciled with adjacent dispatch timestamps.
+- [2026-09-19: Noon Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-noon.md) — Falls 5.24% to $96.08 while Bitcoin rises 7.95%; the repeated oil quote should be reconciled with adjacent dispatch timestamps.
 
-- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-daytime.md) — Falls 5.24% to $96.08 while diesel prices rise; the quote differs from midnight and requires timestamp or contract reconciliation.
+- [2026-09-19: Morning Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-daytime.md) — Falls 5.24% to $96.08 while diesel prices rise; the quote differs from midnight and requires timestamp or contract reconciliation.
 
-- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-midnight.md) — Falls 5.84% to $95.47 beside a 7.27% Bitcoin jump; the repeated quote likely represents the prior evening's same market snapshot.
+- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-midnight.md) — Falls 5.84% to $95.47 beside a 7.27% Bitcoin jump; the repeated quote likely represents the prior evening's same market snapshot.
 
-- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletter-2026-09-18-evening.md) — Falls 5.84% to $95.47, easing immediate fuel and inflation pressure while remaining elevated and extending the day's decline.
+- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-evening.md) — Falls 5.84% to $95.47, easing immediate fuel and inflation pressure while remaining elevated and extending the day's decline.
 
-- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — Falls 4.21% to $97.12, easing immediate energy pressure while remaining elevated; the jump from the morning's $96.34 quote requires timestamp or contract reconciliation.
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-noon.md) — Falls 4.21% to $97.12, easing immediate energy pressure while remaining elevated; the jump from the morning's $96.34 quote requires timestamp or contract reconciliation.
 
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Falls 4.98% to $96.34, easing immediate energy pressure from the prior $101 quote while remaining elevated enough to matter for inflation and household costs.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — Falls 4.98% to $96.34, easing immediate energy pressure from the prior $101 quote while remaining elevated enough to matter for inflation and household costs.
 
-- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-midnight.md) — Holds nearly flat at $101.02, preserving energy and inflation pressure during a growth-led but divided equity close.
+- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-midnight.md) — Holds nearly flat at $101.02, preserving energy and inflation pressure during a growth-led but divided equity close.
 
-- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-evening.md) — Holds nearly flat at $101.09, preserving energy and inflation pressure during a growth-led but divided equity close.
+- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-evening.md) — Holds nearly flat at $101.09, preserving energy and inflation pressure during a growth-led but divided equity close.
 
-- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — Trades nearly flat at $101.10, preserving energy and inflation pressure during a growth-led equity rebound.
+- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-noon.md) — Trades nearly flat at $101.10, preserving energy and inflation pressure during a growth-led equity rebound.
 
-- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Holds near flat at $101.37, keeping energy and inflation pressure elevated alongside the reported Fed hike and broad equity losses.
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-daytime.md) — Holds near flat at $101.37, keeping energy and inflation pressure elevated alongside the reported Fed hike and broad equity losses.
 
-- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — Rises 0.85% to $102.25, keeping energy and inflation pressure elevated alongside the reported Fed hike and broad equity losses.
+- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-midnight.md) — Rises 0.85% to $102.25, keeping energy and inflation pressure elevated alongside the reported Fed hike and broad equity losses.
 
-- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-evening.md) — Rises 1.97% to $102.02, keeping energy and inflation pressure elevated after the reported Fed hike.
+- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-evening.md) — Rises 1.97% to $102.02, keeping energy and inflation pressure elevated after the reported Fed hike.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — Rises 4.04% to $104.09, compounding fuel and inflation pressure as rate expectations and long borrowing costs rise.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — Rises 4.04% to $104.09, compounding fuel and inflation pressure as rate expectations and long borrowing costs rise.
 
-- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — Rises 4.90% to $104.95, reinforcing fuel and inflation pressure during broad equity and ETF losses.
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-midnight.md) — Rises 4.90% to $104.95, reinforcing fuel and inflation pressure during broad equity and ETF losses.
 
-- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-evening.md) — Rises 2.93% to $105.48, reinforcing fuel and inflation pressure while equities and semiconductors sell off.
+- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-evening.md) — Rises 2.93% to $105.48, reinforcing fuel and inflation pressure while equities and semiconductors sell off.
 
-- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Rises 7.23% to $102.99 amid supply pressure, reinforcing fuel, freight, and inflation risk.
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-noon.md) — Rises 7.23% to $102.99 amid supply pressure, reinforcing fuel, freight, and inflation risk.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Jumps 6.08% to $101.89 amid Middle East supply anxiety, increasing fuel, freight, and inflation pressure.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — Jumps 6.08% to $101.89 amid Middle East supply anxiety, increasing fuel, freight, and inflation pressure.
 
-- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Rises 7.05% to $102.82 as Hormuz closure and pipeline disruption reinforce supply, transport, and inflation risk.
+- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-daytime.md) — Rises 7.05% to $102.82 as Hormuz closure and pipeline disruption reinforce supply, transport, and inflation risk.
 
-- [2026-09-14: Midnight Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-midnight.md) — Rises 7.54% to $103.29 as Hormuz and Red Sea threats reinforce transport, supply, and inflation risk.
+- [2026-09-14: Midnight Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-midnight.md) — Rises 7.54% to $103.29 as Hormuz and Red Sea threats reinforce transport, supply, and inflation risk.
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Surges 10.49% to $102.79 as threats to the Strait of Hormuz and Red Sea reinforce supply, transport, and inflation risk.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-evening.md) — Surges 10.49% to $102.79 as threats to the Strait of Hormuz and Red Sea reinforce supply, transport, and inflation risk.
 
-- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure ahead of the new week.
+- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-noon.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure ahead of the new week.
 
-- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-daytime.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure ahead of the new week.
+- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-daytime.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure ahead of the new week.
 
-- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure ahead of the new week.
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-midnight.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure ahead of the new week.
 
-- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure.
+- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-evening.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure.
 
-- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-noon.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure.
+- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-noon.md) — Rises 7.55% to $100.05, reinforcing transport, household-cost, and inflation pressure.
 
-- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-daytime.md) — Reaches $100.05 after a 7.55% rise, compounding diesel, freight, household-cost, and inflation pressure.
+- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-daytime.md) — Reaches $100.05 after a 7.55% rise, compounding diesel, freight, household-cost, and inflation pressure.
 
-- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-midnight.md) — Jumps 7.48% to $99.99, reinforcing energy-inflation pressure during broad equity and ETF losses.
+- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-midnight.md) — Jumps 7.48% to $99.99, reinforcing energy-inflation pressure during broad equity and ETF losses.
 
-- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletter-2026-09-11-evening.md) — Jumps 7.48% to $99.99, compounding fuel and inflation pressure during a broad equity and ETF selloff.
+- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-evening.md) — Jumps 7.48% to $99.99, compounding fuel and inflation pressure during a broad equity and ETF selloff.
 
-- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — Rises 6.90% to $99.45, sustaining fuel and inflation pressure as every tracked equity index and ETF declines.
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-noon.md) — Rises 6.90% to $99.45, sustaining fuel and inflation pressure as every tracked equity index and ETF declines.
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Rises 7.16% to $99.69 as broad equity losses and reported record diesel prices sharpen inflation pressure.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — Rises 7.16% to $99.69 as broad equity losses and reported record diesel prices sharpen inflation pressure.
 
-- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — Surges 11.14% to $103.39, intensifying energy-inflation pressure as equities fall and long yields approach their annual ceiling.
+- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-midnight.md) — Surges 11.14% to $103.39, intensifying energy-inflation pressure as equities fall and long yields approach their annual ceiling.
 
-- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-evening.md) — Ends the completed week at $91.48 after a 9.69% rise, increasing freight, diesel, gasoline, and household-inflation risk.
+- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-evening.md) — Ends the completed week at $91.48 after a 9.69% rise, increasing freight, diesel, gasoline, and household-inflation risk.
 
-- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-evening.md) — Rises 6.67% in the latest quote and 9.69% for the week to $91.48 as reported tanker strikes increase supply, freight, and inflation risk.
+- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-evening.md) — Rises 6.67% in the latest quote and 9.69% for the week to $91.48 as reported tanker strikes increase supply, freight, and inflation risk.
 
-- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-noon.md) — Rises 6.67% on the latest quote and 9.69% for the week to $91.48 as tanker strikes sharpen supply fears.
+- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-noon.md) — Rises 6.67% on the latest quote and 9.69% for the week to $91.48 as tanker strikes sharpen supply fears.
 
-- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — Jumps 6.67% Friday and 9.69% for the week to $91.48, increasing fuel, transport, and inflation pressure.
+- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-daytime.md) — Jumps 6.67% Friday and 9.69% for the week to $91.48, increasing fuel, transport, and inflation pressure.
 
-- [2026-09-01: Evening Brief — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-evening.md) — Surges 8.56% to $90.68, intensifying fuel-cost and inflation pressure as long yields rise.
+- [2026-09-01: Evening Brief — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-evening.md) — Surges 8.56% to $90.68, intensifying fuel-cost and inflation pressure as long yields rise.
 
-- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — Falls 2.89% to $82.55 even as all four major equity indexes rally, preserving cross-asset dispersion.
+- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-noon.md) — Falls 2.89% to $82.55 even as all four major equity indexes rally, preserving cross-asset dispersion.
 
-- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Falls 3.46% to $82.07, the largest cross-asset move and a potential easing signal for near-term fuel pressure.
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-daytime.md) — Falls 3.46% to $82.07, the largest cross-asset move and a potential easing signal for near-term fuel pressure.
 
 
-- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Falls 3.72% to $81.85, the tape's largest cross-asset move and a potential easing signal for near-term fuel pressure.
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-midnight.md) — Falls 3.72% to $81.85, the tape's largest cross-asset move and a potential easing signal for near-term fuel pressure.
 
-- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-evening.md) — Falls 5.92% to $81.91, becoming the close's dominant cross-asset move and potentially easing near-term fuel pressure.
+- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-evening.md) — Falls 5.92% to $81.91, becoming the close's dominant cross-asset move and potentially easing near-term fuel pressure.
 
-- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-noon.md) — Falls 5.42% to $82.34, dominating the lunch-hour tape and potentially easing near-term fuel pressure.
+- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-noon.md) — Falls 5.42% to $82.34, dominating the lunch-hour tape and potentially easing near-term fuel pressure.
 
-- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-daytime.md) — Falls 8.13% to $79.98, dominating the morning tape and potentially easing near-term fuel pressure.
+- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-daytime.md) — Falls 8.13% to $79.98, dominating the morning tape and potentially easing near-term fuel pressure.
 
-- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-midnight.md) — Falls 7.75% to $80.31, dominating an otherwise quiet index close and potentially easing near-term fuel pressure.
+- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-midnight.md) — Falls 7.75% to $80.31, dominating an otherwise quiet index close and potentially easing near-term fuel pressure.
 
-- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — Falls 7.65% to $81.11, becoming the close's dominant cross-asset move and easing near-term energy-cost pressure.
+- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-evening.md) — Falls 7.65% to $81.11, becoming the close's dominant cross-asset move and easing near-term energy-cost pressure.
 
-- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Closes at $82.40 after a 5.40% weekly gain, keeping inflation and fuel-cost pressure in view for Monday.
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-evening.md) — Closes at $82.40 after a 5.40% weekly gain, keeping inflation and fuel-cost pressure in view for Monday.
 
-- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-noon.md) — Closes at $82.40 after a 5.40% weekly gain, making crude the reopening market's inflation watch item.
+- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-noon.md) — Closes at $82.40 after a 5.40% weekly gain, making crude the reopening market's inflation watch item.
 
-- [2026-08-16: Morning Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-daytime.md) — Closes at $82.40 after a 5.40% weekly gain, keeping fuel and inflation pressure in view.
+- [2026-08-16: Morning Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-daytime.md) — Closes at $82.40 after a 5.40% weekly gain, keeping fuel and inflation pressure in view.
 
-- [2026-08-16: Midnight Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-midnight.md) — Closes at $82.40 after a 5.40% weekly gain, renewing pump-price and inflation pressure.
+- [2026-08-16: Midnight Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-midnight.md) — Closes at $82.40 after a 5.40% weekly gain, renewing pump-price and inflation pressure.
 
-- [2026-08-15: Evening Brief — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-evening.md) — Closes at $82.40 after a 5.40% weekly gain, renewing household energy-cost pressure.
+- [2026-08-15: Evening Brief — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-evening.md) — Closes at $82.40 after a 5.40% weekly gain, renewing household energy-cost pressure.
 
-- [2026-08-15: Noon Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-noon.md) — Trades at $82.40 after a 5.40% weekly gain, adding fuel-cost pressure.
+- [2026-08-15: Noon Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-noon.md) — Trades at $82.40 after a 5.40% weekly gain, adding fuel-cost pressure.
 
-- [2026-08-15: Morning Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-daytime.md) — Closes at $82.40 after a 5.40% weekly jump, renewing pressure on fuel-sensitive budgets.
+- [2026-08-15: Morning Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-daytime.md) — Closes at $82.40 after a 5.40% weekly jump, renewing pressure on fuel-sensitive budgets.
 
-- [2026-08-15: Midnight Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-midnight.md) — Closes at $82.40 after a 5.12% weekly gain, renewing transport-cost and pump-price pressure.
+- [2026-08-15: Midnight Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-midnight.md) — Closes at $82.40 after a 5.12% weekly gain, renewing transport-cost and pump-price pressure.
 
-- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — Gains 5.63% to $82.58, creating fresh fuel and inflation pressure.
+- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-evening.md) — Gains 5.63% to $82.58, creating fresh fuel and inflation pressure.
 
-- [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-noon.md) — Surges 6.73% to $83.44, making energy the session's clearest transport and inflation warning.
+- [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-noon.md) — Surges 6.73% to $83.44, making energy the session's clearest transport and inflation warning.
 
-- [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-daytime.md) — Jumps 5.60% to $82.56, creating renewed fuel, transport, and inflation pressure.
+- [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-daytime.md) — Jumps 5.60% to $82.56, creating renewed fuel, transport, and inflation pressure.
 
-- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Surges 7.71% to $84.21, creating the session’s clearest fuel, transport, and inflation warning.
+- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-midnight.md) — Surges 7.71% to $84.21, creating the session’s clearest fuel, transport, and inflation warning.
 
-- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-evening.md) — Rises 7.69% to $83.23, making energy the close's clearest inflation and household-budget pressure.
+- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-evening.md) — Rises 7.69% to $83.23, making energy the close's clearest inflation and household-budget pressure.
 
-- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Surges 7.69% to $83.23, making oil the dominant inflation and household-cost signal in an otherwise flat tape.
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-noon.md) — Surges 7.69% to $83.23, making oil the dominant inflation and household-cost signal in an otherwise flat tape.
 
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Surges 9.07% to $84.30, creating an inflation and household-cost warning inside a strong equity rally.
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — Surges 9.07% to $84.30, creating an inflation and household-cost warning inside a strong equity rally.
 
-- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Jumps 6.28% to $82.14 as Hormuz negotiations and energy-security risk return to the foreground.
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-midnight.md) — Jumps 6.28% to $82.14 as Hormuz negotiations and energy-security risk return to the foreground.
 
-- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Surges 9.41% to $82.30, becoming the close’s clearest inflation and household-cost risk.
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-evening.md) — Surges 9.41% to $82.30, becoming the close’s clearest inflation and household-cost risk.
 
-- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — Quoted at $78.18 with a positive session move while the weekly analysis still emphasizes a sharp decline.
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-daytime.md) — Quoted at $78.18 with a positive session move while the weekly analysis still emphasizes a sharp decline.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — A 7.67% weekly decline sharply diverges from rising equities.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — A 7.67% weekly decline sharply diverges from rising equities.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Falls 7.67% for the week despite broad equity strength.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Falls 7.67% for the week despite broad equity strength.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Falls 7.67% week over week, diverging sharply from surging equities.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — Falls 7.67% week over week, diverging sharply from surging equities.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Falls 4.06% even as every major U.S. equity index gains more than 2%.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Falls 4.06% even as every major U.S. equity index gains more than 2%.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Falls 2.85% despite reports that U.S. crude supplies reached a 45-year low.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Falls 2.85% despite reports that U.S. crude supplies reached a 45-year low.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — WTI falls 2.63% while equity indexes surge, preserving cross-asset divergence.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — WTI falls 2.63% while equity indexes surge, preserving cross-asset divergence.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Crude falls 4.28% while major equity indexes rally, preserving cross-asset divergence.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — Crude falls 4.28% while major equity indexes rally, preserving cross-asset divergence.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — WTI falls 6.61% despite a powerful equity rally, preserving cross-asset divergence.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — WTI falls 6.61% despite a powerful equity rally, preserving cross-asset divergence.
 
-- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — WTI plunges 11.33% to $75.08, the clearest counter-move to the broad equity surge.
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — WTI falls 9.97% to $76.23, sharply diverging from surging equities.
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — WTI falls 10.11%, the major non-confirming move beside a hot growth-equity tape.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Falls 9.33% on hopes for a Strait of Hormuz reopening deal.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — WTI falls to $82.23, making oil a caution point even as Iran/Hormuz diplomacy remains a headline risk.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Drops 3.00% despite Hormuz diplomacy headlines, weakening the cross-asset confirmation for the risk-on move.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Drops 5.77%, undercutting the otherwise hot Nasdaq/S&P lunch tape.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Oil sells off sharply as the geopolitical pressure valve in the morning tape.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 5.35%, making energy volatility the main offset to the index/Amazon rally.
+- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-evening.md) — WTI plunges 11.33% to $75.08, the clearest counter-move to the broad equity surge.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — WTI falls 9.97% to $76.23, sharply diverging from surging equities.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — WTI falls 10.11%, the major non-confirming move beside a hot growth-equity tape.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Falls 9.33% on hopes for a Strait of Hormuz reopening deal.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — WTI falls to $82.23, making oil a caution point even as Iran/Hormuz diplomacy remains a headline risk.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Drops 3.00% despite Hormuz diplomacy headlines, weakening the cross-asset confirmation for the risk-on move.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — Drops 5.77%, undercutting the otherwise hot Nasdaq/S&P lunch tape.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Oil sells off sharply as the geopolitical pressure valve in the morning tape.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Falls 5.35%, making energy volatility the main offset to the index/Amazon rally.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — WTI +6.83% triggers the major-move alert and links oil pressure to airfare, gas, and inflation concerns.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — WTI +6.83% triggers the major-move alert and links oil pressure to airfare, gas, and inflation concerns.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — WTI rises 6.83%, keeping energy pressure in the cross-asset risk picture.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — WTI rises 6.83%, keeping energy pressure in the cross-asset risk picture.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — WTI is up 6.83% in the fetched table, tying energy costs to the otherwise sunny market note.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — WTI is up 6.83% in the fetched table, tying energy costs to the otherwise sunny market note.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — WTI jumps 6.83%, crossing the major-move line and keeping inflation/energy risk in view.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — WTI jumps 6.83%, crossing the major-move line and keeping inflation/energy risk in view.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — WTI at $84.67 and the weekly oil move keep energy prices in the inflation, rates, and risk-regime frame.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — WTI at $84.67 and the weekly oil move keep energy prices in the inflation, rates, and risk-regime frame.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — WTI at $84.67 keeps oil and inflation pressure in the macro risk frame.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — WTI at $84.67 keeps oil and inflation pressure in the macro risk frame.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — WTI closes at $84.67 and is the weekly sore thumb at -5.20%, while energy headlines include BP North Sea divestment.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — WTI closes at $84.67 and is the weekly sore thumb at -5.20%, while energy headlines include BP North Sea divestment.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — West Texas Intermediate crude oil benchmark; in this source, WTI rises +5.07% as Middle East energy risk stays loud.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — West Texas Intermediate crude oil benchmark; in this source, WTI rises +5.07% as Middle East energy risk stays loud.
 
 ## Related
 

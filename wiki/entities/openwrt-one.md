@@ -15,7 +15,7 @@ OpenWrt One is an open hardware router associated with the OpenWrt ecosystem. In
 
 ## Sources
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Hacker News attention around OpenWrt One puts open hardware networking back in the daily tech/operator-control stack.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Hacker News attention around OpenWrt One puts open hardware networking back in the daily tech/operator-control stack.
 
 ## Related
 

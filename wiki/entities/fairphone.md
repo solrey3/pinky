@@ -15,7 +15,7 @@ Consumer-electronics company focused on modular, repairable smartphones and long
 
 ## Sources
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Brings the repairable Fairphone Gen 6+ to the U.S., extending owner repair access into the flagship-phone market.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Brings the repairable Fairphone Gen 6+ to the U.S., extending owner repair access into the flagship-phone market.
 
 ## Related
 

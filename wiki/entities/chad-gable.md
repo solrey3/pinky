@@ -37,17 +37,17 @@ The June 14 and June 15 dispatches keep Gable in the active weekly WWE feed by a
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Wins the Intercontinental Title over Penta in the SummerSlam headline stack.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Defeats Penta to win the Intercontinental Title at SummerSlam.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Wins the Intercontinental Title over Penta in the SummerSlam headline stack.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Defeats Penta to win the Intercontinental Title at SummerSlam.
 
-- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Chad Gable returns to WWE** on SmackDown Bologna. Unmasked as El Grande Americano. Monster pop from the Italian crowd. Apologized to Rey Fenix for mocking lucha libre. War Raiders appeared. Redemption arc begins. "That was the night."
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Chad Gable is listed for Monday's WWE Raw against Rusev.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — The evening wrestling feed again advertises Gable's comeback match against Rusev on Raw.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Monday morning wrestling feed again lists Gable's Raw comeback match against Rusev.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — **Chad Gable returns to WWE** on SmackDown Bologna. Unmasked as El Grande Americano. Monster pop from the Italian crowd. Apologized to Rey Fenix for mocking lucha libre. War Raiders appeared. Redemption arc begins. "That was the night."
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Chad Gable is listed for Monday's WWE Raw against Rusev.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — The evening wrestling feed again advertises Gable's comeback match against Rusev on Raw.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — Monday morning wrestling feed again lists Gable's Raw comeback match against Rusev.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Chad Gable wins the Raw IC-title gauntlet and is set to challenge Penta at SummerSlam.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Chad Gable wins the Raw IC-title gauntlet and is set to challenge Penta at SummerSlam.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Gable is set to team with Penta on Raw.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Gable is set to team with Penta on Raw.
 
 ## Related
 

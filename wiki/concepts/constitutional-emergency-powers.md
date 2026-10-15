@@ -14,12 +14,12 @@ The contested boundary between crisis governance and constitutional restraint: w
 
 ## Sources
 
-- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — A report that the Trump administration seriously considered unilateral habeas-corpus suspension turns emergency authority, detention power, and due-process safeguards into a live watchlist item.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — A survey headline that most Americans see civil liberties under threat broadens the watchlist from specific habeas/emergency-power reporting into public rights-and-freedoms anxiety.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-17.md) — A report that the Trump administration seriously considered unilateral habeas-corpus suspension turns emergency authority, detention power, and due-process safeguards into a live watchlist item.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — A survey headline that most Americans see civil liberties under threat broadens the watchlist from specific habeas/emergency-power reporting into public rights-and-freedoms anxiety.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Former Bush and Obama officials calling for a reset of war-on-terror powers extends the emergency-authority thread beyond a single administration or crisis.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Former Bush and Obama officials calling for a reset of war-on-terror powers extends the emergency-authority thread beyond a single administration or crisis.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Former Bush and Obama officials criticizing war-on-terror powers extend the emergency-authority accountability thread.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Former Bush and Obama officials criticizing war-on-terror powers extend the emergency-authority accountability thread.
 
 ## Related Concepts
 

@@ -15,9 +15,9 @@ American singer-songwriter tracked here through culture/feed mentions.
 
 ## Sources
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Olivia Rodrigo appears through the BrooklynVegan/Lollapalooza Smashing Pumpkins guest-performance link.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Olivia Rodrigo appears through the BrooklynVegan/Lollapalooza Smashing Pumpkins guest-performance link.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Appears in the around-the-web feed for joining Smashing Pumpkins on “Thirty-Three” at Lollapalooza.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Appears in the around-the-web feed for joining Smashing Pumpkins on “Thirty-Three” at Lollapalooza.
 
 ## Related
 

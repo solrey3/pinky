@@ -34,20 +34,20 @@ source_count: 9
 
 ## Sources
 
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Lesnar says he is retired, with wrestling outlets continuing to track whether the claim sticks.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — POST Wrestling and Cageside carry Lesnar saying he is retired after SummerSlam.
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Lesnar calling Oba Femi the future of WWE keeps the post-SummerSlam torch-talk thread alive.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Lesnar says he is retired, with wrestling outlets continuing to track whether the claim sticks.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — POST Wrestling and Cageside carry Lesnar saying he is retired after SummerSlam.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Lesnar calling Oba Femi the future of WWE keeps the post-SummerSlam torch-talk thread alive.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Lesnar loses to Oba Femi and remains part of post-show in-ring-future questions.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Lesnar loses to Oba Femi and remains part of post-show in-ring-future questions.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Brock Lesnar loses to Oba Femi inside Hell in a Cell and remains in post-SummerSlam future speculation.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Brock Lesnar loses to Oba Femi inside Hell in a Cell and remains in post-SummerSlam future speculation.
 
 - [2026-05-27: Raw notes](../../raw/people/brock-lesnar.md)
-- [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletter-2026-05-28-evening.md) — Brock Lesnar confirmed to appear after WWE Clash in Italy per event advertising. Cody Rhodes calls Clash events a new "Big Four" WWE PLE.
-- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **Clash in Italy, Turin**: Lesnar defeats **Oba Femi** in a WrestleMania 42 rematch — required **seven F-5s** to put him away. Lesnar evens the score. King of the Ring 2026 bracket also revealed on the card.
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation of Oba Femi win at Clash in Italy. Oba Femi enters a four-way in the first round of King of the Ring tonight on Raw.
+- [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletters/newsletter-2026-05-28-evening.md) — Brock Lesnar confirmed to appear after WWE Clash in Italy per event advertising. Cody Rhodes calls Clash events a new "Big Four" WWE PLE.
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletters/newsletter-2026-05-31-evening.md) — **Clash in Italy, Turin**: Lesnar defeats **Oba Femi** in a WrestleMania 42 rematch — required **seven F-5s** to put him away. Lesnar evens the score. King of the Ring 2026 bracket also revealed on the card.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — Morning-after confirmation of Oba Femi win at Clash in Italy. Oba Femi enters a four-way in the first round of King of the Ring tonight on Raw.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Reported advertising for the July 27 Raw keeps Lesnar in WWE return/appearance-watch context.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Reported advertising for the July 27 Raw keeps Lesnar in WWE return/appearance-watch context.
 
 ## Related
 

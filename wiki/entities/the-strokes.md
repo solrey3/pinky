@@ -24,7 +24,7 @@ American rock band formed in New York City in 1998. Led by Julian Casablancas, t
 ## Sources
 
 - [2026-05-10: SolReyDio — 150ish Favorite Albums](../sources/solreydio-albums.md) — `Is This It` is part of the personal album canon.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Around-the-web feed notes The Strokes' NYC show announcement at Flushing Meadows Corona Park.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — Around-the-web feed notes The Strokes' NYC show announcement at Flushing Meadows Corona Park.
 
 ## Related
 

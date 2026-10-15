@@ -15,7 +15,7 @@ Eddie Howe is an English football manager. In this source ESPN reports he is set
 
 ## Sources
 
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Eddie Howe is an English football manager. In this source ESPN reports he is set to leave Newcastle.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Eddie Howe is an English football manager. In this source ESPN reports he is set to leave Newcastle.
 
 ## Related
 

@@ -15,7 +15,7 @@ NHL forward; ESPN reports he signed a three-year extension with Pittsburgh.
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — ESPN reports a three-year Penguins extension.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — ESPN reports a three-year Penguins extension.
 
 ## Related
 

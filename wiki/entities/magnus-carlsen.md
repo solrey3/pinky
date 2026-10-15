@@ -23,9 +23,9 @@ Norwegian chess grandmaster and five-time World Chess Champion (2013–2023). Wi
 
 ## Sources
 
-- [2026-05-31: Evening Brief — Sunday, May 31, 2026](sources/newsletter-2026-05-31-evening.md) — "Magnus Carlsen apparently hit 5000 ELO" at Norway Chess 2026, defeating tournament leader Firouzja in Round 6. GothamChess YouTube video on the milestone noted in the dispatch's feed section.
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](sources/newsletter-2026-06-01.md) — GothamChess YouTube video "MAGNUS CARLSEN HITS 5000 ELO" appears explicitly in the YouTube feed section, listed in the past 24 hours. Milestone confirmed as a viral chess moment; the Norway Chess internal scoring format distinction (vs. FIDE Elo) stands.
-- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — **Pragg beats Carlsen twice in the same classical tournament** — the first time this has ever happened. GothamChess covered the moment (*"Magnus Carlsen: INSANE DRAMA"*); r/chess thread became one of the top chess discussions of the year. Carlsen remains the world's best player by any reasonable measure, but the double-defeat in a single classical event is a historically unprecedented humbling.
+- [2026-05-31: Evening Brief — Sunday, May 31, 2026](../sources/newsletters/newsletter-2026-05-31-evening.md) — "Magnus Carlsen apparently hit 5000 ELO" at Norway Chess 2026, defeating tournament leader Firouzja in Round 6. GothamChess YouTube video on the milestone noted in the dispatch's feed section.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — GothamChess YouTube video "MAGNUS CARLSEN HITS 5000 ELO" appears explicitly in the YouTube feed section, listed in the past 24 hours. Milestone confirmed as a viral chess moment; the Norway Chess internal scoring format distinction (vs. FIDE Elo) stands.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletters/newsletter-2026-06-03.md) — **Pragg beats Carlsen twice in the same classical tournament** — the first time this has ever happened. GothamChess covered the moment (*"Magnus Carlsen: INSANE DRAMA"*); r/chess thread became one of the top chess discussions of the year. Carlsen remains the world's best player by any reasonable measure, but the double-defeat in a single classical event is a historically unprecedented humbling.
 
 ## Related
 

@@ -15,7 +15,7 @@ Developer Q&A community and technical knowledge platform. In the wiki it functio
 
 ## Sources
 
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Publishes an essay arguing that developers attach to tools because tools encode trust.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Publishes an essay arguing that developers attach to tools because tools encode trust.
 
 ## Related
 

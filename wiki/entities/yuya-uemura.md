@@ -15,24 +15,24 @@ Yuya Uemura is a NJPW wrestler tracked when tournament results enter the wrestli
 
 ## Sources
 
-- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Reaches ten points on G1 Climax 36 night 15 while every B Block competitor remains alive.
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-noon.md) — Reaches ten points on G1 Climax 36 night 15 while every B Block competitor remains alive.
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His NJPW G1 Climax match with Zack Sabre Jr. remains in the Meltzer 5-star ledger.
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — His G1 Climax match against Zack Sabre Jr. remains in Meltzer 5-star continuity.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — His NJPW G1 Climax match with Zack Sabre Jr. remains in the Meltzer 5-star ledger.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — His G1 Climax match against Zack Sabre Jr. remains in Meltzer 5-star continuity.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Yuya Uemura remains in the Meltzer table for a G1 Climax 36 match against Zack Sabre Jr.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Yuya Uemura remains in the Meltzer table for a G1 Climax 36 match against Zack Sabre Jr.
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Yuya Uemura vs. Zack Sabre Jr. remains a July 2026 five-star G1 Climax marker.
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Uemura defeats Zack Sabre Jr. in a G1 Climax 36 result.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Yuya Uemura vs. Zack Sabre Jr. remains a July 2026 five-star G1 Climax marker.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Uemura defeats Zack Sabre Jr. in a G1 Climax 36 result.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Yuya Uemura vs. Zack Sabre Jr. is the newest fetched NJPW five-star match.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Yuya Uemura vs. Zack Sabre Jr. is the newest fetched NJPW five-star match.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His July 19 G1 Climax match with Zack Sabre Jr. remains listed at 5 stars.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — His July 19 G1 Climax match with Zack Sabre Jr. remains listed at 5 stars.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Meltzer table lists Yuya Uemura vs. Zack Sabre Jr. as a five-star G1 Climax match.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Meltzer table lists Yuya Uemura vs. Zack Sabre Jr. as a five-star G1 Climax match.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears in a July 19 NJPW five-star G1 Climax match with Zack Sabre Jr.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appears in a July 19 NJPW five-star G1 Climax match with Zack Sabre Jr.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

@@ -14,7 +14,7 @@ Refactoring economics treats codebase cleanup as an investment in future deliver
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Martin Fowler's "The Economic Benefit of Refactoring" is surfaced as a developer-trending item, keeping maintenance economics in the AI-augmented development thread.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Martin Fowler's "The Economic Benefit of Refactoring" is surfaced as a developer-trending item, keeping maintenance economics in the AI-augmented development thread.
 
 ## Related Concepts
 

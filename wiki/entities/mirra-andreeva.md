@@ -38,8 +38,8 @@ Andreeva's path to the 2026 Roland Garros final is partially the product of a ch
 
 ## Sources
 
-- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **Roland Garros SF win**: def. (15) Marta Kostyuk 6-1, 6-3. Women's Final confirmed: Andreeva vs. Maja Chwalinska, both unseeded/low-seeded. Morning confirmation of finalist status and upcoming final.
-- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — Women's Final confirmed for the weekend: Andreeva vs. Chwalinska. Men's final also set. Evening dispatch reconfirmed finalist status; no result yet.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-05.md) — **Roland Garros SF win**: def. (15) Marta Kostyuk 6-1, 6-3. Women's Final confirmed: Andreeva vs. Maja Chwalinska, both unseeded/low-seeded. Morning confirmation of finalist status and upcoming final.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — Women's Final confirmed for the weekend: Andreeva vs. Chwalinska. Men's final also set. Evening dispatch reconfirmed finalist status; no result yet.
 
 ## Related
 

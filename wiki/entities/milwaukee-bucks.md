@@ -15,7 +15,7 @@ The Milwaukee Bucks are tracked in the sports graph when Giannis Antetokounmpo t
 
 ## Sources
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Bucks GM Jon Horst says trading Giannis Antetokounmpo would be very difficult.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Bucks GM Jon Horst says trading Giannis Antetokounmpo would be very difficult.
 
 ## Related
 

@@ -15,7 +15,7 @@ Batista is tracked as a former WWE star and actor. In the newsletter graph, he a
 
 ## Sources
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — r/SquaredCircle carries a Batista item saying he will not return to wrestling, adding a retirement-boundary note to the evening digest.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — r/SquaredCircle carries a Batista item saying he will not return to wrestling, adding a retirement-boundary note to the evening digest.
 
 ## Related
 

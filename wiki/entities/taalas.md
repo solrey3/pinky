@@ -15,11 +15,11 @@ AI-chip startup focused on etching models into silicon for specialized inference
 
 ## Sources
 
-- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-daytime.md) — AMD acquisition brings its model-in-silicon inference approach into a major chip portfolio.
+- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-daytime.md) — AMD acquisition brings its model-in-silicon inference approach into a major chip portfolio.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — AMD agrees to acquire the startup for model-in-silicon AI inference technology.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — AMD agrees to acquire the startup for model-in-silicon AI inference technology.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — AMD acquires Taalas to improve inference through model-in-silicon specialization.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — AMD acquires Taalas to improve inference through model-in-silicon specialization.
 
 ## Related
 

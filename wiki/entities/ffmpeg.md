@@ -16,7 +16,7 @@ Open-source multimedia framework and command-line toolchain for recording, conve
 ## Sources
 
 - [2026-05-10: ffmpeg Cheatsheet](../sources/ffmpeg.md) — Practical command reference for media conversion, trimming, transcoding, extraction, metadata, and batch workflows.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — A “Twenty One Zero-Days in FFmpeg” security-research item puts media parsing and codec/container handling inside the operational security perimeter.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — A “Twenty One Zero-Days in FFmpeg” security-research item puts media parsing and codec/container handling inside the operational security perimeter.
 
 ## Related
 

@@ -15,7 +15,7 @@ Jack Smith is a former special counsel mentioned in U.S. legal and congressional
 
 ## Sources
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Invited to testify before the Senate Judiciary Committee, putting special-counsel records back into the oversight ledger.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Invited to testify before the Senate Judiciary Committee, putting special-counsel records back into the oversight ledger.
 
 ## Related
 

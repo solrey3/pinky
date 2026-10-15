@@ -15,7 +15,7 @@ Professional golfer; in this source, he shares the Rocket Classic lead at -10 af
 
 ## Sources
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Professional golfer; in this source, he shares the Rocket Classic lead at -10 after round 2.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Professional golfer; in this source, he shares the Rocket Classic lead at -10 after round 2.
 
 ## Related
 

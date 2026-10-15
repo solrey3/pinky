@@ -15,7 +15,7 @@ Professional wrestler; in this source, she beats Giulia to earn the last spot in
 
 ## Sources
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Professional wrestler; in this source, she beats Giulia to earn the last spot in a SummerSlam ladder match.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Professional wrestler; in this source, she beats Giulia to earn the last spot in a SummerSlam ladder match.
 
 ## Related
 

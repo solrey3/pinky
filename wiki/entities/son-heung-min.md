@@ -15,8 +15,8 @@ Son Heung-min is a South Korean footballer. In this source he scores a brace as 
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Son’s brace lifts the MLS All-Stars past Liga MX in a 4–3 showcase.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Son Heung-min is a South Korean footballer. In this source he scores a brace as MLS All-Stars beat Liga MX All-Stars.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Son’s brace lifts the MLS All-Stars past Liga MX in a 4–3 showcase.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Son Heung-min is a South Korean footballer. In this source he scores a brace as MLS All-Stars beat Liga MX All-Stars.
 
 ## Related
 

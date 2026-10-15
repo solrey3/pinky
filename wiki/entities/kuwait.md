@@ -15,7 +15,7 @@ Kuwait is tracked as a Gulf state appearing in regional-security, drone, and Ira
 
 ## Sources
 
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Kuwait intercepted drones as Iran-linked regional tensions remained in the top-news board.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Kuwait intercepted drones as Iran-linked regional tensions remained in the top-news board.
 
 ## Related
 

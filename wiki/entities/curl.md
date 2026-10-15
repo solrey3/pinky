@@ -16,7 +16,7 @@ Command-line data transfer tool and underlying library ecosystem used across scr
 ## Sources
 
 - [2026-05-10: curl Cheatsheet](../sources/curl.md) — Command reference for curl as a core HTTP/networking CLI.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Hacker News item says curl will not accept vulnerability reports during July 2026, making maintainer availability and disclosure windows part of the operational-risk map.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — Hacker News item says curl will not accept vulnerability reports during July 2026, making maintainer availability and disclosure windows part of the operational-risk map.
 
 ## Related
 

@@ -15,7 +15,7 @@ U.S. political figure and former president tracked when national-politics covera
 
 ## Sources
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Named as one of the targets in Trump's WHCA dinner speech coverage.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Named as one of the targets in Trump's WHCA dinner speech coverage.
 
 ## Related
 

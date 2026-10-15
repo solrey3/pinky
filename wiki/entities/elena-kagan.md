@@ -15,7 +15,7 @@ Elena Kagan is tracked here as a U.S. Supreme Court justice whose public comment
 
 ## Sources
 
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Kagan defended the Supreme Court against criticism that it was acting as a “rubber stamp” for Trump.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Kagan defended the Supreme Court against criticism that it was acting as a “rubber stamp” for Trump.
 
 ## Related
 

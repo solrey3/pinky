@@ -15,7 +15,7 @@ OpenAI conversational AI product tracked for model behavior, policy, and user-fa
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — ChatGPT starts blocking direct requests to copy a living author’s style.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — ChatGPT starts blocking direct requests to copy a living author’s style.
 
 ## Related
 

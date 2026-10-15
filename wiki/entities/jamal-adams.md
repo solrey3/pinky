@@ -15,7 +15,7 @@ Jamal Adams is an NFL safety and former Pro Bowler tracked in the sports-news co
 
 ## Sources
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — ESPN reports Adams will join the Minnesota Vikings as training camps begin.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — ESPN reports Adams will join the Minnesota Vikings as training camps begin.
 
 ## Related
 

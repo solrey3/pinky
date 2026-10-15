@@ -15,7 +15,7 @@ Gulf Coast tropical-storm event tracked in the newsletter stream for landfall, f
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The dispatch reports Bertha making landfall in Louisiana and moving toward Texas, making Gulf weather a morning watch item.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — The dispatch reports Bertha making landfall in Louisiana and moving toward Texas, making Gulf weather a morning watch item.
 
 ## Related
 

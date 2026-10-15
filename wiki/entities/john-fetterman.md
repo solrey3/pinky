@@ -15,7 +15,7 @@ John Fetterman is a U.S. senator tracked where party positioning, Senate politic
 
 ## Sources
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Fetterman is highlighted for describing himself as “very libertarian in a lot of ways,” extending the graph around intra-party positioning and political identity.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Fetterman is highlighted for describing himself as “very libertarian in a lot of ways,” extending the graph around intra-party positioning and political identity.
 
 ## Related
 

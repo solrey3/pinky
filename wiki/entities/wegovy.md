@@ -15,7 +15,7 @@ Wegovy is Novo Nordisk's obesity-drug brand; this source focuses on a pill-versi
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Wegovy is Novo Nordisk's obesity-drug brand; this source focuses on a pill-version surprise miss repricing expectations.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Wegovy is Novo Nordisk's obesity-drug brand; this source focuses on a pill-version surprise miss repricing expectations.
 
 ## Related
 

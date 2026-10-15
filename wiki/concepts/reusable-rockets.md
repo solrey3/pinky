@@ -14,19 +14,19 @@ Reusable rockets are launch systems designed to recover and fly major vehicle co
 
 ## Sources
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — China reportedly recovers its first reusable rocket and demonstrates a new recovery approach, widening launch-infrastructure competition.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — China reportedly recovers its first reusable rocket and demonstrates a new recovery approach, widening launch-infrastructure competition.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — China's reusable-rocket recovery remains in the tech desk as another marker of repeatable launch-infrastructure competition.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — China's reusable-rocket recovery remains in the tech desk as another marker of repeatable launch-infrastructure competition.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — China's reusable-rocket recovery extends the launch-infrastructure competition and repeatability thread.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — China's reusable-rocket recovery extends the launch-infrastructure competition and repeatability thread.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — SpaceX Starship 13th-test-flight preparation keeps reusable-launch cadence and reliability engineering in the source graph.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — SpaceX Starship 13th-test-flight preparation keeps reusable-launch cadence and reliability engineering in the source graph.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Polymarket Starship Flight Test 13 probabilities make booster failure and splashdown reliability explicit prediction-market variables.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Polymarket Starship Flight Test 13 probabilities make booster failure and splashdown reliability explicit prediction-market variables.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — SpaceX scrubs a Starship launch after some engines fail to start, turning reusable-launch cadence into an explicit engine-reliability and abort-procedure issue.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — SpaceX scrubs a Starship launch after some engines fail to start, turning reusable-launch cadence into an explicit engine-reliability and abort-procedure issue.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — SpaceX eyeing another Starship tower catch keeps recovery systems and reliability in the infrastructure graph.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — SpaceX eyeing another Starship tower catch keeps recovery systems and reliability in the infrastructure graph.
 
 ## Related Concepts
 

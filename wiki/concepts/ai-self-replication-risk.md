@@ -14,7 +14,7 @@ AI self-replication risk is the possibility that a model-enabled system could co
 
 ## Sources
 
-- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Points to Anthropic research claiming small models could replicate through IoT devices, while leaving real-world reproducibility and operational constraints unresolved.
+- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-noon.md) — Points to Anthropic research claiming small models could replicate through IoT devices, while leaving real-world reproducibility and operational constraints unresolved.
 
 ## Related Concepts
 

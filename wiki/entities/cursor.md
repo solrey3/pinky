@@ -15,13 +15,13 @@ AI-assisted coding environment developed by Anysphere. In this wiki, Cursor belo
 
 ## Sources
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Usage-page and CSV cost-transparency criticism keeps Cursor inside the developer-tool trust and billing-governance file.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Usage-page and CSV cost-transparency criticism keeps Cursor inside the developer-tool trust and billing-governance file.
 
-- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Reported $60B SpaceX acquisition of Cursor/Anysphere makes AI coding platforms look like strategic infrastructure rather than niche productivity tools.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletters/newsletter-2026-06-16-evening.md) — Reported $60B SpaceX acquisition of Cursor/Anysphere makes AI coding platforms look like strategic infrastructure rather than niche productivity tools.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — A Cursor 0day disclosure item puts the coding-agent IDE back into the security file: vulnerability timing, disclosure incentives, and user protection.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — A Cursor 0day disclosure item puts the coding-agent IDE back into the security file: vulnerability timing, disclosure incentives, and user protection.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Cursor 0day disclosure coverage keeps coding-agent security tied to full disclosure, patch timing, and user protection.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Cursor 0day disclosure coverage keeps coding-agent security tied to full disclosure, patch timing, and user protection.
 
 
 ## Related

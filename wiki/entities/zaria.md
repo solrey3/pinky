@@ -15,7 +15,7 @@ Professional wrestler in WWE NXT. In the newsletter stream, Zaria enters the wik
 
 ## Sources
 
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Zaria defeats Tatum Paxley to win the WWE NXT Women's North American title; the same NXT report also sets up Naraku and Kendal Grey as new #1 contenders.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — Zaria defeats Tatum Paxley to win the WWE NXT Women's North American title; the same NXT report also sets up Naraku and Kendal Grey as new #1 contenders.
 
 ## Related
 

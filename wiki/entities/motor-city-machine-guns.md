@@ -15,8 +15,8 @@ The Motor City Machine Guns are the tag team of Chris Sabin and Alex Shelley, st
 
 ## Sources
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Debut on AEW Collision and announce they have signed, making the team a fresh AEW roster item.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Debut on AEW Collision and are reported as All Elite.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Debut on AEW Collision and announce they have signed, making the team a fresh AEW roster item.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Debut on AEW Collision and are reported as All Elite.
 
 ## Related
 

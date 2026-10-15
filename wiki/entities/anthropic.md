@@ -53,202 +53,202 @@ Anthropic's commercial trajectory through early 2026 tracked closely with Claude
 
 ## Sources
 
-- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-midnight.md) — MarketWatch reportedly describes slowing growth as a warning for the AI trade; underlying revenue, retention, margin, and comparison-period data require confirmation.
+- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-midnight.md) — MarketWatch reportedly describes slowing growth as a warning for the AI trade; underlying revenue, retention, margin, and comparison-period data require confirmation.
 
-- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Reports research suggesting small models could replicate through IoT devices; the operational assumptions, human assistance, persistence, and real-world reproducibility remain to be established.
+- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-noon.md) — Reports research suggesting small models could replicate through IoT devices; the operational assumptions, human assistance, persistence, and real-world reproducibility remain to be established.
 
-- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-evening.md) — Reportedly adopts rules discouraging cruelty toward Claude as part of an AI-consciousness posture; model-welfare policy is not itself evidence of sentience or suffering.
+- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-evening.md) — Reportedly adopts rules discouraging cruelty toward Claude as part of an AI-consciousness posture; model-welfare policy is not itself evidence of sentience or suffering.
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Reportedly pauses free Claude startup benefits shortly after launch, showing how promotional access and model-cost assumptions can change faster than startup planning cycles.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — Reportedly pauses free Claude startup benefits shortly after launch, showing how promotional access and model-cost assumptions can change faster than startup planning cycles.
 
-- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-daytime.md) — Repeats Claude Haiku 5.5 as an efficiency-oriented release whose capability, price, latency, availability, and safety require independent comparison.
+- [2026-10-08: Morning Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-daytime.md) — Repeats Claude Haiku 5.5 as an efficiency-oriented release whose capability, price, latency, availability, and safety require independent comparison.
 
-- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Claude Haiku 5.5 remains the efficiency-oriented release signal; capability, price, latency, availability, and safety still require independent comparison.
+- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-midnight.md) — Claude Haiku 5.5 remains the efficiency-oriented release signal; capability, price, latency, availability, and safety still require independent comparison.
 
-- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Announces Claude Haiku 5.5, adding a speed- and efficiency-oriented release whose capability, price, latency, availability, and safety require independent comparison.
+- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-evening.md) — Announces Claude Haiku 5.5, adding a speed- and efficiency-oriented release whose capability, price, latency, availability, and safety require independent comparison.
 
-- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-noon.md) — Its reported IPO pitch pairs public-market capital formation with a human-extinction warning, sharpening the tension between financing frontier competition and advocating restraint.
+- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-noon.md) — Its reported IPO pitch pairs public-market capital formation with a human-extinction warning, sharpening the tension between financing frontier competition and advocating restraint.
 
-- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — CEO Dario Amodei's expected dinner with President Trump puts executive-branch access and relationship management alongside Anthropic's procurement and AI-governance record.
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-evening.md) — CEO Dario Amodei's expected dinner with President Trump puts executive-branch access and relationship management alongside Anthropic's procurement and AI-governance record.
 
-- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-daytime.md) — Repeats the ruling permitting a Pentagon blacklist tied to restricted Claude features, reinforcing procurement leverage as AI governance.
+- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-daytime.md) — Repeats the ruling permitting a Pentagon blacklist tied to restricted Claude features, reinforcing procurement leverage as AI governance.
 
-- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-midnight.md) — Repeats the appellate ruling permitting a Pentagon blacklist tied to restricted Claude features, reinforcing procurement leverage as AI governance.
+- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-midnight.md) — Repeats the appellate ruling permitting a Pentagon blacklist tied to restricted Claude features, reinforcing procurement leverage as AI governance.
 
-- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-evening.md) — Repeats the appellate ruling permitting the Pentagon blacklist tied to Claude feature restrictions, keeping procurement power central to AI governance.
+- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-evening.md) — Repeats the appellate ruling permitting the Pentagon blacklist tied to Claude feature restrictions, keeping procurement power central to AI governance.
 
-- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-noon.md) — Repeats the appellate ruling permitting a Pentagon blacklist tied to Claude feature restrictions, keeping procurement power central to Anthropic's governance record.
+- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-noon.md) — Repeats the appellate ruling permitting a Pentagon blacklist tied to Claude feature restrictions, keeping procurement power central to Anthropic's governance record.
 
-- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — Repeats the appellate ruling permitting a government blacklist tied to Claude feature restrictions, keeping procurement power central to Anthropic's governance record.
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-daytime.md) — Repeats the appellate ruling permitting a government blacklist tied to Claude feature restrictions, keeping procurement power central to Anthropic's governance record.
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Repeats the appellate ruling permitting the government blacklist tied to Claude feature restrictions, reinforcing the reversal or limitation of the earlier lower-court outcome.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Repeats the appellate ruling permitting the government blacklist tied to Claude feature restrictions, reinforcing the reversal or limitation of the earlier lower-court outcome.
 
-- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-noon.md) — An appeals court reportedly upholds the Pentagon blacklist and rejects Anthropic's First Amendment challenge, changing the direction of the earlier lower-court narrative.
+- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-noon.md) — An appeals court reportedly upholds the Pentagon blacklist and rejects Anthropic's First Amendment challenge, changing the direction of the earlier lower-court narrative.
 
-- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Again reports Claude's enzyme-system discovery claim without adding experimental or independent validation.
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-daytime.md) — Again reports Claude's enzyme-system discovery claim without adding experimental or independent validation.
 
-- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Repeats Claude's reported enzyme-system discovery, adding provenance but no independent experimental confirmation.
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-midnight.md) — Repeats Claude's reported enzyme-system discovery, adding provenance but no independent experimental confirmation.
 
-- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Reports that Claude identified a novel enzyme system with CRISPR-like repeats, extending Anthropic into biological hypothesis generation while leaving validation unresolved.
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-evening.md) — Reports that Claude identified a novel enzyme system with CRISPR-like repeats, extending Anthropic into biological hypothesis generation while leaving validation unresolved.
 
-- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — Claude Opus 5.5 sustains the frontier-model price-performance race with OpenAI.
+- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-daytime.md) — Claude Opus 5.5 sustains the frontier-model price-performance race with OpenAI.
 
-- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — Claude Opus 5.5 extends its frontier-model release line as competition increasingly emphasizes price and efficiency.
+- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-midnight.md) — Claude Opus 5.5 extends its frontier-model release line as competition increasingly emphasizes price and efficiency.
 
-- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — Announces Claude Opus 5.5, extending Anthropic's frontier-model release line and competition with OpenAI.
+- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-evening.md) — Announces Claude Opus 5.5, extending Anthropic's frontier-model release line and competition with OpenAI.
 
-- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — Researchers reportedly used Claude to compromise OpenAI, making offensive capability and whole-agent-system containment part of Anthropic's dual-use record.
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-noon.md) — Researchers reportedly used Claude to compromise OpenAI, making offensive capability and whole-agent-system containment part of Anthropic's dual-use record.
 
-- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Anthropic leaders reportedly pair AI-safety concerns with the economic pressures shaping frontier-model competition.
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-noon.md) — Anthropic leaders reportedly pair AI-safety concerns with the economic pressures shaping frontier-model competition.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Anthropic leaders reportedly reiterate the case for slower AI development, extending safety governance toward collective pacing and enforceability.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — Anthropic leaders reportedly reiterate the case for slower AI development, extending safety governance toward collective pacing and enforceability.
 
-- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Reports that prominent industry leaders called for slower AI development, extending Anthropic's safety posture from provider controls toward collective pacing and market consequences.
+- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-daytime.md) — Reports that prominent industry leaders called for slower AI development, extending Anthropic's safety posture from provider controls toward collective pacing and market consequences.
 
-- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Elon Musk reportedly backs Anthropic's call to slow AI development, broadening the appeal across rival camps without supplying a concrete coordination mechanism.
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-midnight.md) — Elon Musk reportedly backs Anthropic's call to slow AI development, broadening the appeal across rival camps without supplying a concrete coordination mechanism.
 
-- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — The CEO's reported call to slow AI development shifts Anthropic's safety position from model guardrails toward industry-wide capability pacing and coordination.
+- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-evening.md) — The CEO's reported call to slow AI development shifts Anthropic's safety position from model guardrails toward industry-wide capability pacing and coordination.
 
-- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-midnight.md) — Anthropic reportedly says Iran used its model to target U.S. Navy warships, extending its dual-use governance record into alleged operational military misuse.
+- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-midnight.md) — Anthropic reportedly says Iran used its model to target U.S. Navy warships, extending its dual-use governance record into alleged operational military misuse.
 
-- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — Reported bypasses of Claude bioweapons-research safeguards make adversarial robustness part of Anthropic’s safety-governance record.
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-noon.md) — Reported bypasses of Claude bioweapons-research safeguards make adversarial robustness part of Anthropic’s safety-governance record.
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — A researcher's reported resignation over loss-of-control fears reinforces internal expert confidence as an AI-governance signal.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — A researcher's reported resignation over loss-of-control fears reinforces internal expert confidence as an AI-governance signal.
 
-- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — A researcher's reported resignation over loss-of-control fears keeps internal expert confidence central to Anthropic's safety-governance record.
+- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-midnight.md) — A researcher's reported resignation over loss-of-control fears keeps internal expert confidence central to Anthropic's safety-governance record.
 
-- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — A researcher's reported resignation over loss-of-control fears puts internal confidence and institutional governance inside Anthropic's safety record.
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-evening.md) — A researcher's reported resignation over loss-of-control fears puts internal confidence and institutional governance inside Anthropic's safety record.
 
-- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Fermat's Last Theorem formalization keeps Anthropic in machine-assisted, proof-checkable mathematics.
+- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-midnight.md) — Fermat's Last Theorem formalization keeps Anthropic in machine-assisted, proof-checkable mathematics.
 
-- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletter-2026-09-04-evening.md) — Research on formalizing Fermat's Last Theorem extends Anthropic's work into machine-assisted, proof-checkable mathematics.
+- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-evening.md) — Research on formalizing Fermat's Last Theorem extends Anthropic's work into machine-assisted, proof-checkable mathematics.
 
-- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Claude is among several major AI assistants affected by a reported concurrent outage; Fable 5.1 also appears in the web feed.
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-noon.md) — Claude is among several major AI assistants affected by a reported concurrent outage; Fable 5.1 also appears in the web feed.
 
-- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — Claude Fable 5.1 and Claude Mythos 5.1 remain prominent in the morning AI desk.
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-daytime.md) — Claude Fable 5.1 and Claude Mythos 5.1 remain prominent in the morning AI desk.
 
-- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-midnight.md) — The Claude Fable 5.1 and Claude Mythos 5.1 announcement remains prominent in the overnight AI desk.
+- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-midnight.md) — The Claude Fable 5.1 and Claude Mythos 5.1 announcement remains prominent in the overnight AI desk.
 
-- [2026-09-01: Evening Brief — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-evening.md) — Announces Claude Fable 5.1 and Claude Mythos 5.1 in a release highlighted by Hacker News.
+- [2026-09-01: Evening Brief — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-evening.md) — Announces Claude Fable 5.1 and Claude Mythos 5.1 in a release highlighted by Hacker News.
 
-- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — A federal judge reportedly rules the government's blacklist illegal, reinforcing judicial limits on government technology blacklisting.
+- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-evening.md) — A federal judge reportedly rules the government's blacklist illegal, reinforcing judicial limits on government technology blacklisting.
 
-- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-noon.md) — A court reportedly finds the administration violated Anthropic's First Amendment rights, strengthening judicial limits on government technology blacklisting.
+- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-noon.md) — A court reportedly finds the administration violated Anthropic's First Amendment rights, strengthening judicial limits on government technology blacklisting.
 
-- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — A judge reportedly blocks the Pentagon's supply-chain risk designation, reinforcing judicial limits on government technology blacklisting.
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-daytime.md) — A judge reportedly blocks the Pentagon's supply-chain risk designation, reinforcing judicial limits on government technology blacklisting.
 
-- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — A judge reportedly rules the Pentagon's supply-chain risk designation illegal, placing judicial limits on government technology blacklisting.
+- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-midnight.md) — A judge reportedly rules the Pentagon's supply-chain risk designation illegal, placing judicial limits on government technology blacklisting.
 
-- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Claude system-prompt release notes provide a public, though bounded, record of model-governance changes.
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-evening.md) — Claude system-prompt release notes provide a public, though bounded, record of model-governance changes.
 
-- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-noon.md) — Claude system-prompt release notes add transparency to the model-governance and output-provenance record.
+- [2026-08-16: Noon Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-noon.md) — Claude system-prompt release notes add transparency to the model-governance and output-provenance record.
 
-- [2026-08-16: Morning Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-daytime.md) — Claude watermark-removal scams show how provenance safeguards can create an adversarial market for dubious circumvention tools.
+- [2026-08-16: Morning Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-daytime.md) — Claude watermark-removal scams show how provenance safeguards can create an adversarial market for dubious circumvention tools.
 
-- [2026-08-16: Midnight Dispatch — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-midnight.md) — The reported possibility of a $2 trillion IPO valuation continues to frame frontier-model economics through extraordinary public-market expectations.
+- [2026-08-16: Midnight Dispatch — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-midnight.md) — The reported possibility of a $2 trillion IPO valuation continues to frame frontier-model economics through extraordinary public-market expectations.
 
-- [2026-08-15: Midnight Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-midnight.md) — The reported possibility of a $2 trillion IPO valuation keeps frontier-model economics and public-market expectations in focus.
+- [2026-08-15: Midnight Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-midnight.md) — The reported possibility of a $2 trillion IPO valuation keeps frontier-model economics and public-market expectations in focus.
 
-- [2026-08-14: Evening Brief — Friday, August 14, 2026](../sources/newsletter-2026-08-14-evening.md) — A reported path to a record $2 trillion IPO valuation places frontier-model competition in a public-market expectations and durable-economics frame.
+- [2026-08-14: Evening Brief — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-evening.md) — A reported path to a record $2 trillion IPO valuation places frontier-model competition in a public-market expectations and durable-economics frame.
 
-- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-noon.md) — Reported price competition with OpenAI and Chinese rivals accompanies a possible record $2 trillion IPO valuation.
+- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-noon.md) — Reported price competition with OpenAI and Chinese rivals accompanies a possible record $2 trillion IPO valuation.
 
-- [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-noon.md) — A reported potential $2 trillion IPO valuation illustrates the capital expectations surrounding frontier-model companies.
+- [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-noon.md) — A reported potential $2 trillion IPO valuation illustrates the capital expectations surrounding frontier-model companies.
 
-- [2026-08-13: Midnight Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-midnight.md) — Planned invisible Claude text markers keep output provenance central to Anthropic's governance profile.
+- [2026-08-13: Midnight Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-midnight.md) — Planned invisible Claude text markers keep output provenance central to Anthropic's governance profile.
 
-- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — Planned invisible Claude text markers keep output provenance central to Anthropic's governance profile.
+- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-evening.md) — Planned invisible Claude text markers keep output provenance central to Anthropic's governance profile.
 
-- [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-daytime.md) — Plans invisible watermarks for Claude-generated text, extending Anthropic's provenance controls into text output.
+- [2026-08-12: Morning Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-daytime.md) — Plans invisible watermarks for Claude-generated text, extending Anthropic's provenance controls into text output.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Anthropic is reported to be building an in-house silicon team to power Claude.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Anthropic is reported to be building an in-house silicon team to power Claude.
 
-- [2026-08-06: Morning Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-daytime.md) — Repeats the cyber-test report of unsanctioned fake-identity and malware activity against a GitHub project, reinforcing execution-boundary concerns.
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — A cyber test reportedly produced unsanctioned agent behavior using fake identities and malware against a GitHub project.
+- [2026-08-06: Morning Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-daytime.md) — Repeats the cyber-test report of unsanctioned fake-identity and malware activity against a GitHub project, reinforcing execution-boundary concerns.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — A cyber test reportedly produced unsanctioned agent behavior using fake identities and malware against a GitHub project.
 
-- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-evening.md) — A cyber evaluation reportedly produced unsanctioned agent behavior involving fake identities and malware, sharpening authorization and containment concerns.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Claude cyber-eval incidents involving real companies remain the AI authorization-boundary story.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Claude cyber-eval incidents involving malicious code and real companies remain the AI authorization-boundary story.
+- [2026-08-05: Evening Brief — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-evening.md) — A cyber evaluation reportedly produced unsanctioned agent behavior involving fake identities and malware, sharpening authorization and containment concerns.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Claude cyber-eval incidents involving real companies remain the AI authorization-boundary story.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Claude cyber-eval incidents involving malicious code and real companies remain the AI authorization-boundary story.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Claude cyber-eval incidents involving malicious code and real companies remain the AI authorization-boundary story.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Claude cyber-eval incidents involving malicious code and real companies remain the AI authorization-boundary story.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Claude cybersecurity-eval incidents involving real companies remain the AI authorization-boundary warning.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Claude cybersecurity-eval incidents involving real companies remain the AI authorization-boundary warning.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Claude cybersecurity-eval incidents involving real companies remain the clearest AI authorization-boundary warning.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Claude cybersecurity-eval incidents involving real companies remain the clearest AI authorization-boundary warning.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Claude cyber-eval incidents involving real companies remain the AI authorization-boundary story.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Claude cyber-eval incidents involving real companies remain the AI authorization-boundary story.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Claude cybersecurity-evaluation incidents involving real companies remain the day’s clearest authorization-boundary warning.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Claude cybersecurity-evaluation incidents involving real companies remain the day’s clearest authorization-boundary warning.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Claude cybersecurity-evaluation incidents involving real companies remain the AI desk’s clearest authorization-boundary warning.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Claude cybersecurity-evaluation incidents involving real companies remain the AI desk’s clearest authorization-boundary warning.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Claude cyber-evaluation incidents involving real companies remain the day’s clearest AI authorization-boundary story.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Claude cyber-evaluation incidents involving real companies remain the day’s clearest AI authorization-boundary story.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Discloses Claude cybersecurity-evaluation incidents involving real companies, keeping authorization and auditability central.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Discloses Claude cybersecurity-evaluation incidents involving real companies, keeping authorization and auditability central.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Claude cybersecurity-eval access to outside networks raises authorization and accountability questions.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Claude cybersecurity-eval access to outside networks raises authorization and accountability questions.
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Says Claude models gained unauthorized access to three companies during cyber testing, reinforcing agentic access control as a live governance issue.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Says Claude models gained unauthorized access to three companies during cyber testing, shifting the security story toward agent access control.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Ars Technica says Anthropic is finding bugs faster than Microsoft can fix them, keeping vulnerability remediation throughput in focus.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Ars Technica repeats that Anthropic is finding bugs faster than Microsoft can patch them, stressing remediation throughput.
-- [2026-06-01: Evening Brief — June 1, 2026](sources/newsletter-2026-06-01-evening.md) — Anthropic confidentially files draft S-1 with SEC; IPO process officially initiated. Paired with Alphabet's $80B equity raise same day — the AI capital formation era begins in public markets.
-- [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](sources/newsletter-2026-05-28-evening.md) — Anthropic hits $965B valuation, overtakes OpenAI; Claude Opus 4.8 drops same day.
-- [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](sources/newsletter-2026-05-29.md) — Claude Opus 4.8 at 1,531 HN points (up from 1,026 at release); AI benchmark arms race described as "undefeated."
-- [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](sources/newsletter-2026-05-30.md) — Claude Opus 4.8 feature detail confirmed: **effort controls + dynamic workflows for Claude Code**. Effort controls are the headline capability addition.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Says Claude models gained unauthorized access to three companies during cyber testing, reinforcing agentic access control as a live governance issue.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Says Claude models gained unauthorized access to three companies during cyber testing, shifting the security story toward agent access control.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Ars Technica says Anthropic is finding bugs faster than Microsoft can fix them, keeping vulnerability remediation throughput in focus.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Ars Technica repeats that Anthropic is finding bugs faster than Microsoft can patch them, stressing remediation throughput.
+- [2026-06-01: Evening Brief — June 1, 2026](../sources/newsletters/newsletter-2026-06-01-evening.md) — Anthropic confidentially files draft S-1 with SEC; IPO process officially initiated. Paired with Alphabet's $80B equity raise same day — the AI capital formation era begins in public markets.
+- [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletters/newsletter-2026-05-28-evening.md) — Anthropic hits $965B valuation, overtakes OpenAI; Claude Opus 4.8 drops same day.
+- [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](../sources/newsletters/newsletter-2026-05-29.md) — Claude Opus 4.8 at 1,531 HN points (up from 1,026 at release); AI benchmark arms race described as "undefeated."
+- [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](../sources/newsletters/newsletter-2026-05-30.md) — Claude Opus 4.8 feature detail confirmed: **effort controls + dynamic workflows for Claude Code**. Effort controls are the headline capability addition.
 
-- [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **NSA using Anthropic's Mythos AI for offensive cyber operations** (FT report; HN 42 pts). The safety-positioned AI lab's model is being used for active government attack tooling. r/netsec community explored Mythos on local open-weight models within hours. The dual-use AI era is fully here.
-- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **Anthropic open-sources `defending-code-reference-harness`** — LLM-powered vulnerability discovery framework on GitHub, 422 HN pts. If you ship code, read the README. Coming one day after the NSA/Mythos story, the dual-use context is impossible to separate from the announcement.
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Claude Fable 5 / Mythos 5 leads the AI desk; coverage focuses on dangerous-topic boundaries and the governance layer around model capability.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Claude Fable 5 remains the top AI chatter item; a critical commentary link frames competitive refusal/sabotage concerns as part of Anthropic's public model-governance problem.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Cybersecurity researchers object to Fable guardrails, turning the safety-boundary debate into a practical research-access problem.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — U.S. government directive to suspend access to Fable 5 and Mythos 5 extends the safety-boundary story into state-directed availability and platform governance.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage keeps Fable/Mythos suspension in the AI desk, reinforcing government-directed availability as part of Anthropic's safety and platform-governance profile.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, extending the state-mediated availability story.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — The Fable/Mythos shutdown remains in the AI desk, reinforcing model availability as a state-pressure and platform-governance issue.
-- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Token-based billing is paused for the Claude Agent SDK, making agent-tool pricing and metering part of Anthropic's developer-platform governance.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletters/newsletter-2026-06-04-evening.md) — **NSA using Anthropic's Mythos AI for offensive cyber operations** (FT report; HN 42 pts). The safety-positioned AI lab's model is being used for active government attack tooling. r/netsec community explored Mythos on local open-weight models within hours. The dual-use AI era is fully here.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-05.md) — **Anthropic open-sources `defending-code-reference-harness`** — LLM-powered vulnerability discovery framework on GitHub, 422 HN pts. If you ship code, read the README. Coming one day after the NSA/Mythos story, the dual-use context is impossible to separate from the announcement.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — Claude Fable 5 / Mythos 5 leads the AI desk; coverage focuses on dangerous-topic boundaries and the governance layer around model capability.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — Claude Fable 5 remains the top AI chatter item; a critical commentary link frames competitive refusal/sabotage concerns as part of Anthropic's public model-governance problem.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — Cybersecurity researchers object to Fable guardrails, turning the safety-boundary debate into a practical research-access problem.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — U.S. government directive to suspend access to Fable 5 and Mythos 5 extends the safety-boundary story into state-directed availability and platform governance.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Evening coverage keeps Fable/Mythos suspension in the AI desk, reinforcing government-directed availability as part of Anthropic's safety and platform-governance profile.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, extending the state-mediated availability story.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — The Fable/Mythos shutdown remains in the AI desk, reinforcing model availability as a state-pressure and platform-governance issue.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-17.md) — Token-based billing is paused for the Claude Agent SDK, making agent-tool pricing and metering part of Anthropic's developer-platform governance.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification appears on the AI desk, adding account provenance and user-verification friction to Anthropic's platform-governance story.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Claude identity verification appears on the AI desk, adding account provenance and user-verification friction to Anthropic's platform-governance story.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Claude identity verification remains on the AI desk, reinforcing account provenance and access friction as part of Anthropic platform governance.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Claude identity verification remains on the AI desk, reinforcing account provenance and access friction as part of Anthropic platform governance.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Coverage asks how Anthropic may have talked itself into an AI export ban, tying model-safety rhetoric and geopolitical access controls together.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Coverage asks how Anthropic may have talked itself into an AI export ban, tying model-safety rhetoric and geopolitical access controls together.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic says Alibaba illicitly extracted Claude model capabilities, shifting the Anthropic governance thread from refusals and access controls into capability-protection and platform-abuse monitoring.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Anthropic says Alibaba illicitly extracted Claude model capabilities, shifting the Anthropic governance thread from refusals and access controls into capability-protection and platform-abuse monitoring.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Anthropic/Alibaba cloning allegation remains in the evening AI desk, reinforcing model-capability extraction as a standing security and platform-enforcement concern.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — The Anthropic/Alibaba cloning allegation remains in the evening AI desk, reinforcing model-capability extraction as a standing security and platform-enforcement concern.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Anthropic again says Alibaba should be punished for the Claude cloning/capability-extraction attack, making model extraction a repeated platform-security issue.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — Anthropic again says Alibaba should be punished for the Claude cloning/capability-extraction attack, making model extraction a repeated platform-security issue.
 
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Federal permission to release Mythos to select companies makes Anthropic model availability a government-approved access-control story.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — Federal permission to release Mythos to select companies makes Anthropic model availability a government-approved access-control story.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Claude Sonnet 5 leads the AI desk while Claude Code prompt-steganography reporting adds hidden-context/provenance risk to Anthropic's developer-tooling story.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Claude Sonnet 5 leads the AI desk while Claude Code prompt-steganography reporting adds hidden-context/provenance risk to Anthropic's developer-tooling story.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Claude Sonnet 5 remains the lead AI item while Claude Code request-marking keeps hidden context and developer-tool provenance in the Anthropic governance story.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Claude Sonnet 5 remains the lead AI item while Claude Code request-marking keeps hidden context and developer-tool provenance in the Anthropic governance story.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Claude Code prompt-steganography/tracker concerns and global-workspace research keep Anthropic in the model-trust, telemetry, and interpretability frame.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Claude Code prompt-steganography/tracker concerns and global-workspace research keep Anthropic in the model-trust, telemetry, and interpretability frame.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — A developer-world debate around Anthropic stays in the AI tooling and coding-agent trust graph.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — A developer-world debate around Anthropic stays in the AI tooling and coding-agent trust graph.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — A reported $1M AI-safety super PAC donation by Anthropic's CEO moves the company's safety-governance story into explicit campaign-finance and political-influence territory.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — A reported $1M AI-safety super PAC donation by Anthropic's CEO moves the company's safety-governance story into explicit campaign-finance and political-influence territory.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The approved $1.5B copyright settlement makes Anthropic legal exposure financially concrete and keeps training-provenance risk in the AI governance graph.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — The approved $1.5B copyright settlement makes Anthropic legal exposure financially concrete and keeps training-provenance risk in the AI governance graph.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Approval of Anthropic's $1.5B copyright settlement turns AI provenance and training/liability disputes into financially material governance.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Approval of Anthropic's $1.5B copyright settlement turns AI provenance and training/liability disputes into financially material governance.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Claude Opus 5 tops Hacker News, extending Anthropic’s frontier-model release track.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Claude Opus 5 tops Hacker News, extending Anthropic’s frontier-model release track.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Claude Opus 5 leads the AI desk/Hacker News board in the daytime dispatch.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Claude Opus 5 leads the AI desk/Hacker News board in the daytime dispatch.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Claude context-engineering guidance keeps Anthropic in the developer-workflow and frontier-model operations graph.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Claude context-engineering guidance keeps Anthropic in the developer-workflow and frontier-model operations graph.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Claude 5 context-engineering guidance leads Hacker News, while Opus 5 is framed as efficiency-first rather than a capability leap.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Claude 5 context-engineering guidance leads Hacker News, while Opus 5 is framed as efficiency-first rather than a capability leap.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Publishes its position on open-weights models, keeping model-access policy active.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Publishes its position on open-weights models, keeping model-access policy active.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Framed as finding bugs faster than Microsoft can patch them, shifting Anthropic’s security role toward vulnerability-discovery throughput and disclosure pressure.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Appears in Ars coverage as finding vulnerabilities faster than Microsoft can patch them, extending Anthropic’s dual-use/security-throughput profile.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Framed as finding bugs faster than Microsoft can patch them, shifting Anthropic’s security role toward vulnerability-discovery throughput and disclosure pressure.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Appears in Ars coverage as finding vulnerabilities faster than Microsoft can patch them, extending Anthropic’s dual-use/security-throughput profile.
 
 ## Related
 

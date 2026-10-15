@@ -15,9 +15,9 @@ Zyn is a nicotine pouch product. In the newsletter graph it appears as a public-
 
 ## Sources
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — FDA permission for safer-than-smoking messaging makes Zyn a concrete nicotine harm-reduction and label-governance example.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — FDA permission for safer-than-smoking messaging makes Zyn a concrete nicotine harm-reduction and label-governance example.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Reason item repeats the safer-than-smoking claim as a concrete nicotine harm-reduction label-governance case.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Reason item repeats the safer-than-smoking claim as a concrete nicotine harm-reduction label-governance case.
 
 ## Related
 

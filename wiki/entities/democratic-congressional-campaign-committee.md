@@ -15,7 +15,7 @@ The Democratic Congressional Campaign Committee is the Democratic Party organiza
 
 ## Sources
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through a The Hill headline on House Democrats expanding the Red to Blue target list after primaries and redistricting.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Appears through a The Hill headline on House Democrats expanding the Red to Blue target list after primaries and redistricting.
 
 ## Related
 

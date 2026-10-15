@@ -34,57 +34,57 @@ source_count: 30
 
 ## Sources
 
-- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — Announced to defend the AEW World Championship against Jon Moxley at All Out.
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-daytime.md) — Announced to defend the AEW World Championship against Jon Moxley at All Out.
 
-- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Announced to defend the AEW World Championship against Jon Moxley at All Out.
+- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-midnight.md) — Announced to defend the AEW World Championship against Jon Moxley at All Out.
 
-- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Scheduled to open Dynamite as the new AEW World Champion.
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-evening.md) — Scheduled to open Dynamite as the new AEW World Champion.
 
-- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Defeats Kenny Omega at Wembley to win the AEW World Championship at All In London.
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-evening.md) — Defeats Kenny Omega at Wembley to win the AEW World Championship at All In London.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Wins at AEW Grand Slam Mexico.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — Wins at AEW Grand Slam Mexico.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Will Ospreay appears in the Meltzer 5-star AEW Redemption tag match.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Will Ospreay appears in the Meltzer 5-star AEW Redemption tag match.
 
 - [2026-05-27: Raw notes](../../raw/people/will-ospreay.md)
-- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletter-2026-06-04.md) — **Owen Hart Men's Tournament Semi-Final (June 3 Dynamite):** Ospreay defeats Mark Davis in a chaotic semi-final. Advances to the **Owen Hart Men's Final** and earns a spot at **AEW Forbidden Door**. The Summer Blockbuster season is Ospreay's showcase moment heading into the summer PPV calendar.
-- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Owen Hart Cup SF win confirmed in evening recap. r/squaredcircle called the match "full chaotic closing stretch." Ospreay is in the Final heading into Forbidden Door.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — AEW feed note: Will Ospreay and Alex Windsor have tied the knot.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletters/newsletter-2026-06-04.md) — **Owen Hart Men's Tournament Semi-Final (June 3 Dynamite):** Ospreay defeats Mark Davis in a chaotic semi-final. Advances to the **Owen Hart Men's Final** and earns a spot at **AEW Forbidden Door**. The Summer Blockbuster season is Ospreay's showcase moment heading into the summer PPV calendar.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletters/newsletter-2026-06-04-evening.md) — Owen Hart Cup SF win confirmed in evening recap. r/squaredcircle called the match "full chaotic closing stretch." Ospreay is in the Final heading into Forbidden Door.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — AEW feed note: Will Ospreay and Alex Windsor have tied the knot.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Will Ospreay vs. Swerve Strickland remains listed as a **5.5-star** Forbidden Door match.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Will Ospreay vs. Swerve Strickland remains listed as a **5.5-star** Forbidden Door match.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Will Ospreay remains linked to the 5.5-star Forbidden Door match against Swerve Strickland.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Will Ospreay remains linked to the 5.5-star Forbidden Door match against Swerve Strickland.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Will Ospreay remains in the Forbidden Door 5.5-star ratings continuity against Swerve Strickland.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Will Ospreay remains in the Forbidden Door 5.5-star ratings continuity against Swerve Strickland.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Will Ospreay vs. Swerve Strickland remains in the 5.5-star Forbidden Door reference set.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Will Ospreay vs. Swerve Strickland remains in the 5.5-star Forbidden Door reference set.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Will Ospreay remains in the Meltzer ratings archive via the 5.5-star Forbidden Door match against Swerve Strickland.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Will Ospreay remains in the Meltzer ratings archive via the 5.5-star Forbidden Door match against Swerve Strickland.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Ospreay appears through r/SquaredCircle Wembley chatter and the Forbidden Door five-star match table.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Ospreay appears through r/SquaredCircle Wembley chatter and the Forbidden Door five-star match table.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Will Ospreay remains in the match-ratings table through the Forbidden Door bout with Swerve Strickland.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Will Ospreay remains in the match-ratings table through the Forbidden Door bout with Swerve Strickland.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Ospreay elaborates on leaving NJPW for AEW, adding a career-movement note to the cross-promotional graph.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Ospreay elaborates on leaving NJPW for AEW, adding a career-movement note to the cross-promotional graph.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Will Ospreay remains in the Meltzer 5-star table through the Forbidden Door match with Swerve Strickland.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Ospreay remains in the Forbidden Door 5.5-star table with Swerve Strickland.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Will Ospreay remains in the Meltzer 5-star table through the Forbidden Door match with Swerve Strickland.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Ospreay remains in the Forbidden Door 5.5-star table with Swerve Strickland.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Will Ospreay remains attached to the 5-star-plus Forbidden Door match with Swerve Strickland.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Will Ospreay remains attached to the 5-star-plus Forbidden Door match with Swerve Strickland.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Ospreay vs. Swerve Strickland remains a 5.5-star Forbidden Door ratings-table entry.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Ospreay appears through an AEW/NJPW pandemic-era IWGP title reflection and the Forbidden Door five-star match table.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Ospreay vs. Swerve Strickland remains a 5.5-star Forbidden Door ratings-table entry.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Ospreay appears through an AEW/NJPW pandemic-era IWGP title reflection and the Forbidden Door five-star match table.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Ospreay remains in the latest 5-star ledger through the Forbidden Door match with Swerve Strickland.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Ospreay remains in the latest 5-star ledger through the Forbidden Door match with Swerve Strickland.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Will Ospreay remains in the Meltzer ratings table through the 5.5-star Forbidden Door match with Swerve Strickland.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Will Ospreay remains in the Forbidden Door five-star-plus ratings entry against Swerve Strickland.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Will Ospreay remains in the Meltzer ratings table through the 5.5-star Forbidden Door match with Swerve Strickland.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Will Ospreay remains in the Forbidden Door five-star-plus ratings entry against Swerve Strickland.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His Forbidden Door match with Swerve Strickland remains listed at 5.5 stars.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — His Forbidden Door match with Swerve Strickland remains listed at 5.5 stars.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Ospreay is positioned as Omega's All In opponent after the Redemption angle.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Promises to “pull the trigger” on Kenny Omega in AEW Dynamite coverage.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Ospreay is positioned as Omega's All In opponent after the Redemption angle.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Promises to “pull the trigger” on Kenny Omega in AEW Dynamite coverage.
 
 ## Related
 

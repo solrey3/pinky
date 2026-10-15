@@ -15,83 +15,83 @@ Charles Schwab is a brokerage and financial-services firm tracked in the newslet
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — SCHW trades close to its 52-week high in the lunch-hour stock-watch table.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears as a positive financial-stock component near its 52-week high.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — SCHW rises 3.21% near its 52-week high, reinforcing broker/financial strength.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — SCHW trades close to its 52-week high in the lunch-hour stock-watch table.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Appears as a positive financial-stock component near its 52-week high.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — SCHW rises 3.21% near its 52-week high, reinforcing broker/financial strength.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SCHW remains a positive brokerage/financials note inside the completed-week market board.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — SCHW remains a positive brokerage/financials note inside the completed-week market board.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Schwab gains 3.21%, another financial positive near its 52-week high.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Schwab gains 3.21%, another financial positive near its 52-week high.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Schwab trades near its 52-week high and reinforces financial-sector resilience.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Schwab trades near its 52-week high and reinforces financial-sector resilience.
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Rises 2.68%, one of the financial-sector offsets to chip-led weakness.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Rises 2.68%, keeping brokerages/financials in the resilient side of the evening tape.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Schwab gains 2.07%, adding to the resilient financial/quality pocket in the mixed tape.
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — SCHW rises **12.57%**, a major-move alert that puts brokers back on the market-watch list beside the oil shock.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Rises 2.68%, one of the financial-sector offsets to chip-led weakness.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Rises 2.68%, keeping brokerages/financials in the resilient side of the evening tape.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Schwab gains 2.07%, adding to the resilient financial/quality pocket in the mixed tape.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — SCHW rises **12.57%**, a major-move alert that puts brokers back on the market-watch list beside the oil shock.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Schwab jumps **10.22%**, one of the few large positive single-stock moves in an otherwise mixed/rate-sensitive close.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Schwab jumps **10.22%**, one of the few large positive single-stock moves in an otherwise mixed/rate-sensitive close.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Charles Schwab rises **10.22%**, a positive single-name move inside an otherwise mixed tape.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — Charles Schwab rises **10.22%**, a positive single-name move inside an otherwise mixed tape.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Charles Schwab jumps 6.40%, one of the strongest finance/brokerage moves in the stock-watch table.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Charles Schwab jumps 6.40%, one of the strongest finance/brokerage moves in the stock-watch table.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Charles Schwab rises 6.40%, one of the strongest single-name moves on the watchlist and a financial-sector counterweight to chip/growth divergence.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Charles Schwab rises 6.40%, one of the strongest single-name moves on the watchlist and a financial-sector counterweight to chip/growth divergence.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Charles Schwab gains **6.31%**, a notable financial-sector winner in a close where Dow and Russell lag.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Charles Schwab gains **6.31%**, a notable financial-sector winner in a close where Dow and Russell lag.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Charles Schwab rises 6.31%, a strong financial-sector move within the watched equity board.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Charles Schwab rises 6.31%, a strong financial-sector move within the watched equity board.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Schwab rises 6.31%, adding a financial/brokerage risk-appetite signal beside the AI-chip rally.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — SCHW rises **6.31%**, one of the stronger non-chip stock-watch gains.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Schwab rises 6.31%, adding a financial/brokerage risk-appetite signal beside the AI-chip rally.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — SCHW rises **6.31%**, one of the stronger non-chip stock-watch gains.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Charles Schwab gains 6.31%, one of the stronger non-chip moves in the stock-watch table.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Charles Schwab gains 6.31%, one of the stronger non-chip moves in the stock-watch table.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Charles Schwab rises 6.31%, one of the strongest non-chip financial names in the stock-watch table.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Charles Schwab rises 6.31%, one of the strongest non-chip financial names in the stock-watch table.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Charles Schwab gains **1.75%** and stays near the upper boards.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Charles Schwab gains **1.75%** and stays near the upper boards.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Charles Schwab gains **1.75%**, a financial-sector pocket of resilience while headline indexes fall.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Charles Schwab gains **1.75%**, a financial-sector pocket of resilience while headline indexes fall.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Charles Schwab slips **0.81%**, softer than the Nasdaq-led rebound and part of the uneven financial read.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Charles Schwab slips **0.81%**, softer than the Nasdaq-led rebound and part of the uneven financial read.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Charles Schwab slips **0.81%** while remaining close to the upper end of its 52-week range.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Charles Schwab slips **0.81%** while remaining close to the upper end of its 52-week range.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Charles Schwab gains **1.07%**, a modest positive in the brokerage/financials watchlist.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Charles Schwab gains **1.07%**, a modest positive in the brokerage/financials watchlist.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Charles Schwab gains **1.07%**, keeping brokerages modestly positive in the green tape.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Charles Schwab gains **1.07%**, keeping brokerages modestly positive in the green tape.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Charles Schwab edges higher 0.87%, holding up while Nasdaq and Russell weaken.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Charles Schwab edges higher 0.87%, holding up while Nasdaq and Russell weaken.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Charles Schwab falls **1.51%**, a mild financial-sector drag compared with the steeper tech selloff.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Charles Schwab falls **1.51%**, a mild financial-sector drag compared with the steeper tech selloff.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Charles Schwab falls **1.51%**, softer than the chip complex but no longer a clear risk-on leader.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Schwab slips 1.51% but remains near its high-range context in the recurring stock watch.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Charles Schwab falls **1.51%**, softer than the chip complex but no longer a clear risk-on leader.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Schwab slips 1.51% but remains near its high-range context in the recurring stock watch.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Charles Schwab falls 1.51%, weaker than the strongest financial/defensive pockets but not the main stress center.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Charles Schwab falls 1.51%, weaker than the strongest financial/defensive pockets but not the main stress center.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Schwab gains 0.16% and remains near its high side, one of the resilient financial pockets.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Schwab gains 0.16% and remains near its high side, one of the resilient financial pockets.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Charles Schwab falls 1.13%, softening after recent resilience in financial/brokerage exposure.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Charles Schwab falls 1.13%, softening after recent resilience in financial/brokerage exposure.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Charles Schwab falls 1.13%, part of the mixed financials/value watchlist in a selective tape.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Charles Schwab falls 1.13%, part of the mixed financials/value watchlist in a selective tape.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Charles Schwab falls 1.94%, softening the prior selective-financial resilience.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Schwab is modestly lower but remains in the recurring financial/watchlist board.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Charles Schwab falls 1.94%, softening the prior selective-financial resilience.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Schwab is modestly lower but remains in the recurring financial/watchlist board.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Charles Schwab edges higher, keeping select financial resilience visible.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Charles Schwab edges higher, keeping select financial resilience visible.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Schwab is modestly positive, one of the more resilient financial names on the board.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Schwab is modestly positive, one of the more resilient financial names on the board.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Charles Schwab gains 1.60%, a green financial pocket in the split tape.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Charles Schwab gains 1.60%, a green financial pocket in the split tape.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Gains **+1.60%**, a financial green pocket inside the split board.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Gains **+1.60%**, a financial green pocket inside the split board.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Rises 6.01%, a financial green pocket in the split close.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Rises 6.01%, a financial green pocket in the split close.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Charles Schwab gains 5.50%, one of the green financial pockets in the selective selloff.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Rises 3.64% near its 52-week high, one of the stronger financial havens in the tape.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Charles Schwab gains 5.50%, one of the green financial pockets in the selective selloff.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Rises 3.64% near its 52-week high, one of the stronger financial havens in the tape.
 
 ## Related
 

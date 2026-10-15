@@ -15,7 +15,7 @@ Jarrett says TNA Dark Side of the Ring was originally planned as seven episodes.
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Jarrett says TNA Dark Side of the Ring was originally planned as seven episodes.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Jarrett says TNA Dark Side of the Ring was originally planned as seven episodes.
 
 ## Related
 

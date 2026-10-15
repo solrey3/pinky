@@ -15,7 +15,7 @@ George Washington is tracked in the wiki when public-history coverage turns his 
 
 ## Sources
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — A slavery exhibition at Washington's Philadelphia home is replaced by the Trump administration, making the item a public-memory and historical-accountability node.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — A slavery exhibition at Washington's Philadelphia home is replaced by the Trump administration, making the item a public-memory and historical-accountability node.
 
 ## Related
 

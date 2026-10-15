@@ -15,7 +15,7 @@ Austin FC is an MLS club appearing in the sports feed through league and academy
 
 ## Sources
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — ESPN reports police are probing misconduct allegations at the Austin FC youth academy.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — ESPN reports police are probing misconduct allegations at the Austin FC youth academy.
 
 ## Related
 

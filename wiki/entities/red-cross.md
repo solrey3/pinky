@@ -15,7 +15,7 @@ Humanitarian and disaster-relief organization network; in the newsletter graph, 
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — The Hill reports that the Red Cross declared its second-ever blood-supply crisis, making blood logistics a health-system capacity issue.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — The Hill reports that the Red Cross declared its second-ever blood-supply crisis, making blood logistics a health-system capacity issue.
 
 ## Related
 

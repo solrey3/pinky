@@ -15,7 +15,7 @@ Adam Copeland is a professional wrestler tracked in the wrestling graph through 
 
 ## Sources
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Rhino says he wants to share the ring with Adam Copeland and Christian Cage on AEW Dynamite.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Rhino says he wants to share the ring with Adam Copeland and Christian Cage on AEW Dynamite.
 
 ## Related
 

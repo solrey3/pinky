@@ -15,7 +15,7 @@ NFL quarterback tracked through injury, camp, and league-news items.
 
 ## Sources
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Reported fully cleared for Chiefs camp and feeling healthy.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Reported fully cleared for Chiefs camp and feeling healthy.
 
 ## Related
 

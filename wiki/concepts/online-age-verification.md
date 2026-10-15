@@ -14,23 +14,23 @@ Online age verification is the policy and technical problem of determining wheth
 
 ## Sources
 
-- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — Repeats a court's reported finding that Utah's VPN mandate requires technically impossible compliance, keeping architectural feasibility central to age- and access-control policy.
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-daytime.md) — Repeats a court's reported finding that Utah's VPN mandate requires technically impossible compliance, keeping architectural feasibility central to age- and access-control policy.
 
-- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletter-2026-10-02-evening.md) — A court reportedly agrees that Utah's VPN mandate requires technically impossible compliance, making architectural feasibility a threshold issue for age- and access-control policy.
+- [2026-10-02: Evening Brief — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-evening.md) — A court reportedly agrees that Utah's VPN mandate requires technically impossible compliance, making architectural feasibility a threshold issue for age- and access-control policy.
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Google Play age-signals API coverage moves age checks into Android distribution infrastructure while emphasizing privacy-preserving signals.
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — The KIDS Act item frames age checks as internet plumbing, not just a content-policy rule, because broad verification mandates can change how users prove identity online.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Google Play age-signals API coverage moves age checks into Android distribution infrastructure while emphasizing privacy-preserving signals.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — The KIDS Act item frames age checks as internet plumbing, not just a content-policy rule, because broad verification mandates can change how users prove identity online.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — House passage of a kids online-safety package keeps child-safety compliance tied to age checks, access controls, and privacy tradeoffs.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — House passage of a kids online-safety package keeps child-safety compliance tied to age checks, access controls, and privacy tradeoffs.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Pew/NewsNation youth-social-media-ban coverage pushes child-safety politics toward age gates, identity checks, and privacy tradeoffs.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Pew/NewsNation youth-social-media-ban coverage pushes child-safety politics toward age gates, identity checks, and privacy tradeoffs.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Pew's social-media-under-16 ban item repeats in the feeds, keeping child-safety policy tied to age gates, identity checks, and privacy tradeoffs.
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — EU consideration of a child social-media ban extends the age/access-control debate into platform eligibility rules.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — Pew's social-media-under-16 ban item repeats in the feeds, keeping child-safety policy tied to age gates, identity checks, and privacy tradeoffs.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — EU consideration of a child social-media ban extends the age/access-control debate into platform eligibility rules.
 
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — France's under-15 social-media ban extends the European age-gating trend and raises the platform-access/privacy tradeoff again.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Google's Play Store age-signals API moves age checks deeper into platform infrastructure.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — France's under-15 social-media ban extends the European age-gating trend and raises the platform-access/privacy tradeoff again.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Google's Play Store age-signals API moves age checks deeper into platform infrastructure.
 
 ## Related Concepts
 

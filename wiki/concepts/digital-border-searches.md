@@ -14,19 +14,19 @@ Digital border searches are inspections, demands, or seizures involving phones a
 
 ## Sources
 
-- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Repeats a court document presented as allowing warrantless phone searches at the border, where broad search authority meets extensive personal data.
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-daytime.md) — Repeats a court document presented as allowing warrantless phone searches at the border, where broad search authority meets extensive personal data.
 
-- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — A reported ruling permits warrantless phone searches at the border, preserving the conflict between the border-search exception and extensive digital records.
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-midnight.md) — A reported ruling permits warrantless phone searches at the border, preserving the conflict between the border-search exception and extensive digital records.
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Repeats the Supreme Court challenge to warrantless border-phone searches, preserving the conflict between the border-search exception and the depth of modern device records.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Repeats the Supreme Court challenge to warrantless border-phone searches, preserving the conflict between the border-search exception and the depth of modern device records.
 
-- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — A Supreme Court case challenges warrantless phone searches at the border, testing whether the border-search exception can accommodate extensive digital records.
+- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-evening.md) — A Supreme Court case challenges warrantless phone searches at the border, testing whether the border-search exception can accommodate extensive digital records.
 
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Reports that the Second Circuit rejected limits on cell-phone border searches, preserving broad access to devices that contain extensive personal records.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — Reports that the Second Circuit rejected limits on cell-phone border searches, preserving broad access to devices that contain extensive personal records.
 
-- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-noon.md) — A Supreme Court appeal challenges five warrantless searches of one traveler's phone, testing whether the border-search exception can absorb repeated access to extensive digital records.
+- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-noon.md) — A Supreme Court appeal challenges five warrantless searches of one traveler's phone, testing whether the border-search exception can absorb repeated access to extensive digital records.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Reason frames border agents as able to lie to search phones while travelers risk prison exposure for wiping their own data.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Reason frames border agents as able to lie to search phones while travelers risk prison exposure for wiping their own data.
 
 ## Related Concepts
 

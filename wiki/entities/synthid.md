@@ -15,9 +15,9 @@ SynthID is Google's AI watermarking and provenance technology, tracked when gene
 
 ## Sources
 
-- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Reports wider detector availability, while the older linked article leaves rollout timing, supported media, durability, and false-positive handling to primary confirmation.
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-noon.md) — Reports wider detector availability, while the older linked article leaves rollout timing, supported media, durability, and false-positive handling to primary confirmation.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Ars Technica frames SynthID as hard to break and increasingly adopted, but insufficient by itself to solve AI disinformation.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Ars Technica frames SynthID as hard to break and increasingly adopted, but insufficient by itself to solve AI disinformation.
 
 ## Related
 

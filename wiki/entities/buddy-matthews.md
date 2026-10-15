@@ -15,11 +15,11 @@ Professional wrestler tracked for AEW availability and injury updates.
 
 ## Sources
 
-- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — His clearance to return remains a leading AEW availability update.
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-noon.md) — His clearance to return remains a leading AEW availability update.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Announces that he has been cleared to compete again.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Announces that he has been cleared to compete again.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Announces that he is medically cleared to return to competition.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Announces that he is medically cleared to return to competition.
 
 ## Related
 

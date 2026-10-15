@@ -15,9 +15,9 @@ StreetComplete is a mobile app that turns OpenStreetMap maintenance into small l
 
 ## Sources
 
-- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-noon.md) — Reports that StreetComplete entered public beta on iOS, broadening access to its OpenStreetMap field-survey workflow.
+- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-noon.md) — Reports that StreetComplete entered public beta on iOS, broadening access to its OpenStreetMap field-survey workflow.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — StreetComplete gets Hacker News attention as an example of small, repeatable contributions improving OpenStreetMap data quality.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — StreetComplete gets Hacker News attention as an example of small, repeatable contributions improving OpenStreetMap data quality.
 
 ## Related
 

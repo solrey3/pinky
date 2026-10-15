@@ -15,7 +15,7 @@ Federal law-enforcement and protective-service agency tracked here when protecti
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The dispatch reports that the Secret Service has investigated 10,000 threats in 2026, making protective-intelligence workload part of the institutional-risk picture.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — The dispatch reports that the Secret Service has investigated 10,000 threats in 2026, making protective-intelligence workload part of the institutional-risk picture.
 
 ## Related
 

@@ -15,7 +15,7 @@ Matisse Thybulle is tracked as an NBA player when free-agency or roster moves en
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Thybulle agrees to a one-year Lakers deal, making him the NBA roster-move item of the evening.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Thybulle agrees to a one-year Lakers deal, making him the NBA roster-move item of the evening.
 
 ## Related
 

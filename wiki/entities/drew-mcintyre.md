@@ -36,7 +36,7 @@ source_count: 2
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/drew-mcintyre.md)
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Rumor Roundup (CageSideSeats) flags **WWE creative changes, Drew McIntyre, SmackDown three-hour switch** as active June 1 rumors. McIntyre's status and potential brand move being discussed in backstage circles.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — Rumor Roundup (CageSideSeats) flags **WWE creative changes, Drew McIntyre, SmackDown three-hour switch** as active June 1 rumors. McIntyre's status and potential brand move being discussed in backstage circles.
 
 ## Related
 

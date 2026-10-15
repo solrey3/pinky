@@ -15,7 +15,7 @@ Federal watchdog for the U.S. Department of Health and Human Services.
 
 ## Sources
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — The newsletter cites an expected **$5.56B** in recoveries and savings from healthcare fraud oversight.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — The newsletter cites an expected **$5.56B** in recoveries and savings from healthcare fraud oversight.
 
 ## Related
 

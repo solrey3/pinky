@@ -15,84 +15,84 @@ The highest court in the United States. In the newsletter graph, it is tracked w
 
 ## Sources
 
-- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Hears a consequential climate dispute; hearing coverage does not establish the eventual jurisdictional or merits ruling.
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-midnight.md) — Hears a consequential climate dispute; hearing coverage does not establish the eventual jurisdictional or merits ruling.
 
-- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Hears a major climate dispute; hearing coverage does not establish the eventual jurisdictional or merits ruling.
+- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-evening.md) — Hears a major climate dispute; hearing coverage does not establish the eventual jurisdictional or merits ruling.
 
-- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-noon.md) — Again reportedly questions oil companies' effort to halt state climate-liability suits; oral questioning does not establish jurisdiction, merits, or outcome.
+- [2026-10-06: Noon Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-noon.md) — Again reportedly questions oil companies' effort to halt state climate-liability suits; oral questioning does not establish jurisdiction, merits, or outcome.
 
-- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Opens its term with culture-war disputes and again reportedly questions oil companies' effort to halt state climate-liability suits; oral questioning does not establish an outcome.
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-daytime.md) — Opens its term with culture-war disputes and again reportedly questions oil companies' effort to halt state climate-liability suits; oral questioning does not establish an outcome.
 
-- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Again reportedly questions oil companies' effort to halt climate-liability suits; oral questioning does not establish the merits or outcome.
+- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-midnight.md) — Again reportedly questions oil companies' effort to halt climate-liability suits; oral questioning does not establish the merits or outcome.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Reportedly questions oil companies' effort to halt state climate lawsuits; the petition, jurisdictional issue, and hearing record are needed before inferring an outcome.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Reportedly questions oil companies' effort to halt state climate lawsuits; the petition, jurisdictional issue, and hearing record are needed before inferring an outcome.
 
-- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Again previews a term involving guns, immigration, and climate policy; case dockets and records remain necessary for doctrinal conclusions.
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-midnight.md) — Again previews a term involving guns, immigration, and climate policy; case dockets and records remain necessary for doctrinal conclusions.
 
-- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Again previews disputes over guns, immigration, and climate policy; docket records remain necessary for case-specific conclusions.
+- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-evening.md) — Again previews disputes over guns, immigration, and climate policy; docket records remain necessary for case-specific conclusions.
 
-- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Repeats that the new term includes major disputes over guns, immigration, and climate policy; case records remain necessary for doctrinal conclusions.
+- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-noon.md) — Repeats that the new term includes major disputes over guns, immigration, and climate policy; case records remain necessary for doctrinal conclusions.
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Opens a consequential term with reported disputes over guns, immigration, and climate policy; case-specific records are needed before drawing doctrinal conclusions.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Opens a consequential term with reported disputes over guns, immigration, and climate policy; case-specific records are needed before drawing doctrinal conclusions.
 
-- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-noon.md) — Repeats the report that the Court opens its new term at record-low public approval, preserving the institutional-legitimacy signal without adding doctrine.
+- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-noon.md) — Repeats the report that the Court opens its new term at record-low public approval, preserving the institutional-legitimacy signal without adding doctrine.
 
-- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — Reportedly opens a new term at record-low public approval, adding an institutional-legitimacy signal rather than a new doctrinal holding.
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-daytime.md) — Reportedly opens a new term at record-low public approval, adding an institutional-legitimacy signal rather than a new doctrinal holding.
 
-- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — Reportedly stays a third-party-removal injunction shortly after briefing; the procedural posture and order are needed before drawing a broader doctrinal conclusion.
+- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-daytime.md) — Reportedly stays a third-party-removal injunction shortly after briefing; the procedural posture and order are needed before drawing a broader doctrinal conclusion.
 
-- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Repeats the reported revival of immigration-database voter checks without adding procedural detail, keeping election administration tied to federal identity records.
+- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-daytime.md) — Repeats the reported revival of immigration-database voter checks without adding procedural detail, keeping election administration tied to federal identity records.
 
-- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-midnight.md) — Repeats the reported revival of immigration-database voter checks, keeping federal identity records linked to election administration without new procedural detail.
+- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-midnight.md) — Repeats the reported revival of immigration-database voter checks, keeping federal identity records linked to election administration without new procedural detail.
 
-- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — Repeats the reported revival of immigration-database voter checks, keeping federal identity records linked to election administration without additional procedural detail.
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-evening.md) — Repeats the reported revival of immigration-database voter checks, keeping federal identity records linked to election administration without additional procedural detail.
 
-- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-daytime.md) — Repeats the reported revival of immigration-database voter checks, extending the election-administration and federal identity-data thread without new procedural detail.
+- [2026-09-27: Morning Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-daytime.md) — Repeats the reported revival of immigration-database voter checks, extending the election-administration and federal identity-data thread without new procedural detail.
 
-- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-midnight.md) — Repeats the reported revival of immigration-database voter checks, extending the election-administration and federal identity-data thread without new procedural detail.
+- [2026-09-27: Midnight Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-midnight.md) — Repeats the reported revival of immigration-database voter checks, extending the election-administration and federal identity-data thread without new procedural detail.
 
-- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-evening.md) — Repeats the reported revival of immigration-database voter checks, keeping federal identity records and election administration linked while procedural context remains unresolved.
+- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-evening.md) — Repeats the reported revival of immigration-database voter checks, keeping federal identity records and election administration linked while procedural context remains unresolved.
 
-- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — Repeats the reported revival of immigration-database voter checks, linking federal identity records to election administration while leaving procedural context unresolved.
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-daytime.md) — Repeats the reported revival of immigration-database voter checks, linking federal identity records to election administration while leaving procedural context unresolved.
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Repeats the revived immigration-database voter-check effort and pending border-phone-search challenge; both require procedural context before broad doctrinal conclusions.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Repeats the revived immigration-database voter-check effort and pending border-phone-search challenge; both require procedural context before broad doctrinal conclusions.
 
-- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — Reportedly revives immigration-database voter checks and faces a border-phone-search challenge, joining election administration with digital-privacy limits.
+- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-evening.md) — Reportedly revives immigration-database voter checks and faces a border-phone-search challenge, joining election administration with digital-privacy limits.
 
-- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-noon.md) — Reportedly blocks new mail-ballot requirements ahead of the midterms, continuing the election-administration limits tracked in the morning dispatch.
+- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-noon.md) — Reportedly blocks new mail-ballot requirements ahead of the midterms, continuing the election-administration limits tracked in the morning dispatch.
 
-- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — Leaves intact a lower-court ruling against Trump's mail-ballot restrictions, preserving a judicial check on election-administration power.
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-daytime.md) — Leaves intact a lower-court ruling against Trump's mail-ballot restrictions, preserving a judicial check on election-administration power.
 
-- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Declines to block a lower-court ruling against Trump's mail-ballot executive order, preserving a judicial check on election-administration power.
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-midnight.md) — Declines to block a lower-court ruling against Trump's mail-ballot executive order, preserving a judicial check on election-administration power.
 
-- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-daytime.md) — Repeats that the Court halted a Trump-backed Missouri redistricting dispute, keeping election-map authority in the constitutional-boundary thread.
+- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-daytime.md) — Repeats that the Court halted a Trump-backed Missouri redistricting dispute, keeping election-map authority in the constitutional-boundary thread.
 
-- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletter-2026-09-11-evening.md) — Halts a Trump-backed Missouri redistricting dispute, placing the Court in the election-administration and gerrymandering thread.
+- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-evening.md) — Halts a Trump-backed Missouri redistricting dispute, placing the Court in the election-administration and gerrymandering thread.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Rules that geofence warrants count as Fourth Amendment searches, adding a constitutional privacy boundary around location-data investigations.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — Rules that geofence warrants count as Fourth Amendment searches, adding a constitutional privacy boundary around location-data investigations.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — The geofence-warrant ruling remains a lead privacy/legal headline, reinforcing the Court as a boundary-setter for bulk location-data searches.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — The geofence-warrant ruling remains a lead privacy/legal headline, reinforcing the Court as a boundary-setter for bulk location-data searches.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Blocks Trump's anti-birthright-citizenship push, adding a citizenship/immigration constitutional boundary one day after geofence-warrant privacy coverage.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Blocks Trump's anti-birthright-citizenship push, adding a citizenship/immigration constitutional boundary one day after geofence-warrant privacy coverage.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Birthright-citizenship fallout and Gorsuch civil-liberties coverage keep the Court in the constitutional-boundary thread.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Birthright-citizenship fallout and Gorsuch civil-liberties coverage keep the Court in the constitutional-boundary thread.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Firing-power litigation keeps the Court in the executive-control and independent-agency boundary thread.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Firing-power litigation keeps the Court in the executive-control and independent-agency boundary thread.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Post-Bruen gun-control coverage keeps the Court tied to Second Amendment boundaries and constitutional constraints on regulation.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Post-Bruen gun-control coverage keeps the Court tied to Second Amendment boundaries and constitutional constraints on regulation.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Illinois home-equity reform is explicitly framed as a delayed state response to a Supreme Court property-rights ruling.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Illinois home-equity reform is explicitly framed as a delayed state response to a Supreme Court property-rights ruling.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — A pipeline land-seizure dispute headed toward the Court frames takings doctrine around compensation and owner-borne litigation costs.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — A pipeline land-seizure dispute headed toward the Court frames takings doctrine around compensation and owner-borne litigation costs.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — A pipeline land-seizure case headed toward Supreme Court scrutiny keeps takings doctrine tied to infrastructure costs and property-rights remedies.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — A pipeline land-seizure case headed toward Supreme Court scrutiny keeps takings doctrine tied to infrastructure costs and property-rights remedies.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Agrees to hear the seized-plane civil-forfeiture case, extending the Court thread from takings and geofence warrants into forfeiture proportionality.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Elena Kagan defends the Court against “rubber stamp” criticism tied to Trump-era decisions.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Agrees to hear the seized-plane civil-forfeiture case, extending the Court thread from takings and geofence warrants into forfeiture proportionality.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Elena Kagan defends the Court against “rubber stamp” criticism tied to Trump-era decisions.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — The DOJ asks the Court to restore Trump’s mail-in voting executive order, keeping election rules in the constitutional-boundary file.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — The DOJ asks the Court to restore Trump’s mail-in voting executive order, keeping election rules in the constitutional-boundary file.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — The Trump v. Slaughter aftermath keeps Supreme Court removal-power doctrine in the agency-independence thread.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — The Trump v. Slaughter aftermath keeps Supreme Court removal-power doctrine in the agency-independence thread.
 
 ## Related
 

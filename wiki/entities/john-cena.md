@@ -36,7 +36,7 @@ source_count: 2
 
 - [2026-05-27: Raw notes](../../raw/people/john-cena.md)
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A wrestling item says he confirmed the smiling tap-out in his final WWE match was his idea.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — A wrestling item says he confirmed the smiling tap-out in his final WWE match was his idea.
 
 ## Related
 

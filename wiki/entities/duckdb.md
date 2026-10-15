@@ -15,11 +15,11 @@ An open-source, in-process analytical SQL database designed for fast OLAP worklo
 
 ## Sources
 
-- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-noon.md) — AWS announces its acquisition of DuckDB, placing the portable analytics database inside a hyperscaler's organizational orbit.
+- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-noon.md) — AWS announces its acquisition of DuckDB, placing the portable analytics database inside a hyperscaler's organizational orbit.
 
-- [2026-08-17: Evening Brief — Monday, August 17, 2026](../sources/newsletter-2026-08-17-evening.md) — The DuckDB 2.0 preview remains on the technology desk as the project's next major-release signal.
+- [2026-08-17: Evening Brief — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-evening.md) — The DuckDB 2.0 preview remains on the technology desk as the project's next major-release signal.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — A DuckDB 2.0 preview signals the project's next major database release.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — A DuckDB 2.0 preview signals the project's next major database release.
 
 ## Related
 

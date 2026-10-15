@@ -15,9 +15,9 @@ Jerry Jeudy is an NFL wide receiver. In the newsletter graph he appears through 
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Disputes a video that appeared to show a quarterback pick during Browns camp.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Disputes a video that appeared to show a quarterback pick during Browns camp.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Jeudy disputes a video appearing to show a quarterback pick at Browns camp.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Jeudy disputes a video appearing to show a quarterback pick at Browns camp.
 
 ## Related
 

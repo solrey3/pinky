@@ -29,13 +29,13 @@ Ukrainian WTA player seeded 15th at the 2026 Roland Garros. Known as a powerful 
 
 ## Sources
 
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](sources/newsletter-2026-06-01.md) — Kostyuk beats Swiatek 7-5, 6-1 in Roland Garros R4; three-time defending champion eliminated. The 2026 women's draw is wide open.
-- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — QF win confirmed: defeats Elina Svitolina (7) 6-3, 2-6, 6-2. Dedicates the win to **"the Ukrainian people and their resilience."** Advances to Roland Garros SF.
-- [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — QF result fully confirmed in the evening roundup: def. Svitolina 6-3, 2-6, 6-2. Advancing to the Roland Garros 2026 SF alongside Diana Shnaider, Maja Chwalinska, and a fourth finalist TBD. The women's draw is the most open in recent memory after Swiatek, Gauff, and now Sabalenka (shocked by Shnaider) all exited.
-- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Morning confirmation of SF position. Women's SF field is Shnaider, Kostyuk, Andreeva, +1. Kostyuk is a live contender for the Coupe Suzanne-Lenglen after beating two top seeds en route.
-- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **SF LOSS: defeated by (8) Mirra Andreeva 6-1, 6-3.** Roland Garros 2026 ends in the semifinal. A comprehensive result — the 6-1 first set reflects Andreeva's superior baseline control on the day. Kostyuk's run — beating Swiatek and Svitolina, reaching the SF — is the best Grand Slam result of her career to date.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — Kostyuk beats Swiatek 7-5, 6-1 in Roland Garros R4; three-time defending champion eliminated. The 2026 women's draw is wide open.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletters/newsletter-2026-06-03.md) — QF win confirmed: defeats Elina Svitolina (7) 6-3, 2-6, 6-2. Dedicates the win to **"the Ukrainian people and their resilience."** Advances to Roland Garros SF.
+- [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletters/newsletter-2026-06-03-evening.md) — QF result fully confirmed in the evening roundup: def. Svitolina 6-3, 2-6, 6-2. Advancing to the Roland Garros 2026 SF alongside Diana Shnaider, Maja Chwalinska, and a fourth finalist TBD. The women's draw is the most open in recent memory after Swiatek, Gauff, and now Sabalenka (shocked by Shnaider) all exited.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletters/newsletter-2026-06-04.md) — Morning confirmation of SF position. Women's SF field is Shnaider, Kostyuk, Andreeva, +1. Kostyuk is a live contender for the Coupe Suzanne-Lenglen after beating two top seeds en route.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-05.md) — **SF LOSS: defeated by (8) Mirra Andreeva 6-1, 6-3.** Roland Garros 2026 ends in the semifinal. A comprehensive result — the 6-1 first set reflects Andreeva's superior baseline control on the day. Kostyuk's run — beating Swiatek and Svitolina, reaching the SF — is the best Grand Slam result of her career to date.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Kostyuk appears in the Wimbledon scoreboard through a straight-sets loss to Linda Noskova.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Kostyuk appears in the Wimbledon scoreboard through a straight-sets loss to Linda Noskova.
 
 ## Related
 

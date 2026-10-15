@@ -19,7 +19,7 @@ Linux distribution and platform project focused on running Linux on Apple Silico
 
 ## Sources
 
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — macOS 27 beta breaks Asahi Linux boot support, turning a platform update into an operating-system compatibility issue.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — macOS 27 beta breaks Asahi Linux boot support, turning a platform update into an operating-system compatibility issue.
 
 ## Related
 

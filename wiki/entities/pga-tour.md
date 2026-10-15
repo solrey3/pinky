@@ -15,11 +15,11 @@ The PGA Tour is the main U.S.-based professional men’s golf tour. In this sour
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — PGA leaderboard context centers on Davis Riley leading the Rocket Classic.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — PGA leaderboard context centers on Davis Riley leading the Rocket Classic.
 
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Rocket Classic Round 1 coverage highlights Peter Malnati at 9-under and keeps PGA leaderboard tracking live.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — PGA Tour appears through the Rocket Classic leaderboard and Trey Mullinax suspension.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — The PGA Tour is the main U.S.-based professional men’s golf tour. In this source it appears through a six-month doping suspension.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Rocket Classic Round 1 coverage highlights Peter Malnati at 9-under and keeps PGA leaderboard tracking live.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — PGA Tour appears through the Rocket Classic leaderboard and Trey Mullinax suspension.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — The PGA Tour is the main U.S.-based professional men’s golf tour. In this source it appears through a six-month doping suspension.
 
 ## Related
 

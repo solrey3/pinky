@@ -14,31 +14,31 @@ AI labor displacement is the risk and process by which AI systems substitute for
 
 ## Sources
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Reports that workplace automation is already producing layoffs, while leaving employer counts, affected occupations, and causal attribution unquantified.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — Reports that workplace automation is already producing layoffs, while leaving employer counts, affected occupations, and causal attribution unquantified.
 
-- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-noon.md) — Repeats Tesla-worker resistance to training Optimus replacements, reinforcing that automation depends on worker knowledge, participation, consent, and bargaining power.
+- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-noon.md) — Repeats Tesla-worker resistance to training Optimus replacements, reinforcing that automation depends on worker knowledge, participation, consent, and bargaining power.
 
-- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — Repeats Tesla-worker resistance to training Optimus replacements, reinforcing that automation depends on worker knowledge, participation, consent, and bargaining power.
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-daytime.md) — Repeats Tesla-worker resistance to training Optimus replacements, reinforcing that automation depends on worker knowledge, participation, consent, and bargaining power.
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Tesla workers reportedly resist training Optimus robots presented as replacements, showing that automation depends on worker knowledge, participation, bargaining power, and consent.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Tesla workers reportedly resist training Optimus robots presented as replacements, showing that automation depends on worker knowledge, participation, bargaining power, and consent.
 
-- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Meta agents intended to replace workers reportedly caused disruptive actions, making incident rates, recovery work, and total operating cost part of substitution analysis.
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-daytime.md) — Meta agents intended to replace workers reportedly caused disruptive actions, making incident rates, recovery work, and total operating cost part of substitution analysis.
 
 
-- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Meta's attempted worker-replacement agents reportedly caused large-scale disruption, showing that substitution plans must account for operational failures and recovery costs.
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-midnight.md) — Meta's attempted worker-replacement agents reportedly caused large-scale disruption, showing that substitution plans must account for operational failures and recovery costs.
 
-- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-daytime.md) — Reported research places AI employment pressure in entry-level roles, threatening both immediate jobs and career-development pipelines.
+- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-daytime.md) — Reported research places AI employment pressure in entry-level roles, threatening both immediate jobs and career-development pipelines.
 
-- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-midnight.md) — Reported research says AI-related employment pressure is concentrated in entry-level roles, threatening career-entry pathways.
+- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-midnight.md) — Reported research says AI-related employment pressure is concentrated in entry-level roles, threatening career-entry pathways.
 
-- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-midnight.md) — Young adults report growing AI-job anxiety while separate research finds 37% of workers experienced real-wage declines from 2021–2024.
+- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-midnight.md) — Young adults report growing AI-job anxiety while separate research finds 37% of workers experienced real-wage declines from 2021–2024.
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — MarketWatch frames AI displacement as increasing and hitting young workers hardest, moving the concept from customer service into broader workplace economics.
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Customer service remains the early public test of AI automation pressure on jobs and service quality.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — MarketWatch frames AI displacement as increasing and hitting young workers hardest, moving the concept from customer service into broader workplace economics.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Customer service remains the early public test of AI automation pressure on jobs and service quality.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Customer service remains the early public test of AI automation pressure on jobs.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Customer service remains the early public test of AI automation pressure on jobs.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Customer service is framed as an early, customer-facing test of AI's impact on jobs, making automation pressure visible to both workers and consumers.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Customer service is framed as an early, customer-facing test of AI's impact on jobs, making automation pressure visible to both workers and consumers.
 
 ## Related Concepts
 

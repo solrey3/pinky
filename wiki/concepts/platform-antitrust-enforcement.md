@@ -14,42 +14,42 @@ Platform antitrust enforcement is competition-law action aimed at dominant digit
 
 ## Sources
 
-- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — Dismissal of Chegg and Penske's Google AI-search suits illustrates that procedural or pleading failure in particular cases does not settle the broader competition effects of answer-layer substitution.
+- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-evening.md) — Dismissal of Chegg and Penske's Google AI-search suits illustrates that procedural or pleading failure in particular cases does not settle the broader competition effects of answer-layer substitution.
 
-- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-midnight.md) — Google's ad-tech ruling again shows that proving illegal monopoly conduct does not automatically secure structural separation.
+- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-midnight.md) — Google's ad-tech ruling again shows that proving illegal monopoly conduct does not automatically secure structural separation.
 
-- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — Google's ad-tech result again demonstrates that an illegal-monopoly finding does not automatically produce structural separation.
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-evening.md) — Google's ad-tech result again demonstrates that an illegal-monopoly finding does not automatically produce structural separation.
 
-- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Google's ad-tech ruling again shows that an illegal-monopoly finding does not guarantee structural separation.
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-noon.md) — Google's ad-tech ruling again shows that an illegal-monopoly finding does not guarantee structural separation.
 
-- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — Google's ad-tech ruling separates an illegal-monopoly finding from the higher bar for structural breakup.
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-daytime.md) — Google's ad-tech ruling separates an illegal-monopoly finding from the higher bar for structural breakup.
 
-- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Google's ad-tech result again separates a finding of dominance from the higher bar for structural breakup.
+- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-midnight.md) — Google's ad-tech result again separates a finding of dominance from the higher bar for structural breakup.
 
-- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Google's avoided ad-tech breakup again shows that a competition case does not guarantee structural separation.
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-evening.md) — Google's avoided ad-tech breakup again shows that a competition case does not guarantee structural separation.
 
-- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-noon.md) — A judge rejects breakup of Google's ad-tech business, illustrating the gap between an enforcement case and securing a structural remedy.
+- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-noon.md) — A judge rejects breakup of Google's ad-tech business, illustrating the gap between an enforcement case and securing a structural remedy.
 
-- [2026-09-01: Midnight Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-midnight.md) — A reported FTC case over Amazon's alleged hidden advertiser fees illustrates adjacent deceptive-practices enforcement rather than a stated antitrust action.
+- [2026-09-01: Midnight Dispatch — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-midnight.md) — A reported FTC case over Amazon's alleged hidden advertiser fees illustrates adjacent deceptive-practices enforcement rather than a stated antitrust action.
 
-- [2026-08-31: Evening Brief — Monday, August 31, 2026](../sources/newsletter-2026-08-31-evening.md) — A reported FTC advertising-deception case against Amazon illustrates adjacent consumer-protection enforcement; Google's Manifest V2 removal shows technical platform control outside a stated antitrust action.
+- [2026-08-31: Evening Brief — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-evening.md) — A reported FTC advertising-deception case against Amazon illustrates adjacent consumer-protection enforcement; Google's Manifest V2 removal shows technical platform control outside a stated antitrust action.
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Reddit criticism of Google AI Overviews extends the platform-power question into AI-generated summaries and publisher traffic value.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Reddit’s AI Overviews complaint extends platform-power analysis into AI-mediated search traffic and publisher economics.
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Reddit’s criticism of Google AI Overviews keeps answer-layer substitution in the platform-power frame.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Reddit criticism of Google AI Overviews extends the platform-power question into AI-generated summaries and publisher traffic value.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Reddit’s AI Overviews complaint extends platform-power analysis into AI-mediated search traffic and publisher economics.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Reddit’s criticism of Google AI Overviews keeps answer-layer substitution in the platform-power frame.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Reddit criticism of Google AI Overviews extends platform-power concerns into answer-layer substitution.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Reddit criticism of Google AI Overviews extends platform-power concerns into answer-layer substitution.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Android developer-verification exemptions keep app-store gatekeeping and platform-control policy in the regulatory graph.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Android developer-verification exemptions keep app-store gatekeeping and platform-control policy in the regulatory graph.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Reddit’s objection to Google AI Overviews extends platform-power questions from ranking to answer-layer substitution and publisher value.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Reddit’s objection to Google AI Overviews extends platform-power questions from ranking to answer-layer substitution and publisher value.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Reddit’s critique of Google AI Overviews extends platform-power concerns from ranking and search defaults into answer-layer traffic substitution.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Reddit’s critique of Google AI Overviews extends platform-power concerns from ranking and search defaults into answer-layer traffic substitution.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The European Union fines Google $1B and orders equal treatment for competitors, adding a concrete remedy-and-compliance example to platform competition governance.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The EU/Google Digital Markets Act fine and equal-treatment order keep self-preferencing and platform remedies in focus.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — The European Union fines Google $1B and orders equal treatment for competitors, adding a concrete remedy-and-compliance example to platform competition governance.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — The EU/Google Digital Markets Act fine and equal-treatment order keep self-preferencing and platform remedies in focus.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Google’s failed DMCA anti-scraping theory and YouTube’s Peacock bundling both sit inside platform-control and distribution-power debates.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Google’s failed DMCA anti-scraping theory and YouTube’s Peacock bundling both sit inside platform-control and distribution-power debates.
 
 ## Related Concepts
 

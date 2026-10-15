@@ -15,7 +15,7 @@ Sigrid Haugset is a cyclist tracked here for Tour de France Femmes results and g
 
 ## Sources
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Wins Stage 3 of the Tour de France Femmes with a long-range solo attack and takes the yellow jersey.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Wins Stage 3 of the Tour de France Femmes with a long-range solo attack and takes the yellow jersey.
 
 ## Related
 

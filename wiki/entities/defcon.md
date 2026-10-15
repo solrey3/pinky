@@ -15,7 +15,7 @@ Hacker and security conference tracked here because the August 3 dispatch highli
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Introduced via the transparent badge/security-key item in the AI and tech desk.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Introduced via the transparent badge/security-key item in the AI and tech desk.
 
 ## Related
 

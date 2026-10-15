@@ -15,7 +15,7 @@ Tenda is a networking-equipment vendor tracked here through firmware and router-
 
 ## Sources
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — CERT flags a hidden authentication backdoor in Tenda firmware, reinforcing router firmware as a practical security-risk layer.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — CERT flags a hidden authentication backdoor in Tenda firmware, reinforcing router firmware as a practical security-risk layer.
 
 ## Related
 

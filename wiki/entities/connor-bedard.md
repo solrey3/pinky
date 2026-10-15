@@ -15,15 +15,15 @@ Connor Bedard is tracked as an NHL player whose injury status affects the league
 
 ## Sources
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — ESPN reports Bedard will miss the start of the season after shoulder surgery.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Bedard reportedly agrees to a five-year, $75M Blackhawks deal, a major NHL personnel note.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — ESPN reports Bedard will miss the start of the season after shoulder surgery.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Bedard reportedly agrees to a five-year, $75M Blackhawks deal, a major NHL personnel note.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Bedard is reported as agreeing to a five-year, $75M Blackhawks deal, making him the lead NHL contract item.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Bedard is reported as agreeing to a five-year, $75M Blackhawks deal, making him the lead NHL contract item.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — The dispatch repeats coverage of Bedard's five-year, $75M deal, keeping the hockey contract thread active.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — The dispatch repeats coverage of Bedard's five-year, $75M deal, keeping the hockey contract thread active.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Bedard hopes to see a Chicago reunion with Patrick Kane.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Bedard hopes for a Blackhawks reunion with Patrick Kane, keeping the Chicago rebuild/history thread alive.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Bedard hopes to see a Chicago reunion with Patrick Kane.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Bedard hopes for a Blackhawks reunion with Patrick Kane, keeping the Chicago rebuild/history thread alive.
 
 ## Related
 

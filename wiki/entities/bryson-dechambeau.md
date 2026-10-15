@@ -15,9 +15,9 @@ Bryson DeChambeau is a professional golfer tracked here when major-tournament re
 
 ## Sources
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — DeChambeau is docked two shots at The Open for a penalty on the fifth hole.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — DeChambeau is docked two shots at The Open for a penalty on the fifth hole.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Bryson DeChambeau sits near The Open leaderboard at **-5** entering Round 3 coverage.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Bryson DeChambeau sits near The Open leaderboard at **-5** entering Round 3 coverage.
 
 ## Related
 

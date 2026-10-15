@@ -25,7 +25,7 @@ On **June 2, 2026**, per NFL insider Mike Garafolo and Ian Rapoport (RapSheet), 
 
 ## Sources
 
-- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Giants signing Odell Beckham Jr. per Garafolo and RapSheet after morning workout; OBJ returns to East Rutherford.
+- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](../sources/newsletters/newsletter-2026-06-02.md) — Giants signing Odell Beckham Jr. per Garafolo and RapSheet after morning workout; OBJ returns to East Rutherford.
 
 ## Related
 

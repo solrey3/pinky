@@ -14,15 +14,15 @@ Formal methods are mathematically precise techniques for specifying, modeling, a
 
 ## Sources
 
-- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-evening.md) — Bend pairs GPU execution with proof-oriented safeguards, extending formal verification into AI-assisted programming where generated output requires independently checkable correctness.
+- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-evening.md) — Bend pairs GPU execution with proof-oriented safeguards, extending formal verification into AI-assisted programming where generated output requires independently checkable correctness.
 
-- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Anthropic's Fermat's Last Theorem project reinforces machine-checkable proof as the validation layer for AI-assisted mathematics.
+- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-midnight.md) — Anthropic's Fermat's Last Theorem project reinforces machine-checkable proof as the validation layer for AI-assisted mathematics.
 
-- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletter-2026-09-04-evening.md) — Anthropic's Fermat's Last Theorem project extends formal verification from software state machines into machine-assisted mathematical proof.
+- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-evening.md) — Anthropic's Fermat's Last Theorem project extends formal verification from software state machines into machine-assisted mathematical proof.
 
-- [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-noon.md) — Tailscale's postmortem of a 16-year-old SQLite WAL-reset bug reinforces formal modeling as a practical tool for rare persistence-state failures.
+- [2026-08-12: Noon Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-noon.md) — Tailscale's postmortem of a 16-year-old SQLite WAL-reset bug reinforces formal modeling as a practical tool for rare persistence-state failures.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — The SQLite WAL/TLA+ item frames formal methods as a practical bug-hunting technique for mature database infrastructure, not only an academic exercise.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — The SQLite WAL/TLA+ item frames formal methods as a practical bug-hunting technique for mature database infrastructure, not only an academic exercise.
 
 ## Related Concepts
 

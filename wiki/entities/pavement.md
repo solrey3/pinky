@@ -18,4 +18,4 @@ source_count: 2
 
 ## Sources
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Stephen Malkmus announces a U.S. solo tour, keeping Pavement-adjacent music news in the feed.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Stephen Malkmus announces a U.S. solo tour, keeping Pavement-adjacent music news in the feed.

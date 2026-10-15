@@ -15,13 +15,13 @@ Linux is an open-source operating-system kernel and ecosystem tracked here when 
 
 ## Sources
 
-- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-midnight.md) — Records the Linux 7.2 kernel release in the around-the-web feed.
+- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-midnight.md) — Records the Linux 7.2 kernel release in the around-the-web feed.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Bor Linux desktop policy management and Go/developer-tool chatter keep Linux policy tooling in the tech desk.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Bor Linux desktop policy management and Go/developer-tool chatter keep Linux policy tooling in the tech desk.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — GhostLock is described as a stack-use-after-free vulnerability that existed across Linux distributions for 15 years.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — GhostLock is described as a stack-use-after-free vulnerability that existed across Linux distributions for 15 years.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through the Valve/SteamOS story on gaming-driven Linux adoption.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Appears through the Valve/SteamOS story on gaming-driven Linux adoption.
 
 ## Related
 

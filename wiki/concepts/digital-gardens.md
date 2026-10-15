@@ -27,7 +27,7 @@ Our wiki is conceptually a digital garden that is **LLM-maintained** rather than
 ## Sources
 
 - [2026-05-09: Zettelkasten — Thinking by Linking](../sources/zettelkasten-method.md) — Cited as a related modern concept alongside Memex and hypertext.
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — OpenKnowledge's AI-first Obsidian/Notion positioning shows the digital-garden idea being reimplemented as AI-native note and knowledge tooling.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — OpenKnowledge's AI-first Obsidian/Notion positioning shows the digital-garden idea being reimplemented as AI-native note and knowledge tooling.
 
 ## Related Concepts
 

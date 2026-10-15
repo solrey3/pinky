@@ -34,29 +34,29 @@ source_count: 14
 
 ## Sources
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results coverage lists Sami Zayn among the WWE card notes.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results coverage lists Sami Zayn among the WWE card notes.
 
 - [2026-05-27: Raw notes](../../raw/people/sami-zayn.md)
-- [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — Featured prominently in SmackDown’s Barcelona go-home show for Clash in Italy. His post-show social post — “The Spanish can spot honesty, integrity & world class talent a mile away” — the kind of self-aware character work that makes him the most universally beloved figure in the current product. Described in the dispatch as “firing on all cylinders.”
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up notes Sami Zayn as referee for the WWE title-match setup, keeping him active in the Cody/Gunther orbit.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening wrestling digest repeats the SmackDown result: Sami is set to referee the WWE title-match setup after Jey Uso and Charlotte Flair advance in tournament action.
-- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Night of Champions 2026 records the major state change: Sami Zayn wins the Undisputed WWE Championship.
+- [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](../sources/newsletters/newsletter-2026-05-30-evening.md) — Featured prominently in SmackDown’s Barcelona go-home show for Clash in Italy. His post-show social post — “The Spanish can spot honesty, integrity & world class talent a mile away” — the kind of self-aware character work that makes him the most universally beloved figure in the current product. Described in the dispatch as “firing on all cylinders.”
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — SmackDown follow-up notes Sami Zayn as referee for the WWE title-match setup, keeping him active in the Cody/Gunther orbit.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Evening wrestling digest repeats the SmackDown result: Sami is set to referee the WWE title-match setup after Jey Uso and Charlotte Flair advance in tournament action.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-evening.md) — Night of Champions 2026 records the major state change: Sami Zayn wins the Undisputed WWE Championship.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Zayn's first WWE world-title win remains the main-event discussion thread after Night of Champions.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — Zayn's first WWE world-title win remains the main-event discussion thread after Night of Champions.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Industry reaction, career-reflection quotes, and SmackDown preview coverage keep Sami Zayn’s WWE Championship reign as the lead WWE story.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Industry reaction, career-reflection quotes, and SmackDown preview coverage keep Sami Zayn’s WWE Championship reign as the lead WWE story.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Sami Zayn’s title reign moves into a Raw defense/program against Cody Rhodes after SmackDown fallout.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Sami Zayn’s title reign moves into a Raw defense/program against Cody Rhodes after SmackDown fallout.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Sami Zayn remains the WWE title node as Cody Rhodes is positioned as his Raw challenger; r/squaredcircle also carries Zayn celebration chatter.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Sami Zayn remains the WWE title node as Cody Rhodes is positioned as his Raw challenger; r/squaredcircle also carries Zayn celebration chatter.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Lost the reported Undisputed WWE Championship match to CM Punk after Cody Rhodes was replaced.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Lost the reported Undisputed WWE Championship match to CM Punk after Cody Rhodes was replaced.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Sami Zayn is named as the Raw title loser when CM Punk returns and takes the Undisputed championship, shifting his title-reign thread into aftermath.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Sami Zayn is named as the Raw title loser when CM Punk returns and takes the Undisputed championship, shifting his title-reign thread into aftermath.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Sami Zayn is advertised alongside Gunther against CM Punk and Cody Rhodes at Saturday Night’s Main Event.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Sami Zayn is advertised alongside Gunther against CM Punk and Cody Rhodes at Saturday Night’s Main Event.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Sami Zayn can be added to the SummerSlam Undisputed WWE Championship match if he and Gunther beat Cody Rhodes and CM Punk at SNME.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Sami Zayn can be added to the SummerSlam Undisputed WWE Championship match if he and Gunther beat Cody Rhodes and CM Punk at SNME.
 
 ## Related
 

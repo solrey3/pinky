@@ -15,7 +15,7 @@ MLB first baseman; ESPN reports an oblique tear that may end his 2026 season.
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — ESPN reports an oblique tear that may end his 2026 season.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — ESPN reports an oblique tear that may end his 2026 season.
 
 ## Related
 

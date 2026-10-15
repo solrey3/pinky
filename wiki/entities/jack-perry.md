@@ -15,11 +15,11 @@ Jack Perry is tracked as an AEW wrestler whose contract and storyline status app
 
 ## Sources
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AEW notes say Perry re-signed, keeping him part of the promotion's active roster graph.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — AEW notes say Perry re-signed, keeping him part of the promotion's active roster graph.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — AEW announces Jack Perry re-signing, keeping him in the promotion-continuity graph.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — AEW announces Jack Perry re-signing, keeping him in the promotion-continuity graph.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Jack Perry re-signing coverage repeats in the wrestling digest, confirming AEW contract-continuity relevance.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Jack Perry re-signing coverage repeats in the wrestling digest, confirming AEW contract-continuity relevance.
 
 ## Related
 

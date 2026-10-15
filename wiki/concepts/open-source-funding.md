@@ -14,7 +14,7 @@ Open source funding is the set of economic mechanisms used to sustain maintainer
 
 ## Sources
 
-- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — A deliberately provocative essay argues that commercial beneficiaries should be compelled or structurally induced to fund the FOSS they depend on.
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-evening.md) — A deliberately provocative essay argues that commercial beneficiaries should be compelled or structurally induced to fund the FOSS they depend on.
 
 ## Related Concepts
 

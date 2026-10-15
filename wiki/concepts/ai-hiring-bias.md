@@ -14,13 +14,13 @@ AI hiring bias is the risk that automated résumé screening, candidate scoring,
 
 ## Sources
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Stanford HAI item reports that AI hiring tools can yield racial bias and systemic rejection, including cited rejection effects for Black and Asian candidates.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Stanford HAI item reports that AI hiring tools can yield racial bias and systemic rejection, including cited rejection effects for Black and Asian candidates.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — HackerRank's open-source ATS/resume-score inconsistency turns automated hiring opacity from a fairness abstraction into a concrete scoring/provenance problem.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — HackerRank's open-source ATS/resume-score inconsistency turns automated hiring opacity from a fairness abstraction into a concrete scoring/provenance problem.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — The Meta layoff lawsuit extends automated-employment risk from screening and scoring into termination/layoff decision workflows.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — The Meta layoff lawsuit extends automated-employment risk from screening and scoring into termination/layoff decision workflows.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — The Meta AI-layoff lawsuit keeps algorithmic employment decisions tied to legal accountability and bias risk.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — The Meta AI-layoff lawsuit keeps algorithmic employment decisions tied to legal accountability and bias risk.
 
 
 ## Related Concepts

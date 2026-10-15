@@ -19,11 +19,11 @@ The automated deployment, scaling, and management of containerized applications.
 - [2026-05-10: lazydocker Cheatsheet](sources/lazydocker.md) — Terminal UI for Docker container management
 - [2026-05-10: nginx Cheatsheet](sources/nginx.md) — Reverse proxy and load balancer commonly deployed as a container
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Podman v6.0.0 updates the container runtime/tooling layer adjacent to orchestration, especially for rootless and daemonless operator workflows.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Podman v6.0.0 updates the container runtime/tooling layer adjacent to orchestration, especially for rootless and daemonless operator workflows.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Podman v6.0.0 keeps container runtime/tooling maintenance in the operator stack, adjacent to orchestration workflows.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Podman v6.0.0 keeps container runtime/tooling maintenance in the operator stack, adjacent to orchestration workflows.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The managed-Kubernetes cost complaint frames orchestration not just as a technical abstraction but as a financial and operational-control tradeoff.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — The managed-Kubernetes cost complaint frames orchestration not just as a technical abstraction but as a financial and operational-control tradeoff.
 
 ## Related Concepts
 

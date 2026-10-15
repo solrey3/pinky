@@ -15,7 +15,7 @@ Rogers is the subject of a reported £117m Chelsea/Aston Villa transfer deal.
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Rogers is the subject of a reported £117m Chelsea/Aston Villa transfer deal.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Rogers is the subject of a reported £117m Chelsea/Aston Villa transfer deal.
 
 ## Related
 

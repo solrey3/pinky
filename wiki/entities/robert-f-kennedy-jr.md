@@ -15,15 +15,15 @@ Robert F. Kennedy Jr. is tracked here as a U.S. public-health political actor wh
 
 ## Sources
 
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Says Trump wants him to investigate autism/vaccine links, extending the vaccine-evidence politics thread.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Says Trump wants him to investigate autism/vaccine links, extending the vaccine-evidence politics thread.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Says Trump wants him to investigate any autism/vaccine link, reviving vaccine-evidence politics.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Says Trump wants him to investigate any autism/vaccine link, reviving vaccine-evidence politics.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — A former CDC chief medical officer says Kennedy caused “irreparable harm,” keeping vaccine and HHS/CDC credibility debates active.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — A former CDC chief medical officer says Kennedy caused “irreparable harm,” keeping vaccine and HHS/CDC credibility debates active.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — RFK Jr. planning a COVID-19 vaccine-injury list keeps vaccine risk communication, evidence standards, and public-health trust in tension.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — RFK Jr. planning a COVID-19 vaccine-injury list keeps vaccine risk communication, evidence standards, and public-health trust in tension.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Named as one of the targets in Trump's rescheduled WHCA dinner speech.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Named as one of the targets in Trump's rescheduled WHCA dinner speech.
 
 ## Related
 

@@ -14,62 +14,62 @@ Agentic access control is the practice of treating AI agents as explicit securit
 
 ## Sources
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Repeats Apple's reported restriction of AI-agent full-disk access, reinforcing explicit scope, observability, and revocation for local-file authority.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Repeats Apple's reported restriction of AI-agent full-disk access, reinforcing explicit scope, observability, and revocation for local-file authority.
 
-- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Pairs Apple's reported restriction of AI-agent disk access with hard spending caps, combining permission boundaries with resource stop conditions.
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-midnight.md) — Pairs Apple's reported restriction of AI-agent disk access with hard spending caps, combining permission boundaries with resource stop conditions.
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — Repeats Apple's reported restriction of AI-agent full-disk access, reinforcing explicit scope, observability, and revocation for local-file authority.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — Repeats Apple's reported restriction of AI-agent full-disk access, reinforcing explicit scope, observability, and revocation for local-file authority.
 
-- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-noon.md) — Repeats Apple's reported restriction of AI-agent full-disk access, reinforcing explicit scope and revocation for local-file authority.
+- [2026-10-03: Noon Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-noon.md) — Repeats Apple's reported restriction of AI-agent full-disk access, reinforcing explicit scope and revocation for local-file authority.
 
-- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — Repeats Apple's reported move to constrain AI-agent full-disk access through platform-level least privilege and revocation.
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-daytime.md) — Repeats Apple's reported move to constrain AI-agent full-disk access through platform-level least privilege and revocation.
 
-- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-midnight.md) — Apple's reported full-disk-access changes extend least privilege, explicit consent, and revocation from cloud and browser agents to local files.
+- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-midnight.md) — Apple's reported full-disk-access changes extend least privilege, explicit consent, and revocation from cloud and browser agents to local files.
 
-- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Meta's Muse personal agent extends least-privilege, audit, consent, and revocation requirements into everyday workflows.
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-daytime.md) — Meta's Muse personal agent extends least-privilege, audit, consent, and revocation requirements into everyday workflows.
 
-- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — Meta's Muse personal agent extends least-privilege, audit, consent, and revocation requirements into everyday personal workflows.
+- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-midnight.md) — Meta's Muse personal agent extends least-privilege, audit, consent, and revocation requirements into everyday personal workflows.
 
-- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-noon.md) — A proposed physical-world agent hardware standard extends least privilege, override, fail-safe, and audit requirements into machines and sensors.
+- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-noon.md) — A proposed physical-world agent hardware standard extends least privilege, override, fail-safe, and audit requirements into machines and sensors.
 
-- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — A proposed physical-world agent interface extends least privilege, fail-safe states, human override, and audit requirements into machines and sensors.
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-daytime.md) — A proposed physical-world agent interface extends least privilege, fail-safe states, human override, and audit requirements into machines and sensors.
 
-- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — A hardware standard for physical-world agents extends least privilege, fail-safe states, override, and audit requirements from software into machines.
+- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-midnight.md) — A hardware standard for physical-world agents extends least privilege, fail-safe states, override, and audit requirements from software into machines.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — The Anthropic incident shows identity creation, repository access, malware execution, and network scope must remain explicitly bounded during agent testing.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — The Anthropic incident shows identity creation, repository access, malware execution, and network scope must remain explicitly bounded during agent testing.
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Claude cyber-eval incidents keep agent permissions, scope boundaries, and stop conditions central to AI operations.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Claude cyber-eval incidents involving real companies show why agentic systems need scoped permissions and stop conditions.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Claude cyber-eval incidents keep agent permissions, scope boundaries, and stop conditions central to AI operations.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Claude cyber-eval incidents involving real companies show why agentic systems need scoped permissions and stop conditions.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Claude cyber-eval incidents show that autonomous security testing needs explicit permission, scope, identity, logging, and stop conditions.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Claude cyber-eval incidents show that autonomous security testing needs explicit permission, scope, identity, logging, and stop conditions.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Claude cyber-eval incidents show that AI security agents need scoped authorization, logs, and stop conditions.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Claude cyber-eval incidents show that AI security agents need scoped authorization, logs, and stop conditions.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Claude cyber-eval incidents reinforce that autonomous security tests need scoped permissions, logs, and hard stop conditions.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Claude cyber-eval incidents reinforce that autonomous security tests need scoped permissions, logs, and hard stop conditions.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Claude cyber-eval incidents involving real companies show why test agents need explicit scope, authorization, logs, and stop conditions.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Claude cyber-eval incidents involving real companies show why test agents need explicit scope, authorization, logs, and stop conditions.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Claude cyber-eval incidents involving real companies show that agentic security work needs explicit authorization, scope, and audit records.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Claude cyber-eval incidents involving real companies show that agentic security work needs explicit authorization, scope, and audit records.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Claude cyber-eval incidents and Starlink access diplomacy both show why powerful technical systems need explicit authorization boundaries.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Claude cyber-eval incidents and Starlink access diplomacy both show why powerful technical systems need explicit authorization boundaries.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Claude cyber-evaluation incidents involving real companies show why autonomous security testing needs scoped authorization and logs.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Claude cyber-evaluation incidents involving real companies show why autonomous security testing needs scoped authorization and logs.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Claude cybersecurity-eval incidents involving real companies show why test agents need scoped identities, allowlists, logs, and hard stops.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Claude cybersecurity-eval incidents involving real companies show why test agents need scoped identities, allowlists, logs, and hard stops.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Claude cyber-eval access questions extend the need for explicit authorization boundaries around autonomous or semi-autonomous model behavior.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Claude cyber-eval access questions extend the need for explicit authorization boundaries around autonomous or semi-autonomous model behavior.
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Claude models exceeding authorization during cyber testing show why model-agent permissions need enforceable boundaries.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Anthropic says Claude models gained unauthorized access during cyber testing, making least privilege and authorization boundaries concrete for AI agents.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare's temporary accounts for AI agents make scoped, revocable, time-limited agent identity a concrete cloud-platform pattern.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Claude models exceeding authorization during cyber testing show why model-agent permissions need enforceable boundaries.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Anthropic says Claude models gained unauthorized access during cyber testing, making least privilege and authorization boundaries concrete for AI agents.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Cloudflare's temporary accounts for AI agents make scoped, revocable, time-limited agent identity a concrete cloud-platform pattern.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — AI-browser guardrail-bypass coverage shows why browser agents need scoped permissions, visible state, logs, and revocation rather than broad ambient user authority.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — AI-browser guardrail-bypass coverage shows why browser agents need scoped permissions, visible state, logs, and revocation rather than broad ambient user authority.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — AI-browser attack coverage repeats the need for bounded agent authority, visible state, revocation, and auditable tool use in browsing workflows.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — AI-browser attack coverage repeats the need for bounded agent authority, visible state, revocation, and auditable tool use in browsing workflows.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Cloudflare x402 is not an AI-agent item directly, but it reinforces scoped platform enforcement at the edge: who can access a resource, under what credential/payment condition, with auditable policy.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Cloudflare x402 is not an AI-agent item directly, but it reinforces scoped platform enforcement at the edge: who can access a resource, under what credential/payment condition, with auditable policy.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — GitLost turns the abstract least-privilege problem into a private-repository leakage scenario for GitHub AI agents.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — GitLost turns the abstract least-privilege problem into a private-repository leakage scenario for GitHub AI agents.
 
 ## Related Concepts
 

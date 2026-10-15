@@ -14,21 +14,21 @@ Crypto regulation is the policy effort to define how digital assets, exchanges, 
 
 ## Sources
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — Treasury reportedly withdraws a cryptocurrency-surveillance proposal, illustrating administrative reversibility in digital-asset reporting and financial-privacy policy.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — Treasury reportedly withdraws a cryptocurrency-surveillance proposal, illustrating administrative reversibility in digital-asset reporting and financial-privacy policy.
 
-- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — The landmark bill's procedural defeat persists as the central signal that coalition risk can delay digital-asset market rules.
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-midnight.md) — The landmark bill's procedural defeat persists as the central signal that coalition risk can delay digital-asset market rules.
 
-- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-evening.md) — A landmark digital-asset bill fails a procedural vote, showing how coalition and sequencing risk can delay market-structure clarity.
+- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-evening.md) — A landmark digital-asset bill fails a procedural vote, showing how coalition and sequencing risk can delay market-structure clarity.
 
-- [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-evening.md) — Clarity Act progress is again cited with institutional demand and short covering as a catalyst for Bitcoin repricing.
+- [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-evening.md) — Clarity Act progress is again cited with institutional demand and short covering as a catalyst for Bitcoin repricing.
 
-- [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-noon.md) — Clarity Act progress again appears among the catalysts for Bitcoin's 19.03% rally, connecting regulatory expectations to institutional participation and repricing.
+- [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-noon.md) — Clarity Act progress again appears among the catalysts for Bitcoin's 19.03% rally, connecting regulatory expectations to institutional participation and repricing.
 
-- [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-midnight.md) — Clarity Act progress is cited alongside institutional demand and short covering as a catalyst for Bitcoin's sharp rally.
+- [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-midnight.md) — Clarity Act progress is cited alongside institutional demand and short covering as a catalyst for Bitcoin's sharp rally.
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — The crypto bill faces a pre-August-recess make-or-break moment, framing digital-asset rules as a calendar and coalition problem.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — The crypto bill faces a pre-August-recess make-or-break moment, framing digital-asset rules as a calendar and coalition problem.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — A crypto bill is framed as vulnerable to Trump-linked crypto ventures and bank objections, turning market-structure policy into a conflict-of-interest and institutional-trust issue.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — A crypto bill is framed as vulnerable to Trump-linked crypto ventures and bank objections, turning market-structure policy into a conflict-of-interest and institutional-trust issue.
 
 ## Related Concepts
 

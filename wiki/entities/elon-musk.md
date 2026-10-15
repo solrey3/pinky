@@ -15,11 +15,11 @@ Elon Musk is a technology executive associated with Tesla, SpaceX, X, xAI, and p
 
 ## Sources
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Central to the Ukraine Starlink-access story, where private platform control becomes battlefield infrastructure leverage.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Central to the Ukraine Starlink-access story, where private platform control becomes battlefield infrastructure leverage.
 
-- [2026-05-18: Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief](../sources/newsletter-2026-05-18.md) — Musk loses his lawsuit against Sam Altman and OpenAI on timeliness grounds, closing one legal chapter of the OpenAI feud.
-- [2026-05-19: Newsletter 2026-05-19 — The Morning Dispatch & Evening Brief](../sources/newsletter-2026-05-19.md) — Musk's OpenAI lawsuit loss remains in the news cycle while Tesla weakness is tied partly to Musk headlines.
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — A court orders Musk to give a deposition in an alleged America PAC vote-buying election-scheme lawsuit.
+- [2026-05-18: Newsletter 2026-05-18 — The Morning Dispatch & Evening Brief](../sources/newsletters/newsletter-2026-05-18.md) — Musk loses his lawsuit against Sam Altman and OpenAI on timeliness grounds, closing one legal chapter of the OpenAI feud.
+- [2026-05-19: Newsletter 2026-05-19 — The Morning Dispatch & Evening Brief](../sources/newsletters/newsletter-2026-05-19.md) — Musk's OpenAI lawsuit loss remains in the news cycle while Tesla weakness is tied partly to Musk headlines.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — A court orders Musk to give a deposition in an alleged America PAC vote-buying election-scheme lawsuit.
 
 ## Related
 

@@ -15,17 +15,17 @@ Nike is a global athletic-apparel and footwear company tracked when consumer dem
 
 ## Sources
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Nike remains tied to Wembanyama’s signature-shoe rollout in the August 1 sports/business thread.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Nike remains tied to Wembanyama’s signature-shoe rollout in the August 1 sports/business thread.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Appears as the brand behind Wembanyama’s reported signature shoe line.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Appears as the brand behind Wembanyama’s reported signature shoe line.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Reportedly gives Victor Wembanyama a signature-shoe line, adding sports-brand relevance beyond the market table.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Reportedly gives Victor Wembanyama a signature-shoe line, adding sports-brand relevance beyond the market table.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Reportedly gives Victor Wembanyama a signature shoe line, adding another basketball endorsement node.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Reportedly gives Victor Wembanyama a signature shoe line, adding another basketball endorsement node.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Nike is tied to Victor Wembanyama’s reported signature shoe line.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Nike is tied to Victor Wembanyama’s reported signature shoe line.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — CNBC reports Nike sales in China have fallen 30%, turning the China slowdown into a boardroom problem.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — CNBC reports Nike sales in China have fallen 30%, turning the China slowdown into a boardroom problem.
 
 ## Related
 

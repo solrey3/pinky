@@ -14,7 +14,7 @@ Cancer prevention reduces incidence through modifiable-risk interventions such a
 
 ## Sources
 
-- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-noon.md) — Reports a projection that cancer cases will surge by 2050 while nearly half may be preventable; the estimate requires primary-source methodological context.
+- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-noon.md) — Reports a projection that cancer cases will surge by 2050 while nearly half may be preventable; the estimate requires primary-source methodological context.
 
 ## Related Concepts
 

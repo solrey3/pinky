@@ -15,7 +15,7 @@ A front-end component-library foundation now relevant to this wiki because Shadc
 
 ## Sources
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Base UI becomes the default substrate for Shadcn/UI, marking a front-end stack-default change.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Base UI becomes the default substrate for Shadcn/UI, marking a front-end stack-default change.
 
 ## Related
 

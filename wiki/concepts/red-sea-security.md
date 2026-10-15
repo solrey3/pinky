@@ -14,12 +14,12 @@ Red Sea security is the protection of shipping lanes, ports, naval routes, and r
 
 ## Sources
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Houthi denial of Red Sea fee plans keeps Bab el-Mandeb shipping risk tied to coercive pricing, information quality, and maritime-security governance.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Houthi denial of Red Sea fee plans keeps Bab el-Mandeb shipping risk tied to coercive pricing, information quality, and maritime-security governance.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Houthi pushback on alleged Red Sea fee plans keeps Bab el-Mandeb shipping risk tied to coercive pricing and maritime-security governance.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Houthi pushback on alleged Red Sea fee plans keeps Bab el-Mandeb shipping risk tied to coercive pricing and maritime-security governance.
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Saudi coalition-building against Houthi attacks keeps shipping-lane protection and regional deterrence in focus.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Saudi Arabia forms a Red Sea defense coalition to protect against Houthi attacks, keeping shipping-lane security in the regional-risk graph.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Saudi coalition-building against Houthi attacks keeps shipping-lane protection and regional deterrence in focus.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Saudi Arabia forms a Red Sea defense coalition to protect against Houthi attacks, keeping shipping-lane security in the regional-risk graph.
 
 ## Related Concepts
 

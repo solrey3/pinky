@@ -15,8 +15,8 @@ The Los Angeles Clippers are an NBA franchise. In the newsletter graph, they app
 
 ## Sources
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — ESPN reports the NBA probe into the Clippers and Kawhi Leonard could extend into 2027, keeping team governance and player-contract scrutiny active.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — The NBA probe tied to Kawhi Leonard may stretch into 2027, making Clippers governance a long-tail sports investigation.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — ESPN reports the NBA probe into the Clippers and Kawhi Leonard could extend into 2027, keeping team governance and player-contract scrutiny active.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — The NBA probe tied to Kawhi Leonard may stretch into 2027, making Clippers governance a long-tail sports investigation.
 
 ## Related
 

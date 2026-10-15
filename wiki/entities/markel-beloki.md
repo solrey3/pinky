@@ -15,7 +15,7 @@ Professional cyclist mentioned in the newsletter sports wire.
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Cyclingnews reports Beloki sealed the overall victory at Tour de l'Ain on stage 3.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Cyclingnews reports Beloki sealed the overall victory at Tour de l'Ain on stage 3.
 
 ## Related
 

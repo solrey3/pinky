@@ -15,7 +15,7 @@ Godot is an open-source game engine. In the newsletter graph, it is tracked when
 
 ## Sources
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Godot says it will no longer accept AI-authored code contributions, framing generated patches as a maintainability, accountability, and reviewer-trust problem rather than just a productivity aid.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Godot says it will no longer accept AI-authored code contributions, framing generated patches as a maintainability, accountability, and reviewer-trust problem rather than just a productivity aid.
 
 ## Related
 

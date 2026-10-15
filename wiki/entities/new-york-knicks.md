@@ -23,22 +23,22 @@ NBA franchise based in New York City. In the 2026 newsletter stream, the Knicks 
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Knicks executive Gersson Rosas is reported to be leaving after four years, a front-office continuity note.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Knicks lose Game 3 to the Spurs, 115-111, at Madison Square Garden; New York leads the NBA Finals 2-1.
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition confirms the 2-1 series lead and lists Game 4 for June 10 on ABC.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Game 4 is tonight in New York; the Knicks can restore series control at home or let San Antonio force a 2-2 reset.
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Evening edition again lists Game 4 at Madison Square Garden: New York leads 2-1 and can either take command or allow a full 2-2 reset.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Knicks 107, Spurs 106 in NBA Finals Game 4; New York leads the series 3-1.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition confirms the one-point Game 4 win and lists Game 5 at San Antonio for June 13, with New York one win from the championship.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Game 5 remains the next NBA Finals slot: Knicks at Spurs, June 13 on ABC, with New York still one win from the title.
-- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition again lists Game 5 for June 13, leaving the Knicks in one-win-from-title waiting mode.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Game 5 arrives tonight on ABC; New York remains one win from the NBA championship.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard still lists Knicks at Spurs as upcoming, preserving the pre-closeout setup before any title result is recorded.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Knicks 94, Spurs 90 in Game 5; New York wins the NBA Finals 4-1.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening scoreboard repeats the title endpoint: New York wins Game 5 by four and takes the Finals 4-1.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Knicks executive Gersson Rosas is reported to be leaving after four years, a front-office continuity note.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — Knicks lose Game 3 to the Spurs, 115-111, at Madison Square Garden; New York leads the NBA Finals 2-1.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — Evening edition confirms the 2-1 series lead and lists Game 4 for June 10 on ABC.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — Game 4 is tonight in New York; the Knicks can restore series control at home or let San Antonio force a 2-2 reset.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — Evening edition again lists Game 4 at Madison Square Garden: New York leads 2-1 and can either take command or allow a full 2-2 reset.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — Knicks 107, Spurs 106 in NBA Finals Game 4; New York leads the series 3-1.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — Evening edition confirms the one-point Game 4 win and lists Game 5 at San Antonio for June 13, with New York one win from the championship.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — Game 5 remains the next NBA Finals slot: Knicks at Spurs, June 13 on ABC, with New York still one win from the title.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletters/newsletter-2026-06-12-evening.md) — Evening edition again lists Game 5 for June 13, leaving the Knicks in one-win-from-title waiting mode.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — Game 5 arrives tonight on ABC; New York remains one win from the NBA championship.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Evening scoreboard still lists Knicks at Spurs as upcoming, preserving the pre-closeout setup before any title result is recorded.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Knicks 94, Spurs 90 in Game 5; New York wins the NBA Finals 4-1.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Evening scoreboard repeats the title endpoint: New York wins Game 5 by four and takes the Finals 4-1.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Andre Drummond’s reported one-year, **$3.9M** Knicks deal keeps NBA free agency in the New York team graph.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Moussa Cisse's reported two-year offer sheet puts the Knicks in the sports-newswire continuity thread.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Andre Drummond’s reported one-year, **$3.9M** Knicks deal keeps NBA free agency in the New York team graph.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Moussa Cisse's reported two-year offer sheet puts the Knicks in the sports-newswire continuity thread.
 
 ## Related
 

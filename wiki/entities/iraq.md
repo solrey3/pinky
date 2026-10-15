@@ -15,11 +15,11 @@ Middle Eastern country and recurring U.S. military-policy theater. In this wiki 
 
 ## Sources
 
-- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Repeats that the U.S. military mission has ended while leaving residual force posture and the role of Iran-linked militias unresolved.
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-midnight.md) — Repeats that the U.S. military mission has ended while leaving residual force posture and the role of Iran-linked militias unresolved.
 
-- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Reports the end of the U.S. military mission and Iran's victory framing, while leaving the residual force posture and long-term security balance unresolved.
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-noon.md) — Reports the end of the U.S. military mission and Iran's victory framing, while leaving the residual force posture and long-term security balance unresolved.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — A U.S. service member death in Iraq is reported as the trigger context for U.S. military strikes in Iran, tying Iraq to the Iran-escalation provenance thread.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — A U.S. service member death in Iraq is reported as the trigger context for U.S. military strikes in Iran, tying Iraq to the Iran-escalation provenance thread.
 
 ## Related
 

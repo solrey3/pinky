@@ -15,7 +15,7 @@ Iranian financier targeted by new U.S. sanctions in the July 25 evening brief. I
 
 ## Sources
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — New U.S. sanctions target him and related businesses, making Iranian finance the sanctions anchor in the evening top stories.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — New U.S. sanctions target him and related businesses, making Iranian finance the sanctions anchor in the evening top stories.
 
 ## Related
 

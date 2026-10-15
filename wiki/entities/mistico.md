@@ -15,7 +15,7 @@ Lucha libre wrestler tracked when CMLL/AEW crossover, injury, clearance, or even
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Mistico is reported as not cleared to compete at AEW Redemption, making medical clearance part of the event-provenance feed.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Mistico is reported as not cleared to compete at AEW Redemption, making medical clearance part of the event-provenance feed.
 
 ## Related
 

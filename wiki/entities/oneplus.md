@@ -15,11 +15,11 @@ OnePlus is a consumer-electronics and smartphone brand. In this source it appear
 
 ## Sources
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — OSnews/feed coverage says OnePlus exits EU and U.S. markets, repeating the device-market retrenchment signal.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — OSnews/feed coverage says OnePlus exits EU and U.S. markets, repeating the device-market retrenchment signal.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — OnePlus appears in the around-the-web feed as reportedly exiting the U.S. and Europe amid Oppo restructuring.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — OnePlus appears in the around-the-web feed as reportedly exiting the U.S. and Europe amid Oppo restructuring.
 
 ## Related
 

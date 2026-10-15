@@ -15,7 +15,7 @@ The Pennsylvania Supreme Court is tracked when state constitutional rulings shap
 
 ## Sources
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The court unanimously rejects warrantless searches of private land, placing state-level constitutional limits on open-fields-style government access.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — The court unanimously rejects warrantless searches of private land, placing state-level constitutional limits on open-fields-style government access.
 
 ## Related
 

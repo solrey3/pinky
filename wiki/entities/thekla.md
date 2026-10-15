@@ -15,7 +15,7 @@ Professional wrestler.
 
 ## Sources
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Thekla loses the AEW Women's Title path to Willow Nightingale at Redemption.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Thekla loses the AEW Women's Title path to Willow Nightingale at Redemption.
 
 ## Related
 

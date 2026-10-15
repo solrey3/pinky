@@ -15,11 +15,11 @@ A space company focused on launch services and space systems. In this wiki, Rock
 
 ## Sources
 
-- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — Its procurement protest reportedly puts NASA's planned 2028 Mars-orbiter launch timetable at risk.
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-evening.md) — Its procurement protest reportedly puts NASA's planned 2028 Mars-orbiter launch timetable at risk.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Announces a planned acquisition of Iridium, framed as space-sector consolidation and vertical integration.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — Announces a planned acquisition of Iridium, framed as space-sector consolidation and vertical integration.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — The Rocket Lab/Iridium acquisition item carries forward as space-network consolidation and vertical-integration infrastructure news.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — The Rocket Lab/Iridium acquisition item carries forward as space-network consolidation and vertical-integration infrastructure news.
 
 ## Related
 

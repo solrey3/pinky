@@ -14,8 +14,8 @@ AI research opacity is the shift from open publication toward private, selective
 
 ## Sources
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — A Science-linked AI desk item says top AI startups are barely publishing research, making publication decline a governance and provenance signal.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — A Science-linked item again says top AI startups are barely publishing research, keeping frontier-lab publication decline in the governance/provenance graph.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — A Science-linked AI desk item says top AI startups are barely publishing research, making publication decline a governance and provenance signal.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — A Science-linked item again says top AI startups are barely publishing research, keeping frontier-lab publication decline in the governance/provenance graph.
 
 ## Related Concepts
 

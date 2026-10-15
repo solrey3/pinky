@@ -15,7 +15,7 @@ The Conglomeration is an AEW wrestling group. In the newsletter graph it appears
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Retains the AEW Trios Titles at the AEW Redemption Buy In.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Retains the AEW Trios Titles at the AEW Redemption Buy In.
 
 ## Related
 

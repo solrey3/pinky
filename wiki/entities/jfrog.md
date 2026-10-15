@@ -15,7 +15,7 @@ JFrog is a software-supply-chain and security company. In this wiki it appears a
 
 ## Sources
 
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Publishes the Hacker News-linked warning that a critical SQLite CVE was hallucinated, turning AI-generated security noise into a provenance issue.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — Publishes the Hacker News-linked warning that a critical SQLite CVE was hallucinated, turning AI-generated security noise into a provenance issue.
 
 ## Related
 

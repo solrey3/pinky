@@ -15,7 +15,7 @@ Philips Hue Bridge Pro is a smart-home hub tracked here when firmware reliabilit
 
 ## Sources
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — A firmware update reportedly bricks Hue Bridge Pro devices, with Philips providing free replacements.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — A firmware update reportedly bricks Hue Bridge Pro devices, with Philips providing free replacements.
 
 ## Related
 

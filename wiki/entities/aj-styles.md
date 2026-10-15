@@ -40,13 +40,13 @@ source_count: 6
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/aj-styles.md)
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Fightful headline: Styles sees a place for blood in wrestling but expects WWE's PG rating to remain.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Styles says wrestlers were more timid under Vince McMahon and are freer to ask questions now.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Styles comments on low SummerSlam ticket sales, adding a business/attendance note to the WWE thread.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — Fightful headline: Styles sees a place for blood in wrestling but expects WWE's PG rating to remain.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — Styles says wrestlers were more timid under Vince McMahon and are freer to ask questions now.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Styles comments on low SummerSlam ticket sales, adding a business/attendance note to the WWE thread.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — AJ Styles says “never say never” about wrestling again, keeping him in the retirement/return-rumor stream.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — AJ Styles says “never say never” about wrestling again, keeping him in the retirement/return-rumor stream.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — AJ Styles reportedly helped produce Tony D’Angelo vs. Naraku on WWE NXT.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — AJ Styles reportedly helped produce Tony D’Angelo vs. Naraku on WWE NXT.
 
 ## Related
 

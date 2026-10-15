@@ -15,9 +15,9 @@ Criminal defendant in the Idaho student killings case.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Kohberger is reported to be seeking withdrawal of a guilty plea.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Kohberger is reported to be seeking withdrawal of a guilty plea.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — NewsNation item keeps the Idaho murder-case fallout and possible retrial talk in the courts feed.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — NewsNation item keeps the Idaho murder-case fallout and possible retrial talk in the courts feed.
 
 ## Related
 

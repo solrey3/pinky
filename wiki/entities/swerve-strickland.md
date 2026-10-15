@@ -36,39 +36,39 @@ source_count: 19
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/swerve-strickland.md)
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Defeats Brody King to advance to the Men's Owen Hart Foundation Tournament Final.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — Defeats Brody King to advance to the Men's Owen Hart Foundation Tournament Final.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Explains that he underwent meniscus surgery after AEW All In Texas, adding an injury/recovery note to his AEW profile.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Explains that he underwent meniscus surgery after AEW All In Texas, adding an injury/recovery note to his AEW profile.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Swerve's Forbidden Door match with Will Ospreay remains on the latest 5-star+ table.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Swerve's Forbidden Door match with Will Ospreay remains on the latest 5-star+ table.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Swerve Strickland remains linked to the 5.5-star Forbidden Door match against Will Ospreay.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Swerve Strickland remains linked to the 5.5-star Forbidden Door match against Will Ospreay.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Swerve Strickland remains in the Forbidden Door 5.5-star ratings continuity against Will Ospreay.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Swerve Strickland remains in the Forbidden Door 5.5-star ratings continuity against Will Ospreay.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Swerve Strickland remains tied to the Will Ospreay 5.5-star Forbidden Door match.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Swerve Strickland remains tied to the Will Ospreay 5.5-star Forbidden Door match.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Swerve Strickland remains in the Meltzer ratings archive via the 5.5-star Forbidden Door match against Will Ospreay.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Swerve Strickland remains in the Meltzer ratings archive via the 5.5-star Forbidden Door match against Will Ospreay.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Swerve appears in the Forbidden Door five-star match table opposite Will Ospreay.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Swerve appears in the Forbidden Door five-star match table opposite Will Ospreay.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Swerve Strickland remains in the match-ratings table through the 5.5-star Forbidden Door match with Will Ospreay.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Swerve Strickland remains in the match-ratings table through the 5.5-star Forbidden Door match with Will Ospreay.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Swerve Strickland remains in the Meltzer 5-star table through the Forbidden Door match with Will Ospreay.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Swerve remains in the Forbidden Door 5.5-star table with Will Ospreay.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Swerve Strickland remains in the Meltzer 5-star table through the Forbidden Door match with Will Ospreay.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Swerve remains in the Forbidden Door 5.5-star table with Will Ospreay.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Swerve Strickland remains attached to the 5-star-plus Forbidden Door match with Will Ospreay.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Swerve Strickland remains attached to the 5-star-plus Forbidden Door match with Will Ospreay.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Swerve’s Forbidden Door match with Will Ospreay remains a 5.5-star table entry.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Swerve’s Forbidden Door match with Will Ospreay remains a 5.5-star table entry.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Swerve remains in the latest 5-star ledger through the Forbidden Door match with Will Ospreay.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Swerve remains in the latest 5-star ledger through the Forbidden Door match with Will Ospreay.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Swerve Strickland remains in the Meltzer ratings table through the 5.5-star Forbidden Door match with Will Ospreay.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Swerve Strickland remains in the Forbidden Door five-star-plus ratings entry against Will Ospreay.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Swerve Strickland remains in the Meltzer ratings table through the 5.5-star Forbidden Door match with Will Ospreay.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Swerve Strickland remains in the Forbidden Door five-star-plus ratings entry against Will Ospreay.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Swerve Strickland is referenced through Tony Khan’s absence comments and the Forbidden Door five-star entry.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Swerve Strickland is referenced through Tony Khan’s absence comments and the Forbidden Door five-star entry.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His Forbidden Door match with Will Ospreay remains listed at 5.5 stars.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — His Forbidden Door match with Will Ospreay remains listed at 5.5 stars.
 
 ## Related
 

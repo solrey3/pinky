@@ -15,7 +15,7 @@ U.S. cable-news organization appearing in the wiki through media, journalism, an
 
 ## Sources
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears via Kaitlan Collins being targeted in Trump's WHCA dinner speech.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Appears via Kaitlan Collins being targeted in Trump's WHCA dinner speech.
 
 ## Related
 

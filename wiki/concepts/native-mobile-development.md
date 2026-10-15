@@ -14,9 +14,9 @@ Native mobile development builds applications with the primary languages, framew
 
 ## Sources
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Shopify's native rewrite reinforces that shared-code savings must be weighed against platform fidelity, maintenance, and operating-system access.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — Shopify's native rewrite reinforces that shared-code savings must be weighed against platform fidelity, maintenance, and operating-system access.
 
-- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — Shopify's reported migration from React Native back to Swift and Kotlin shows a large product team deciding that native control outweighs shared-code benefits.
+- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-midnight.md) — Shopify's reported migration from React Native back to Swift and Kotlin shows a large product team deciding that native control outweighs shared-code benefits.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ American commercial-space company developing reusable launch vehicles.
 
 ## Sources
 
-- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-noon.md) — Targets its debut launch and outlines a larger rocket after raising additional capital.
+- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-noon.md) — Targets its debut launch and outlines a larger rocket after raising additional capital.
 
 ## Related
 

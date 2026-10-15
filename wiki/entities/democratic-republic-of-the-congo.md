@@ -15,7 +15,7 @@ Central African country; in this source, its Ebola outbreak is tied to a Senate 
 
 ## Sources
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Central African country; in this source, its Ebola outbreak is tied to a Senate push for family-planning funds.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Central African country; in this source, its Ebola outbreak is tied to a Senate push for family-planning funds.
 
 ## Related
 

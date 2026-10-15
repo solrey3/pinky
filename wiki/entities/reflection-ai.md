@@ -15,11 +15,11 @@ An AI company tracked here for Beam, a reported 501-billion-parameter open-weigh
 
 ## Sources
 
-- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Again highlights Beam's reported 501B open-weight release; licensing, provenance, efficiency, safety, and independent evaluation remain more informative than scale alone.
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-daytime.md) — Again highlights Beam's reported 501B open-weight release; licensing, provenance, efficiency, safety, and independent evaluation remain more informative than scale alone.
 
-- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Repeats Beam's 501B open-weight launch; independent evaluation, licensing, provenance, efficiency, and safety remain more informative than scale alone.
+- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-midnight.md) — Repeats Beam's 501B open-weight launch; independent evaluation, licensing, provenance, efficiency, and safety remain more informative than scale alone.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Releases Beam; parameter count and strategic framing require separate evaluation from capability, efficiency, license terms, provenance, and safety.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Releases Beam; parameter count and strategic framing require separate evaluation from capability, efficiency, license terms, provenance, and safety.
 
 ## Related
 

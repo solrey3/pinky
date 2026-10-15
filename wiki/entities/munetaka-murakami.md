@@ -15,7 +15,7 @@ Baseball player appearing in the newsletter through Home Run Derby prediction-ma
 
 ## Sources
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Polymarket trend text lists Murakami at **13%** in the 2026 Home Run Derby winner market.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Polymarket trend text lists Murakami at **13%** in the 2026 Home Run Derby winner market.
 
 ## Related
 

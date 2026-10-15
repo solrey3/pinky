@@ -15,7 +15,7 @@ Transcribe.cpp is a local speech-to-text project tracked as an operator-friendly
 
 ## Sources
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Hacker News surfaces Transcribe.cpp as a high-interest local speech-to-text tinkering project.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Hacker News surfaces Transcribe.cpp as a high-interest local speech-to-text tinkering project.
 
 ## Related
 

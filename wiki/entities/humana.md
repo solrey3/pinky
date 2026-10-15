@@ -15,7 +15,7 @@ Humana is a managed-care insurer tracked when medical-cost trends, Medicare Adva
 
 ## Sources
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Humana tops quarterly estimates and maintains its profit outlook as medical costs stay in line.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Humana tops quarterly estimates and maintains its profit outlook as medical costs stay in line.
 
 ## Related
 

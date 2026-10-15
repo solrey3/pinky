@@ -15,8 +15,8 @@ The Green Bay Packers are tracked as an NFL team when contract, roster, or sched
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Green Bay extends defensive tackle Devonte Wyatt for three years and $57M.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The Packers extend Devonte Wyatt for three years and $57M, keeping Green Bay in the sports-business/contract graph.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Green Bay extends defensive tackle Devonte Wyatt for three years and $57M.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — The Packers extend Devonte Wyatt for three years and $57M, keeping Green Bay in the sports-business/contract graph.
 
 ## Related
 

@@ -14,21 +14,21 @@ The set of techniques used to protect fragile quantum information from noise, de
 
 ## Sources
 
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — Microsoft, Atom Computing, and EeroQ are reported as promising useful quantum error correction by 2028, giving the wiki a concrete timeline claim to track.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — The 2028 useful-error-correction claim repeats in the morning AI desk, upgrading it from a single evening item into a timeline worth tracking across vendor updates.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — Microsoft, Atom Computing, and EeroQ are reported as promising useful quantum error correction by 2028, giving the wiki a concrete timeline claim to track.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — The 2028 useful-error-correction claim repeats in the morning AI desk, upgrading it from a single evening item into a timeline worth tracking across vendor updates.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Trump quantum research/security orders provide policy backdrop for quantum infrastructure, but they do not change the technical standard for useful error correction.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Trump quantum research/security orders provide policy backdrop for quantum infrastructure, but they do not change the technical standard for useful error correction.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — A quantum startup claim of useful error correction by 2028 is treated as a roadmap promise that still needs reproducible engineering evidence.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — A quantum startup claim of useful error correction by 2028 is treated as a roadmap promise that still needs reproducible engineering evidence.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Ars Technica coverage of constant quantum-processor recalibration reframes error correction as reliability engineering for usable quantum systems.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Ars Technica coverage of constant quantum-processor recalibration reframes error correction as reliability engineering for usable quantum systems.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Quantum error correction is framed as continual processor recalibration, emphasizing operational reliability over one-off demonstrations.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Ars coverage of constant quantum-processor recalibration again frames error correction as operational reliability engineering.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Quantum error correction is framed as continual processor recalibration, emphasizing operational reliability over one-off demonstrations.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Ars coverage of constant quantum-processor recalibration again frames error correction as operational reliability engineering.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Ars coverage of constant quantum-processor recalibration repeats, strengthening the reliability-engineering framing.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Ars coverage of constant quantum-processor recalibration repeats, strengthening the reliability-engineering framing.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Ars Technica coverage frames quantum error correction as continuous processor recalibration, preserving the reliability-engineering interpretation.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Ars Technica coverage frames quantum error correction as continuous processor recalibration, preserving the reliability-engineering interpretation.
 
 ## Related Concepts
 

@@ -15,71 +15,71 @@ Surveillance-technology company associated with license-plate reader and vehicle
 
 ## Sources
 
-- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-daytime.md) — Frames Flock-camera regulation as a Fourth Amendment problem, reinforcing warrant, retention, access, audit, accuracy, and remedy requirements.
+- [2026-10-15: Morning Dispatch — Thursday, October 15, 2026](../sources/newsletters/newsletter-2026-10-15-daytime.md) — Frames Flock-camera regulation as a Fourth Amendment problem, reinforcing warrant, retention, access, audit, accuracy, and remedy requirements.
 
-- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-daytime.md) — Adds a federal judge's warning about Flock-enabled mass surveillance to continuing constitutional scrutiny of networked vehicle tracking.
+- [2026-10-14: Morning Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-daytime.md) — Adds a federal judge's warning about Flock-enabled mass surveillance to continuing constitutional scrutiny of networked vehicle tracking.
 
-- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Maps municipalities that retained Flock cameras, showing uneven local procurement decisions without resolving warrant, retention, access, audit, or remedy questions.
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-noon.md) — Maps municipalities that retained Flock cameras, showing uneven local procurement decisions without resolving warrant, retention, access, audit, or remedy questions.
 
-- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Reports a judge finding a warrantless Flock-record search unconstitutional, reinforcing warrants, query limits, logs, and remedies.
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-noon.md) — Reports a judge finding a warrantless Flock-record search unconstitutional, reinforcing warrants, query limits, logs, and remedies.
 
-- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-daytime.md) — Repeats a federal ruling that warrantless searches of Flock records may violate the Fourth Amendment, keeping constitutional limits central.
+- [2026-10-04: Morning Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-daytime.md) — Repeats a federal ruling that warrantless searches of Flock records may violate the Fourth Amendment, keeping constitutional limits central.
 
-- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-midnight.md) — Repeats a federal ruling that warrantless searches of Flock records may violate the Fourth Amendment, keeping constitutional limits central.
+- [2026-10-04: Midnight Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-midnight.md) — Repeats a federal ruling that warrantless searches of Flock records may violate the Fourth Amendment, keeping constitutional limits central.
 
-- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-evening.md) — A federal judge reportedly questions warrantless searches of Flock records under the Fourth Amendment, escalating governance scrutiny from policy controls to constitutional limits.
+- [2026-10-03: Evening Brief — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-evening.md) — A federal judge reportedly questions warrantless searches of Flock records under the Fourth Amendment, escalating governance scrutiny from policy controls to constitutional limits.
 
-- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Charges alleging Indiana officers tracked romantic partners make insider authorization, immutable audit logs, supervisory review, and penalties the central governance failure.
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-evening.md) — Charges alleging Indiana officers tracked romantic partners make insider authorization, immutable audit logs, supervisory review, and penalties the central governance failure.
 
-- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — A physical camera teardown adds hardware transparency to continuing questions about collection, retention, access, auditing, and misuse.
+- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-noon.md) — A physical camera teardown adds hardware transparency to continuing questions about collection, retention, access, auditing, and misuse.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Continued community resistance keeps ALPR procurement legitimacy, retention, access, auditing, and misuse controls contested.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Continued community resistance keeps ALPR procurement legitimacy, retention, access, auditing, and misuse controls contested.
 
-- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Community revolt against automated plate tracking keeps procurement legitimacy, retention, access, auditing, and misuse controls contested.
+- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-daytime.md) — Community revolt against automated plate tracking keeps procurement legitimacy, retention, access, auditing, and misuse controls contested.
 
-- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-noon.md) — Vendor substitution preserves the surveillance capability, while alleged repeated tracking after lawful police recording sharpens retaliation and access-control concerns.
+- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-noon.md) — Vendor substitution preserves the surveillance capability, while alleged repeated tracking after lawful police recording sharpens retaliation and access-control concerns.
 
-- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — Law-enforcement leaders defend public-safety value while privacy and governance objections remain unresolved.
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-daytime.md) — Law-enforcement leaders defend public-safety value while privacy and governance objections remain unresolved.
 
-- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — Law-enforcement leaders frame Flock cameras as a public-safety tool while privacy objections remain unresolved.
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-midnight.md) — Law-enforcement leaders frame Flock cameras as a public-safety tool while privacy objections remain unresolved.
 
-- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Record municipal contract terminations turn privacy opposition into direct procurement reversals.
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-evening.md) — Record municipal contract terminations turn privacy opposition into direct procurement reversals.
 
-- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Texas bars state agencies from funding Flock cameras, making procurement authority a statewide surveillance constraint.
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-noon.md) — Texas bars state agencies from funding Flock cameras, making procurement authority a statewide surveillance constraint.
 
-- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Record municipal contract terminations turn surveillance-governance opposition into procurement reversals.
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-daytime.md) — Record municipal contract terminations turn surveillance-governance opposition into procurement reversals.
 
-- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-daytime.md) — Rapid camera-network expansion and growing backlash keep legitimacy, retention, access, auditing, and misuse controls contested.
+- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-daytime.md) — Rapid camera-network expansion and growing backlash keep legitimacy, retention, access, auditing, and misuse controls contested.
 
-- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-midnight.md) — Nationwide camera expansion and growing backlash keep network legitimacy, retention, access, and misuse controls contested.
+- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-midnight.md) — Nationwide camera expansion and growing backlash keep network legitimacy, retention, access, and misuse controls contested.
 
-- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — Growing resistance to its expanding camera network keeps legitimacy, retention, access, auditing, and misuse controls under scrutiny.
+- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-evening.md) — Growing resistance to its expanding camera network keeps legitimacy, retention, access, auditing, and misuse controls under scrutiny.
 
-- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletter-2026-08-24-evening.md) — A YouTuber excluded from its convention conducts counter-surveillance, turning the vendor’s observation model back onto the surveillance industry.
+- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-evening.md) — A YouTuber excluded from its convention conducts counter-surveillance, turning the vendor’s observation model back onto the surveillance industry.
 
-- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — Physical attacks on cameras broaden the legitimacy problem from privacy and misuse to direct infrastructure resistance.
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-daytime.md) — Physical attacks on cameras broaden the legitimacy problem from privacy and misuse to direct infrastructure resistance.
 
-- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Mounting civil-liberties criticism shows the company’s legitimacy challenge persists beyond individual misuse cases.
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-evening.md) — Mounting civil-liberties criticism shows the company’s legitimacy challenge persists beyond individual misuse cases.
 
-- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Bipartisan backlash shows ALPR surveillance has become a cross-partisan legitimacy and governance issue.
+- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-midnight.md) — Bipartisan backlash shows ALPR surveillance has become a cross-partisan legitimacy and governance issue.
 
-- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Bipartisan camera backlash and phone-to-plate correlation technology broaden concern from database misuse to cross-device movement tracking.
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-noon.md) — Bipartisan camera backlash and phone-to-plate correlation technology broaden concern from database misuse to cross-device movement tracking.
 
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Bipartisan camera backlash broadens the legitimacy challenge beyond earlier database-misuse cases.
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — Bipartisan camera backlash broadens the legitimacy challenge beyond earlier database-misuse cases.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Theft of every Flock camera in a Minnesota town amid widening bans highlights direct and institutional resistance to ALPR surveillance.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — Theft of every Flock camera in a Minnesota town amid widening bans highlights direct and institutional resistance to ALPR surveillance.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Georgia arrests over database misuse keep Flock in the ALPR audit-log and law-enforcement accountability frame.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Georgia arrests over database misuse keep Flock in the ALPR audit-log and law-enforcement accountability frame.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Georgia arrests tied to database misuse keep Flock in the ALPR access-control and civil-liberties record.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Georgia arrests tied to database misuse keep Flock in the ALPR access-control and civil-liberties record.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Georgia arrests tied to misuse of its surveillance database keep ALPR access-control and civil-liberties risk live.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Georgia arrests tied to misuse of its surveillance database keep ALPR access-control and civil-liberties risk live.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Reason reports at least 20 Georgia officials arrested for alleged misuse of the Flock surveillance database.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Reason reports at least 20 Georgia officials arrested for alleged misuse of the Flock surveillance database.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Georgia officers keep getting arrested for allegedly misusing Flock surveillance data, making insider access control the core risk.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Georgia officers keep getting arrested for allegedly misusing Flock surveillance data, making insider access control the core risk.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Additional Georgia arrests for misusing Flock data keep insider access abuse at the center of the surveillance story.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Additional Georgia arrests for misusing Flock data keep insider access abuse at the center of the surveillance story.
 
 ## Related
 

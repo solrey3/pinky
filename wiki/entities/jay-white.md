@@ -15,7 +15,7 @@ Professional wrestler tracked in the wiki when AEW/NJPW-related booking, match r
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Jay White is named in the AEW Dynamite results headline alongside Kenny Omega and title-match coverage.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Jay White is named in the AEW Dynamite results headline alongside Kenny Omega and title-match coverage.
 
 ## Related
 

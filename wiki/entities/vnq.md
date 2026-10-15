@@ -15,19 +15,19 @@ VNQ is tracked as a real-estate/REIT ETF proxy in newsletter market tables.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — VNQ falls 2.02%, keeping REIT exposure as a non-confirming pocket.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — VNQ falls 1.46%, showing real-estate weakness while long rates remain elevated.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Falls 1.46% while long rates stay high, marking real estate as the weak pocket in the rally.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — REIT weakness shows rate-sensitive pressure even with indexes green.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 1.85%, showing real-estate pressure against a stronger broad-index tape.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — VNQ falls 2.02%, keeping REIT exposure as a non-confirming pocket.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — VNQ falls 1.46%, showing real-estate weakness while long rates remain elevated.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Falls 1.46% while long rates stay high, marking real estate as the weak pocket in the rally.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — REIT weakness shows rate-sensitive pressure even with indexes green.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Falls 1.85%, showing real-estate pressure against a stronger broad-index tape.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — VNQ weakness keeps real estate and rate sensitivity visible in the green-but-not-clean market read.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — VNQ weakness keeps real estate and rate sensitivity visible in the green-but-not-clean market read.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — VNQ is down 1.85%, one of the REIT/rate-sensitive weak points beneath the green-index tape.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — VNQ is down 1.85%, one of the REIT/rate-sensitive weak points beneath the green-index tape.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — VNQ rises 1.69% and remains near its high side, one of the clearest ETF resilience signals.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — VNQ rises 1.69% and remains near its high side, one of the clearest ETF resilience signals.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — VNQ gains 2.00%, reinforcing REIT resilience despite high long rates.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — VNQ gains 2.00%, reinforcing REIT resilience despite high long rates.
 
 ## Related
 

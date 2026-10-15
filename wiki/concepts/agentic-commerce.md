@@ -14,15 +14,15 @@ Agentic commerce is the use of software agents to search, compare, negotiate, se
 
 ## Sources
 
-- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Amazon's reported block on Muse shows that delegated purchasing requires merchant-platform consent as well as scoped credentials and user authorization.
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-daytime.md) — Amazon's reported block on Muse shows that delegated purchasing requires merchant-platform consent as well as scoped credentials and user authorization.
 
-- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletter-2026-09-21-evening.md) — Repeats consumer-agent adoption and payment-access concerns, reinforcing scoped credentials, confirmation thresholds, revocation, receipts, and dispute rules.
+- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-evening.md) — Repeats consumer-agent adoption and payment-access concerns, reinforcing scoped credentials, confirmation thresholds, revocation, receipts, and dispute rules.
 
-- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-noon.md) — Consumer AI agents reportedly rise in app rankings while seeking purchasing autonomy, reinforcing the need for scoped payment authority, confirmation, revocation, and receipts.
+- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-noon.md) — Consumer AI agents reportedly rise in app rankings while seeking purchasing autonomy, reinforcing the need for scoped payment authority, confirmation, revocation, and receipts.
 
-- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Meta's Muse agent reportedly gains consumer traction and purchasing capability, reinforcing scoped credentials, spending limits, confirmation, and revocation.
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-daytime.md) — Meta's Muse agent reportedly gains consumer traction and purchasing capability, reinforcing scoped credentials, spending limits, confirmation, and revocation.
 
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Mastercard's reported preparation for AI shopping agents moves delegated purchasing from an interface idea toward payment infrastructure.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — Mastercard's reported preparation for AI shopping agents moves delegated purchasing from an interface idea toward payment infrastructure.
 
 ## Related Concepts
 

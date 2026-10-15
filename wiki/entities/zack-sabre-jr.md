@@ -15,28 +15,28 @@ Zack Sabre Jr. is a technical wrestler associated with NJPW and cross-promotiona
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His NJPW G1 Climax match with Yuya Uemura remains in the Meltzer 5-star ledger.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Stays alive in G1 Climax 36 Night 11 coverage and appears in Meltzer-rated context.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Stays alive in NJPW G1 Climax 36 Night 11 coverage and remains in the Meltzer-rated match ledger.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — His NJPW G1 Climax match with Yuya Uemura remains in the Meltzer 5-star ledger.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Stays alive in G1 Climax 36 Night 11 coverage and appears in Meltzer-rated context.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Stays alive in NJPW G1 Climax 36 Night 11 coverage and remains in the Meltzer-rated match ledger.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Zack Sabre Jr. remains alive in G1 Climax coverage.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Zack Sabre Jr. remains alive in G1 Climax coverage.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Stays alive in the NJPW G1 Climax 36 Night 11 item and appears in recent Meltzer-rated match continuity.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Stays alive in the NJPW G1 Climax 36 Night 11 item and appears in recent Meltzer-rated match continuity.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Zack Sabre Jr. remains in the Meltzer table through the G1 Climax match with Yuya Uemura.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Zack Sabre Jr. remains in the Meltzer table through the G1 Climax match with Yuya Uemura.
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Zack Sabre Jr. appears through the five-star G1 Climax match with Yuya Uemura.
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Sabre appears on the losing side of a G1 Climax 36 result against Yuya Uemura.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Zack Sabre Jr. appears through the five-star G1 Climax match with Yuya Uemura.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Sabre appears on the losing side of a G1 Climax 36 result against Yuya Uemura.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Zack Sabre Jr. appears opposite Yuya Uemura in the newest fetched NJPW five-star match.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Zack Sabre Jr. appears opposite Yuya Uemura in the newest fetched NJPW five-star match.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His G1 Climax match with Yuya Uemura remains a 5-star listing.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Loses to Gabe Kidd on NJPW G1 Climax 36 Night 7 and remains in the Meltzer 5-star table via the Yuya Uemura match.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — His G1 Climax match with Yuya Uemura remains a 5-star listing.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Loses to Gabe Kidd on NJPW G1 Climax 36 Night 7 and remains in the Meltzer 5-star table via the Yuya Uemura match.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Meltzer table lists Zack Sabre Jr. against Yuya Uemura in a five-star G1 Climax match.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Meltzer table lists Zack Sabre Jr. against Yuya Uemura in a five-star G1 Climax match.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears in a July 19 NJPW five-star G1 Climax match with Yuya Uemura.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appears in a July 19 NJPW five-star G1 Climax match with Yuya Uemura.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

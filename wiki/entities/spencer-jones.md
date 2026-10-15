@@ -15,7 +15,7 @@ NBA player in the July 2026 roster-news cycle.
 
 ## Sources
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Spencer Jones remains with Denver after the Nuggets match the Thunder offer sheet.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Spencer Jones remains with Denver after the Nuggets match the Thunder offer sheet.
 
 ## Related
 

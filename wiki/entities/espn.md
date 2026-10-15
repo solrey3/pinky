@@ -15,16 +15,16 @@ ESPN is a sports-media network. In this wiki, it appears as both a sports-news s
 
 ## Sources
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Supplies Knicks, Miami football, MLS commissioner, tennis, golf, and team-report sports items.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Provides sports newswire and team-report provenance across NBA, MLB, NFL, NHL, MLS, and soccer items.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Supplies sports newswire and team-report items across NBA, Big East, NFL, MLB, NHL, MLS, and soccer.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Supplies Knicks, Miami football, MLS commissioner, tennis, golf, and team-report sports items.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Provides sports newswire and team-report provenance across NBA, MLB, NFL, NHL, MLS, and soccer items.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Supplies sports newswire and team-report items across NBA, Big East, NFL, MLB, NHL, MLS, and soccer.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Feeds sports newswire, schedule, scoreboard, and team-report provenance across NBA, MLB, NFL, NHL, soccer, and golf.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Feeds sports newswire, schedule, scoreboard, and team-report provenance across NBA, MLB, NFL, NHL, soccer, and golf.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Supplies sports newswire items, MLB/NFL/NBA/MLS headlines, and team-report links.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Supplies sports newswire items, MLB/NFL/NBA/MLS headlines, and team-report links.
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Supplies the sports newswire and team-report feeds for NFL, MLB, NHL, MLS, and soccer items.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — ESPN anchors multiple sports items, including NBA offseason updates, Giants/Mets headlines, soccer governance coverage, WWE SummerSlam branding, and LeBron documentary chatter.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Supplies the sports newswire and team-report feeds for NFL, MLB, NHL, MLS, and soccer items.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — ESPN anchors multiple sports items, including NBA offseason updates, Giants/Mets headlines, soccer governance coverage, WWE SummerSlam branding, and LeBron documentary chatter.
 
 ## Related
 

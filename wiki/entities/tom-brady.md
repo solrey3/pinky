@@ -15,7 +15,7 @@ Tom Brady is tracked when football, media, or wrestling/business crossover stori
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Brady is reportedly having ongoing conversations with WWE.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Brady is reportedly having ongoing conversations with WWE.
 
 ## Related
 

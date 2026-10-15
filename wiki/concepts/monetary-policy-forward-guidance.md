@@ -14,269 +14,269 @@ A central-bank communication strategy that attempts to shape expectations by sig
 
 ## Sources
 
-- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-daytime.md) — EFFR remains 3.88% inside the listed target range while a 5.603% long yield and 7.47% mortgage quote show restrictive transmission; these market rates are context, not direct Fed guidance.
+- [2026-10-02: Morning Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-daytime.md) — EFFR remains 3.88% inside the listed target range while a 5.603% long yield and 7.47% mortgage quote show restrictive transmission; these market rates are context, not direct Fed guidance.
 
-- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-midnight.md) — Softer core inflation reportedly reduces expectations for another 2026 hike, but a 5.603% long yield and 7.47% mortgage quote show restrictive transmission persists; this is market interpretation, not direct Fed guidance.
+- [2026-10-02: Midnight Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-midnight.md) — Softer core inflation reportedly reduces expectations for another 2026 hike, but a 5.603% long yield and 7.47% mortgage quote show restrictive transmission persists; this is market interpretation, not direct Fed guidance.
 
-- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — Softer core inflation reportedly lowers expectations for another 2026 hike, but 5.603% long yields and 7.43% mortgages show restrictive transmission persists; this is market interpretation, not direct Fed guidance.
+- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-evening.md) — Softer core inflation reportedly lowers expectations for another 2026 hike, but 5.603% long yields and 7.43% mortgages show restrictive transmission persists; this is market interpretation, not direct Fed guidance.
 
-- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-noon.md) — Softer core inflation reportedly lowers the odds of a second 2026 hike; this is an expectations update rather than direct Federal Reserve guidance, while a 5.622% long yield shows restrictive transmission persists.
+- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-noon.md) — Softer core inflation reportedly lowers the odds of a second 2026 hike; this is an expectations update rather than direct Federal Reserve guidance, while a 5.622% long yield shows restrictive transmission persists.
 
-- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Softer core inflation is interpreted as reducing the likelihood of another 2026 hike; this is an expectations update, not direct Federal Reserve guidance.
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-daytime.md) — Softer core inflation is interpreted as reducing the likelihood of another 2026 hike; this is an expectations update, not direct Federal Reserve guidance.
 
-- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-daytime.md) — A 5.461% 30-year Treasury yield and 7.17% mortgage quote show restrictive policy transmission, but market borrowing costs are not direct Federal Reserve guidance.
+- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-daytime.md) — A 5.461% 30-year Treasury yield and 7.17% mortgage quote show restrictive policy transmission, but market borrowing costs are not direct Federal Reserve guidance.
 
-- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-midnight.md) — A 5.461% 30-year Treasury yield and 7.17% mortgage quote show restrictive policy transmission, but market borrowing costs are not direct Federal Reserve guidance.
+- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-midnight.md) — A 5.461% 30-year Treasury yield and 7.17% mortgage quote show restrictive policy transmission, but market borrowing costs are not direct Federal Reserve guidance.
 
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — The reported hike is policy action rather than guidance; Trump's Warsh endorsement raises independence concerns, while conflicting target ranges across adjacent dispatches require an official Fed source.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — The reported hike is policy action rather than guidance; Trump's Warsh endorsement raises independence concerns, while conflicting target ranges across adjacent dispatches require an official Fed source.
 
-- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-midnight.md) — The reported hike is policy action rather than guidance; the target-range discrepancy across adjacent dispatches requires an official Fed source, while Trump's Warsh endorsement adds institutional-independence risk.
+- [2026-09-18: Midnight Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-midnight.md) — The reported hike is policy action rather than guidance; the target-range discrepancy across adjacent dispatches requires an official Fed source, while Trump's Warsh endorsement adds institutional-independence risk.
 
-- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-evening.md) — The reported hike is policy action rather than future guidance; Trump's Warsh endorsement adds independence risk, while the listed target range conflicts with the morning dispatch and requires official confirmation.
+- [2026-09-17: Evening Brief — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-evening.md) — The reported hike is policy action rather than future guidance; Trump's Warsh endorsement adds independence risk, while the listed target range conflicts with the morning dispatch and requires official confirmation.
 
-- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-noon.md) — The reported hike turns tightening into action, but the listed 3.75%–4.00% target range conflicts with the morning dispatch's 3.50%–3.75% range and requires official confirmation.
+- [2026-09-17: Noon Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-noon.md) — The reported hike turns tightening into action, but the listed 3.75%–4.00% target range conflicts with the morning dispatch's 3.50%–3.75% range and requires official confirmation.
 
-- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — The reported first hike in three years turns tightening expectations into action; the rate snapshot documents policy transmission but does not by itself communicate the future path.
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-daytime.md) — The reported first hike in three years turns tightening expectations into action; the rate snapshot documents policy transmission but does not by itself communicate the future path.
 
-- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — The reported first hike in three years turns anticipated tightening into action; survey expectations of more hikes remain external interpretation rather than direct Fed guidance.
+- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-midnight.md) — The reported first hike in three years turns anticipated tightening into action; survey expectations of more hikes remain external interpretation rather than direct Fed guidance.
 
-- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-evening.md) — The reported first hike in three years turns prior tightening expectations into policy action; forecasts of more hikes remain external interpretation rather than Federal Reserve guidance.
+- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-evening.md) — The reported first hike in three years turns prior tightening expectations into policy action; forecasts of more hikes remain external interpretation rather than Federal Reserve guidance.
 
-- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-noon.md) — A survey-based expectation of two hikes accompanies 5.34% long yields and 7.02% mortgages; it remains external interpretation rather than direct Federal Reserve guidance.
+- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-noon.md) — A survey-based expectation of two hikes accompanies 5.34% long yields and 7.02% mortgages; it remains external interpretation rather than direct Federal Reserve guidance.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — A CNBC survey points to two further hikes while Treasury and mortgage rates rise; this is survey-based market expectation, not direct Federal Reserve guidance.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — A CNBC survey points to two further hikes while Treasury and mortgage rates rise; this is survey-based market expectation, not direct Federal Reserve guidance.
 
-- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-noon.md) — Rising yields and Wall Street's reading of the Fed's dots revive hike expectations, but remain external interpretation rather than direct Federal Reserve guidance.
+- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-noon.md) — Rising yields and Wall Street's reading of the Fed's dots revive hike expectations, but remain external interpretation rather than direct Federal Reserve guidance.
 
-- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — Morgan Stanley and Goldman Sachs reportedly forecast a hike while economists warn of policy-error risk; these are competing external interpretations, not direct Federal Reserve guidance.
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-daytime.md) — Morgan Stanley and Goldman Sachs reportedly forecast a hike while economists warn of policy-error risk; these are competing external interpretations, not direct Federal Reserve guidance.
 
-- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Steady inflation, oil above $102, and elevated long yields are interpreted as reviving hike risk; this is market inference rather than direct Federal Reserve guidance.
+- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-daytime.md) — Steady inflation, oil above $102, and elevated long yields are interpreted as reviving hike risk; this is market inference rather than direct Federal Reserve guidance.
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Hot inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-evening.md) — Hot inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
 
-- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Sticky inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
+- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-noon.md) — Sticky inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
 
-- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-daytime.md) — Steady inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
+- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-daytime.md) — Steady inflation, $100 oil, and elevated long yields are interpreted as increasing hike risk; this is market inference rather than direct Federal Reserve guidance.
 
-- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Steady inflation is interpreted as making a rate increase more likely; this remains market inference rather than direct Federal Reserve guidance.
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-midnight.md) — Steady inflation is interpreted as making a rate increase more likely; this remains market inference rather than direct Federal Reserve guidance.
 
-- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — Steady inflation is interpreted as making a rate increase more likely; the claim remains market inference rather than direct Federal Reserve guidance.
+- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-evening.md) — Steady inflation is interpreted as making a rate increase more likely; the claim remains market inference rather than direct Federal Reserve guidance.
 
-- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-noon.md) — Steady inflation is interpreted as making a rate increase more likely; the claim is market inference rather than direct Federal Reserve guidance.
+- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-noon.md) — Steady inflation is interpreted as making a rate increase more likely; the claim is market inference rather than direct Federal Reserve guidance.
 
-- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-daytime.md) — Steady inflation, $100 oil, and high long yields support expectations of further rate increases; this remains analyst and market inference rather than direct Fed guidance.
+- [2026-09-12: Morning Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-daytime.md) — Steady inflation, $100 oil, and high long yields support expectations of further rate increases; this remains analyst and market inference rather than direct Fed guidance.
 
-- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-midnight.md) — Steady August inflation is interpreted as preserving multiple rate increases while long yields and mortgage costs remain elevated; this is market inference, not direct Fed guidance.
+- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-midnight.md) — Steady August inflation is interpreted as preserving multiple rate increases while long yields and mortgage costs remain elevated; this is market inference, not direct Fed guidance.
 
-- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletter-2026-09-11-evening.md) — Steady August inflation reportedly shifts Wall Street toward expecting another Fed rate increase while long yields remain near their annual ceiling.
+- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-evening.md) — Steady August inflation reportedly shifts Wall Street toward expecting another Fed rate increase while long yields remain near their annual ceiling.
 
-- [2026-08-31: Morning Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-daytime.md) — Warsh keeps additional inflation tightening possible while EFFR remains 3.63% and long borrowing costs stay elevated.
+- [2026-08-31: Morning Dispatch — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-daytime.md) — Warsh keeps additional inflation tightening possible while EFFR remains 3.63% and long borrowing costs stay elevated.
 
-- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — Warsh keeps further tightening possible while EFFR remains 3.63% and long borrowing costs stay elevated.
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-daytime.md) — Warsh keeps further tightening possible while EFFR remains 3.63% and long borrowing costs stay elevated.
 
-- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — Warsh keeps further tightening possible while EFFR stays at 3.63% and long rates remain elevated.
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-midnight.md) — Warsh keeps further tightening possible while EFFR stays at 3.63% and long rates remain elevated.
 
-- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Warsh keeps additional inflation tightening possible despite unchanged EFFR and elevated long borrowing costs.
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-evening.md) — Warsh keeps additional inflation tightening possible despite unchanged EFFR and elevated long borrowing costs.
 
-- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — Warsh reiterates that inflation may require further tightening despite unchanged EFFR and elevated long borrowing costs.
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-noon.md) — Warsh reiterates that inflation may require further tightening despite unchanged EFFR and elevated long borrowing costs.
 
-- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Warsh preserves another rate increase as a possibility despite unchanged EFFR and elevated long borrowing costs.
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-daytime.md) — Warsh preserves another rate increase as a possibility despite unchanged EFFR and elevated long borrowing costs.
 
-- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-midnight.md) — Warsh keeps further inflation tightening possible despite an unchanged EFFR and elevated long borrowing costs.
+- [2026-08-29: Midnight Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-midnight.md) — Warsh keeps further inflation tightening possible despite an unchanged EFFR and elevated long borrowing costs.
 
-- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — Warsh says the inflation fight may be unfinished, preserving conditional tightening despite an unchanged EFFR.
+- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-evening.md) — Warsh says the inflation fight may be unfinished, preserving conditional tightening despite an unchanged EFFR.
 
-- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-noon.md) — Warsh conditionally signals another rate increase if inflation stays high, converting uncertainty into an explicit tightening possibility.
+- [2026-08-28: Noon Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-noon.md) — Warsh conditionally signals another rate increase if inflation stays high, converting uncertainty into an explicit tightening possibility.
 
-- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — An unclear inflation stance before the new Fed chair's first Jackson Hole appearance adds policy-path uncertainty amid elevated long borrowing costs.
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-daytime.md) — An unclear inflation stance before the new Fed chair's first Jackson Hole appearance adds policy-path uncertainty amid elevated long borrowing costs.
 
-- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — An unclear inflation stance before Jackson Hole increases policy-path uncertainty while EFFR remains 3.63% and long borrowing costs stay elevated.
+- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-noon.md) — An unclear inflation stance before Jackson Hole increases policy-path uncertainty while EFFR remains 3.63% and long borrowing costs stay elevated.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — An EFFR of 3.63% within a 3.50%–3.75% target range anchors the market snapshot.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — An EFFR of 3.63% within a 3.50%–3.75% target range anchors the market snapshot.
 
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — EFFR, the Fed target, Treasury yields, mortgage rates, forex, and gas prices document policy transmission.
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — EFFR at 3.63%, the Fed target range, Treasury rates, mortgage rates, gas, and forex tables remain the market-policy backdrop.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — EFFR at 3.63%, the Fed target range, Treasury yields, mortgage rates, gas prices, and forex tables anchor the market transmission backdrop.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — EFFR at 3.63%, the Fed target range, 30-year Treasury near its high, mortgage quotes, FX, and risk assets form the morning policy-transmission backdrop.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — EFFR, the Fed target range, 30-year Treasury, mortgage rate, FX, gas, and risk assets remain the policy-transmission backdrop for the rally.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — EFFR, target range, 30-year Treasury, 90-day bill, mortgage, FX, gas, and risk-asset tables keep policy transmission visible at the evening close.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — EFFR, the Fed target range, Treasuries, mortgage rates, FX, gas, and yen-intervention coverage document policy transmission at noon.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — EFFR, target range, long Treasuries, mortgage rates, FX, gas, and yen-intervention headlines document policy transmission into household and market prices.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — EFFR, the Fed target range, Treasury yields, mortgage rates, FX, gas, and prediction-market Fed topics keep policy transmission visible.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — EFFR, the Fed target, Treasury yields, mortgage rates, forex, and gas prices document policy transmission.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — EFFR at 3.63%, the Fed target range, Treasury rates, mortgage rates, gas, and forex tables remain the market-policy backdrop.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — EFFR at 3.63%, the Fed target range, Treasury yields, mortgage rates, gas prices, and forex tables anchor the market transmission backdrop.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — EFFR at 3.63%, the Fed target range, 30-year Treasury near its high, mortgage quotes, FX, and risk assets form the morning policy-transmission backdrop.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — EFFR, the Fed target range, 30-year Treasury, mortgage rate, FX, gas, and risk assets remain the policy-transmission backdrop for the rally.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — EFFR, target range, 30-year Treasury, 90-day bill, mortgage, FX, gas, and risk-asset tables keep policy transmission visible at the evening close.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — EFFR, the Fed target range, Treasuries, mortgage rates, FX, gas, and yen-intervention coverage document policy transmission at noon.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — EFFR, target range, long Treasuries, mortgage rates, FX, gas, and yen-intervention headlines document policy transmission into household and market prices.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — EFFR, the Fed target range, Treasury yields, mortgage rates, FX, gas, and prediction-market Fed topics keep policy transmission visible.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — EFFR, the target range, Treasuries, mortgage quotes, FX, gas, and stale-Sunday tape keep policy transmission visible.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — EFFR, the target range, Treasuries, mortgage quotes, FX, gas, and stale-Sunday tape keep policy transmission visible.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — EFFR, Fed target range, Treasuries, mortgage rates, FX, gas, and prediction-market gaps keep policy transmission visible.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — EFFR, Fed target range, Treasuries, mortgage rates, FX, gas, and prediction-market gaps keep policy transmission visible.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Fed funds, Treasury rates, mortgage quotes, FX, and Fed-leadership chatter preserve the policy-transmission layer.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Fed funds, Treasury rates, mortgage quotes, FX, and Fed-leadership chatter preserve the policy-transmission layer.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Fed funds, target range, Treasury rates, mortgage quotes, FX, and Fed-decision prediction-market topics preserve the rates-policy transmission layer.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Fed funds, target range, Treasury rates, mortgage quotes, FX, and Fed-decision prediction-market topics preserve the rates-policy transmission layer.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — EFFR, the Fed target range, Treasury yields, mortgage quotes, FX, and Fed-decision prediction topics keep rate-policy transmission visible.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — EFFR, the Fed target range, Treasury yields, mortgage quotes, FX, and Fed-decision prediction topics keep rate-policy transmission visible.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — EFFR, Fed target range, Treasury rates, mortgage quotes, FX, CDs, gas, and forecast-market feed gaps remain the policy-transmission layer.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — EFFR, Fed target range, Treasury rates, mortgage quotes, FX, CDs, gas, and forecast-market feed gaps remain the policy-transmission layer.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — EFFR, target range, Treasury rates, mortgage rates, FX, and Fed-decision prediction topics form the policy-transmission layer.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — EFFR, target range, Treasury rates, mortgage rates, FX, and Fed-decision prediction topics form the policy-transmission layer.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — EFFR, the Fed target range, Treasury rates, mortgage rates, FX, and Fed-decision prediction topics remain the source’s policy-transmission frame.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — EFFR, the Fed target range, Treasury rates, mortgage rates, FX, and Fed-decision prediction topics remain the source’s policy-transmission frame.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — EFFR, target range, 30-year Treasury near highs, mortgage rates, FX, oil, and Fed-decision market chatter keep policy transmission central to the close.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — EFFR, target range, 30-year Treasury near highs, mortgage rates, FX, oil, and Fed-decision market chatter keep policy transmission central to the close.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — EFFR is unavailable, but the 5.264% 30-year Treasury, 6.76% mortgage quote, FX, oil, gas, and Fed-decision market chatter keep policy transmission visible without a new Fed guidance signal.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — EFFR, the Fed target range, Treasuries, mortgage rates, FX, and bank-account/loan effects make rate transmission explicit.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — EFFR stays at 3.63% inside the 3.50%–3.75% target range while Treasuries, mortgages, FX, and Fed-reaction stories frame rate transmission.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range, while the 30-year Treasury at 5.208%, 90-day bill at 3.675%, mortgage rate at 6.76%, FX, and Fed-reaction coverage keep policy transmission central.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — EFFR at 3.63%, the 3.50%–3.75% Fed target range, a near-high 30-year Treasury, mortgage rates, FX, and prediction-market Fed chatter keep policy transmission central.
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — The Federal Reserve is reported to be moving away from forward guidance under Kevin Warsh, shifting market interpretation toward data dependence and away from forecast anchoring.
-- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — The rate snapshot and July 50+ bps hike prediction-market snippet provide expectations context, but they are not forward guidance; this distinction keeps policy communication separate from market-implied odds.
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — The evening rate snapshot again supplies EFFR/target-range context without adding a new Fed communication signal.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Weekend morning rate data repeats EFFR **3.63%** and the **3.50%–3.75%** target range, providing current-rate context but no new forward-guidance signal.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Evening rate data repeats the same EFFR/target-range context, while a Polymarket Fed-decision trend remains prediction-market metadata rather than Fed guidance.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** range; this is current-rate context, not new Fed guidance.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — EFFR is unavailable, but the 5.264% 30-year Treasury, 6.76% mortgage quote, FX, oil, gas, and Fed-decision market chatter keep policy transmission visible without a new Fed guidance signal.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — EFFR, the Fed target range, Treasuries, mortgage rates, FX, and bank-account/loan effects make rate transmission explicit.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — EFFR stays at 3.63% inside the 3.50%–3.75% target range while Treasuries, mortgages, FX, and Fed-reaction stories frame rate transmission.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — EFFR remains 3.63% inside a 3.50%–3.75% target range, while the 30-year Treasury at 5.208%, 90-day bill at 3.675%, mortgage rate at 6.76%, FX, and Fed-reaction coverage keep policy transmission central.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — EFFR at 3.63%, the 3.50%–3.75% Fed target range, a near-high 30-year Treasury, mortgage rates, FX, and prediction-market Fed chatter keep policy transmission central.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — The Federal Reserve is reported to be moving away from forward guidance under Kevin Warsh, shifting market interpretation toward data dependence and away from forecast anchoring.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-19.md) — The rate snapshot and July 50+ bps hike prediction-market snippet provide expectations context, but they are not forward guidance; this distinction keeps policy communication separate from market-implied odds.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — The evening rate snapshot again supplies EFFR/target-range context without adding a new Fed communication signal.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — Weekend morning rate data repeats EFFR **3.63%** and the **3.50%–3.75%** target range, providing current-rate context but no new forward-guidance signal.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Evening rate data repeats the same EFFR/target-range context, while a Polymarket Fed-decision trend remains prediction-market metadata rather than Fed guidance.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** range; this is current-rate context, not new Fed guidance.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not a new Fed communication signal.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not a new Fed communication signal.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is rate context, not new forward guidance.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is rate context, not new forward guidance.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the July Fed-decision Polymarket snippet is expectations metadata, not Fed communication.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the July Fed-decision Polymarket snippet is expectations metadata, not Fed communication.
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not new forward guidance.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not new forward guidance.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — The same EFFR/target-range snapshot anchors the evening selloff; it is rate-environment context, not a changed Fed reaction function.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — The same EFFR/target-range snapshot anchors the evening selloff; it is rate-environment context, not a changed Fed reaction function.
 
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is rate context, not new Fed forward guidance.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is rate context, not new Fed forward guidance.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — The evening rate snapshot repeats EFFR **3.63%** inside the **3.50%–3.75%** target range; it anchors the market table without adding a Fed reaction-function update.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — The evening rate snapshot repeats EFFR **3.63%** inside the **3.50%–3.75%** target range; it anchors the market table without adding a Fed reaction-function update.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the print anchors the market dashboard but does not add a Fed communication update.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the print anchors the market dashboard but does not add a Fed communication update.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Evening EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not forward guidance.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — Evening EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not forward guidance.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the dispatch provides rate context but no new Fed signal.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Evening EFFR again sits at **3.63%** in the **3.50%–3.75%** target range; the market move is risk-off price action, not a new Fed-guidance event.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Weekend EFFR remains **3.63%** inside the **3.50%–3.75%** range; the dispatch adds rate context but no guidance update.
-- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Evening EFFR again remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not a Fed communication event.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the dispatch provides rate context but no new Fed signal.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — Evening EFFR again sits at **3.63%** in the **3.50%–3.75%** target range; the market move is risk-off price action, not a new Fed-guidance event.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — Weekend EFFR remains **3.63%** inside the **3.50%–3.75%** range; the dispatch adds rate context but no guidance update.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-evening.md) — Evening EFFR again remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not a Fed communication event.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — EFFR stays at **3.63%** inside the **3.50%–3.75%** target range, making Fed policy stable context rather than a fresh signal.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — EFFR stays at **3.63%** inside the **3.50%–3.75%** target range, making Fed policy stable context rather than a fresh signal.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not new forward guidance.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not new forward guidance.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies current-rate context but no new Fed communication.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies current-rate context but no new Fed communication.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, but Trump/Lisa Cook pressure adds institutional-independence context rather than rate guidance.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, but Trump/Lisa Cook pressure adds institutional-independence context rather than rate guidance.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies rate context but no new Fed communication.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies rate context but no new Fed communication.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the evening equity rally is price action, not a new Fed communication.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the evening equity rally is price action, not a new Fed communication.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source adds rate context but no new Fed communication.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source adds rate context but no new Fed communication.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, so the source adds rate continuity rather than new Fed communication.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, so the source adds rate continuity rather than new Fed communication.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies rate context, not new Fed guidance.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies rate context, not new Fed guidance.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies rate context but no new Fed guidance.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source supplies rate context but no new Fed guidance.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — EFFR stays **3.63%** inside the **3.50%–3.75%** target range; no new Fed guidance appears, but the long-end rate move constrains the market read.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — EFFR stays **3.63%** inside the **3.50%–3.75%** target range; no new Fed guidance appears, but the long-end rate move constrains the market read.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Fed policy is unchanged at **3.63%** EFFR inside the **3.50%–3.75%** target range; the actionable change is long-end pressure, not new Fed communication.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Fed policy is unchanged at **3.63%** EFFR inside the **3.50%–3.75%** target range; the actionable change is long-end pressure, not new Fed communication.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Fed policy is unchanged at **3.63%** EFFR inside the **3.50%–3.75%** range; this is current-rate context, not new forward guidance.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Fed policy is unchanged at **3.63%** EFFR inside the **3.50%–3.75%** range; this is current-rate context, not new forward guidance.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, making this another continuity update rather than new forward guidance.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, making this another continuity update rather than new forward guidance.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, making this another continuity update rather than new guidance.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range, making this another continuity update rather than new guidance.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — EFFR remains steady at **3.63%** inside the **3.50%–3.75%** target range, while long Treasury pressure matters more than new Fed language.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — EFFR remains steady at **3.63%** inside the **3.50%–3.75%** target range, while long Treasury pressure matters more than new Fed language.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not fresh forward guidance.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; this is current-rate context, not fresh forward guidance.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source adds rate context but no fresh Fed communication or guidance signal.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — EFFR remains **3.63%** inside the **3.50%–3.75%** target range; the source adds rate context but no fresh Fed communication or guidance signal.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — The Fed target range and EFFR are unchanged, but the 30-year Treasury at **5.043%** shows market rates doing the signaling work.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — The Fed target range and EFFR are unchanged, but the 30-year Treasury at **5.043%** shows market rates doing the signaling work.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Policy-rate data stay stable, but the 30-year Treasury and mortgage-rate snapshots keep the market focused on long-end pressure rather than fresh Fed action.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Policy-rate data stay stable, but the 30-year Treasury and mortgage-rate snapshots keep the market focused on long-end pressure rather than fresh Fed action.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — EFFR stays at **3.63%** inside the **3.50%–3.75%** range while the 30-year Treasury remains elevated at **5.065%**.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — EFFR stays at **3.63%** inside the **3.50%–3.75%** range while the 30-year Treasury remains elevated at **5.065%**.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — EFFR is stable at 3.62% inside the 3.50%–3.75% target range while the 30-year Treasury at 5.053% keeps long-duration pressure in the market interpretation.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — EFFR is stable at 3.62% inside the 3.50%–3.75% target range while the 30-year Treasury at 5.053% keeps long-duration pressure in the market interpretation.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Stable EFFR at 3.62% contrasts with a 30-year Treasury above 5% and mortgage rates near 6.6%, making long rates the market signal.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Stable EFFR at 3.62% contrasts with a 30-year Treasury above 5% and mortgage rates near 6.6%, making long rates the market signal.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — EFFR at **3.62%** remains inside the **3.50%–3.75%** target range; the source adds rate continuity rather than a new guidance signal, while long yields stay elevated.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — EFFR at **3.62%** remains inside the **3.50%–3.75%** target range; the source adds rate continuity rather than a new guidance signal, while long yields stay elevated.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — EFFR stays at 3.62% inside the 3.50%–3.75% target range while the 30-year Treasury and mortgage rates remain elevated.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — EFFR stays at 3.62% inside the 3.50%–3.75% target range while the 30-year Treasury and mortgage rates remain elevated.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Short-rate policy remains stable with EFFR at 3.62% inside the 3.50%–3.75% target range, while the 30-year Treasury and mortgage rates stay restrictive.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — EFFR remains **3.62%** in the target range, but elevated 30-year Treasury and mortgage rates show policy transmission through long-duration assets.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Short-rate policy remains stable with EFFR at 3.62% inside the 3.50%–3.75% target range, while the 30-year Treasury and mortgage rates stay restrictive.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — EFFR remains **3.62%** in the target range, but elevated 30-year Treasury and mortgage rates show policy transmission through long-duration assets.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — EFFR stays inside the target range, but the elevated 30-year Treasury and 6.58% mortgage quote keep policy transmission visible.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — EFFR stays inside the target range, but the elevated 30-year Treasury and 6.58% mortgage quote keep policy transmission visible.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — EFFR holds at 3.62% inside the 3.50%–3.75% target range, but the 30-year Treasury at 5.071% and 6.58% mortgage quote keep policy transmission visible.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — EFFR holds at 3.62% inside the 3.50%–3.75% target range, but the 30-year Treasury at 5.071% and 6.58% mortgage quote keep policy transmission visible.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — EFFR stays at **3.62%** inside the target range, but 30-year Treasury and mortgage levels keep policy transmission restrictive.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — EFFR stays at **3.62%** inside the target range, but 30-year Treasury and mortgage levels keep policy transmission restrictive.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — EFFR is stable at **3.62%** inside the Fed target range, but the 30-year Treasury at **5.098%** and mortgage quotes at **6.64%** keep long-rate transmission visible.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — EFFR is stable at **3.62%** inside the Fed target range, but the 30-year Treasury at **5.098%** and mortgage quotes at **6.64%** keep long-rate transmission visible.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — EFFR remains **3.62%** in the **3.50%–3.75%** target range, while the 30-year Treasury at **5.094%** and mortgage quotes at **6.64%** keep long-rate transmission prominent.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — EFFR remains **3.62%** in the **3.50%–3.75%** target range, while the 30-year Treasury at **5.094%** and mortgage quotes at **6.64%** keep long-rate transmission prominent.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — EFFR stays **3.62%** inside the **3.50%–3.75%** target range while 30-year Treasury, mortgage, crude, and gas prices show transmission pressure.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — EFFR stays **3.62%** inside the **3.50%–3.75%** target range while 30-year Treasury, mortgage, crude, and gas prices show transmission pressure.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — EFFR is **3.63%** inside the **3.50%–3.75%** range while the 30-year Treasury sits at **5.083%**, mortgage quotes stay near **6.59%**, and crude/gas prices add inflation pressure.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — EFFR is **3.63%** inside the **3.50%–3.75%** range while the 30-year Treasury sits at **5.083%**, mortgage quotes stay near **6.59%**, and crude/gas prices add inflation pressure.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — EFFR is **3.63%** inside a **3.50%–3.75%** target range while the 30-year Treasury is **5.083%**, mortgage rates are **6.62%**, and gas/oil remain elevated.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — EFFR is **3.63%** inside a **3.50%–3.75%** target range while the 30-year Treasury is **5.083%**, mortgage rates are **6.62%**, and gas/oil remain elevated.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — EFFR holds at **3.63%** inside the **3.50%–3.75%** target range while the 30-year Treasury reaches **5.098%** and mortgages sit at **6.62%**.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — EFFR holds at **3.63%** inside the **3.50%–3.75%** target range while the 30-year Treasury reaches **5.098%** and mortgages sit at **6.62%**.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — EFFR at **3.63%**, a **3.50%–3.75%** target range, a **5.098%** 30-year Treasury, **6.62%** mortgages, gas, and FX keep policy transmission visible.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — EFFR at **3.63%**, a **3.50%–3.75%** target range, a **5.098%** 30-year Treasury, **6.62%** mortgages, gas, and FX keep policy transmission visible.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — EFFR **3.63%**, the **3.50%–3.75%** target range, a **5.064%** 30-year Treasury, **6.62%** mortgages, FX, oil, and gas keep policy transmission visible.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — EFFR **3.63%**, the **3.50%–3.75%** target range, a **5.064%** 30-year Treasury, **6.62%** mortgages, FX, oil, and gas keep policy transmission visible.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — EFFR at **3.63%**, a **3.50%–3.75%** target range, a **5.064%** 30-year Treasury, and a **6.61%** mortgage quote keep rates central to the weekend interpretation.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — EFFR at 3.63%, a 3.50%–3.75% target range, a 5.064% 30-year Treasury, and a 6.61% mortgage quote keep rates as the market ceiling.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — EFFR at **3.63%**, a **3.50%–3.75%** target range, a **5.064%** 30-year Treasury, and a **6.61%** mortgage quote keep rates central to the weekend interpretation.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — EFFR at 3.63%, a 3.50%–3.75% target range, a 5.064% 30-year Treasury, and a 6.61% mortgage quote keep rates as the market ceiling.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — EFFR remains **3.63%** in the **3.50%–3.75%** target range, while the 30-year Treasury, mortgage, gas, FX, and oil tables provide cost-of-capital context rather than new guidance.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — EFFR remains **3.63%** in the **3.50%–3.75%** target range, while the 30-year Treasury, mortgage, gas, FX, and oil tables provide cost-of-capital context rather than new guidance.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — EFFR at **3.63%**, a **5.064%** 30-year Treasury, a **6.61%** mortgage quote, near-$4 gas, FX pressure, and WTI **+3.08%** keep the rate/household-cost ceiling visible.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — EFFR at **3.63%**, a **5.064%** 30-year Treasury, a **6.61%** mortgage quote, near-$4 gas, FX pressure, and WTI **+3.08%** keep the rate/household-cost ceiling visible.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — EFFR at **3.63%**, the **3.50%–3.75%** target range, a **5.064%** 30-year Treasury, a **6.61%** mortgage quote, and $4+ gasoline keep the rate/household-cost ceiling visible.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — EFFR at **3.63%**, the **3.50%–3.75%** target range, a **5.064%** 30-year Treasury, a **6.61%** mortgage quote, and $4+ gasoline keep the rate/household-cost ceiling visible.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while the 30-year Treasury rises to 5.118% and mortgages stay at 6.61%.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — EFFR at 3.63%, a 5.118% 30-year Treasury, 6.63% mortgage quote, elevated gas, FX, and WTI at $83.09 define the rate/household-cost constraint set.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while the 30-year Treasury rises to 5.118% and mortgages stay at 6.61%.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — EFFR at 3.63%, a 5.118% 30-year Treasury, 6.63% mortgage quote, elevated gas, FX, and WTI at $83.09 define the rate/household-cost constraint set.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while the 30-year Treasury at 5.13%, 6.63% mortgages, gas, FX, and oil provide restrictive context but no new Fed guidance.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — EFFR remains 3.63% inside the 3.50%–3.75% target range while the 30-year Treasury at 5.13%, 6.63% mortgages, gas, FX, and oil provide restrictive context but no new Fed guidance.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — EFFR at 3.63%, the 3.50%–3.75% target range, 5.13% 30-year Treasury, 6.61% mortgage quote, FX, gas, and oil give the day's policy-transmission context.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — EFFR at 3.63%, the 3.50%–3.75% target range, 5.13% 30-year Treasury, 6.61% mortgage quote, FX, gas, and oil give the day's policy-transmission context.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — EFFR at 3.63%, the 3.50%–3.75% target range, 30-year Treasury at 5.147%, and 6.61% mortgages keep rates and duration pressure at the center of the market read.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — EFFR at 3.63%, the 3.50%–3.75% target range, 30-year Treasury at 5.147%, and 6.61% mortgages keep rates and duration pressure at the center of the market read.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — EFFR at 3.63%, a 3.50%–3.75% target range, 30-year Treasury near 5.15%, mortgage at 6.65%, FX pressure, gas, and WTI at $90.12 define the constraint set.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — EFFR at 3.63%, a 3.50%–3.75% target range, 30-year Treasury near 5.15%, mortgage at 6.65%, FX pressure, gas, and WTI at $90.12 define the constraint set.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — EFFR stays at 3.63% inside the 3.50%–3.75% range while the 30-year Treasury at 5.171%, 6.65% mortgages, FX, gas, and WTI provide restrictive context rather than new Fed guidance.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — EFFR at 3.63%, a 3.50%–3.75% target range, a 5.171% 30-year Treasury, a 6.74% mortgage quote, FX pressure, oil, and gas define the day’s rate-transmission board.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — EFFR stays at 3.63% inside the 3.50%–3.75% range while the 30-year Treasury at 5.171%, 6.65% mortgages, FX, gas, and WTI provide restrictive context rather than new Fed guidance.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — EFFR at 3.63%, a 3.50%–3.75% target range, a 5.171% 30-year Treasury, a 6.74% mortgage quote, FX pressure, oil, and gas define the day’s rate-transmission board.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — EFFR at 3.63%, the 3.50%–3.75% target range, a 5.162% 30-year Treasury, a 6.74% mortgage quote, PHP/USD near its high, and higher WTI update the rates and inflation-transmission board.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — EFFR at 3.63%, the 3.50%–3.75% target range, a 5.162% 30-year Treasury, a 6.74% mortgage quote, PHP/USD near its high, and higher WTI update the rates and inflation-transmission board.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — EFFR at 3.63%, the 30-year Treasury near its yearly high, mortgage rates at 6.75%, oil above $89, and gasoline above $4 keep rate and affordability pressure visible.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — EFFR at 3.63%, the 30-year Treasury near its yearly high, mortgage rates at 6.75%, oil above $89, and gasoline above $4 keep rate and affordability pressure visible.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — EFFR 3.63%, the 30-year Treasury at 5.162%, a 6.75% mortgage quote, FX pressure, oil, and gasoline update the affordability channel.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — EFFR 3.63%, the 30-year Treasury at 5.162%, a 6.75% mortgage quote, FX pressure, oil, and gasoline update the affordability channel.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — EFFR 3.63%, target range 3.50–3.75%, 30-year Treasury 5.162%, 90-day bill 3.805%, 30-year mortgage 6.75%, gasoline above $4, and PHP near its 52-week high update the rate/affordability board.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — EFFR 3.63%, target range 3.50–3.75%, 30-year Treasury 5.162%, 90-day bill 3.805%, mortgage 6.75%, gasoline above $4, and PHP near its range high update rate/affordability pressure.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — EFFR 3.63%, target range 3.50–3.75%, 30-year Treasury 5.162%, 90-day bill 3.805%, 30-year mortgage 6.75%, gasoline above $4, and PHP near its 52-week high update the rate/affordability board.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — EFFR 3.63%, target range 3.50–3.75%, 30-year Treasury 5.162%, 90-day bill 3.805%, mortgage 6.75%, gasoline above $4, and PHP near its range high update rate/affordability pressure.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — EFFR, target range, Treasury rates, mortgage rates, gas, FX, and oil keep the rate-transmission board current.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — EFFR, target range, Treasury rates, mortgage rates, gas, FX, and oil keep the rate-transmission board current.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — EFFR is 3.63% inside a 3.50–3.75% target range, with 30-year Treasury 5.125%, 90-day bill 3.797%, mortgage 6.75%, FX, gasoline, and oil updating the rate-transmission board.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — EFFR is 3.63% inside a 3.50–3.75% target range, with 30-year Treasury 5.125%, 90-day bill 3.797%, mortgage 6.75%, FX, gasoline, and oil updating the rate-transmission board.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — EFFR stays **3.63%** inside a **3.50–3.75%** target range while the 30-year Treasury sits at **5.125%** and mortgage rates rise to **6.82%**.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — EFFR stays **3.63%** inside a **3.50–3.75%** target range while the 30-year Treasury sits at **5.125%** and mortgage rates rise to **6.82%**.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — EFFR 3.63%, a 3.50–3.75% target range, 30-year Treasury 5.096%, 90-day bill 3.76%, mortgage 6.82%, FX, gas, and oil keep rate transmission in the daily board.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — EFFR 3.63%, a 3.50–3.75% target range, 30-year Treasury 5.096%, 90-day bill 3.76%, mortgage 6.82%, FX, gas, and oil keep rate transmission in the daily board.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — EFFR at 3.63%, the 3.50–3.75% target range, Treasury yields, mortgage rates, FX, oil, gas, and Fed-decision prediction markets update the policy-transmission board.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — EFFR, the target range, Treasury rates, mortgage rates, FX, and Fed Day volatility show policy transmission without a new relief signal.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — EFFR at 3.63%, the 3.50–3.75% target range, Treasury yields, mortgage rates, FX, oil, gas, and Fed-decision prediction markets update the policy-transmission board.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — EFFR, the target range, Treasury rates, mortgage rates, FX, and Fed Day volatility show policy transmission without a new relief signal.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — EFFR, the 3.50%–3.75% target range, high long yields, mortgage quotes, FX, and Fed-decision prediction chatter frame policy transmission into risk assets.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — EFFR, the Fed target range, long Treasury rates, mortgage quotes, FX edges, and Fed-decision prediction-market mentions frame policy transmission into a sharp tech-led selloff.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — EFFR, the 3.50%–3.75% target range, high long yields, mortgage quotes, FX, and Fed-decision prediction chatter frame policy transmission into risk assets.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — EFFR, the Fed target range, long Treasury rates, mortgage quotes, FX edges, and Fed-decision prediction-market mentions frame policy transmission into a sharp tech-led selloff.
 
 ## Related Concepts
 

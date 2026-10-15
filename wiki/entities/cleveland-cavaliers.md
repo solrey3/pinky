@@ -15,7 +15,7 @@ The Cleveland Cavaliers are an NBA franchise. In the newsletter graph they usual
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Agree to a one-year deal with former lottery pick Mario Hezonja.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Agree to a one-year deal with former lottery pick Mario Hezonja.
 
 ## Related
 

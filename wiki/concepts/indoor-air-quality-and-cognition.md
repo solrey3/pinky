@@ -14,7 +14,7 @@ Indoor air quality and cognition is the idea that room conditions — especially
 
 ## Sources
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — A CO₂-and-decision-making item turns indoor air quality into an operator-performance variable rather than just a comfort or building-maintenance concern.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — A CO₂-and-decision-making item turns indoor air quality into an operator-performance variable rather than just a comfort or building-maintenance concern.
 
 ## Related Concepts
 

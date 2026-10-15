@@ -15,7 +15,7 @@ AT&T is tracked as a telecom operator when infrastructure obligations and regula
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — AT&T loses a key ruling in its bid to stop offering basic phone service in California.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — AT&T loses a key ruling in its bid to stop offering basic phone service in California.
 
 ## Related
 

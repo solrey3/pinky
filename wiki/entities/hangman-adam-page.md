@@ -34,16 +34,16 @@ source_count: 6
 
 ## Sources
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Wins the Trios titles with Brodido at AEW Grand Slam Mexico.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — Wins the Trios titles with Brodido at AEW Grand Slam Mexico.
 
 - [2026-05-27: Raw notes](../../raw/people/hangman-adam-page.md)
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Hangman Page returns to AEW programming on a live edition of Collision.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Hangman Page returns to AEW programming on a live edition of Collision.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Hangman Page returns to AEW programming on Collision, keeping him active in the promotion's television cycle.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Hangman returns on Collision and vows not to challenge for the AEW World Championship, adding a major AEW storyline beat.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Hangman Page returns to AEW programming on Collision, keeping him active in the promotion's television cycle.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Hangman returns on Collision and vows not to challenge for the AEW World Championship, adding a major AEW storyline beat.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — AEW Collision coverage says Hangman targets new gold, keeping him in the promotion storyline graph.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — AEW Collision coverage says Hangman targets new gold, keeping him in the promotion storyline graph.
 
 ## Related
 

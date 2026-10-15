@@ -14,11 +14,11 @@ Synthetic imagery provenance is the practice of labeling, tracing, and constrain
 
 ## Sources
 
-- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — A fabricated Duterte-family image illustrates how unlabeled synthetic political imagery can distort identity and public understanding, requiring source verification beyond visual plausibility.
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-daytime.md) — A fabricated Duterte-family image illustrates how unlabeled synthetic political imagery can distort identity and public understanding, requiring source verification beyond visual plausibility.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — Apple's Reference Image proposal shifts provenance from labeling synthetic output toward verifying an authentic photographic reference.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — Apple's Reference Image proposal shifts provenance from labeling synthetic output toward verifying an authentic photographic reference.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Google Earth’s retracted fake-satellite-imagery tool shows that maps and remote-sensing outputs now need visible AI-generation provenance.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Google Earth’s retracted fake-satellite-imagery tool shows that maps and remote-sensing outputs now need visible AI-generation provenance.
 
 ## Related Concepts
 

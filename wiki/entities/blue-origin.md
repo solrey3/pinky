@@ -23,11 +23,11 @@ Blue Origin's press statement described the event as an "anomaly" — a piece of
 
 ## Sources
 
-- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — NASA reportedly commits $700 million to the company for Mars missions, a major public-sector award after New Glenn's earlier setback.
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-daytime.md) — NASA reportedly commits $700 million to the company for Mars missions, a major public-sector award after New Glenn's earlier setback.
 
-- [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](sources/newsletter-2026-05-29.md) — New Glenn explodes during static fire test at LC-36; most spectacular launch failure since Soviet N1; NG-4 mission delayed indefinitely.
-- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Continued coverage in Ars Technica framing; described as 'catastrophic.' Story still leading the space/tech news cycle at Friday's close.
-- [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](sources/newsletter-2026-05-30.md) — Still leading space/tech news cycle via Ars Technica Saturday morning. No update on NG-4 timeline. The explosion remains the dominant launch-industry story of the week.
+- [2026-05-29: Newsletter 2026-05-29 Morning Dispatch](../sources/newsletters/newsletter-2026-05-29.md) — New Glenn explodes during static fire test at LC-36; most spectacular launch failure since Soviet N1; NG-4 mission delayed indefinitely.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletters/newsletter-2026-05-29-evening.md) — Continued coverage in Ars Technica framing; described as 'catastrophic.' Story still leading the space/tech news cycle at Friday's close.
+- [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](../sources/newsletters/newsletter-2026-05-30.md) — Still leading space/tech news cycle via Ars Technica Saturday morning. No update on NG-4 timeline. The explosion remains the dominant launch-industry story of the week.
 
 ## Related
 

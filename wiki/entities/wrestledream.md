@@ -15,7 +15,7 @@ WrestleDream is an AEW event tracked here through schedule and promotion-provena
 
 ## Sources
 
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — AEW WrestleDream is reported as set for Orlando in October.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — AEW WrestleDream is reported as set for Orlando in October.
 
 ## Related
 

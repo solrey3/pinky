@@ -14,22 +14,22 @@ AI model capability extraction is the attempt to copy, distill, infer, or reprod
 
 ## Sources
 
-- [2026-09-10: Morning Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-daytime.md) — Allegations against six Chinese AI firms frame frontier-model replication as a cybersecurity, provenance, and strategic-competition problem.
+- [2026-09-10: Morning Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-daytime.md) — Allegations against six Chinese AI firms frame frontier-model replication as a cybersecurity, provenance, and strategic-competition problem.
 
-- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — Allegations against six Chinese AI firms keep model replication framed as a cybersecurity, provenance, and strategic-competition problem.
+- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-midnight.md) — Allegations against six Chinese AI firms keep model replication framed as a cybersecurity, provenance, and strategic-competition problem.
 
-- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-evening.md) — Allegations that six Chinese firms copied U.S. frontier models broaden capability extraction into a cybersecurity and strategic-competition issue.
+- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-evening.md) — Allegations that six Chinese firms copied U.S. frontier models broaden capability extraction into a cybersecurity and strategic-competition issue.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic's allegation that Alibaba illicitly extracted Claude capabilities makes capability extraction a distinct AI-security and platform-governance issue.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Anthropic's allegation that Alibaba illicitly extracted Claude capabilities makes capability extraction a distinct AI-security and platform-governance issue.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The same Anthropic/Alibaba allegation remains in the evening AI desk, confirming capability extraction as a durable watch item rather than a one-off link.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — The same Anthropic/Alibaba allegation remains in the evening AI desk, confirming capability extraction as a durable watch item rather than a one-off link.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — The Anthropic/Alibaba Claude cloning allegation repeats, making capability extraction a multi-dispatch security and enforcement theme.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — The Anthropic/Alibaba Claude cloning allegation repeats, making capability extraction a multi-dispatch security and enforcement theme.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — The Apple/OpenAI trade-secret headline extends capability-protection concerns from model-output cloning to alleged transfer of proprietary AI development know-how.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — The Apple/OpenAI trade-secret headline extends capability-protection concerns from model-output cloning to alleged transfer of proprietary AI development know-how.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Alleged trade-secret movement from Apple to OpenAI functions as a human/legal analogue to capability extraction and provenance risk.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The GPT-5.6 convex-optimization claim frames prompt-driven mathematical progress as a capability-extraction and verification problem.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Alleged trade-secret movement from Apple to OpenAI functions as a human/legal analogue to capability extraction and provenance risk.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — The GPT-5.6 convex-optimization claim frames prompt-driven mathematical progress as a capability-extraction and verification problem.
 
 ## Related Concepts
 

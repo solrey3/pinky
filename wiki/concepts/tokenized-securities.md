@@ -14,10 +14,10 @@ Tokenized securities are regulated financial instruments whose ownership or tran
 
 ## Sources
 
-- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-midnight.md) — Carries forward the reported SEC path toward tokenized stocks and continuous trading, keeping custody, liquidity, surveillance, and resilience questions active.
-- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletter-2026-09-18-evening.md) — Repeats the reported SEC path toward tokenized stocks and 24/7 trading, reinforcing that implementation now implicates liquidity, surveillance, custody, and operational resilience.
-- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — Reports that the SEC cleared a path toward tokenized stocks and nearer-continuous trading, moving the issue from technical possibility toward market structure.
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Introduces the reported SEC action and its potential to combine conventional securities with crypto-style settlement and availability.
+- [2026-09-19: Midnight Dispatch — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-midnight.md) — Carries forward the reported SEC path toward tokenized stocks and continuous trading, keeping custody, liquidity, surveillance, and resilience questions active.
+- [2026-09-18: Evening Brief — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-evening.md) — Repeats the reported SEC path toward tokenized stocks and 24/7 trading, reinforcing that implementation now implicates liquidity, surveillance, custody, and operational resilience.
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-noon.md) — Reports that the SEC cleared a path toward tokenized stocks and nearer-continuous trading, moving the issue from technical possibility toward market structure.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — Introduces the reported SEC action and its potential to combine conventional securities with crypto-style settlement and availability.
 
 ## Related Concepts
 

@@ -15,9 +15,9 @@ Hayley Wickenheiser is a hockey executive and former player tracked when NHL fro
 
 ## Sources
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Wickenheiser is named in reporting on a Toronto Maple Leafs front-office purge.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Wickenheiser is named in reporting on a Toronto Maple Leafs front-office purge.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — ESPN coverage of Wickenheiser's firing amid a Maple Leafs front-office purge repeats in the NHL newswire.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — ESPN coverage of Wickenheiser's firing amid a Maple Leafs front-office purge repeats in the NHL newswire.
 
 ## Related
 

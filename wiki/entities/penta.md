@@ -15,16 +15,16 @@ Mexican professional wrestler associated with lucha libre style and masked prese
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Drops the Intercontinental Title match to Chad Gable at SummerSlam.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Loses the Intercontinental Title match to Chad Gable at SummerSlam.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Drops the Intercontinental Title match to Chad Gable at SummerSlam.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Loses the Intercontinental Title match to Chad Gable at SummerSlam.
 
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Defeated Rey Mysterio and retained the WWE Men's Intercontinental Title on Raw.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — Defeated Rey Mysterio and retained the WWE Men's Intercontinental Title on Raw.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Penta is positioned as Chad Gable's SummerSlam Intercontinental-title opponent after the Raw gauntlet result.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Penta is positioned as Chad Gable's SummerSlam Intercontinental-title opponent after the Raw gauntlet result.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Penta is set to team with Chad Gable on Raw.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Penta is set to team with Chad Gable on Raw.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Reported as returning to AAA on August 15.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Reported as returning to AAA on August 15.
 
 ## Related
 

@@ -15,7 +15,7 @@ Khamenei's dismissal of Trump's signature keeps Iranian leadership rhetoric atta
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Khamenei's dismissal of Trump's signature keeps Iranian leadership rhetoric attached to the conflict/diplomacy thread.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Khamenei's dismissal of Trump's signature keeps Iranian leadership rhetoric attached to the conflict/diplomacy thread.
 
 ## Related
 

@@ -15,7 +15,7 @@ AliExpress is tracked as a cross-border e-commerce platform where platform dutie
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — AliExpress receives a record $625M fine after failing to make EU-ordered fixes.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — AliExpress receives a record $625M fine after failing to make EU-ordered fixes.
 
 ## Related
 

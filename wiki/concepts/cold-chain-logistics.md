@@ -14,7 +14,7 @@ Temperature-controlled storage and transport systems for medicines, food, and ot
 
 ## Sources
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — UPS, FedEx, and DHL race to meet healthcare logistics growth as GLP-1 demand highlights cold-storage capacity.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — UPS, FedEx, and DHL race to meet healthcare logistics growth as GLP-1 demand highlights cold-storage capacity.
 
 ## Related Concepts
 

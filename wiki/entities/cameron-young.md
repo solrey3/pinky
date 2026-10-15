@@ -15,7 +15,7 @@ Professional golfer; in this source, a Friday 61 gives him a share of the Rocket
 
 ## Sources
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Professional golfer; in this source, a Friday 61 gives him a share of the Rocket Classic lead.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Professional golfer; in this source, a Friday 61 gives him a share of the Rocket Classic lead.
 
 ## Related
 

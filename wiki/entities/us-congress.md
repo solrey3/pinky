@@ -15,33 +15,33 @@ The U.S. Congress is tracked in the newsletter graph when legislative timing, ov
 
 ## Sources
 
-- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — Questions about lawmakers' technical fluency make institutional expertise and independent support capacity part of credible AI rulemaking.
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-noon.md) — Questions about lawmakers' technical fluency make institutional expertise and independent support capacity part of credible AI rulemaking.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — House passage of an Iran war-powers resolution keeps congressional authority over military action at the center of the governance record.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — House passage of an Iran war-powers resolution keeps congressional authority over military action at the center of the governance record.
 
-- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — Appears through the failed crypto-bill procedural vote and House passage of an Iran war-powers resolution, linking legislative coalition risk to both financial regulation and military authority.
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-midnight.md) — Appears through the failed crypto-bill procedural vote and House passage of an Iran war-powers resolution, linking legislative coalition risk to both financial regulation and military authority.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — An Anthropic researcher’s warning intensifies congressional attention to catastrophic AI risk and public oversight.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — An Anthropic researcher’s warning intensifies congressional attention to catastrophic AI risk and public oversight.
 
-- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Research warnings and political advocacy increase pressure to move AI oversight toward the center of the legislative agenda.
+- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-noon.md) — Research warnings and political advocacy increase pressure to move AI oversight toward the center of the legislative agenda.
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Congress appears through a pre-recess crypto-bill deadline and bipartisan housing-bill coverage, tying legislative timing to market and affordability policy.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Congress appears through a pre-recess crypto-bill deadline and bipartisan housing-bill coverage, tying legislative timing to market and affordability policy.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Permanent-daylight-saving-time passage in the House and a stalled **$1.15T** defense authorization bill keep Congress in the governance-and-authorization thread.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Permanent-daylight-saving-time passage in the House and a stalled **$1.15T** defense authorization bill keep Congress in the governance-and-authorization thread.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — House passage of permanent daylight saving time keeps Congress in the clock-policy and default-setting file.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — House passage of permanent daylight saving time keeps Congress in the clock-policy and default-setting file.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The House Democratic Israel-aid vote and the state-led Paramount/WBD antitrust lawsuit keep Congress/state power in the foreign-policy and media-regulation frame.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — The House Democratic Israel-aid vote and the state-led Paramount/WBD antitrust lawsuit keep Congress/state power in the foreign-policy and media-regulation frame.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Senate Republicans blocking an attempt to end the Medicare AI prior-authorization pilot keeps Congress in the healthcare-automation and administrative-state oversight thread.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Senate Republicans blocking an attempt to end the Medicare AI prior-authorization pilot keeps Congress in the healthcare-automation and administrative-state oversight thread.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Reason coverage on Congress funding a Pentagon that cannot fully account for spending keeps congressional oversight and defense-budget accountability in view.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Reason coverage on Congress funding a Pentagon that cannot fully account for spending keeps congressional oversight and defense-budget accountability in view.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — The House passes a stopgap funding measure and rejects an amendment to block Ukraine security aid, extending fiscal and foreign-policy deadlines rather than resolving them.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — The House passes a stopgap funding measure and rejects an amendment to block Ukraine security aid, extending fiscal and foreign-policy deadlines rather than resolving them.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Congress appears through House passage of the annual defense-policy bill and a GOP congressional stock-trading-ban bill.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Congress appears through House passage of the annual defense-policy bill and a GOP congressional stock-trading-ban bill.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through DCCC House-race targeting and academic calls for Congress to restore agency independence after Trump v. Slaughter.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Appears through DCCC House-race targeting and academic calls for Congress to restore agency independence after Trump v. Slaughter.
 
 ## Related
 

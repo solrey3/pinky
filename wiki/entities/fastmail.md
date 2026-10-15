@@ -15,7 +15,7 @@ Fastmail is an independent hosted email, calendar, and contacts provider. In the
 
 ## Sources
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Fastmail adds an EU data region for European data residency.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — Fastmail adds an EU data region for European data residency.
 
 ## Related
 

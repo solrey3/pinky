@@ -15,7 +15,7 @@ OpenStreetMap is an open, collaboratively maintained map dataset and project. In
 
 ## Sources
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — OpenStreetMap appears through StreetComplete, which frames map maintenance as tiny local quests and reinforces open geospatial infrastructure.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — OpenStreetMap appears through StreetComplete, which frames map maintenance as tiny local quests and reinforces open geospatial infrastructure.
 
 ## Related
 

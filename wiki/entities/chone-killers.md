@@ -15,7 +15,7 @@ Chone Killers is an Ecuadorian gang mentioned through U.S. terrorist-organizatio
 
 ## Sources
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — U.S. terrorist designation makes the group relevant to sanctions, enforcement, and regional-security policy.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — U.S. terrorist designation makes the group relevant to sanctions, enforcement, and regional-security policy.
 
 ## Related
 

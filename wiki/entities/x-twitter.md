@@ -15,7 +15,7 @@ X, formerly Twitter, is a social-media platform owned by Elon Musk. In the newsl
 
 ## Sources
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Privacy advocates warn the FTC that X poses serious privacy risks and argue against weakening privacy-violation order requirements.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Privacy advocates warn the FTC that X poses serious privacy risks and argue against weakening privacy-violation order requirements.
 
 ## Related
 

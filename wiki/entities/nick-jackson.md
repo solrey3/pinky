@@ -15,7 +15,7 @@ AEW wrestler and member of the Young Bucks; appears here through a post-Redempti
 
 ## Sources
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Provides a health update after getting his bell rung at AEW Redemption.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Provides a health update after getting his bell rung at AEW Redemption.
 
 ## Related
 

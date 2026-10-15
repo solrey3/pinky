@@ -34,11 +34,11 @@ source_count: 4
 
 ## Sources
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Jon Moxley appears in the Meltzer 5-star AEW Redemption tag match.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Jon Moxley appears in the Meltzer 5-star AEW Redemption tag match.
 
 - [2026-05-27: Raw notes](../../raw/people/jon-moxley.md)
-- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Tony Khan: *"Jon Moxley has been doing a great job backstage and has been at everything."* Khan's public praise signals Moxley is functioning as a locker-room leader and institutional anchor for AEW, not just a title-holder.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Bandido is announced as Moxley's challenger for the AEW Continental Championship at AEW x NJPW Forbidden Door.
+- [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletters/newsletter-2026-06-02-evening.md) — Tony Khan: *"Jon Moxley has been doing a great job backstage and has been at everything."* Khan's public praise signals Moxley is functioning as a locker-room leader and institutional anchor for AEW, not just a title-holder.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — Bandido is announced as Moxley's challenger for the AEW Continental Championship at AEW x NJPW Forbidden Door.
 
 ## Related
 

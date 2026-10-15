@@ -15,7 +15,7 @@ Trump Tower is a New York City property associated with Donald Trump; in the wik
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — FAA restrictions over Trump Tower in New York City are reported as becoming permanent.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — FAA restrictions over Trump Tower in New York City are reported as becoming permanent.
 
 ## Related
 

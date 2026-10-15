@@ -15,7 +15,7 @@ Experimental userspace project for running macOS binaries on Linux ARM. In the w
 
 ## Sources
 
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Appears as a Show HN item for running macOS binaries on Linux ARM.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Appears as a Show HN item for running macOS binaries on Linux ARM.
 
 ## Related
 

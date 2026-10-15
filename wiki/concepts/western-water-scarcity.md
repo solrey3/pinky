@@ -14,19 +14,19 @@ Western water scarcity is the policy condition where climate stress, population 
 
 ## Sources
 
-- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-noon.md) — Uses Tropical Storm Rachel's limited effect on Lake Mead to distinguish episodic rainfall from sustained Colorado River hydrology, conservation, and allocation reform.
+- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-noon.md) — Uses Tropical Storm Rachel's limited effect on Lake Mead to distinguish episodic rainfall from sustained Colorado River hydrology, conservation, and allocation reform.
 
-- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Repeats the Colorado River's low-water, high-demand allocation pressure without resolving authority, conservation burdens, or user priorities.
+- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-midnight.md) — Repeats the Colorado River's low-water, high-demand allocation pressure without resolving authority, conservation burdens, or user priorities.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Low Colorado River levels and high demand again force allocation choices across the basin, keeping authority, conservation burdens, and user priorities unresolved.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Low Colorado River levels and high demand again force allocation choices across the basin, keeping authority, conservation burdens, and user priorities unresolved.
 
-- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletter-2026-08-24-evening.md) — A federal Colorado River proposal keeps drought response centered on allocation authority, conservation burdens, and competing users.
+- [2026-08-24: Evening Brief — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-evening.md) — A federal Colorado River proposal keeps drought response centered on allocation authority, conservation burdens, and competing users.
 
-- [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-noon.md) — A new federal Colorado River approach renews questions about allocation authority, conservation burdens, and drought adaptation.
+- [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-noon.md) — A new federal Colorado River approach renews questions about allocation authority, conservation burdens, and drought adaptation.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — A shrinking Colorado River and record-low Lake Powell deepen the allocation and conservation crisis.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — A shrinking Colorado River and record-low Lake Powell deepen the allocation and conservation crisis.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Proposed Colorado River water-use cuts for California, Arizona, and Nevada turn scarcity into federal allocation policy.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — Proposed Colorado River water-use cuts for California, Arizona, and Nevada turn scarcity into federal allocation policy.
 
 ## Related Concepts
 

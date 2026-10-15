@@ -15,9 +15,9 @@ Thinking Machines Lab is tracked as an AI organization when its model releases o
 
 ## Sources
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Inkling appears as an open-weights model, making Thinking Machines Lab part of the open-model operator-control thread.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Inkling appears as an open-weights model, making Thinking Machines Lab part of the open-model operator-control thread.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Inkling appears again as an open-weights model, extending the open/local model operator-control thread.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Inkling appears again as an open-weights model, extending the open/local model operator-control thread.
 
 ## Related
 

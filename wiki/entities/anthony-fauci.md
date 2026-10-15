@@ -15,7 +15,7 @@ Anthony Fauci is a physician and former U.S. public-health official tracked when
 
 ## Sources
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — The dispatch says Republicans will vote to hold Fauci in contempt after he pleads the Fifth, keeping COVID-origin politics and oversight in the headlines.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — The dispatch says Republicans will vote to hold Fauci in contempt after he pleads the Fifth, keeping COVID-origin politics and oversight in the headlines.
 
 ## Related
 

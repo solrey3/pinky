@@ -15,7 +15,7 @@ OpenWrt is an open-source router firmware and embedded Linux networking ecosyste
 
 ## Sources
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — A Reddit netsec item flags an OpenWrt pre-auth remote-root exploit, making router firmware part of the local-network security perimeter.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — A Reddit netsec item flags an OpenWrt pre-auth remote-root exploit, making router firmware part of the local-network security perimeter.
 
 ## Related
 

@@ -39,14 +39,14 @@ The June 14 evening dispatch places Andrade El Idolo in NJPW Dominion 6.14's IWG
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/andrade.md)
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Shota Umino pins Andrade El Idolo in a three-way to win the IWGP Global Heavyweight title at NJPW Dominion 6.14.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Shota Umino pins Andrade El Idolo in a three-way to win the IWGP Global Heavyweight title at NJPW Dominion 6.14.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Andrade beats Mark Davis at Redemption to earn the AEW National Title.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Andrade beats Mark Davis at Redemption to earn the AEW National Title.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — r/SquaredCircle item tracks Andrade as the new National champion after Redemption.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — r/SquaredCircle item tracks Andrade as the new National champion after Redemption.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Andrade is one of the new AEW champions set for a first Dynamite title defense.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Andrade is one of the new AEW champions set for a first Dynamite title defense.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

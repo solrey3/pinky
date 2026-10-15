@@ -15,7 +15,7 @@ LA Knight is tracked here as a WWE wrestler appearing in Raw, SmackDown, and pre
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Appears in WWE Raw fallout coverage alongside Roman Reigns after SummerSlam.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Appears in WWE Raw fallout coverage alongside Roman Reigns after SummerSlam.
 
 ## Related
 

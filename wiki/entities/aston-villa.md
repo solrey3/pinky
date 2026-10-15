@@ -15,7 +15,7 @@ Aston Villa is the reported seller in Chelsea’s £117m Morgan Rogers deal.
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Aston Villa is the reported seller in Chelsea’s £117m Morgan Rogers deal.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Aston Villa is the reported seller in Chelsea’s £117m Morgan Rogers deal.
 
 ## Related
 

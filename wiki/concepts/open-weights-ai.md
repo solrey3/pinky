@@ -14,84 +14,84 @@ AI models whose trained weights are released for outside use, inspection, adapta
 
 ## Sources
 
-- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-midnight.md) — Repeats the competitive-disruption thesis while preserving license, provenance, evaluation, serving-cost, hardware, ecosystem, and availability questions as the meaningful test.
+- [2026-10-08: Midnight Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-midnight.md) — Repeats the competitive-disruption thesis while preserving license, provenance, evaluation, serving-cost, hardware, ecosystem, and availability questions as the meaningful test.
 
-- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Repeats the disruptive-model-wave thesis while keeping licenses, provenance, independent evaluations, serving economics, hardware needs, and actual availability central to comparison.
+- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-evening.md) — Repeats the disruptive-model-wave thesis while keeping licenses, provenance, independent evaluations, serving economics, hardware needs, and actual availability central to comparison.
 
-- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Frames new Reflection, Mistral, and Chinese open-weight entrants as industry pressure while leaving licenses, provenance, evaluations, hardware needs, and serving cost as the meaningful comparison points.
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-daytime.md) — Frames new Reflection, Mistral, and Chinese open-weight entrants as industry pressure while leaving licenses, provenance, evaluations, hardware needs, and serving cost as the meaningful comparison points.
 
-- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-daytime.md) — Repeats Reflection AI's reported 501B Beam release, keeping license terms, provenance, inference cost, safety, and independent testing ahead of parameter count.
+- [2026-10-06: Morning Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-daytime.md) — Repeats Reflection AI's reported 501B Beam release, keeping license terms, provenance, inference cost, safety, and independent testing ahead of parameter count.
 
-- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-midnight.md) — Repeats Reflection AI's 501B Beam launch, keeping license terms, provenance, evaluations, inference cost, and independent testing ahead of parameter count.
+- [2026-10-06: Midnight Dispatch — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-midnight.md) — Repeats Reflection AI's 501B Beam launch, keeping license terms, provenance, evaluations, inference cost, and independent testing ahead of parameter count.
 
-- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletter-2026-10-05-evening.md) — Reflection AI releases the reported 501B Beam model, making license terms, evaluation, training provenance, inference cost, and independent testing more informative than parameter count alone.
+- [2026-10-05: Evening Brief — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-evening.md) — Reflection AI releases the reported 501B Beam model, making license terms, evaluation, training provenance, inference cost, and independent testing more informative than parameter count alone.
 
-- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Meta’s 30B Muse Glimmer is reported to run on one consumer GPU, lowering the apparent barrier to local deployment.
+- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-midnight.md) — Meta’s 30B Muse Glimmer is reported to run on one consumer GPU, lowering the apparent barrier to local deployment.
 
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Meta's strategic reboot and native MiniMax-H3 inference on Apple Silicon emphasize ecosystem distribution and practical local operation.
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — Meta's strategic reboot and native MiniMax-H3 inference on Apple Silicon emphasize ecosystem distribution and practical local operation.
 
-- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Meta presents open models and decentralized AI power as a strategic alternative to concentrated control.
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-midnight.md) — Meta presents open models and decentralized AI power as a strategic alternative to concentrated control.
 
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Mistral’s Shieldstral adds a small open-weights multimodal moderation model to the operational AI-tooling thread.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Mistral's Shieldstral appears as a 3B open-weights multimodal moderation model, extending open weights into safety tooling.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Cloudflare’s Kimi/GLM scale item reinforces the open/smaller-model lane as an infrastructure and safety alternative to only scaling closed frontier systems.
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — GLM-5.2 is described as the leading open-weights model on the Artificial Analysis intelligence index, extending the open-model benchmark race.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Mistral’s Shieldstral adds a small open-weights multimodal moderation model to the operational AI-tooling thread.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Mistral's Shieldstral appears as a 3B open-weights multimodal moderation model, extending open weights into safety tooling.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Cloudflare’s Kimi/GLM scale item reinforces the open/smaller-model lane as an infrastructure and safety alternative to only scaling closed frontier systems.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — GLM-5.2 is described as the leading open-weights model on the Artificial Analysis intelligence index, extending the open-model benchmark race.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apertus appears as an open foundation model for sovereign AI, extending the open-weights thread from benchmark leadership into institutional autonomy.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Apertus appears as an open foundation model for sovereign AI, extending the open-weights thread from benchmark leadership into institutional autonomy.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus repeats as an open foundation model for sovereign AI, confirming open weights/open models as governance infrastructure rather than only developer convenience.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — DeepSeek open-sources inference optimizations claiming **60–85%** faster generation, shifting the open-model thread from weights alone into serving efficiency.
-- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — DeepSeek DSpark/speculative decoding repeats the serving-efficiency theme, keeping open/local deployment practicality tied to inference engineering.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Apertus repeats as an open foundation model for sovereign AI, confirming open weights/open models as governance infrastructure rather than only developer convenience.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — DeepSeek open-sources inference optimizations claiming **60–85%** faster generation, shifting the open-model thread from weights alone into serving efficiency.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-evening.md) — DeepSeek DSpark/speculative decoding repeats the serving-efficiency theme, keeping open/local deployment practicality tied to inference engineering.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B and Ornith-1.0 reinforce the open/local path for capable development and agentic-coding workflows.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B and Ornith-1.0 reinforce the open/local path for capable development and agentic-coding workflows.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Qwen 3.6 27B keeps capable local/open model use in view as an alternative to hosted frontier systems.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Qwen 3.6 27B keeps capable local/open model use in view as an alternative to hosted frontier systems.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — A guide to running SOTA LLMs locally shifts open/local AI from model availability into practical operator workflow.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — A guide to running SOTA LLMs locally shifts open/local AI from model availability into practical operator workflow.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Trump administration AI restrictions push attention back toward open-source/private model alternatives, connecting open weights to policy resilience rather than only local convenience.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Trump administration AI restrictions push attention back toward open-source/private model alternatives, connecting open weights to policy resilience rather than only local convenience.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Trump administration restrictions on private AI models again make open-source/open-weight alternatives a policy-resilience topic.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Trump administration restrictions on private AI models again make open-source/open-weight alternatives a policy-resilience topic.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — GLM 5.2 margin-collapse discussion keeps open/low-cost model economics in the same thread as operator control and inference-cost pressure.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — GLM 5.2 margin-collapse discussion keeps open/low-cost model economics in the same thread as operator control and inference-cost pressure.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Thinking Machines Lab introduces Inkling as an open-weights model, extending the operator-control thread around inspectable/local model deployment.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Thinking Machines Lab introduces Inkling as an open-weights model, extending the operator-control thread around inspectable/local model deployment.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Inkling appears as an open-weights model from Thinking Machines Lab, extending the operator-control and local-deployment thread.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Inkling appears as an open-weights model from Thinking Machines Lab, extending the operator-control and local-deployment thread.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent model release thread.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent model release thread.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent release thread beyond the prior evening's entry.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Kimi K3 appears as an open-frontier-intelligence item, extending the open/open-adjacent release thread beyond the prior evening's entry.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Kimi K3 and pelican-benchmark discussion keep open/open-adjacent frontier-model evaluation in the daily AI desk.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Kimi K3 and pelican-benchmark discussion keep open/open-adjacent frontier-model evaluation in the daily AI desk.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Kimi K3 and the pelican-benchmark discussion keep model-evaluation evidence, open/open-adjacent releases, and benchmark limits in view.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Kimi K3 and the pelican-benchmark discussion keep model-evaluation evidence, open/open-adjacent releases, and benchmark limits in view.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Qwen 3.8 keeps Alibaba's model family in the open/local AI ecosystem that matters for practical developer workflows.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Qwen 3.8 keeps Alibaba's model family in the open/local AI ecosystem that matters for practical developer workflows.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — A Hacker News-linked argument says China’s open-weights AI strategy is winning, extending open weights from local convenience into geopolitical/industrial strategy.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — China open-weights strategy coverage and Qwen-Image-3.0 make open models a geopolitical and industrial-capability story.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — A Hacker News-linked argument says China’s open-weights AI strategy is winning, extending open weights from local convenience into geopolitical/industrial strategy.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — China open-weights strategy coverage and Qwen-Image-3.0 make open models a geopolitical and industrial-capability story.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Qwen-Image-3.0 extends the open/open-adjacent model thread into image generation, rich-content rendering, and developer-facing model capability.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Qwen-Image-3.0 extends the open/open-adjacent model thread into image generation, rich-content rendering, and developer-facing model capability.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The open-weight AI video item and GigaToken tokenizer-performance claim keep model distribution and infrastructure efficiency in the AI watchlist.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — The open-weight AI video item and GigaToken tokenizer-performance claim keep model distribution and infrastructure efficiency in the AI watchlist.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Startup founders urge the U.S. not to shut off Chinese open-weight AI, shifting open weights from deployment preference into a policy and geopolitical access fight.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Startup founders warn against shutting off Chinese open-weight AI, framing model access as innovation infrastructure and geopolitical policy.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Startup founders urge the U.S. not to shut off Chinese open-weight AI, shifting open weights from deployment preference into a policy and geopolitical access fight.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Startup founders warn against shutting off Chinese open-weight AI, framing model access as innovation infrastructure and geopolitical policy.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Nvidia, Microsoft, and Meta warn against overregulating open-weight AI models, adding major-incumbent lobbying to the open-model policy fight.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Nvidia, Microsoft, and Meta warn against overregulating open-weight AI models, adding major-incumbent lobbying to the open-model policy fight.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A Hacker News item frames open-weight AI as having a Kubernetes moment, shifting attention from model release to deployment/orchestration infrastructure.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — A Hacker News item frames open-weight AI as having a Kubernetes moment, shifting attention from model release to deployment/orchestration infrastructure.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Kimi K3's Hugging Face release keeps open distribution and independent model access on the watchlist.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Kimi K3's Hugging Face release keeps open distribution and independent model access on the watchlist.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Kimi K3 visibility on Hugging Face extends the open/open-adjacent model distribution thread.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Kimi K3 visibility on Hugging Face extends the open/open-adjacent model distribution thread.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Anthropic publishes an open-weights position while a low-cost 9B fine-tune reportedly beats frontier models on catalog review.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — The Gemma 4-on-small-memory item keeps local deployment efficiency and model-access constraints in view.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Anthropic publishes an open-weights position while a low-cost 9B fine-tune reportedly beats frontier models on catalog review.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — The Gemma 4-on-small-memory item keeps local deployment efficiency and model-access constraints in view.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Gemma 4 26B running in 2 GB RAM on M-series Macs keeps efficient local inference and open/local model deployment in view.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Gemma 4 26B running in 2 GB RAM on M-series Macs keeps efficient local inference and open/local model deployment in view.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Gemma 4 26B running in 2 GB RAM on M-series Macs keeps efficient local inference and open/local model deployment in view.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Gemma 4 26B running in 2 GB RAM on M-series Macs keeps efficient local inference and open/local model deployment in view.
 
 ## Related Concepts
 

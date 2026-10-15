@@ -19,8 +19,8 @@ American singer-songwriter from New Jersey, strongly associated with the Jersey 
 
 ## Sources
 
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — r/newjersey feed item: Springsteen opened a $50M Center for American Music at Monmouth University in New Jersey.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Monmouth University Center for American Music item persisted in the r/newjersey feed, keeping Springsteen in the local-culture thread.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — r/newjersey feed item: Springsteen opened a $50M Center for American Music at Monmouth University in New Jersey.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — The Monmouth University Center for American Music item persisted in the r/newjersey feed, keeping Springsteen in the local-culture thread.
 
 ## Related
 

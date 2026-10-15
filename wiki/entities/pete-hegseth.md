@@ -15,9 +15,9 @@ U.S. defense official tracked here through congressional testimony and Iran-rela
 
 ## Sources
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Reportedly blocked eight senior Navy officer promotions, placing him at the center of a Pentagon personnel dispute.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-evening.md) — Reportedly blocked eight senior Navy officer promotions, placing him at the center of a Pentagon personnel dispute.
 
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — U.S. defense official tracked here through congressional testimony and Iran-related defense-policy coverage.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — U.S. defense official tracked here through congressional testimony and Iran-related defense-policy coverage.
 
 ## Related
 

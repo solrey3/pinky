@@ -15,7 +15,7 @@ Big E is a WWE wrestler tracked in the newsletter graph when New Day, singles-ru
 
 ## Sources
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Big E credits Bryan Danielson for pitching his singles run in WWE.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Big E credits Bryan Danielson for pitching his singles run in WWE.
 
 ## Related
 

@@ -15,7 +15,7 @@ Ant is tracked as a JavaScript runtime and ecosystem experiment in the developer
 
 ## Sources
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Show HN introduces Ant as another JavaScript runtime, extending the runtime/ecosystem experimentation thread.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Show HN introduces Ant as another JavaScript runtime, extending the runtime/ecosystem experimentation thread.
 
 ## Related
 

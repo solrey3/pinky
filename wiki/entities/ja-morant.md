@@ -15,7 +15,7 @@ Ja Morant is an NBA guard tracked when major player-movement, team-reset, or sta
 
 ## Sources
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Morant says joining Portland feels like “starting all over again,” making his Trail Blazers move a player-reset storyline.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Morant says joining Portland feels like “starting all over again,” making his Trail Blazers move a player-reset storyline.
 
 ## Related
 
