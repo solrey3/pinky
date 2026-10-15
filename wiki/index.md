@@ -132,6 +132,7 @@ Content catalog — curated by type and category. Updated on every ingest.
 ### Newsletters
 | Source | Title | Type | Tags | Date |
 | --- | --- | --- | --- | --- |
+| [newsletter-2026-10-15-midnight](sources/newsletter-2026-10-15-midnight.md) | Midnight Dispatch — Thursday, October 15, 2026 | newsletter | [newsletter, midnight-dispatch, markets, inflation, philippines, hunger, remittances, currency, anthropic, opencode, cybersecurity, critical-infrastructure, semiconductors, bonds, bitcoin, oil, sports, wrestling] | 2026-10-15 |
 | [newsletter-2026-10-14-evening](sources/newsletter-2026-10-14-evening.md) | Evening Brief — Wednesday, October 14, 2026 | newsletter | [newsletter, evening-dispatch, markets, philippines, food-insecurity, openai, ai-safety, character-ai, disney, nasa, physical-ai, semiconductors, bonds, bitcoin, oil, sports, wrestling] | 2026-10-14 |
 | [newsletter-2026-10-14-noon](sources/newsletter-2026-10-14-noon.md) | Noon Dispatch — Wednesday, October 14, 2026 | newsletter | [newsletter, noon-dispatch, markets, philippines, impeachment, ukraine, starlink, anthropic, ai-safety, passkeys, semiconductors, bonds, bitcoin, oil, sports, wrestling] | 2026-10-14 |
 | [newsletter-2026-10-14-daytime](sources/newsletter-2026-10-14-daytime.md) | Morning Dispatch — Wednesday, October 14, 2026 | newsletter | [newsletter, daytime-dispatch, markets, philippines, impeachment, apple, smart-home, surveillance, flock-safety, semiconductors, bonds, bitcoin, oil, sports, wrestling] | 2026-10-14 |

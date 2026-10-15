@@ -4,9 +4,9 @@ title: Philippines
 type: entity
 entity_type: place
 created: 2026-07-18
-updated: 2026-10-14
+updated: 2026-10-15
 tags: [philippines, makati, sports, tennis, weather, southeast-asia, politics, impeachment]
-source_count: 70
+source_count: 71
 ---
 
 # Philippines
@@ -14,6 +14,8 @@ source_count: 70
 The Philippines is tracked in the newsletter graph through Makati weather, maritime security and infrastructure, and Filipino sports-culture items.
 
 ## Sources
+
+- [2026-10-15: Midnight Dispatch — Thursday, October 15, 2026](../sources/newsletter-2026-10-15-midnight.md) — Tracks the peso weakening beyond 63 per dollar, reported Q3 household hunger of 22.6%, a drug-war family's truth-commission appeal, and $3.03 billion in August cash remittances.
 
 - [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-evening.md) — Tracks reported Q3 household hunger of 22.6%, Sara Duterte's renewed refusal to resign, and the December target for EDSA sidewalk expansion from Pasay to Makati.
 

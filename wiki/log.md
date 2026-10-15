@@ -4,6 +4,12 @@ Append-only changelog. Each entry starts with `## [<ISO date>] <operation> | <ti
 
 ---
 
+## [2026-10-15] ingest | Midnight Dispatch — Thursday, October 15, 2026
+- Source: `pinky/wiki/sources/newsletters/2026-10-15-midnight-dispatch.md`
+- Summary: October 15 midnight dispatch — gasoline-linked inflation, Philippine peso weakness beyond 63 per dollar, 22.6% household hunger, $3.03 billion in August remittances, cyber-physical refrigeration risk, OpenCode 2.0, reported Anthropic growth pressure, repeated technology and chip losses, a 7.50% mortgage quote, and WTI at $94.03.
+- Pages touched: `pinky/wiki/sources/newsletter-2026-10-15-midnight.md` (new); entity pages `philippines`, `anthropic`, `opencode`, `wti`; concept pages `critical-infrastructure-cybersecurity`, `risk-off-market-rotation`; `pinky/wiki/index.md`; `pinky/wiki/log.md`
+- Notes: Daily newsletter direct-ingest; skipped takeaway discussion per instruction. The equity, ETF, stock, and long-yield board repeats the October 14 evening snapshot; WTI falls $1.14, Bitcoin falls $890.30, and the mortgage quote rises three basis points. Legal, political, economic, cyber, corporate-growth, market, injury, and sports claims need primary-source confirmation; the refrigerator item is labeled as an Ars Technica feed entry but links to CNN, and several sports links, dates, labels, or live-score rows are indirect or inconsistent.
+
 ## [2026-10-14] ingest | Evening Brief — Wednesday, October 14, 2026
 - Source: `pinky/wiki/sources/newsletters/2026-10-14-evening-dispatch.md`
 - Summary: October 14 evening brief — higher gasoline-linked inflation, a reported Character.AI bankruptcy opening for Disney, a multistate OpenAI safety-claims lawsuit, Philippine hunger at 22.6%, NASA Venus-mission reprieves, deeper technology and chip losses, a 7.47% mortgage quote, and WTI at $95.17.
