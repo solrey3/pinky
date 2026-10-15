@@ -15,7 +15,7 @@ Mario Cristobal is tracked here as a college-football coach associated with the 
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — ESPN reports Cristobal and Miami agreed to a contract extension before camp.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — ESPN reports Cristobal and Miami agreed to a contract extension before camp.
 
 ## Related
 

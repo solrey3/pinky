@@ -14,31 +14,31 @@ Software supply chain security is the practice of protecting the packages, maint
 
 ## Sources
 
-- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Repeats the reported infiltration of a supply-chain hacking group, emphasizing human intelligence alongside telemetry and package provenance.
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-daytime.md) — Repeats the reported infiltration of a supply-chain hacking group, emphasizing human intelligence alongside telemetry and package provenance.
 
-- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Repeats the reported infiltration of a supply-chain hacking group, emphasizing human intelligence alongside telemetry and package provenance.
+- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-midnight.md) — Repeats the reported infiltration of a supply-chain hacking group, emphasizing human intelligence alongside telemetry and package provenance.
 
-- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — Repeats the reported infiltration of a supply-chain hacking group, reinforcing human intelligence as a complement to technical telemetry.
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-evening.md) — Repeats the reported infiltration of a supply-chain hacking group, reinforcing human intelligence as a complement to technical telemetry.
 
-- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — A Google analyst's reported infiltration of a supply-chain hacking group shows how human intelligence can complement telemetry in attribution and disruption.
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-noon.md) — A Google analyst's reported infiltration of a supply-chain hacking group shows how human intelligence can complement telemetry in attribution and disruption.
 
-- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — A ClickFix social-engineering campaign targeting both PCs and Macs shows that delivery chains can cross platform boundaries by persuading users to execute the payload.
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-noon.md) — A ClickFix social-engineering campaign targeting both PCs and Macs shows that delivery chains can cross platform boundaries by persuading users to execute the payload.
 
-- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-noon.md) — Rapid reuse of one Chrome and Windows exploit kit by four state-aligned groups shows how shared tooling compresses defenders' patch and detection windows.
+- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-noon.md) — Rapid reuse of one Chrome and Windows exploit kit by four state-aligned groups shows how shared tooling compresses defenders' patch and detection windows.
 
-- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletter-2026-09-07-evening.md) — A trusting-trust attack against an entire Linux distribution extends supply-chain risk into compiler and bootstrap integrity, beyond what source review alone can establish.
+- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-evening.md) — A trusting-trust attack against an entire Linux distribution extends supply-chain risk into compiler and bootstrap integrity, beyond what source review alone can establish.
 
-- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-noon.md) — An actively exploited Chromium sandbox RCE underscores rapid patching and verification of browser-runtime isolation boundaries.
+- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-noon.md) — An actively exploited Chromium sandbox RCE underscores rapid patching and verification of browser-runtime isolation boundaries.
 
-- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — An actively exploited Chromium sandbox RCE underscores the need to patch shared browser-runtime dependencies quickly and verify isolation boundaries.
+- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-daytime.md) — An actively exploited Chromium sandbox RCE underscores the need to patch shared browser-runtime dependencies quickly and verify isolation boundaries.
 
-- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-noon.md) — Malware embedded in Android automotive head-unit firmware shows how compromised upstream images can persist into safety-adjacent devices.
+- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-noon.md) — Malware embedded in Android automotive head-unit firmware shows how compromised upstream images can persist into safety-adjacent devices.
 
-- [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-noon.md) — A malicious Rust crate reportedly executes a build-time payload, underscoring that dependency builds are privileged code-execution boundaries.
+- [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-noon.md) — A malicious Rust crate reportedly executes a build-time payload, underscoring that dependency builds are privileged code-execution boundaries.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — An AI-generated Copilot “Autofix” reportedly enabling compromise of Snowflake’s Jira shows that automated remediation inside CI/CD is a privileged supply-chain boundary.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — An AI-generated Copilot “Autofix” reportedly enabling compromise of Snowflake’s Jira shows that automated remediation inside CI/CD is a privileged supply-chain boundary.
 
-- [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-daytime.md) — A reported breach exposing credentials across 2,500 companies and 434,000 CI/CD pipelines frames build systems as high-leverage trust boundaries.
+- [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-daytime.md) — A reported breach exposing credentials across 2,500 companies and 434,000 CI/CD pipelines frames build systems as high-leverage trust boundaries.
 
 ## Related Concepts
 

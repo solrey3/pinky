@@ -15,7 +15,7 @@ NBA player tracked in rumor-market and roster-construction contexts.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — DeRozan is listed as a name to watch in post-LeBron market chatter.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — DeRozan is listed as a name to watch in post-LeBron market chatter.
 
 ## Related
 

@@ -15,7 +15,7 @@ Professional-networking platform owned by Microsoft. In the newsletter graph, Li
 
 ## Sources
 
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — A job-offer backdoor story shows recruiting workflows on or around LinkedIn as malware-delivery channels.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — A job-offer backdoor story shows recruiting workflows on or around LinkedIn as malware-delivery channels.
 
 ## Related
 

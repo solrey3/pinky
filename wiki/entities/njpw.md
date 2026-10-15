@@ -48,182 +48,182 @@ Founded in 1972 by Antonio Inoki, New Japan Pro-Wrestling is the premier purores
 
 ## Sources
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — G1 Climax 36 results and a five-star Gabe Kidd–Henare match are recorded.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — G1 Climax 36 results and a five-star Gabe Kidd–Henare match are recorded.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — G1 Climax and Wrestle Kingdom five-star match records update the promotion ledger.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — G1 Climax and Wrestle Kingdom five-star match records update the promotion ledger.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Records Gabe Kidd vs. Henare as a five-star G1 Climax match.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Records Gabe Kidd vs. Henare as a five-star G1 Climax match.
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NJPW tour cards remain calendar-based, and NJPW matches appear in Meltzer-rating continuity.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — NJPW remains in the tour-calendar and Meltzer 5-star continuity ledger.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — G1 Climax 36 Night 10 coverage and Meltzer-rated match continuity keep NJPW in the wrestling ledger.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — G1 Climax 36 Night 11 results keep Gabe Kidd and Zack Sabre Jr. in the wrestling ledger.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — G1 Climax 36 Night 11 coverage keeps Gabe Kidd and Zack Sabre Jr. in the tournament ledger.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — NJPW tour cards remain calendar-based, and NJPW matches appear in Meltzer-rating continuity.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — NJPW remains in the tour-calendar and Meltzer 5-star continuity ledger.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — G1 Climax 36 Night 10 coverage and Meltzer-rated match continuity keep NJPW in the wrestling ledger.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — G1 Climax 36 Night 11 results keep Gabe Kidd and Zack Sabre Jr. in the wrestling ledger.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — G1 Climax 36 Night 11 coverage keeps Gabe Kidd and Zack Sabre Jr. in the tournament ledger.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — G1 Climax 36 Night 11 keeps NJPW standings and tournament continuity active.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — G1 Climax 36 Night 11 keeps NJPW standings and tournament continuity active.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — G1 Climax 36 Night 11 notes Gabe Kidd leading B Block and Zack Sabre Jr. staying alive.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — G1 Climax 36 Night 11 notes Gabe Kidd leading B Block and Zack Sabre Jr. staying alive.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — NJPW remains active through the G1 Climax discussion thread and Meltzer-rating table.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — NJPW remains active through the G1 Climax discussion thread and Meltzer-rating table.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — NJPW remains in the calendar and Meltzer table through G1 and Wrestle Kingdom match-rating continuity.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — NJPW remains in the calendar and Meltzer table through G1 and Wrestle Kingdom match-rating continuity.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — G1 Climax 36 Night 10 results keep NJPW in the tournament-continuity and wrestling-provenance graph.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — G1 Climax 36 Night 10 results keep NJPW in the tournament-continuity and wrestling-provenance graph.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — G1 Climax 36 Night 9 results and recent 5-star matches keep NJPW central to the wrestling tracker.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — G1 Climax 36 Night 9 results and recent 5-star matches keep NJPW central to the wrestling tracker.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — G1 Climax 36 Night Nine results, including Yuya Uemura vs. Aaron Wolf and B Block compression, keep NJPW’s tournament thread active.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Appears in the wrestling calendar, Arena México title-match thread, and recent Meltzer 5-star ratings.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — NJPW announces King of Pro-Wrestling 2026 tour dates and remains present through Meltzer-rated match tracking.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — NJPW announces 2026 Super Jr. Tag League and King of Pro-Wrestling tour dates while Meltzer ratings keep G1 context active.
-- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](sources/newsletter-2026-05-27.md) — Bushiroad transfers all NJPW shares to TV Asahi and CyberAgent; Tanahashi statement issued.
-- [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](sources/newsletter-2026-05-27-evening.md) — BOSJ Night 7: Francesco Akira pins Jun Kasai; Desperado & SHO tied atop B Block. Tournament continues under new ownership.
-- [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](sources/newsletter-2026-05-28.md) — AEW content leaving NJPW World for Japanese subscribers in September. The AEW/NJPW partnership is dissolving in distribution as well as booking.
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — BOSJ 33 final-review cycle flagged in Tokyo; YOH vs. Kosei Fujita headline noted, but this source does not preserve enough detail to record the tournament winner safely.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — NJPW vs. DDT Part 2 results linked in the wrestling digest; no match-level detail extracted into this wiki beyond the cross-promotional results note.
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Nick Wayne reflects on BOSJ 2026 as the best performance stretch and experience of his life.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Meltzer 5-star-plus table lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as a 6-star NJPW match.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Kenny Omega vs. Zack Sabre Jr. is set for AEW x NJPW Forbidden Door; Tanahashi vs. Okada remains the top NJPW match on the ratings table.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Drilla Moloney discusses choosing to stay with NJPW; Tanahashi vs. Okada at Wrestle Kingdom 20 remains the top 2026 match shown in the ratings table.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — NJPW Dominion 2026 preview is listed for June 14, and Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star benchmark in the ratings table.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Dominion 2026 produces title changes: Shota Umino wins the IWGP Global Heavyweight title, and Aaron Wolf wins the NEVER Openweight title again.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Dominion 6.14 coverage adds Yota Tsuji regaining the IWGP Heavyweight title and Shota Umino pinning Andrade El Idolo for the IWGP Global Heavyweight title.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Dominion 6.14 remains the lead NJPW item, with Yota Tsuji regaining the IWGP Heavyweight title and the Tanahashi vs. Okada Wrestle Kingdom 20 rating still anchoring the 2026 table.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — NJPW reveals G1 Climax 36 play-in matches, shifting coverage toward summer tournament qualification.
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — Josh Barnett returns for Blue Justice XVIII, and the 2026 ratings table keeps Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star NJPW benchmark.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Forbidden Door build appears through Bandido vs. Jon Moxley for the AEW Continental Championship, while Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star NJPW ratings-table anchor.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — PAC challenges Shota Umino for the IWGP Global Heavyweight title at Forbidden Door, and CMLL/NJPW Fantastica Mania is listed among MyAEW additions.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Yuji Nagata Produce Blue Justice XVIII is the NJPW live-thread item, CMLL x NJPW Fantastica Mania Mexico results appear, and Tanahashi vs. Okada remains the top 2026 ratings-table match.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Shota Umino's IWGP Global title defense against PAC at Forbidden Door keeps NJPW's AEW crossover title program in the daily digest.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include NJPW-linked talent, and Tanahashi vs. Okada remains the six-star ratings-table anchor.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — G1 Climax 36 Night Nine results, including Yuya Uemura vs. Aaron Wolf and B Block compression, keep NJPW’s tournament thread active.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Appears in the wrestling calendar, Arena México title-match thread, and recent Meltzer 5-star ratings.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — NJPW announces King of Pro-Wrestling 2026 tour dates and remains present through Meltzer-rated match tracking.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — NJPW announces 2026 Super Jr. Tag League and King of Pro-Wrestling tour dates while Meltzer ratings keep G1 context active.
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletters/newsletter-2026-05-27.md) — Bushiroad transfers all NJPW shares to TV Asahi and CyberAgent; Tanahashi statement issued.
+- [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](../sources/newsletters/newsletter-2026-05-27-evening.md) — BOSJ Night 7: Francesco Akira pins Jun Kasai; Desperado & SHO tied atop B Block. Tournament continues under new ownership.
+- [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](../sources/newsletters/newsletter-2026-05-28.md) — AEW content leaving NJPW World for Japanese subscribers in September. The AEW/NJPW partnership is dissolving in distribution as well as booking.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — BOSJ 33 final-review cycle flagged in Tokyo; YOH vs. Kosei Fujita headline noted, but this source does not preserve enough detail to record the tournament winner safely.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — NJPW vs. DDT Part 2 results linked in the wrestling digest; no match-level detail extracted into this wiki beyond the cross-promotional results note.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — Nick Wayne reflects on BOSJ 2026 as the best performance stretch and experience of his life.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — Meltzer 5-star-plus table lists Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 as a 6-star NJPW match.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — Kenny Omega vs. Zack Sabre Jr. is set for AEW x NJPW Forbidden Door; Tanahashi vs. Okada remains the top NJPW match on the ratings table.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — Drilla Moloney discusses choosing to stay with NJPW; Tanahashi vs. Okada at Wrestle Kingdom 20 remains the top 2026 match shown in the ratings table.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — NJPW Dominion 2026 preview is listed for June 14, and Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star benchmark in the ratings table.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Dominion 2026 produces title changes: Shota Umino wins the IWGP Global Heavyweight title, and Aaron Wolf wins the NEVER Openweight title again.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Dominion 6.14 coverage adds Yota Tsuji regaining the IWGP Heavyweight title and Shota Umino pinning Andrade El Idolo for the IWGP Global Heavyweight title.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — Dominion 6.14 remains the lead NJPW item, with Yota Tsuji regaining the IWGP Heavyweight title and the Tanahashi vs. Okada Wrestle Kingdom 20 rating still anchoring the 2026 table.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — NJPW reveals G1 Climax 36 play-in matches, shifting coverage toward summer tournament qualification.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — Josh Barnett returns for Blue Justice XVIII, and the 2026 ratings table keeps Tanahashi vs. Okada at Wrestle Kingdom 20 as the six-star NJPW benchmark.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — Forbidden Door build appears through Bandido vs. Jon Moxley for the AEW Continental Championship, while Tanahashi vs. Okada at Wrestle Kingdom 20 remains the six-star NJPW ratings-table anchor.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — PAC challenges Shota Umino for the IWGP Global Heavyweight title at Forbidden Door, and CMLL/NJPW Fantastica Mania is listed among MyAEW additions.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — Yuji Nagata Produce Blue Justice XVIII is the NJPW live-thread item, CMLL x NJPW Fantastica Mania Mexico results appear, and Tanahashi vs. Okada remains the top 2026 ratings-table match.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Shota Umino's IWGP Global title defense against PAC at Forbidden Door keeps NJPW's AEW crossover title program in the daily digest.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include NJPW-linked talent, and Tanahashi vs. Okada remains the six-star ratings-table anchor.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Forbidden Door build continues through an open challenge for the IWGP Tag Titles, keeping NJPW tied into AEW crossover booking.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Forbidden Door build continues through an open challenge for the IWGP Tag Titles, keeping NJPW tied into AEW crossover booking.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan tied to AEW crossover title booking.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Forbidden Door build continues through an IWGP Tag Title open challenge, keeping New Japan tied to AEW crossover title booking.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Road to G1 Climax results move NJPW into summer tournament mode, adding Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Road to G1 Climax results move NJPW into summer tournament mode, adding Yuto-Ice and Aaron Wolf to G1 Climax while Francesco Akira earns a title shot.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — NJPW releases full G1 Climax lineups while Forbidden Door items keep the AEW/NJPW crossover story active.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — NJPW releases full G1 Climax lineups while Forbidden Door items keep the AEW/NJPW crossover story active.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — NOAH Legacy Rise coverage appears alongside the recurring Tanahashi vs. Okada Wrestle Kingdom 20 ratings-table benchmark, keeping Japanese-promotion context in the daily wrestling graph.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — NJPW appears through AEW × NJPW Forbidden Door promotion and the recurring Tanahashi vs. Okada Wrestle Kingdom 20 six-star benchmark.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — NOAH Legacy Rise coverage appears alongside the recurring Tanahashi vs. Okada Wrestle Kingdom 20 ratings-table benchmark, keeping Japanese-promotion context in the daily wrestling graph.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — NJPW appears through AEW × NJPW Forbidden Door promotion and the recurring Tanahashi vs. Okada Wrestle Kingdom 20 six-star benchmark.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — NJPW stays tied to cross-promotional wrestling through Forbidden Door and tour-calendar context.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — NJPW stays tied to cross-promotional wrestling through Forbidden Door and tour-calendar context.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — NJPW remains visible through tour-calendar context, Forbidden Door adjacency, and the recurring Tanahashi vs. Okada Wrestle Kingdom 20 ratings-table benchmark.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — NJPW remains visible through tour-calendar context, Forbidden Door adjacency, and the recurring Tanahashi vs. Okada Wrestle Kingdom 20 ratings-table benchmark.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — NJPW remains relevant through AEW/NJPW Forbidden Door fallout and the Meltzer ratings table anchored by Tanahashi vs. Okada at Wrestle Kingdom 20.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — NJPW remains relevant through AEW/NJPW Forbidden Door fallout and the Meltzer ratings table anchored by Tanahashi vs. Okada at Wrestle Kingdom 20.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — NJPW appears through Forbidden Door fallout and Shota Umino defending the IWGP Global Heavyweight Title against Gabe Kidd on the Road to G1 card.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — NJPW appears through Forbidden Door fallout and Shota Umino defending the IWGP Global Heavyweight Title against Gabe Kidd on the Road to G1 card.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Shota Umino vs. Gabe Kidd on the Road to G1 card keeps NJPW active in title-defense and tournament-build coverage.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Shota Umino vs. Gabe Kidd on the Road to G1 card keeps NJPW active in title-defense and tournament-build coverage.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Forbidden Door speculation and a six-star Tanahashi/Okada Wrestle Kingdom rating keep NJPW tied to both crossover booking and match-quality canon.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Forbidden Door speculation and a six-star Tanahashi/Okada Wrestle Kingdom rating keep NJPW tied to both crossover booking and match-quality canon.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Yota Tsuji inviting Tony Khan to an NJPW event in Chicago keeps NJPW tied to the AEW crossover and business-relationship lane.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Yota Tsuji inviting Tony Khan to an NJPW event in Chicago keeps NJPW tied to the AEW crossover and business-relationship lane.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — NJPW remains in the digest through calendar listings and Hiroshi Tanahashi saying he had a productive AEW/NJPW conversation with Tony Khan.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — NJPW remains in the digest through calendar listings and Hiroshi Tanahashi saying he had a productive AEW/NJPW conversation with Tony Khan.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — NJPW stays in the digest through tour-calendar tracking and Hiroshi Tanahashi comments about retired legends contributing to NJPW.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — NJPW stays in the digest through tour-calendar tracking and Hiroshi Tanahashi comments about retired legends contributing to NJPW.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — NJPW remains in the digest through tour-card tracking and Callum Newman injury/G1 comments.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — NJPW remains in the digest through tour-card tracking and Callum Newman injury/G1 comments.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — NJPW remains in the wrestling calendar through tour-card scheduling and Wrestle Kingdom 20 Meltzer-rating continuity.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — NJPW remains in the wrestling calendar through tour-card scheduling and Wrestle Kingdom 20 Meltzer-rating continuity.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — NJPW remains in the tour-calendar lane while AEW/NJPW/Stardom/CMLL Forbidden Door matches stay in the Meltzer ratings table.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — NJPW remains in the tour-calendar lane while AEW/NJPW/Stardom/CMLL Forbidden Door matches stay in the Meltzer ratings table.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — NJPW remains calendar-based in the digest, with Wrestle Kingdom 20’s Tanahashi/Okada rating still anchoring the Meltzer table.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — NJPW remains calendar-based in the digest, with Wrestle Kingdom 20’s Tanahashi/Okada rating still anchoring the Meltzer table.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — NJPW appears through Road To G1 Climax results and Tomoaki Honma retirement news, keeping the G1-season calendar active.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — NJPW appears through Road To G1 Climax results and Tomoaki Honma retirement news, keeping the G1-season calendar active.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — NJPW adds Tomoaki Honma retirement news while its tour-card calendar remains active.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — NJPW adds Tomoaki Honma retirement news while its tour-card calendar remains active.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Tomoaki Honma retirement news and NJPW schedule notes keep the puroresu thread active.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Tomoaki Honma retirement news and NJPW schedule notes keep the puroresu thread active.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — NJPW announces the full G1 Climax 36 schedule, keeping the promotion in tournament-calendar mode.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — NJPW announces the full G1 Climax 36 schedule, keeping the promotion in tournament-calendar mode.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — NJPW appears through schedule tracking and Tiger Mask IV retirement coverage, adding a historical-retirement note to the puroresu thread.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — NJPW appears through schedule tracking and Tiger Mask IV retirement coverage, adding a historical-retirement note to the puroresu thread.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Tiger Mask IV retirement coverage and NJPW tour-calendar tracking keep NJPW active in the wrestling graph.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Tiger Mask IV retirement coverage and NJPW tour-calendar tracking keep NJPW active in the wrestling graph.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — NJPW remains part of the weekly tour-calendar watch in the wrestling digest.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — NJPW remains part of the weekly tour-calendar watch in the wrestling digest.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — NJPW tour-card verification remains part of the multi-promotion wrestling calendar.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — NJPW tour-card verification remains part of the multi-promotion wrestling calendar.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — NJPW remains in the wrestling calendar as a tour-card/schedule node.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — NJPW remains in the wrestling calendar as a tour-card/schedule node.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — NJPW remains in the digest through official tour-card schedule tracking and the latest 5-star table context.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — NJPW remains in the digest through official tour-card schedule tracking and the latest 5-star table context.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — NJPW remains in the wrestling calendar, while the Meltzer table keeps Wrestle Kingdom 20 and Forbidden Door ratings in view.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — NJPW remains in the wrestling calendar, while the Meltzer table keeps Wrestle Kingdom 20 and Forbidden Door ratings in view.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — NJPW remains in the wrestling calendar and Meltzer ratings context via Wrestle Kingdom 20 and Forbidden Door listings.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — NJPW remains in the wrestling calendar and Meltzer ratings context via Wrestle Kingdom 20 and Forbidden Door listings.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — NJPW remains in the wrestling calendar, with Tiger Mask tag booking for PRODUCE Volume 3 extending the Japan thread.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — NJPW G1 Climax 36 Night 1 results include Yota Tsuji defeating Konosuke Takeshita and Aaron Wolf winning in his tournament debut.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — NJPW remains in the wrestling calendar, with Tiger Mask tag booking for PRODUCE Volume 3 extending the Japan thread.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — NJPW G1 Climax 36 Night 1 results include Yota Tsuji defeating Konosuke Takeshita and Aaron Wolf winning in his tournament debut.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — NJPW remains on the calendar and adds G1 Climax 36 Night 1 results coverage.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — NJPW remains on the calendar and adds G1 Climax 36 Night 1 results coverage.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — NJPW's G1 Climax 36 opening-night coverage and tour schedule keep the promotion active in the digest.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — NJPW's G1 Climax 36 opening-night coverage and tour schedule keep the promotion active in the digest.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — NJPW remains a schedule-verification node, and Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 remains the table's six-star anchor.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — NJPW remains a schedule-verification node, and Hiroshi Tanahashi vs. Kazuchika Okada at Wrestle Kingdom 20 remains the table's six-star anchor.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — NJPW appears through tour-calendar continuity and G1 Climax 36 Night 1 review coverage.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — NJPW appears through tour-calendar continuity and G1 Climax 36 Night 1 review coverage.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — NJPW stays in the schedule/ratings graph, including the Wrestle Kingdom 20 Tanahashi-Okada six-star marker.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — NJPW stays in the schedule/ratings graph, including the Wrestle Kingdom 20 Tanahashi-Okada six-star marker.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — NJPW coverage includes Shota Umino concussion/G1 Climax absence and ongoing calendar tracking.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — NJPW coverage includes Shota Umino concussion/G1 Climax absence and ongoing calendar tracking.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — NJPW appears through Shota Umino withdrawing from the G1 Climax due to concussion and the continuing calendar feed.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — NJPW appears through Shota Umino withdrawing from the G1 Climax due to concussion and the continuing calendar feed.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — NJPW remains in the tour-card calendar and five-star ratings context through Wrestle Kingdom and Forbidden Door references.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — NJPW remains in the tour-card calendar and five-star ratings context through Wrestle Kingdom and Forbidden Door references.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — NJPW remains a tour-card/calendar verification node.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — NJPW remains a tour-card/calendar verification node.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — NJPW remains in the tour-card/calendar portion of the wrestling schedule watch.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — NJPW remains in the tour-card/calendar portion of the wrestling schedule watch.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — NJPW remains on the tour-card calendar and appears through Will Ospreay reflecting on leaving for AEW.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — NJPW remains on the tour-card calendar and appears through Will Ospreay reflecting on leaving for AEW.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — NJPW remains a tour/calendar-based promotion in the wrestling digest and a recurring Meltzer ratings context.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — NJPW appears through G1 Climax 36 Night 2 results and the recurring calendar.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — NJPW remains a tour/calendar-based promotion in the wrestling digest and a recurring Meltzer ratings context.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — NJPW appears through G1 Climax 36 Night 2 results and the recurring calendar.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — NJPW appears through G1 Climax 36 results, with Yuya Uemura defeating Zack Sabre Jr., while Tanahashi vs. Okada remains the six-star benchmark.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — NJPW appears through G1 Climax 36 results, with Yuya Uemura defeating Zack Sabre Jr., while Tanahashi vs. Okada remains the six-star benchmark.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — NJPW appears through the schedule table and G1 Climax 36 Night 3 results.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — NJPW appears through the schedule table and G1 Climax 36 Night 3 results.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — NJPW G1 Climax 36 Night 3 results keep the Japanese tournament thread active.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — NJPW G1 Climax 36 Night 3 results keep the Japanese tournament thread active.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — NJPW remains on the tour-calendar watchlist and in the Wrestle Kingdom 20 Tanahashi/Okada ratings anchor.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — NJPW appears through tour-calendar tracking and Will Ospreay's pandemic-era IWGP-title reflection.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — NJPW remains on the tour-calendar watchlist and in the Wrestle Kingdom 20 Tanahashi/Okada ratings anchor.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — NJPW appears through tour-calendar tracking and Will Ospreay's pandemic-era IWGP-title reflection.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — NJPW G1 Climax 36 Night 4 results keep Japanese tournament coverage in the wrestling ledger.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — NJPW G1 Climax 36 Night 4 results keep Japanese tournament coverage in the wrestling ledger.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — NJPW appears through G1 Climax discussion and its calendar-based tour schedule model.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — NJPW appears through G1 Climax discussion and its calendar-based tour schedule model.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — NJPW appears through G1 Climax 36 Night 5 results and the standing NJPW World schedule-verification table.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — NJPW appears through G1 Climax 36 Night 5 results and the standing NJPW World schedule-verification table.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — NJPW remains part of the wrestling calendar and G1 recap feed.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — NJPW remains in the tour-calendar matrix and in the Wrestle Kingdom 20 five-star-plus ratings context.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — NJPW remains part of the wrestling calendar and G1 recap feed.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — NJPW remains in the tour-calendar matrix and in the Wrestle Kingdom 20 five-star-plus ratings context.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — NJPW remains in the calendar and five-star table through Yuya Uemura vs. Zack Sabre Jr.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — NJPW remains in the calendar and five-star table through Yuya Uemura vs. Zack Sabre Jr.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — G1 Climax 36 discussion and the Yuya Uemura/Zack Sabre Jr. 5-star match stay on the ratings board.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — G1 Climax 36 discussion and the Yuya Uemura/Zack Sabre Jr. 5-star match stay on the ratings board.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — G1 Climax 36 Night 6 and Takeshita leading A Block keep NJPW in tournament focus.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — G1 Climax 36 Night 6 and Takeshita leading A Block keep NJPW in tournament focus.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — G1 Climax 36 coverage says Konosuke Takeshita takes the sole A-block lead, with recent 5-star ratings still referenced.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — G1 Climax 36 Night 7 coverage notes Gabe Kidd defeating Zack Sabre Jr. and a three-way B Block lead.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — G1 Climax 36 coverage says Konosuke Takeshita takes the sole A-block lead, with recent 5-star ratings still referenced.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — G1 Climax 36 Night 7 coverage notes Gabe Kidd defeating Zack Sabre Jr. and a three-way B Block lead.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — NJPW appears through tour-card scheduling and recent Meltzer 5-star ratings.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — NJPW appears through tour-card scheduling and recent Meltzer 5-star ratings.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — NJPW remains in the tour-card calendar and Meltzer-ratings thread.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — NJPW remains in the tour-card calendar and Meltzer-ratings thread.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — NJPW remains in the schedule and Meltzer ratings through G1 Climax 36.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — NJPW remains in the schedule and Meltzer ratings through G1 Climax 36.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — NJPW remains active through G1/Meltzer ratings and tour schedule references.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — NJPW remains active through G1/Meltzer ratings and tour schedule references.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — NJPW appears through the G1 Climax 36 Night 8 item with Konosuke Takeshita atop A Block.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — G1 Climax 36 Night 8 results and Meltzer-rated matches keep NJPW central to the wrestling desk.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — NJPW appears through the G1 Climax 36 Night 8 item with Konosuke Takeshita atop A Block.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — G1 Climax 36 Night 8 results and Meltzer-rated matches keep NJPW central to the wrestling desk.
 
 ## Related
 

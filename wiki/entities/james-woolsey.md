@@ -15,7 +15,7 @@ Former CIA director noted in the newsletter stream when his death appears as a n
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The dispatch carries The Hill's report that former CIA Director James Woolsey has died.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — The dispatch carries The Hill's report that former CIA Director James Woolsey has died.
 
 ## Related
 

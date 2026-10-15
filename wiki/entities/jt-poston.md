@@ -15,8 +15,8 @@ American professional golfer on the PGA Tour. The June 8 newsletter captures him
 
 ## Sources
 
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Finished tied at -12 with Ryan Gerard at **the Memorial Tournament presented by Workday**.
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Evening scoreboard confirms Poston and Ryan Gerard at -12, with Wyndham Clark one shot back.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — Finished tied at -12 with Ryan Gerard at **the Memorial Tournament presented by Workday**.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — Evening scoreboard confirms Poston and Ryan Gerard at -12, with Wyndham Clark one shot back.
 
 ## Related
 

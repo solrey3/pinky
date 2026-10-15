@@ -15,7 +15,7 @@ Kairi Sane is a professional wrestler. In the newsletter graph she appears throu
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Her Instagram bio lists Barry Bloom as her representative, making management speculation part of the wrestling feed.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Her Instagram bio lists Barry Bloom as her representative, making management speculation part of the wrestling feed.
 
 ## Related
 

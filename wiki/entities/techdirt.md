@@ -15,7 +15,7 @@ Technology-policy publication tracked for platform, copyright, and internet-law 
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Techdirt covers a judge rejecting Google’s DMCA anti-scraping argument.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Techdirt covers a judge rejecting Google’s DMCA anti-scraping argument.
 
 ## Related
 

@@ -15,9 +15,9 @@ Open-source, privacy-oriented mapping and navigation software built around open 
 
 ## Sources
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Heavy Hacker News attention around Organic Maps keeps open mapping in the same trust-and-control frame as open AI and self-managed tooling.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Heavy Hacker News attention around Organic Maps keeps open mapping in the same trust-and-control frame as open AI and self-managed tooling.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Returns as a high-scoring Hacker News item, reinforcing open/offline mapping as part of the operator-control tool stack.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Returns as a high-scoring Hacker News item, reinforcing open/offline mapping as part of the operator-control tool stack.
 
 ## Related
 

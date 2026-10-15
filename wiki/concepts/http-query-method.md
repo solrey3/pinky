@@ -14,7 +14,7 @@ HTTP QUERY is a web/API protocol idea for giving complex, safe, query-style requ
 
 ## Sources
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — A tech-desk item explains the new HTTP QUERY method, making API semantics part of the day's infrastructure signal rather than a model-capability story.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — A tech-desk item explains the new HTTP QUERY method, making API semantics part of the day's infrastructure signal rather than a model-capability story.
 
 ## Related Concepts
 

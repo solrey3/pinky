@@ -15,7 +15,7 @@ The Senate Judiciary Committee is tracked as a congressional venue for legal ove
 
 ## Sources
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Senate Democrats invite Jack Smith to testify, making the committee the forum for renewed special-counsel oversight.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Senate Democrats invite Jack Smith to testify, making the committee the forum for renewed special-counsel oversight.
 
 ## Related
 

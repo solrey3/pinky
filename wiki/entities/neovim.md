@@ -17,7 +17,7 @@ Hyperextensible Vim-based text editor. Lua configuration, built-in LSP, treesitt
 
 - [2026-05-10: NeoVim Cheatsheet](sources/neovim.md)
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Neovim appears through an r/NixOS item about a fully Lua configuration managed by Nix.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Neovim appears through an r/NixOS item about a fully Lua configuration managed by Nix.
 
 ## Related
 

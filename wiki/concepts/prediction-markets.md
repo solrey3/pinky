@@ -14,140 +14,140 @@ Prediction markets are trading venues or market-like instruments that convert ex
 
 ## Sources
 
-- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-noon.md) — Kalshi's reported investigation of suspicious personnel-selection wagers adds information asymmetry, insider access, surveillance, and auditability to the market-integrity framework.
+- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-noon.md) — Kalshi's reported investigation of suspicious personnel-selection wagers adds information asymmetry, insider access, surveillance, and auditability to the market-integrity framework.
 
-- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Repeats the NFL's preference for state oversight over CFTC authority, an advocacy position within the unresolved gambling-versus-derivatives classification dispute.
+- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-daytime.md) — Repeats the NFL's preference for state oversight over CFTC authority, an advocacy position within the unresolved gambling-versus-derivatives classification dispute.
 
-- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Reports that the NFL favors state oversight over CFTC authority, extending the dispute over whether sports-event contracts are gambling or federally regulated derivatives.
+- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-midnight.md) — Reports that the NFL favors state oversight over CFTC authority, extending the dispute over whether sports-event contracts are gambling or federally regulated derivatives.
 
-- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Another reported Kalshi loss reinforces that event-market interpretation depends on state gambling law, jurisdiction, licensing, and contract classification.
+- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-evening.md) — Another reported Kalshi loss reinforces that event-market interpretation depends on state gambling law, jurisdiction, licensing, and contract classification.
 
-- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-evening.md) — New York's suit against Polymarket makes gambling-law classification, jurisdiction, and licensing prerequisites for interpreting event-market prices.
+- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-evening.md) — New York's suit against Polymarket makes gambling-law classification, jurisdiction, and licensing prerequisites for interpreting event-market prices.
 
-- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Repeats Polymarket's 66% Democratic and 35% Republican Senate-control quotes, whose 101% total requires spread, contract, liquidity, and timestamp context.
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-daytime.md) — Repeats Polymarket's 66% Democratic and 35% Republican Senate-control quotes, whose 101% total requires spread, contract, liquidity, and timestamp context.
 
-- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Polymarket's 66% Democratic and 35% Republican Senate-control quotes total 101%, requiring spread, contract, liquidity, and timestamp context.
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-midnight.md) — Polymarket's 66% Democratic and 35% Republican Senate-control quotes total 101%, requiring spread, contract, liquidity, and timestamp context.
 
-- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-evening.md) — Polymarket’s 67% Democratic and 35% Republican Senate-control quotes total 102%, requiring spread, contract, liquidity, and timestamp context.
+- [2026-09-23: Evening Brief — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-evening.md) — Polymarket’s 67% Democratic and 35% Republican Senate-control quotes total 102%, requiring spread, contract, liquidity, and timestamp context.
 
-- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — Polymarket repeats Senate-control prices totaling 101% and a fully allocated Brazil matchup; both need rules, spread, liquidity, and timestamp context.
+- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-daytime.md) — Polymarket repeats Senate-control prices totaling 101% and a fully allocated Brazil matchup; both need rules, spread, liquidity, and timestamp context.
 
-- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — Polymarket lists Senate-control prices totaling 101% and a fully allocated Brazil matchup; both require rules, spread, liquidity, and timestamp context.
+- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-midnight.md) — Polymarket lists Senate-control prices totaling 101% and a fully allocated Brazil matchup; both require rules, spread, liquidity, and timestamp context.
 
-- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — Polymarket returns trending geopolitical and corporate contract topics without usable prices or movement, so the fetch is watchlist metadata rather than probability evidence.
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-noon.md) — Polymarket returns trending geopolitical and corporate contract topics without usable prices or movement, so the fetch is watchlist metadata rather than probability evidence.
 
-- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Polymarket lists Democratic and Republican Senate-control prices of 65% and 36%; the 101% sum requires spread, contract, liquidity, and snapshot context.
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-daytime.md) — Polymarket lists Democratic and Republican Senate-control prices of 65% and 36%; the 101% sum requires spread, contract, liquidity, and snapshot context.
 
-- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — Polymarket lists Democratic and Republican Senate-control prices of 65% and 36%; their 101% sum requires spread, contract, liquidity, and snapshot context.
+- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-midnight.md) — Polymarket lists Democratic and Republican Senate-control prices of 65% and 36%; their 101% sum requires spread, contract, liquidity, and snapshot context.
 
-- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-noon.md) — Polymarket lists Democratic and Republican Senate-control prices of 63% and 39%; their 102% sum highlights spread, contract, liquidity, and snapshot-provenance limits.
+- [2026-09-21: Noon Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-noon.md) — Polymarket lists Democratic and Republican Senate-control prices of 63% and 39%; their 102% sum highlights spread, contract, liquidity, and snapshot-provenance limits.
 
-- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Polymarket prices Democratic Senate control at 61%; without rules, liquidity, movement, and timestamp context, the quote remains a point-in-time sentiment signal.
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-noon.md) — Polymarket prices Democratic Senate control at 61%; without rules, liquidity, movement, and timestamp context, the quote remains a point-in-time sentiment signal.
 
-- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — Polymarket prices Democratic Senate control at 61%; without rules, liquidity, movement, and timestamp context, the quote remains a point-in-time sentiment signal.
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-daytime.md) — Polymarket prices Democratic Senate control at 61%; without rules, liquidity, movement, and timestamp context, the quote remains a point-in-time sentiment signal.
 
-- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-midnight.md) — Polymarket prices Democratic Senate control at 61%; without rules, liquidity, movement, and timestamp context, the number remains a point-in-time sentiment signal.
+- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-midnight.md) — Polymarket prices Democratic Senate control at 61%; without rules, liquidity, movement, and timestamp context, the number remains a point-in-time sentiment signal.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Polymarket displays a 20% AOC nomination price without a movement figure, while Kalshi data is unavailable, reinforcing snapshot and feed-provenance limits.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Polymarket displays a 20% AOC nomination price without a movement figure, while Kalshi data is unavailable, reinforcing snapshot and feed-provenance limits.
 
-- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — New Jersey asks the Supreme Court to recognize sports contracts as state-regulated gambling while Kalshi and Polymarket extraction provides no forecast-grade signal.
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-evening.md) — New Jersey asks the Supreme Court to recognize sports contracts as state-regulated gambling while Kalshi and Polymarket extraction provides no forecast-grade signal.
 
-- [2026-09-01: Morning Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-daytime.md) — Polymarket reportedly attracts a $300 million investment commitment, but incomplete Polymarket and failed Kalshi extraction yield no forecast-grade signal.
+- [2026-09-01: Morning Dispatch — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-daytime.md) — Polymarket reportedly attracts a $300 million investment commitment, but incomplete Polymarket and failed Kalshi extraction yield no forecast-grade signal.
 
-- [2026-08-31: Midnight Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-midnight.md) — Polymarket surfaces a September Fed-decision topic without usable odds or movement, while Kalshi remains unavailable.
+- [2026-08-31: Midnight Dispatch — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-midnight.md) — Polymarket surfaces a September Fed-decision topic without usable odds or movement, while Kalshi remains unavailable.
 
-- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-noon.md) — Kalshi sports contracts remain classified as gambling rather than swaps while Polymarket and Kalshi provide no verified odds.
+- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-noon.md) — Kalshi sports contracts remain classified as gambling rather than swaps while Polymarket and Kalshi provide no verified odds.
 
-- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — Kalshi sports contracts are treated as gambling rather than swaps while both prediction-market extracts lack usable prices.
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-daytime.md) — Kalshi sports contracts are treated as gambling rather than swaps while both prediction-market extracts lack usable prices.
 
-- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — Kalshi sports contracts are classified as gambling rather than swaps while market-price extraction remains unavailable.
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-midnight.md) — Kalshi sports contracts are classified as gambling rather than swaps while market-price extraction remains unavailable.
 
-- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-evening.md) — Kalshi sports contracts are treated as gambling rather than swaps while both prediction-market extracts lack usable probabilities.
+- [2026-08-29: Evening Brief — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-evening.md) — Kalshi sports contracts are treated as gambling rather than swaps while both prediction-market extracts lack usable probabilities.
 
-- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-noon.md) — A federal ruling reportedly treats Kalshi sports contracts as gambling rather than swaps, while the market-data block itself is unavailable.
+- [2026-08-29: Noon Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-noon.md) — A federal ruling reportedly treats Kalshi sports contracts as gambling rather than swaps, while the market-data block itself is unavailable.
 
-- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-evening.md) — Polymarket prices AOC at 21% for the 2028 Democratic nomination without a movement figure, while Kalshi remains unavailable.
+- [2026-08-25: Evening Brief — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-evening.md) — Polymarket prices AOC at 21% for the 2028 Democratic nomination without a movement figure, while Kalshi remains unavailable.
 
-- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-midnight.md) — Polymarket prices Darline Graham Nordone at 63% in a South Carolina Republican Senate special-primary market while Kalshi remains unavailable.
+- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-midnight.md) — Polymarket prices Darline Graham Nordone at 63% in a South Carolina Republican Senate special-primary market while Kalshi remains unavailable.
 
-- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-noon.md) — Polymarket returns trend topics but no verified prices or movement, while Kalshi is unavailable; topical retrieval is not probability evidence.
+- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-noon.md) — Polymarket returns trend topics but no verified prices or movement, while Kalshi is unavailable; topical retrieval is not probability evidence.
 
-- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-noon.md) — Polymarket reports AOC at 22% for the 2028 Democratic nomination and David Crowley at 78% in Wisconsin, while Kalshi remains unavailable.
+- [2026-08-14: Noon Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-noon.md) — Polymarket reports AOC at 22% for the 2028 Democratic nomination and David Crowley at 78% in Wisconsin, while Kalshi remains unavailable.
 
-- [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-daytime.md) — Polymarket reports AOC at 22% for the 2028 Democratic nomination and David Crowley at 78% in Wisconsin, while Kalshi remains unavailable.
+- [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-daytime.md) — Polymarket reports AOC at 22% for the 2028 Democratic nomination and David Crowley at 78% in Wisconsin, while Kalshi remains unavailable.
 
-- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-evening.md) — The CFTC's order that Kalshi continue operating makes jurisdiction and legal authority part of interpreting event-market signals.
+- [2026-08-12: Evening Brief — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-evening.md) — The CFTC's order that Kalshi continue operating makes jurisdiction and legal authority part of interpreting event-market signals.
 
-- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — Polymarket topics appear without verified probability moves and Kalshi remains unavailable.
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-midnight.md) — Polymarket topics appear without verified probability moves and Kalshi remains unavailable.
 
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Polymarket yielded no verified movers and Kalshi was blocked, leaving no defensible prediction-market signal.
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — Polymarket yielded no verified movers and Kalshi was blocked, leaving no defensible prediction-market signal.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — Polymarket lists Abdul El-Sayed at 63% in a Michigan Senate winner market while Kalshi data are unavailable.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — Polymarket lists Abdul El-Sayed at 63% in a Michigan Senate winner market while Kalshi data are unavailable.
 
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Wildfire-betting regulation adds an ethical boundary while Polymarket odds and Kalshi data remain unavailable.
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Polymarket text was fetched but no clean odds were extracted, while Kalshi was unavailable, preserving the gap in the provenance record.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Polymarket lists U.S.-Iran peace-talk and Michigan Democratic primary markets while Kalshi remains unavailable.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Polymarket topics are captured without clean odds and Kalshi remains unavailable, preserving market-data missingness as provenance.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Polymarket topics appear without fetched price movement while Kalshi remains unavailable, keeping market signal separate from extraction quality.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Polymarket topics surface without odds while Kalshi is unavailable, keeping prediction-market signal and extraction reliability separate.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Polymarket topics include U.S.-Iran peace talks and best AI model by end-2026, but odds/movers and Kalshi data remain unavailable.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Polymarket topics appear without probabilities while Kalshi is unavailable, making the forecast signal useful but provenance-limited.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Polymarket topics appear while Kalshi remains unavailable, reinforcing forecast feeds as useful but provenance-limited signals.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — Wildfire-betting regulation adds an ethical boundary while Polymarket odds and Kalshi data remain unavailable.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Polymarket text was fetched but no clean odds were extracted, while Kalshi was unavailable, preserving the gap in the provenance record.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Polymarket lists U.S.-Iran peace-talk and Michigan Democratic primary markets while Kalshi remains unavailable.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Polymarket topics are captured without clean odds and Kalshi remains unavailable, preserving market-data missingness as provenance.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Polymarket topics appear without fetched price movement while Kalshi remains unavailable, keeping market signal separate from extraction quality.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Polymarket topics surface without odds while Kalshi is unavailable, keeping prediction-market signal and extraction reliability separate.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — Polymarket topics include U.S.-Iran peace talks and best AI model by end-2026, but odds/movers and Kalshi data remain unavailable.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Polymarket topics appear without probabilities while Kalshi is unavailable, making the forecast signal useful but provenance-limited.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Polymarket topics appear while Kalshi remains unavailable, reinforcing forecast feeds as useful but provenance-limited signals.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Polymarket topics appear while Kalshi data remains unavailable, preserving both signal value and extraction fragility.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Polymarket topics appear while Kalshi data remains unavailable, preserving both signal value and extraction fragility.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Polymarket topics were fetched while Kalshi stayed unavailable, preserving both signal and extraction limits.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Polymarket topics were fetched while Kalshi stayed unavailable, preserving both signal and extraction limits.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Polymarket topic fetches without probabilities and Kalshi unavailability are treated as provenance-limited signals.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Polymarket topic fetches without probabilities and Kalshi unavailability are treated as provenance-limited signals.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Polymarket topics and Kalshi unavailability are useful only as provenance-aware watchlist metadata without stable odds/feed details.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Polymarket topics and Kalshi unavailability are useful only as provenance-aware watchlist metadata without stable odds/feed details.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Polymarket topics appear without odds while Kalshi is unavailable, reinforcing prediction-market snippets as provenance-limited watchlist metadata.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Polymarket topics appear without odds while Kalshi is unavailable, reinforcing prediction-market snippets as provenance-limited watchlist metadata.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — New York’s Kalshi enforcement action plus unavailable Kalshi extraction preserve the paired legal-status and feed-provenance caveats.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — New York’s Kalshi enforcement action plus unavailable Kalshi extraction preserve the paired legal-status and feed-provenance caveats.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — New York’s Kalshi enforcement action plus unavailable Kalshi data connect legal-status risk with feed-provenance limits.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — New York’s Kalshi enforcement action plus unavailable Kalshi data connect legal-status risk with feed-provenance limits.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — New York’s Kalshi action plus unavailable Kalshi data combine legal-status risk with feed-provenance limits.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — New York’s Kalshi action plus unavailable Kalshi data combine legal-status risk with feed-provenance limits.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — New York’s Kalshi action and blocked/slow Kalshi extraction reinforce that forecast-market evidence needs legal and feed-provenance context.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — New York’s Kalshi action and blocked/slow Kalshi extraction reinforce that forecast-market evidence needs legal and feed-provenance context.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — New York’s Kalshi allegation adds a legal-status layer while Polymarket snippets and Kalshi unavailability preserve data-provenance caveats.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Polymarket trend snippets without odds and Kalshi unavailability show the limits of using forecast-market feeds as evidence.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Polymarket surfaces Fed-decision and 2026 AI-model trends while Kalshi is unavailable, preserving forecast-market extraction caveats.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Polymarket extraction returns Fed-decision and AI-model trend topics without odds, while Kalshi is unavailable, preserving forecast-market provenance limits.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Polymarket surfaces Fed and WTI chatter while Kalshi is unavailable, preserving both utility and feed-gap limits.
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Kalshi launches a midterm election forecasting hub while Polymarket lists LeBron next-team odds and the Kalshi extraction fails, showing both the appeal and fragility of market-derived signals.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — New York’s Kalshi allegation adds a legal-status layer while Polymarket snippets and Kalshi unavailability preserve data-provenance caveats.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Polymarket trend snippets without odds and Kalshi unavailability show the limits of using forecast-market feeds as evidence.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Polymarket surfaces Fed-decision and 2026 AI-model trends while Kalshi is unavailable, preserving forecast-market extraction caveats.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Polymarket extraction returns Fed-decision and AI-model trend topics without odds, while Kalshi is unavailable, preserving forecast-market provenance limits.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Polymarket surfaces Fed and WTI chatter while Kalshi is unavailable, preserving both utility and feed-gap limits.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Kalshi launches a midterm election forecasting hub while Polymarket lists LeBron next-team odds and the Kalshi extraction fails, showing both the appeal and fragility of market-derived signals.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Polymarket prices LeBron James next-team odds while Kalshi data is unavailable, showing both the reach and fragility of prediction-market feeds.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Polymarket prices LeBron James next-team odds while Kalshi data is unavailable, showing both the reach and fragility of prediction-market feeds.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Polymarket provides LeBron next-team probabilities while Kalshi extraction fails, contrasting market signal with data-access reliability.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Polymarket provides LeBron next-team probabilities while Kalshi extraction fails, contrasting market signal with data-access reliability.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Polymarket lists LeBron next-team odds while Kalshi is unavailable, reinforcing prediction-market feeds as useful but fragile evidence.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Polymarket’s LeBron next-team market is fetched without a clean notable mover while Kalshi remains unavailable.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Polymarket lists LeBron next-team odds while Kalshi is unavailable, reinforcing prediction-market feeds as useful but fragile evidence.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Polymarket’s LeBron next-team market is fetched without a clean notable mover while Kalshi remains unavailable.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — LeBron James next-team odds become the main prediction-market item, but the source’s extraction framing warns against treating scraped odds as self-explanatory truth.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — LeBron James next-team odds become the main prediction-market item, but the source’s extraction framing warns against treating scraped odds as self-explanatory truth.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — LeBron James next-team odds appear as the main prediction-market item, but the 100% print and Kalshi outage require extraction skepticism.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — LeBron James next-team odds appear as the main prediction-market item, but the 100% print and Kalshi outage require extraction skepticism.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Polymarket NBA title odds become the evening prediction feed, with Kalshi unavailable.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Polymarket NBA title odds become the evening prediction feed, with Kalshi unavailable.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Polymarket NBA title odds put Oklahoma City at 22%, San Antonio at 20%, and Philadelphia at 13%, while Kalshi remains unavailable.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Polymarket NBA title odds list Oklahoma City 22%, San Antonio 20%, and Philadelphia 14%, while Kalshi remains unavailable.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Polymarket NBA title odds put Oklahoma City at 22%, San Antonio at 20%, and Philadelphia at 13%, while Kalshi remains unavailable.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Polymarket NBA title odds list Oklahoma City 22%, San Antonio 20%, and Philadelphia 14%, while Kalshi remains unavailable.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Polymarket and Kalshi panels are listed but unavailable, reinforcing feed reliability caveats.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Polymarket and Kalshi panels are listed but unavailable, reinforcing feed reliability caveats.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Polymarket text is fetched without reliable odds/movers and Kalshi is unavailable, preserving the prediction-market feed-fragility caveat.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Polymarket text is fetched without reliable odds/movers and Kalshi is unavailable, preserving the prediction-market feed-fragility caveat.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Minnesota’s prediction-market ban is paused by a federal judge while Polymarket/Kalshi extracted mover data remain unavailable.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Minnesota’s prediction-market ban is paused by a federal judge while Polymarket/Kalshi extracted mover data remain unavailable.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Minnesota's prediction-market ban is halted by a federal judge while Polymarket/Kalshi extraction remains incomplete or unavailable.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Minnesota's prediction-market ban is halted by a federal judge while Polymarket/Kalshi extraction remains incomplete or unavailable.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Polymarket fetches a Fed-decision market and a Warsh press-conference market while Kalshi is unavailable, preserving partial-event-market provenance.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Polymarket Fed-decision and MLS markets appear without clean odds, while Kalshi extraction remains unavailable.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Polymarket fetches a Fed-decision market and a Warsh press-conference market while Kalshi is unavailable, preserving partial-event-market provenance.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Polymarket Fed-decision and MLS markets appear without clean odds, while Kalshi extraction remains unavailable.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Polymarket has Fed-decision and WTI discussion while Kalshi is unavailable, making market-implied probabilities part of the evidence-gap record.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Polymarket returns topics but no usable odds/movers, while Kalshi is unavailable, making forecast-market extraction quality part of the source.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Polymarket has Fed-decision and WTI discussion while Kalshi is unavailable, making market-implied probabilities part of the evidence-gap record.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Polymarket returns topics but no usable odds/movers, while Kalshi is unavailable, making forecast-market extraction quality part of the source.
 
 ## Related Concepts
 

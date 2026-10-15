@@ -14,11 +14,11 @@ Autonomous border surveillance is the use of sensor towers, cameras, facial reco
 
 ## Sources
 
-- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-midnight.md) — Repeats scrutiny of CBP's possible facial-recognition targeting of foreign OnlyFans models, emphasizing purpose limitation, targeting criteria, and biometric oversight.
+- [2026-09-20: Midnight Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-midnight.md) — Repeats scrutiny of CBP's possible facial-recognition targeting of foreign OnlyFans models, emphasizing purpose limitation, targeting criteria, and biometric oversight.
 
-- [2026-09-19: Evening Brief — Saturday, September 19, 2026](../sources/newsletter-2026-09-19-evening.md) — CBP does not deny reported facial-recognition targeting of foreign OnlyFans models, extending the concept from remote detection to identity-level biometric selection and purpose-limitation concerns.
+- [2026-09-19: Evening Brief — Saturday, September 19, 2026](../sources/newsletters/newsletter-2026-09-19-evening.md) — CBP does not deny reported facial-recognition targeting of foreign OnlyFans models, extending the concept from remote detection to identity-level biometric selection and purpose-limitation concerns.
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Reason reports DHS spending $1 billion on autonomous border-surveillance towers, raising civil-liberties and accountability concerns around large-scale remote sensing.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Reason reports DHS spending $1 billion on autonomous border-surveillance towers, raising civil-liberties and accountability concerns around large-scale remote sensing.
 
 ## Related Concepts
 

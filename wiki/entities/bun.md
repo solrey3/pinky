@@ -15,13 +15,13 @@ Bun is tracked as a JavaScript/TypeScript runtime and tooling stack whose engine
 
 ## Sources
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Bun's announced Rust rewrite makes runtime implementation language, performance, and maintainability part of the developer-infrastructure thread.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — Bun's announced Rust rewrite makes runtime implementation language, performance, and maintainability part of the developer-infrastructure thread.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Bun appears through Claude Code runtime coverage, moving from general JS tooling into the AI coding-agent implementation stack.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Bun appears through Claude Code runtime coverage, moving from general JS tooling into the AI coding-agent implementation stack.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Claude Code's Bun/Rust runtime item keeps Bun in the developer-tool performance and trust-surface thread.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Claude Code's Bun/Rust runtime item keeps Bun in the developer-tool performance and trust-surface thread.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Bun appears through a Rust-rewrite progress discussion, tying runtime performance to developer-tooling architecture.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Bun appears through a Rust-rewrite progress discussion, tying runtime performance to developer-tooling architecture.
 
 ## Related
 

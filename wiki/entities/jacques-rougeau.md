@@ -15,7 +15,7 @@ Canadian professional wrestler; appears here in a backstage AEW Redemption repor
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — POST/WON item reports backstage friction at AEW Redemption.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — POST/WON item reports backstage friction at AEW Redemption.
 
 ## Related
 

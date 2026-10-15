@@ -15,20 +15,20 @@ GothamChess is a chess media/YouTube creator brand tracked when chess content ap
 
 ## Sources
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Appears in the YouTube past-24-hours feed with a Grandmaster short.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Appears in the YouTube past-24-hours feed with a Grandmaster short.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — YouTube feed includes GothamChess shorts/videos from the past 24 hours.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — YouTube feed includes GothamChess shorts/videos from the past 24 hours.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — GothamChess appears in the YouTube feed as part of the dispatch's personal-media provenance.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — GothamChess appears in the YouTube feed as part of the dispatch's personal-media provenance.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — A past-24-hours YouTube item points to “From 400 to 2200: Chess Speedrun.”
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — A past-24-hours YouTube item points to “From 400 to 2200: Chess Speedrun.”
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — GothamChess appears in the YouTube feed with concern about Gukesh, preserving chess/creator continuity.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — GothamChess appears in the 24-hour YouTube feed, preserving the personal feed-monitoring layer.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — GothamChess appears in the YouTube feed with concern about Gukesh, preserving chess/creator continuity.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — GothamChess appears in the 24-hour YouTube feed, preserving the personal feed-monitoring layer.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — GothamChess appears in the YouTube feed with a Tyler1 vs. Faker chess video.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — GothamChess appears in the YouTube feed with a Tyler1 vs. Faker chess video.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — YouTube feed tracks a USA vs Uzbekistan chess championship video.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — YouTube feed tracks a USA vs Uzbekistan chess championship video.
 
 ## Related
 

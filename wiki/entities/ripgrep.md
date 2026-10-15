@@ -15,7 +15,7 @@ Line-oriented search tool that recursively searches directories for a regex patt
 
 ## Sources
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — A musl-binary segfault issue during very-large searches marks an open-source developer-tool reliability note.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — A musl-binary segfault issue during very-large searches marks an open-source developer-tool reliability note.
 
 - [2026-05-10: ripgrep (rg) Cheatsheet](sources/ripgrep.md)
 

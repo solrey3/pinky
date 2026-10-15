@@ -15,7 +15,7 @@ U.S. fast-food chain appearing here only as the site of a reported deadly Idaho 
 
 ## Sources
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — A deadly Idaho shooting at an In-N-Out location leads the overnight crime wire.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — A deadly Idaho shooting at an In-N-Out location leads the overnight crime wire.
 
 ## Related
 

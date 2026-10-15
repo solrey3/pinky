@@ -15,7 +15,7 @@ Harriet Tubman was an abolitionist and Underground Railroad conductor. In this w
 
 ## Sources
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Tubman appears through renewed coverage of the abandoned plan to put her on the $20 bill, making her a symbol in U.S. currency and public-memory politics.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Tubman appears through renewed coverage of the abandoned plan to put her on the $20 bill, making her a symbol in U.S. currency and public-memory politics.
 
 ## Related
 

@@ -36,9 +36,9 @@ source_count: 3
 
 - [2026-05-27: Raw notes](../../raw/people/ricochet.md)
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Ricochet challenges Konosuke Takeshita for the AEW International title on Dynamite, adding a 2026 AEW-relevance note to his profile.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Ricochet challenges Konosuke Takeshita for the AEW International title on Dynamite, adding a 2026 AEW-relevance note to his profile.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Ricochet remains part of the evening AEW Dynamite item as Takeshita's challenger on the Forbidden Door go-home show.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — Ricochet remains part of the evening AEW Dynamite item as Takeshita's challenger on the Forbidden Door go-home show.
 
 ## Related
 

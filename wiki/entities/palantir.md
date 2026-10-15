@@ -15,11 +15,11 @@ Palantir is a data analytics and AI/platform company frequently associated with 
 
 ## Sources
 
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Records its strongest week since 2024 as its market narrative shifts back toward AI leadership.
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — Records its strongest week since 2024 as its market narrative shifts back toward AI leadership.
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Yahoo Finance frames Palantir as set for strong Q2 results and analyst upside amid AI-stock appetite.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — MarketWatch frames Palantir stock strength as AI-driven growth, shifting this node from procurement sovereignty into public-market AI-demand evidence.
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — A reported Spanish blacklist frames Palantir as a data/AI vendor whose public and private use can become a national procurement and sovereignty issue.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Yahoo Finance frames Palantir as set for strong Q2 results and analyst upside amid AI-stock appetite.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — MarketWatch frames Palantir stock strength as AI-driven growth, shifting this node from procurement sovereignty into public-market AI-demand evidence.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — A reported Spanish blacklist frames Palantir as a data/AI vendor whose public and private use can become a national procurement and sovereignty issue.
 
 ## Related
 

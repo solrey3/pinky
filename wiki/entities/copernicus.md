@@ -15,7 +15,7 @@ Copernicus is the European Union's Earth-observation program, providing satellit
 
 ## Sources
 
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Its free satellite service is credited with making wildfire tracking easier and more accessible.
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — Its free satellite service is credited with making wildfire tracking easier and more accessible.
 
 ## Related
 

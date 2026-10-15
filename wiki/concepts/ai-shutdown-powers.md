@@ -14,12 +14,12 @@ AI shutdown powers are legal or operational authorities that let a government or
 
 ## Sources
 
-- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-noon.md) — Revisits whether advanced AI can be stopped reliably, emphasizing that legal authority does not itself provide technical control over distributed models, compute, networks, or operators.
+- [2026-10-13: Noon Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-noon.md) — Revisits whether advanced AI can be stopped reliably, emphasizing that legal authority does not itself provide technical control over distributed models, compute, networks, or operators.
 
-- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Bill Gates criticizes the framing of the AI “kill switch” debate, adding technical-feasibility skepticism without resolving authority or safeguard design.
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-noon.md) — Bill Gates criticizes the framing of the AI “kill switch” debate, adding technical-feasibility skepticism without resolving authority or safeguard design.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The proposed AI Kill Switch Act would let the Trump administration order shutdowns of rogue AI systems, moving AI safety from voluntary guardrails toward emergency-state authority.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — The AI Kill Switch Act appears again as proposed authority for the Trump administration to shut down rogue AI systems.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — The proposed AI Kill Switch Act would let the Trump administration order shutdowns of rogue AI systems, moving AI safety from voluntary guardrails toward emergency-state authority.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — The AI Kill Switch Act appears again as proposed authority for the Trump administration to shut down rogue AI systems.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ Steven Borden is tracked as a wrestling prospect when AEW/Tony Khan coverage app
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Tony Khan says Steven Borden is going to be a tremendous wrestler.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Tony Khan says Steven Borden is going to be a tremendous wrestler.
 
 ## Related
 

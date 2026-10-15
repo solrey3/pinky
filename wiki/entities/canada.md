@@ -15,61 +15,61 @@ Canada is tracked here as a North American policy and trade counterpart when U.S
 
 ## Sources
 
-- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — A reported military agreement with Ukraine broadens Canada's current role from trade retaliation into European defense support.
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-evening.md) — A reported military agreement with Ukraine broadens Canada's current role from trade retaliation into European defense support.
 
-- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-midnight.md) — Its $20 billion retaliatory tariffs are in effect, sustaining reciprocal escalation and targeted aerospace exposure.
+- [2026-09-10: Midnight Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-midnight.md) — Its $20 billion retaliatory tariffs are in effect, sustaining reciprocal escalation and targeted aerospace exposure.
 
-- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-evening.md) — Its $20 billion retaliatory tariffs remain in force as the bilateral dispute sustains aerospace and consumer-cost exposure.
+- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-evening.md) — Its $20 billion retaliatory tariffs remain in force as the bilateral dispute sustains aerospace and consumer-cost exposure.
 
-- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — Its $20 billion retaliatory tariffs take effect as the bilateral trade dispute expands into aerospace and consumer-cost exposure.
+- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-noon.md) — Its $20 billion retaliatory tariffs take effect as the bilateral trade dispute expands into aerospace and consumer-cost exposure.
 
-- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Its $20 billion retaliatory tariffs take effect as U.S. restrictions target Canadian dairy, motorcycles, and alcohol.
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-daytime.md) — Its $20 billion retaliatory tariffs take effect as U.S. restrictions target Canadian dairy, motorcycles, and alcohol.
 
-- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — New U.S. restrictions target Canadian dairy, motorcycles, and alcoholic beverages while trade escalation pressures Bombardier shares.
+- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-midnight.md) — New U.S. restrictions target Canadian dairy, motorcycles, and alcoholic beverages while trade escalation pressures Bombardier shares.
 
-- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — A threatened U.S. ban on Bombardier aircraft carries the tariff confrontation into commercial-aviation market access.
+- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-daytime.md) — A threatened U.S. ban on Bombardier aircraft carries the tariff confrontation into commercial-aviation market access.
 
-- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — A threatened U.S. ban on Bombardier aircraft extends the tariff confrontation into commercial-aviation market access.
+- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-midnight.md) — A threatened U.S. ban on Bombardier aircraft extends the tariff confrontation into commercial-aviation market access.
 
-- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Its 50% tariffs on U.S. goods sustain reciprocal escalation and cross-border cost pressure.
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-midnight.md) — Its 50% tariffs on U.S. goods sustain reciprocal escalation and cross-border cost pressure.
 
-- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-evening.md) — Its 50% tariffs on U.S. goods sustain reciprocal escalation and cross-border cost pressure.
+- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-evening.md) — Its 50% tariffs on U.S. goods sustain reciprocal escalation and cross-border cost pressure.
 
-- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-noon.md) — Imposes 50% tariffs on U.S. goods, deepening reciprocal trade escalation and cross-border cost pressure.
+- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-noon.md) — Imposes 50% tariffs on U.S. goods, deepening reciprocal trade escalation and cross-border cost pressure.
 
-- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-daytime.md) — Imposes 50% retaliatory tariffs on U.S. goods, escalating direct cross-border cost pressure.
+- [2026-08-26: Morning Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-daytime.md) — Imposes 50% retaliatory tariffs on U.S. goods, escalating direct cross-border cost pressure.
 
-- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-midnight.md) — Targets U.S. metals, foods, and motorcycles in a retaliatory tariff package.
+- [2026-08-26: Midnight Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-midnight.md) — Targets U.S. metals, foods, and motorcycles in a retaliatory tariff package.
 
-- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-noon.md) — Announces “dollar for dollar, rate for rate” retaliation in the escalating U.S.–Canada tariff dispute.
+- [2026-08-25: Noon Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-noon.md) — Announces “dollar for dollar, rate for rate” retaliation in the escalating U.S.–Canada tariff dispute.
 
-- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-daytime.md) — A threatened 50% tariff on automobiles and parts intensifies retaliation, supply-chain, consumer-cost, and credibility risks.
+- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-daytime.md) — A threatened 50% tariff on automobiles and parts intensifies retaliation, supply-chain, consumer-cost, and credibility risks.
 
-- [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-noon.md) — Mark Carney's no-bad-deal posture is tested as tariff conflict threatens automakers, builders, supply chains, and consumers.
+- [2026-08-24: Noon Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-noon.md) — Mark Carney's no-bad-deal posture is tested as tariff conflict threatens automakers, builders, supply chains, and consumers.
 
-- [2026-08-24: Morning Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-daytime.md) — Renewed trade-war coverage and disputed Section 338 tariffs sustain legal, border-economy, and retaliation risk.
+- [2026-08-24: Morning Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-daytime.md) — Renewed trade-war coverage and disputed Section 338 tariffs sustain legal, border-economy, and retaliation risk.
 
-- [2026-08-24: Midnight Dispatch — Monday, August 24, 2026](../sources/newsletter-2026-08-24-midnight.md) — Disputed Section 338 tariffs and trade-war concern raise legal, border-economy, and retaliation risk.
+- [2026-08-24: Midnight Dispatch — Monday, August 24, 2026](../sources/newsletters/newsletter-2026-08-24-midnight.md) — Disputed Section 338 tariffs and trade-war concern raise legal, border-economy, and retaliation risk.
 
-- [2026-08-23: Evening Brief — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-evening.md) — Stalled bilateral talks and disputed Section 338 tariffs raise border-economy and retaliation risk.
+- [2026-08-23: Evening Brief — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-evening.md) — Stalled bilateral talks and disputed Section 338 tariffs raise border-economy and retaliation risk.
 
-- [2026-08-23: Morning Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-daytime.md) — Failed U.S.–Canada negotiations trigger a new tariff round and Canadian retaliation.
+- [2026-08-23: Morning Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-daytime.md) — Failed U.S.–Canada negotiations trigger a new tariff round and Canadian retaliation.
 
-- [2026-08-23: Midnight Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-midnight.md) — Failed U.S.–Canada negotiations trigger another tariff round and Canadian retaliation.
+- [2026-08-23: Midnight Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-midnight.md) — Failed U.S.–Canada negotiations trigger another tariff round and Canadian retaliation.
 
-- [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-evening.md) — Failed U.S.–Canada trade talks trigger a new tariff round and immediate Canadian retaliation.
+- [2026-08-22: Evening Brief — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-evening.md) — Failed U.S.–Canada trade talks trigger a new tariff round and immediate Canadian retaliation.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Donald Trump threatens tariffs against Canada over wildfire smoke, turning air-quality harm into a trade-policy escalation claim.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Canadian wildfire-smoke headlines and Trump tariff threats keep Canada tied to air-quality policy and trade leverage.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Donald Trump threatens tariffs against Canada over wildfire smoke, turning air-quality harm into a trade-policy escalation claim.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Canadian wildfire-smoke headlines and Trump tariff threats keep Canada tied to air-quality policy and trade leverage.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Canadian wildfire smoke triggers air-quality alerts for millions, keeping Canada tied to cross-border environmental and public-health impacts.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Canadian wildfire smoke triggers air-quality alerts for millions, keeping Canada tied to cross-border environmental and public-health impacts.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Canada becomes the explicit target of an additional 50% Trump tariff headline.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Trump's additional 50% tariff threat keeps Canada in the trade-escalation and inflation-risk graph after wildfire-smoke tariff claims earlier in July.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Canada becomes the explicit target of an additional 50% Trump tariff headline.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Trump's additional 50% tariff threat keeps Canada in the trade-escalation and inflation-risk graph after wildfire-smoke tariff claims earlier in July.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Canada remains tied to wildfire and tariff/political-blame coverage as Trump attributes smoke/fire impacts northward while scientists point to climate change.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Canada remains tied to wildfire and tariff/political-blame coverage as Trump attributes smoke/fire impacts northward while scientists point to climate change.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Mark Carney says Canada is ready to respond if new Trump tariffs are enacted, extending the retaliation thread.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Mark Carney says Canada is ready to respond if new Trump tariffs are enacted, extending the retaliation thread.
 
 ## Related
 

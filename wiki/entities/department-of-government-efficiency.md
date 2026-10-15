@@ -15,7 +15,7 @@ The Department of Government Efficiency, commonly abbreviated DOGE in the newsle
 
 ## Sources
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Top-story stack reports DOGE officially shutting down, making the entity a short-lived but notable administration node.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Top-story stack reports DOGE officially shutting down, making the entity a short-lived but notable administration node.
 
 ## Related
 

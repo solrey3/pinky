@@ -15,7 +15,7 @@ The United States men's national soccer team appears here through managerial con
 
 ## Sources
 
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — ESPN reports Mauricio Pochettino signed a new deal to remain manager through 2030.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — ESPN reports Mauricio Pochettino signed a new deal to remain manager through 2030.
 
 ## Related
 

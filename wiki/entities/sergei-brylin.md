@@ -15,13 +15,13 @@ Brylin is named head coach of Dinamo Minsk, linking a Devils figure to European 
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Brylin is named head coach of Dinamo Minsk, linking a Devils figure to European coaching movement.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Brylin is named head coach of Dinamo Minsk, linking a Devils figure to European coaching movement.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Brylin is named head coach of Dinamo Minsk in the Devils news feed.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Brylin is named head coach of Dinamo Minsk in the Devils news feed.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Brylin is noted as Dinamo Minsk head coach in the Devils update stack.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Brylin is noted as Dinamo Minsk head coach in the Devils update stack.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Named head coach of Dinamo Minsk in a Devils blog item.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Named head coach of Dinamo Minsk in a Devils blog item.
 
 ## Related
 

@@ -34,7 +34,7 @@ His death at 72 was noted across both fandoms simultaneously — the *Buffy* com
 
 ## Sources
 
-- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Death notice**: Anthony Head, actor, died at 72. Known as Giles (*Buffy the Vampire Slayer*) and Rupert Hendricks (*Ted Lasso*). Noted as "a class act on both sides of the Atlantic."
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — **Death notice**: Anthony Head, actor, died at 72. Known as Giles (*Buffy the Vampire Slayer*) and Rupert Hendricks (*Ted Lasso*). Noted as "a class act on both sides of the Atlantic."
 
 ## Related
 

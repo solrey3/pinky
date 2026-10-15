@@ -14,9 +14,9 @@ Executive removal authority is the legal and constitutional question of how much
 
 ## Sources
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Supreme Court expansion of Trump's firing power heads for a new test, keeping independent-agency protection and presidential control in dispute.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Supreme Court expansion of Trump's firing power heads for a new test, keeping independent-agency protection and presidential control in dispute.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Academic calls to restore agency independence after Trump v. Slaughter extend the independent-commission removal-power debate.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Academic calls to restore agency independence after Trump v. Slaughter extend the independent-commission removal-power debate.
 
 ## Related Concepts
 

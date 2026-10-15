@@ -15,7 +15,7 @@ BYD is a Chinese electric-vehicle and battery manufacturer tracked in the newsle
 
 ## Sources
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Tesla-rival BYD appears in business coverage for overseas-demand strength and flash-charging momentum.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Tesla-rival BYD appears in business coverage for overseas-demand strength and flash-charging momentum.
 
 ## Related
 

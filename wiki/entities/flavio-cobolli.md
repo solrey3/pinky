@@ -40,7 +40,7 @@ Cobolli is unseeded, which makes the structural parallel to the women's draw str
 
 ## Sources
 
-- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — **Roland Garros SF: walkover** after Matteo Arnaldi withdrew before their scheduled SF. Men's Final confirmed: Cobolli vs. (2) Alexander Zverev. "Cobolli advanced w/o — Matteo Arnaldi withdrew before their semifinal."
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — **Roland Garros SF: walkover** after Matteo Arnaldi withdrew before their scheduled SF. Men's Final confirmed: Cobolli vs. (2) Alexander Zverev. "Cobolli advanced w/o — Matteo Arnaldi withdrew before their semifinal."
 
 ## Related
 

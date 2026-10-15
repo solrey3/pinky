@@ -16,7 +16,7 @@ Deep learning researcher and practitioner. Founding member of OpenAI, former Dir
 ## Sources
 
 - [2026-05-09: LLM Wiki — A Pattern for Building Personal Knowledge Bases Using LLMs](../sources/karpathy-llm-wiki-pattern.md) — Proposes an LLM-maintained personal wiki architecture as an alternative to stateless RAG.
-- [2026-05-19: Newsletter 2026-05-19](../sources/newsletter-2026-05-19.md) — Announced joining Anthropic; top HN story of the day (1,030 upvotes). Second major Anthropic talent acquisition in 24 hours after the Stainless acquisition.
+- [2026-05-19: Newsletter 2026-05-19](../sources/newsletters/newsletter-2026-05-19.md) — Announced joining Anthropic; top HN story of the day (1,030 upvotes). Second major Anthropic talent acquisition in 24 hours after the Stainless acquisition.
 
 ## Related
 

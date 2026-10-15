@@ -14,13 +14,13 @@ mRNA vaccine safety is the evidence and risk-communication problem around vaccin
 
 ## Sources
 
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Autism/vaccine-investigation politics reopens vaccine-safety claims as a governance and evidence-quality issue.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Autism/vaccine-investigation politics reopens vaccine-safety claims as a governance and evidence-quality issue.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The RFK Jr. vaccine-investigation item keeps vaccine-safety evidence and public-health trust in the graph.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — The RFK Jr. vaccine-investigation item keeps vaccine-safety evidence and public-health trust in the graph.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — A Reason headline cites a large review of billions of mRNA vaccine shots confirming safety and efficacy, keeping vaccine-risk claims tied to population-scale evidence rather than anecdote.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — A Reason headline cites a large review of billions of mRNA vaccine shots confirming safety and efficacy, keeping vaccine-risk claims tied to population-scale evidence rather than anecdote.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — The Reason mRNA safety/efficacy study headline repeats in the daytime top stories, reinforcing population-scale evidence as the relevant frame.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — The Reason mRNA safety/efficacy study headline repeats in the daytime top stories, reinforcing population-scale evidence as the relevant frame.
 
 ## Related Concepts
 

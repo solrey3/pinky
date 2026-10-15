@@ -15,13 +15,13 @@ Luchador tracked through AAA and crossover wrestling coverage.
 
 ## Sources
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Rey Fenix retains in AAA Verano de Escándalo Night 2 coverage.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Rey Fenix retains in AAA Verano de Escándalo Night 2 coverage.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Retains at AAA Verano De Escándalo Night 2.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Retains at AAA Verano De Escándalo Night 2.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Rey Fenix retaining at AAA Verano de Escándalo stays in the wrestling results feed.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Rey Fenix retaining at AAA Verano de Escándalo stays in the wrestling results feed.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Retains at AAA Verano de Escándalo and anchors same-night lucha results.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Retains at AAA Verano de Escándalo and anchors same-night lucha results.
 
 ## Related
 

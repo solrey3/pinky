@@ -18,9 +18,9 @@ The view that politics operates under different ethical constraints than private
 - [2026-05-10: The Art of War — Wisdom Extracted](sources/the-art-of-war.md) — "All warfare is based on deception" — strategic deception as a necessity, not a vice
 - [2026-05-10: The Aeneid — Wisdom Extracted](sources/the-aeneid.md) — Aeneas's killing of Turnus reveals the moral cost of founding states
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Israel-aid dissent, Arabian Sea tanker action, and Pew China/U.S. favorability data all mark statecraft as a contest over hard power, alliances, and legitimacy.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Israel-aid dissent, Arabian Sea tanker action, and Pew China/U.S. favorability data all mark statecraft as a contest over hard power, alliances, and legitimacy.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Iran/Iraq strike reporting and the Reason narcoterrorist-language critique show how security framing can expand coercive state action and blur enforcement with war-making.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Iran/Iraq strike reporting and the Reason narcoterrorist-language critique show how security framing can expand coercive state action and blur enforcement with war-making.
 
 ## Related Concepts
 

@@ -15,188 +15,188 @@ Tesla is an electric-vehicle and autonomy company. In the newsletter graph, Tesl
 
 ## Sources
 
-- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-daytime.md) — Reportedly beats EV-sales expectations while TSLA records a negative 0.41% completed-week move.
+- [2026-10-03: Morning Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-daytime.md) — Reportedly beats EV-sales expectations while TSLA records a negative 0.41% completed-week move.
 
-- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletter-2026-10-03-midnight.md) — Reportedly beats EV-sales expectations while TSLA records a negative 0.41% completed-week move.
+- [2026-10-03: Midnight Dispatch — Saturday, October 3, 2026](../sources/newsletters/newsletter-2026-10-03-midnight.md) — Reportedly beats EV-sales expectations while TSLA records a negative 0.41% completed-week move.
 
-- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-noon.md) — Wall Street reportedly expects a delivery decline; TSLA falls 5.38% in the broad noon selloff.
+- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-noon.md) — Wall Street reportedly expects a delivery decline; TSLA falls 5.38% in the broad noon selloff.
 
-- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-noon.md) — Heavy electric-truck deployment remains constrained by charging infrastructure; TSLA falls 4.06% in the noon snapshot.
+- [2026-09-28: Noon Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-noon.md) — Heavy electric-truck deployment remains constrained by charging infrastructure; TSLA falls 4.06% in the noon snapshot.
 
-- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Repeats that charging capacity constrains heavy electric-truck deployment; TSLA gains 2.15% in the market snapshot.
+- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-daytime.md) — Repeats that charging capacity constrains heavy electric-truck deployment; TSLA gains 2.15% in the market snapshot.
 
-- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-midnight.md) — Repeats that charging capacity constrains heavy electric-truck deployment; TSLA gains 2.15% in the market snapshot.
+- [2026-09-28: Midnight Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-midnight.md) — Repeats that charging capacity constrains heavy electric-truck deployment; TSLA gains 2.15% in the market snapshot.
 
-- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — Repeats that heavy electric-truck deployment depends on matching charging capacity; TSLA gains 2.15% in the completed-week snapshot.
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-evening.md) — Repeats that heavy electric-truck deployment depends on matching charging capacity; TSLA gains 2.15% in the completed-week snapshot.
 
-- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Its heavy electric truck is presented as constrained by charging infrastructure, linking vehicle capability to deployment readiness.
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-noon.md) — Its heavy electric truck is presented as constrained by charging infrastructure, linking vehicle capability to deployment readiness.
 
-- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-noon.md) — Repeats worker resistance to training Optimus robots framed as replacements, reinforcing labor agency as an automation-deployment constraint.
+- [2026-09-26: Noon Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-noon.md) — Repeats worker resistance to training Optimus robots framed as replacements, reinforcing labor agency as an automation-deployment constraint.
 
-- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-daytime.md) — Repeats worker resistance to training Optimus robots framed as replacements, reinforcing labor agency as an automation-deployment constraint.
+- [2026-09-26: Morning Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-daytime.md) — Repeats worker resistance to training Optimus robots framed as replacements, reinforcing labor agency as an automation-deployment constraint.
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Workers reportedly resist training Optimus robots framed as potential replacements, adding labor agency and implementation resistance to Tesla's automation record.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Workers reportedly resist training Optimus robots framed as potential replacements, adding labor agency and implementation resistance to Tesla's automation record.
 
-- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-noon.md) — High diesel prices are framed as an opening for its electric-trucking push; TSLA gains 2.76% in the noon snapshot.
+- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-noon.md) — High diesel prices are framed as an opening for its electric-trucking push; TSLA gains 2.76% in the noon snapshot.
 
-- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletter-2026-09-11-evening.md) — Electric trucking is pitched as an opportunity amid high diesel prices, while TSLA falls 2.90% in the broad selloff.
+- [2026-09-11: Evening Brief — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-evening.md) — Electric trucking is pitched as an opportunity amid high diesel prices, while TSLA falls 2.90% in the broad selloff.
 
-- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-noon.md) — Its Cybercab rollout reportedly faces an NHTSA safety probe; TSLA gains 1.53%.
+- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-noon.md) — Its Cybercab rollout reportedly faces an NHTSA safety probe; TSLA gains 1.53%.
 
-- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-midnight.md) — Its Cybercab rollout reportedly faces an NHTSA safety probe; TSLA gains 1.53%.
+- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-midnight.md) — Its Cybercab rollout reportedly faces an NHTSA safety probe; TSLA gains 1.53%.
 
-- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-evening.md) — Its Cybercab rollout reportedly faces an NHTSA safety probe; TSLA gains 1.53%.
+- [2026-09-06: Evening Brief — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-evening.md) — Its Cybercab rollout reportedly faces an NHTSA safety probe; TSLA gains 1.53%.
 
-- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-noon.md) — Its deployed Cybercab reportedly faces immediate investigation; TSLA gains 1.53%.
+- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-noon.md) — Its deployed Cybercab reportedly faces immediate investigation; TSLA gains 1.53%.
 
-- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-daytime.md) — Its Cybercab rollout is reportedly already under NHTSA investigation; TSLA gains 1.53%.
+- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-daytime.md) — Its Cybercab rollout is reportedly already under NHTSA investigation; TSLA gains 1.53%.
 
-- [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-midnight.md) — Its deployed Cybercab is reportedly already under federal investigation; TSLA gains 1.53%.
+- [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-midnight.md) — Its deployed Cybercab is reportedly already under federal investigation; TSLA gains 1.53%.
 
-- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-evening.md) — NHTSA probes the Cybercab rollout, keeping commercial deployment separate from verified autonomous-driving safety; TSLA gains 1.53%.
+- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-evening.md) — NHTSA probes the Cybercab rollout, keeping commercial deployment separate from verified autonomous-driving safety; TSLA gains 1.53%.
 
-- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-noon.md) — The Cybercab rollout reportedly draws an immediate federal investigation; TSLA gains 1.53%.
+- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-noon.md) — The Cybercab rollout reportedly draws an immediate federal investigation; TSLA gains 1.53%.
 
-- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-daytime.md) — NHTSA probes the Cybercab rollout, separating commercial launch claims from verified autonomous-driving safety; TSLA gains 1.53%.
+- [2026-09-05: Morning Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-daytime.md) — NHTSA probes the Cybercab rollout, separating commercial launch claims from verified autonomous-driving safety; TSLA gains 1.53%.
 
-- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — NHTSA opens a probe after the Cybercab rollout, separating launch claims from verified autonomous-driving safety; TSLA gains 1.53%.
+- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-midnight.md) — NHTSA opens a probe after the Cybercab rollout, separating launch claims from verified autonomous-driving safety; TSLA gains 1.53%.
 
-- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletter-2026-09-04-evening.md) — NHTSA opens a probe alongside the Cybercab rollout, keeping launch claims separate from verified autonomous-driving safety; TSLA gains 1.53%.
+- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-evening.md) — NHTSA opens a probe alongside the Cybercab rollout, keeping launch claims separate from verified autonomous-driving safety; TSLA gains 1.53%.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Debuts a camera-first Cybercab positioned against Waymo’s lidar-supported approach; TSLA gains 0.85%.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Debuts a camera-first Cybercab positioned against Waymo’s lidar-supported approach; TSLA gains 0.85%.
 
-- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Debuts a camera-led Cybercab robotaxi vision positioned against Waymo's lidar-supported approach and gains 6.08%.
+- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-daytime.md) — Debuts a camera-led Cybercab robotaxi vision positioned against Waymo's lidar-supported approach and gains 6.08%.
 
-- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Rises 8.05%, the largest gain on the tracked stock board.
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-noon.md) — Rises 8.05%, the largest gain on the tracked stock board.
 
-- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-daytime.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch.
-- [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-midnight.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch, resisting the broad equity selloff.
-- [2026-08-21: Evening Brief — Friday, August 21, 2026](../sources/newsletter-2026-08-21-evening.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch.
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — TSLA gains 6.48% while the tech desk separately flags continued scrutiny of Tesla China wholesale sales.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — TSLA gains 6.48%, while the AI/tech desk asks how long China can remain Tesla's cash cow.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — TSLA gains 4.16%, contributing high-beta support to the risk-on stock-watch table.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Trades near the low end of its 52-week range while Cathie Wood doubles down on Tesla and SpaceX.
+- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-daytime.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch.
+- [2026-08-22: Midnight Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-midnight.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch, resisting the broad equity selloff.
+- [2026-08-21: Evening Brief — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-evening.md) — Gains 6.02% after regulatory clearance advances a Las Vegas robotaxi launch.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — TSLA gains 6.48% while the tech desk separately flags continued scrutiny of Tesla China wholesale sales.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — TSLA gains 6.48%, while the AI/tech desk asks how long China can remain Tesla's cash cow.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — TSLA gains 4.16%, contributing high-beta support to the risk-on stock-watch table.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Trades near the low end of its 52-week range while Cathie Wood doubles down on Tesla and SpaceX.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Tesla stays in the stock watch while BYD competition headlines emphasize overseas EV pressure.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Tesla stays in the stock watch while BYD competition headlines emphasize overseas EV pressure.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Tesla remains weak and near the low end of its 52-week range.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Tesla remains weak and near the low end of its 52-week range.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Tesla remains slightly lower and near the bottom of its quoted 52-week range.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Tesla remains slightly lower and near the bottom of its quoted 52-week range.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Tesla remains slightly negative and near the lower end of its fetched 52-week range, keeping high-beta stress visible.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Tesla remains slightly negative and near the lower end of its fetched 52-week range, keeping high-beta stress visible.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — TSLA remains near its 52-week low even as the broader market rallies.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — TSLA remains near its 52-week low even as the broader market rallies.
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Falls 3.39%, keeping high-beta growth exposure weak inside an otherwise mixed-to-green broad-index board.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Declines 3.39%, another high-beta weak spot in a mixed-close tape.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Falls 3.39%, keeping high-beta growth exposure under pressure.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Tesla falls 4.48%, joining chips as a high-beta stress point while quality/value pockets hold up.
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — NHTSA investigates an alleged Tesla Autopilot crash that killed a woman in her home, extending driver-assist risk beyond vehicle occupants into public/private space safety.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Falls 3.39%, keeping high-beta growth exposure weak inside an otherwise mixed-to-green broad-index board.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Declines 3.39%, another high-beta weak spot in a mixed-close tape.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Falls 3.39%, keeping high-beta growth exposure under pressure.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Tesla falls 4.48%, joining chips as a high-beta stress point while quality/value pockets hold up.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — NHTSA investigates an alleged Tesla Autopilot crash that killed a woman in her home, extending driver-assist risk beyond vehicle occupants into public/private space safety.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Rallies **+10.22%**, functioning here as a high-beta risk-on market signal rather than an autonomy/regulatory update.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Rallies **+10.22%**, functioning here as a high-beta risk-on market signal rather than an autonomy/regulatory update.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Rises **+10.22%**, again functioning as a high-beta market-risk signal rather than a fresh autonomy/regulatory update.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Rises **+10.22%**, again functioning as a high-beta market-risk signal rather than a fresh autonomy/regulatory update.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Tesla jumps **+13.25%**, the clearest high-beta signal in the evening risk-on equity close.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Tesla jumps **+13.25%**, the clearest high-beta signal in the evening risk-on equity close.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Tesla jumps **+13.25%**, again functioning as the loudest high-beta risk-on signal in the stock-watch table.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — Tesla jumps **+13.25%**, again functioning as the loudest high-beta risk-on signal in the stock-watch table.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Tesla gains **+4.89%**, keeping high-beta risk appetite visible even as semiconductors are mixed.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Tesla gains **+4.89%**, keeping high-beta risk appetite visible even as semiconductors are mixed.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Tesla gains **+4.89%**, staying in the high-beta risk-on column even as chips lag.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Tesla gains **+4.89%**, staying in the high-beta risk-on column even as chips lag.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Tesla gains **4.89%**, contributing high-beta strength even as semiconductors lag.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Tesla gains **4.89%**, contributing high-beta strength even as semiconductors lag.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Tesla rises **+4.89%**, remaining one of the high-beta confirmations of the risk-on equity board.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Tesla rises **+4.89%**, remaining one of the high-beta confirmations of the risk-on equity board.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Tesla remains a high-beta winner at **+4.89%**, supporting equity risk appetite even as chips lag.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Tesla remains a high-beta winner at **+4.89%**, supporting equity risk appetite even as chips lag.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Tesla remains a high-beta winner at **+4.89%**, supporting equity risk appetite even as chip leadership lags.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Tesla remains a high-beta winner at **+4.89%**, supporting equity risk appetite even as chip leadership lags.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Rises **+4.89%**, contributing to the high-beta/large-cap risk-on side of the board.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Rises **+4.89%**, contributing to the high-beta/large-cap risk-on side of the board.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Tesla jumps **+10.55%**, one of the source's major move alerts and a clear high-beta risk-on confirmation.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Tesla jumps **+10.55%**, one of the source's major move alerts and a clear high-beta risk-on confirmation.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Tesla falls **2.17%**, showing that high-beta leadership is not uniform even as the S&P and Dow close green.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Tesla falls **2.17%**, showing that high-beta leadership is not uniform even as the S&P and Dow close green.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Tesla falls **6.31%**, adding high-beta single-stock weakness to the mixed-close read.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Tesla falls **6.31%**, adding high-beta single-stock weakness to the mixed-close read.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Tesla drops **6.31%**, adding another high-beta stress point to the mixed market tape.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — Tesla drops **6.31%**, adding another high-beta stress point to the mixed market tape.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Tesla drops 4.41%, a major single-name negative inside an otherwise green large-index close.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Tesla drops 4.41%, a major single-name negative inside an otherwise green large-index close.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Tesla falls 4.41%, making high-beta growth exposure one of the non-confirming pockets under green headline indexes.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Tesla falls 4.41%, making high-beta growth exposure one of the non-confirming pockets under green headline indexes.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Tesla rises **3.64%** in a tech-led rally, adding high-beta support after earlier mixed tape readings.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Tesla rises **3.64%** in a tech-led rally, adding high-beta support after earlier mixed tape readings.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Tesla gains 3.64% in the weekly stock-watch table, participating in growth-stock strength.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Tesla gains 3.64% in the weekly stock-watch table, participating in growth-stock strength.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Tesla gains 3.64% on the weekly stock-watch board, supporting high-beta risk appetite but not leading the tape.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Tesla gains **3.64%**, supporting the risk-on side of the weekly stock watch.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Tesla gains 3.64% on the weekly stock-watch board, supporting high-beta risk appetite but not leading the tape.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Tesla gains **3.64%**, supporting the risk-on side of the weekly stock watch.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Tesla rises 3.64% in the stock-watch table, participating in the risk-on growth tape.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Tesla rises 3.64% in the stock-watch table, participating in the risk-on growth tape.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Tesla rises 3.64%, adding to the large-cap risk-on side of the board without fixing breadth weakness.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Tesla rises 3.64%, adding to the large-cap risk-on side of the board without fixing breadth weakness.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Tesla drops **5.96%**, adding to the high-beta weakness in the close.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Tesla drops **5.96%**, adding to the high-beta weakness in the close.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Tesla falls **5.96%**, a high-beta confirmation of the day's risk-off market tone.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Tesla falls **5.96%**, a high-beta confirmation of the day's risk-off market tone.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Tesla falls **1.67%**, adding another high-beta caveat to the Nasdaq-led recovery.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Tesla falls **1.67%**, adding another high-beta caveat to the Nasdaq-led recovery.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Tesla is down **1.67%**, another sign that the growth-stock board is narrower than the headline Nasdaq move.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Tesla is down **1.67%**, another sign that the growth-stock board is narrower than the headline Nasdaq move.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Tesla is nearly flat at **+0.10%**, not confirming the stronger mega-cap/growth move.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Tesla is nearly flat at **+0.10%**, not confirming the stronger mega-cap/growth move.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Tesla is nearly flat at **+0.10%**, neither confirming nor breaking the large-cap rally.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Tesla is nearly flat at **+0.10%**, neither confirming nor breaking the large-cap rally.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Tesla falls 3.81%, adding to the Nasdaq/Russell weakness underneath the mixed close.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Tesla falls 3.81%, adding to the Nasdaq/Russell weakness underneath the mixed close.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Tesla falls **6.60%**, reinforcing the high-beta risk-off character of the close.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Tesla falls **6.60%**, reinforcing the high-beta risk-off character of the close.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Tesla falls **6.60%**, keeping high-beta consumer-growth exposure in the weak side of the board.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Tesla falls 6.60%, contributing to the high-beta/growth side of the risk-off read.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Tesla falls **6.60%**, keeping high-beta consumer-growth exposure in the weak side of the board.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Tesla falls 6.60%, contributing to the high-beta/growth side of the risk-off read.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Tesla drops 6.60%, keeping high-beta growth pressure visible beside chip weakness.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Tesla drops 6.60%, keeping high-beta growth pressure visible beside chip weakness.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Tesla falls 6.60%, reinforcing that the risk-off pressure is broader than chips alone.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Tesla falls 6.60%, reinforcing that the risk-off pressure is broader than chips alone.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Tesla falls 6.38%, keeping speculative/high-beta exposure under pressure.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Tesla falls 6.38%, keeping high-beta consumer-tech exposure under pressure.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Tesla falls 6.38%, keeping speculative/high-beta exposure under pressure.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Tesla falls 6.38%, keeping high-beta consumer-tech exposure under pressure.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Tesla drops 4.35%, keeping EV/high-beta weakness in the risk-off rotation read.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Tesla drops 4.35%, keeping EV/high-beta weakness in the risk-off rotation read.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Tesla falls 4.35%, reinforcing high-beta weakness despite resilient small-cap/value pockets.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Tesla falls 4.35%, reinforcing high-beta weakness despite resilient small-cap/value pockets.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Tesla falls 5.18%, reinforcing high-beta weakness in the evening market board.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Tesla falls 5.18%, reinforcing high-beta weakness in the evening market board.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Tesla falls 5.18%, another large high-beta drag in the selective risk-off setup.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Tesla falls 5.18%, another large high-beta drag in the selective risk-off setup.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Tesla plunges 18.25%, the clearest high-beta stress signal in the evening close.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Tesla drops 18.25%, the main single-name shock in the daytime market board.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Tesla plunges 18.25%, the clearest high-beta stress signal in the evening close.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Tesla drops 18.25%, the main single-name shock in the daytime market board.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Tesla falls 17.81% and trades near its 52-week low, making it the clearest high-beta stress signal.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Tesla falls 17.81% and trades near its 52-week low, making it the clearest high-beta stress signal.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Falls 17.81%, the standout single-stock damage in the daytime market board.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Falls 17.81%, the standout single-stock damage in the daytime market board.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Falls 17.81% and sits near its 52-week low, the loudest high-beta single-stock stress signal.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Falls 17.81% and sits near its 52-week low, the loudest high-beta single-stock stress signal.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Tesla falls 17.81%, remaining the loudest high-beta single-stock stress point.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Tesla falls 17.81% and sits near its 52-week low, again the loudest high-beta stress signal.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Tesla falls 17.81%, remaining the loudest high-beta single-stock stress point.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Tesla falls 17.81% and sits near its 52-week low, again the loudest high-beta stress signal.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Tesla is the major single-name shock at -17.81%.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Tesla is the major single-name shock at -17.81%.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Tesla plunges 16.33%, the evening close’s largest single-name market shock.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Tesla plunges 16.33%, the evening close’s largest single-name market shock.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Drops **-16.33%**, the major single-name shock in the stock watch.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Drops **-16.33%**, the major single-name shock in the stock watch.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Drops sharply and is cited as a company hurt by soaring AI spending.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Drops sharply and is cited as a company hurt by soaring AI spending.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Tesla drops 19.55%, one of the major high-beta damage alerts in the noon tape.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Tesla drops 19.55%, one of the major high-beta damage alerts in the noon tape.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Falls 20.24% and sits just above its 52-week low, making Tesla one of the high-beta stress signals.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Falls 20.24% and leans on its 52-week low, making high-beta growth stress visible outside semiconductors.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Falls 20.24% and sits just above its 52-week low, making Tesla one of the high-beta stress signals.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Falls 20.24% and leans on its 52-week low, making high-beta growth stress visible outside semiconductors.
 
 ## Related
 

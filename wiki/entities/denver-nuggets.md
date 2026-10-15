@@ -15,7 +15,7 @@ NBA franchise.
 
 ## Sources
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Denver matches Oklahoma City's offer sheet for Spencer Jones, keeping him in-house.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Denver matches Oklahoma City's offer sheet for Spencer Jones, keeping him in-house.
 
 ## Related
 

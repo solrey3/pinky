@@ -15,7 +15,7 @@ Mauricio Pochettino is a soccer manager tracked here through the USMNT continuit
 
 ## Sources
 
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — ESPN reports he signed a new deal to remain USMNT manager through 2030.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — ESPN reports he signed a new deal to remain USMNT manager through 2030.
 
 ## Related
 

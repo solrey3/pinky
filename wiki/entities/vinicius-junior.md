@@ -15,7 +15,7 @@ Vinícius Júnior is a Brazilian footballer tracked here through transfer-rumor 
 
 ## Sources
 
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — ESPN transfer-rumor coverage says Mikel Arteta is trying to convince him to join Arsenal.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — ESPN transfer-rumor coverage says Mikel Arteta is trying to convince him to join Arsenal.
 
 ## Related
 

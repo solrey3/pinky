@@ -15,14 +15,14 @@ Rhea Ripley is a WWE wrestler tracked when major injury, title, and television-s
 
 ## Sources
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Ripley confirms knee surgery after other treatment options were exhausted.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Ripley confirms knee surgery after other treatment options were exhausted.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Ripley reveals a meniscus tear, making her return timeline uncertain in the WWE injury thread.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Ripley's meniscus tear remains in the WWE injury thread, with her return timeline still uncertain.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Ripley reveals a meniscus tear, making her return timeline uncertain in the WWE injury thread.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Ripley's meniscus tear remains in the WWE injury thread, with her return timeline still uncertain.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Rhea Ripley is not cleared for SummerSlam, forcing WWE to crown an interim Women's Champion.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Rhea Ripley is not cleared for SummerSlam, forcing WWE to crown an interim Women's Champion.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — A backstage injury update keeps Rhea Ripley in the WWE availability and creative-planning thread.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — A backstage injury update keeps Rhea Ripley in the WWE availability and creative-planning thread.
 
 ## Related
 

@@ -14,27 +14,27 @@ Federal AI governance is the allocation of authority, accountability, standards,
 
 ## Sources
 
-- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-daytime.md) — Paired “kill switch” and artificial-superintelligence-ban proposals connect technical intervention controls to statutory definitions, jurisdiction, auditability, international coordination, and enforcement.
+- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-daytime.md) — Paired “kill switch” and artificial-superintelligence-ban proposals connect technical intervention controls to statutory definitions, jurisdiction, auditability, international coordination, and enforcement.
 
-- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-midnight.md) — Sanders's proposed artificial-superintelligence ban raises definitional, jurisdictional, verification, international-coordination, and enforcement questions.
+- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-midnight.md) — Sanders's proposed artificial-superintelligence ban raises definitional, jurisdictional, verification, international-coordination, and enforcement questions.
 
-- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-noon.md) — A reported crackdown on AI glasses extends governance to wearable sensing, privacy, surveillance, disclosure, and enforceable limits on collection and downstream use.
+- [2026-10-05: Noon Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-noon.md) — A reported crackdown on AI glasses extends governance to wearable sensing, privacy, surveillance, disclosure, and enforceable limits on collection and downstream use.
 
-- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-daytime.md) — Sanders' reported support for Pope Leo's defense of human art extends AI governance into provenance, consent, compensation, authorship, and cultural-policy questions.
+- [2026-10-05: Morning Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-daytime.md) — Sanders' reported support for Pope Leo's defense of human art extends AI governance into provenance, consent, compensation, authorship, and cultural-policy questions.
 
-- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Sam Altman's reported acceptance of some AI harms underscores that governance needs publicly accountable risk thresholds, independent evaluation, disclosure, incident response, and remedies rather than vendor-defined tolerance alone.
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-midnight.md) — Sam Altman's reported acceptance of some AI harms underscores that governance needs publicly accountable risk thresholds, independent evaluation, disclosure, incident response, and remedies rather than vendor-defined tolerance alone.
 
-- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — The FAA's operational AI deployment shows that federal governance includes assurance, operator authority, monitoring, and fallback in safety-critical systems.
+- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-midnight.md) — The FAA's operational AI deployment shows that federal governance includes assurance, operator authority, monitoring, and fallback in safety-critical systems.
 
-- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-evening.md) — A critique that AI-safety regulation may worsen risk highlights the need to evaluate regulatory incentives, unintended consequences, and enforceability rather than treating rules as inherently protective.
+- [2026-09-22: Evening Brief — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-evening.md) — A critique that AI-safety regulation may worsen risk highlights the need to evaluate regulatory incentives, unintended consequences, and enforceability rather than treating rules as inherently protective.
 
-- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — Questions about congressional technical fluency show that rulemaking legitimacy depends partly on institutional expertise, independent advice, and the ability to scrutinize technical claims.
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-noon.md) — Questions about congressional technical fluency show that rulemaking legitimacy depends partly on institutional expertise, independent advice, and the ability to scrutinize technical claims.
 
-- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — OpenAI's request for U.S.-led global safety standards makes international legitimacy, coordination, and enforceability part of federal AI governance.
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-daytime.md) — OpenAI's request for U.S.-led global safety standards makes international legitimacy, coordination, and enforceability part of federal AI governance.
 
-- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletter-2026-09-21-evening.md) — OpenAI's call for U.S.-led global safety standards extends federal AI governance from domestic coordination into international standard-setting and legitimacy.
+- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-evening.md) — OpenAI's call for U.S.-led global safety standards extends federal AI governance from domestic coordination into international standard-setting and legitimacy.
 
-- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — A proposed White House “AI Force” and “AI Czar” illustrate centralized executive coordination of federal AI policy.
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-daytime.md) — A proposed White House “AI Force” and “AI Czar” illustrate centralized executive coordination of federal AI policy.
 
 ## Related Concepts
 

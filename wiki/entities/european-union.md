@@ -15,20 +15,20 @@ The European Union is tracked as a regulatory and geopolitical actor, especially
 
 ## Sources
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Appears through AI content-labeling rules taking effect August 2 with a December deadline for existing systems.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — EU AI content-labeling rules taking effect August 2 extend Europe’s role as a platform and AI-provenance regulator.
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — EU private-message-scanning revival coverage ties European regulation to privacy and communications-security tradeoffs.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Appears through AI content-labeling rules taking effect August 2 with a December deadline for existing systems.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — EU AI content-labeling rules taking effect August 2 extend Europe’s role as a platform and AI-provenance regulator.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — EU private-message-scanning revival coverage ties European regulation to privacy and communications-security tradeoffs.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — EU Parliament greenlighting Chat Control 1.0 makes private-message scanning a live child-safety versus encryption/privacy issue.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — EU Parliament greenlighting Chat Control 1.0 makes private-message scanning a live child-safety versus encryption/privacy issue.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — EU Parliament greenlighting Chat Control 1.0 again frames the EU as a privacy, child-safety, and communications-inspection regulator.
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — EU consideration of a child social-media ban keeps Europe in the online age-verification and platform-access debate.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — EU Parliament greenlighting Chat Control 1.0 again frames the EU as a privacy, child-safety, and communications-inspection regulator.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — EU consideration of a child social-media ban keeps Europe in the online age-verification and platform-access debate.
 
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — EU platform enforcement lands as a record $625M AliExpress fine after ordered fixes were not completed.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — EU platform enforcement lands as a record $625M AliExpress fine after ordered fixes were not completed.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Fines Google $1B and orders equal treatment for competitors, adding a platform-antitrust remedy to the EU regulation thread.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — EU Digital Markets Act enforcement against Google remains a platform-competition control point.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Fines Google $1B and orders equal treatment for competitors, adding a platform-antitrust remedy to the EU regulation thread.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — EU Digital Markets Act enforcement against Google remains a platform-competition control point.
 
 ## Related
 

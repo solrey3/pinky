@@ -15,18 +15,18 @@ President of Ukraine. In the newsletter graph, Zelensky appears as a wartime pol
 
 ## Sources
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Reportedly seeks Trump’s help persuading Musk to broaden Starlink access for Ukraine.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Reportedly seeks Trump’s help persuading Musk to broaden Starlink access for Ukraine.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Warns of a possible large Russian strike, keeping Ukraine escalation risk in the lead-news stack.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Warns of a possible large Russian strike, keeping Ukraine escalation risk in the lead-news stack.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Zelensky again warns of a planned major Russian strike, keeping him as the source-side anchor for Ukraine escalation risk.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — Zelensky again warns of a planned major Russian strike, keeping him as the source-side anchor for Ukraine escalation risk.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Set to huddle with Trump at the NATO Summit, keeping Ukraine diplomacy in the daily geopolitical stack.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Set to huddle with Trump at the NATO Summit, keeping Ukraine diplomacy in the daily geopolitical stack.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Says the U.S. and Ukraine are moving forward on joint drone production.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Says the U.S. and Ukraine are moving forward on joint drone production.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Says the U.S. and Ukraine are moving forward on joint drone production.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Says the U.S. and Ukraine are moving forward on joint drone production.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
 ## Related
 

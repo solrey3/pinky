@@ -35,20 +35,20 @@ source_count: 10
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/gunther.md)
-- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — SmackDown from Barcelona confirms **Gunther vs. Cody Rhodes for the Undisputed WWE Title to kick off Clash in Italy**. Sami Zayn revealed he let Gunther choke out Cody to "teach him a lesson." Cody clapped back in a promo for the ages.
-- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **Clash in Italy result**: Gunther **loses** to Cody Rhodes in a controversial finish — the WWE title does not change hands. Gunther's next step unclear; King of the Ring 2026 bracket was also revealed on the same card.
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation of loss. King and Queen of the Ring 2026 brackets being revealed on Raw tonight — Gunther's next chapter likely in this tournament or the road to the next major PLE.
-- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Gunther in the main event vs. Cody Rhodes. Cody pulled out the Stardust cartwheel mid-match; the crowd and a ringside Stardust cosplayer popped huge. Per r/SquaredCircle: *"The guy cosplaying Stardust at ringside absolutely lost it."* The Cody/Gunther dynamic has enough residual heat to draw house-show main events in Europe.
-- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletter-2026-06-05-evening.md) — **WWE SmackDown Bologna**: Cody Rhodes **agrees to defend the Undisputed WWE Title vs. Gunther on June 19 SmackDown**. Stipulation to be revealed June 12. Gunther gets another title shot on television — the feud is officially re-booked.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up advertises Gunther's June 19 WWE Championship rematch against Cody Rhodes.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletters/newsletter-2026-05-29-evening.md) — SmackDown from Barcelona confirms **Gunther vs. Cody Rhodes for the Undisputed WWE Title to kick off Clash in Italy**. Sami Zayn revealed he let Gunther choke out Cody to "teach him a lesson." Cody clapped back in a promo for the ages.
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletters/newsletter-2026-05-31-evening.md) — **Clash in Italy result**: Gunther **loses** to Cody Rhodes in a controversial finish — the WWE title does not change hands. Gunther's next step unclear; King of the Ring 2026 bracket was also revealed on the same card.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — Morning-after confirmation of loss. King and Queen of the Ring 2026 brackets being revealed on Raw tonight — Gunther's next chapter likely in this tournament or the road to the next major PLE.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Gunther in the main event vs. Cody Rhodes. Cody pulled out the Stardust cartwheel mid-match; the crowd and a ringside Stardust cosplayer popped huge. Per r/SquaredCircle: *"The guy cosplaying Stardust at ringside absolutely lost it."* The Cody/Gunther dynamic has enough residual heat to draw house-show main events in Europe.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — **WWE SmackDown Bologna**: Cody Rhodes **agrees to defend the Undisputed WWE Title vs. Gunther on June 19 SmackDown**. Stipulation to be revealed June 12. Gunther gets another title shot on television — the feud is officially re-booked.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — SmackDown follow-up advertises Gunther's June 19 WWE Championship rematch against Cody Rhodes.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Gunther is advertised alongside Sami Zayn against CM Punk and Cody Rhodes at Saturday Night’s Main Event.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Gunther is advertised alongside Sami Zayn against CM Punk and Cody Rhodes at Saturday Night’s Main Event.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Gunther can be added to the SummerSlam Undisputed WWE Championship match if he and Sami Zayn beat Cody Rhodes and CM Punk at SNME.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Gunther can be added to the SummerSlam Undisputed WWE Championship match if he and Sami Zayn beat Cody Rhodes and CM Punk at SNME.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Gunther is tied to the WWE headline making a Nick Aldis match official after a SummerSlam Kickoff altercation.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Gunther is tied to the WWE headline making a Nick Aldis match official after a SummerSlam Kickoff altercation.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Gunther vs. Nick Aldis is made official after a SummerSlam kickoff altercation.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Gunther vs. Nick Aldis is made official after a SummerSlam kickoff altercation.
 
 ## Related
 

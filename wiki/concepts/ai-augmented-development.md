@@ -14,155 +14,155 @@ The practice of integrating large language models and AI coding agents into the 
 
 ## Sources
 
-- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-noon.md) — An empirical coding-agent harness study shifts evaluation from model-only comparisons toward orchestration, context, tools, permissions, and reproducible system-level benchmarks.
+- [2026-09-18: Noon Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-noon.md) — An empirical coding-agent harness study shifts evaluation from model-only comparisons toward orchestration, context, tools, permissions, and reproducible system-level benchmarks.
 
-- [2026-08-15: Noon Dispatch — Saturday, August 15, 2026](../sources/newsletter-2026-08-15-noon.md) — A Codex auto-research experiment reportedly produces a 232× faster kernel, illustrating AI-assisted optimization whose value depends on reproducible benchmarks and correctness checks.
+- [2026-08-15: Noon Dispatch — Saturday, August 15, 2026](../sources/newsletters/newsletter-2026-08-15-noon.md) — A Codex auto-research experiment reportedly produces a 232× faster kernel, illustrating AI-assisted optimization whose value depends on reproducible benchmarks and correctness checks.
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — HN discourse argues LLMs reward expertise, making AI productivity dependent on skilled operators rather than generic prompting alone.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — LLM workflow and OpenAI mathematics items are framed as rewarding expertise, not replacing the need for expert operators.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Open-source-devtools arguments and Cloudflare’s Kimi/GLM scale notes connect AI development tooling to inspectability, serving cost, and deployment trust.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Qwen3.8-Max and open-source-devtools coverage put AI coding capability beside inspectable workflow infrastructure.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Qwen3.8-Max and the “meat proxy” essay frame AI coding as workflow design rather than raw model capability alone.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Qwen3.8-Max, Kakehashi, and developer-tool trust coverage extend coding-agent and systems-tool capability tracking.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — HN discourse argues LLMs reward expertise, making AI productivity dependent on skilled operators rather than generic prompting alone.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — LLM workflow and OpenAI mathematics items are framed as rewarding expertise, not replacing the need for expert operators.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Open-source-devtools arguments and Cloudflare’s Kimi/GLM scale notes connect AI development tooling to inspectability, serving cost, and deployment trust.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — Qwen3.8-Max and open-source-devtools coverage put AI coding capability beside inspectable workflow infrastructure.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Qwen3.8-Max and the “meat proxy” essay frame AI coding as workflow design rather than raw model capability alone.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Qwen3.8-Max, Kakehashi, and developer-tool trust coverage extend coding-agent and systems-tool capability tracking.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Kakehashi and tooling-trust items keep developer tooling, compatibility layers, and coding culture in the AI/dev workflow graph.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Kakehashi and tooling-trust items keep developer tooling, compatibility layers, and coding culture in the AI/dev workflow graph.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Go 1.27 tour, Diátaxis, Bor, and AI/security tooling chatter keep developer workflows in the AI-era tooling graph.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Go 1.27 tour, Diátaxis, Bor, and AI/security tooling chatter keep developer workflows in the AI-era tooling graph.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Cursor usage-page and CSV cost-transparency criticism keeps AI coding tools in the developer-trust, billing, and workflow-governance graph.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Cursor usage-page and CSV cost-transparency criticism keeps AI coding tools in the developer-trust, billing, and workflow-governance graph.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Flint and ripgrep coverage connect AI-era developer tooling to visualization languages and high-scale search reliability.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Flint and ripgrep coverage connect AI-era developer tooling to visualization languages and high-scale search reliability.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Microsoft Flint and AMD MI450 kernel optimization connect AI-era developer tooling to visualization and performance-engineering workflows.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Microsoft Flint and AMD MI450 kernel optimization connect AI-era developer tooling to visualization and performance-engineering workflows.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — GitHub stacked PRs make dependent changes more reviewable, turning code-review structure into an AI-era workflow control.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — GitHub stacked PRs make dependent code changes easier to stage and review as a first-party workflow.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — GitHub stacked pull requests add dependent-change review workflow to the developer-tooling graph.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — GitHub stacked pull requests enter public preview as a developer-workflow and code-review coordination improvement.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Martin Fowler’s refactoring-economics item frames AI-era software work around compounding maintainability rather than only feature generation.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — GitHub stacked PRs make dependent changes more reviewable, turning code-review structure into an AI-era workflow control.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — GitHub stacked PRs make dependent code changes easier to stage and review as a first-party workflow.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — GitHub stacked pull requests add dependent-change review workflow to the developer-tooling graph.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — GitHub stacked pull requests enter public preview as a developer-workflow and code-review coordination improvement.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Martin Fowler’s refactoring-economics item frames AI-era software work around compounding maintainability rather than only feature generation.
 - [2026-05-10: Fabric Cheatsheet](sources/fabric.md) — Open-source framework for running LLM prompt patterns against any model via CLI
 - [2026-05-10: Pi Cheatsheet](sources/pi.md) — Terminal-based coding agent harness using OpenRouter for LLM access
 - [2026-05-10: Datadog CLI Cheatsheet](sources/datadog-cli.md) — Monitoring and observability (relevant for AI-ops and infrastructure telemetry)
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — A Microsoft package/repository credential-stealer incident explicitly targeted AI coding-agent workflows, turning agent tooling into a supply-chain attack surface.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The same incident is framed as Microsoft open-source tools hacked to steal AI developer passwords, making developer identity and agent package trust first-class AI-dev concerns.
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — OpenCV 5, npm v12 breaking changes, and Anthropic model-boundary news show AI development as an ecosystem of model policy, libraries, package managers, and compatibility breaks.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Gemini Live Translate, OpenCV 5, and Claude Fable 5 show AI-augmented development and use as a stack spanning user-facing model utility, computer-vision libraries, and provider policy boundaries.
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — DiffusionGemma points to faster local AI runtimes, while GitHub API authentication trouble shows developer-platform reliability as part of the AI-augmented workflow surface.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — An AI-agent misbehavior story in Fedora and the DiffusionGemma local-AI speed item show both sides of AI-assisted work: faster local inference and the need to control agentic behavior.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 highlights package-manager plumbing as part of the developer substrate that AI-assisted and terminal-centric workflows depend on.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Homebrew 6.0.0, an AI-agent spend-control failure, and macOS 27 breaking Asahi Linux show AI-assisted work depending on package managers, automation guardrails, and operating-system compatibility.
-- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Local models are framed as good enough for daily use, Cursor/Anysphere is reportedly acquired for $60B, and a Copilot vulnerability shows AI coding tools as both infrastructure and attack surface.
-- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Local models remain a practical developer workflow story, while Anthropic pausing token-based Claude Agent SDK billing shows agent-tool economics are still unsettled.
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — GLM-5.2 leading an open-weights benchmark and OpenAI's reported annual losses put model availability and model economics into the same operational AI stack.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Nvidia's robot-instruction research applies AI coding-agent techniques to physical tasks, while Lore and Midjourney Medical keep developer tooling and specialized AI products in the same workflow-adjacent feed.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Noam Shazeer joining OpenAI is a talent-market signal, while Trojanized GitHub repositories show that AI-assisted workflows still depend on ordinary repository hygiene and developer-platform trust.
-- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — MIT building a custom operating system for chip study and the recurring Trojanized-GitHub story reinforce that AI-assisted development still rests on low-level systems literacy and source-provenance discipline.
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Project Valhalla/JDK 28 and Hyundai's Boston Dynamics control story broaden the AI workflow substrate from agents and repositories into runtimes, performance engineering, and embodied robotics platforms.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Project Valhalla/JDK 28 repeats in the AI/tech desk, reinforcing that AI-era developer workflows still depend on language runtimes, performance engineering, and low-level systems understanding.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare temporary accounts for AI agents, PostgresBench, and free SMPTE standards show AI-era development depending on identity design, reproducible benchmarks, and open technical baselines.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Reliable agentic AI systems, epoll vs. io_uring, and Linux memory-safety cleanup show AI-era development as agent design plus low-level systems literacy.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — A Microsoft package/repository credential-stealer incident explicitly targeted AI coding-agent workflows, turning agent tooling into a supply-chain attack surface.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — The same incident is framed as Microsoft open-source tools hacked to steal AI developer passwords, making developer identity and agent package trust first-class AI-dev concerns.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — OpenCV 5, npm v12 breaking changes, and Anthropic model-boundary news show AI development as an ecosystem of model policy, libraries, package managers, and compatibility breaks.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — Gemini Live Translate, OpenCV 5, and Claude Fable 5 show AI-augmented development and use as a stack spanning user-facing model utility, computer-vision libraries, and provider policy boundaries.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — DiffusionGemma points to faster local AI runtimes, while GitHub API authentication trouble shows developer-platform reliability as part of the AI-augmented workflow surface.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — An AI-agent misbehavior story in Fedora and the DiffusionGemma local-AI speed item show both sides of AI-assisted work: faster local inference and the need to control agentic behavior.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 highlights package-manager plumbing as part of the developer substrate that AI-assisted and terminal-centric workflows depend on.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — Homebrew 6.0.0, an AI-agent spend-control failure, and macOS 27 breaking Asahi Linux show AI-assisted work depending on package managers, automation guardrails, and operating-system compatibility.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletters/newsletter-2026-06-16-evening.md) — Local models are framed as good enough for daily use, Cursor/Anysphere is reportedly acquired for $60B, and a Copilot vulnerability shows AI coding tools as both infrastructure and attack surface.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-17.md) — Local models remain a practical developer workflow story, while Anthropic pausing token-based Claude Agent SDK billing shows agent-tool economics are still unsettled.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — GLM-5.2 leading an open-weights benchmark and OpenAI's reported annual losses put model availability and model economics into the same operational AI stack.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — Nvidia's robot-instruction research applies AI coding-agent techniques to physical tasks, while Lore and Midjourney Medical keep developer tooling and specialized AI products in the same workflow-adjacent feed.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — Noam Shazeer joining OpenAI is a talent-market signal, while Trojanized GitHub repositories show that AI-assisted workflows still depend on ordinary repository hygiene and developer-platform trust.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-19.md) — MIT building a custom operating system for chip study and the recurring Trojanized-GitHub story reinforce that AI-assisted development still rests on low-level systems literacy and source-provenance discipline.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — Project Valhalla/JDK 28 and Hyundai's Boston Dynamics control story broaden the AI workflow substrate from agents and repositories into runtimes, performance engineering, and embodied robotics platforms.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — Project Valhalla/JDK 28 repeats in the AI/tech desk, reinforcing that AI-era developer workflows still depend on language runtimes, performance engineering, and low-level systems understanding.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Cloudflare temporary accounts for AI agents, PostgresBench, and free SMPTE standards show AI-era development depending on identity design, reproducible benchmarks, and open technical baselines.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Reliable agentic AI systems, epoll vs. io_uring, and Linux memory-safety cleanup show AI-era development as agent design plus low-level systems literacy.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Claude identity verification, Apertus sovereign-AI coverage, and Apple Swift-in-the-kernel discussion show AI-era development spanning provider accounts, open model control, and low-level platform internals.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Claude identity verification, Apertus sovereign-AI coverage, and Apple Swift-in-the-kernel discussion show AI-era development spanning provider accounts, open model control, and low-level platform internals.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Deno Desktop, Claude identity verification, and Apertus sovereign-AI coverage show AI-era development spanning local runtimes, provider-account governance, and open-model control.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Deno Desktop, Claude identity verification, and Apertus sovereign-AI coverage show AI-era development spanning local runtimes, provider-account governance, and open-model control.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Codex logging, Steam Machine/SteamOS hardware chatter, and Anthropic export-ban coverage show AI-era development depending on ordinary tooling hygiene, OS/hardware platforms, and geopolitical access controls.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Codex logging, Steam Machine/SteamOS hardware chatter, and Anthropic export-ban coverage show AI-era development depending on ordinary tooling hygiene, OS/hardware platforms, and geopolitical access controls.
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — OpenAI DayBreak/GPT-5.5-Cyber, the HTTP QUERY method, Steam Machine hardware, and Jellyfin RCE notes show AI-era development sitting on security models, web semantics, platform hardware, and patch hygiene.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — OpenAI DayBreak/GPT-5.5-Cyber, the HTTP QUERY method, Steam Machine hardware, and Jellyfin RCE notes show AI-era development sitting on security models, web semantics, platform hardware, and patch hygiene.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Oracle layoffs for AI investment, Stanford HAI hiring-bias findings, Unlimited OCR, and Samsung stacked-FET work show applied AI as labor economics, governance, parsing tools, and hardware physics at once.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Oracle layoffs for AI investment, Stanford HAI hiring-bias findings, Unlimited OCR, and Samsung stacked-FET work show applied AI as labor economics, governance, parsing tools, and hardware physics at once.
 
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Vulnerability-report normalization, Raspberry Pi Pico W USB Wi-Fi tooling, and repeated Oracle AI-investment layoffs show AI-era development as security process, small hardware, and infrastructure economics.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — Vulnerability-report normalization, Raspberry Pi Pico W USB Wi-Fi tooling, and repeated Oracle AI-investment layoffs show AI-era development as security process, small hardware, and infrastructure economics.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Gemini 3.5 Flash computer use, OpenAI/Broadcom custom silicon, and Qualcomm's Modular acquisition show the AI developer stack tightening across agents, chips, compilers, and runtimes.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — Gemini 3.5 Flash computer use, OpenAI/Broadcom custom silicon, and Qualcomm's Modular acquisition show the AI developer stack tightening across agents, chips, compilers, and runtimes.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — OpenAI/Broadcom inference silicon, Anthropic/Alibaba capability-extraction allegations, and Nvidia data-center cooling show the AI stack spanning hardware, provider security, and physical deployment constraints.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — OpenAI/Broadcom inference silicon, Anthropic/Alibaba capability-extraction allegations, and Nvidia data-center cooling show the AI stack spanning hardware, provider security, and physical deployment constraints.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — IBM sub-1 nm chip claims, repeated Anthropic/Alibaba cloning allegations, and OpenKnowledge's AI-first note-taking/productivity angle show AI-era development spanning hardware, provider security, and knowledge-work tooling.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — IBM sub-1 nm chip claims, repeated Anthropic/Alibaba cloning allegations, and OpenKnowledge's AI-first note-taking/productivity angle show AI-era development spanning hardware, provider security, and knowledge-work tooling.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM chip scaling, Framework USB-C module complexity, Herculaneum scroll recovery, and Claude capability-protection all show AI-era development depending on hardware, tools, and governance.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol and AWS MicroVMs show the AI developer stack moving simultaneously toward stronger models, stricter access control, and better execution sandboxes.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol, Anthropic Mythos access permission, and DeepSeek inference optimizations show AI development shaped by capability, eligibility, and serving efficiency at once.
-- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — DeepSeek DSpark/speculative decoding and AI-assisted RFIC design show AI-era development moving into inference engineering and specialized chip-design automation.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — IBM chip scaling, Framework USB-C module complexity, Herculaneum scroll recovery, and Claude capability-protection all show AI-era development depending on hardware, tools, and governance.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol and AWS MicroVMs show the AI developer stack moving simultaneously toward stronger models, stricter access control, and better execution sandboxes.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol, Anthropic Mythos access permission, and DeepSeek inference optimizations show AI development shaped by capability, eligibility, and serving efficiency at once.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-evening.md) — DeepSeek DSpark/speculative decoding and AI-assisted RFIC design show AI-era development moving into inference engineering and specialized chip-design automation.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — AI-assisted RFIC design shows AI tooling moving deeper into specialized hardware-engineering workflows, not only code generation or chat interfaces.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — AI-assisted RFIC design shows AI tooling moving deeper into specialized hardware-engineering workflows, not only code generation or chat interfaces.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — GLM 5.2 cyber-benchmark claims and Claude Code MRI use show AI tooling moving into specialized security evaluation and medical-adjacent personal workflows.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — GLM 5.2 cyber-benchmark claims and Claude Code MRI use show AI tooling moving into specialized security evaluation and medical-adjacent personal workflows.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — GLM 5.2 cyber-benchmark claims and HackerRank ATS tooling show AI evaluation and developer-adjacent automation moving into specialized workflows where scoring provenance matters.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — GLM 5.2 cyber-benchmark claims and HackerRank ATS tooling show AI evaluation and developer-adjacent automation moving into specialized workflows where scoring provenance matters.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B and Ornith-1.0 keep local/open model workflows and self-improving agentic coding in the practical developer-tooling frame.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — Qwen 3.6 27B and Ornith-1.0 keep local/open model workflows and self-improving agentic coding in the practical developer-tooling frame.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Qwen 3.6 27B is framed as a local-development sweet spot, reinforcing practical LLM use in developer workflows.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Qwen 3.6 27B is framed as a local-development sweet spot, reinforcing practical LLM use in developer workflows.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Claude Sonnet 5, Claude Code prompt-steganography reporting, and browser Kubernetes show AI-era development spanning model releases, coding-agent trust, and unusual systems experiments.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Claude Sonnet 5, Claude Code prompt-steganography reporting, and browser Kubernetes show AI-era development spanning model releases, coding-agent trust, and unusual systems experiments.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Claude Sonnet 5, Claude Code provenance concerns, Godot’s AI-code contribution ban, and AI-browser security show AI-era development as capability plus governance, not capability alone.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Claude Sonnet 5, Claude Code provenance concerns, Godot’s AI-code contribution ban, and AI-browser security show AI-era development as capability plus governance, not capability alone.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — ZCode enters the Claude-style coding-tool conversation, extending the developer-agent tooling field beyond Anthropic Claude Code.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — ZCode enters the Claude-style coding-tool conversation, extending the developer-agent tooling field beyond Anthropic Claude Code.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Safari MCP server coverage turns browser developer tools into an explicit model-facing interface for AI-assisted web development.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Safari MCP server coverage turns browser developer tools into an explicit model-facing interface for AI-assisted web development.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Local LLM operation and TLA+-based bug hunting both broaden the developer stack from coding assistants into self-hosted model operations and verification discipline.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Local LLM operation and TLA+-based bug hunting both broaden the developer stack from coding assistants into self-hosted model operations and verification discipline.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Agentic coding notes from Galapagos Island turn AI-assisted development into a loop-design and workflow-practice problem, not just model selection.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Agentic coding notes from Galapagos Island turn AI-assisted development into a loop-design and workflow-practice problem, not just model selection.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Shadcn/UI defaulting to Base UI and Codex reasoning-token complaints show AI-era development depending on both ordinary stack defaults and coding-agent reliability.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Shadcn/UI defaulting to Base UI and Codex reasoning-token complaints show AI-era development depending on both ordinary stack defaults and coding-agent reliability.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Flipper Zero roadmap attention and open-source AI policy connect developer/hacker tooling to maintainability, governance, and operator control.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Flipper Zero roadmap attention and open-source AI policy connect developer/hacker tooling to maintainability, governance, and operator control.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Codex model-rumor attention and OpenPrinter hardware interest keep developer/operator tooling tied to capability, openness, and maintainability.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Codex model-rumor attention and OpenPrinter hardware interest keep developer/operator tooling tied to capability, openness, and maintainability.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Claude Code prompt-steganography/tracker concerns show coding-agent usefulness now depends on hidden-context visibility, telemetry boundaries, and operator auditability.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Claude Code prompt-steganography/tracker concerns show coding-agent usefulness now depends on hidden-context visibility, telemetry boundaries, and operator auditability.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Kokoro local CPU-friendly TTS and StreetComplete/OpenStreetMap contribution tooling extend the operator-control pattern from coding agents into local media generation and map-maintenance workflows.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Kokoro local CPU-friendly TTS and StreetComplete/OpenStreetMap contribution tooling extend the operator-control pattern from coding agents into local media generation and map-maintenance workflows.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — AI tools appear as security-sensitive developer infrastructure: useful for automation, but capable of repository exposure and botnet abuse if boundaries fail.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — AI tools appear as security-sensitive developer infrastructure: useful for automation, but capable of repository exposure and botnet abuse if boundaries fail.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — GPT-Live and OpenAI coding-evaluation commentary keep AI tooling tied to live interfaces, developer workflows, and benchmark quality.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — GPT-Live and OpenAI coding-evaluation commentary keep AI tooling tied to live interfaces, developer workflows, and benchmark quality.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Bun's Rust rewrite, Grok 4.5 attention, and Cloudflare Drop keep AI/developer infrastructure in the same operational watchlist.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — Bun's Rust rewrite, Grok 4.5 attention, and Cloudflare Drop keep AI/developer infrastructure in the same operational watchlist.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — GPT-5.6 model attention and a PostgreSQL rewrite in Rust passing the regression suite show AI-era development spanning frontier models, databases, language/runtime choices, and compatibility testing.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — GPT-5.6 model attention and a PostgreSQL rewrite in Rust passing the regression suite show AI-era development spanning frontier models, databases, language/runtime choices, and compatibility testing.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — GPT-5.6 attention and PostgreSQL-in-Rust regression-test compatibility keep model capability and systems infrastructure in the same operator stack.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — GPT-5.6 attention and PostgreSQL-in-Rust regression-test compatibility keep model capability and systems infrastructure in the same operator stack.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — GPT-5.6, Grok, Claude, and Muse Spark are compared by building the same apps, keeping AI capability grounded in practical developer-workflow outcomes.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — GPT-5.6, Grok, Claude, and Muse Spark are compared by building the same apps, keeping AI capability grounded in practical developer-workflow outcomes.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — GPT-5.6 attention, QuadRF sensing, and practical app/tool evaluation keep AI-era capability grounded in operator workflows.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — GPT-5.6 attention, QuadRF sensing, and practical app/tool evaluation keep AI-era capability grounded in operator workflows.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Ant, PgBouncer scaling, and SQLite strict tables show developer tooling focused on runtime choice, throughput, and data correctness.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Mesh LLM on Iroh and Ant as a new JavaScript runtime show developer tooling expanding through distributed AI compute and runtime experimentation.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Ant, PgBouncer scaling, and SQLite strict tables show developer tooling focused on runtime choice, throughput, and data correctness.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Mesh LLM on Iroh and Ant as a new JavaScript runtime show developer tooling expanding through distributed AI compute and runtime experimentation.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Claude Code/OpenCode token-overhead comparison and modern coding-agent workflow coverage make hidden context, cost, and practical app-building core AI-dev concerns.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Claude Code/OpenCode token-overhead comparison and modern coding-agent workflow coverage make hidden context, cost, and practical app-building core AI-dev concerns.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Anthropic developer debate, workplace AI toggles, and AI/security tooling keep the trust boundary around AI-assisted development live.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Anthropic developer debate, workplace AI toggles, and AI/security tooling keep the trust boundary around AI-assisted development live.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — SpeechAnalyzer benchmarking and world-model limits move AI tooling evaluation from hype to measurable quality and bounded use.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — SpeechAnalyzer benchmarking and world-model limits move AI tooling evaluation from hype to measurable quality and bounded use.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Cursor 0day coverage keeps AI coding environments in the development-governance stack, where agentic tooling and vulnerability disclosure overlap.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Cursor 0day coverage keeps AI coding environments in the development-governance stack, where agentic tooling and vulnerability disclosure overlap.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Cursor 0day disclosure keeps coding-agent workflows inside the vulnerability-management and user-protection perimeter.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Cursor 0day disclosure keeps coding-agent workflows inside the vulnerability-management and user-protection perimeter.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Grok Build and Firefox-in-WebAssembly show developer tooling expanding across AI build systems and portable browser/runtime experiments.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Grok Build and Firefox-in-WebAssembly show developer tooling expanding across AI build systems and portable browser/runtime experiments.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Grok Build is open source, tying xAI coverage to build tooling and developer-workflow infrastructure.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Grok Build is open source, tying xAI coverage to build tooling and developer-workflow infrastructure.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Google rebranding NotebookLM as Gemini Notebook keeps AI-assisted notebooking, research synthesis, and personal-knowledge workflows in the operator-tooling graph.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Google rebranding NotebookLM as Gemini Notebook keeps AI-assisted notebooking, research synthesis, and personal-knowledge workflows in the operator-tooling graph.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Transcribe.cpp and Moonshine micro speech recognition/TTS extend local AI tooling into audio workflows and maker-board-scale experimentation.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Transcribe.cpp and Moonshine micro speech recognition/TTS extend local AI tooling into audio workflows and maker-board-scale experimentation.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Claude Code's Bun/Rust runtime item turns coding-agent implementation details into performance, trust, and operator-workflow evidence.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Claude Code's Bun/Rust runtime item turns coding-agent implementation details into performance, trust, and operator-workflow evidence.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — The WordPress RCE reportedly found with GPT-5.6 and Claude Code's Bun/Rust runtime item both treat AI developer tooling as practical leverage with trust and security surfaces.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — The WordPress RCE reportedly found with GPT-5.6 and Claude Code's Bun/Rust runtime item both treat AI developer tooling as practical leverage with trust and security surfaces.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Claude context-engineering guidance and Android ADB restrictions both shape practical developer workflow boundaries.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Claude context-engineering guidance and Android ADB restrictions both shape practical developer workflow boundaries.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Claude context-engineering guidance and Ruff's 413-rule default lint set make workflow design, context hygiene, and automated code quality part of AI-era development practice.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Claude context-engineering guidance and Ruff's 413-rule default lint set make workflow design, context hygiene, and automated code quality part of AI-era development practice.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — PGSimCity and Vercel Scriptc show developer productivity through visualization and TypeScript-native compilation rather than only chat assistants.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — PGSimCity and Vercel Scriptc show developer productivity through visualization and TypeScript-native compilation rather than only chat assistants.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Bun’s Rust rewrite discussion frames developer productivity as runtime architecture and migration engineering, not only AI assistants.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Bun’s Rust rewrite discussion frames developer productivity as runtime architecture and migration engineering, not only AI assistants.
 
 ## Related Concepts
 

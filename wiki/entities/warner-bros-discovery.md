@@ -15,18 +15,18 @@ Warner Bros. Discovery is a major media and entertainment company. In this sourc
 
 ## Sources
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — U.K. approval advances Paramount’s proposed $110 billion acquisition.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — U.K. approval advances Paramount’s proposed $110 billion acquisition.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Its proposed takeover by Paramount is treated as media consolidation significant enough to invite government review.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Its proposed takeover by Paramount is treated as media consolidation significant enough to invite government review.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The proposed Paramount merger draws a twelve-state antitrust lawsuit, keeping Warner Bros. Discovery at the center of media-concentration scrutiny.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — The proposed Paramount merger draws a twelve-state antitrust lawsuit, keeping Warner Bros. Discovery at the center of media-concentration scrutiny.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The proposed Paramount–Warner Bros. combination faces a twelve-state antitrust challenge, keeping WBD in the media-consolidation thread.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The halted Paramount purchase keeps Warner Bros. Discovery in the streaming/media-consolidation control graph.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — The proposed Paramount–Warner Bros. combination faces a twelve-state antitrust challenge, keeping WBD in the media-consolidation thread.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — The halted Paramount purchase keeps Warner Bros. Discovery in the streaming/media-consolidation control graph.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — The Warner Bros. merger remains delayed by antitrust proceedings, keeping WBD in the media-consolidation control graph.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — The Warner Bros. merger remains delayed by antitrust proceedings, keeping WBD in the media-consolidation control graph.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Remains the counterparty in a delayed Paramount Skydance merger story.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Remains the counterparty in a delayed Paramount Skydance merger story.
 
 ## Related
 

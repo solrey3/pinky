@@ -35,7 +35,7 @@ source_count: 2
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/bryan-danielson.md)
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Danielson appears as a desired AEW commentary voice, with physical wear limiting availability.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Danielson appears as a desired AEW commentary voice, with physical wear limiting availability.
 
 ## Related
 

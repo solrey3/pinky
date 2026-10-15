@@ -15,7 +15,7 @@ Canadian political leader tracked here through tariff retaliation and U.S.–Can
 
 ## Sources
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Says Canada is ready to respond if new Trump tariffs are enacted, extending the U.S.–Canada trade-retaliation thread.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Says Canada is ready to respond if new Trump tariffs are enacted, extending the U.S.–Canada trade-retaliation thread.
 
 ## Related
 

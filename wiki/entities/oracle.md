@@ -15,13 +15,13 @@ Oracle is an enterprise software and cloud-infrastructure company. In the newsle
 
 ## Sources
 
-- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-midnight.md) — Again warns that Oracle might not meet a data-center lease obligation, keeping financing and execution risk attached to the AI buildout.
-- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — Repeats the warning that Oracle might not meet a data-center lease obligation, reinforcing financing and execution risk in AI-infrastructure expansion.
-- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-noon.md) — Repeats the warning that Oracle might not meet a data-center lease obligation, reinforcing execution and financing risk in AI-infrastructure expansion.
-- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-daytime.md) — Reportedly warns that it might not meet a data-center lease commitment, adding execution and financing risk to its AI-infrastructure expansion.
-- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — Shares rise as faster AI-cloud growth and lower cash burn suggest improving economics for its infrastructure expansion.
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Reported 21,000 layoffs are framed as helping fund debt-fueled AI investments, making Oracle a case study in the labor and financing costs of AI infrastructure buildout.
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — The same layoff/AI-investment story repeats in the daytime dispatch, reinforcing Oracle as a recurring example of debt-funded AI capex producing workforce restructuring.
+- [2026-09-26: Midnight Dispatch — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-midnight.md) — Again warns that Oracle might not meet a data-center lease obligation, keeping financing and execution risk attached to the AI buildout.
+- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-evening.md) — Repeats the warning that Oracle might not meet a data-center lease obligation, reinforcing financing and execution risk in AI-infrastructure expansion.
+- [2026-09-25: Noon Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-noon.md) — Repeats the warning that Oracle might not meet a data-center lease obligation, reinforcing execution and financing risk in AI-infrastructure expansion.
+- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-daytime.md) — Reportedly warns that it might not meet a data-center lease commitment, adding execution and financing risk to its AI-infrastructure expansion.
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-noon.md) — Shares rise as faster AI-cloud growth and lower cash burn suggest improving economics for its infrastructure expansion.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Reported 21,000 layoffs are framed as helping fund debt-fueled AI investments, making Oracle a case study in the labor and financing costs of AI infrastructure buildout.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — The same layoff/AI-investment story repeats in the daytime dispatch, reinforcing Oracle as a recurring example of debt-funded AI capex producing workforce restructuring.
 
 ## Related
 

@@ -15,9 +15,9 @@ Professional cyclist tracked for Tour de France Femmes results.
 
 ## Sources
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Wins Tour de France Femmes stage 6 from a small pack.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Wins Tour de France Femmes stage 6 from a small pack.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Wins stage 6 from a small group.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Wins stage 6 from a small group.
 
 ## Related
 

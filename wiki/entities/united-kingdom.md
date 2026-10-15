@@ -15,7 +15,7 @@ European state tracked here when it appears in foreign-policy, security, media, 
 
 ## Sources
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Appears in U.S./UK talks about a possible coalition to protect the Strait of Hormuz.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Appears in U.S./UK talks about a possible coalition to protect the Strait of Hormuz.
 
 ## Related
 

@@ -15,9 +15,9 @@ Medicare is the U.S. federal health-insurance program for older adults and some 
 
 ## Sources
 
-- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-noon.md) — Costco's planned Medicare-plan offering makes retail membership a new distribution channel for federal health-insurance choices.
+- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-noon.md) — Costco's planned Medicare-plan offering makes retail membership a new distribution channel for federal health-insurance choices.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
 
 ## Related
 

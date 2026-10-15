@@ -15,7 +15,7 @@ NFL quarterback tracked through team and training-camp news.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Purdy practices with the 49ers while Kyle Shanahan watches camp reps.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Purdy practices with the 49ers while Kyle Shanahan watches camp reps.
 
 ## Related
 

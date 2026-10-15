@@ -15,9 +15,9 @@ Chinese technology company and owner of TikTok; tracked here for AI/video model 
 
 ## Sources
 
-- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — Trains a large AI model intended to compete with Anthropic, extending its frontier-model ambitions beyond generative video.
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-noon.md) — Trains a large AI model intended to compete with Anthropic, extending its frontier-model ambitions beyond generative video.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Introduces Seedance 2.5 on the AI/video desk, showing generative-video product cadence moving quickly.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Introduces Seedance 2.5 on the AI/video desk, showing generative-video product cadence moving quickly.
 
 ## Related
 

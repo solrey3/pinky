@@ -15,7 +15,7 @@ U.S. climate information site referenced through open-data preservation coverage
 
 ## Sources
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — The “Climate.gov was destroyed. Open data saved it” item makes the site an archive-resilience and public-data provenance node.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — The “Climate.gov was destroyed. Open data saved it” item makes the site an archive-resilience and public-data provenance node.
 
 ## Related
 

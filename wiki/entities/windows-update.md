@@ -15,7 +15,7 @@ Windows Update appears as the software-delivery channel in the LG monitor consen
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Windows Update appears as the software-delivery channel in the LG monitor consent controversy.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Windows Update appears as the software-delivery channel in the LG monitor consent controversy.
 
 ## Related
 

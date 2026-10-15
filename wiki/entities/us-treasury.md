@@ -15,19 +15,19 @@ The U.S. Treasury is tracked here as the federal finance department and currency
 
 ## Sources
 
-- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-evening.md) — Reportedly imposes a $1.2 billion Bank of America penalty over money-laundering and sanctions-law violations; the order and settlement terms require primary confirmation.
+- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-evening.md) — Reportedly imposes a $1.2 billion Bank of America penalty over money-laundering and sanctions-law violations; the order and settlement terms require primary confirmation.
 
-- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-evening.md) — Reported internal tension, turnover, and unmet economic goals make staffing stability and implementation capacity part of Treasury's policy record.
+- [2026-10-07: Evening Brief — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-evening.md) — Reported internal tension, turnover, and unmet economic goals make staffing stability and implementation capacity part of Treasury's policy record.
 
-- [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-noon.md) — Doubled buybacks are reported as a catalyst for gold and Bitcoin even as broad equities finish lower and long yields remain elevated.
+- [2026-08-22: Noon Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-noon.md) — Doubled buybacks are reported as a catalyst for gold and Bitcoin even as broad equities finish lower and long yields remain elevated.
 
-- [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-noon.md) — Bond-buyback plans fail to settle stocks or bonds, showing that debt-management support does not guarantee immediate market confidence.
+- [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-noon.md) — Bond-buyback plans fail to settle stocks or bonds, showing that debt-management support does not guarantee immediate market confidence.
 
-- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-noon.md) — Treasury signaling of additional bond buybacks eases immediate yield pressure and lifts bonds, stocks, and gold, linking debt-management operations to cross-asset conditions.
+- [2026-08-19: Noon Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-noon.md) — Treasury signaling of additional bond buybacks eases immediate yield pressure and lifts bonds, stocks, and gold, linking debt-management operations to cross-asset conditions.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — The Treasury appears through a report that plans to put Harriet Tubman on the $20 bill were scrapped, reviving the currency-redesign and public-symbolism debate.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — The Treasury appears through a report that plans to put Harriet Tubman on the $20 bill were scrapped, reviving the currency-redesign and public-symbolism debate.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Treasury says it flagged $99M in payments linked to dead people, adding improper-payment detection to the government-operations thread.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Treasury says it flagged $99M in payments linked to dead people, adding improper-payment detection to the government-operations thread.
 
 ## Related
 

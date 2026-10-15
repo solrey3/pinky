@@ -15,8 +15,8 @@ Shieldstral is Mistral AI's 3B open-weights model for multimodal moderation, not
 
 ## Sources
 
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Shieldstral is logged as a 3B open-weights model for multimodal moderation.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Shieldstral is Mistral AI's 3B open-weights model for multimodal moderation, noted as safety tooling rather than a frontier benchmark headline.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Shieldstral is logged as a 3B open-weights model for multimodal moderation.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Shieldstral is Mistral AI's 3B open-weights model for multimodal moderation, noted as safety tooling rather than a frontier benchmark headline.
 
 ## Related
 

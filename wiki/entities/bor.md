@@ -15,7 +15,7 @@ Bor is an open-source policy-management tool for Linux desktops, tracked as part
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Bor v0.8.0 appears as an open-source Linux desktop policy-management item on Hacker News.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Bor v0.8.0 appears as an open-source Linux desktop policy-management item on Hacker News.
 
 ## Related
 

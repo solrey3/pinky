@@ -15,7 +15,7 @@ Mario Hezonja is a professional basketball player and former NBA lottery pick. I
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Agrees to a one-year deal with the Cleveland Cavaliers.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Agrees to a one-year deal with the Cleveland Cavaliers.
 
 ## Related
 

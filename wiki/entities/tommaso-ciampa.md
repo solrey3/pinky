@@ -36,9 +36,9 @@ source_count: 3
 
 - [2026-05-27: Raw notes](../../raw/people/tommaso-ciampa.md)
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Tommaso Ciampa appears in AEW All In 2026 rumor/tease coverage.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Tommaso Ciampa appears in AEW All In 2026 rumor/tease coverage.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Ciampa appears via Jericho praise for their AEW Dynamite match.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Ciampa appears via Jericho praise for their AEW Dynamite match.
 
 ## Related
 

@@ -15,15 +15,15 @@ Alibaba is a Chinese technology, e-commerce, and cloud company. In the newslette
 
 ## Sources
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic says Alibaba illicitly extracted Claude AI model capabilities, turning model competition into a capability-extraction and platform-trust issue.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Anthropic says Alibaba illicitly extracted Claude AI model capabilities, turning model competition into a capability-extraction and platform-trust issue.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Alibaba/Claude cloning allegation remains in the evening AI desk, strengthening the link between Alibaba and model-capability extraction in the current-events graph.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — The Alibaba/Claude cloning allegation remains in the evening AI desk, strengthening the link between Alibaba and model-capability extraction in the current-events graph.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — The Claude cloning allegation appears for another dispatch, keeping Alibaba tied to model-capability extraction and AI-platform enforcement.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — The Claude cloning allegation appears for another dispatch, keeping Alibaba tied to model-capability extraction and AI-platform enforcement.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Alibaba is present through Qwen 3.8, reinforcing its role as a non-U.S. AI model ecosystem actor.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Alibaba is present through Qwen 3.8, reinforcing its role as a non-U.S. AI model ecosystem actor.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Alibaba is relevant through AliExpress platform-enforcement coverage and the China/open-weights AI strategy thread.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Alibaba is relevant through AliExpress platform-enforcement coverage and the China/open-weights AI strategy thread.
 
 ## Related
 

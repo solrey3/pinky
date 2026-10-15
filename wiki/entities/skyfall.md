@@ -15,7 +15,7 @@ Skyfall is tracked here as a drone/defense entity connected to Ukraine battlefie
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Named with Auterion in coverage of shipping AI-assisted Shrike strike drones to Ukraine's front lines.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Named with Auterion in coverage of shipping AI-assisted Shrike strike drones to Ukraine's front lines.
 
 ## Related
 

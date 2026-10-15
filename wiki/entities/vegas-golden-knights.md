@@ -44,26 +44,26 @@ The 5-4 scoreline suggests an open, contested game rather than defensive dominat
 
 ## Sources
 
-- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — VGK 5, CAR 4 in SCF Game 1. Golden Knights steal home ice on the road in Raleigh; lead series 1-0.
-- [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — SCF Game 1 result fully confirmed. **Game 2 is Thursday June 4, 8:00 PM EDT, ABC** in Raleigh. VGK leads 1-0; can go up 2-0 with another road win.
-- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — **Game 2 is TONIGHT** (June 4, 8:00 PM ET, ABC) at Carolina. VGK enters the game up 1-0; a second road win would put Carolina in an 0-2 hole from which Stanley Cup finalists rarely recover.
-- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](sources/newsletter-2026-06-05.md) — **SCF Game 2 RESULT: VGK 3, CAR 4 (OT).** VGK loses in overtime in Raleigh. Series tied 1-1. Games 3/4 shift to Las Vegas — VGK now plays on home ice.
-- [2026-06-05: Evening Brief — June 5, 2026](sources/newsletter-2026-06-05-evening.md) — Game 2 OT loss confirmed in evening edition. **Game 3 Saturday June 6, 8:00 PM EDT, ABC at Vegas.** VGK returns home with the series tied 1-1. Home ice for Games 3 and 4 is the structural advantage in play.
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Next listed Stanley Cup Finals slot: Carolina Hurricanes at Vegas Golden Knights, Tuesday June 9, 8:00 PM EDT on ABC. No intervening result included in this source.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Vegas hosts Carolina in the listed Tuesday June 9 ABC slot; no new result is recorded.
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Evening edition again lists Vegas hosting Carolina on ABC with no new result.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** Vegas loses at home, and the Final is tied 2-2.
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Evening edition confirms the 5-3 home loss and best-of-three reset; Vegas travels to Carolina for Game 5 on June 11.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Vegas at Carolina is tonight's Stanley Cup Final Game 5 listing, with the series tied 2-2.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Evening edition again lists Game 5 at Carolina; the source provides schedule context but no final result.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — **SCF Game 5: Vegas 2, Carolina 4.** The Golden Knights trail 3-2 and need a response to avoid Carolina's closeout.
-- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Evening edition confirms Vegas trails 3-2 and hosts Game 6 on June 14 needing a win to force Game 7.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — Morning edition again lists Game 6 for June 14 on ABC; Vegas needs a home win to force Game 7.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening scoreboard again lists Carolina at Vegas for June 14 on ABC, preserving Vegas's home elimination-game setup.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Game 6 remains tonight on ABC: Vegas hosts Carolina needing a win to force Game 7.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening scoreboard again lists Vegas hosting Carolina at 8:00 PM EDT, preserving the Golden Knights' home elimination-game setup.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — **SCF Game 6: Vegas 0, Carolina 3.** The Golden Knights lose the Final 4-2.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Evening scoreboard repeats the shutout close: Vegas loses 3-0 at home and drops the Stanley Cup Final 4-2.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletters/newsletter-2026-06-03.md) — VGK 5, CAR 4 in SCF Game 1. Golden Knights steal home ice on the road in Raleigh; lead series 1-0.
+- [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletters/newsletter-2026-06-03-evening.md) — SCF Game 1 result fully confirmed. **Game 2 is Thursday June 4, 8:00 PM EDT, ABC** in Raleigh. VGK leads 1-0; can go up 2-0 with another road win.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletters/newsletter-2026-06-04.md) — **Game 2 is TONIGHT** (June 4, 8:00 PM ET, ABC) at Carolina. VGK enters the game up 1-0; a second road win would put Carolina in an 0-2 hole from which Stanley Cup finalists rarely recover.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-05.md) — **SCF Game 2 RESULT: VGK 3, CAR 4 (OT).** VGK loses in overtime in Raleigh. Series tied 1-1. Games 3/4 shift to Las Vegas — VGK now plays on home ice.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — Game 2 OT loss confirmed in evening edition. **Game 3 Saturday June 6, 8:00 PM EDT, ABC at Vegas.** VGK returns home with the series tied 1-1. Home ice for Games 3 and 4 is the structural advantage in play.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — Next listed Stanley Cup Finals slot: Carolina Hurricanes at Vegas Golden Knights, Tuesday June 9, 8:00 PM EDT on ABC. No intervening result included in this source.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — Vegas hosts Carolina in the listed Tuesday June 9 ABC slot; no new result is recorded.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — Evening edition again lists Vegas hosting Carolina on ABC with no new result.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — **SCF Game 4: Carolina 5, Vegas 3.** Vegas loses at home, and the Final is tied 2-2.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — Evening edition confirms the 5-3 home loss and best-of-three reset; Vegas travels to Carolina for Game 5 on June 11.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — Vegas at Carolina is tonight's Stanley Cup Final Game 5 listing, with the series tied 2-2.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — Evening edition again lists Game 5 at Carolina; the source provides schedule context but no final result.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — **SCF Game 5: Vegas 2, Carolina 4.** The Golden Knights trail 3-2 and need a response to avoid Carolina's closeout.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletters/newsletter-2026-06-12-evening.md) — Evening edition confirms Vegas trails 3-2 and hosts Game 6 on June 14 needing a win to force Game 7.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — Morning edition again lists Game 6 for June 14 on ABC; Vegas needs a home win to force Game 7.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Evening scoreboard again lists Carolina at Vegas for June 14 on ABC, preserving Vegas's home elimination-game setup.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Game 6 remains tonight on ABC: Vegas hosts Carolina needing a win to force Game 7.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Evening scoreboard again lists Vegas hosting Carolina at 8:00 PM EDT, preserving the Golden Knights' home elimination-game setup.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — **SCF Game 6: Vegas 0, Carolina 3.** The Golden Knights lose the Final 4-2.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — Evening scoreboard repeats the shutout close: Vegas loses 3-0 at home and drops the Stanley Cup Final 4-2.
 
 ## Related
 

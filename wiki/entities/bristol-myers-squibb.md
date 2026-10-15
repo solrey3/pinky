@@ -15,7 +15,7 @@ Bristol Myers Squibb is a pharmaceutical company appearing here through reported
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Bristol Myers Squibb is a pharmaceutical company appearing here through reported merger talks with AstraZeneca.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Bristol Myers Squibb is a pharmaceutical company appearing here through reported merger talks with AstraZeneca.
 
 ## Related
 

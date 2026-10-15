@@ -15,7 +15,7 @@ Scott Gottlieb is a physician and former U.S. Food and Drug Administration commi
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Says the cyclospora outbreak is not yet under control, making him the quoted public-health authority in the evening lead stack.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Says the cyclospora outbreak is not yet under control, making him the quoted public-health authority in the evening lead stack.
 
 ## Related
 

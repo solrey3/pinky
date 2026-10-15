@@ -15,7 +15,7 @@ The Chicago White Sox are an MLB club. In this wiki, they appear mostly through 
 
 ## Sources
 
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The White Sox beat the Yankees twice, including an 11th-inning win on a bases-loaded walk.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — The White Sox beat the Yankees twice, including an 11th-inning win on a bases-loaded walk.
 
 ## Related
 

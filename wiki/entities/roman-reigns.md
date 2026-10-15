@@ -34,32 +34,32 @@ source_count: 16
 
 ## Sources
 
-- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — Reportedly says he continues fighting leukemia; the sensitive medical claim warrants confirmation from his complete statement and authoritative reporting.
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-evening.md) — Reportedly says he continues fighting leukemia; the sensitive medical claim warrants confirmation from his complete statement and authoritative reporting.
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Appears in Raw fallout coverage with LA Knight and the post-SummerSlam news cycle.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Retains the World Heavyweight Title over Seth Rollins in the main event coverage.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Defeats Seth Rollins to retain the World Heavyweight Title in the SummerSlam Night 2 main event.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Appears in Raw fallout coverage with LA Knight and the post-SummerSlam news cycle.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Retains the World Heavyweight Title over Seth Rollins in the main event coverage.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Defeats Seth Rollins to retain the World Heavyweight Title in the SummerSlam Night 2 main event.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results advertise Roman Reigns vs. Seth Rollins as a card anchor.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — SummerSlam Sunday results advertise Roman Reigns vs. Seth Rollins as a card anchor.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Appears in Seth Rollins’ WWE headline as the foil for the “Number Two” remark.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Appears in Seth Rollins’ WWE headline as the foil for the “Number Two” remark.
 
 - [2026-05-27: Raw notes](../../raw/people/roman-reigns.md)
-- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — **Roman Reigns vs. Solo Sikoa (Fatu) confirmed for Clash in Italy**. The Bloodline storyline's latest chapter plays out in Italy. SmackDown Barcelona (go-home show) set the card.
-- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **WWE Clash in Italy, Turin**: Reigns defeats Jacob Fatu in **Tribal Combat** to retain the World Heavyweight Championship. Fatu must acknowledge. Post-match: *"QB1? F\*\*\* that. I run it all. Forever."* — Reigns underscoring total Bloodline dominance after the most personal feud of his return.
-- [2026-06-01: Evening Brief — June 1, 2026](../sources/newsletter-2026-06-01-evening.md) — **Raw (June 1):** Jacob Fatu officially acknowledges Roman Reigns on live television. The stipulation is fulfilled, the submission is public, and the Bloodline civil war is closed. The Tribal Chief's dominance is now fully on-record and uncontested heading into the King and Queen of the Ring tournament cycle.
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation: Jacob Fatu must now acknowledge Roman Reigns; Bloodline civil war resolved. Cody vs. Roman III narrative building. WWE Raw tonight.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletters/newsletter-2026-05-29-evening.md) — **Roman Reigns vs. Solo Sikoa (Fatu) confirmed for Clash in Italy**. The Bloodline storyline's latest chapter plays out in Italy. SmackDown Barcelona (go-home show) set the card.
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletters/newsletter-2026-05-31-evening.md) — **WWE Clash in Italy, Turin**: Reigns defeats Jacob Fatu in **Tribal Combat** to retain the World Heavyweight Championship. Fatu must acknowledge. Post-match: *"QB1? F\*\*\* that. I run it all. Forever."* — Reigns underscoring total Bloodline dominance after the most personal feud of his return.
+- [2026-06-01: Evening Brief — June 1, 2026](../sources/newsletters/newsletter-2026-06-01-evening.md) — **Raw (June 1):** Jacob Fatu officially acknowledges Roman Reigns on live television. The stipulation is fulfilled, the submission is public, and the Bloodline civil war is closed. The Tribal Chief's dominance is now fully on-record and uncontested heading into the King and Queen of the Ring tournament cycle.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — Morning-after confirmation: Jacob Fatu must now acknowledge Roman Reigns; Bloodline civil war resolved. Cody vs. Roman III narrative building. WWE Raw tonight.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — A Roman Reigns and Seth Rollins contract signing is added to the July 13 WWE Raw card.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — A Roman Reigns and Seth Rollins contract signing is added to the July 13 WWE Raw card.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Roman Reigns is tied to the newly added SummerSlam contract signing with Seth Rollins on WWE Raw.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Roman Reigns is tied to the newly added SummerSlam contract signing with Seth Rollins on WWE Raw.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Roman Reigns is the target of Seth Rollins' Raw attack angle, keeping their feud in the headline feed.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Roman Reigns is the target of Seth Rollins' Raw attack angle, keeping their feud in the headline feed.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Roman Reigns headlines the WWE item by promising to close the door on Seth Rollins at SummerSlam.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Roman Reigns headlines the WWE item by promising to close the door on Seth Rollins at SummerSlam.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Raw coverage has Reigns facing off with Seth Rollins and attempting a Shield chair callback.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Raw coverage has Reigns facing off with Seth Rollins and attempting a Shield chair callback.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raw coverage flags his face-off with Seth Rollins on the SummerSlam go-home show.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Raw coverage flags his face-off with Seth Rollins on the SummerSlam go-home show.
 
 ## Related

@@ -15,9 +15,9 @@ Modular is an AI infrastructure company focused on AI software stacks, including
 
 ## Sources
 
-- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-evening.md) — Mojo 1.0 marks a product milestone for Modular's compiler and AI-developer stack.
+- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-evening.md) — Mojo 1.0 marks a product milestone for Modular's compiler and AI-developer stack.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Qualcomm moves to acquire Modular, making compiler/runtime capability part of the AI chip consolidation story.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — Qualcomm moves to acquire Modular, making compiler/runtime capability part of the AI chip consolidation story.
 
 ## Related
 

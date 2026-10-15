@@ -15,9 +15,9 @@ Flint is Microsoft's AI-era visualization-language experiment, tracked here as p
 
 ## Sources
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Microsoft’s AI-era visualization language gets Hacker News/front-page attention.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Microsoft’s AI-era visualization language gets Hacker News/front-page attention.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Appears on Hacker News as “A Visualization Language for the AI Era,” connecting Microsoft tooling to AI-augmented development and visualization workflows.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Appears on Hacker News as “A Visualization Language for the AI Era,” connecting Microsoft tooling to AI-augmented development and visualization workflows.
 
 ## Related
 

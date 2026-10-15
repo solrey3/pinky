@@ -15,19 +15,19 @@ Financial-news and market-data outlet. In the newsletter graph, Yahoo Finance ap
 
 ## Sources
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Supplies weekly earnings/PMI watchlist coverage and Palantir AI-upside stock-watch framing.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Frames higher futures around eased Iran risk and oil/yield relief.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Carries Microsoft AI-cybersecurity upside and Cathie Wood’s renewed Tesla/SpaceX conviction as market-narrative inputs.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Supplies weekly earnings/PMI watchlist coverage and Palantir AI-upside stock-watch framing.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Frames higher futures around eased Iran risk and oil/yield relief.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Carries Microsoft AI-cybersecurity upside and Cathie Wood’s renewed Tesla/SpaceX conviction as market-narrative inputs.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Carries weak-yen coordination and BYD overseas-demand coverage in the business feed.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Carries weak-yen coordination and BYD overseas-demand coverage in the business feed.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Contributes the chargeback/friendly-fraud small-business margin-pressure item.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Contributes the chargeback/friendly-fraud small-business margin-pressure item.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Carries the global-markets tape note that tech earnings boosted stocks while yields climbed.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Carries the global-markets tape note that tech earnings boosted stocks while yields climbed.
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Fed-decision reaction coverage supplies the policy/market context for the overnight tape.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Supplies Fed-reaction and hyperscaler debt/yield coverage, tying policy digestion to AI-infrastructure financing.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Supplies the Shell/energy-volatility item in the lunch-hour business feed.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Fed-decision reaction coverage supplies the policy/market context for the overnight tape.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Supplies Fed-reaction and hyperscaler debt/yield coverage, tying policy digestion to AI-infrastructure financing.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Supplies the Shell/energy-volatility item in the lunch-hour business feed.
 
 ## Related
 

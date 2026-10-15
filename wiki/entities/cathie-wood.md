@@ -15,7 +15,7 @@ Investor associated with high-conviction disruptive-technology bets through ARK 
 
 ## Sources
 
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Doubles down on Tesla and SpaceX as Wall Street turns more cautious.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Doubles down on Tesla and SpaceX as Wall Street turns more cautious.
 
 ## Related
 

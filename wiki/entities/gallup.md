@@ -15,7 +15,7 @@ Gallup is a polling and analytics organization. In the newsletter graph, it appe
 
 ## Sources
 
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — The Hill cites Gallup polling that two in three worry political leaders will pressure officials to change election outcomes.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — The Hill cites Gallup polling that two in three worry political leaders will pressure officials to change election outcomes.
 
 ## Related
 

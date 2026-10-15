@@ -15,7 +15,7 @@ Professional golfer tracked in the dispatch for winning the AIG Women’s Open a
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Enters the wiki through the LPGA leaderboard as AIG Women’s Open winner at -5.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Enters the wiki through the LPGA leaderboard as AIG Women’s Open winner at -5.
 
 ## Related
 

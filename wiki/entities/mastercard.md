@@ -15,7 +15,7 @@ Global payment-network company. In this wiki, Mastercard is relevant to the tran
 
 ## Sources
 
-- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletter-2026-09-18-daytime.md) — Reportedly prepares for AI-agent shopping, raising authentication, authorization, fraud, audit, and dispute questions for machine-initiated payments.
+- [2026-09-18: Morning Dispatch — Friday, September 18, 2026](../sources/newsletters/newsletter-2026-09-18-daytime.md) — Reportedly prepares for AI-agent shopping, raising authentication, authorization, fraud, audit, and dispute questions for machine-initiated payments.
 
 ## Related
 

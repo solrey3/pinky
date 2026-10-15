@@ -15,7 +15,7 @@ Jade Cargill is a professional wrestler tracked in the newsletter graph through 
 
 ## Sources
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Qualifies for the interim Women’s Championship ladder match at WWE SummerSlam, making her part of the Rhea Ripley injury contingency thread.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Qualifies for the interim Women’s Championship ladder match at WWE SummerSlam, making her part of the Rhea Ripley injury contingency thread.
 
 ## Related
 

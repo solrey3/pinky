@@ -14,9 +14,9 @@ Fiscal stimulus and inflation refers to the debate over how government transfers
 
 ## Sources
 
-- [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-daytime.md) — Cooler July CPI suggests easing current price pressure while elevated long rates show that disinflation and financial conditions can diverge.
+- [2026-08-13: Morning Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-daytime.md) — Cooler July CPI suggests easing current price pressure while elevated long rates show that disinflation and financial conditions can diverge.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — A cited study challenges the claim that COVID stimulus checks were a primary inflation cause, keeping causal attribution contested.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — A cited study challenges the claim that COVID stimulus checks were a primary inflation cause, keeping causal attribution contested.
 
 ## Related Concepts
 

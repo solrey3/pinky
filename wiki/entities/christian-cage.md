@@ -35,9 +35,9 @@ source_count: 3
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/christian-cage.md)
-- [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](../sources/newsletter-2026-05-27-evening.md) — Won AEW Tag Team Championship with Edge (Adam Copeland) at Double or Nothing — first tag gold together in 25 years. The win came after both men had been medically retired (Cage ~7 years, Copeland ~9 years) and fought to return to active competition.
+- [2026-05-27: Newsletter 2026-05-27 Evening Dispatch](../sources/newsletters/newsletter-2026-05-27-evening.md) — Won AEW Tag Team Championship with Edge (Adam Copeland) at Double or Nothing — first tag gold together in 25 years. The win came after both men had been medically retired (Cage ~7 years, Copeland ~9 years) and fought to return to active competition.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Christian Cage is named in the AEW Dynamite veteran-chaos spotlight with Rhino and Adam Copeland.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Christian Cage is named in the AEW Dynamite veteran-chaos spotlight with Rhino and Adam Copeland.
 
 ## Related
 

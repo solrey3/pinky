@@ -14,7 +14,7 @@ The right to record police is the First Amendment protection for observing and d
 
 ## Sources
 
-- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-midnight.md) — Reports that the Second Circuit joined the growing federal appellate consensus recognizing a right to record law enforcement in public.
+- [2026-08-18: Midnight Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-midnight.md) — Reports that the Second Circuit joined the growing federal appellate consensus recognizing a right to record law enforcement in public.
 
 ## Related Concepts
 

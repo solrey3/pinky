@@ -15,8 +15,8 @@ Arizona is a U.S. state in the Colorado River basin. In the wiki it appears as p
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Named as the 2027 WWE Royal Rumble destination.
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Listed among the states facing proposed federal Colorado River water-use cuts.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Named as the 2027 WWE Royal Rumble destination.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — Listed among the states facing proposed federal Colorado River water-use cuts.
 
 ## Related
 

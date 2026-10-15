@@ -14,68 +14,68 @@ The foundational compute, networking, and platform layer running on DigitalOcean
 
 ## Sources
 
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Cloudflare’s smaller/faster/safer model-serving notes put Kimi and GLM deployment inside the cloud-infrastructure and inference-efficiency thread.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Cloudflare’s smaller/faster/safer model-serving notes put Kimi and GLM deployment inside the cloud-infrastructure and inference-efficiency thread.
 - [2026-05-10: doctl Cheatsheet](sources/doctl.md) — DigitalOcean CLI for managing droplets, databases, and cloud resources
 - [2026-05-10: nginx Cheatsheet](sources/nginx.md) — Reverse proxy, load balancer, and web server
 - [2026-05-10: Nextcloud Cheatsheet](sources/nextcloud.md) — Self-hosted file sync, collaboration, and PIM platform
 - [2026-05-10: Tailscale Cheatsheet](sources/tailscale.md) — Mesh networking overlay for secure inter-device communication
 - [2026-05-10: Datadog CLI Cheatsheet](sources/datadog-cli.md) — Monitoring, logging, and observability platform
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — Iroh 1.0 appears as a developer networking-stack release, adding peer/network plumbing to the infrastructure watchlist.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Cloudflare temporary accounts for AI agents and PostgresBench's reproducible benchmarking both belong to platform operations: identity, access, performance baselines, and service comparison.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Google reaching **50% IPv6** and Linux epoll/io_uring discussion are infrastructure signals: protocol adoption and kernel I/O primitives shape how services scale.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — Iroh 1.0 appears as a developer networking-stack release, adding peer/network plumbing to the infrastructure watchlist.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Cloudflare temporary accounts for AI agents and PostgresBench's reproducible benchmarking both belong to platform operations: identity, access, performance baselines, and service comparison.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Google reaching **50% IPv6** and Linux epoll/io_uring discussion are infrastructure signals: protocol adoption and kernel I/O primitives shape how services scale.
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Texas requiring data centers to bring their own power and reuse water, plus HTTP QUERY protocol coverage, ties cloud infrastructure to physical resources and web/API semantics.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — Texas requiring data centers to bring their own power and reuse water, plus HTTP QUERY protocol coverage, ties cloud infrastructure to physical resources and web/API semantics.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Oracle's debt-funded AI investment/layoff framing and Samsung's stacked-FET item show AI infrastructure as capital structure, labor allocation, and semiconductor physics.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Oracle's debt-funded AI investment/layoff framing and Samsung's stacked-FET item show AI infrastructure as capital structure, labor allocation, and semiconductor physics.
 
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Oracle's AI-investment layoffs repeat, while a Raspberry Pi Pico W USB Wi-Fi adapter project keeps small hardware/networking in the operator-infrastructure frame.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — Oracle's AI-investment layoffs repeat, while a Raspberry Pi Pico W USB Wi-Fi adapter project keeps small hardware/networking in the operator-infrastructure frame.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — OpenAI/Broadcom custom silicon and Qualcomm's Modular acquisition show AI infrastructure spanning chips, compilers, runtimes, and platform economics.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — OpenAI/Broadcom custom silicon and Qualcomm's Modular acquisition show AI infrastructure spanning chips, compilers, runtimes, and platform economics.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Nvidia's 45°C cooling design and OpenAI/Broadcom inference silicon tie AI infrastructure to thermals, water use, power density, and custom hardware supply.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Nvidia's 45°C cooling design and OpenAI/Broadcom inference silicon tie AI infrastructure to thermals, water use, power density, and custom hardware supply.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — IBM process-scaling claims and Framework's 10G Ethernet/USB-C complexity show that AI-era infrastructure depends on chips, ports, modules, and operational reliability.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — AWS Lambda MicroVMs and SpaceX Starlink mobile service extend the infrastructure graph into sandbox lifecycle control and satellite-to-phone network reach.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Starlink mobile repeats as satellite-to-phone infrastructure, while DeepSeek's inference optimizations make serving efficiency part of the AI infrastructure stack.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — IBM process-scaling claims and Framework's 10G Ethernet/USB-C complexity show that AI-era infrastructure depends on chips, ports, modules, and operational reliability.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — AWS Lambda MicroVMs and SpaceX Starlink mobile service extend the infrastructure graph into sandbox lifecycle control and satellite-to-phone network reach.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — Starlink mobile repeats as satellite-to-phone infrastructure, while DeepSeek's inference optimizations make serving efficiency part of the AI infrastructure stack.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Rocket Lab's planned Iridium acquisition adds satellite communications and space-sector consolidation to the infrastructure watchlist.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — Rocket Lab's planned Iridium acquisition adds satellite communications and space-sector consolidation to the infrastructure watchlist.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Rocket Lab/Iridium extends infrastructure tracking into satellite connectivity and vertically integrated space-network assets.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Rocket Lab/Iridium extends infrastructure tracking into satellite connectivity and vertically integrated space-network assets.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — DOE heat-wave grid orders and Cloudflare x402 both treat infrastructure as an active control surface: one for reliability under stress, the other for edge monetization.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — DOE heat-wave grid orders and Cloudflare x402 both treat infrastructure as an active control surface: one for reliability under stress, the other for edge monetization.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — T-Mobile's reported VMware migration turns Broadcom/VMware fallout into enterprise infrastructure planning: licensing risk, migration cost, and virtualization platform dependence.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — T-Mobile's reported VMware migration turns Broadcom/VMware fallout into enterprise infrastructure planning: licensing risk, migration cost, and virtualization platform dependence.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google AI electricity demand, Podman v6.0.0, and Palantir procurement concerns all widen infrastructure from servers and runtimes into energy and trust policy.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Google AI electricity demand, Podman v6.0.0, and Palantir procurement concerns all widen infrastructure from servers and runtimes into energy and trust policy.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — PgBouncer throughput scaling highlights backend connection management as practical infrastructure work, not just database trivia.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Distributed AI on Iroh, reusable-rocket recovery, and extraction reliability all keep infrastructure framed as repeatable operation under constraints.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — PgBouncer throughput scaling highlights backend connection management as practical infrastructure work, not just database trivia.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Distributed AI on Iroh, reusable-rocket recovery, and extraction reliability all keep infrastructure framed as repeatable operation under constraints.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Agent context overhead, quantum recalibration, prediction-market extraction, and reusable rockets all connect reliability to infrastructure operations.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Agent context overhead, quantum recalibration, prediction-market extraction, and reusable rockets all connect reliability to infrastructure operations.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — GhostLock, Hue firmware recovery, quantum recalibration, rocket reuse, and prediction-market extraction all show infrastructure value depends on operability under failure.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — GhostLock, Hue firmware recovery, quantum recalibration, rocket reuse, and prediction-market extraction all show infrastructure value depends on operability under failure.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Data-center emissions, open-data archive recovery, speech APIs, and market-data extraction all frame infrastructure as accountable operations.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Data-center emissions, open-data archive recovery, speech APIs, and market-data extraction all frame infrastructure as accountable operations.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Data-center permitting, battery recycling, router security, Xcode-free build workflows, and Starship test cadence all appear as infrastructure reliability problems.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Data-center permitting, battery recycling, router security, Xcode-free build workflows, and Starship test cadence all appear as infrastructure reliability problems.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Data-center moratorium coverage, phone-class local-model claims, GitHub Actions OIDC/AWS troubleshooting, and ServiceNow sandbox RCE chatter keep infrastructure reliability and access control in focus.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Data-center moratorium coverage, phone-class local-model claims, GitHub Actions OIDC/AWS troubleshooting, and ServiceNow sandbox RCE chatter keep infrastructure reliability and access control in focus.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Data centers, Secure Boot, Tailscale SSH, Cursor, and phone-class models all show infrastructure as both physical capacity and trust-chain maintenance.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Data centers, Secure Boot, Tailscale SSH, Cursor, and phone-class models all show infrastructure as both physical capacity and trust-chain maintenance.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Open-weights AI, Grok Build, Firefox in WebAssembly, Microsoft patching, and Android app-store changes all treat infrastructure as deployable software plus governance/control surface.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Open-weights AI, Grok Build, Firefox in WebAssembly, Microsoft patching, and Android app-store changes all treat infrastructure as deployable software plus governance/control surface.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Space Development Agency delays, managed Kubernetes economics, and Arch-on-old-hardware revival all stress delivery discipline and cost control in infrastructure choices.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Space Development Agency delays and Grafana OnCall EOL discussion connect infrastructure promises to delivery cadence and lifecycle discipline.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Space Development Agency delays, managed Kubernetes economics, and Arch-on-old-hardware revival all stress delivery discipline and cost control in infrastructure choices.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Space Development Agency delays and Grafana OnCall EOL discussion connect infrastructure promises to delivery cadence and lifecycle discipline.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Space Development Agency delay coverage and local speech-to-text tools frame infrastructure as delivery cadence, deployment locality, and operational control.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Space Development Agency delay coverage and local speech-to-text tools frame infrastructure as delivery cadence, deployment locality, and operational control.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Space Development Agency delay coverage frames defense satellite deployment as delivery-cadence and procurement accountability.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Space Development Agency delay coverage frames defense satellite deployment as delivery-cadence and procurement accountability.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — India's private rocket debut, moon-base competition, and Google-backed wildfire-detection satellites extend infrastructure analysis into launch cadence, orbital sensing, and public-safety systems.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — India's private rocket debut, moon-base competition, and Google-backed wildfire-detection satellites extend infrastructure analysis into launch cadence, orbital sensing, and public-safety systems.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Cloudflare AI traffic controls and the wildfire evacuation of a NASA Deep Space Network complex connect edge-governance decisions to physical infrastructure continuity.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — AI capex, healthcare cold-chain logistics, and token-relay fraud infrastructure tie cloud/control decisions to physical and financial capacity constraints.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Cloudflare AI traffic controls and the wildfire evacuation of a NASA Deep Space Network complex connect edge-governance decisions to physical infrastructure continuity.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — AI capex, healthcare cold-chain logistics, and token-relay fraud infrastructure tie cloud/control decisions to physical and financial capacity constraints.
 
 ## Related Concepts
 

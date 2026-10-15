@@ -14,7 +14,7 @@ Ternary language models constrain weights to three values, commonly -1, 0, and 1
 
 ## Sources
 
-- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-evening.md) — Reports research claiming to break the 1.58-bit barrier for ternary LLMs; the result needs validation against implementation overhead, benchmark quality, hardware performance, and independent replication.
+- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-evening.md) — Reports research claiming to break the 1.58-bit barrier for ternary LLMs; the result needs validation against implementation overhead, benchmark quality, hardware performance, and independent replication.
 
 ## Related Concepts
 

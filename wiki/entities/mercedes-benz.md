@@ -15,7 +15,7 @@ Mercedes-Benz is a German automaker. In this wiki, it appears when trade-securit
 
 ## Sources
 
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Reason warns that a Chinese-car crackdown could unintentionally shut Mercedes-Benz out of U.S. markets.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Reason warns that a Chinese-car crackdown could unintentionally shut Mercedes-Benz out of U.S. markets.
 
 ## Related
 

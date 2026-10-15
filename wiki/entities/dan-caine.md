@@ -15,7 +15,7 @@ U.S. military/defense figure tracked here through congressional testimony and Ir
 
 ## Sources
 
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — U.S. military/defense figure tracked here through congressional testimony and Iran-related escalation coverage.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — U.S. military/defense figure tracked here through congressional testimony and Iran-related escalation coverage.
 
 ## Related
 

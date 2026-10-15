@@ -15,9 +15,9 @@ NBA guard/wing mentioned in the sports wire as joining the Philadelphia 76ers af
 
 ## Sources
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — ESPN item says he will join the 76ers after a Grizzlies buyout, adding to the post-LeBron Philadelphia roster story.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — ESPN item says he will join the 76ers after a Grizzlies buyout, adding to the post-LeBron Philadelphia roster story.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Sports wire repeats that Caldwell-Pope will join the 76ers after a Grizzlies buyout.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Sports wire repeats that Caldwell-Pope will join the 76ers after a Grizzlies buyout.
 
 ## Related
 

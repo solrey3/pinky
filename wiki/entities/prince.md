@@ -23,7 +23,7 @@ American singer, songwriter, musician, and record producer. Widely regarded as o
 
 ## Sources
 
-- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletter-2026-06-04-evening.md) — Unreleased Prince songs collected for new album 'Timeless' announced via BrooklynVegan.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletters/newsletter-2026-06-04-evening.md) — Unreleased Prince songs collected for new album 'Timeless' announced via BrooklynVegan.
 
 ## Related
 

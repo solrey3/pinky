@@ -15,7 +15,7 @@ Amazon Web Services, the cloud infrastructure platform. In the newsletter graph,
 
 ## Sources
 
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — AWS Lambda MicroVMs are framed as isolated sandboxes with full lifecycle control, adding a concrete cloud-sandboxing primitive to the infrastructure watchlist.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — AWS Lambda MicroVMs are framed as isolated sandboxes with full lifecycle control, adding a concrete cloud-sandboxing primitive to the infrastructure watchlist.
 
 ## Related
 

@@ -14,13 +14,13 @@ Right to repair is the principle that owners should be able to diagnose, repair,
 
 ## Sources
 
-- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — A successful John Deere repair tests practical access while continued farmer skepticism shows that one outcome does not establish broad repairability.
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-noon.md) — A successful John Deere repair tests practical access while continued farmer skepticism shows that one outcome does not establish broad repairability.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — John Deere’s self-repair service tests whether manufacturer-provided diagnostics, documentation, parts, and software permissions create practical repair access for farm equipment.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — John Deere’s self-repair service tests whether manufacturer-provided diagnostics, documentation, parts, and software permissions create practical repair access for farm equipment.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Fairphone’s U.S. Gen 6+ launch applies repairability and longer product lifecycles to flagship smartphones.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Fairphone’s U.S. Gen 6+ launch applies repairability and longer product lifecycles to flagship smartphones.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — The FTC/John Deere settlement frames repair access as enforceable consumer-protection policy for agricultural equipment.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — The FTC/John Deere settlement frames repair access as enforceable consumer-protection policy for agricultural equipment.
 
 ## Related Concepts
 

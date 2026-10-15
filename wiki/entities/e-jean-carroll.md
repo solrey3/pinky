@@ -15,7 +15,7 @@ E. Jean Carroll is tracked in the legal/political stream through civil litigatio
 
 ## Sources
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — A judgment-payment headline keeps the Trump civil-litigation thread active.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — A judgment-payment headline keeps the Trump civil-litigation thread active.
 
 ## Related
 

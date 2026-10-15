@@ -15,7 +15,7 @@ The U.S. federal department responsible for energy policy, energy security, and 
 
 ## Sources
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Emergency orders for the Mid-Atlantic grid during a heat wave turn extreme weather into a power-grid resilience and emergency-authority story.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Emergency orders for the Mid-Atlantic grid during a heat wave turn extreme weather into a power-grid resilience and emergency-authority story.
 
 ## Related
 

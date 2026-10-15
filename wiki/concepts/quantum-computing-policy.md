@@ -14,11 +14,11 @@ Quantum computing policy is the governance layer around quantum research, fundin
 
 ## Sources
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Verifiable quantum-advantage coverage shifts the policy question from raw speedup to trustworthy measurement.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Ars Technica focuses on how to trust quantum-computing outperformance claims, keeping verification central to quantum policy.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Ars Technica coverage emphasizes quantum-computing results that can be trusted and verified, shifting the issue from raw advantage claims to validation.
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Trump signs orders to boost quantum research and security, framing quantum computing as strategic policy infrastructure rather than only a laboratory roadmap.
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — White House action shortens the deadline for dropping quantum-vulnerable cryptography, turning quantum policy into concrete post-quantum migration pressure.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Verifiable quantum-advantage coverage shifts the policy question from raw speedup to trustworthy measurement.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Ars Technica focuses on how to trust quantum-computing outperformance claims, keeping verification central to quantum policy.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Ars Technica coverage emphasizes quantum-computing results that can be trusted and verified, shifting the issue from raw advantage claims to validation.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Trump signs orders to boost quantum research and security, framing quantum computing as strategic policy infrastructure rather than only a laboratory roadmap.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — White House action shortens the deadline for dropping quantum-vulnerable cryptography, turning quantum policy into concrete post-quantum migration pressure.
 
 ## Related Concepts
 

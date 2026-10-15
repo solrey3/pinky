@@ -15,7 +15,7 @@ Romania is tracked when its public infrastructure, cybersecurity, or European go
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — A hacker reportedly wipes Romania’s land-registry database, making public-record resilience the key issue.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — A hacker reportedly wipes Romania’s land-registry database, making public-record resilience the key issue.
 
 ## Related
 

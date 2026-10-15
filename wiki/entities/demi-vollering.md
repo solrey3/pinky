@@ -15,21 +15,21 @@ Professional cyclist and Tour de France Femmes general-classification contender.
 
 ## Sources
 
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Leads the Tour de France Femmes prize-money ledger with FDJ after winning the overall race.
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — Leads the Tour de France Femmes prize-money ledger with FDJ after winning the overall race.
 
-- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Wins solo in Nice to secure her second Tour de France Femmes overall title.
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-daytime.md) — Wins solo in Nice to secure her second Tour de France Femmes overall title.
 
-- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-midnight.md) — Wins solo on the final stage in Nice and secures the Tour de France Femmes overall title.
+- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-midnight.md) — Wins solo on the final stage in Nice and secures the Tour de France Femmes overall title.
 
-- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Wins solo on the final stage in Nice and secures the Tour de France Femmes overall title.
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-evening.md) — Wins solo on the final stage in Nice and secures the Tour de France Femmes overall title.
 
-- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — A late Stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-daytime.md) — A late Stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
 
-- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — A late Stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-midnight.md) — A late Stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — A late stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — A late stage 8 attack puts Vollering into the Tour de France Femmes yellow jersey.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Says her plan is on track before the Mont Ventoux showdown.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Says her plan is on track before the Mont Ventoux showdown.
 
 ## Related
 

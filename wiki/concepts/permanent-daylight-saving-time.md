@@ -14,8 +14,8 @@ Permanent daylight saving time is the policy proposal to keep clocks on daylight
 
 ## Sources
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — The House passage of the Sunshine Protection Act puts permanent daylight saving time back into the congressional-process watchlist.
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — House passage keeps permanent daylight saving time in the federal legislative workflow.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — The House passage of the Sunshine Protection Act puts permanent daylight saving time back into the congressional-process watchlist.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — House passage keeps permanent daylight saving time in the federal legislative workflow.
 
 
 ## Related

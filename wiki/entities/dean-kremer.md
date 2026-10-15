@@ -15,7 +15,7 @@ MLB starting pitcher; in this source, he is reportedly being acquired by the Min
 
 ## Sources
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — MLB starting pitcher; in this source, he is reportedly being acquired by the Minnesota Twins from the Baltimore Orioles.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — MLB starting pitcher; in this source, he is reportedly being acquired by the Minnesota Twins from the Baltimore Orioles.
 
 ## Related
 

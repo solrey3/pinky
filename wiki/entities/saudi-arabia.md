@@ -15,19 +15,19 @@ Saudi Arabia is a Gulf monarchy and regional power. In the newsletter graph it a
 
 ## Sources
 
-- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletter-2026-10-12-evening.md) — Repeats reports of airport strikes exchanged with the Houthis and a promised Saudi response as supply anxiety accompanies a sharp oil move.
+- [2026-10-12: Evening Brief — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-evening.md) — Repeats reports of airport strikes exchanged with the Houthis and a promised Saudi response as supply anxiety accompanies a sharp oil move.
 
-- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-daytime.md) — Repeats Saudi-Houthi airport-strike reports and notes Philippine Airlines' suspension of Riyadh flights through November 29.
+- [2026-10-12: Morning Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-daytime.md) — Repeats Saudi-Houthi airport-strike reports and notes Philippine Airlines' suspension of Riyadh flights through November 29.
 
-- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-midnight.md) — Repeats reports of Saudi-Houthi airport strikes and says four Filipinos were injured at Riyadh airport, three of them requiring intensive care.
+- [2026-10-12: Midnight Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-midnight.md) — Repeats reports of Saudi-Houthi airport strikes and says four Filipinos were injured at Riyadh airport, three of them requiring intensive care.
 
-- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-evening.md) — Reportedly exchanges airport strikes with the Houthis, shifting the tracked threat from shipping lanes toward civilian aviation infrastructure and broader regional escalation.
+- [2026-10-11: Evening Brief — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-evening.md) — Reportedly exchanges airport strikes with the Houthis, shifting the tracked threat from shipping lanes toward civilian aviation infrastructure and broader regional escalation.
 
-- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Again frames the East–West Pipeline as strategic redundancy around Strait of Hormuz exposure.
-- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Repeats the East–West Pipeline's role as an alternative oil route around Strait of Hormuz exposure.
-- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — The East–West Pipeline is framed as a strategic oil route that can reduce exposure to Strait of Hormuz disruption.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Forms a Red Sea defense coalition to protect shipping from Houthi attacks, reinforcing the regional maritime-security thread.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Forms a Red Sea defense coalition to protect shipping lanes from Houthi attacks.
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-daytime.md) — Again frames the East–West Pipeline as strategic redundancy around Strait of Hormuz exposure.
+- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-midnight.md) — Repeats the East–West Pipeline's role as an alternative oil route around Strait of Hormuz exposure.
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-evening.md) — The East–West Pipeline is framed as a strategic oil route that can reduce exposure to Strait of Hormuz disruption.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Forms a Red Sea defense coalition to protect shipping from Houthi attacks, reinforcing the regional maritime-security thread.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Forms a Red Sea defense coalition to protect shipping lanes from Houthi attacks.
 
 ## Related
 

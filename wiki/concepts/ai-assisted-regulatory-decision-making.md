@@ -14,7 +14,7 @@ AI-assisted regulatory decision-making is the use of machine-learning or generat
 
 ## Sources
 
-- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-noon.md) — Reports that the EPA may use an opaque AI system in toxic-chemical regulation, making transparency and reviewability central concerns.
+- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-noon.md) — Reports that the EPA may use an opaque AI system in toxic-chemical regulation, making transparency and reviewability central concerns.
 
 ## Related Concepts
 

@@ -35,7 +35,7 @@ source_count: 2
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/darby-allin.md)
-- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — Bully Ray publicly assessed Darby Allin's AEW World Championship run mid-reign, evaluating the effectiveness of his title tenure.
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletters/newsletter-2026-05-27.md) — Bully Ray publicly assessed Darby Allin's AEW World Championship run mid-reign, evaluating the effectiveness of his title tenure.
 
 ## Related
 

@@ -14,13 +14,13 @@ Subscription dark patterns are product and billing designs that make it easier t
 
 ## Sources
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — New York City is reported as moving to become the first U.S. jurisdiction to ban deceptive subscription practices, treating cancellation friction as a consumer-protection target.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — New York City is reported as moving to become the first U.S. jurisdiction to ban deceptive subscription practices, treating cancellation friction as a consumer-protection target.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Mayor Mamdani’s click-to-cancel consumer-protection item keeps cancellation friction and junk-fee design in the dark-patterns graph.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Mayor Mamdani’s click-to-cancel consumer-protection item keeps cancellation friction and junk-fee design in the dark-patterns graph.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — T-Mobile's forced plan migration canceling some free lines shows account-plan migration as a consumer-control and dark-pattern-adjacent risk.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — T-Mobile's forced plan migration canceling some free lines shows account-plan migration as a consumer-control and dark-pattern-adjacent risk.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — T-Mobile's free-line cancellation during forced plan migration repeats as an account-state and consumer-control failure mode.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — T-Mobile's free-line cancellation during forced plan migration repeats as an account-state and consumer-control failure mode.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ Auterion is tracked here as a defense/autonomy technology company in drone and b
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Auterion-linked coverage says AI-enabled cheap kamikaze drones can track targets autonomously for Ukraine.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Auterion-linked coverage says AI-enabled cheap kamikaze drones can track targets autonomously for Ukraine.
 
 ## Related
 

@@ -36,9 +36,9 @@ The 2026 Roland Garros women's draw has now eliminated all three of its pre-tour
 
 ## Sources
 
-- [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — **SHOCK OF THE TOURNAMENT**: def. (1) Aryna Sabalenka 3-6, 7-5, 6-0 in the Roland Garros QF. Advances to the women's SF.
-- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Morning confirmation of QF win and SF position. All three pre-tournament favorites (Swiatek, Gauff, Sabalenka) now eliminated; the women's draw has never been more open. Shnaider enters the SF as one of the genuine contenders for the Coupe Suzanne-Lenglen.
-- [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — **SF result: lost to Maja Chwalinska 7-6(4), 6-4.** Chwalinska advances to the final vs. Andreeva. Both women's finalists are unseeded — historically improbable. Shnaider's Roland Garros 2026 ends in the SF, but her QF destruction of Sabalenka was the defining result of the tournament.
+- [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletters/newsletter-2026-06-03-evening.md) — **SHOCK OF THE TOURNAMENT**: def. (1) Aryna Sabalenka 3-6, 7-5, 6-0 in the Roland Garros QF. Advances to the women's SF.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletters/newsletter-2026-06-04.md) — Morning confirmation of QF win and SF position. All three pre-tournament favorites (Swiatek, Gauff, Sabalenka) now eliminated; the women's draw has never been more open. Shnaider enters the SF as one of the genuine contenders for the Coupe Suzanne-Lenglen.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletters/newsletter-2026-06-04-evening.md) — **SF result: lost to Maja Chwalinska 7-6(4), 6-4.** Chwalinska advances to the final vs. Andreeva. Both women's finalists are unseeded — historically improbable. Shnaider's Roland Garros 2026 ends in the SF, but her QF destruction of Sabalenka was the defining result of the tournament.
 
 ## Related
 

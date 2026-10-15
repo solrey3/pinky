@@ -15,9 +15,9 @@ Thunder Rosa is a professional wrestler tracked here when women's wrestling titl
 
 ## Sources
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Wins the Mexican National Women’s Championship in CMLL, extending AEW/CMLL crossover relevance.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Wins the Mexican National Women’s Championship in CMLL, extending AEW/CMLL crossover relevance.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Listed in the wrestling headlines after winning the Mexican National Women’s Championship.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Listed in the wrestling headlines after winning the Mexican National Women’s Championship.
 
 ## Related
 

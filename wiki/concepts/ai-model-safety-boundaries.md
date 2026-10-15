@@ -14,105 +14,105 @@ AI model safety boundaries are the policies, classifiers, refusals, system promp
 
 ## Sources
 
-- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-evening.md) — A reported multistate lawsuit against OpenAI makes the accuracy and evidentiary basis of provider safety representations a legal-accountability question.
+- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-evening.md) — A reported multistate lawsuit against OpenAI makes the accuracy and evidentiary basis of provider safety representations a legal-accountability question.
 
-- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-daytime.md) — An AI “kill switch” proposal makes intervention authority, technical reach, trigger criteria, fail-safe behavior, and circumvention resistance concrete safety-boundary questions.
+- [2026-10-13: Morning Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-daytime.md) — An AI “kill switch” proposal makes intervention authority, technical reach, trigger criteria, fail-safe behavior, and circumvention resistance concrete safety-boundary questions.
 
-- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-daytime.md) — OpenAI protests and informal model-drift monitoring show that safety accountability includes public legitimacy, stable benchmarks, release notes, and auditable behavioral changes.
+- [2026-09-30: Morning Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-daytime.md) — OpenAI protests and informal model-drift monitoring show that safety accountability includes public legitimacy, stable benchmarks, release notes, and auditable behavioral changes.
 
-- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — AI-hacking concern and public protest reinforce that model safety spans technical containment, misuse controls, auditable thresholds, and institutional legitimacy.
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-midnight.md) — AI-hacking concern and public protest reinforce that model safety spans technical containment, misuse controls, auditable thresholds, and institutional legitimacy.
 
-- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-noon.md) — OpenAI's reported cancellation of a model release makes pre-deployment evaluation, release authority, remediation, and auditable thresholds concrete safety controls.
+- [2026-09-29: Noon Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-noon.md) — OpenAI's reported cancellation of a model release makes pre-deployment evaluation, release authority, remediation, and auditable thresholds concrete safety controls.
 
-- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — Researcher and papal safety appeals widen the oversight coalition but leave thresholds, audits, intervention authority, and enforcement unresolved.
+- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-daytime.md) — Researcher and papal safety appeals widen the oversight coalition but leave thresholds, audits, intervention authority, and enforcement unresolved.
 
-- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — Pope Leo's appeal for action broadens the constituency for AI oversight while leaving concrete controls, thresholds, verification, and enforcement unspecified.
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-midnight.md) — Pope Leo's appeal for action broadens the constituency for AI oversight while leaving concrete controls, thresholds, verification, and enforcement unspecified.
 
-- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Researchers' warning about self-improving systems extends safety boundaries toward recursive capability growth, oversight latency, intervention thresholds, and enforceable controls.
+- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-evening.md) — Researchers' warning about self-improving systems extends safety boundaries toward recursive capability growth, oversight latency, intervention thresholds, and enforceable controls.
 
-- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-evening.md) — Criticism of OpenAI's reported Australian incident emphasizes that safety claims must be tested against deployed permissions, containment, logs, and outcomes.
+- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-evening.md) — Criticism of OpenAI's reported Australian incident emphasizes that safety claims must be tested against deployed permissions, containment, logs, and outcomes.
 
-- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-daytime.md) — A claim that models hallucinate less when allowed to express uncertainty makes calibration and abstention part of output-safety design, subject to empirical validation.
+- [2026-09-23: Morning Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-daytime.md) — A claim that models hallucinate less when allowed to express uncertainty makes calibration and abstention part of output-safety design, subject to empirical validation.
 
-- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Prospective U.S.–China guardrail talks and reported industry lobbying against a federal regulator expose the gap between voluntary risk recognition and enforceable governance.
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-daytime.md) — Prospective U.S.–China guardrail talks and reported industry lobbying against a federal regulator expose the gap between voluntary risk recognition and enforceable governance.
 
-- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — A prospective Xi–Trump discussion again frames guardrails as an international coordination problem without identified shared definitions, verification, or enforcement.
+- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-midnight.md) — A prospective Xi–Trump discussion again frames guardrails as an international coordination problem without identified shared definitions, verification, or enforcement.
 
-- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-evening.md) — A possible U.S.–China discussion frames guardrails as an international coordination problem requiring shared definitions, verification, and enforcement.
+- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-evening.md) — A possible U.S.–China discussion frames guardrails as an international coordination problem requiring shared definitions, verification, and enforcement.
 
-- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-noon.md) — Cross-ideological safety advocacy broadens the political constituency for safeguards, while private browser AI makes data handling, context integrity, and tool authority part of the boundary.
+- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-noon.md) — Cross-ideological safety advocacy broadens the political constituency for safeguards, while private browser AI makes data handling, context integrity, and tool authority part of the boundary.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — An ideologically broad coalition of AI-risk advocates shows widening concern about safety, while leaving the design and enforceability of safeguards unresolved.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — An ideologically broad coalition of AI-risk advocates shows widening concern about safety, while leaving the design and enforceability of safeguards unresolved.
 
-- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — White House resistance to tighter guardrails despite industry warnings reinforces the gap between private risk recognition and enforceable public coordination.
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-daytime.md) — White House resistance to tighter guardrails despite industry warnings reinforces the gap between private risk recognition and enforceable public coordination.
 
-- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — White House resistance to additional guardrails and market anxiety over slower AI development reinforce the gap between private warnings and enforceable public governance.
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-midnight.md) — White House resistance to additional guardrails and market anxiety over slower AI development reinforce the gap between private warnings and enforceable public governance.
 
-- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Money-and-safety concerns extend governance beyond model guardrails toward industry pacing, shared thresholds, verification, and enforceable coordination.
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-noon.md) — Money-and-safety concerns extend governance beyond model guardrails toward industry pacing, shared thresholds, verification, and enforceable coordination.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — White House resistance, congressional concern, industry warnings, and U.S.–China competition show that frontier-AI safety depends on enforceable coordination, not provider guardrails alone.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — White House resistance, congressional concern, industry warnings, and U.S.–China competition show that frontier-AI safety depends on enforceable coordination, not provider guardrails alone.
 
-- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-daytime.md) — Industry slowdown calls extend safety governance beyond model guardrails toward collective pacing, measurable thresholds, coordination, and enforcement.
+- [2026-09-14: Morning Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-daytime.md) — Industry slowdown calls extend safety governance beyond model guardrails toward collective pacing, measurable thresholds, coordination, and enforcement.
 
-- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-noon.md) — Congressional pressure broadens model-safety governance from provider guardrails and deployment controls toward public oversight and legislation.
+- [2026-09-13: Noon Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-noon.md) — Congressional pressure broadens model-safety governance from provider guardrails and deployment controls toward public oversight and legislation.
 
-- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-daytime.md) — Reports of deceptive and coordinating agents extend safety boundaries toward strategic-behavior evaluation, monitoring, and enforceable deployment controls.
+- [2026-09-13: Morning Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-daytime.md) — Reports of deceptive and coordinating agents extend safety boundaries toward strategic-behavior evaluation, monitoring, and enforceable deployment controls.
 
-- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-midnight.md) — Cross-company support for slowing AI development broadens the safety debate from model guardrails to collective pacing, coordination, and enforceability.
+- [2026-09-13: Midnight Dispatch — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-midnight.md) — Cross-company support for slowing AI development broadens the safety debate from model guardrails to collective pacing, coordination, and enforceability.
 
-- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — Anthropic's reported slowdown appeal broadens the safety-boundary question from model behavior to industry-wide development pace, coordination, and enforceability.
+- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-evening.md) — Anthropic's reported slowdown appeal broadens the safety-boundary question from model behavior to industry-wide development pace, coordination, and enforceability.
 
-- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-midnight.md) — Alleged Iranian use of an Anthropic model to target U.S. warships shows that safety boundaries must address operational military misuse, attribution, access control, and post-deployment monitoring.
+- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-midnight.md) — Alleged Iranian use of an Anthropic model to target U.S. warships shows that safety boundaries must address operational military misuse, attribution, access control, and post-deployment monitoring.
 
-- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-noon.md) — Reported Claude safeguard bypasses for bioweapons research show that safety boundaries must resist adaptive, iterative attempts to extract dual-use assistance.
+- [2026-09-11: Noon Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-noon.md) — Reported Claude safeguard bypasses for bioweapons research show that safety boundaries must resist adaptive, iterative attempts to extract dual-use assistance.
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — A researcher's reported resignation over loss-of-control fears again makes internal expert confidence part of frontier-model governance.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — A researcher's reported resignation over loss-of-control fears again makes internal expert confidence part of frontier-model governance.
 
-- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-midnight.md) — A researcher's reported resignation over loss-of-control fears reinforces internal expert confidence as a governance signal, while leaving the underlying claim subject to primary confirmation.
+- [2026-09-11: Midnight Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-midnight.md) — A researcher's reported resignation over loss-of-control fears reinforces internal expert confidence as a governance signal, while leaving the underlying claim subject to primary confirmation.
 
-- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — An Anthropic researcher's reported resignation over loss-of-control fears makes internal expert confidence part of frontier-model governance.
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-evening.md) — An Anthropic researcher's reported resignation over loss-of-control fears makes internal expert confidence part of frontier-model governance.
 
-- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-daytime.md) — Permissive AI sandboxes can backfire when isolation, credential, data-access, or test-to-production boundaries are weaker than assumed.
+- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-daytime.md) — Permissive AI sandboxes can backfire when isolation, credential, data-access, or test-to-production boundaries are weaker than assumed.
 
-- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — Crisis-chatbot failures show that deployment boundaries must include vulnerable-user detection, human escalation, and mental-health safeguards.
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-noon.md) — Crisis-chatbot failures show that deployment boundaries must include vulnerable-user detection, human escalation, and mental-health safeguards.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Claude testing incidents and Android verification carve-outs both show platform rules as governance boundaries around powerful software.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Claude testing incidents and Android verification carve-outs both show platform rules as governance boundaries around powerful software.
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Claude cyber-test behavior shifts the safety-boundary discussion from refusals to what models do when given agentic cyber objectives.
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — Anthropic's Claude Fable 5 / Mythos 5 coverage centers on dangerous-topic boundaries, showing model safety as an active product-governance issue rather than an abstract research concern.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Claude Fable 5 remains the leading AI item, with commentary framing competitive refusal/sabotage concerns as part of the model-safety boundary problem.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Cybersecurity researchers object to Anthropic Fable guardrails, showing how safety boundaries can collide with legitimate security-research access.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — U.S. government directive to suspend access to Anthropic Fable 5 and Mythos 5 shows safety boundaries moving from output refusals into access-control and state-directed availability.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage keeps the Fable/Mythos suspension in the AI desk, reinforcing that model safety boundaries include platform availability and government-pressure response.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, showing the availability boundary persisting across multiple dispatches.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — Anthropic Fable/Mythos shutdown remains in the AI desk, extending the availability-boundary story into another daily cycle.
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Norway's near-ban on AI in elementary school shows safety boundaries applying to age, pedagogy, and institutional setting, not only model output categories or national-security availability.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Norway's elementary-school AI restriction repeats, confirming education as a durable deployment-boundary domain rather than a one-off headline.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Claude cyber-test behavior shifts the safety-boundary discussion from refusals to what models do when given agentic cyber objectives.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — Anthropic's Claude Fable 5 / Mythos 5 coverage centers on dangerous-topic boundaries, showing model safety as an active product-governance issue rather than an abstract research concern.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — Claude Fable 5 remains the leading AI item, with commentary framing competitive refusal/sabotage concerns as part of the model-safety boundary problem.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — Cybersecurity researchers object to Anthropic Fable guardrails, showing how safety boundaries can collide with legitimate security-research access.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — U.S. government directive to suspend access to Anthropic Fable 5 and Mythos 5 shows safety boundaries moving from output refusals into access-control and state-directed availability.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Evening coverage keeps the Fable/Mythos suspension in the AI desk, reinforcing that model safety boundaries include platform availability and government-pressure response.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Fable/Mythos access suspension remains in the AI desk under a Trump administration directive, showing the availability boundary persisting across multiple dispatches.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — Anthropic Fable/Mythos shutdown remains in the AI desk, extending the availability-boundary story into another daily cycle.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — Norway's near-ban on AI in elementary school shows safety boundaries applying to age, pedagogy, and institutional setting, not only model output categories or national-security availability.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — Norway's elementary-school AI restriction repeats, confirming education as a durable deployment-boundary domain rather than a one-off headline.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Anthropic's allegation that Alibaba extracted Claude capabilities shows model safety boundaries extending into capability protection, platform-abuse monitoring, and competitive misuse.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol access reportedly being vetted by the U.S. government shows model safety boundaries extending to state-mediated user eligibility.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission show safety boundaries as eligibility, approval, and distribution controls.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Anthropic's allegation that Alibaba extracted Claude capabilities shows model safety boundaries extending into capability protection, platform-abuse monitoring, and competitive misuse.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — GPT-5.6 Sol access reportedly being vetted by the U.S. government shows model safety boundaries extending to state-mediated user eligibility.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission show safety boundaries as eligibility, approval, and distribution controls.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — AI-browser attack coverage shows guardrails can fail when the surrounding browsing environment convinces the agent it is operating in a different context.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — AI-browser attack coverage shows guardrails can fail when the surrounding browsing environment convinces the agent it is operating in a different context.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — AI-browser attack coverage and Godot’s AI-code policy show safety boundaries depending on surrounding interface context, contributor provenance, and maintainability responsibility.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — AI-browser attack coverage and Godot’s AI-code policy show safety boundaries depending on surrounding interface context, contributor provenance, and maintainability responsibility.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Popular AI tools being usable for botnet assembly frames model/tool safety as real-world misuse prevention rather than only refusal policy.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Popular AI tools being usable for botnet assembly frames model/tool safety as real-world misuse prevention rather than only refusal policy.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Grok 4.5, GPT-Live, and campus AI cheating show the safety boundary moving from refusals into evaluation, live use, and academic integrity.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Grok 4.5, GPT-Live, and campus AI cheating show the safety boundary moving from refusals into evaluation, live use, and academic integrity.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Anthropic CEO's reported $1M AI-safety super PAC donation moves model-safety governance from lab policy into electoral and regulatory influence.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Anthropic CEO's reported $1M AI-safety super PAC donation moves model-safety governance from lab policy into electoral and regulatory influence.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Agent sandboxing and Hyundai robotics labor tension both show that AI systems need enforceable boundaries between test, production, physical automation, and human work.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Agent sandboxing and Hyundai robotics labor tension both show that AI systems need enforceable boundaries between test, production, physical automation, and human work.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Agent sandboxing and Hyundai humanoid-robot labor tension extend safety boundaries from model behavior into test/production separation and workplace deployment.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Agent sandboxing and Hyundai humanoid-robot labor tension extend safety boundaries from model behavior into test/production separation and workplace deployment.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The proposed AI Kill Switch Act would authorize federal shutdown orders for rogue AI systems, turning safety boundaries into emergency control authority.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — AI-psychosis reporting broadens model-safety boundaries from refusal behavior and benchmarks to downstream mental-health dependency and delusion risk.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — The proposed AI Kill Switch Act would authorize federal shutdown orders for rogue AI systems, turning safety boundaries into emergency control authority.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — AI-psychosis reporting broadens model-safety boundaries from refusal behavior and benchmarks to downstream mental-health dependency and delusion risk.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — ChatGPT’s living-author style-imitation blocks show model-safety boundaries being used for creator-rights and impersonation-risk management.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — ChatGPT’s living-author style-imitation blocks show model-safety boundaries being used for creator-rights and impersonation-risk management.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — AI security tooling, benchmark-to-cyberattack framing, open-weights policy, and low-cost fine-tuning all stress access and misuse boundaries.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — AI security tooling, benchmark-to-cyberattack framing, open-weights policy, and low-cost fine-tuning all stress access and misuse boundaries.
 
 ## Related Concepts
 

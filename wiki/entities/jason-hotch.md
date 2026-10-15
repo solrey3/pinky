@@ -15,8 +15,8 @@ Jason Hotch is a professional wrestler appearing in TNA coverage.
 
 ## Sources
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Wins the TNA International Title over Mustafa Ali on the July 30 iMPACT results cycle.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Defeats Mustafa Ali to win the TNA International Title on Impact.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Wins the TNA International Title over Mustafa Ali on the July 30 iMPACT results cycle.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Defeats Mustafa Ali to win the TNA International Title on Impact.
 
 ## Related
 

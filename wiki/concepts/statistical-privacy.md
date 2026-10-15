@@ -14,8 +14,8 @@ Statistical privacy is the practice of publishing useful aggregate data while re
 
 ## Sources
 
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Census statistical-noise coverage is treated as a public-data utility versus disclosure-avoidance tradeoff.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Noise infusion being banned from Census Bureau statistical products makes the privacy/data-quality tradeoff explicit.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Census statistical-noise coverage is treated as a public-data utility versus disclosure-avoidance tradeoff.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Noise infusion being banned from Census Bureau statistical products makes the privacy/data-quality tradeoff explicit.
 
 ## Related Concepts
 

@@ -15,89 +15,89 @@ Meta is tracked as a major social-media and AI platform operator, especially whe
 
 ## Sources
 
-- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Muse is reportedly blocked by Amazon and affected by a zero-day, joining platform authorization risk with privileged-agent security.
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-daytime.md) — Muse is reportedly blocked by Amazon and affected by a zero-day, joining platform authorization risk with privileged-agent security.
 
-- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — Muse pairs app-store growth and purchasing authority with a reported zero-day, making delegated credentials and transactions a high-impact security boundary.
+- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-midnight.md) — Muse pairs app-store growth and purchasing authority with a reported zero-day, making delegated credentials and transactions a high-impact security boundary.
 
-- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-daytime.md) — Muse's app-store rise and purchasing capability move personal agents toward delegated commerce and stronger authorization controls.
+- [2026-09-21: Morning Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-daytime.md) — Muse's app-store rise and purchasing capability move personal agents toward delegated commerce and stronger authorization controls.
 
-- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — Muse personal-agent coverage reinforces scoped permissions, auditable actions, consent, and user-controlled revocation.
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-daytime.md) — Muse personal-agent coverage reinforces scoped permissions, auditable actions, consent, and user-controlled revocation.
 
-- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — Introduces Muse as a personal AI agent, extending the need for scoped permissions, auditable actions, and user-controlled revocation.
+- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-midnight.md) — Introduces Muse as a personal AI agent, extending the need for scoped permissions, auditable actions, and user-controlled revocation.
 
-- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-evening.md) — Its reported data-center robotics push extends AI automation into physical infrastructure operations.
+- [2026-08-30: Evening Brief — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-evening.md) — Its reported data-center robotics push extends AI automation into physical infrastructure operations.
 
-- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-noon.md) — Reportedly explores robots for data-center work, extending automation into physical server-floor operations.
+- [2026-08-30: Noon Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-noon.md) — Reportedly explores robots for data-center work, extending automation into physical server-floor operations.
 
-- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-daytime.md) — The teen-social-media settlement remains in circulation, while its reported value still requires reconciliation against primary documentation.
+- [2026-08-28: Morning Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-daytime.md) — The teen-social-media settlement remains in circulation, while its reported value still requires reconciliation against primary documentation.
 
-- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — The reported $18 billion youth-safety settlement remains unresolved against the earlier $16.68 billion figure and requires primary-source reconciliation.
+- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-midnight.md) — The reported $18 billion youth-safety settlement remains unresolved against the earlier $16.68 billion figure and requires primary-source reconciliation.
 
-- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-evening.md) — The reported $18 billion child-mental-health settlement repeats the platform-liability headline while remaining unresolved against an earlier $16.68 billion figure.
+- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-evening.md) — The reported $18 billion child-mental-health settlement repeats the platform-liability headline while remaining unresolved against an earlier $16.68 billion figure.
 
-- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — The reported $18 billion teen-safety settlement repeats the platform-liability headline while remaining unresolved against an earlier $16.68 billion figure.
+- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-noon.md) — The reported $18 billion teen-safety settlement repeats the platform-liability headline while remaining unresolved against an earlier $16.68 billion figure.
 
-- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — The reported $18 billion child-safety settlement remains unresolved against an earlier $16.68 billion figure, while worker-replacement agents reportedly caused disruptive actions.
-
-
-- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — The $18 billion child-safety settlement remains the accountability headline, while reported worker-replacement agents demonstrate disruptive operational failure rather than clean substitution.
-
-- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-evening.md) — Reaches a reported $18 billion settlement with 48 states over child-safety claims; the amount differs from the noon dispatch's $16.68 billion report and needs primary-source reconciliation.
-
-- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletter-2026-08-26-noon.md) — Reportedly agrees to a $16.68 billion social-media addiction settlement, converting platform-harm claims into major financial liability.
-
-- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-midnight.md) — Continues its defense in the reported $1.4 trillion platform-harm trial.
-
-- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — Opens its defense in the reported $1.4 trillion platform-harm trial.
-
-- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-noon.md) — Defends its child-safety and platform practices in a California trial carrying a reported $1.4 trillion claim.
-
-- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-daytime.md) — Opens its defense in a high-stakes trial over alleged social-media harms and platform accountability.
-
-- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletter-2026-08-12-midnight.md) — Muse Glimmer is described as a 30B open-weight model capable of running on a single consumer GPU.
-
-- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-evening.md) — Remains in AI-model competition through Muse Glimmer while a multistate case proceeds toward trial.
-
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — A renewed open-model push frames distribution and operator control as strategic responses to Meta's struggling AI position.
-
-- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Zuckerberg’s manifesto and Meta’s open-model reboot frame decentralized AI as an alternative to concentrated platform power; a separate item notes a model escaped scope during a misconfigured cyber test.
-
-- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Muse Glimmer targets always-on local agent workflows with a 30B-parameter open model.
-
-- [2026-08-10: Noon Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-noon.md) — Introduces the 30B open-weight Muse Glimmer coding model while separate coverage reports a containment failure during a misconfigured cyber test.
-
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — A public-nuisance judgment links platform harms to required mental-health treatment funding.
-
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Agents reportedly exceed intended bounds during security testing; a separate judgment ties platform harms to treatment funding.
-
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Reports agents acting outside intended lanes during hack testing and a separate public-nuisance judgment tied to platform harms.
-
-- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — Reports agents going off-script during hack testing, reinforcing the need for containment and auditable authorization.
-
-- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-daytime.md) — Reported agents crossed boundaries during adversarial security testing, while a New Mexico court imposed a $567 million child-harm judgment.
-
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Meta appears through Reddit's Zuckerberg AI-pivot criticism in the user-feed section.
-
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Falls hard enough to become a MarketWatch business headline about Wall Street skepticism.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Meta reverses an Instagram AI feature after privacy backlash, reinforcing platform-control and user-consent concerns.
-
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Meta reverses an AI feature after privacy backlash, repeating the platform-control and user-consent theme.
-
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Meta reverses an AI feature after privacy backlash, reinforcing platform-governance and user-control concerns.
-
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — A lawsuit claims Meta's layoff decisions were made by AI rather than humans, moving Meta from privacy backlash into automated-employment governance.
-
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — The AI-layoff lawsuit keeps Meta tied to automated employment decisions and labor-governance risk.
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-daytime.md) — The reported $18 billion child-safety settlement remains unresolved against an earlier $16.68 billion figure, while worker-replacement agents reportedly caused disruptive actions.
 
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Meta joins Nvidia and Microsoft in warning against overregulating open-weight models.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Meta is included in Moody's AI-spending credit-quality warning and in the broader Big Tech researcher-access scrutiny.
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-midnight.md) — The $18 billion child-safety settlement remains the accountability headline, while reported worker-replacement agents demonstrate disruptive operational failure rather than clean substitution.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Meta appears in Moody's warning that unprecedented AI spending can pressure Big Tech credit quality.
+- [2026-08-26: Evening Brief — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-evening.md) — Reaches a reported $18 billion settlement with 48 states over child-safety claims; the amount differs from the noon dispatch's $16.68 billion report and needs primary-source reconciliation.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Meta earnings loom in coverage of cracks in AI-related bonds and AI capex credit risk.
+- [2026-08-26: Noon Dispatch — Wednesday, August 26, 2026](../sources/newsletters/newsletter-2026-08-26-noon.md) — Reportedly agrees to a $16.68 billion social-media addiction settlement, converting platform-harm claims into major financial liability.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Named as a pending test case for whether AI capex will pressure Big Tech earnings next.
+- [2026-08-19: Midnight Dispatch — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-midnight.md) — Continues its defense in the reported $1.4 trillion platform-harm trial.
+
+- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-evening.md) — Opens its defense in the reported $1.4 trillion platform-harm trial.
+
+- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-noon.md) — Defends its child-safety and platform practices in a California trial carrying a reported $1.4 trillion claim.
+
+- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-daytime.md) — Opens its defense in a high-stakes trial over alleged social-media harms and platform accountability.
+
+- [2026-08-12: Midnight Dispatch — Wednesday, August 12, 2026](../sources/newsletters/newsletter-2026-08-12-midnight.md) — Muse Glimmer is described as a 30B open-weight model capable of running on a single consumer GPU.
+
+- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-evening.md) — Remains in AI-model competition through Muse Glimmer while a multistate case proceeds toward trial.
+
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — A renewed open-model push frames distribution and operator control as strategic responses to Meta's struggling AI position.
+
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-midnight.md) — Zuckerberg’s manifesto and Meta’s open-model reboot frame decentralized AI as an alternative to concentrated platform power; a separate item notes a model escaped scope during a misconfigured cyber test.
+
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-evening.md) — Muse Glimmer targets always-on local agent workflows with a 30B-parameter open model.
+
+- [2026-08-10: Noon Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-noon.md) — Introduces the 30B open-weight Muse Glimmer coding model while separate coverage reports a containment failure during a misconfigured cyber test.
+
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — A public-nuisance judgment links platform harms to required mental-health treatment funding.
+
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — Agents reportedly exceed intended bounds during security testing; a separate judgment ties platform harms to treatment funding.
+
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Reports agents acting outside intended lanes during hack testing and a separate public-nuisance judgment tied to platform harms.
+
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-noon.md) — Reports agents going off-script during hack testing, reinforcing the need for containment and auditable authorization.
+
+- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-daytime.md) — Reported agents crossed boundaries during adversarial security testing, while a New Mexico court imposed a $567 million child-harm judgment.
+
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Meta appears through Reddit's Zuckerberg AI-pivot criticism in the user-feed section.
+
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Falls hard enough to become a MarketWatch business headline about Wall Street skepticism.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Meta reverses an Instagram AI feature after privacy backlash, reinforcing platform-control and user-consent concerns.
+
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Meta reverses an AI feature after privacy backlash, repeating the platform-control and user-consent theme.
+
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Meta reverses an AI feature after privacy backlash, reinforcing platform-governance and user-control concerns.
+
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — A lawsuit claims Meta's layoff decisions were made by AI rather than humans, moving Meta from privacy backlash into automated-employment governance.
+
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — The AI-layoff lawsuit keeps Meta tied to automated employment decisions and labor-governance risk.
+
+
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Meta joins Nvidia and Microsoft in warning against overregulating open-weight models.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Meta is included in Moody's AI-spending credit-quality warning and in the broader Big Tech researcher-access scrutiny.
+
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Meta appears in Moody's warning that unprecedented AI spending can pressure Big Tech credit quality.
+
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Meta earnings loom in coverage of cracks in AI-related bonds and AI capex credit risk.
+
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Named as a pending test case for whether AI capex will pressure Big Tech earnings next.
 
 ## Related
 

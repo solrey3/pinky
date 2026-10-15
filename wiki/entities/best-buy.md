@@ -15,13 +15,13 @@ Best Buy is a consumer-electronics retailer tracked here when store strategy, re
 
 ## Sources
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Best Buy's incoming CEO again frames growth through smaller-format stores rather than mall-era scale.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Best Buy's incoming CEO again frames growth through smaller-format stores rather than mall-era scale.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Best Buy repeats the smaller-store growth strategy under incoming CEO Jason Bonfig.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Best Buy repeats the smaller-store growth strategy under incoming CEO Jason Bonfig.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Incoming CEO Jason Bonfig argues for smaller stores as the next growth play, making retail footprint strategy the business hook.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Incoming CEO Jason Bonfig argues for smaller stores as the next growth play, making retail footprint strategy the business hook.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Incoming CEO coverage frames growth as a smaller-store strategy rather than a bigger-footprint retail push.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Incoming CEO coverage frames growth as a smaller-store strategy rather than a bigger-footprint retail push.
 
 ## Related
 

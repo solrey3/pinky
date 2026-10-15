@@ -14,9 +14,9 @@ Prompt injection is an attack or manipulation in which untrusted content contain
 
 ## Sources
 
-- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-noon.md) — A Microsoft Copilot compromise involving disclosed secret input extends the threat from hostile documents into assistant context and protected-instruction leakage.
+- [2026-08-18: Noon Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-noon.md) — A Microsoft Copilot compromise involving disclosed secret input extends the threat from hostile documents into assistant context and protected-instruction leakage.
 
-- [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-noon.md) — A court faulted a self-represented plaintiff for hiding prompt-injection text in a filing, moving the threat from laboratory and web contexts into judicial workflow.
+- [2026-08-13: Noon Dispatch — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-noon.md) — A court faulted a self-represented plaintiff for hiding prompt-injection text in a filing, moving the threat from laboratory and web contexts into judicial workflow.
 
 ## Related Concepts
 

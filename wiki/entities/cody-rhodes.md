@@ -34,40 +34,40 @@ source_count: 21
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Loses the WWE Title match after Randy Orton’s RKO angle at SummerSlam.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Loses the WWE Title match after Randy Orton’s RKO angle at SummerSlam.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Cody Rhodes is cost a WWE title match by Randy Orton's return at SummerSlam.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Cody Rhodes is cost a WWE title match by Randy Orton's return at SummerSlam.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Cody Rhodes is attacked by Randy Orton in the SummerSlam title-finish headline.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Cody Rhodes is attacked by Randy Orton in the SummerSlam title-finish headline.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Closes the SmackDown go-home cycle opposite CM Punk before SummerSlam.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Closes the SmackDown go-home cycle opposite CM Punk before SummerSlam.
 
 - [2026-05-27: Raw notes](../../raw/people/cody-rhodes.md)
-- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletter-2026-05-29-evening.md) — SmackDown live from Barcelona (Clash in Italy go-home show). Cody vs. Gunther set to **kick off** Clash in Italy — the title match opens the event, not closes it. Cody called out Gunther directly: *"I know that you want it — otherwise I'd be talking to a 330lb version of yourself in front of a couple hundred people at an indy show."*
-- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletter-2026-05-31-evening.md) — **WWE Clash in Italy, Turin**: Cody Rhodes retains the WWE Championship over Gunther in a **controversial finish**. King of the Ring 2026 bracket revealed. Cody told TMZ he wants a match on a decommissioned aircraft carrier — *"The American Nightmare has range."*
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletter-2026-06-01.md) — Morning-after confirmation of Clash in Italy retention. Teaser for Cody vs. Roman III already building. WWE Raw June 1 live; King and Queen of the Ring 2026 brackets to be revealed tonight.
-- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Cody Rhodes faced Gunther in the house show main event. Mid-match, Cody threw the **Stardust cartwheel** — a callback to his pre-WWE persona — and a fan at ringside cosplaying as Stardust absolutely lost it. The moment went viral on r/SquaredCircle. Cody vs. Gunther: the feud travels even to European house shows.
-- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletter-2026-06-05-evening.md) — **WWE SmackDown Bologna**: Cody Rhodes **agrees to defend the Undisputed WWE Title vs. Gunther on June 19 SmackDown**. Stipulation to be revealed June 12. The feud continues — now officially booked for television.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — SmackDown follow-up advertises **Cody Rhodes vs. Gunther** for the WWE Championship rematch on June 19.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletters/newsletter-2026-05-29-evening.md) — SmackDown live from Barcelona (Clash in Italy go-home show). Cody vs. Gunther set to **kick off** Clash in Italy — the title match opens the event, not closes it. Cody called out Gunther directly: *"I know that you want it — otherwise I'd be talking to a 330lb version of yourself in front of a couple hundred people at an indy show."*
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletters/newsletter-2026-05-31-evening.md) — **WWE Clash in Italy, Turin**: Cody Rhodes retains the WWE Championship over Gunther in a **controversial finish**. King of the Ring 2026 bracket revealed. Cody told TMZ he wants a match on a decommissioned aircraft carrier — *"The American Nightmare has range."*
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — Morning-after confirmation of Clash in Italy retention. Teaser for Cody vs. Roman III already building. WWE Raw June 1 live; King and Queen of the Ring 2026 brackets to be revealed tonight.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-05.md) — **WWE Live — Lisbon, Spain (June 4)**: Cody Rhodes faced Gunther in the house show main event. Mid-match, Cody threw the **Stardust cartwheel** — a callback to his pre-WWE persona — and a fan at ringside cosplaying as Stardust absolutely lost it. The moment went viral on r/SquaredCircle. Cody vs. Gunther: the feud travels even to European house shows.
+- [2026-06-05: Evening Brief — June 5, 2026](../sources/newsletters/newsletter-2026-06-05-evening.md) — **WWE SmackDown Bologna**: Cody Rhodes **agrees to defend the Undisputed WWE Title vs. Gunther on June 19 SmackDown**. Stipulation to be revealed June 12. The feud continues — now officially booked for television.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — SmackDown follow-up advertises **Cody Rhodes vs. Gunther** for the WWE Championship rematch on June 19.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Cody Rhodes defeats Jey Uso on SmackDown and is positioned to challenge Sami Zayn for the WWE title on Raw.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Cody Rhodes defeats Jey Uso on SmackDown and is positioned to challenge Sami Zayn for the WWE title on Raw.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Cody Rhodes' SmackDown win over Jey Uso carries forward as the setup for an Undisputed WWE Title challenge against Sami Zayn on Raw.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Cody Rhodes' SmackDown win over Jey Uso carries forward as the setup for an Undisputed WWE Title challenge against Sami Zayn on Raw.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — The Raw title report frames Cody Rhodes as replaced by CM Punk in the Undisputed WWE Championship match.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — The Raw title report frames Cody Rhodes as replaced by CM Punk in the Undisputed WWE Championship match.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Tony Khan commentary about Cody Rhodes never challenging for the AEW World Title again appears alongside WWE Raw fallout, keeping Cody connected to both WWE and AEW memory.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Tony Khan commentary about Cody Rhodes never challenging for the AEW World Title again appears alongside WWE Raw fallout, keeping Cody connected to both WWE and AEW memory.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Cody Rhodes is advertised alongside CM Punk against Gunther and Sami Zayn at Saturday Night’s Main Event.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Cody Rhodes is advertised alongside CM Punk against Gunther and Sami Zayn at Saturday Night’s Main Event.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Cody Rhodes is booked against CM Punk for SummerSlam, keeping him in WWE main-event continuity.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Cody vs. Punk at SummerSlam remains an active WWE storyline note.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Cody Rhodes is booked against CM Punk for SummerSlam, keeping him in WWE main-event continuity.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Cody vs. Punk at SummerSlam remains an active WWE storyline note.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Cody Rhodes is listed for the July 17 WWE SmackDown appearance slot alongside CM Punk.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Cody Rhodes is listed for the July 17 WWE SmackDown appearance slot alongside CM Punk.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Cody Rhodes is part of the SNME tag stipulation that could expand the SummerSlam Undisputed WWE Championship match.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Cody Rhodes is part of the SNME tag stipulation that could expand the SummerSlam Undisputed WWE Championship match.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Cody Rhodes appears through CM Punk's paranoia/backstab promo framing.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Cody Rhodes appears through CM Punk's paranoia/backstab promo framing.
 
 ## Related
 

@@ -15,7 +15,7 @@ The Miami Hurricanes are tracked here as a college-sports program, especially fo
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The program is reported to have reached a contract extension with Mario Cristobal.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — The program is reported to have reached a contract extension with Mario Cristobal.
 
 ## Related
 

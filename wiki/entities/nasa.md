@@ -15,36 +15,36 @@ NASA is the United States civilian space agency. In the newsletter stream it app
 
 ## Sources
 
-- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-evening.md) — Reports that two Venus missions survived cancellation threats, illustrating budget and portfolio risk; current authorization, funding, and schedules need primary confirmation.
+- [2026-10-14: Evening Brief — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-evening.md) — Reports that two Venus missions survived cancellation threats, illustrating budget and portfolio risk; current authorization, funding, and schedules need primary confirmation.
 
-- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-noon.md) — Reports a rapidly assembled unconventional rescue mission for Swift. **Contradiction:** the August 20 dispatch says NASA abandoned a proposed rescue, so the current mission status requires primary confirmation.
+- [2026-10-01: Noon Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-noon.md) — Reports a rapidly assembled unconventional rescue mission for Swift. **Contradiction:** the August 20 dispatch says NASA abandoned a proposed rescue, so the current mission status requires primary confirmation.
 
-- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-noon.md) — Roman Space Telescope fuel is reported sufficient for 22 years, creating mission-extension option value while leaving hardware, funding, and operations as separate constraints.
+- [2026-09-16: Noon Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-noon.md) — Roman Space Telescope fuel is reported sufficient for 22 years, creating mission-extension option value while leaving hardware, funding, and operations as separate constraints.
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Europe's decision to continue a Venus mission after NASA withdraws a radar instrument highlights partner and payload dependencies.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — Europe's decision to continue a Venus mission after NASA withdraws a radar instrument highlights partner and payload dependencies.
 
-- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-evening.md) — Europe plans to continue a Venus mission after NASA withdraws a radar instrument, exposing international payload and mission-continuity dependencies.
+- [2026-09-10: Evening Brief — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-evening.md) — Europe plans to continue a Venus mission after NASA withdraws a radar instrument, exposing international payload and mission-continuity dependencies.
 
-- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Changes lunar-spacesuit design under Artemis IV schedule pressure, showing timeline risk reaching mission hardware.
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-evening.md) — Changes lunar-spacesuit design under Artemis IV schedule pressure, showing timeline risk reaching mission hardware.
 
-- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — Reportedly commits $700 million to Blue Origin for Mars missions, linking public exploration goals to commercial launch procurement.
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-daytime.md) — Reportedly commits $700 million to Blue Origin for Mars missions, linking public exploration goals to commercial launch procurement.
 
-- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Its administrator again places orbital data centers into policy debate, leaving launch, power, thermal, servicing, debris, and lifecycle constraints unresolved.
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-daytime.md) — Its administrator again places orbital data centers into policy debate, leaving launch, power, thermal, servicing, debris, and lifecycle constraints unresolved.
 
 
-- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Its administrator raises orbital data centers as a policy possibility, moving compute siting into launch, thermal, maintenance, debris, and lifecycle questions.
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-midnight.md) — Its administrator raises orbital data centers as a policy possibility, moving compute siting into launch, thermal, maintenance, debris, and lifecycle questions.
 
-- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — NASA abandons a proposed rescue of the Swift gamma-ray observatory, illustrating science-mission triage under operational constraints.
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-daytime.md) — NASA abandons a proposed rescue of the Swift gamma-ray observatory, illustrating science-mission triage under operational constraints.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Autonomous driving on Mars is presented as a successful high-consequence deployment.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — Autonomous driving on Mars is presented as a successful high-consequence deployment.
 
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — NASA announces the Artemis III crew, keeping the Moon-return arc active in the daily news feed.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — NASA announces the Artemis III crew, keeping the Moon-return arc active in the daily news feed.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — A NewsNation item previews NASA astronaut Anil Menon's trip to the space station, keeping NASA in the orbital-operations news stream.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — A NewsNation item previews NASA astronaut Anil Menon's trip to the space station, keeping NASA in the orbital-operations news stream.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A wildfire forces evacuation of a Deep Space Network complex in Spain, making space communications physically fragile.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — A wildfire forces evacuation of a Deep Space Network complex in Spain, making space communications physically fragile.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — NASA enters via Deep Space Network wildfire evacuation risk in Spain.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — NASA enters via Deep Space Network wildfire evacuation risk in Spain.
 
 ## Related
 

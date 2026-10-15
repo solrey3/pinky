@@ -15,9 +15,9 @@ Korean industrial and technology group tracked here through a security-camera cr
 
 ## Sources
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — A security camera allegedly shipped a GitHub admin token in its login page, making hardware supply-chain security concrete.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — A security camera allegedly shipped a GitHub admin token in its login page, making hardware supply-chain security concrete.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Its security-camera login page allegedly shipped a GitHub admin token, a direct credential-provenance failure.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Its security-camera login page allegedly shipped a GitHub admin token, a direct credential-provenance failure.
 
 ## Related
 

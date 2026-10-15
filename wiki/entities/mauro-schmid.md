@@ -15,9 +15,9 @@ Mauro Schmid is a professional cyclist tracked here through Tour de France stage
 
 ## Sources
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Schmid outduels Harold Tejada to win Tour de France Stage 13 while Tadej Pogacar keeps the GC lead.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Schmid outduels Harold Tejada to win Tour de France Stage 13 while Tadej Pogacar keeps the GC lead.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Mauro Schmid wins Tour de France Stage 13 in **4h 06' 58''**, adding a stage-result marker to the cycling graph.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Mauro Schmid wins Tour de France Stage 13 in **4h 06' 58''**, adding a stage-result marker to the cycling graph.
 
 ## Related
 

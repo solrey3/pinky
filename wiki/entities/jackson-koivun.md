@@ -15,14 +15,14 @@ Golfer mentioned in the newsletter sports wire as leading the PGA 3M Open after 
 
 ## Sources
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Shoots 61 and leads the 3M Open at 20-under after Round 3.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Wins the 3M Open at -25 in his third professional start, holding off Scottie Scheffler.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Shoots 61 and leads the 3M Open at 20-under after Round 3.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Wins the 3M Open at -25 in his third professional start, holding off Scottie Scheffler.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Koivun wins the 3M Open in his third pro start, holding off Scottie Scheffler.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Koivun wins the 3M Open in his third pro start, holding off Scottie Scheffler.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Jackson Koivun wins the 3M Open in his third professional start.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Jackson Koivun wins the 3M Open in his third professional start.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Wins the 3M Open at **-25**, ahead of Scottie Scheffler.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Wins the 3M Open at **-25**, ahead of Scottie Scheffler.
 
 ## Related
 

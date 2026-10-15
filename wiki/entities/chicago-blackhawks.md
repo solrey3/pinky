@@ -15,13 +15,13 @@ The Blackhawks are tied to Connor Bedard's reported five-year, $75M contract.
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — The Blackhawks are tied to Connor Bedard's reported five-year, $75M contract.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — The Blackhawks are tied to Connor Bedard's reported five-year, $75M contract.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Chicago anchors the NHL newswire through Connor Bedard's reported five-year, $75M agreement.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Chicago anchors the NHL newswire through Connor Bedard's reported five-year, $75M agreement.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Blackhawks coverage centers on Bedard hoping for a Patrick Kane reunion.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The Blackhawks appear through Bedard's hope for a Kane reunion, tying present roster development to franchise nostalgia.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Patrick Kane’s two-year return puts Chicago back into the NHL newswire.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Blackhawks coverage centers on Bedard hoping for a Patrick Kane reunion.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — The Blackhawks appear through Bedard's hope for a Kane reunion, tying present roster development to franchise nostalgia.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Patrick Kane’s two-year return puts Chicago back into the NHL newswire.
 
 ## Related
 

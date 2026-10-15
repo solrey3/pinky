@@ -15,153 +15,153 @@ American professional wrestling promotion formerly known as Impact Wrestling. In
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — TNA iMPACT! is listed for Aug. 6 on AXS TV/TNA+.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — TNA appears through its upcoming iMPACT! schedule and Jody Threat/Mara Sadè departure news.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Announces the departures of Jody Threat and Mara Sadè.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — TNA appears through iMPACT! schedule continuity and reporting that Jody Threat was granted her release.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — TNA iMPACT! schedule and The Righteous/AJ Francis item appear in the wrestling ledger.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — TNA iMPACT! schedule and The Righteous/AJ Francis headline keep the promotion in the weekly ledger.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — TNA iMPACT! is listed for Aug. 6 on AXS TV/TNA+.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — TNA appears through its upcoming iMPACT! schedule and Jody Threat/Mara Sadè departure news.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Announces the departures of Jody Threat and Mara Sadè.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — TNA appears through iMPACT! schedule continuity and reporting that Jody Threat was granted her release.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — TNA iMPACT! schedule and The Righteous/AJ Francis item appear in the wrestling ledger.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — TNA iMPACT! schedule and The Righteous/AJ Francis headline keep the promotion in the weekly ledger.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — TNA iMPACT!/TNA+ schedule appears in the wrestling calendar.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — TNA iMPACT!/TNA+ schedule appears in the wrestling calendar.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — TNA remains in the weekly TV/specials schedule table.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — TNA remains in the weekly TV/specials schedule table.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — TNA remains in the weekly wrestling calendar through iMPACT! and TNA+ scheduling.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — TNA remains in the weekly wrestling calendar through iMPACT! and TNA+ scheduling.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — TNA iMPACT calendar continuity keeps the promotion in the weekly wrestling schedule layer.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — TNA iMPACT calendar continuity keeps the promotion in the weekly wrestling schedule layer.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — TNA appears through upcoming iMPACT! schedule and taping-spoiler headlines.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — TNA appears through upcoming iMPACT! schedule and taping-spoiler headlines.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — TNA appears through Jason Hotch’s International Title upset and NXT/TNA crossover title-tournament notes.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — TNA iMPACT records Jason Hotch winning the International Title and the Knockouts TV tournament moving to semifinals.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Impact coverage records Jason Hotch winning the International Title and the Knockouts TV Title tournament advancing.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — TNA iMPACT! and a :30 Second Takedown partnership keep TNA in the weekly wrestling-distribution feed.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — TNA iMPACT! preview and Thursday calendar items keep TNA in the wrestling feed.
-- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletter-2026-06-17-evening.md) — TNA announces a workforce reduction; reporting confirms departures involving Tommy Dreamer and Tessa Blanchard, with Sami Callihan also confirming his exit.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — The workforce-reduction story persists into the morning feed, confirming that TNA's promotion-level instability remains the durable wrestling business item.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — TNA and OVW are reportedly working toward a partnership, adding a business-development note after the workforce-reduction cycle.
-- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — TNA Impact results appear in the morning wrestling digest, shifting the promotion's feed presence from workforce/partnership news back to weekly television output.
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — TNA remains in the digest through arrivals/departures reporting and Trey Miguel signing a new deal, keeping roster stability and contracts in focus.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — TNA appears through Jason Hotch’s International Title upset and NXT/TNA crossover title-tournament notes.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — TNA iMPACT records Jason Hotch winning the International Title and the Knockouts TV tournament moving to semifinals.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Impact coverage records Jason Hotch winning the International Title and the Knockouts TV Title tournament advancing.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — TNA iMPACT! and a :30 Second Takedown partnership keep TNA in the weekly wrestling-distribution feed.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — TNA iMPACT! preview and Thursday calendar items keep TNA in the wrestling feed.
+- [2026-06-17: Evening Brief — Wednesday, June 17, 2026](../sources/newsletters/newsletter-2026-06-17-evening.md) — TNA announces a workforce reduction; reporting confirms departures involving Tommy Dreamer and Tessa Blanchard, with Sami Callihan also confirming his exit.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — The workforce-reduction story persists into the morning feed, confirming that TNA's promotion-level instability remains the durable wrestling business item.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — TNA and OVW are reportedly working toward a partnership, adding a business-development note after the workforce-reduction cycle.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-19.md) — TNA Impact results appear in the morning wrestling digest, shifting the promotion's feed presence from workforce/partnership news back to weekly television output.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — TNA remains in the digest through arrivals/departures reporting and Trey Miguel signing a new deal, keeping roster stability and contracts in focus.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Tommy Dreamer accusations after a creative ouster keep TNA in a personnel/conduct and organizational-stability lane.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Tommy Dreamer accusations after a creative ouster keep TNA in a personnel/conduct and organizational-stability lane.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Tony Khan says he has no interest in buying TNA for **$40 million**, putting TNA back in the broader promotion-business rumor cycle.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — Tony Khan says he has no interest in buying TNA for **$40 million**, putting TNA back in the broader promotion-business rumor cycle.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — TNA Impact results and sale-rumor chatter remain active, with Tony Khan again rejecting interest in a TNA purchase.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — TNA leads the wrestling digest through Impact discussion and Joe Doering's death at 44 after a long battle with brain cancer.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — TNA Impact results and sale-rumor chatter remain active, with Tony Khan again rejecting interest in a TNA purchase.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — TNA leads the wrestling digest through Impact discussion and Joe Doering's death at 44 after a long battle with brain cancer.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — TNA appears through iMPACT schedule context and a Slammiversary preview, keeping the promotion in the major-show watchlist.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — TNA appears through iMPACT schedule context and a Slammiversary preview, keeping the promotion in the major-show watchlist.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — TNA leads fresh wrestling headlines through Slammiversary notes: Amazing Red Hall of Fame recognition, Knockouts tag-title movement, and Cedric Alexander winning Ultimate X.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — TNA leads fresh wrestling headlines through Slammiversary notes: Amazing Red Hall of Fame recognition, Knockouts tag-title movement, and Cedric Alexander winning Ultimate X.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Slammiversary fallout keeps TNA active through women's-division title changes and roster reset notes.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — Slammiversary fallout keeps TNA active through women's-division title changes and roster reset notes.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — TNA appears through Slammiversary satisfaction reporting, creative-change details, and iMPACT!/TNA+ schedule context.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — TNA appears through Slammiversary satisfaction reporting, creative-change details, and iMPACT!/TNA+ schedule context.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — iMPACT! remains in the weekly wrestling calendar through AXS TV/TNA+.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — iMPACT! remains in the weekly wrestling calendar through AXS TV/TNA+.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Knockouts TV Title tournament news and Mike Santana exit reporting keep TNA in title-creation and roster-change mode.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Knockouts TV Title tournament news and Mike Santana exit reporting keep TNA in title-creation and roster-change mode.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — The first Knockouts Television Champion bracket creates a new title/tournament thread for TNA’s women’s division.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — The first Knockouts Television Champion bracket creates a new title/tournament thread for TNA’s women’s division.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — TNA coverage centers on Eric Young's release, the company statement, and the regular iMPACT!/TNA+ calendar slot.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — TNA coverage centers on Eric Young's release, the company statement, and the regular iMPACT!/TNA+ calendar slot.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — TNA appears through iMPACT! scheduling and Eric Young reportedly exiting the roster.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — TNA appears through iMPACT! scheduling and Eric Young reportedly exiting the roster.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — TNA appears through iMPACT! scheduling, Kiera Hogan return-interest coverage, and Leon Slater vs. Eddie Edwards booking.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — TNA appears through iMPACT! scheduling, Kiera Hogan return-interest coverage, and Leon Slater vs. Eddie Edwards booking.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Impact results feature Eddie Edwards pinning Leon Slater and the Knockouts TV Title tournament beginning.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Impact results feature Eddie Edwards pinning Leon Slater and the Knockouts TV Title tournament beginning.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — TNA appears through iMPACT!/TNA+ scheduling, Trey Miguel’s clearance, and JBL/Road Dogg creative chatter.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — TNA appears through iMPACT!/TNA+ scheduling, Trey Miguel’s clearance, and JBL/Road Dogg creative chatter.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — TNA updates include Trey Miguel being cleared after a knee injury plus the continuing iMPACT!/events calendar.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — TNA updates include Trey Miguel being cleared after a knee injury plus the continuing iMPACT!/events calendar.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — TNA stays active through the July 9 iMPACT! listing plus Leon Slater/Ricky Sosa and Trey Miguel health-status items.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — TNA stays active through the July 9 iMPACT! listing plus Leon Slater/Ricky Sosa and Trey Miguel health-status items.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — TNA stays active through the July 9 iMPACT! listing on AXS/TNA+.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — TNA stays active through the July 9 iMPACT! listing on AXS/TNA+.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — TNA iMPACT! remains on the weekly calendar through AXS/TNA+.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — TNA iMPACT! remains on the weekly calendar through AXS/TNA+.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — TNA remains part of the weekly wrestling calendar through iMPACT! on AXS TV / TNA+.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — TNA remains part of the weekly wrestling calendar through iMPACT! on AXS TV / TNA+.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — TNA appears through iMPACT!/TNA+ scheduling, keeping it as a weekly wrestling ecosystem node rather than a major news driver in this source.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — TNA appears through iMPACT!/TNA+ scheduling, keeping it as a weekly wrestling ecosystem node rather than a major news driver in this source.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — TNA iMPACT! remains on the weekly wrestling schedule board.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — TNA iMPACT! remains on the weekly wrestling schedule board.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — TNA iMPACT! scheduling continues, with Nic Nemeth vs. Jeff Hardy and Mike Santana free-agency hints as story notes.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — TNA iMPACT! scheduling continues, with Nic Nemeth vs. Jeff Hardy and Mike Santana free-agency hints as story notes.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — TNA iMPACT! is listed for July 9 on AXS TV/TNA+ in the weekly wrestling calendar.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — TNA iMPACT! is listed for July 9 on AXS TV/TNA+ in the weekly wrestling calendar.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — TNA coverage includes Steve Maclin discussing next steps after his exit plus iMPACT! calendar continuity.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — TNA coverage includes Steve Maclin discussing next steps after his exit plus iMPACT! calendar continuity.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — TNA Impact results foreground Knockouts title and tournament action, keeping TNA in weekly-results continuity.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — TNA Impact results foreground Knockouts title and tournament action, keeping TNA in weekly-results continuity.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — TNA coverage adds Jeff Hardy cinematic-match teasing and an earlier Lockdown start time, keeping the promotion in the multi-company wrestling calendar.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — TNA coverage adds Jeff Hardy cinematic-match teasing and an earlier Lockdown start time, keeping the promotion in the multi-company wrestling calendar.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — TNA remains in the weekly wrestling calendar through its iMPACT!/TNA+ window.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — TNA remains in the weekly wrestling calendar through its iMPACT!/TNA+ window.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — TNA appears through iMPACT! scheduling and Nic Nemeth's comments on why his TNA title win means more than his WWE reign.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — TNA remains on the weekly wrestling calendar with iMPACT! on Thursday.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — TNA appears through iMPACT! scheduling and Nic Nemeth's comments on why his TNA title win means more than his WWE reign.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — TNA remains on the weekly wrestling calendar with iMPACT! on Thursday.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — TNA appears on the weekly calendar and in Bully Ray criticism of the company's top-level issues.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — TNA appears on the weekly calendar and in Bully Ray criticism of the company's top-level issues.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — TNA remains in the weekly wrestling schedule through iMPACT!/TNA+ listing.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — TNA remains in the weekly wrestling schedule through iMPACT!/TNA+ listing.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — TNA iMPACT is listed for July 16, with KC Navarro and Lockdown-poster items adding newswire continuity.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — TNA iMPACT is listed for July 16, with KC Navarro and Lockdown-poster items adding newswire continuity.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — TNA remains in the weekly calendar through the July 16 iMPACT! window on AXS TV/TNA+.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — TNA remains in the weekly calendar through the July 16 iMPACT! window on AXS TV/TNA+.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — TNA remains in the calendar and headline file with a July 30 iMPACT! tag-match announcement.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — TNA remains in the calendar and headline file with a July 30 iMPACT! tag-match announcement.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — TNA stays in the Thursday iMPACT!/events-tracking slot.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — TNA stays in the Thursday iMPACT!/events-tracking slot.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — TNA remains in the wrestling calendar through Thursday iMPACT! on AXS/TNA+.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — TNA remains in the wrestling calendar through Thursday iMPACT! on AXS/TNA+.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — TNA iMPACT! remains on the July 16 calendar, with Scott D’Amore's exit/buyout timeline in the headlines.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — TNA iMPACT! remains on the July 16 calendar, with Scott D’Amore's exit/buyout timeline in the headlines.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — TNA remains active through iMPACT! scheduling, reported roster releases, and Mike Santana roster-page movement.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — TNA remains active through iMPACT! scheduling, reported roster releases, and Mike Santana roster-page movement.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — TNA iMPACT coverage centers on an X-Division title bout and Cedric Alexander defending against Fabian Aichner.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — TNA iMPACT coverage centers on an X-Division title bout and Cedric Alexander defending against Fabian Aichner.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — TNA appears through a history feature and the recurring iMPACT/event-calendar lane.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — TNA appears through a history feature and the recurring iMPACT/event-calendar lane.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — TNA stays in the calendar through iMPACT!/TNA+ scheduling and a historical Post Wrestling feature.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — TNA appears through iMPACT scheduling and Jeff Jarrett discussion of Dark Side of the Ring planning.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — TNA stays in the calendar through iMPACT!/TNA+ scheduling and a historical Post Wrestling feature.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — TNA appears through iMPACT scheduling and Jeff Jarrett discussion of Dark Side of the Ring planning.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — TNA remains in the weekly iMPACT!/TNA+ schedule table.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — TNA remains in the weekly iMPACT!/TNA+ schedule table.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — TNA remains in the weekly wrestling calendar through iMPACT! and event-page verification.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — TNA remains in the weekly wrestling calendar through iMPACT! and event-page verification.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — TNA appears through iMPACT! scheduling and Sinner and Saint release-request reporting.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — TNA appears through iMPACT! calendar tracking in the wrestling digest.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — TNA appears through iMPACT! scheduling and Sinner and Saint release-request reporting.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — TNA appears through iMPACT! calendar tracking in the wrestling digest.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — TNA coverage includes iMPACT scheduling and Nic Nemeth previewing a Jeff Hardy match.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — TNA coverage includes iMPACT scheduling and Nic Nemeth previewing a Jeff Hardy match.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — TNA remains in the Thursday iMPACT!/TNA+ calendar lane and the broader wrestling verification stack.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — TNA remains in the Thursday iMPACT!/TNA+ calendar lane and the broader wrestling verification stack.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — TNA appears through schedule verification and a note congratulating Mike Santana on his NXT debut.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — TNA appears through schedule verification and a note congratulating Mike Santana on his NXT debut.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — TNA appears through iMPACT! scheduling and NXT crossover discussion around Mike Santana and Nic Nemeth.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — TNA iMPACT results, including Nic Nemeth and the Hardys, keep TNA in the wrestling digest.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — TNA appears through iMPACT! scheduling and NXT crossover discussion around Mike Santana and Nic Nemeth.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — TNA iMPACT results, including Nic Nemeth and the Hardys, keep TNA in the wrestling digest.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — TNA notes include Victoria Crawford’s release and likely AMC crossover expansion.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — TNA notes include Victoria Crawford’s release and likely AMC crossover expansion.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — iMPACT! is listed for July 30 in the wrestling calendar.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — iMPACT! is listed for July 30 in the wrestling calendar.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — iMPACT! and TNA+ listings remain part of the weekly wrestling calendar.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — TNA iMPACT! stays on the Thursday wrestling calendar via AXS/TNA+.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — iMPACT! and TNA+ listings remain part of the weekly wrestling calendar.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — TNA iMPACT! stays on the Thursday wrestling calendar via AXS/TNA+.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — TNA appears through the iMPACT!/TNA+ weekly schedule.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — TNA appears through the iMPACT!/TNA+ weekly schedule.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — TNA remains in the weekly wrestling TV calendar.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — TNA remains in the weekly wrestling TV calendar.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — TNA iMPACT is reported as drawing its highest AMC viewership ever.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — TNA iMPACT is reported as drawing its highest AMC viewership ever.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — TNA iMPACT and TNA+ remain on the weekly wrestling calendar.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — TNA iMPACT and TNA+ remain on the weekly wrestling calendar.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — TNA appears through its iMPACT calendar and a LeBron-to-Philadelphia promotional invitation.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — TNA iMPACT! is listed for July 30 with AXS/TNA+ verification.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — TNA appears through its iMPACT calendar and a LeBron-to-Philadelphia promotional invitation.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — TNA iMPACT! is listed for July 30 with AXS/TNA+ verification.
 
 ## Related
 

@@ -15,7 +15,7 @@ AI coding assistant in the GitHub/Microsoft developer stack. In this wiki, Copil
 
 ## Sources
 
-- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Ars reports a critical Copilot vulnerability that allowed attackers to steal 2FA codes, showing AI coding assistants as part of the practical security boundary.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletters/newsletter-2026-06-16-evening.md) — Ars reports a critical Copilot vulnerability that allowed attackers to steal 2FA codes, showing AI coding assistants as part of the practical security boundary.
 
 ## Related
 

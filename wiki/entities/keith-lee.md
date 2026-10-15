@@ -35,7 +35,7 @@ source_count: 2
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/keith-lee.md)
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — Wrestling desk linked a backstage report on Keith Lee's extended AEW absence.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — Wrestling desk linked a backstage report on Keith Lee's extended AEW absence.
 
 ## Related
 

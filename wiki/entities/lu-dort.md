@@ -15,7 +15,7 @@ Lu Dort is an NBA wing tracked in the sports graph when trade, roster constructi
 
 ## Sources
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — ESPN/Reddit coverage says Oklahoma City is trading Lu Dort to the Atlanta Hawks in a three-team deal.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — ESPN/Reddit coverage says Oklahoma City is trading Lu Dort to the Atlanta Hawks in a three-team deal.
 
 ## Related
 

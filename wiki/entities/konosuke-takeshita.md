@@ -35,17 +35,17 @@ source_count: 8
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/konosuke-takeshita.md)
-- [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](../sources/newsletter-2026-05-31.md) — **Retains AEW championship on AEW Collision (May 30)**; mass brawl erupts post-match. Survival of the Fittest tournament announced to crown new TBS Champion; Finals set for Jul 1 Dynamite. STARDOM's Hazuki debuts in AEW on the same show, signaling renewed women's division investment.
+- [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](../sources/newsletters/newsletter-2026-05-31.md) — **Retains AEW championship on AEW Collision (May 30)**; mass brawl erupts post-match. Survival of the Fittest tournament announced to crown new TBS Champion; Finals set for Jul 1 Dynamite. STARDOM's Hazuki debuts in AEW on the same show, signaling renewed women's division investment.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Takeshita defends the AEW International title against Ricochet on Dynamite, extending his 2026 AEW champion thread.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Takeshita defends the AEW International title against Ricochet on Dynamite, extending his 2026 AEW champion thread.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — The Dynamite result remains in the evening wrestling digest, keeping Takeshita's International-title defense in the Forbidden Door go-home narrative.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Takeshita loses to Yota Tsuji in NJPW G1 Climax 36 Night 1 coverage.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — The Dynamite result remains in the evening wrestling digest, keeping Takeshita's International-title defense in the Forbidden Door go-home narrative.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Takeshita loses to Yota Tsuji in NJPW G1 Climax 36 Night 1 coverage.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Takes sole A Block lead at NJPW G1 Climax 36 Night 6.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Takes sole A Block lead at NJPW G1 Climax 36 Night 6.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — NJPW G1 Climax 36 Night 8 coverage has Takeshita remaining on top of A Block.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — NJPW G1 Climax 36 Night 8 coverage has Takeshita remaining on top of A Block.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
 
 ## Related
 

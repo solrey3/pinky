@@ -15,8 +15,8 @@ OpenCV is an open-source computer-vision and image-processing library used acros
 
 ## Sources
 
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — OpenCV 5 is framed as the biggest leap in years for computer vision, landing in the same tech block as Anthropic model-safety news, npm v12 changes, and a Linux CVE.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — OpenCV 5 remains in the morning AI/tech desk as a major computer-vision tooling release alongside Claude Fable 5, Gemini Live Translate, and a Linux CVE.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — OpenCV 5 is framed as the biggest leap in years for computer vision, landing in the same tech block as Anthropic model-safety news, npm v12 changes, and a Linux CVE.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — OpenCV 5 remains in the morning AI/tech desk as a major computer-vision tooling release alongside Claude Fable 5, Gemini Live Translate, and a Linux CVE.
 
 ## Related
 

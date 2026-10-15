@@ -15,7 +15,7 @@ NFL cornerback for the Cleveland Browns; appears here through a two-year extensi
 
 ## Sources
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Agrees to a two-year, $62.2 million extension with Cleveland.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Agrees to a two-year, $62.2 million extension with Cleveland.
 
 ## Related
 

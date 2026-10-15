@@ -15,7 +15,7 @@ John Kennedy is a Republican U.S. senator from Louisiana, tracked here when his 
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Says he would not give Trump a blank check on anti-weaponization-fund legislation, making intraparty limits part of the noon governance thread.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Says he would not give Trump a blank check on anti-weaponization-fund legislation, making intraparty limits part of the noon governance thread.
 
 ## Related
 

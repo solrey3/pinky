@@ -14,9 +14,9 @@ Autonomous vehicle operational safety is the discipline of keeping self-driving 
 
 ## Sources
 
-- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-noon.md) — An NHTSA investigation of comma.ai after reported deaths and injuries, alongside a GPT-6 Astra driving benchmark, distinguishes deployment evidence from benchmark capability.
+- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-noon.md) — An NHTSA investigation of comma.ai after reported deaths and injuries, alongside a GPT-6 Astra driving benchmark, distinguishes deployment evidence from benchmark capability.
 
-- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-noon.md) — A reported Waymo movement through a Denver farmers market during setup illustrates the need to recognize temporary public-space changes and fail safely around vulnerable road users.
+- [2026-09-22: Noon Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-noon.md) — A reported Waymo movement through a Denver farmers market during setup illustrates the need to recognize temporary public-space changes and fail safely around vulnerable road users.
 
 ## Related Concepts
 

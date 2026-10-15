@@ -15,7 +15,7 @@ Professional wrestler mentioned in the August 3 dispatch for defeating Trick Wil
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Enters the wiki through the SummerSlam headline where he defeats Trick Williams for the U.S. title.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Enters the wiki through the SummerSlam headline where he defeats Trick Williams for the U.S. title.
 
 ## Related
 

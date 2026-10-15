@@ -15,13 +15,13 @@ Short-form video social-media platform and recurring platform-governance entity.
 
 ## Sources
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Its Disney partnership expands platform-mediated entertainment clip distribution.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Its Disney partnership expands platform-mediated entertainment clip distribution.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — The Disney partnership extends TikTok’s role as a short-form entertainment distribution channel.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — The Disney partnership extends TikTok’s role as a short-form entertainment distribution channel.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — A Disney partnership will distribute entertainment clips through the short-form platform.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — A Disney partnership will distribute entertainment clips through the short-form platform.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — TikTok is part of the Wired/Ars Technica social-media research-access thread.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — TikTok is part of the Wired/Ars Technica social-media research-access thread.
 
 ## Related
 

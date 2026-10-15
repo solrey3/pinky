@@ -15,7 +15,7 @@ The WTA is tracked as a women’s tennis governance and competition body.
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The WTA introduces gene testing for all players on tour.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — The WTA introduces gene testing for all players on tour.
 
 ## Related
 

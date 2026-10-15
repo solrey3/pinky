@@ -15,193 +15,193 @@ Iran is tracked in the newsletter graph as a geopolitical and energy-market acto
 
 ## Sources
 
-- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Frames the end of the U.S. military mission in Iraq as a victory, making withdrawal narratives part of the regional influence contest.
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-noon.md) — Frames the end of the U.S. military mission in Iraq as a victory, making withdrawal narratives part of the regional influence contest.
 
-- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Reports Tehran is ready for renewed strikes after President Trump rejected a deal, preserving the escalation risk around stalled diplomacy.
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-noon.md) — Reports Tehran is ready for renewed strikes after President Trump rejected a deal, preserving the escalation risk around stalled diplomacy.
 
-- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletter-2026-09-25-evening.md) — Reportedly favors continued offensive pressure rather than retreat, sustaining escalation, Hormuz, and energy-market risk.
+- [2026-09-25: Evening Brief — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-evening.md) — Reportedly favors continued offensive pressure rather than retreat, sustaining escalation, Hormuz, and energy-market risk.
 
-- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-noon.md) — Reportedly reviews a U.S. proposal to end the war as the American military death toll reaches nineteen, keeping diplomacy and conflict costs intertwined.
+- [2026-09-23: Noon Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-noon.md) — Reportedly reviews a U.S. proposal to end the war as the American military death toll reaches nineteen, keeping diplomacy and conflict costs intertwined.
 
-- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletter-2026-09-23-midnight.md) — Fading expectations for U.S.–Iran talks and Trump's mixed threat-and-off-ramp messaging keep diplomacy, war termination, and oil risk intertwined.
+- [2026-09-23: Midnight Dispatch — Wednesday, September 23, 2026](../sources/newsletters/newsletter-2026-09-23-midnight.md) — Fading expectations for U.S.–Iran talks and Trump's mixed threat-and-off-ramp messaging keep diplomacy, war termination, and oil risk intertwined.
 
-- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — Reportedly offers conditions for talks and ending the war ahead of the UN gathering, while Saudi pipeline coverage keeps Hormuz risk connected to oil markets.
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-evening.md) — Reportedly offers conditions for talks and ending the war ahead of the UN gathering, while Saudi pipeline coverage keeps Hormuz risk connected to oil markets.
 
-- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Reportedly states conditions for ending the war with the United States and resuming talks, reconnecting diplomacy to Hormuz and oil-market risk.
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-noon.md) — Reportedly states conditions for ending the war with the United States and resuming talks, reconnecting diplomacy to Hormuz and oil-market risk.
 
-- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-midnight.md) — Anthropic reportedly attributes Iranian use of its AI model in targeting U.S. Navy warships, adding an alleged AI-enabled military dimension to the conflict record.
+- [2026-09-12: Midnight Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-midnight.md) — Anthropic reportedly attributes Iranian use of its AI model in targeting U.S. Navy warships, adding an alleged AI-enabled military dimension to the conflict record.
 
-- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletter-2026-09-11-daytime.md) — Ballistic-missile production remains an escalation concern while WTI and diesel prices intensify the conflict-to-inflation risk channel.
+- [2026-09-11: Morning Dispatch — Friday, September 11, 2026](../sources/newsletters/newsletter-2026-09-11-daytime.md) — Ballistic-missile production remains an escalation concern while WTI and diesel prices intensify the conflict-to-inflation risk channel.
 
-- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletter-2026-09-10-noon.md) — Disputed reports of damage to U.S. aircraft accompany WTI's 10.71% jump, sustaining conflict-driven energy and inflation risk.
+- [2026-09-10: Noon Dispatch — Thursday, September 10, 2026](../sources/newsletters/newsletter-2026-09-10-noon.md) — Disputed reports of damage to U.S. aircraft accompany WTI's 10.71% jump, sustaining conflict-driven energy and inflation risk.
 
-- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-evening.md) — Intensifying war is cited as Brent exceeds $100 and WTI gains 5.88%, reinforcing conflict-driven supply and inflation risk.
+- [2026-09-09: Evening Brief — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-evening.md) — Intensifying war is cited as Brent exceeds $100 and WTI gains 5.88%, reinforcing conflict-driven supply and inflation risk.
 
-- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-evening.md) — Reported U.S. strikes on multiple Iranian oil tankers sharpen military escalation and energy-supply risk as WTI rises 3.56%.
+- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-evening.md) — Reported U.S. strikes on multiple Iranian oil tankers sharpen military escalation and energy-supply risk as WTI rises 3.56%.
 
-- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — Iran-war context accompanies elevated gasoline and WTI prices, sustaining the conflict-to-energy-risk connection.
+- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-daytime.md) — Iran-war context accompanies elevated gasoline and WTI prices, sustaining the conflict-to-energy-risk connection.
 
-- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — Iran-war context accompanies elevated gasoline prices while a refinery strike pushes WTI higher, sustaining the conflict-to-energy-risk connection.
+- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-midnight.md) — Iran-war context accompanies elevated gasoline prices while a refinery strike pushes WTI higher, sustaining the conflict-to-energy-risk connection.
 
-- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletter-2026-09-07-evening.md) — Vows retaliation after U.S. strikes and warns that American facilities are exposed, sustaining Gulf escalation and oil-supply risk.
+- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-evening.md) — Vows retaliation after U.S. strikes and warns that American facilities are exposed, sustaining Gulf escalation and oil-supply risk.
 
-- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-noon.md) — Vows retaliation after U.S. strikes and warns that American facilities are exposed, sustaining Gulf escalation and energy-market risk.
+- [2026-09-07: Noon Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-noon.md) — Vows retaliation after U.S. strikes and warns that American facilities are exposed, sustaining Gulf escalation and energy-market risk.
 
-- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-evening.md) — U.S. forces reportedly strike three Iranian oil tankers after missile attacks on Navy warships, linking military escalation to oil-supply risk.
+- [2026-09-05: Evening Brief — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-evening.md) — U.S. forces reportedly strike three Iranian oil tankers after missile attacks on Navy warships, linking military escalation to oil-supply risk.
 
-- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-noon.md) — U.S. forces reportedly strike three Iranian oil ships under a “tanker for tanker” policy as WTI surges, linking military escalation to supply risk.
+- [2026-09-05: Noon Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-noon.md) — U.S. forces reportedly strike three Iranian oil ships under a “tanker for tanker” policy as WTI surges, linking military escalation to supply risk.
 
-- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — Fresh U.S. and Iranian strikes sustain trade and energy risk as WTI rises 7.00%.
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-daytime.md) — Fresh U.S. and Iranian strikes sustain trade and energy risk as WTI rises 7.00%.
 
-- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Fresh U.S. and Iranian strikes sustain trade and energy risk as WTI rises 6.08%.
+- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-midnight.md) — Fresh U.S. and Iranian strikes sustain trade and energy risk as WTI rises 6.08%.
 
-- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Fresh U.S. and Iranian strikes renew trade and energy-market risk as WTI rises 8.67%.
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-evening.md) — Fresh U.S. and Iranian strikes renew trade and energy-market risk as WTI rises 8.67%.
 
-- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-daytime.md) — New U.S. strikes keep escalation active as WTI rises 8.23%, though the source does not establish full causality for the oil move.
+- [2026-09-02: Morning Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-daytime.md) — New U.S. strikes keep escalation active as WTI rises 8.23%, though the source does not establish full causality for the oil move.
 
-- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-midnight.md) — New U.S. strikes keep the conflict active while WTI's 8.76% surge raises inflation and energy-risk stakes.
+- [2026-09-02: Midnight Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-midnight.md) — New U.S. strikes keep the conflict active while WTI's 8.76% surge raises inflation and energy-risk stakes.
 
-- [2026-08-31: Morning Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-daytime.md) — Renewed U.S.–Iran fighting lifts WTI 5.10%, reconnecting military escalation to freight, fuel, and inflation risk.
+- [2026-08-31: Morning Dispatch — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-daytime.md) — Renewed U.S.–Iran fighting lifts WTI 5.10%, reconnecting military escalation to freight, fuel, and inflation risk.
 
-- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-daytime.md) — A new U.S. economic-pressure campaign seeks deeper isolation as leverage in an unresolved conflict.
+- [2026-08-25: Morning Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-daytime.md) — A new U.S. economic-pressure campaign seeks deeper isolation as leverage in an unresolved conflict.
 
-- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletter-2026-08-25-midnight.md) — A new U.S. sanctions campaign seeks to deepen Iran's economic isolation and gain leverage in a continuing stalemate.
+- [2026-08-25: Midnight Dispatch — Tuesday, August 25, 2026](../sources/newsletters/newsletter-2026-08-25-midnight.md) — A new U.S. sanctions campaign seeks to deepen Iran's economic isolation and gain leverage in a continuing stalemate.
 
-- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — Continued demands concerning the Strait of Hormuz keep maritime access and oil-market risk in focus.
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-noon.md) — Continued demands concerning the Strait of Hormuz keep maritime access and oil-market risk in focus.
 
-- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Steep demands in Oman-mediated talks threaten to derail reopening the Strait of Hormuz, while U.S. munitions constraints weaken diplomatic leverage.
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-midnight.md) — Steep demands in Oman-mediated talks threaten to derail reopening the Strait of Hormuz, while U.S. munitions constraints weaken diplomatic leverage.
 
-- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — U.S. rhetoric becomes more restrained as reporting says a Strait of Hormuz agreement is nearing completion.
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-evening.md) — U.S. rhetoric becomes more restrained as reporting says a Strait of Hormuz agreement is nearing completion.
 
-- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — New demands concerning the Strait of Hormuz keep maritime access and prospective U.S.–Iran talks in focus.
+- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-noon.md) — New demands concerning the Strait of Hormuz keep maritime access and prospective U.S.–Iran talks in focus.
 
-- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — New demands complicate negotiations concerning access through the Strait of Hormuz.
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-daytime.md) — New demands complicate negotiations concerning access through the Strait of Hormuz.
 
-- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — New demands around the Strait of Hormuz complicate negotiations over the strategic shipping route.
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-midnight.md) — New demands around the Strait of Hormuz complicate negotiations over the strategic shipping route.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Signals that an Oman-mediated Hormuz agreement may be close while ceasefire terms remain disputed.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Signals that an Oman-mediated Hormuz agreement may be close while ceasefire terms remain disputed.
 
-- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-daytime.md) — Threats to block U.S. and Israeli shipping through Hormuz renew maritime and energy tail risk even as WTI falls.
+- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-daytime.md) — Threats to block U.S. and Israeli shipping through Hormuz renew maritime and energy tail risk even as WTI falls.
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears through WTI/Hormuz headlines and Polymarket U.S.-Iran peace-talk markets.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Peace-talk claims around reopening the Strait of Hormuz keep Iran as both a diplomacy and energy-market risk item.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Peace-talk and Strait of Hormuz reopening claims keep Iran as both geopolitical and oil-market context.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Trump says Iran peace talks could reopen the Strait of Hormuz by Tuesday, keeping diplomacy, shipping risk, and falling WTI prices connected.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Trump backing away from another threat keeps Iran in the diplomacy/de-escalation and oil-volatility frame.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Diplomacy and called-off strike context lowers oil/geopolitical risk in the morning tape.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Iran negotiations and oil volatility remain connected geopolitical and market inputs.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Appears through WTI/Hormuz headlines and Polymarket U.S.-Iran peace-talk markets.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Peace-talk claims around reopening the Strait of Hormuz keep Iran as both a diplomacy and energy-market risk item.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Peace-talk and Strait of Hormuz reopening claims keep Iran as both geopolitical and oil-market context.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Trump says Iran peace talks could reopen the Strait of Hormuz by Tuesday, keeping diplomacy, shipping risk, and falling WTI prices connected.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — Trump backing away from another threat keeps Iran in the diplomacy/de-escalation and oil-volatility frame.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Diplomacy and called-off strike context lowers oil/geopolitical risk in the morning tape.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Iran negotiations and oil volatility remain connected geopolitical and market inputs.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Iran file remains live because strike plans are paused rather than resolved.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — The Iran file remains live because strike plans are paused rather than resolved.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Iran escalation is paused as a reported attack plan is held while a deal outline is tested.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Iran escalation is paused as a reported attack plan is held while a deal outline is tested.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Iran remains central through Trump's hold-off-strikes/diplomacy posture and Red Sea-adjacent regional risk.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Iran remains central through Trump's hold-off-strikes/diplomacy posture and Red Sea-adjacent regional risk.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Iran remains in the geopolitical risk layer through the strike-delay/diplomacy headline.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Iran remains in the geopolitical risk layer through the strike-delay/diplomacy headline.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Renewed U.S. and U.S./Israel strike reporting keeps Iran as the main geopolitical risk flag in the dispatch.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Renewed U.S. and U.S./Israel strike reporting keeps Iran as the main geopolitical risk flag in the dispatch.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Potential renewed U.S. strikes and Middle East oil-shock coverage keep Iran central to geopolitical and energy-risk pricing.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Potential renewed U.S. strikes and Middle East oil-shock coverage keep Iran central to geopolitical and energy-risk pricing.
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Appears in the possible state-linked Minnesota water-facility cyberattack investigation, extending Iran from military/geopolitical risk into municipal-infrastructure cybersecurity.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Appears as the possible state actor behind Minnesota water-facility cyberattacks, keeping Iran in both geopolitical and infrastructure-security frames.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Appears through reported responsibility for a Minnesota water-system cyberattack and continued war-powers debate.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Iran-centered headlines dominate the dispatch: Iran says Hormuz is shut, U.S. reporting says ships still move, and diplomacy continues around an Iran MOU while WTI crude falls.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Vance heads to Switzerland for Iran talks while Strait of Hormuz status remains unclear, keeping diplomacy, shipping risk, and oil-market interpretation connected.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Appears in the possible state-linked Minnesota water-facility cyberattack investigation, extending Iran from military/geopolitical risk into municipal-infrastructure cybersecurity.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Appears as the possible state actor behind Minnesota water-facility cyberattacks, keeping Iran in both geopolitical and infrastructure-security frames.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Appears through reported responsibility for a Minnesota water-system cyberattack and continued war-powers debate.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Iran-centered headlines dominate the dispatch: Iran says Hormuz is shut, U.S. reporting says ships still move, and diplomacy continues around an Iran MOU while WTI crude falls.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Vance heads to Switzerland for Iran talks while Strait of Hormuz status remains unclear, keeping diplomacy, shipping risk, and oil-market interpretation connected.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Switzerland talks and Strait of Hormuz oil-flow normalization headlines keep Iran at the center of diplomacy, shipping risk, and crude-price interpretation.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Switzerland talks and Strait of Hormuz oil-flow normalization headlines keep Iran at the center of diplomacy, shipping risk, and crude-price interpretation.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Iran remains connected to media conflict, Strait of Hormuz oil-flow normalization, and the interpretation of softer crude prices.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Iran remains connected to media conflict, Strait of Hormuz oil-flow normalization, and the interpretation of softer crude prices.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Vance says Iran will allow nuclear inspectors into the country, keeping the Iran thread focused on diplomacy, verification, and oil/geopolitical risk.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Vance says Iran will allow nuclear inspectors into the country, keeping the Iran thread focused on diplomacy, verification, and oil/geopolitical risk.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Senate war-powers action turns the Iran conflict into a congressional/executive-power issue while prediction-market chatter keeps a U.S.-Iran nuclear-deal question on the watchlist.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Senate war-powers action turns the Iran conflict into a congressional/executive-power issue while prediction-market chatter keeps a U.S.-Iran nuclear-deal question on the watchlist.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Iran remains central to war-powers aftermath, Trump-senator conflict, Israel-support polling context, and U.S.-Iran nuclear-deal prediction-market chatter.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — Iran remains central to war-powers aftermath, Trump-senator conflict, Israel-support polling context, and U.S.-Iran nuclear-deal prediction-market chatter.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Iran remains central through Senate GOP alignment with Trump over the war, a late Congress/war-powers timing critique, and U.S.-Iran nuclear-deal prediction-market watchlist topics.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Iran remains central through Senate GOP alignment with Trump over the war, a late Congress/war-powers timing critique, and U.S.-Iran nuclear-deal prediction-market watchlist topics.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — A reported ship-fire incident in the Strait of Hormuz keeps Iran tied to shipping-risk and oil-market interpretation, even as WTI falls into the close.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — U.S. strikes on Iranian missile/radar sites after a reported cargo-ship attack keep Iran tied to Hormuz shipping risk, regional-framework diplomacy, and war-powers disputes.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Weekend coverage repeats U.S. strikes, Hormuz shipping risk, regional-framework diplomacy, and U.S.-Iran nuclear/Hormuz prediction-market chatter.
-- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — Evening headlines escalate the thread through U.S.-Iran red-line testing and reported Iranian retaliatory strikes on Bahrain.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — A reported ship-fire incident in the Strait of Hormuz keeps Iran tied to shipping-risk and oil-market interpretation, even as WTI falls into the close.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — U.S. strikes on Iranian missile/radar sites after a reported cargo-ship attack keep Iran tied to Hormuz shipping risk, regional-framework diplomacy, and war-powers disputes.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — Weekend coverage repeats U.S. strikes, Hormuz shipping risk, regional-framework diplomacy, and U.S.-Iran nuclear/Hormuz prediction-market chatter.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-evening.md) — Evening headlines escalate the thread through U.S.-Iran red-line testing and reported Iranian retaliatory strikes on Bahrain.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Renewed U.S. strikes and reported Iranian strikes on Bahrain and Kuwait keep Iran tied to escalation risk, fragile interim diplomacy, and oil-market interpretation.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — Renewed U.S. strikes and reported Iranian strikes on Bahrain and Kuwait keep Iran tied to escalation risk, fragile interim diplomacy, and oil-market interpretation.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Reported Iranian attacks on Bahrain and Kuwait after U.S. strikes keep Iran tied to Gulf escalation, fragile diplomacy, and oil-market interpretation.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — Reported Iranian attacks on Bahrain and Kuwait after U.S. strikes keep Iran tied to Gulf escalation, fragile diplomacy, and oil-market interpretation.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — U.S.-Iran coverage shifts toward a temporary stand-down and resumed peace talks, moving the thread from escalation risk toward fragile diplomacy.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — U.S.-Iran coverage shifts toward a temporary stand-down and resumed peace talks, moving the thread from escalation risk toward fragile diplomacy.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Iran-U.S. talks show cautious positive progress while the ceasefire holds, shifting the Iran thread from immediate escalation toward diplomacy watch.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Iran-U.S. talks show cautious positive progress while the ceasefire holds, shifting the Iran thread from immediate escalation toward diplomacy watch.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Iran returns as a diplomacy headline rather than an escalation headline, keeping the Trump foreign-policy thread active.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Iran returns as a diplomacy headline rather than an escalation headline, keeping the Trump foreign-policy thread active.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — A tanker struck by a projectile near the Strait of Hormuz keeps Gulf energy-risk headlines active, though WTI is only **+1.05%** in the market table.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — A tanker struck by a projectile near the Strait of Hormuz keeps Gulf energy-risk headlines active, though WTI is only **+1.05%** in the market table.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Reported U.S. strikes and revocation of an Iran oil-sanctions waiver after Strait of Hormuz strikes keep Iran tied to sanctions, shipping risk, and WTI's **+5.28%** move.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Reported U.S. strikes and revocation of an Iran oil-sanctions waiver after Strait of Hormuz strikes keep Iran tied to sanctions, shipping risk, and WTI's **+5.28%** move.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Iran diplomacy and oil-sanctions-waiver revocation connect foreign-policy decisions to WTI crude's **8.65%** jump.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Iran diplomacy and oil-sanctions-waiver revocation connect foreign-policy decisions to WTI crude's **8.65%** jump.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Renewed U.S. strike/explosion headlines and Trump rhetoric keep Iran tied to crude-price risk as WTI jumps **8.84%**.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Renewed U.S. strike/explosion headlines and Trump rhetoric keep Iran tied to crude-price risk as WTI jumps **8.84%**.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Iran says attacks on U.S. bases could expand if U.S. strikes continue, while ceasefire breakdown keeps WTI crude up **7.10%**.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — Iran says attacks on U.S. bases could expand if U.S. strikes continue, while ceasefire breakdown keeps WTI crude up **7.10%**.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Iran targeting U.S. military sites after strikes keeps the Gulf escalation thread tied to WTI crude rising 4.76%.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Iran targeting U.S. military sites after strikes keeps the Gulf escalation thread tied to WTI crude rising 4.76%.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Iran remains central through an alleged plot against Trump, U.S. terrorism labeling around Hormuz attacks, and continued diplomacy alongside WTI crude strength.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Iran remains central through an alleged plot against Trump, U.S. terrorism labeling around Hormuz attacks, and continued diplomacy alongside WTI crude strength.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Reports of new airstrikes after a claimed end to strikes keep Iran and Middle East conflict risk in the oil/geopolitics watchlist.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Reports of new airstrikes after a claimed end to strikes keep Iran and Middle East conflict risk in the oil/geopolitics watchlist.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — U.S. officials press Iran for a public Strait of Hormuz pledge after strike exchanges, keeping Hormuz and oil risk attached to the Iran thread.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — U.S. officials press Iran for a public Strait of Hormuz pledge after strike exchanges, keeping Hormuz and oil risk attached to the Iran thread.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Iran remains central through war-cost and end-state uncertainty, keeping foreign-policy risk connected to crude and macro interpretation.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Renewed U.S. strikes and Strait of Hormuz closure headlines keep Iran as the dispatch's main geopolitical and crude-risk anchor.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Iran remains central through war-cost and end-state uncertainty, keeping foreign-policy risk connected to crude and macro interpretation.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Renewed U.S. strikes and Strait of Hormuz closure headlines keep Iran as the dispatch's main geopolitical and crude-risk anchor.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — NewsNation reports Iran targeting Gulf Arab nations amid new U.S. strikes, keeping Middle East escalation tied to oil and shipping risk.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — NewsNation reports Iran targeting Gulf Arab nations amid new U.S. strikes, keeping Middle East escalation tied to oil and shipping risk.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — CENTCOM strike reporting keeps Iran as the main geopolitical, oil-risk, and security-policy node in the dispatch.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — CENTCOM strike reporting keeps Iran as the main geopolitical, oil-risk, and security-policy node in the dispatch.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Renewed U.S. strike and Strait of Hormuz blockade headlines keep Iran tied to WTI crude's **6.09%** jump and broader risk-off interpretation.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Renewed U.S. strike and Strait of Hormuz blockade headlines keep Iran tied to WTI crude's **6.09%** jump and broader risk-off interpretation.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — The UAE tanker allegation keeps Iran tied to Gulf shipping risk and WTI crude's **11.46%** jump.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — The UAE tanker allegation keeps Iran tied to Gulf shipping risk and WTI crude's **11.46%** jump.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — CENTCOM strike and Strait of Hormuz blockade headlines keep Iran tied to WTI crude's **10.75%** jump and energy-risk interpretation.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — CENTCOM strike and Strait of Hormuz blockade headlines keep Iran tied to WTI crude's **10.75%** jump and energy-risk interpretation.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Additional U.S. strike and infrastructure-threat headlines keep Iran tied to WTI crude's **12.10%** jump and energy-market stress.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Additional U.S. strike and infrastructure-threat headlines keep Iran tied to WTI crude's **12.10%** jump and energy-market stress.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The Arabian Sea tanker action after a reimposed blockade keeps Iran tied to maritime escalation, crude oil at **+12.37%**, and gasoline-price risk.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — The Arabian Sea tanker action after a reimposed blockade keeps Iran tied to maritime escalation, crude oil at **+12.37%**, and gasoline-price risk.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — A fifth straight night of U.S. strikes keeps Iran in the escalation/oil-risk frame, though WTI rises less than in the prior double-digit crude prints.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — A fifth straight night of U.S. strikes keeps Iran in the escalation/oil-risk frame, though WTI rises less than in the prior double-digit crude prints.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — U.S. military strikes against Iran continue for a seventh consecutive day, keeping the conflict in the active geopolitical and oil-risk frame.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — U.S. military strikes against Iran continue for a seventh consecutive day, keeping the conflict in the active geopolitical and oil-risk frame.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — IRGC-claimed attacks on a U.S. military airbase in Jordan and U.S. strikes on Iranian bridges/energy sites keep Iran in the active escalation and oil-risk frame.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Reported U.S. troop deaths in Jordan and Khamenei/Trump rhetoric keep Iran in the active conflict and oil-risk frame.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — IRGC-claimed attacks on a U.S. military airbase in Jordan and U.S. strikes on Iranian bridges/energy sites keep Iran in the active escalation and oil-risk frame.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Reported U.S. troop deaths in Jordan and Khamenei/Trump rhetoric keep Iran in the active conflict and oil-risk frame.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — U.S. retaliatory-strike reporting after soldiers are reported killed in Jordan keeps Iran tied to military escalation, oil sensitivity, and casualty-claim provenance.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — U.S. retaliatory-strike reporting after soldiers are reported killed in Jordan keeps Iran tied to military escalation, oil sensitivity, and casualty-claim provenance.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Iran remains tied to the top-story risk file through the drone-detonation casualty report and wider conflict/energy-market context.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Iran remains tied to the top-story risk file through the drone-detonation casualty report and wider conflict/energy-market context.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — U.S. strike reporting again makes Iran the central foreign-policy risk item in the daily news stack.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — U.S. strike reporting again makes Iran the central foreign-policy risk item in the daily news stack.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Iran remains the conflict anchor through resumed-strike casualty reporting and two U.S. troops killed in Jordan.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Hegseth/Caine testimony and commentary on limited Trump options keep Iran as the central defense-policy and oil-risk foreign-policy input.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Iran remains the conflict anchor through resumed-strike casualty reporting and two U.S. troops killed in Jordan.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Hegseth/Caine testimony and commentary on limited Trump options keep Iran as the central defense-policy and oil-risk foreign-policy input.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — John Thune says Iran sanctions will be added to a Russia sanctions bill, keeping Iran in the sanctions and oil-risk policy lane.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Iran-linked regional tension stays live as strikes reach another night and Kuwait intercepts drones.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — John Thune says Iran sanctions will be added to a Russia sanctions bill, keeping Iran in the sanctions and oil-risk policy lane.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Iran-linked regional tension stays live as strikes reach another night and Kuwait intercepts drones.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Hormuz coalition talks and oil strength keep Iran tied to maritime-security and crude-risk interpretation.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Hormuz coalition talks and oil strength keep Iran tied to maritime-security and crude-risk interpretation.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — U.S. sanctions targeting Babak Zanjani keep Iranian financing in the sanctions graph.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Polling says the Iran war has been harder than the Trump administration expected, while market coverage watches a pause in attacks.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — U.S. sanctions targeting Babak Zanjani keep Iranian financing in the sanctions graph.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Polling says the Iran war has been harder than the Trump administration expected, while market coverage watches a pause in attacks.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Iran remains a foreign-policy and market-risk anchor as polling suggests the war has been harder than the Trump administration expected.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Iran remains a foreign-policy and market-risk anchor as polling suggests the war has been harder than the Trump administration expected.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Warns the U.S. against expanding war after alleged shipping threats around energy transit.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Warns the U.S. against expanding war after alleged shipping threats around energy transit.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Part of the sanctions, Ukraine air-defense, Middle East escalation, polling, or property-rights news stack.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Reported U.S. retaliatory strikes tied to attacks on a Jordan base keep Iran as the main geopolitical and crude-risk anchor.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Reported U.S. retaliatory strikes on Iranian targets tied to a Jordan base attack keep Iran as the day’s main geopolitical and crude-risk anchor.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Reported U.S. retaliatory strikes tied to attacks on a Jordan base keep Iran as the main geopolitical and crude-risk anchor.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Reported U.S. retaliatory strikes on Iranian targets tied to a Jordan base attack keep Iran as the day’s main geopolitical and crude-risk anchor.
 
 ## Related
 

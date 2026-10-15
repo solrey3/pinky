@@ -15,7 +15,7 @@ NBA forward known for defense and playmaking; appears here through a reported Go
 
 ## Sources
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Reported in NBA feeds as returning to Golden State on a one-year deal.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Reported in NBA feeds as returning to Golden State on a one-year deal.
 
 ## Related
 

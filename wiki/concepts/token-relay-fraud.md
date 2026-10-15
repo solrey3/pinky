@@ -14,7 +14,7 @@ Token relay fraud is an abuse pattern where tokens, sessions, or access credenti
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — The Vectoral item on token relay markets frames token resale as fraud infrastructure, not just account-sharing leakage.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — The Vectoral item on token relay markets frames token resale as fraud infrastructure, not just account-sharing leakage.
 
 ## Related Concepts
 

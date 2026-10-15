@@ -15,8 +15,8 @@ Greg Abbott is the Texas governor; in this source he freezes some data-center co
 
 ## Sources
 
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Abbott directs a comprehensive data-center audit, turning Texas AI ambitions into a grid-capacity governance issue.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Greg Abbott is the Texas governor; in this source he freezes some data-center construction as grid capacity complicates the state's AI ambitions.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Abbott directs a comprehensive data-center audit, turning Texas AI ambitions into a grid-capacity governance issue.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Greg Abbott is the Texas governor; in this source he freezes some data-center construction as grid capacity complicates the state's AI ambitions.
 
 ## Related
 

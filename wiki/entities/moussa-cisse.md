@@ -15,7 +15,7 @@ Cisse reportedly agrees to a two-year Knicks offer sheet.
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Cisse reportedly agrees to a two-year Knicks offer sheet.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Cisse reportedly agrees to a two-year Knicks offer sheet.
 
 ## Related
 

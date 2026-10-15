@@ -15,7 +15,7 @@ The United Arab Emirates is tracked as a Gulf state whose security and shipping 
 
 ## Sources
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — UAE officials say Iran hit two Emirati tankers and killed one crew member, keeping Gulf shipping risk and crude-price pressure tied to the Iran thread.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — UAE officials say Iran hit two Emirati tankers and killed one crew member, keeping Gulf shipping risk and crude-price pressure tied to the Iran thread.
 
 ## Related
 

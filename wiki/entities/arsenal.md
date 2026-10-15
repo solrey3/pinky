@@ -30,41 +30,41 @@ London-based Premier League club, founded 1886. One of England's most storied fo
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Team report surfaces Arteta/Vinícius Jr. transfer-rumor coverage.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Team report carries Kai Havertz trophy-ambition coverage.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Team report surfaces Arteta/Vinícius Jr. transfer-rumor coverage.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Team report carries Kai Havertz trophy-ambition coverage.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Arsenal team report includes Kai Havertz ambition-for-all-trophies coverage.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Arsenal team report includes Kai Havertz ambition-for-all-trophies coverage.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Arsenal team report carries Bruno Guimaraes/transfer-rumor chatter.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Arsenal team report carries Bruno Guimaraes/transfer-rumor chatter.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Arsenal appears through transfer commentary around Guimaraes and schedule sources.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Arsenal appears through transfer commentary around Guimaraes and schedule sources.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Arsenal appears through Bruno Guimaraes transfer chatter and schedule-source continuity.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Arsenal appears through Bruno Guimaraes transfer chatter and schedule-source continuity.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Arsenal transfer chatter around Bruno Guimaraes keeps the club in the soccer watchlist.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Arsenal transfer chatter around Bruno Guimaraes keeps the club in the soccer watchlist.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Team report repeats an Arsenal transfer-rumor item around Bruno Guimarães.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Team report repeats an Arsenal transfer-rumor item around Bruno Guimarães.
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Team report carries criticism of Arsenal Champions League tactics.
-- [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](sources/newsletter-2026-05-28.md) — Arsenal 8-0-0 in UCL; UCL Final vs. PSG on Saturday, May 30.
-- [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](sources/newsletter-2026-05-28-evening.md) — UCL Final is 36 hours away. Arsenal referenced as the eve-of-Final edition; 8-0-0 record intact entering the match vs. PSG.
-- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — UCL Final is **tomorrow**: Arsenal vs. PSG, Saturday May 30, 12 PM EDT, CBS. Arsenal's last 8 UCL results all wins, 27 goals scored across the run.
-- [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](sources/newsletter-2026-05-30.md) — UCL Final is **TODAY**. 12 PM EDT, CBS. Arsenal 8-0-0 entering the match; PSG beat Barça earlier in the competition. Result unknown at dispatch time (6 AM ET). Prediction markets showing active volume pre-kickoff.
-- [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](sources/newsletter-2026-05-31.md) — **Arsenal 1-1 PSG after 90 minutes. PSG win 4-3 on penalties. PSG are European champions.** Arsenal's historic 8-0-0 UCL campaign — defeating Athletic Club, Olympiacos, Atlético, Slavia Prague, Bayern, Club Brugge, Inter, and Kairat — ends at the final step in a shootout. "Gunners fans deserve better. This one stings."
-- [2026-05-31: Evening Brief — May 31, 2026](sources/newsletter-2026-05-31-evening.md) — Evening dispatch confirms Arsenal's off-season has begun. UCL elimination documented in full: PSG 1-1 Arsenal (FT), PSG 4-3 on penalties (May 30). European run closed out. Domestic PL season also concluded months prior.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Arsenal notes include Bruno Guimarães transfer-interest coverage and a bruised-banana away-kit item.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Team report carries criticism of Arsenal Champions League tactics.
+- [2026-05-28: Newsletter 2026-05-28 Morning Dispatch](../sources/newsletters/newsletter-2026-05-28.md) — Arsenal 8-0-0 in UCL; UCL Final vs. PSG on Saturday, May 30.
+- [2026-05-28: Newsletter 2026-05-28 Evening Dispatch](../sources/newsletters/newsletter-2026-05-28-evening.md) — UCL Final is 36 hours away. Arsenal referenced as the eve-of-Final edition; 8-0-0 record intact entering the match vs. PSG.
+- [2026-05-29: Newsletter 2026-05-29 Evening Dispatch](../sources/newsletters/newsletter-2026-05-29-evening.md) — UCL Final is **tomorrow**: Arsenal vs. PSG, Saturday May 30, 12 PM EDT, CBS. Arsenal's last 8 UCL results all wins, 27 goals scored across the run.
+- [2026-05-30: Newsletter 2026-05-30 Morning Dispatch](../sources/newsletters/newsletter-2026-05-30.md) — UCL Final is **TODAY**. 12 PM EDT, CBS. Arsenal 8-0-0 entering the match; PSG beat Barça earlier in the competition. Result unknown at dispatch time (6 AM ET). Prediction markets showing active volume pre-kickoff.
+- [2026-05-31: Newsletter 2026-05-31 Morning Dispatch](../sources/newsletters/newsletter-2026-05-31.md) — **Arsenal 1-1 PSG after 90 minutes. PSG win 4-3 on penalties. PSG are European champions.** Arsenal's historic 8-0-0 UCL campaign — defeating Athletic Club, Olympiacos, Atlético, Slavia Prague, Bayern, Club Brugge, Inter, and Kairat — ends at the final step in a shootout. "Gunners fans deserve better. This one stings."
+- [2026-05-31: Evening Brief — May 31, 2026](../sources/newsletters/newsletter-2026-05-31-evening.md) — Evening dispatch confirms Arsenal's off-season has begun. UCL elimination documented in full: PSG 1-1 Arsenal (FT), PSG 4-3 on penalties (May 30). European run closed out. Domestic PL season also concluded months prior.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Arsenal notes include Bruno Guimarães transfer-interest coverage and a bruised-banana away-kit item.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Arsenal appears through Bruno Guimarães/Newcastle-future transfer-interest chatter.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Arsenal appears through Bruno Guimarães/Newcastle-future transfer-interest chatter.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Arsenal appears in the soccer team-report area, with current schedule blocks fetched but no upcoming domestic/UCL games.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Arsenal appears in the soccer team-report area, with current schedule blocks fetched but no upcoming domestic/UCL games.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Team report links Arsenal to Vinícius Jr. contract/interest rumors.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Team report links Arsenal to Vinícius Jr. contract/interest rumors.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through Vinícius Jr. transfer-rumor coverage despite Arsenal interest.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appears through Vinícius Jr. transfer-rumor coverage despite Arsenal interest.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Arsenal appears through transfer-rumor context around Vinícius Jr. staying at Real Madrid despite interest.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Team report has sparse Premier League data but keeps Arsenal in the UCL/tactical disappointment news thread.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Arsenal appears through transfer-rumor context around Vinícius Jr. staying at Real Madrid despite interest.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Sports or team-report continuity item in the evening dispatch.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Team report has sparse Premier League data but keeps Arsenal in the UCL/tactical disappointment news thread.
 
 ## Related
 

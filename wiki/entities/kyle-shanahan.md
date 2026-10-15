@@ -15,7 +15,7 @@ NFL coach tracked through San Francisco 49ers team updates.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Shanahan is cited as the leader watching Brock Purdy and 49ers practice.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Shanahan is cited as the leader watching Brock Purdy and 49ers practice.
 
 ## Related
 

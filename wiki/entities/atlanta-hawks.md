@@ -15,7 +15,7 @@ The Atlanta Hawks are an NBA franchise tracked when roster, trade, and player-de
 
 ## Sources
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — The Hawks are reported as receiving Lu Dort in a three-team trade.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — The Hawks are reported as receiving Lu Dort in a three-team trade.
 
 ## Related
 

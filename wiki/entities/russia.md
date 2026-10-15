@@ -15,32 +15,32 @@ Russia is tracked here mainly through geopolitical and military-risk coverage. I
 
 ## Sources
 
-- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-midnight.md) — Moscow reportedly has not confirmed Trump's claimed energy ceasefire; no agreement text, scope, or implementation evidence is supplied.
+- [2026-10-13: Midnight Dispatch — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-midnight.md) — Moscow reportedly has not confirmed Trump's claimed energy ceasefire; no agreement text, scope, or implementation evidence is supplied.
 
-- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletter-2026-10-12-noon.md) — Trump again claims an energy ceasefire and promotes a diesel arrangement, but Moscow had not confirmed the ceasefire and no agreement text is provided.
+- [2026-10-12: Noon Dispatch — Monday, October 12, 2026](../sources/newsletters/newsletter-2026-10-12-noon.md) — Trump again claims an energy ceasefire and promotes a diesel arrangement, but Moscow had not confirmed the ceasefire and no agreement text is provided.
 
-- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-noon.md) — Trump claims an energy ceasefire with Ukraine, but no agreement text, Russian confirmation, scope, or implementation evidence appears in the dispatch.
+- [2026-10-11: Noon Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-noon.md) — Trump claims an energy ceasefire with Ukraine, but no agreement text, Russian confirmation, scope, or implementation evidence appears in the dispatch.
 
-- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-daytime.md) — Putin meets U.S. envoys as negotiations continue, but official optimism is not accompanied by settlement terms or implementation evidence.
+- [2026-09-07: Morning Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-daytime.md) — Putin meets U.S. envoys as negotiations continue, but official optimism is not accompanied by settlement terms or implementation evidence.
 
-- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletter-2026-09-07-midnight.md) — Putin meets U.S. envoys as negotiations continue, but the dispatch supplies no settlement terms or implementation evidence.
+- [2026-09-07: Midnight Dispatch — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-midnight.md) — Putin meets U.S. envoys as negotiations continue, but the dispatch supplies no settlement terms or implementation evidence.
 
-- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-noon.md) — Putin meets U.S. envoys as a diplomatic channel reopens, but no settlement terms or implementation evidence are reported.
+- [2026-09-06: Noon Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-noon.md) — Putin meets U.S. envoys as a diplomatic channel reopens, but no settlement terms or implementation evidence are reported.
 
-- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-daytime.md) — Renewed talks with U.S. envoys are described as useful, but no settlement terms or implementation evidence are reported.
+- [2026-09-06: Morning Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-daytime.md) — Renewed talks with U.S. envoys are described as useful, but no settlement terms or implementation evidence are reported.
 
-- [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletter-2026-09-06-midnight.md) — Putin meets U.S. envoys in renewed Ukraine-war talks that Russia calls useful, without reported settlement terms.
+- [2026-09-06: Midnight Dispatch — Sunday, September 6, 2026](../sources/newsletters/newsletter-2026-09-06-midnight.md) — Putin meets U.S. envoys in renewed Ukraine-war talks that Russia calls useful, without reported settlement terms.
 
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Coverage reports a deadly Kyiv strike and alleged Russian “drone safari” attacks against Ukrainians.
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The evening dispatch reports Russian ballistic-missile and drone attacks on Kyiv, keeping escalation risk live.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — Coverage reports a deadly Kyiv strike and alleged Russian “drone safari” attacks against Ukrainians.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — The evening dispatch reports Russian ballistic-missile and drone attacks on Kyiv, keeping escalation risk live.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Appears through Zelensky's warning of a large planned strike on Ukraine.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Appears through Zelensky's warning of a large planned strike on Ukraine.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Russia appears through Zelensky's warning of a possible massive strike on Ukraine.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — Russia appears through Zelensky's warning of a possible massive strike on Ukraine.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — U.S. government warnings about Russia-linked router hacking keep Russia in the cyber-operations and consumer-network security file.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — U.S. government warnings about Russia-linked router hacking keep Russia in the cyber-operations and consumer-network security file.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — A Russia sanctions bill becomes the vehicle for an added Iran-sanctions lane, linking Ukraine/Russia policy to Middle East pressure.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — A Russia sanctions bill becomes the vehicle for an added Iran-sanctions lane, linking Ukraine/Russia policy to Middle East pressure.
 
 ## Related
 

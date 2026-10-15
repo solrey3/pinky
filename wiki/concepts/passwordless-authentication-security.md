@@ -14,9 +14,9 @@ Passwordless authentication replaces shared secrets with cryptographic authentic
 
 ## Sources
 
-- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-noon.md) — Presents passkeys as a sound password replacement while reinforcing that recovery, synchronization, enrollment, sessions, and relying-party validation remain security boundaries.
+- [2026-10-14: Noon Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-noon.md) — Presents passkeys as a sound password replacement while reinforcing that recovery, synchronization, enrollment, sessions, and relying-party validation remain security boundaries.
 
-- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-noon.md) — A reported “Pass-ta-key” attack shows that passkeys narrow the credential attack surface without eliminating authentication-system failures.
+- [2026-08-11: Noon Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-noon.md) — A reported “Pass-ta-key” attack shows that passkeys narrow the credential attack surface without eliminating authentication-system failures.
 
 ## Related Concepts
 

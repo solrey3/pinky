@@ -15,9 +15,9 @@ NXT ring name adopted by Mike Santana in the WWE/NXT thread.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Mike Santana reveals his new NXT name as Cruz Montana.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Mike Santana reveals his new NXT name as Cruz Montana.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — The renamed Mike Santana appears as Cruz Montana in the NXT headline.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — The renamed Mike Santana appears as Cruz Montana in the NXT headline.
 
 ## Related
 

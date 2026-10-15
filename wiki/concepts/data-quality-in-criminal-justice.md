@@ -14,9 +14,9 @@ Data quality in criminal justice is the reliability of identifiers, records, mat
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Flock arrests and misread-license-plate chatter show enforcement data can fail through both bad inputs and unauthorized access.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Flock arrests and misread-license-plate chatter show enforcement data can fail through both bad inputs and unauthorized access.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — A missing underscore in a data trail reportedly helped send an innocent person to prison for 18 months, making brittle identifiers a due-process risk.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — A missing underscore in a data trail reportedly helped send an innocent person to prison for 18 months, making brittle identifiers a due-process risk.
 
 ## Related Concepts
 

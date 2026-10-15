@@ -15,7 +15,7 @@ Robotics company known for legged and mobile robots. In the newsletter graph, Bo
 
 ## Sources
 
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Hyundai takes full control of Boston Dynamics, tying robot-platform ownership to the broader AI-industrial stack.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — Hyundai takes full control of Boston Dynamics, tying robot-platform ownership to the broader AI-industrial stack.
 
 ## Related
 

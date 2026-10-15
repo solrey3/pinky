@@ -15,7 +15,7 @@ Jersey Mike's is a New Jersey-rooted sandwich chain. In the newsletter graph it 
 
 ## Sources
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Falls 6% in its public-market debut after pricing IPO shares at $23.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Falls 6% in its public-market debut after pricing IPO shares at $23.
 
 ## Related
 

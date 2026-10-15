@@ -15,9 +15,9 @@ Guevara says his AEW absence is not his call, adding a talent-availability note 
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Guevara says his AEW absence is not his call, adding a talent-availability note to the AEW thread.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Guevara says his AEW absence is not his call, adding a talent-availability note to the AEW thread.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Guevara appears through r/SquaredCircle chatter after removing AEW from his bio.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Guevara appears through r/SquaredCircle chatter after removing AEW from his bio.
 
 ## Related
 

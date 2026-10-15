@@ -15,7 +15,7 @@ The Hardys are tracked as a major pro-wrestling tag team whose appearances still
 
 ## Sources
 
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Listed in TNA iMPACT coverage for winning the “Righteous Deletion” match.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Listed in TNA iMPACT coverage for winning the “Righteous Deletion” match.
 
 ## Related
 

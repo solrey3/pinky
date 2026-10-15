@@ -15,7 +15,7 @@ Fast-food chain tracked here through a cyclospora-linked lawsuit and food-safety
 
 ## Sources
 
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Fast-food chain tracked here through a cyclospora-linked lawsuit and food-safety coverage.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Fast-food chain tracked here through a cyclospora-linked lawsuit and food-safety coverage.
 
 ## Related
 

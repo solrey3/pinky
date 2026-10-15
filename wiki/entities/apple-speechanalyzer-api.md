@@ -15,7 +15,7 @@ Apple speech-recognition API benchmarked against Whisper and prior Apple speech 
 
 ## Sources
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — The benchmark item turns speech recognition into an evaluation and platform-quality node rather than just a product announcement.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — The benchmark item turns speech recognition into an evaluation and platform-quality node rather than just a product announcement.
 
 ## Related
 

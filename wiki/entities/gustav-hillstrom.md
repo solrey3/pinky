@@ -15,11 +15,11 @@ New Jersey Devils prospect tracked through team prospect-profile coverage.
 
 ## Sources
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Appears through a Devils prospect-profile item in the daytime sports newswire.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Appears through a Devils prospect-profile item in the daytime sports newswire.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Devils prospect-profile coverage keeps Hillstrom in the team development graph.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Devils prospect-profile coverage keeps Hillstrom in the team development graph.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Named in a Devils prospect-profile batch in the sports wire.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Named in a Devils prospect-profile batch in the sports wire.
 
 ## Related
 

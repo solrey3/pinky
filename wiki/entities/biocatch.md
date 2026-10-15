@@ -15,10 +15,10 @@ BioCatch is a fraud-detection and behavioral-biometrics company tracked here thr
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Becomes Visa's $2.4 billion fraud-detection acquisition target amid rising AI-powered scams.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Named as Visa’s $2.4 billion acquisition target amid rising AI-powered scams.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — Evening coverage repeats BioCatch as Visa’s $2.4 billion fraud-detection target amid AI-scam pressure.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — CNBC reports Visa will buy BioCatch for $2.4 billion as an AI-scam hedge.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Becomes Visa's $2.4 billion fraud-detection acquisition target amid rising AI-powered scams.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Named as Visa’s $2.4 billion acquisition target amid rising AI-powered scams.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — Evening coverage repeats BioCatch as Visa’s $2.4 billion fraud-detection target amid AI-scam pressure.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — CNBC reports Visa will buy BioCatch for $2.4 billion as an AI-scam hedge.
 
 ## Related
 

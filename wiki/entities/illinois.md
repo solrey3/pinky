@@ -15,7 +15,7 @@ Illinois is tracked as a U.S. state policy node. In this source it matters for a
 
 ## Sources
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Introduced by the July 16 evening brief as part of the source's policy, market, technology, or sports state update.
 
 ## Related
 

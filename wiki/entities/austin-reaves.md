@@ -15,7 +15,7 @@ Austin Reaves is an NBA guard tracked when Lakers and LeBron-adjacent news appea
 
 ## Sources
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Reaves appears through an ESPN item about texting LeBron James after hearing departure news.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Reaves appears through an ESPN item about texting LeBron James after hearing departure news.
 
 ## Related
 

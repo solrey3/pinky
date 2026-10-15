@@ -34,42 +34,42 @@ source_count: 21
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Receives the WWE Title victory after Randy Orton turns on Cody Rhodes.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Receives the WWE Title victory after Randy Orton turns on Cody Rhodes.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — CM Punk's SummerSlam title-match aftermath is framed through Randy Orton costing Cody Rhodes.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — CM Punk's SummerSlam title-match aftermath is framed through Randy Orton costing Cody Rhodes.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — CM Punk benefits from Randy Orton attacking Cody Rhodes to take the WWE title victory at SummerSlam.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — CM Punk benefits from Randy Orton attacking Cody Rhodes to take the WWE title victory at SummerSlam.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Closes the SmackDown go-home cycle opposite Cody Rhodes before SummerSlam.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Closes the SmackDown go-home cycle opposite Cody Rhodes before SummerSlam.
 
 - [2026-05-27: Raw notes](../../raw/people/cm-punk.md)
-- [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletter-2026-06-03-evening.md) — **Logan Paul publicly apologized to CM Punk** after suffering a tricep tear injury, admitting he "was wrong" in their prior confrontation. Separately, **Ryan Nemeth** appeared to accuse Punk of PED use on social media — the kind of salvo that turns into a full-blown narrative if Punk responds.
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Wrestling desk keeps Punk in the feed through a backstage-rumor update on alleged conflict between CM Punk and WWE.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — A report on when Punk could return to WWE TV keeps his comeback timing in the rumor cycle.
+- [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletters/newsletter-2026-06-03-evening.md) — **Logan Paul publicly apologized to CM Punk** after suffering a tricep tear injury, admitting he "was wrong" in their prior confrontation. Separately, **Ryan Nemeth** appeared to accuse Punk of PED use on social media — the kind of salvo that turns into a full-blown narrative if Punk responds.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — Wrestling desk keeps Punk in the feed through a backstage-rumor update on alleged conflict between CM Punk and WWE.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — A report on when Punk could return to WWE TV keeps his comeback timing in the rumor cycle.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Reportedly replaced Cody Rhodes and defeated Sami Zayn to win the Undisputed WWE Championship on WWE Raw.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Reportedly replaced Cody Rhodes and defeated Sami Zayn to win the Undisputed WWE Championship on WWE Raw.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — CM Punk is reported to return on Raw and take the Undisputed WWE Championship from Sami Zayn, extending the July 7 daytime title-change node.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — CM Punk is reported to return on Raw and take the Undisputed WWE Championship from Sami Zayn, extending the July 7 daytime title-change node.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Reports expect CM Punk to have a lengthy Undisputed WWE Title run and a full-time summer schedule.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Reports expect CM Punk to have a lengthy Undisputed WWE Title run and a full-time summer schedule.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — CM Punk is listed for the July 10 SmackDown lineup, adding weekly-TV appearance continuity.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — CM Punk is listed for the July 10 SmackDown lineup, adding weekly-TV appearance continuity.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — CM Punk is advertised for a tag match with Cody Rhodes against Gunther and Sami Zayn at Saturday Night’s Main Event.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — CM Punk is advertised for a tag match with Cody Rhodes against Gunther and Sami Zayn at Saturday Night’s Main Event.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — CM Punk is part of the SummerSlam title-match setup against Cody Rhodes.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Cody vs. Punk at SummerSlam is the WWE SmackDown review hook in the wrestling digest.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — CM Punk is part of the SummerSlam title-match setup against Cody Rhodes.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Cody vs. Punk at SummerSlam is the WWE SmackDown review hook in the wrestling digest.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — A SquaredCircle item quotes Punk on listening to the live crowd instead of Twitter.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — A SquaredCircle item quotes Punk on listening to the live crowd instead of Twitter.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — CM Punk is listed for the July 17 WWE SmackDown appearance slot alongside Cody Rhodes.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — CM Punk is listed for the July 17 WWE SmackDown appearance slot alongside Cody Rhodes.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — CM Punk is part of the SNME tag stipulation and appears separately in r/SquaredCircle discussion about post-WrestleMania grief.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Punk appears through a feed item saying he took time off after WrestleMania to grieve.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — CM Punk is part of the SNME tag stipulation and appears separately in r/SquaredCircle discussion about post-WrestleMania grief.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Punk appears through a feed item saying he took time off after WrestleMania to grieve.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — A SquaredCircle post about why CM Punk quit Twitter keeps him in the wrestling culture feed.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — A SquaredCircle post about why CM Punk quit Twitter keeps him in the wrestling culture feed.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — CM Punk says Cody Rhodes is paranoid he will stab him in the back, continuing the WWE character-conflict thread.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — CM Punk says Cody Rhodes is paranoid he will stab him in the back, continuing the WWE character-conflict thread.
 
 ## Related
 

@@ -15,7 +15,7 @@ A [[Google DeepMind]] weather-model family highlighted for improved cyclone fore
 
 ## Sources
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Presented as a breakthrough in AI-assisted cyclone prediction.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Presented as a breakthrough in AI-assisted cyclone prediction.
 
 ## Related
 

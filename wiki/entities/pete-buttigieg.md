@@ -15,7 +15,7 @@ Pete Buttigieg is a Democratic politician tracked here through early 2028 presid
 
 ## Sources
 
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — Appears in The Hill's early 2028 presidential chatter as “more inclined than not” to run.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — Appears in The Hill's early 2028 presidential chatter as “more inclined than not” to run.
 
 ## Related
 

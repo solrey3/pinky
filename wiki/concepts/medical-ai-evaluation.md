@@ -14,11 +14,11 @@ The measurement of AI performance on clinical tests, diagnostic tasks, and care 
 
 ## Sources
 
-- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletter-2026-09-26-evening.md) — Warns that chatbot health advice cannot replace physicians, reinforcing clinical validation, accountability, and escalation as deployment requirements.
+- [2026-09-26: Evening Brief — Saturday, September 26, 2026](../sources/newsletters/newsletter-2026-09-26-evening.md) — Warns that chatbot health advice cannot replace physicians, reinforcing clinical validation, accountability, and escalation as deployment requirements.
 
-- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Reports claims of AI beating doctors on medical tests while preserving the distinction between benchmark capability and safe clinical deployment.
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-evening.md) — Reports claims of AI beating doctors on medical tests while preserving the distinction between benchmark capability and safe clinical deployment.
 
-- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — Cites medical-test results in which AI reportedly outperforms human doctors, sharpening the distinction between benchmark success and deployment readiness.
+- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-noon.md) — Cites medical-test results in which AI reportedly outperforms human doctors, sharpening the distinction between benchmark success and deployment readiness.
 
 ## Related Concepts
 

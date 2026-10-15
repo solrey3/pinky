@@ -15,13 +15,13 @@ The Federal Trade Commission is a U.S. regulator for consumer protection, compet
 
 ## Sources
 
-- [2026-09-01: Midnight Dispatch — Tuesday, September 1, 2026](../sources/newsletter-2026-09-01-midnight.md) — Reportedly prepares a deceptive-advertising case against Amazon over alleged hidden advertiser fees.
+- [2026-09-01: Midnight Dispatch — Tuesday, September 1, 2026](../sources/newsletters/newsletter-2026-09-01-midnight.md) — Reportedly prepares a deceptive-advertising case against Amazon over alleged hidden advertiser fees.
 
-- [2026-08-31: Evening Brief — Monday, August 31, 2026](../sources/newsletter-2026-08-31-evening.md) — Reportedly prepares a lawsuit alleging Amazon deceived advertisers, an advertising-practices consumer-protection action.
+- [2026-08-31: Evening Brief — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-evening.md) — Reportedly prepares a lawsuit alleging Amazon deceived advertisers, an advertising-practices consumer-protection action.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Receives pressure from EFF and allies not to waive or weaken X privacy-violation order requirements.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Receives pressure from EFF and allies not to waive or weaken X privacy-violation order requirements.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — The FTC/John Deere settlement gives farm-equipment owners a concrete right-to-repair win.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — The FTC/John Deere settlement gives farm-equipment owners a concrete right-to-repair win.
 
 ## Related
 

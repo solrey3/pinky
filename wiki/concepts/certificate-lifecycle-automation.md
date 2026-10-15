@@ -14,7 +14,7 @@ Automated issuance, validation, deployment, renewal, monitoring, and revocation 
 
 ## Sources
 
-- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-evening.md) — Uses a reported move by Let's Encrypt to 64-day certificates as a signal that manual renewal processes will become increasingly fragile.
+- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-evening.md) — Uses a reported move by Let's Encrypt to 64-day certificates as a signal that manual renewal processes will become increasingly fragile.
 
 ## Related Concepts
 

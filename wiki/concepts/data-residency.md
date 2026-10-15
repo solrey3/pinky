@@ -14,7 +14,7 @@ Data residency is the requirement or user choice that digital information be sto
 
 ## Sources
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Fastmail's EU region makes storage location an explicit service option.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — Fastmail's EU region makes storage location an explicit service option.
 
 ## Related Concepts
 

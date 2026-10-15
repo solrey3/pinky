@@ -15,7 +15,7 @@ Epic Games is tracked for its role in app-store competition, antitrust pressure,
 
 ## Sources
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Google and Epic ending their fight points toward third-party Android app stores, making Epic a platform-control and app-distribution actor.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Google and Epic ending their fight points toward third-party Android app stores, making Epic a platform-control and app-distribution actor.
 
 ## Related
 

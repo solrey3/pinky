@@ -15,9 +15,9 @@ Pauline Ferrand-Prévot is a French cyclist tracked here through Tour de France 
 
 ## Sources
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — The defending Tour de France Femmes champion withdraws before stage 8 because of illness.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — The defending Tour de France Femmes champion withdraws before stage 8 because of illness.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — The defending champion withdraws before stage 8 because of illness.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — The defending champion withdraws before stage 8 because of illness.
 
 ## Related
 

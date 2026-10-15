@@ -15,7 +15,7 @@ Kokoro is tracked here as a local, CPU-friendly text-to-speech tool/model in the
 
 ## Sources
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Kokoro appears through a local CPU-friendly TTS build that offers useful speech generation without requiring hyperscale cloud inference.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Kokoro appears through a local CPU-friendly TTS build that offers useful speech generation without requiring hyperscale cloud inference.
 
 ## Related
 

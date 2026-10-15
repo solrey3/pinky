@@ -15,7 +15,7 @@ NATO is the transatlantic military and security alliance. In the newsletter grap
 
 ## Sources
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — NATO-summit coverage frames Trump meetings with Zelensky and the Syrian leader as the day's diplomatic spotlight.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — NATO-summit coverage frames Trump meetings with Zelensky and the Syrian leader as the day's diplomatic spotlight.
 
 ## Related
 

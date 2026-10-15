@@ -15,7 +15,7 @@ Brazilian soccer player mentioned in MLS chatter around Inter Miami and Lionel M
 
 ## Sources
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — ESPN video item says Casemiro is eager to help Messi at Inter Miami, keeping the club in the soccer feed despite schedule parse failure.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — ESPN video item says Casemiro is eager to help Messi at Inter Miami, keeping the club in the soccer feed despite schedule parse failure.
 
 ## Related
 

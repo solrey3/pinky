@@ -15,7 +15,7 @@ Isaac Del Toro Romero is a cyclist appearing in the Tour de France GC ledger.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Listed third in the Tour de France general classification.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Listed third in the Tour de France general classification.
 
 ## Related
 

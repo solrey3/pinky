@@ -14,20 +14,20 @@ Sovereign AI is the idea that a country, region, institution, or other governing
 
 ## Sources
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Apertus is framed as an open foundation model for sovereign AI, tying open model access to institutional autonomy and governance rather than just developer convenience.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Apertus is framed as an open foundation model for sovereign AI, tying open model access to institutional autonomy and governance rather than just developer convenience.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Apertus returns as an open foundation model for sovereign AI, reinforcing sovereignty as operational autonomy: model access, hosting, auditability, and governance capacity.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — U.S.-government vetting of GPT-5.6 Sol access frames sovereignty from the closed-model side: state authority over who may use frontier capability.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission repeat the closed-model sovereignty pattern: state-approved eligibility for frontier capability.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Apertus returns as an open foundation model for sovereign AI, reinforcing sovereignty as operational autonomy: model access, hosting, auditability, and governance capacity.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — U.S.-government vetting of GPT-5.6 Sol access frames sovereignty from the closed-model side: state authority over who may use frontier capability.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — GPT-5.6 Sol access vetting and Anthropic Mythos release permission repeat the closed-model sovereignty pattern: state-approved eligibility for frontier capability.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — A reported Spanish blacklist of Palantir frames AI/data-platform procurement as sovereignty and trust policy, not only vendor selection.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — A reported Spanish blacklist of Palantir frames AI/data-platform procurement as sovereignty and trust policy, not only vendor selection.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — DeepSeek reportedly developing its own chips under U.S. export-control pressure extends sovereign AI from model hosting and procurement into domestic silicon strategy.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — DeepSeek reportedly developing its own chips under U.S. export-control pressure extends sovereign AI from model hosting and procurement into domestic silicon strategy.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — DeepSeek's reported chip plans keep sovereign AI moving down-stack from model access into domestic silicon and export-control resilience.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The China/open-weights thread reinforces national AI autonomy: model access, local deployment, and ecosystem control become strategic infrastructure.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — DeepSeek's reported chip plans keep sovereign AI moving down-stack from model access into domestic silicon and export-control resilience.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — The China/open-weights thread reinforces national AI autonomy: model access, local deployment, and ecosystem control become strategic infrastructure.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Gemini cybersecurity AI and Qwen-Image-3.0 keep strategic model capacity and jurisdictional/platform autonomy visible as national and industrial infrastructure.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Gemini cybersecurity AI and Qwen-Image-3.0 keep strategic model capacity and jurisdictional/platform autonomy visible as national and industrial infrastructure.
 
 ## Related Concepts
 

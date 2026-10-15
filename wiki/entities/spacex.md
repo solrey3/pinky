@@ -15,47 +15,47 @@ American aerospace and launch company founded by Elon Musk. In the newsletter gr
 
 ## Sources
 
-- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-daytime.md) — Frames its wireless-carrier ambitions and FCC maneuvering as a larger telecom push, without establishing the licensing mechanism or regulator response.
+- [2026-10-11: Morning Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-daytime.md) — Frames its wireless-carrier ambitions and FCC maneuvering as a larger telecom push, without establishing the licensing mechanism or regulator response.
 
-- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletter-2026-10-11-midnight.md) — Again frames its wireless strategy as evading FCC constraints without establishing the legal mechanism, licensing posture, or agency response.
+- [2026-10-11: Midnight Dispatch — Sunday, October 11, 2026](../sources/newsletters/newsletter-2026-10-11-midnight.md) — Again frames its wireless strategy as evading FCC constraints without establishing the legal mechanism, licensing posture, or agency response.
 
-- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-evening.md) — Repeats the report that its wireless strategy works around FCC constraints without clarifying the legal mechanism or the agency's position.
+- [2026-10-10: Evening Brief — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-evening.md) — Repeats the report that its wireless strategy works around FCC constraints without clarifying the legal mechanism or the agency's position.
 
-- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletter-2026-10-10-noon.md) — A report that its wireless strategy works around FCC constraints extends the governance thread into spectrum regulation, though the mechanism and agency position need primary confirmation.
+- [2026-10-10: Noon Dispatch — Saturday, October 10, 2026](../sources/newsletters/newsletter-2026-10-10-noon.md) — A report that its wireless strategy works around FCC constraints extends the governance thread into spectrum regulation, though the mechanism and agency position need primary confirmation.
 
-- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-daytime.md) — Repeats its call for stronger orbital coordination after reported Starlink near-misses; independent tracking and common conjunction thresholds remain necessary.
+- [2026-10-09: Morning Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-daytime.md) — Repeats its call for stronger orbital coordination after reported Starlink near-misses; independent tracking and common conjunction thresholds remain necessary.
 
-- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-midnight.md) — Calls for better orbital coordination after reported Starlink near-misses, connecting constellation scale to tracking, conjunction protocols, and orbital-commons governance.
+- [2026-10-09: Midnight Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-midnight.md) — Calls for better orbital coordination after reported Starlink near-misses, connecting constellation scale to tracking, conjunction protocols, and orbital-commons governance.
 
-- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — Starship reportedly reaches orbit and deploys next-generation Starlink satellites, linking launch progress to network expansion.
+- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-daytime.md) — Starship reportedly reaches orbit and deploys next-generation Starlink satellites, linking launch progress to network expansion.
 
-- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — Starship reportedly reaches orbit and deploys the first next-generation Starlink satellites, joining reusable-launch progress to network expansion.
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-midnight.md) — Starship reportedly reaches orbit and deploys the first next-generation Starlink satellites, joining reusable-launch progress to network expansion.
 
-- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-evening.md) — Declares Starship ready for orbit ahead of the planned Flight 14 launch window.
+- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-evening.md) — Declares Starship ready for orbit ahead of the planned Flight 14 launch window.
 
-- [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-noon.md) — Proposed orbital data centers extend SpaceX-linked infrastructure ambitions into hardware lifecycle, deorbiting, and e-waste constraints.
+- [2026-08-20: Noon Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-noon.md) — Proposed orbital data centers extend SpaceX-linked infrastructure ambitions into hardware lifecycle, deorbiting, and e-waste constraints.
 
-- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-daytime.md) — Former engineers carry aerospace automation experience into a robotic steel-parts factory.
+- [2026-08-18: Morning Dispatch — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-daytime.md) — Former engineers carry aerospace automation experience into a robotic steel-parts factory.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — Appears as the target of Nvidia’s disclosed $21 billion private-market investment.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — Appears as the target of Nvidia’s disclosed $21 billion private-market investment.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — An insider liquidity opportunity is constrained by a reported decline in the private share price.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — An insider liquidity opportunity is constrained by a reported decline in the private share price.
 
-- [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-noon.md) — Debut-earnings coverage says heavy AI spending unsettled investors, adding public-market scrutiny to SpaceX's infrastructure ambitions.
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — A spent SpaceX rocket stage is reported to have struck the Moon, highlighting the lunar-debris ledger.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Cathie Wood’s renewed SpaceX conviction keeps private space exposure tied to high-conviction tech investing.
+- [2026-08-05: Noon Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-noon.md) — Debut-earnings coverage says heavy AI spending unsettled investors, adding public-market scrutiny to SpaceX's infrastructure ambitions.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — A spent SpaceX rocket stage is reported to have struck the Moon, highlighting the lunar-debris ledger.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Cathie Wood’s renewed SpaceX conviction keeps private space exposure tied to high-conviction tech investing.
 
-- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletter-2026-06-16-evening.md) — Reuters/Hacker News item reports SpaceX buying Cursor/Anysphere for $60B, treating an AI coding platform as strategic infrastructure.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — SpaceX plans Starlink mobile service in the U.S., extending the company from launch/satellite infrastructure into satellite-to-phone network reach.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Starlink mobile service plans repeat, keeping SpaceX in the satellite-to-phone infrastructure lane.
+- [2026-06-16: Evening Brief — Tuesday, June 16, 2026](../sources/newsletters/newsletter-2026-06-16-evening.md) — Reuters/Hacker News item reports SpaceX buying Cursor/Anysphere for $60B, treating an AI coding platform as strategic infrastructure.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — SpaceX plans Starlink mobile service in the U.S., extending the company from launch/satellite infrastructure into satellite-to-phone network reach.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — Starlink mobile service plans repeat, keeping SpaceX in the satellite-to-phone infrastructure lane.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Starship's 13th test-flight preparation keeps SpaceX in the reusable-launch cadence and reliability graph.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Starship's 13th test-flight preparation keeps SpaceX in the reusable-launch cadence and reliability graph.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Starship Flight Test 13 appears through Polymarket probabilities, linking SpaceX launch reliability to public prediction markets.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Starship Flight Test 13 appears through Polymarket probabilities, linking SpaceX launch reliability to public prediction markets.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Starship launch is scrubbed after some engines fail to start, shifting the SpaceX thread from launch cadence to reliability and preflight abort discipline.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Starship launch is scrubbed after some engines fail to start, shifting the SpaceX thread from launch cadence to reliability and preflight abort discipline.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — SpaceX is eyeing another Starship tower catch after Flight 13, keeping reusable-launch operations in view.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — SpaceX is eyeing another Starship tower catch after Flight 13, keeping reusable-launch operations in view.
 
 ## Related
 

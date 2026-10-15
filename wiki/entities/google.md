@@ -15,115 +15,115 @@ American technology company and AI lab/operator behind Search, Android, Google C
 
 ## Sources
 
-- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletter-2026-10-14-midnight.md) — Gemini 4 Argon again appears through Google's general model page, but the dispatch establishes no new release, specifications, or availability change.
+- [2026-10-14: Midnight Dispatch — Wednesday, October 14, 2026](../sources/newsletters/newsletter-2026-10-14-midnight.md) — Gemini 4 Argon again appears through Google's general model page, but the dispatch establishes no new release, specifications, or availability change.
 
-- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletter-2026-10-13-evening.md) — Google Play reportedly opens hosting for personal vibe-coded apps while Gemini 4 Argon returns to the technology feed; product scope, review controls, and model details require primary confirmation.
+- [2026-10-13: Evening Brief — Tuesday, October 13, 2026](../sources/newsletters/newsletter-2026-10-13-evening.md) — Google Play reportedly opens hosting for personal vibe-coded apps while Gemini 4 Argon returns to the technology feed; product scope, review controls, and model details require primary confirmation.
 
-- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-evening.md) — Appears in a report about acquiring AI models derived from Spirit Airlines data, raising unresolved questions about data provenance, contractual rights, and model ownership.
+- [2026-10-08: Evening Brief — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-evening.md) — Appears in a report about acquiring AI models derived from Spirit Airlines data, raising unresolved questions about data provenance, contractual rights, and model ownership.
 
-- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-noon.md) — Reportedly expands SynthID detector availability and ships JPEG XL in Chrome; rollout scope and timing require primary confirmation.
+- [2026-10-07: Noon Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-noon.md) — Reportedly expands SynthID detector availability and ships JPEG XL in Chrome; rollout scope and timing require primary confirmation.
 
-- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-evening.md) — A judge dismisses Chegg and Penske challenges to Google's AI-search practices at this litigation stage, adding procedural nuance rather than resolving the broader competition question.
+- [2026-10-01: Evening Brief — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-evening.md) — A judge dismisses Chegg and Penske challenges to Google's AI-search practices at this litigation stage, adding procedural nuance rather than resolving the broader competition question.
 
-- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-daytime.md) — Links Google's Gemini 4 Argon announcement; model capabilities and availability still require confirmation from the full primary release.
+- [2026-10-01: Morning Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-daytime.md) — Links Google's Gemini 4 Argon announcement; model capabilities and availability still require confirmation from the full primary release.
 
-- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletter-2026-10-01-midnight.md) — Gemini 4 Argon appears through a Google-hosted announcement, though capabilities and availability still require confirmation from the full release material.
+- [2026-10-01: Midnight Dispatch — Thursday, October 1, 2026](../sources/newsletters/newsletter-2026-10-01-midnight.md) — Gemini 4 Argon appears through a Google-hosted announcement, though capabilities and availability still require confirmation from the full release material.
 
-- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-evening.md) — Announces the unavailable Gemini 4 Argon model, though mismatched link and model labels require verification against Google's primary release material.
+- [2026-09-30: Evening Brief — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-evening.md) — Announces the unavailable Gemini 4 Argon model, though mismatched link and model labels require verification against Google's primary release material.
 
-- [2026-09-14: Midnight Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-midnight.md) — Repeats criticism that Google's advertising systems continue serving questionable ads, extending the platform-accountability thread.
+- [2026-09-14: Midnight Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-midnight.md) — Repeats criticism that Google's advertising systems continue serving questionable ads, extending the platform-accountability thread.
 
-- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletter-2026-09-13-evening.md) — Appears through criticism that its advertising systems continue serving questionable ads, extending platform-accountability concerns.
+- [2026-09-13: Evening Brief — Sunday, September 13, 2026](../sources/newsletters/newsletter-2026-09-13-evening.md) — Appears through criticism that its advertising systems continue serving questionable ads, extending platform-accountability concerns.
 
-- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-midnight.md) — Avoids forced sale of its ad exchange despite an illegal-monopoly finding, again separating liability from structural remedy.
+- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-midnight.md) — Avoids forced sale of its ad exchange despite an illegal-monopoly finding, again separating liability from structural remedy.
 
-- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — Avoids forced sale of its ad exchange despite an illegal-monopoly finding, preserving the gap between liability and structural remedy.
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-evening.md) — Avoids forced sale of its ad exchange despite an illegal-monopoly finding, preserving the gap between liability and structural remedy.
 
-- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Avoids forced sale of its ad exchange despite an illegal-monopoly finding.
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-noon.md) — Avoids forced sale of its ad exchange despite an illegal-monopoly finding.
 
-- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — Avoids structural separation of its ad-tech business despite an illegal-monopoly finding.
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-daytime.md) — Avoids structural separation of its ad-tech business despite an illegal-monopoly finding.
 
-- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Avoids structural separation of its ad-tech business and releases Gemini 3.8 Flash and Cyber.
+- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-midnight.md) — Avoids structural separation of its ad-tech business and releases Gemini 3.8 Flash and Cyber.
 
-- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Avoids structural separation of its ad-tech business and releases Gemini 3.8 Flash.
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-evening.md) — Avoids structural separation of its ad-tech business and releases Gemini 3.8 Flash.
 
-- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-noon.md) — A judge rejects breakup of its ad-tech business, while Google DeepMind publishes the Gemini 3.8 Flash model card.
+- [2026-09-02: Noon Dispatch — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-noon.md) — A judge rejects breakup of its ad-tech business, while Google DeepMind publishes the Gemini 3.8 Flash model card.
 
-- [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-daytime.md) — Gemini 3.7 Flash appears as Google’s fast-model release in the AI desk.
+- [2026-08-14: Morning Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-daytime.md) — Gemini 3.7 Flash appears as Google’s fast-model release in the AI desk.
 
-- [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletter-2026-08-14-midnight.md) — Gemini 3.7 Flash leads the technology desk as a fast-inference model release.
+- [2026-08-14: Midnight Dispatch — Friday, August 14, 2026](../sources/newsletters/newsletter-2026-08-14-midnight.md) — Gemini 3.7 Flash leads the technology desk as a fast-inference model release.
 
-- [2026-08-13: Evening Brief — Thursday, August 13, 2026](../sources/newsletter-2026-08-13-evening.md) — Google launches Gemini 3.7 Flash, extending the Gemini family’s emphasis on fast, widely distributed inference.
+- [2026-08-13: Evening Brief — Thursday, August 13, 2026](../sources/newsletters/newsletter-2026-08-13-evening.md) — Google launches Gemini 3.7 Flash, extending the Gemini family’s emphasis on fast, widely distributed inference.
 
-- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-evening.md) — Google reports Gemini reaching one billion users, making consumer distribution a major AI-platform advantage.
+- [2026-08-11: Evening Brief — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-evening.md) — Google reports Gemini reaching one billion users, making consumer distribution a major AI-platform advantage.
 
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — AI Overviews are criticized by Reddit leadership, extending the publisher/platform value-capture thread.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — AI Overviews remain a search-traffic and platform-power issue through Reddit’s complaint.
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — AI Overviews are challenged by Reddit as investor-relevant search substitution pressure.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — AI Overviews are criticized by Reddit leadership, extending the publisher/platform value-capture thread.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — AI Overviews remain a search-traffic and platform-power issue through Reddit’s complaint.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — AI Overviews are challenged by Reddit as investor-relevant search substitution pressure.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — AI Overviews remain a publisher/platform-distribution pressure point through Reddit criticism.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — AI Overviews remain a publisher/platform-distribution pressure point through Reddit criticism.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Google appears through the RSS-adoption retrospective, keeping platform distribution power in the open-web graph.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Google appears through the RSS-adoption retrospective, keeping platform distribution power in the open-web graph.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Google appears through Android developer-verification exemptions and the broader app-store control story.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Google appears through Android developer-verification exemptions and the broader app-store control story.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Google appears both through AI Overviews pressure on Reddit and off-balance-sheet AI-chip risk, tying platform economics to AI infrastructure finance.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Google appears both through AI Overviews pressure on Reddit and off-balance-sheet AI-chip risk, tying platform economics to AI infrastructure finance.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Reddit’s CEO questions the value and traffic economics of Google AI Overviews.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Reddit’s CEO questions the value and traffic economics of Google AI Overviews.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Chrome AI-assisted bug-fixing puts Google in the AI-security remediation-throughput thread.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Chrome AI-assisted bug-fixing puts Google in the AI-security remediation-throughput thread.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Android developer-verification exemptions for sanctioned nations keep Google in the platform-governance and app-distribution thread.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Android developer-verification exemptions for sanctioned nations keep Google in the platform-governance and app-distribution thread.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Google Earth’s retracted synthetic satellite-imagery tool adds provenance pressure to Google’s geospatial trust layer.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Google Earth’s retracted synthetic satellite-imagery tool adds provenance pressure to Google’s geospatial trust layer.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Appears through AI-assisted Chrome security fixes and Google DeepMind Gemini Robotics 2, linking platform security throughput to embodied AI capability.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Appears through Google DeepMind robotics and Play Store age-signals API coverage, linking AI capability to platform governance.
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — MacRumors reported Apple's new AI architecture as being built around Google Gemini models, making Google part of Apple's AI plumbing.
-- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletter-2026-06-09.md) — The Apple/Gemini architecture story stayed prominent, reinforced by macOS Golden Gate and Gemini-powered Siri feed items.
-- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletter-2026-06-10.md) — Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation, shifting Gemini from platform plumbing into everyday communication utility.
-- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletter-2026-06-10-evening.md) — Google DeepMind's DiffusionGemma points to faster local AI, while the AI-search court ruling frames generated answers as Google's own accountable output.
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — DiffusionGemma remains part of the local-AI speed story, while a German AI Overviews ruling reinforces generated-output liability for Google.
-- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — Google sues a Chinese cybercrime network that allegedly used Gemini to automate scam operations.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — The Gemini-enabled scam-automation lawsuit remains a top AI/security item, reinforcing abuse prevention as part of the model-provider role.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — Google's lawsuit over alleged Gemini-automated scams stays in the AI/security desk, keeping model-abuse controls and legal enforcement in the Google story.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — A German court ruling says Google can be held liable for false AI Overview answers, keeping generated search summaries in the platform-accountability frame.
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — gHacks keeps the German AI Overview liability ruling in the around-the-web feed, reinforcing that generated search answers are being treated as platform statements.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Ars Technica reports Google's Android verification timeline and supported app stores, turning app identity, sideloading controls, and malware prevention into a mobile-platform-governance issue.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Android verification remains on the tech desk, reinforcing app-store support, developer identity, and sideloading limits as live Google platform-governance questions.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Google crossing **50% IPv6** is tracked as an internet-plumbing milestone and a public adoption signal for core network infrastructure.
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Gemini 3.5 Flash computer-use coverage adds agentic interface control to Google's AI lane, while Play Store fee cuts under the Epic settlement keep platform economics in view.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — Appears through AI-assisted Chrome security fixes and Google DeepMind Gemini Robotics 2, linking platform security throughput to embodied AI capability.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Appears through Google DeepMind robotics and Play Store age-signals API coverage, linking AI capability to platform governance.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — MacRumors reported Apple's new AI architecture as being built around Google Gemini models, making Google part of Apple's AI plumbing.
+- [2026-06-09: Newsletter 2026-06-09 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-09.md) — The Apple/Gemini architecture story stayed prominent, reinforced by macOS Golden Gate and Gemini-powered Siri feed items.
+- [2026-06-10: Newsletter 2026-06-10 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-10.md) — Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation, shifting Gemini from platform plumbing into everyday communication utility.
+- [2026-06-10: Evening Brief — Wednesday, June 10, 2026](../sources/newsletters/newsletter-2026-06-10-evening.md) — Google DeepMind's DiffusionGemma points to faster local AI, while the AI-search court ruling frames generated answers as Google's own accountable output.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — DiffusionGemma remains part of the local-AI speed story, while a German AI Overviews ruling reinforces generated-output liability for Google.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletters/newsletter-2026-06-12-evening.md) — Google sues a Chinese cybercrime network that allegedly used Gemini to automate scam operations.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — The Gemini-enabled scam-automation lawsuit remains a top AI/security item, reinforcing abuse prevention as part of the model-provider role.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — Google's lawsuit over alleged Gemini-automated scams stays in the AI/security desk, keeping model-abuse controls and legal enforcement in the Google story.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — A German court ruling says Google can be held liable for false AI Overview answers, keeping generated search summaries in the platform-accountability frame.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — gHacks keeps the German AI Overview liability ruling in the around-the-web feed, reinforcing that generated search answers are being treated as platform statements.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — Ars Technica reports Google's Android verification timeline and supported app stores, turning app identity, sideloading controls, and malware prevention into a mobile-platform-governance issue.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Android verification remains on the tech desk, reinforcing app-store support, developer identity, and sideloading limits as live Google platform-governance questions.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Google crossing **50% IPv6** is tracked as an internet-plumbing milestone and a public adoption signal for core network infrastructure.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — Gemini 3.5 Flash computer-use coverage adds agentic interface control to Google's AI lane, while Play Store fee cuts under the Epic settlement keep platform economics in view.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — An F-Droid “Android malware from Google” item keeps Google in the mobile security, sideloading, and app-store governance lane.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — An F-Droid “Android malware from Google” item keeps Google in the mobile security, sideloading, and app-store governance lane.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google reports AI buildout drove a **37%** electricity-use increase in 2025, turning AI scale into a power-grid and data-center-capacity issue.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Google reports AI buildout drove a **37%** electricity-use increase in 2025, turning AI scale into a power-grid and data-center-capacity issue.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — EU appeal loss on the Android antitrust fine keeps Google in the mobile-platform bundling, default-search, and app-ecosystem power lane.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — EU appeal loss on the Android antitrust fine keeps Google in the mobile-platform bundling, default-search, and app-ecosystem power lane.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — EU appeal loss on the Android antitrust fine repeats the mobile-platform bundling and default-search governance story.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — EU appeal loss on the Android antitrust fine repeats the mobile-platform bundling and default-search governance story.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Google appears through Pixel 11 teaser chatter and the Google/Epic app-store settlement path toward third-party Android app stores.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Google appears through Pixel 11 teaser chatter and the Google/Epic app-store settlement path toward third-party Android app stores.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — NotebookLM is rebranded as Gemini Notebook, keeping Google's AI story in the personal-knowledge and research-workflow lane.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — NotebookLM is rebranded as Gemini Notebook, keeping Google's AI story in the personal-knowledge and research-workflow lane.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — San Francisco ordering Google to remove nudify apps puts Play Store governance in the same platform-accountability frame as Apple.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — San Francisco ordering Google to remove nudify apps puts Play Store governance in the same platform-accountability frame as Apple.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Google-backed wildfire-detection satellites frame platform capital and space infrastructure as public-safety tooling.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Google-backed wildfire-detection satellites frame platform capital and space infrastructure as public-safety tooling.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Announces Gemini 3.6 Flash and cybersecurity AI while teasing later Gemini models, keeping Google in the AI capability and security-product release lane.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Announces Gemini 3.6 Flash and cybersecurity AI while teasing later Gemini models, keeping Google in the AI capability and security-product release lane.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Google announces Gemini 3.6 Flash and cybersecurity AI while teasing future Gemini models, keeping its AI platform in the release-cadence and cyber-defense graph.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Google announces Gemini 3.6 Flash and cybersecurity AI while teasing future Gemini models, keeping its AI platform in the release-cadence and cyber-defense graph.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The EU fines Google $1B and orders competitor equal treatment, while Alphabet/Google AI capex produces a negative cash-flow quarter.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — A $1B EU fine and equal-treatment order keep Google in the platform-antitrust enforcement lane.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — The EU fines Google $1B and orders competitor equal treatment, while Alphabet/Google AI capex produces a negative cash-flow quarter.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — A $1B EU fine and equal-treatment order keep Google in the platform-antitrust enforcement lane.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Android ADB restrictions keep Google platform control and mobile developer workflow in the graph.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Google/Alphabet is implicated in Moody's AI-capex credit warning and social-platform researcher-access scrutiny.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Android ADB restrictions keep Google platform control and mobile developer workflow in the graph.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Google/Alphabet is implicated in Moody's AI-capex credit warning and social-platform researcher-access scrutiny.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Google loses a DMCA anti-scraping argument, keeping scraping law and platform-control boundaries active.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Google loses a DMCA anti-scraping argument, keeping scraping law and platform-control boundaries active.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Google appears through SynthID watermarking, framed as useful provenance infrastructure but not a full AI-disinformation solution.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Google appears through SynthID watermarking, framed as useful provenance infrastructure but not a full AI-disinformation solution.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Part of the AI/security desk on Copilot-for-Word worming, AI-assisted vulnerability discovery, and platform age-verification infrastructure.
 
 ## Related
 

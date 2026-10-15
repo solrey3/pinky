@@ -15,8 +15,8 @@ Keyport is a borough in Monmouth County, New Jersey. In the newsletter graph it 
 
 ## Sources
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — NewsNation’s PFAS/benzene groundwater-testing item remains in the morning cycle amid cancer-cluster concerns.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — NewsNation reports groundwater tests finding PFAS and benzene amid resident cancer-cluster concerns.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — NewsNation’s PFAS/benzene groundwater-testing item remains in the morning cycle amid cancer-cluster concerns.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — NewsNation reports groundwater tests finding PFAS and benzene amid resident cancer-cluster concerns.
 
 ## Related
 

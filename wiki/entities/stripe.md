@@ -15,13 +15,13 @@ Stripe is tracked as a payments company when fintech competition, acquisition ac
 
 ## Sources
 
-- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — Repeats OpenRouter's move to join Stripe, linking AI routing and payments infrastructure.
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-daytime.md) — Repeats OpenRouter's move to join Stripe, linking AI routing and payments infrastructure.
 
-- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-midnight.md) — Reports that OpenRouter is joining the payments-infrastructure company.
+- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-midnight.md) — Reports that OpenRouter is joining the payments-infrastructure company.
 
-- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-evening.md) — OpenRouter announces it is joining Stripe, linking AI routing with payments infrastructure.
+- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-evening.md) — OpenRouter announces it is joining Stripe, linking AI routing with payments infrastructure.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Stripe is named as part of a joint offer with Advent to acquire PayPal, triggering a major PayPal stock move.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Stripe is named as part of a joint offer with Advent to acquire PayPal, triggering a major PayPal stock move.
 
 ## Related
 

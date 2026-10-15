@@ -15,14 +15,14 @@ Samsung is a technology and semiconductor company. In the newsletter graph, it i
 
 ## Sources
 
-- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Repeats the expected HBM4 and HBM4E output expansion as AI demand pressures memory capacity.
+- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-midnight.md) — Repeats the expected HBM4 and HBM4E output expansion as AI demand pressures memory capacity.
 
-- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-evening.md) — Expected to more than double HBM4 and HBM4E output, expanding the memory-bandwidth layer of AI infrastructure.
+- [2026-09-20: Evening Brief — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-evening.md) — Expected to more than double HBM4 and HBM4E output, expanding the memory-bandwidth layer of AI infrastructure.
 
-- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-evening.md) — Expands collaboration with ASML around next-generation semiconductor manufacturing, emphasizing the equipment and capital layer beneath AI hardware.
+- [2026-09-08: Evening Brief — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-evening.md) — Expands collaboration with ASML around next-generation semiconductor manufacturing, emphasizing the equipment and capital layer beneath AI hardware.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Demonstrates 3D stacked FETs with triple nanosheet channels at 42nm, keeping transistor architecture in the AI-infrastructure and semiconductor-scaling thread.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Reports record-setting profits, but shares still fail to satisfy investors, showing that semiconductor/AI hardware fundamentals are being sorted harshly.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Demonstrates 3D stacked FETs with triple nanosheet channels at 42nm, keeping transistor architecture in the AI-infrastructure and semiconductor-scaling thread.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Reports record-setting profits, but shares still fail to satisfy investors, showing that semiconductor/AI hardware fundamentals are being sorted harshly.
 
 ## Related
 

@@ -15,7 +15,7 @@ Steve Ballmer is the owner of the Los Angeles Clippers and former Microsoft CEO.
 
 ## Sources
 
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — r/nba chatter says Ballmer is expected to aggressively fight the NBA legally if penalties are levied.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — r/nba chatter says Ballmer is expected to aggressively fight the NBA legally if penalties are levied.
 
 ## Related
 

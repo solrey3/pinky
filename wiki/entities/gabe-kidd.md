@@ -15,14 +15,14 @@ Gabe Kidd is a professional wrestler in NJPW. In the newsletter graph he appears
 
 ## Sources
 
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Takes the B Block lead in G1 Climax 36 Night 11 coverage.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Takes the B Block lead in NJPW G1 Climax 36 Night 11 coverage.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Takes the B Block lead in G1 Climax 36 Night 11 coverage.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Takes the B Block lead in NJPW G1 Climax 36 Night 11 coverage.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Gabe Kidd takes the B Block lead in the G1 Climax 36 Night 11 results item.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Gabe Kidd takes the B Block lead in the G1 Climax 36 Night 11 results item.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Takes the B Block lead in NJPW G1 Climax 36 Night 11 coverage.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Takes the B Block lead in NJPW G1 Climax 36 Night 11 coverage.
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Defeats Zack Sabre Jr. on NJPW G1 Climax 36 Night 7 as three wrestlers share the B Block lead.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Defeats Zack Sabre Jr. on NJPW G1 Climax 36 Night 7 as three wrestlers share the B Block lead.
 
 ## Related
 

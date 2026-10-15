@@ -29,7 +29,7 @@ The r/sports community noted with characteristic affection and sharpness: *"The 
 
 ## Sources
 
-- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Russell Wilson announces retirement from professional football; joining CBS Sports. Per r/sports: "The Super Bowl XLVIII interception will follow him to the broadcast booth."
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletters/newsletter-2026-06-04.md) — Russell Wilson announces retirement from professional football; joining CBS Sports. Per r/sports: "The Super Bowl XLVIII interception will follow him to the broadcast booth."
 
 ## Related
 

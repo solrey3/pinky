@@ -15,7 +15,7 @@ Mathematician tracked here when his public AI-assisted mathematical discussion e
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Tao's shared ChatGPT conversation about the Jacobian Conjecture counterexample appears on the AI and tech desk, signaling how frontier chat systems are becoming part of mathematical discourse.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Tao's shared ChatGPT conversation about the Jacobian Conjecture counterexample appears on the AI and tech desk, signaling how frontier chat systems are becoming part of mathematical discourse.
 
 ## Related
 

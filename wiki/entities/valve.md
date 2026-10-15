@@ -15,15 +15,15 @@ Valve is the game platform, storefront, and hardware/software company behind Ste
 
 ## Sources
 
-- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletter-2026-08-10-evening.md) — Expands SteamOS support beyond Valve hardware, strengthening Linux gaming as a wider platform ecosystem.
+- [2026-08-10: Evening Brief — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-evening.md) — Expands SteamOS support beyond Valve hardware, strengthening Linux gaming as a wider platform ecosystem.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Steam Machine launch chatter puts Valve back in the hardware/platform feed and ties SteamOS to the broader Linux/game-tech ecosystem.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Steam Machine launch chatter puts Valve back in the hardware/platform feed and ties SteamOS to the broader Linux/game-tech ecosystem.
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Steam Machine launch coverage persists into the daytime tech desk, keeping Valve in the Linux gaming hardware/platform lane.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — Steam Machine launch coverage persists into the daytime tech desk, keeping Valve in the Linux gaming hardware/platform lane.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Open-sourcing the Steam Machine e-ink screen code extends Valve’s Linux gaming hardware story into tinkering and modifiable platform components.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Open-sourcing the Steam Machine e-ink screen code extends Valve’s Linux gaming hardware story into tinkering and modifiable platform components.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Reddit/Linux item frames Valve’s Windows 8 escape path as part of its Linux-powerhouse arc.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Reddit/Linux item frames Valve’s Windows 8 escape path as part of its Linux-powerhouse arc.
 
 ## Related
 

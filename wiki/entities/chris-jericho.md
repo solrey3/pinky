@@ -35,10 +35,10 @@ source_count: 4
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/chris-jericho.md)
-- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — Jericho vs. Ricochet Lights Out Philly Street Fight scheduled for AEW Dynamite tonight (5/27). Match announced for the Philadelphia building.
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Jericho comments on the "Tommy's Mommy" line from AEW Dynamite, a minor but live character/promo-cycle note.
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletters/newsletter-2026-05-27.md) — Jericho vs. Ricochet Lights Out Philly Street Fight scheduled for AEW Dynamite tonight (5/27). Match announced for the Philadelphia building.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — Jericho comments on the "Tommy's Mommy" line from AEW Dynamite, a minor but live character/promo-cycle note.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Jericho praises an AEW Dynamite match with Tommaso Ciampa as one of his favorites.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Jericho praises an AEW Dynamite match with Tommaso Ciampa as one of his favorites.
 
 ## Related
 

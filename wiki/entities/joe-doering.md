@@ -15,7 +15,7 @@ Professional wrestler associated with TNA and Japanese wrestling. In the newslet
 
 ## Sources
 
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — The wrestling digest reports Joe Doering's death at 44 after a long battle with brain cancer, making him the human lead of the evening squared-circle section.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — The wrestling digest reports Joe Doering's death at 44 after a long battle with brain cancer, making him the human lead of the evening squared-circle section.
 
 ## Related
 

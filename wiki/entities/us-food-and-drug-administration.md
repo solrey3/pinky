@@ -15,23 +15,23 @@ The U.S. Food and Drug Administration regulates drugs, medical devices, food saf
 
 ## Sources
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Will allow Zyn to say it is safer than smoking, turning nicotine-product regulation into a label and risk-communication issue.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Will allow Zyn to say it is safer than smoking, turning nicotine-product regulation into a label and risk-communication issue.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Zyn/FDA coverage persists, reinforcing comparative-risk labeling as an ongoing tobacco-product regulation issue.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Zyn/FDA coverage persists, reinforcing comparative-risk labeling as an ongoing tobacco-product regulation issue.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — FDA approval of pediatric sickle-cell gene therapy adds a public-health/regulatory milestone beside earlier nicotine and vaccine threads.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — FDA approval of pediatric sickle-cell gene therapy adds a public-health/regulatory milestone beside earlier nicotine and vaccine threads.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — FDA-linked lettuce testing identifies cyclospora, extending the produce-outbreak and recall-execution thread.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — FDA-linked lettuce testing identifies cyclospora, extending the produce-outbreak and recall-execution thread.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The FDA says a positive cyclospora test linked to lettuce was a false alarm, correcting the outbreak thread.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — The FDA says a positive cyclospora test linked to lettuce was a false alarm, correcting the outbreak thread.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Investigates a second cyclospora outbreak with 72 cases, extending the foodborne-outbreak surveillance and correction-channel thread.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — FDA tracking of a second cyclospora outbreak keeps foodborne surveillance in the daily-risk board.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Former FDA commissioner Scott Gottlieb says the cyclospora outbreak is not yet under control.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Investigates a second cyclospora outbreak with 72 cases, extending the foodborne-outbreak surveillance and correction-channel thread.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — FDA tracking of a second cyclospora outbreak keeps foodborne surveillance in the daily-risk board.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Former FDA commissioner Scott Gottlieb says the cyclospora outbreak is not yet under control.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — FDA appears through peptide gray-market enforcement and the continuing food-safety provenance backdrop.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — FDA appears through peptide gray-market enforcement and the continuing food-safety provenance backdrop.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Cyclospora-linked produce anxiety appears through a poll showing shoppers buying less produce.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Cyclospora-linked produce anxiety appears through a poll showing shoppers buying less produce.
 
 ## Related
 

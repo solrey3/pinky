@@ -35,68 +35,68 @@ source_count: 36
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — His Dynamite Beach Break match with MJF remains in the Meltzer 5.5-star ledger.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Kenny Omega appears through the MJF match in the Meltzer 5-star-plus table.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — His Dynamite Beach Break match with MJF remains in the Meltzer 5.5-star ledger.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Kenny Omega appears through the MJF match in the Meltzer 5-star-plus table.
 - [2026-05-27: Raw notes](../../raw/people/kenny-omega.md)
-- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletter-2026-06-11.md) — Forbidden Door build sets Kenny Omega vs. Zack Sabre Jr.
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — r/SquaredCircle highlights the official Kenny Omega vs. Zack Sabre Jr. Forbidden Door poster, keeping the match visible in the crossover-event build.
+- [2026-06-11: Newsletter 2026-06-11 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-11.md) — Forbidden Door build sets Kenny Omega vs. Zack Sabre Jr.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — r/SquaredCircle highlights the official Kenny Omega vs. Zack Sabre Jr. Forbidden Door poster, keeping the match visible in the crossover-event build.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Reported MJF vs. Kenny Omega planning keeps Omega in AEW’s long-range world-title storyline.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Reported MJF vs. Kenny Omega planning keeps Omega in AEW’s long-range world-title storyline.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Omega vs. MJF at Dynamite Beach Break becomes the leading AEW TV-match graphic/discussion item.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Omega vs. MJF at Dynamite Beach Break becomes the leading AEW TV-match graphic/discussion item.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Omega defeats MJF to win the AEW World Championship, making him the key AEW state-change node in this dispatch.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — Omega defeats MJF to win the AEW World Championship, making him the key AEW state-change node in this dispatch.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Kenny Omega is reported as capturing AEW gold, making him the main AEW state-change node in this wrestling digest.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Kenny Omega is reported as capturing AEW gold, making him the main AEW state-change node in this wrestling digest.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Kenny Omega appears in the Meltzer 5.5-star listing for a match with MJF at AEW Dynamite Beach Break.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Kenny Omega appears in the Meltzer 5.5-star listing for a match with MJF at AEW Dynamite Beach Break.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Kenny Omega remains prominent through the 5.5-star MJF vs. Omega rating and AEW title-storyline context.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Omega gets an AEW World Title celebration added to Dynamite and appears in the 5.5-star MJF match listing.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Kenny Omega remains prominent through the 5.5-star MJF vs. Omega rating and AEW title-storyline context.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Omega gets an AEW World Title celebration added to Dynamite and appears in the 5.5-star MJF match listing.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — The Meltzer ratings table lists Kenny Omega vs. MJF at 5.5 stars for Dynamite Beach Break.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — The Meltzer ratings table lists Kenny Omega vs. MJF at 5.5 stars for Dynamite Beach Break.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Omega is central to AEW title-planning chatter and appears in the newest 5.5-star Meltzer entry against MJF.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Omega is central to AEW title-planning chatter and appears in the newest 5.5-star Meltzer entry against MJF.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Omega's match with MJF tops the latest fetched 5-star+ ratings table.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Omega's match with MJF tops the latest fetched 5-star+ ratings table.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Kenny Omega remains linked to the 5.5-star MJF match on AEW Dynamite Beach Break.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Kenny Omega remains linked to the 5.5-star MJF match on AEW Dynamite Beach Break.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Kenny Omega stays in the ratings continuity through the **5.5-star** MJF match listed from Dynamite Beach Break.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Kenny Omega stays in the ratings continuity through the **5.5-star** MJF match listed from Dynamite Beach Break.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Kenny Omega remains tied to the MJF 5.5-star AEW Dynamite Beach Break match.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Kenny Omega remains tied to the MJF 5.5-star AEW Dynamite Beach Break match.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Kenny Omega remains in the Meltzer ratings archive via the 5.5-star match against MJF at Dynamite Beach Break.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Kenny Omega remains in the Meltzer ratings archive via the 5.5-star match against MJF at Dynamite Beach Break.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Omega appears in AEW Dynamite celebration coverage, Redemption card updates, and recent five-star match context.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Omega appears in AEW Dynamite celebration coverage, Redemption card updates, and recent five-star match context.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Kenny Omega is tied to the July 8 MJF match rated 5.5 stars.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Kenny Omega is tied to the July 8 MJF match rated 5.5 stars.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Kenny Omega remains in the Meltzer 5-star table through the 5.5-star MJF match at AEW Dynamite Beach Break.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Omega remains in the Meltzer 5-star-plus ratings table for the July 8 MJF match.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Kenny Omega remains in the Meltzer 5-star table through the 5.5-star MJF match at AEW Dynamite Beach Break.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Omega remains in the Meltzer 5-star-plus ratings table for the July 8 MJF match.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Kenny Omega remains attached to the 5.5-star AEW Dynamite Beach Break match with MJF.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Kenny Omega remains attached to the 5.5-star AEW Dynamite Beach Break match with MJF.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Kenny Omega remains in the Meltzer 5-star+ table through the AEW Beach Break match with MJF.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Kenny Omega remains in the Meltzer 5-star+ table through the AEW Beach Break match with MJF.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Omega’s match with MJF remains a 5.5-star ratings-table entry.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Kenny Omega remains in the Meltzer ratings table through the 5.5-star MJF match.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Omega’s match with MJF remains a 5.5-star ratings-table entry.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Kenny Omega remains in the Meltzer ratings table through the 5.5-star MJF match.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Kenny Omega remains in the Meltzer 5-star ledger via the July 8 MJF match.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Kenny Omega remains in the Meltzer 5-star ledger via the July 8 MJF match.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Kenny Omega remains in the Meltzer ratings table through the 5.5-star MJF match from AEW Dynamite Beach Break.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Kenny Omega appears through the 5.5-star MJF match in the Meltzer ratings table.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Kenny Omega remains in the Meltzer ratings table through the 5.5-star MJF match from AEW Dynamite Beach Break.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Kenny Omega appears through the 5.5-star MJF match in the Meltzer ratings table.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — His 5.5-star Dynamite Beach Break match with MJF stays on the ratings board.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — His 5.5-star Dynamite Beach Break match with MJF stays on the ratings board.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A Reddit/AEW item promotes a Redemption match poster against Kevin Knight.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — A Reddit/AEW item promotes a Redemption match poster against Kevin Knight.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Omega retains against Kevin Knight at AEW Redemption and attacks All In opponent Will Ospreay.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Omega retains against Kevin Knight at AEW Redemption and attacks All In opponent Will Ospreay.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Meltzer table preserves the 5.5-star MJF vs. Kenny Omega Dynamite Beach Break match.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Meltzer table preserves the 5.5-star MJF vs. Kenny Omega Dynamite Beach Break match.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears in the Meltzer 5.5-star July 8 match with MJF.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Appears as Will Ospreay’s named AEW tension point in Dynamite fallout.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appears in the Meltzer 5.5-star July 8 match with MJF.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Appears as Will Ospreay’s named AEW tension point in Dynamite fallout.
 
 ## Related

@@ -19,8 +19,8 @@ Open-source package manager used primarily on macOS and Linux developer machines
 
 ## Sources
 
-- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 is the developer-infrastructure item in the AI/tech desk.
-- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletter-2026-06-12.md) — Homebrew 6.0.0 persists into the next morning feed, reinforcing package managers as basic developer infrastructure.
+- [2026-06-11: Evening Brief — Thursday, June 11, 2026](../sources/newsletters/newsletter-2026-06-11-evening.md) — Homebrew 6.0.0 is the developer-infrastructure item in the AI/tech desk.
+- [2026-06-12: Newsletter 2026-06-12 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-12.md) — Homebrew 6.0.0 persists into the next morning feed, reinforcing package managers as basic developer infrastructure.
 
 ## Related
 

@@ -21,13 +21,13 @@ LLM API routing infrastructure layer. OpenRouter provides a unified API endpoint
 
 ## Sources
 
-- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-daytime.md) — Repeats that the multi-model AI routing platform is joining Stripe, a material dependency change for this stack.
+- [2026-08-20: Morning Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-daytime.md) — Repeats that the multi-model AI routing platform is joining Stripe, a material dependency change for this stack.
 
-- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletter-2026-08-20-midnight.md) — Reports that the multi-model AI routing platform is joining Stripe.
+- [2026-08-20: Midnight Dispatch — Thursday, August 20, 2026](../sources/newsletters/newsletter-2026-08-20-midnight.md) — Reports that the multi-model AI routing platform is joining Stripe.
 
-- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-evening.md) — Announces that the multi-model routing platform is joining Stripe.
+- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-evening.md) — Announces that the multi-model routing platform is joining Stripe.
 
-- [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](sources/newsletter-2026-05-30-evening.md) — OpenRouter raises $113M Series B; 306 HN upvotes on announcement.
+- [2026-05-30: Newsletter 2026-05-30 Evening Dispatch](../sources/newsletters/newsletter-2026-05-30-evening.md) — OpenRouter raises $113M Series B; 306 HN upvotes on announcement.
 
 ## Related
 

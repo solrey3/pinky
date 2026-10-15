@@ -15,7 +15,7 @@ A portable multi-tool for hardware exploration, radio/NFC/RFID experimentation, 
 
 ## Sources
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Roadmap coverage around the future of Flipper Zero development keeps hardware-hacker tooling in the operator-trust and maintainability stack.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Roadmap coverage around the future of Flipper Zero development keeps hardware-hacker tooling in the operator-trust and maintainability stack.
 
 ## Related
 

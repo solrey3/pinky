@@ -14,7 +14,7 @@ Civil asset forfeiture is the government practice of seizing property allegedly 
 
 ## Sources
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The Supreme Court agrees to hear the case of an Alaska pilot whose $95,000 plane was seized over a six-pack-of-beer allegation, making forfeiture proportionality and process the central legal issue.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — The Supreme Court agrees to hear the case of an Alaska pilot whose $95,000 plane was seized over a six-pack-of-beer allegation, making forfeiture proportionality and process the central legal issue.
 
 ## Related Concepts
 

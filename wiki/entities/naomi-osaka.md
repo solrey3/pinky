@@ -31,11 +31,11 @@ Her 2026 Roland Garros run reached **Round 4 as the 16-seed** before she was eli
 
 ## Sources
 
-- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Osaka (16-seed) eliminated by Sabalenka (1) 7-5, 6-3 in Roland Garros R4. Osaka's clay-court ceiling remains evident against the tour's best; Sabalenka now the clear tournament favorite.
+- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](../sources/newsletters/newsletter-2026-06-02.md) — Osaka (16-seed) eliminated by Sabalenka (1) 7-5, 6-3 in Roland Garros R4. Osaka's clay-court ceiling remains evident against the tour's best; Sabalenka now the clear tournament favorite.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Osaka upsets Aryna Sabalenka at Wimbledon, giving her node a grass-court major result beyond the earlier Roland-Garros thread.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Osaka upsets Aryna Sabalenka at Wimbledon, giving her node a grass-court major result beyond the earlier Roland-Garros thread.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Wimbledon result lists Osaka defeating Sabalenka, continuing her grand-slam comeback/results thread.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Wimbledon result lists Osaka defeating Sabalenka, continuing her grand-slam comeback/results thread.
 
 ## Related
 

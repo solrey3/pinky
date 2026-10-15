@@ -15,11 +15,11 @@ Scottie Scheffler is a professional golfer. In the newsletter graph he appears a
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Finishes runner-up at the 3M Open, three shots behind Jackson Koivun.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Finishes runner-up at the 3M Open, three shots behind Jackson Koivun.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Scottie Scheffler finishes second at the 3M Open, three shots behind Koivun.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Scottie Scheffler finishes second at the 3M Open, three shots behind Koivun.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Finishes second at the 3M Open at **-22**.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Finishes second at the 3M Open at **-22**.
 
 ## Related
 

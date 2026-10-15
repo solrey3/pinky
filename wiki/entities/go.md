@@ -15,7 +15,7 @@ Go is an open-source programming language used heavily in cloud, infrastructure,
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — A Go 1.27 interactive tour appears on Hacker News, giving the developer desk a language/tooling signal.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — A Go 1.27 interactive tour appears on Hacker News, giving the developer desk a language/tooling signal.
 
 ## Related
 

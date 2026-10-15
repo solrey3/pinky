@@ -14,9 +14,9 @@ AI political censorship is the deliberate restriction, reframing, or refusal of 
 
 ## Sources
 
-- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Repeats the claim that Chinese chatbots protect ruling-party narratives, again without test prompts, model scope, or comparative outputs.
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-daytime.md) — Repeats the claim that Chinese chatbots protect ruling-party narratives, again without test prompts, model scope, or comparative outputs.
 
-- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Reports that Chinese AI chatbots use political guardrails favorable to the ruling party; the dispatch does not identify tested prompts, model coverage, or consistency.
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-midnight.md) — Reports that Chinese AI chatbots use political guardrails favorable to the ruling party; the dispatch does not identify tested prompts, model coverage, or consistency.
 
 ## Related Concepts
 

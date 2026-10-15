@@ -14,22 +14,22 @@ Birthright citizenship is the rule that people born within a country's jurisdict
 
 ## Sources
 
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Executive orders are framed as politically visible but practically constrained by constitutional doctrine and litigation.
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — Executive orders are framed as politically visible but practically constrained by constitutional doctrine and litigation.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — New executive orders are presented as legally constrained signaling whose practical reach depends on constitutional litigation.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — New executive orders are presented as legally constrained signaling whose practical reach depends on constitutional litigation.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — New executive orders are described as politically salient but legally constrained, highlighting the gap between executive signaling and constitutional effect.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — New executive orders are described as politically salient but legally constrained, highlighting the gap between executive signaling and constitutional effect.
 
-- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-daytime.md) — A new Trump executive order renews the constitutional dispute over whether executive action can narrow Fourteenth Amendment citizenship.
+- [2026-08-07: Morning Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-daytime.md) — A new Trump executive order renews the constitutional dispute over whether executive action can narrow Fourteenth Amendment citizenship.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — The Supreme Court blocks Trump's anti-birthright-citizenship push, framing citizenship by birth as a constitutional guardrail and practical protection for children of immigrants.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — The Supreme Court blocks Trump's anti-birthright-citizenship push, framing citizenship by birth as a constitutional guardrail and practical protection for children of immigrants.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Vance criticism and practical coverage for children of immigrants keep the Supreme Court ruling active as both constitutional doctrine and lived immigration-policy risk.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Vance criticism and practical coverage for children of immigrants keep the Supreme Court ruling active as both constitutional doctrine and lived immigration-policy risk.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Legal analysis of the court opinions keeps birthright citizenship active as a constitutional-boundary and executive-power question.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Legal analysis of the court opinions keeps birthright citizenship active as a constitutional-boundary and executive-power question.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Trump links Supreme Court birthright-citizenship rulings to claimed national costs, keeping constitutional-status disputes in the daily governance feed.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Trump’s Supreme Court criticism keeps birthright citizenship attached to executive rhetoric, constitutional interpretation, and claimed fiscal stakes.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Trump links Supreme Court birthright-citizenship rulings to claimed national costs, keeping constitutional-status disputes in the daily governance feed.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Trump’s Supreme Court criticism keeps birthright citizenship attached to executive rhetoric, constitutional interpretation, and claimed fiscal stakes.
 
 ## Related Concepts
 

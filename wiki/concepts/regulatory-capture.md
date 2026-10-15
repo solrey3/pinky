@@ -14,18 +14,18 @@ Regulatory capture is the failure mode where agencies meant to supervise an indu
 
 ## Sources
 
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — The FCC foreign-made-robot ban illustrates how equipment/security regulation can abruptly reshape consumer-tech markets, even when the stated concern is not ordinary consumer protection.
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Ars Technica reports FCC officials accepted pricey gifts from Paramount while the company needed approvals, turning media regulation into an ethics and capture-risk case.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — The FCC foreign-made-robot ban illustrates how equipment/security regulation can abruptly reshape consumer-tech markets, even when the stated concern is not ordinary consumer protection.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Ars Technica reports FCC officials accepted pricey gifts from Paramount while the company needed approvals, turning media regulation into an ethics and capture-risk case.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — FCC gifts from Paramount while deal approvals were needed provide a concrete media-regulation ethics and capture signal.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — FCC gifts from Paramount while deal approvals were needed provide a concrete media-regulation ethics and capture signal.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — AliExpress’s EU fine and AT&T’s California basic-service ruling both show regulators forcing platform/telecom obligations rather than accepting company-preferred exit paths.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — AliExpress’s EU fine and AT&T’s California basic-service ruling both show regulators forcing platform/telecom obligations rather than accepting company-preferred exit paths.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — The FCC drone reversal shows how approval and restriction can be re-opened after market entry, making regulatory gates a continuing business and governance risk.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — The FCC drone reversal shows how approval and restriction can be re-opened after market entry, making regulatory gates a continuing business and governance risk.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — The EU's Google equal-treatment order is a platform-power remedy, useful as an antitrust/control contrast to industry self-preferencing.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — The EU's Google equal-treatment order is a platform-power remedy, useful as an antitrust/control contrast to industry self-preferencing.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — EPA pollution-limit exemptions for data-center power plants show AI infrastructure receiving carve-outs from broad environmental rules.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — EPA pollution-limit exemptions for data-center power plants show AI infrastructure receiving carve-outs from broad environmental rules.
 
 ## Related Concepts
 

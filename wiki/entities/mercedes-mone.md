@@ -34,13 +34,13 @@ On **June 3, 2026 (AEW Dynamite — Summer Blockbuster)**, Moné returned to AEW
 
 ## Sources
 
-- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — **Mercedes Moné RETURNS to AEW** via Women's Owen Hart Tournament Wild Card slot; defeats Alex Windsor; advances in the bracket. Her return is the biggest women's development of the AEW Summer Blockbuster season.
-- [2026-06-04: Evening Brief — Thursday, June 4, 2026](sources/newsletter-2026-06-04-evening.md) — Return confirmed in evening recap. Her first words back: *"I'm calm, I went to therapy, I'm good."* Per POST Wrestling's Dynamite recap. AEW Forbidden Door is the implied build destination.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — AEW Dynamite results say Moné advances to the Owen Hart Cup finals, extending her return from a one-night reintroduction into a tournament-final arc.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletters/newsletter-2026-06-04.md) — **Mercedes Moné RETURNS to AEW** via Women's Owen Hart Tournament Wild Card slot; defeats Alex Windsor; advances in the bracket. Her return is the biggest women's development of the AEW Summer Blockbuster season.
+- [2026-06-04: Evening Brief — Thursday, June 4, 2026](../sources/newsletters/newsletter-2026-06-04-evening.md) — Return confirmed in evening recap. Her first words back: *"I'm calm, I went to therapy, I'm good."* Per POST Wrestling's Dynamite recap. AEW Forbidden Door is the implied build destination.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — AEW Dynamite results say Moné advances to the Owen Hart Cup finals, extending her return from a one-night reintroduction into a tournament-final arc.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Mercedes Moné appears in AEW Collision spoiler coverage, keeping her in the AEW title/storyline watch.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Mercedes Moné appears in AEW Collision spoiler coverage, keeping her in the AEW title/storyline watch.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Moné is Willow Nightingale's All In destination after the Redemption result.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Moné is Willow Nightingale's All In destination after the Redemption result.
 
 ## Related
 

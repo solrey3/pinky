@@ -15,7 +15,7 @@ Rand Paul is a U.S. senator tracked here as a recurring COVID-origin and governm
 
 ## Sources
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Rand Paul appears through the Fauci hearing/diary-entry frame in the NewsNation headline.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Rand Paul appears through the Fauci hearing/diary-entry frame in the NewsNation headline.
 
 ## Related
 

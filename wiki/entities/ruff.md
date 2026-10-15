@@ -15,7 +15,7 @@ Ruff is a fast Python linter and formatter. In the newsletter graph it matters a
 
 ## Sources
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Ruff v0.16.0 expands default rules from 59 to 413, making lint defaults a more opinionated part of Python workflow governance.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Ruff v0.16.0 expands default rules from 59 to 413, making lint defaults a more opinionated part of Python workflow governance.
 
 ## Related
 

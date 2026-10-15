@@ -15,7 +15,7 @@ Google’s geospatial/satellite-imagery product; in this source, linked to a ret
 
 ## Sources
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — Retracted an AI tool for generating fake satellite pictures after trust concerns around synthetic map imagery.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — Retracted an AI tool for generating fake satellite pictures after trust concerns around synthetic map imagery.
 
 ## Related
 

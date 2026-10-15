@@ -15,7 +15,7 @@ The Seattle Seahawks are tracked as an NFL franchise when sports-business and le
 
 ## Sources
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — A Khosla-led group reportedly agrees to buy the Seahawks for **$9.6 billion**, making team ownership the sports-business headline.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — A Khosla-led group reportedly agrees to buy the Seahawks for **$9.6 billion**, making team ownership the sports-business headline.
 
 ## Related
 

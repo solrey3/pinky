@@ -15,7 +15,7 @@ Newcastle United is an English Premier League club. In this source it appears th
 
 ## Sources
 
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Newcastle United is an English Premier League club. In this source it appears through reporting that Eddie Howe is set to leave.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Newcastle United is an English Premier League club. In this source it appears through reporting that Eddie Howe is set to leave.
 
 ## Related
 

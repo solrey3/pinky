@@ -14,13 +14,13 @@ PFAS regulation is the policy, science, and communications problem around per- a
 
 ## Sources
 
-- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletter-2026-08-18-evening.md) — A court upholds the EPA designation that makes polluters liable for PFAS cleanup.
+- [2026-08-18: Evening Brief — Tuesday, August 18, 2026](../sources/newsletters/newsletter-2026-08-18-evening.md) — A court upholds the EPA designation that makes polluters liable for PFAS cleanup.
 
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Keyport groundwater reporting extends PFAS concern into New Jersey community testing and remediation accountability.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Keyport groundwater testing finds PFAS and benzene, adding a New Jersey cancer-cluster/public-health evidence case to the persistent-chemical graph.
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — EPA pesticide approvals raise a classification dispute: critics may consider the chemicals PFAS/“forever chemicals,” while the agency disputes that label.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Keyport groundwater reporting extends PFAS concern into New Jersey community testing and remediation accountability.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Keyport groundwater testing finds PFAS and benzene, adding a New Jersey cancer-cluster/public-health evidence case to the persistent-chemical graph.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — EPA pesticide approvals raise a classification dispute: critics may consider the chemicals PFAS/“forever chemicals,” while the agency disputes that label.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — New Jersey toxic-chemical reporting in a cancer-cluster town keeps persistent exposure, public-health evidence, and regulatory classification in view; treat this as chemical-risk/provenance context, not as a confirmed PFAS-specific claim from the newsletter alone.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — New Jersey toxic-chemical reporting in a cancer-cluster town keeps persistent exposure, public-health evidence, and regulatory classification in view; treat this as chemical-risk/provenance context, not as a confirmed PFAS-specific claim from the newsletter alone.
 
 ## Related Concepts
 

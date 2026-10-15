@@ -15,9 +15,9 @@ Former WWE employee tracked here through litigation/arbitration coverage involvi
 
 ## Sources
 
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Former WWE employee tracked here through litigation/arbitration coverage involving Vince McMahon and WWE.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Former WWE employee tracked here through litigation/arbitration coverage involving Vince McMahon and WWE.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Grant appears in the item saying her Vince McMahon/WWE case is moving into private arbitration with prejudice.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Grant appears in the item saying her Vince McMahon/WWE case is moving into private arbitration with prejudice.
 
 ## Related
 

@@ -14,7 +14,7 @@ Corporate boardroom diversity is the composition of company boards by race, gend
 
 ## Sources
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — The Hill reports corporate boardroom diversity sinking to its lowest level in more than a decade, treating board composition as a governance signal.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — The Hill reports corporate boardroom diversity sinking to its lowest level in more than a decade, treating board composition as a governance signal.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ Google Chrome is Google's web browser, tracked here when browser security, platf
 
 ## Sources
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Google's security blog says AI helped Chrome fix more bugs in June than in the prior two years, making browser remediation throughput part of the AI-security story.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Google's security blog says AI helped Chrome fix more bugs in June than in the prior two years, making browser remediation throughput part of the AI-security story.
 
 ## Related
 

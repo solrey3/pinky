@@ -14,7 +14,7 @@ School policing is the placement or routine involvement of police in schools. Th
 
 ## Sources
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — The ACLU of Iowa report says police in schools led to harsher discipline for minor offenses and disparate enforcement.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — The ACLU of Iowa report says police in schools led to harsher discipline for minor offenses and disparate enforcement.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ ByteDance generative-video model/product line appearing in the AI desk as a high
 
 ## Sources
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Appears as a high-board AI/video item, representing continued productization of generative video tooling.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Appears as a high-board AI/video item, representing continued productization of generative video tooling.
 
 ## Related
 

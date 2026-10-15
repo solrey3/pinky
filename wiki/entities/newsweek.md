@@ -15,7 +15,7 @@ Newsweek is a news outlet appearing in daily public-health and business feeds.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Flags a UFC featherweight weighing retirement after a medical emergency.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Flags a UFC featherweight weighing retirement after a medical emergency.
 
 ## Related
 

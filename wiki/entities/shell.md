@@ -15,7 +15,7 @@ Global energy company. In the newsletter graph, Shell acts as an energy-market a
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Yahoo Finance frames Shell as turning energy-market volatility into cash-flow opportunity while WTI is rising on the lunch board.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Yahoo Finance frames Shell as turning energy-market volatility into cash-flow opportunity while WTI is rising on the lunch board.
 
 ## Related
 

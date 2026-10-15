@@ -15,9 +15,9 @@ U.S. airline tracked here when fare structures, travel economics, or consumer pr
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — JetBlue overhauls fare options from basic first to flexible economy.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — JetBlue overhauls fare options from basic first to flexible economy.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears through fare-option overhaul coverage, another example of unbundled consumer pricing.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Appears through fare-option overhaul coverage, another example of unbundled consumer pricing.
 
 ## Related
 

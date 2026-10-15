@@ -14,11 +14,11 @@ Cryptographic agility is the ability to inventory, replace, and retire algorithm
 
 ## Sources
 
-- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-noon.md) — Cloudflare's quantum-safe TLS certificate plan turns algorithm migration into certificate issuance, compatibility, trust-anchor, and deployment work.
+- [2026-09-30: Noon Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-noon.md) — Cloudflare's quantum-safe TLS certificate plan turns algorithm migration into certificate issuance, compatibility, trust-anchor, and deployment work.
 
-- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — Factored 1990s certificate-authority RSA keys reinforce that legacy key strength decays and obsolete trust material must be retired.
+- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-daytime.md) — Factored 1990s certificate-authority RSA keys reinforce that legacy key strength decays and obsolete trust material must be retired.
 
-- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — A report that 1990s certificate-authority RSA keys were factored demonstrates how legacy key strength can decay and why obsolete trust material must be retired.
+- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-midnight.md) — A report that 1990s certificate-authority RSA keys were factored demonstrates how legacy key strength can decay and why obsolete trust material must be retired.
 
 ## Related Concepts
 

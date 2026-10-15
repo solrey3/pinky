@@ -15,11 +15,11 @@ Jalen Brunson is an NBA guard tracked when Knicks/NBA injury, playoff, or roster
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Appears in r/nba feed chatter from Donovan Mitchell’s wedding.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Appears in r/nba feed chatter from Donovan Mitchell’s wedding.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Brunson appears through an ESPN note that he is expected back later in the summer after wrist surgery.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Brunson appears through an ESPN note that he is expected back later in the summer after wrist surgery.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — A Finals Game 1 jersey worn by Brunson sells for more than **$1M**, adding a memorabilia-market note to the NBA thread.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — A Finals Game 1 jersey worn by Brunson sells for more than **$1M**, adding a memorabilia-market note to the NBA thread.
 
 ## Related
 

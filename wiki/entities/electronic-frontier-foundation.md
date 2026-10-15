@@ -15,7 +15,7 @@ The Electronic Frontier Foundation is a digital-rights and civil-liberties advoc
 
 ## Sources
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — EFF and allies press the FTC over X privacy obligations, keeping platform privacy enforcement in the regulatory-security frame.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — EFF and allies press the FTC over X privacy obligations, keeping platform privacy enforcement in the regulatory-security frame.
 
 ## Related
 

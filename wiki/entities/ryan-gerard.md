@@ -15,8 +15,8 @@ American professional golfer. The June 8 newsletter captures him through the Mem
 
 ## Sources
 
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Finished tied at -12 with J.T. Poston at **the Memorial Tournament presented by Workday**, with Wyndham Clark one shot back at -11.
-- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletter-2026-06-08-evening.md) — Evening scoreboard confirms Gerard and J.T. Poston at -12, with Wyndham Clark one shot back.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — Finished tied at -12 with J.T. Poston at **the Memorial Tournament presented by Workday**, with Wyndham Clark one shot back at -11.
+- [2026-06-08: Evening Brief — Monday, June 8, 2026](../sources/newsletters/newsletter-2026-06-08-evening.md) — Evening scoreboard confirms Gerard and J.T. Poston at -12, with Wyndham Clark one shot back.
 
 ## Related
 

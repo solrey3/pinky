@@ -15,7 +15,7 @@ Advent is tracked as a private-equity/acquisition actor when deal activity affec
 
 ## Sources
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Advent is named with Stripe in a reported joint offer to acquire PayPal, making it part of the fintech consolidation story.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Advent is named with Stripe in a reported joint offer to acquire PayPal, making it part of the fintech consolidation story.
 
 ## Related
 

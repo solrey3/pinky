@@ -15,7 +15,7 @@ Argentine soccer player tracked here through Inter Miami and Argentina national-
 
 ## Sources
 
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Argentine soccer player tracked here through Inter Miami and Argentina national-team feed items.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Argentine soccer player tracked here through Inter Miami and Argentina national-team feed items.
 
 ## Related
 

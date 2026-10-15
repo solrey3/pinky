@@ -15,13 +15,13 @@ LG is cited for monitor software reportedly installed through Windows Update wit
 
 ## Sources
 
-- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-noon.md) — A television is demonstrated scanning its local network for third-party devices, reinforcing discovery-transparency and consumer-consent concerns.
+- [2026-09-09: Noon Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-noon.md) — A television is demonstrated scanning its local network for third-party devices, reinforcing discovery-transparency and consumer-consent concerns.
 
-- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-daytime.md) — A television is demonstrated scanning its local network for third-party devices, reinforcing discovery-transparency and consumer privacy concerns.
+- [2026-09-09: Morning Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-daytime.md) — A television is demonstrated scanning its local network for third-party devices, reinforcing discovery-transparency and consumer privacy concerns.
 
-- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletter-2026-09-09-midnight.md) — An LG television is demonstrated scanning its local network for third-party devices, raising discovery-transparency and consumer privacy concerns.
+- [2026-09-09: Midnight Dispatch — Wednesday, September 9, 2026](../sources/newsletters/newsletter-2026-09-09-midnight.md) — An LG television is demonstrated scanning its local network for third-party devices, raising discovery-transparency and consumer privacy concerns.
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — LG is cited for monitor software reportedly installed through Windows Update without user consent.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — LG is cited for monitor software reportedly installed through Windows Update without user consent.
 
 ## Related
 

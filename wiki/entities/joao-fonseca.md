@@ -40,9 +40,9 @@ His **quarterfinal loss to Menšík** is not a failure of the narrative — Men�
 
 ## Sources
 
-- [2026-05-29: Newsletter 2026-05-29 — Evening Dispatch](sources/newsletter-2026-05-29-evening.md) — Fonseca defeats Djokovic 4-6, 4-6, 6-3, 7-5, 7-5 in R3 at Roland Garros; described as the upset of the tournament and a career-defining win.
-- [2026-05-30: Newsletter 2026-05-30 — Morning Dispatch](sources/newsletter-2026-05-30.md) — Fonseca's upset of Djokovic confirmed in recap as Roland Garros continues. Still in the draw, with Zverev, Ruud, and Mensik (who upset de Minaur) also advancing.
-- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — **Fonseca eliminated** by Jakub Menšík (26) in the quarterfinals. His Roland Garros run ends here. The Djokovic upset remains the defining moment; the QF exit to a peer-level opponent closes the story cleanly.
+- [2026-05-29: Newsletter 2026-05-29 — Evening Dispatch](../sources/newsletters/newsletter-2026-05-29-evening.md) — Fonseca defeats Djokovic 4-6, 4-6, 6-3, 7-5, 7-5 in R3 at Roland Garros; described as the upset of the tournament and a career-defining win.
+- [2026-05-30: Newsletter 2026-05-30 — Morning Dispatch](../sources/newsletters/newsletter-2026-05-30.md) — Fonseca's upset of Djokovic confirmed in recap as Roland Garros continues. Still in the draw, with Zverev, Ruud, and Mensik (who upset de Minaur) also advancing.
+- [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletters/newsletter-2026-06-02-evening.md) — **Fonseca eliminated** by Jakub Menšík (26) in the quarterfinals. His Roland Garros run ends here. The Djokovic upset remains the defining moment; the QF exit to a peer-level opponent closes the story cleanly.
 
 ## Related
 

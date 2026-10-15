@@ -14,7 +14,7 @@ AI psychosis is a shorthand for reports of delusion, dependency, or reality-dist
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — NewsNation reports a man saying AI psychosis cost him his job, home, and sanity, moving AI safety from benchmark refusal behavior to downstream user harm.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — NewsNation reports a man saying AI psychosis cost him his job, home, and sanity, moving AI safety from benchmark refusal behavior to downstream user harm.
 
 ## Related Concepts
 

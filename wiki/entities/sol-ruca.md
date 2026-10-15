@@ -26,9 +26,9 @@ WWE NXT and main roster talent known for a background in gymnastics and skateboa
 
 ## Sources
 
-- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](sources/newsletter-2026-06-01.md) — Sol Ruca defeats Becky Lynch to win Women's Intercontinental Championship at Clash in Italy, Turin. New champion confirmed.
-- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — Sol Ruca's family publicly reacted to her title win on social media — a moment that circulated widely on r/squaredcircle. The family's visible pride at the win underscores the storyline's emotional resonance beyond the arena.
-- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletter-2026-06-08.md) — Raw card update: Sol Ruca will defend the Women's Intercontinental Championship against Lyra Valkyria. This is her first durable wiki note after the title-winning/family-reaction cycle.
+- [2026-06-01: Newsletter 2026-06-01 Morning Dispatch](../sources/newsletters/newsletter-2026-06-01.md) — Sol Ruca defeats Becky Lynch to win Women's Intercontinental Championship at Clash in Italy, Turin. New champion confirmed.
+- [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletters/newsletter-2026-06-02-evening.md) — Sol Ruca's family publicly reacted to her title win on social media — a moment that circulated widely on r/squaredcircle. The family's visible pride at the win underscores the storyline's emotional resonance beyond the arena.
+- [2026-06-08: Newsletter 2026-06-08 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-08.md) — Raw card update: Sol Ruca will defend the Women's Intercontinental Championship against Lyra Valkyria. This is her first durable wiki note after the title-winning/family-reaction cycle.
 
 ## Related
 

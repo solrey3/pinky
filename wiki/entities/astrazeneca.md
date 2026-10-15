@@ -15,7 +15,7 @@ AstraZeneca is a pharmaceutical company appearing here through reported merger t
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — AstraZeneca is a pharmaceutical company appearing here through reported merger talks with Bristol Myers Squibb that analysts found difficult to parse.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — AstraZeneca is a pharmaceutical company appearing here through reported merger talks with Bristol Myers Squibb that analysts found difficult to parse.
 
 ## Related
 

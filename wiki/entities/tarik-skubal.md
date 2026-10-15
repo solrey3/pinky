@@ -15,7 +15,7 @@ MLB pitcher tracked here through trade-deadline coverage.
 
 ## Sources
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — ESPN sources say the Dodgers finalized a trade to acquire Skubal.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — ESPN sources say the Dodgers finalized a trade to acquire Skubal.
 
 ## Related
 

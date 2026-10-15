@@ -15,10 +15,10 @@ VBR is tracked as a small-cap value ETF proxy in newsletter market tables.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — VBR gains 1.31% and trades near its 52-week high.
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — VBR gains 0.16% and remains near its high side, a selective value-resilience signal.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — VBR gains 1.31% and trades near its 52-week high.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — VBR gains 0.16% and remains near its high side, a selective value-resilience signal.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — VBR gains 0.62%, keeping small-cap value on the positive side of the rotation.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — VBR gains 0.62%, keeping small-cap value on the positive side of the rotation.
 
 ## Related
 

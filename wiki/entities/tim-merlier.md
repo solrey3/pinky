@@ -15,11 +15,11 @@ Tim Merlier is a professional cyclist tracked when Tour de France sprint stages 
 
 ## Sources
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Merlier wins Tour de France Stage 8 from Périgueux to Bergerac in 3h 52' 50".
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Merlier wins Tour de France Stage 8 from Périgueux to Bergerac in 3h 52' 50".
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Tim Merlier wins the Tour de France Stage 12 sprint ahead of a major pileup.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Tim Merlier wins the Tour de France Stage 12 sprint ahead of a major pileup.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Tim Merlier wins Tour de France Stage 12 in the official race-data snapshot.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Tim Merlier wins Tour de France Stage 12 in the official race-data snapshot.
 
 ## Related
 

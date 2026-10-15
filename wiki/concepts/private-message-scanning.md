@@ -14,14 +14,14 @@ Private message scanning is the policy and technical debate over inspecting priv
 
 ## Sources
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — The UN Cybercrime Convention warning belongs near message-access debates because cybercrime cooperation can create surveillance pressure.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — The UN Cybercrime Convention warning belongs near message-access debates because cybercrime cooperation can create surveillance pressure.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — EU message-scanning coverage frames communications inspection as a live privacy/security-policy issue.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — EU message-scanning coverage frames communications inspection as a live privacy/security-policy issue.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — EU Parliament greenlighting Chat Control 1.0 extends the private-message-scanning debate around child safety, encryption, and state/platform inspection.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — EU Parliament greenlighting Chat Control 1.0 extends the private-message-scanning debate around child safety, encryption, and state/platform inspection.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — EU Chat Control 1.0 remains the child-safety versus encryption/privacy case study for communications inspection.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — A trending self-hosted thread says Chat Control 1.0 passed through the backdoor, keeping communications inspection on the privacy watchlist.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — EU Chat Control 1.0 remains the child-safety versus encryption/privacy case study for communications inspection.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — A trending self-hosted thread says Chat Control 1.0 passed through the backdoor, keeping communications inspection on the privacy watchlist.
 
 ## Related Concepts
 

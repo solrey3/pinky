@@ -14,11 +14,11 @@ AI systems or model components that try to learn simulated representations of en
 
 ## Sources
 
-- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletter-2026-09-30-midnight.md) — The repeated AMD–World Labs acquisition report links simulation and planning models to semiconductor-platform strategy, though its indirect link does not confirm the transaction.
-- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-evening.md) — AMD's reported $8 billion World Labs acquisition reinforces the strategic link between AI compute platforms and learned simulation and planning.
-- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-midnight.md) — AMD's reported World Labs acquisition ties learned simulation and planning systems to semiconductor-platform strategy.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Google DeepMind’s Gemini Robotics 2 item links model world-understanding to embodied robot planning and motion.
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Ars Technica frames world models as promising for simulation and planning but limited enough to require careful claims about scope.
+- [2026-09-30: Midnight Dispatch — Wednesday, September 30, 2026](../sources/newsletters/newsletter-2026-09-30-midnight.md) — The repeated AMD–World Labs acquisition report links simulation and planning models to semiconductor-platform strategy, though its indirect link does not confirm the transaction.
+- [2026-09-29: Evening Brief — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-evening.md) — AMD's reported $8 billion World Labs acquisition reinforces the strategic link between AI compute platforms and learned simulation and planning.
+- [2026-09-29: Midnight Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-midnight.md) — AMD's reported World Labs acquisition ties learned simulation and planning systems to semiconductor-platform strategy.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Google DeepMind’s Gemini Robotics 2 item links model world-understanding to embodied robot planning and motion.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Ars Technica frames world models as promising for simulation and planning but limited enough to require careful claims about scope.
 
 ## Related Concepts
 

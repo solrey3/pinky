@@ -15,7 +15,7 @@ Grok is xAI’s chatbot/model brand. In this source it matters less as a capabil
 
 ## Sources
 
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Grok is xAI’s chatbot/model brand. In this source it matters less as a capability demo and more as a compliance and abuse-reporting stress point.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Grok is xAI’s chatbot/model brand. In this source it matters less as a capability demo and more as a compliance and abuse-reporting stress point.
 
 ## Related
 

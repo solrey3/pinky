@@ -15,12 +15,12 @@ Oracle-owned enterprise application suite used for HR, finance, campus, and admi
 
 ## Sources
 
-- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletter-2026-06-12-evening.md) — A PeopleSoft zero-day / CVE-2026-35273 is reported as affecting hundreds of organizations and enabling gigabytes of data theft.
-- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletter-2026-06-13.md) — The PeopleSoft zero-day remains in the AI/tech/security desk as an enterprise-application data-theft risk.
-- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletter-2026-06-13-evening.md) — Evening coverage again lists the PeopleSoft zero-day affecting hundreds of organizations and stealing gigabytes of data.
-- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletter-2026-06-14.md) — PeopleSoft CVE-2026-35273 remains in the AI/tech desk as an enterprise-security data-theft risk affecting hundreds of organizations.
-- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletter-2026-06-14-evening.md) — Evening tech desk again lists the PeopleSoft zero-day as a gigabytes-of-data theft event affecting hundreds of organizations.
-- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletter-2026-06-15.md) — The PeopleSoft zero-day remains the top AI/tech security item, still framed as mass data theft across hundreds of organizations.
+- [2026-06-12: Evening Brief — Friday, June 12, 2026](../sources/newsletters/newsletter-2026-06-12-evening.md) — A PeopleSoft zero-day / CVE-2026-35273 is reported as affecting hundreds of organizations and enabling gigabytes of data theft.
+- [2026-06-13: Newsletter 2026-06-13 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-13.md) — The PeopleSoft zero-day remains in the AI/tech/security desk as an enterprise-application data-theft risk.
+- [2026-06-13: Evening Brief — Saturday, June 13, 2026](../sources/newsletters/newsletter-2026-06-13-evening.md) — Evening coverage again lists the PeopleSoft zero-day affecting hundreds of organizations and stealing gigabytes of data.
+- [2026-06-14: Newsletter 2026-06-14 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-14.md) — PeopleSoft CVE-2026-35273 remains in the AI/tech desk as an enterprise-security data-theft risk affecting hundreds of organizations.
+- [2026-06-14: Evening Brief — Sunday, June 14, 2026](../sources/newsletters/newsletter-2026-06-14-evening.md) — Evening tech desk again lists the PeopleSoft zero-day as a gigabytes-of-data theft event affecting hundreds of organizations.
+- [2026-06-15: Newsletter 2026-06-15 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-15.md) — The PeopleSoft zero-day remains the top AI/tech security item, still framed as mass data theft across hundreds of organizations.
 
 ## Related
 

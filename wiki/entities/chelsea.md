@@ -15,7 +15,7 @@ Chelsea reportedly agrees a £117m deal for Aston Villa midfielder Morgan Rogers
 
 ## Sources
 
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Chelsea reportedly agrees a £117m deal for Aston Villa midfielder Morgan Rogers.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Chelsea reportedly agrees a £117m deal for Aston Villa midfielder Morgan Rogers.
 
 ## Related
 

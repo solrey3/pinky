@@ -15,9 +15,9 @@ NASA communications network used for deep-space mission contact. In the newslett
 
 ## Sources
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — A wildfire forces evacuation of a Deep Space Network complex in Spain, connecting wildfire risk to space communications resilience.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — A wildfire forces evacuation of a Deep Space Network complex in Spain, connecting wildfire risk to space communications resilience.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — The Spain complex wildfire evacuation repeats as a space-infrastructure continuity warning.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — The Spain complex wildfire evacuation repeats as a space-infrastructure continuity warning.
 
 ## Related
 

@@ -15,7 +15,7 @@ GhostLock is a Linux vulnerability node tracked here as an example of long-lived
 
 ## Sources
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — The AI & Tech desk highlights GhostLock as a 15-year Linux stack-use-after-free issue drawing hacker attention.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — The AI & Tech desk highlights GhostLock as a 15-year Linux stack-use-after-free issue drawing hacker attention.
 
 ## Related
 

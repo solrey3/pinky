@@ -15,7 +15,7 @@ Las Vegas is tracked as a regional housing and real-estate market when price, af
 
 ## Sources
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — MarketWatch reports Las Vegas home prices posted the largest drop in the nation.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — MarketWatch reports Las Vegas home prices posted the largest drop in the nation.
 
 ## Related
 

@@ -14,7 +14,7 @@ Diátaxis is a documentation framework that separates documentation into tutoria
 
 ## Sources
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — The Diátaxis framework appears in the tech desk as documentation practice returning to developer-community attention.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — The Diátaxis framework appears in the tech desk as documentation practice returning to developer-community attention.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ Virginia is a U.S. state. In this wiki's current-events layer it appears as a st
 
 ## Sources
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Bans sale of geolocation data, shifting location privacy from warrant doctrine into commercial data-broker regulation.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Bans sale of geolocation data, shifting location privacy from warrant doctrine into commercial data-broker regulation.
 
 ## Related
 

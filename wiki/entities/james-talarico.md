@@ -15,7 +15,7 @@ James Talarico is a Texas Democratic politician tracked here mainly as a 2026 Se
 
 ## Sources
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Leads Ken Paxton by three points in the Fox News poll cited by the evening dispatch.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Leads Ken Paxton by three points in the Fox News poll cited by the evening dispatch.
 
 ## Related
 

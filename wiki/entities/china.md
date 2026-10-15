@@ -15,32 +15,32 @@ China is tracked as a geopolitical, economic, and public-opinion actor in source
 
 ## Sources
 
-- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-noon.md) — Appears in two Philippine maritime reports: alleged dangerous maneuvers at Ayungin Shoal and unconfirmed naval and air exercises near Bajo de Masinloc.
+- [2026-09-27: Noon Dispatch — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-noon.md) — Appears in two Philippine maritime reports: alleged dangerous maneuvers at Ayungin Shoal and unconfirmed naval and air exercises near Bajo de Masinloc.
 
-- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-daytime.md) — Xi Jinping begins White House talks with Donald Trump as bilateral geopolitical, trade, and technology competition remains central.
+- [2026-09-25: Morning Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-daytime.md) — Xi Jinping begins White House talks with Donald Trump as bilateral geopolitical, trade, and technology competition remains central.
 
-- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletter-2026-09-25-midnight.md) — Xi Jinping opens White House talks with Donald Trump as bilateral geopolitical, trade, and technology competition remains central.
+- [2026-09-25: Midnight Dispatch — Friday, September 25, 2026](../sources/newsletters/newsletter-2026-09-25-midnight.md) — Xi Jinping opens White House talks with Donald Trump as bilateral geopolitical, trade, and technology competition remains central.
 
-- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-evening.md) — Xi Jinping opens White House talks with Donald Trump as bilateral trade, technology, and geopolitical competition remain central.
+- [2026-09-24: Evening Brief — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-evening.md) — Xi Jinping opens White House talks with Donald Trump as bilateral trade, technology, and geopolitical competition remain central.
 
-- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-noon.md) — Xi Jinping's U.S. talks with Donald Trump keep trade and geopolitical competition at the center of the bilateral relationship.
+- [2026-09-24: Noon Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-noon.md) — Xi Jinping's U.S. talks with Donald Trump keep trade and geopolitical competition at the center of the bilateral relationship.
 
-- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-daytime.md) — Xi Jinping's U.S. talks and repeated reporting on politically constrained Chinese chatbots join diplomacy and state information control.
+- [2026-09-24: Morning Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-daytime.md) — Xi Jinping's U.S. talks and repeated reporting on politically constrained Chinese chatbots join diplomacy and state information control.
 
-- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletter-2026-09-24-midnight.md) — Chinese AI chatbots are reported to enforce political guardrails favorable to the ruling party, linking model alignment to state information control.
+- [2026-09-24: Midnight Dispatch — Thursday, September 24, 2026](../sources/newsletters/newsletter-2026-09-24-midnight.md) — Chinese AI chatbots are reported to enforce political guardrails favorable to the ruling party, linking model alignment to state information control.
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Appears in Tesla China-sales scrutiny and Forbes' luxury-market reset item.
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Pew reports that people in many countries now view China more positively than the United States, making China a soft-power and legitimacy benchmark.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Appears in Tesla China-sales scrutiny and Forbes' luxury-market reset item.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Pew reports that people in many countries now view China more positively than the United States, making China a soft-power and legitimacy benchmark.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The AI desk surfaces an argument that China’s open-weights AI strategy is winning against locked-down U.S. AI.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Chinese model coverage frames open-weights AI as an industrial and geopolitical strategy rather than only developer convenience.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — The AI desk surfaces an argument that China’s open-weights AI strategy is winning against locked-down U.S. AI.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Chinese model coverage frames open-weights AI as an industrial and geopolitical strategy rather than only developer convenience.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Appears through Pew polling on AI competitiveness and startup-founder opposition to cutting off Chinese open-weight AI.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Chinese open-weight AI access is framed as a U.S. startup and policy concern.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Appears through Pew polling on AI competitiveness and startup-founder opposition to cutting off Chinese open-weight AI.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Chinese open-weight AI access is framed as a U.S. startup and policy concern.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Appears in Pew public-opinion coverage about Canadian and Mexican favorability versus the United States.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Appears in Pew public-opinion coverage about Canadian and Mexican favorability versus the United States.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appears through Micron market pressure and semiconductor geopolitics.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appears through Micron market pressure and semiconductor geopolitics.
 
 ## Related
 

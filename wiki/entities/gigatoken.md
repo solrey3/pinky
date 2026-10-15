@@ -15,7 +15,7 @@ Language-model tokenization project tracked when tokenizer speed, inference plum
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — GigaToken appears with a claim of roughly 1000x faster language-model tokenization, making tokenizer performance part of the AI infrastructure watchlist.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — GigaToken appears with a claim of roughly 1000x faster language-model tokenization, making tokenizer performance part of the AI infrastructure watchlist.
 
 ## Related
 

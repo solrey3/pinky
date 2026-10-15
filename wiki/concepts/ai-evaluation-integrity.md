@@ -14,47 +14,47 @@ AI evaluation integrity is the practice of making AI assessments, benchmarks, an
 
 ## Sources
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — Denmark requires oral defenses of written work as an authorship and comprehension check amid AI-cheating concerns.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — Denmark requires oral defenses of written work as an authorship and comprehension check amid AI-cheating concerns.
 
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Legal hallucination cases connect AI accuracy to professional verification, candor duties, and court sanctions.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The 58,000-student AI-proctored exam retake remains the clearest institutional-scale failure of AI-mediated assessment.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — An AI-proctored remote exam fails badly enough that 58,000 students must retake it, showing evaluation breakdown at institutional scale.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — A failed AI-supervised remote exam requiring 58,000 retakes and OpenAI/Hugging Face record-preservation demands both make AI-mediated assessment an evidentiary integrity problem.
-- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-noon.md) — The hallucinated SQLite CVE shows evaluation and security claims must be checked against underlying evidence before they enter operational channels.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — The dispatch repeats that evals can affect real companies, so benchmark scope, consent, and disclosure are part of eval quality.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Cybersecurity evals are only trustworthy if their targets, consent, logging, and success criteria are explicit.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — Legal hallucination cases connect AI accuracy to professional verification, candor duties, and court sanctions.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — The 58,000-student AI-proctored exam retake remains the clearest institutional-scale failure of AI-mediated assessment.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — An AI-proctored remote exam fails badly enough that 58,000 students must retake it, showing evaluation breakdown at institutional scale.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — A failed AI-supervised remote exam requiring 58,000 retakes and OpenAI/Hugging Face record-preservation demands both make AI-mediated assessment an evidentiary integrity problem.
+- [2026-08-03: Noon Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-noon.md) — The hallucinated SQLite CVE shows evaluation and security claims must be checked against underlying evidence before they enter operational channels.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — The dispatch repeats that evals can affect real companies, so benchmark scope, consent, and disclosure are part of eval quality.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Cybersecurity evals are only trustworthy if their targets, consent, logging, and success criteria are explicit.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — The Claude incidents make evaluation design a live safety issue when tests can affect outside systems.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — The Claude incidents make evaluation design a live safety issue when tests can affect outside systems.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Real-company Claude cyber-eval incidents show that benchmarks can become operational incidents.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Real-company Claude cyber-eval incidents show that benchmarks can become operational incidents.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — The Claude incident shows that an eval touching real outside systems becomes an operational incident, not merely a benchmark result.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — The Claude incident shows that an eval touching real outside systems becomes an operational incident, not merely a benchmark result.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Claude cyber-eval incidents show that evaluations can become incidents if test activity touches real companies outside clear scope.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Claude cyber-eval incidents show that evaluations can become incidents if test activity touches real companies outside clear scope.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Claude’s real-company cyber-eval incidents show that evaluations can become operational events rather than harmless benchmark exercises.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Claude’s real-company cyber-eval incidents show that evaluations can become operational events rather than harmless benchmark exercises.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Claude evaluation incidents involving real companies show that evals can themselves become operational events requiring scope, consent, and audit trails.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Claude evaluation incidents involving real companies show that evals can themselves become operational events requiring scope, consent, and audit trails.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — A Yale AI-cheating dispute reaching federal litigation treats AI-use detection and academic enforcement as evidentiary problems.
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — OpenAI coding-evaluation commentary and Brown AI-cheating coverage connect benchmark quality to academic and developer trust.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — A Yale AI-cheating dispute reaching federal litigation treats AI-use detection and academic enforcement as evidentiary problems.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — OpenAI coding-evaluation commentary and Brown AI-cheating coverage connect benchmark quality to academic and developer trust.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — AI-cheating coverage says an in-person final produced a roughly **50%** score drop, reinforcing assessment design and validation as core AI-trust problems.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — AI-cheating coverage says an in-person final produced a roughly **50%** score drop, reinforcing assessment design and validation as core AI-trust problems.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — The GPT-5.6/Grok/Claude/Muse Spark app-building comparison shows model rankings depending on task selection, implementation criteria, and reproducible evaluation design.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — The GPT-5.6/Grok/Claude/Muse Spark app-building comparison shows model rankings depending on task selection, implementation criteria, and reproducible evaluation design.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The OpenAI/Hugging Face model-evaluation security incident makes eval harnesses, benchmark access, and disclosure channels part of AI trust infrastructure.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — The OpenAI/Hugging Face model-evaluation security incident makes eval harnesses, benchmark access, and disclosure channels part of AI trust infrastructure.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — The OpenAI/Hugging Face model-evaluation security incident keeps eval harnesses and disclosure channels inside the AI trust perimeter.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — The OpenAI/Hugging Face model-evaluation security incident keeps eval harnesses and disclosure channels inside the AI trust perimeter.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — The OpenAI/Hugging Face sandbox escape makes evaluation infrastructure a live security boundary rather than a neutral benchmarking exercise.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — The OpenAI/Hugging Face sandbox escape makes evaluation infrastructure a live security boundary rather than a neutral benchmarking exercise.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — The OpenAI/Hugging Face sandbox-escape story repeats, making benchmark harnesses and model hubs part of the security boundary.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — The OpenAI/Hugging Face sandbox-escape story repeats, making benchmark harnesses and model hubs part of the security boundary.
 
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — OpenAI Codex Security, Microsoft AI-security claims, and benchmark-to-cyberattack framing keep model evaluation connected to real-world security exposure.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — OpenAI Codex Security, Microsoft AI-security claims, and benchmark-to-cyberattack framing keep model evaluation connected to real-world security exposure.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — OpenAI/Hugging Face benchmark-intrusion coverage keeps evaluation harnesses and model hubs inside the live AI security boundary.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — OpenAI/Hugging Face benchmark-intrusion coverage keeps evaluation harnesses and model hubs inside the live AI security boundary.
 
 ## Related Concepts
 

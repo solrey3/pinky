@@ -14,59 +14,59 @@ Digital media consolidation is the concentration of content ownership, distribut
 
 ## Sources
 
-- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-daytime.md) — Conflicting reports predict service unification while allowing separate HBO Max and Paramount+ brands, showing that ownership consolidation need not map cleanly to one consumer storefront.
+- [2026-10-07: Morning Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-daytime.md) — Conflicting reports predict service unification while allowing separate HBO Max and Paramount+ brands, showing that ownership consolidation need not map cleanly to one consumer storefront.
 
-- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletter-2026-10-07-midnight.md) — Reported plans to unify HBO Max, Paramount+, and Discovery+ provide an early post-closing integration signal and raise pricing, migration, catalog, and distribution-power questions.
+- [2026-10-07: Midnight Dispatch — Wednesday, October 7, 2026](../sources/newsletters/newsletter-2026-10-07-midnight.md) — Reported plans to unify HBO Max, Paramount+, and Discovery+ provide an early post-closing integration signal and raise pricing, migration, catalog, and distribution-power questions.
 
-- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletter-2026-10-06-evening.md) — Paramount's reported completion of the $111 billion Warner Bros. Discovery acquisition moves scrutiny from clearance to integration, distribution power, pricing, debt, and measurable competition effects.
+- [2026-10-06: Evening Brief — Tuesday, October 6, 2026](../sources/newsletters/newsletter-2026-10-06-evening.md) — Paramount's reported completion of the $111 billion Warner Bros. Discovery acquisition moves scrutiny from clearance to integration, distribution power, pricing, debt, and measurable competition effects.
 
-- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-daytime.md) — Repeats that Paramount's reported antitrust settlement advances the Warner transaction without resolving ownership- and distribution-concentration concerns.
+- [2026-09-22: Morning Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-daytime.md) — Repeats that Paramount's reported antitrust settlement advances the Warner transaction without resolving ownership- and distribution-concentration concerns.
 
-- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — Paramount's reported antitrust settlement advances the proposed Warner transaction without resolving the ownership- and distribution-concentration concern.
+- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-midnight.md) — Paramount's reported antitrust settlement advances the proposed Warner transaction without resolving the ownership- and distribution-concentration concern.
 
-- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletter-2026-09-21-evening.md) — Paramount's reported settlement of the states' antitrust case removes a legal obstacle to the Warner transaction without eliminating ownership-concentration concerns.
+- [2026-09-21: Evening Brief — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-evening.md) — Paramount's reported settlement of the states' antitrust case removes a legal obstacle to the Warner transaction without eliminating ownership-concentration concerns.
 
-- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletter-2026-09-21-midnight.md) — Repeats PlayStation's reported retreat from physical discs and the shift of ownership, resale, preservation, and access toward platform control.
+- [2026-09-21: Midnight Dispatch — Monday, September 21, 2026](../sources/newsletters/newsletter-2026-09-21-midnight.md) — Repeats PlayStation's reported retreat from physical discs and the shift of ownership, resale, preservation, and access toward platform control.
 
-- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-noon.md) — Repeats PlayStation's reported retreat from physical discs and the resulting shift in ownership, resale, preservation, and access toward platform control.
+- [2026-09-20: Noon Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-noon.md) — Repeats PlayStation's reported retreat from physical discs and the resulting shift in ownership, resale, preservation, and access toward platform control.
 
-- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletter-2026-09-20-daytime.md) — PlayStation's reported retreat from physical discs shifts ownership, resale, preservation, and access toward platform-controlled distribution.
+- [2026-09-20: Morning Dispatch — Sunday, September 20, 2026](../sources/newsletters/newsletter-2026-09-20-daytime.md) — PlayStation's reported retreat from physical discs shifts ownership, resale, preservation, and access toward platform-controlled distribution.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Disney and TikTok create a platform-mediated lane for distributing entertainment clips.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Disney and TikTok create a platform-mediated lane for distributing entertainment clips.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Disney’s TikTok clip partnership extends platform-mediated short-form distribution.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Disney’s TikTok clip partnership extends platform-mediated short-form distribution.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — A Disney–TikTok distribution partnership appears alongside U.K. approval of Paramount’s proposed Warner Bros. Discovery acquisition.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — A Disney–TikTok distribution partnership appears alongside U.K. approval of Paramount’s proposed Warner Bros. Discovery acquisition.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Reddit/Google AI Overviews tension shows distribution power shifting from linked media surfaces to synthesized answer layers.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Reddit/Google AI Overviews tension shows distribution power shifting from linked media surfaces to synthesized answer layers.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Reddit/Google AI Overviews tension shows platform distribution power moving from search ranking to generated answers.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Reddit/Google AI Overviews tension shows platform distribution power moving from search ranking to generated answers.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Google's role in RSS adoption decline is treated as another platform-distribution-power datapoint.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Google's role in RSS adoption decline is treated as another platform-distribution-power datapoint.
 
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Streaming-stick security warnings and sports/entertainment schedule feeds keep platform distribution and device trust in view.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — ESPN/WWE custom-title branding, MyAEW adding outside promotions, and LeBron/ESPN documentary chatter extend the sports-entertainment rebundling thread.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — NBCUniversal’s YouTube deal extends the streaming-war rebundling pattern into platform-partnership distribution.
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — UK scrutiny of Paramount/WBD and PlayStation's all-digital turn both point to media access moving through fewer, more controlled platform gates.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Streaming-stick security warnings and sports/entertainment schedule feeds keep platform distribution and device trust in view.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — ESPN/WWE custom-title branding, MyAEW adding outside promotions, and LeBron/ESPN documentary chatter extend the sports-entertainment rebundling thread.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — NBCUniversal’s YouTube deal extends the streaming-war rebundling pattern into platform-partnership distribution.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — UK scrutiny of Paramount/WBD and PlayStation's all-digital turn both point to media access moving through fewer, more controlled platform gates.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — PlayStation's reported physical-disc sunset keeps digital distribution, platform control, and preservation risk in the media consolidation frame.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — PlayStation's reported physical-disc sunset keeps digital distribution, platform control, and preservation risk in the media consolidation frame.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Plex's five-year membership pass adds a pricing/subscription signal to the streaming and self-hosted media platform thread.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Plex's five-year membership pass adds a pricing/subscription signal to the streaming and self-hosted media platform thread.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — The twelve-state antitrust suit against the Paramount–Warner Bros. merger turns media consolidation into live litigation rather than only regulatory speculation.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — The twelve-state antitrust suit against the Paramount–Warner Bros. merger turns media consolidation into live litigation rather than only regulatory speculation.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — The twelve-state antitrust suit against the Paramount–Warner Bros. merger keeps media consolidation in active litigation.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — The twelve-state antitrust suit against the Paramount–Warner Bros. merger keeps media consolidation in active litigation.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — FCC gift-taking from Paramount while approvals were pending adds an ethics/regulatory-capture dimension to media-consolidation oversight.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — FCC gift-taking from Paramount while approvals were pending adds an ethics/regulatory-capture dimension to media-consolidation oversight.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — The FCC/Paramount gift story extends the media-consolidation thread from deal structure into approval-process ethics.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — The court halt on Paramount's Warner Bros. purchase keeps streaming/media consolidation in the antitrust and state-enforcement graph.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — The FCC/Paramount gift story extends the media-consolidation thread from deal structure into approval-process ethics.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — The court halt on Paramount's Warner Bros. purchase keeps streaming/media consolidation in the antitrust and state-enforcement graph.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Paramount Skydance agreeing to hold off on a Warner Bros. merger pending antitrust proceedings keeps consolidation controlled by courts and regulators.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Paramount Skydance agreeing to hold off on a Warner Bros. merger pending antitrust proceedings keeps consolidation controlled by courts and regulators.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Paramount Skydance agreeing to pause a Warner merger keeps media consolidation subject to legal and antitrust procedure.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Paramount Skydance agreeing to pause a Warner merger keeps media consolidation subject to legal and antitrust procedure.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — NBCUniversal embedding Peacock inside YouTube premium subscriptions extends the streaming rebundling pattern.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — NBCUniversal embedding Peacock inside YouTube premium subscriptions extends the streaming rebundling pattern.
 
 ## Related Concepts
 

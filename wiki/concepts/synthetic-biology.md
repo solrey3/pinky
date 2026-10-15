@@ -14,19 +14,19 @@ Synthetic biology is the engineering of biological systems, often by designing g
 
 ## Sources
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — CRISPR-edited beagles designed to reduce allergens extend gene editing into consumer-facing animal traits.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — CRISPR-edited beagles designed to reduce allergens extend gene editing into consumer-facing animal traits.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — A reported scratch-built cell that grows and divides marks a headline-level milestone in bottom-up cell engineering.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — A reported scratch-built cell that grows and divides marks a headline-level milestone in bottom-up cell engineering.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — The scratch-built cell that grows and divides remains in the AI/tech desk, keeping bottom-up cell construction as a live research pointer.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — The scratch-built cell that grows and divides remains in the AI/tech desk, keeping bottom-up cell construction as a live research pointer.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Artificial-cell division coverage extends the bottom-up biology milestone watch.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Artificial-cell division coverage extends the bottom-up biology milestone watch.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Artificial-cell division coverage repeats the bottom-up biology milestone watch.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Artificial-cell division coverage repeats the bottom-up biology milestone watch.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Artificial-cell division coverage continues the bottom-up synthetic-cell milestone watch.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Artificial-cell division coverage continues the bottom-up synthetic-cell milestone watch.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — The AlphaFold item shows AI-assisted protein redesign entering gene-editing safety work.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — The AlphaFold item shows AI-assisted protein redesign entering gene-editing safety work.
 
 ## Related Concepts
 

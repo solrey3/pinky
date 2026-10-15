@@ -15,7 +15,7 @@ Michael Geist is a Canadian law professor and digital-rights commentator tracked
 
 ## Sources
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Warns that Canada signing the UN Cybercrime Convention may function as a surveillance treaty in disguise.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Warns that Canada signing the UN Cybercrime Convention may function as a surveillance treaty in disguise.
 
 ## Related
 

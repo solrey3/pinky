@@ -15,7 +15,7 @@ Founder of [[Khan Academy]] and an advocate for using AI as a teacher-supervised
 
 ## Sources
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Argues that classroom AI tutoring works best with an adult directing and contextualizing its use.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Argues that classroom AI tutoring works best with an adult directing and contextualizing its use.
 
 ## Related
 

@@ -15,7 +15,7 @@ Zaccharie Risacher is an NBA player tracked where draft pedigree, prospect value
 
 ## Sources
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Risacher is reported as moving to the Mavericks in a three-team NBA trade.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Risacher is reported as moving to the Mavericks in a three-team NBA trade.
 
 ## Related
 

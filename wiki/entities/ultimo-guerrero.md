@@ -15,7 +15,7 @@ CMLL luchador tracked when major lucha libre stipulations, event news, or promot
 
 ## Sources
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Ultimo Guerrero is reported as agreeing to a mask-vs-hair match with Templario, a high-stakes CMLL stipulation item.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Ultimo Guerrero is reported as agreeing to a mask-vs-hair match with Templario, a high-stakes CMLL stipulation item.
 
 ## Related
 

@@ -14,7 +14,7 @@ Workplace data privacy governs how employers and third parties collect, transfer
 
 ## Sources
 
-- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletter-2026-08-19-evening.md) — Google's planned purchase of Spirit employee data raises concerns about consent, purpose limitation, retention, and secondary use.
+- [2026-08-19: Evening Brief — Wednesday, August 19, 2026](../sources/newsletters/newsletter-2026-08-19-evening.md) — Google's planned purchase of Spirit employee data raises concerns about consent, purpose limitation, retention, and secondary use.
 
 ## Related Concepts
 

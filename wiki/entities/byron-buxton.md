@@ -15,7 +15,7 @@ Byron Buxton is tracked as an MLB player when injury and roster-status news appe
 
 ## Sources
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — The Twins activate Buxton after a nine-game absence.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — The Twins activate Buxton after a nine-game absence.
 
 ## Related
 

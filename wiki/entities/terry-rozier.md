@@ -15,7 +15,7 @@ Terry Rozier is tracked as an NBA player appearing in the newsletter graph throu
 
 ## Sources
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — ESPN coverage notes that Rozier's request to modify bail conditions was denied.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — ESPN coverage notes that Rozier's request to modify bail conditions was denied.
 
 ## Related
 

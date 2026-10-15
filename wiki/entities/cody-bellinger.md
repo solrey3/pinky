@@ -15,7 +15,7 @@ MLB player tracked here through injury and roster-impact updates.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Bellinger is out 4–6 weeks with a hamstring strain for the Yankees.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Bellinger is out 4–6 weeks with a hamstring strain for the Yankees.
 
 ## Related
 

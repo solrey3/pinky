@@ -15,7 +15,7 @@ OpenKnowledge is an open-source, AI-first knowledge-management project positione
 
 ## Sources
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — OpenKnowledge appears on Hacker News as an open-source AI-first alternative to Obsidian/Notion, connecting daily AI tooling coverage to the wiki's own LLM-maintained knowledge-base architecture.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — OpenKnowledge appears on Hacker News as an open-source AI-first alternative to Obsidian/Notion, connecting daily AI tooling coverage to the wiki's own LLM-maintained knowledge-base architecture.
 
 ## Related
 

@@ -15,307 +15,307 @@ American semiconductor and AI-infrastructure company whose GPUs and networking s
 
 ## Sources
 
-- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletter-2026-10-08-noon.md) — Pushes into safety architecture for robotaxis and humanoid robots while NVDA gains 1.90%, extending its platform from AI compute into embodied-system assurance.
+- [2026-10-08: Noon Dispatch — Thursday, October 8, 2026](../sources/newsletters/newsletter-2026-10-08-noon.md) — Pushes into safety architecture for robotaxis and humanoid robots while NVDA gains 1.90%, extending its platform from AI compute into embodied-system assurance.
 
-- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Gains 3.95% near its 52-week high, helping keep the Nasdaq positive despite weaker broad-market breadth.
+- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-noon.md) — Gains 3.95% near its 52-week high, helping keep the Nasdaq positive despite weaker broad-market breadth.
 
-- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-noon.md) — Gains 4.67% and helps lift the Nasdaq despite a sharp Dow decline; AI-related demand is also blamed for a higher Nvidia Shield TV price.
+- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-noon.md) — Gains 4.67% and helps lift the Nasdaq despite a sharp Dow decline; AI-related demand is also blamed for a higher Nvidia Shield TV price.
 
-- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletter-2026-09-29-daytime.md) — China chip-sales scrutiny highlights the collision between semiconductor commerce, export policy, and national security; NVDA gains 0.65% against broad losses.
+- [2026-09-29: Morning Dispatch — Tuesday, September 29, 2026](../sources/newsletters/newsletter-2026-09-29-daytime.md) — China chip-sales scrutiny highlights the collision between semiconductor commerce, export policy, and national security; NVDA gains 0.65% against broad losses.
 
-- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletter-2026-09-28-evening.md) — Announces a reported $150 billion buyback authorization while NVDA gains 0.65% against a broadly negative market.
+- [2026-09-28: Evening Brief — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-evening.md) — Announces a reported $150 billion buyback authorization while NVDA gains 0.65% against a broadly negative market.
 
-- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletter-2026-09-28-daytime.md) — Unveils a system intended to add guardrails around autonomous AI agents, extending its role from compute provider into agent-control infrastructure; NVDA gains 1.26%.
+- [2026-09-28: Morning Dispatch — Monday, September 28, 2026](../sources/newsletters/newsletter-2026-09-28-daytime.md) — Unveils a system intended to add guardrails around autonomous AI agents, extending its role from compute provider into agent-control infrastructure; NVDA gains 1.26%.
 
-- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-daytime.md) — Announces native CUDA programming paths for Rust kernels while NVDA falls 4.37% in the post-hike risk-off session.
+- [2026-09-17: Morning Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-daytime.md) — Announces native CUDA programming paths for Rust kernels while NVDA falls 4.37% in the post-hike risk-off session.
 
-- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletter-2026-09-17-midnight.md) — Announces native CUDA paths for Rust kernels while NVDA falls 4.37% during the post-hike, semiconductor-led risk-off close.
+- [2026-09-17: Midnight Dispatch — Thursday, September 17, 2026](../sources/newsletters/newsletter-2026-09-17-midnight.md) — Announces native CUDA paths for Rust kernels while NVDA falls 4.37% during the post-hike, semiconductor-led risk-off close.
 
-- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-evening.md) — Falls 4.37% as the reported Fed hike, high long rates, and broad risk aversion pressure semiconductor leaders.
+- [2026-09-16: Evening Brief — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-evening.md) — Falls 4.37% as the reported Fed hike, high long rates, and broad risk aversion pressure semiconductor leaders.
 
-- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-daytime.md) — Falls 6.01% as elevated yields and broad risk aversion again concentrate pressure in semiconductor leaders.
+- [2026-09-16: Morning Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-daytime.md) — Falls 6.01% as elevated yields and broad risk aversion again concentrate pressure in semiconductor leaders.
 
-- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletter-2026-09-16-midnight.md) — Falls 6.01% as AI-growth doubts and broad risk aversion pressure technology and semiconductor shares.
+- [2026-09-16: Midnight Dispatch — Wednesday, September 16, 2026](../sources/newsletters/newsletter-2026-09-16-midnight.md) — Falls 6.01% as AI-growth doubts and broad risk aversion pressure technology and semiconductor shares.
 
-- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-evening.md) — Falls 6.01% as AI-growth doubts, elevated yields, and broad risk aversion pressure semiconductor leaders.
+- [2026-09-15: Evening Brief — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-evening.md) — Falls 6.01% as AI-growth doubts, elevated yields, and broad risk aversion pressure semiconductor leaders.
 
-- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-noon.md) — Falls 6.00% as semiconductors and small caps lead a broad yield-pressured selloff.
+- [2026-09-15: Noon Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-noon.md) — Falls 6.00% as semiconductors and small caps lead a broad yield-pressured selloff.
 
-- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-daytime.md) — Falls 8.42% amid broad risk-off trading and concern that stronger AI-safety constraints could slow development.
+- [2026-09-15: Morning Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-daytime.md) — Falls 8.42% amid broad risk-off trading and concern that stronger AI-safety constraints could slow development.
 
-- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletter-2026-09-15-midnight.md) — Falls 8.42% as AI-slowdown warnings keep concentrated AI-chip exposure at the center of a broad risk-off session.
+- [2026-09-15: Midnight Dispatch — Tuesday, September 15, 2026](../sources/newsletters/newsletter-2026-09-15-midnight.md) — Falls 8.42% as AI-slowdown warnings keep concentrated AI-chip exposure at the center of a broad risk-off session.
 
-- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletter-2026-09-14-noon.md) — Falls 7.89% as broad index and ETF losses place AI-chip exposure at the center of the lunch-hour risk-off move.
+- [2026-09-14: Noon Dispatch — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-noon.md) — Falls 7.89% as broad index and ETF losses place AI-chip exposure at the center of the lunch-hour risk-off move.
 
-- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletter-2026-09-14-evening.md) — Falls 8.42%, the sharpest watched-stock decline, as AI-slowdown concerns put concentrated AI-chip exposure at the center of the risk-off close.
+- [2026-09-14: Evening Brief — Monday, September 14, 2026](../sources/newsletters/newsletter-2026-09-14-evening.md) — Falls 8.42%, the sharpest watched-stock decline, as AI-slowdown concerns put concentrated AI-chip exposure at the center of the risk-off close.
 
-- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-evening.md) — Is characterized as central infrastructure for AI compute allocation while NVDA falls 4.45% during a broad risk-off week.
+- [2026-09-12: Evening Brief — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-evening.md) — Is characterized as central infrastructure for AI compute allocation while NVDA falls 4.45% during a broad risk-off week.
 
-- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletter-2026-09-12-noon.md) — Is characterized as central infrastructure for AI compute allocation while NVDA falls 4.45% during a broad risk-off week.
+- [2026-09-12: Noon Dispatch — Saturday, September 12, 2026](../sources/newsletters/newsletter-2026-09-12-noon.md) — Is characterized as central infrastructure for AI compute allocation while NVDA falls 4.45% during a broad risk-off week.
 
-- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-noon.md) — Gains 2.47% as semiconductor strength helps lift the Nasdaq despite Dow and dividend weakness.
+- [2026-09-08: Noon Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-noon.md) — Gains 2.47% as semiconductor strength helps lift the Nasdaq despite Dow and dividend weakness.
 
-- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-daytime.md) — Gains 5.89%, leading the watched stocks and helping the Nasdaq outperform in a narrowly mixed close.
+- [2026-09-08: Morning Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-daytime.md) — Gains 5.89%, leading the watched stocks and helping the Nasdaq outperform in a narrowly mixed close.
 
-- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletter-2026-09-08-midnight.md) — Gains 5.89%, leading the watched stocks and helping the Nasdaq outperform in a narrowly mixed close.
+- [2026-09-08: Midnight Dispatch — Tuesday, September 8, 2026](../sources/newsletters/newsletter-2026-09-08-midnight.md) — Gains 5.89%, leading the watched stocks and helping the Nasdaq outperform in a narrowly mixed close.
 
-- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletter-2026-09-07-evening.md) — Gains 5.89% and supplies the strongest watched-stock advance in a narrowly mixed close.
+- [2026-09-07: Evening Brief — Monday, September 7, 2026](../sources/newsletters/newsletter-2026-09-07-evening.md) — Gains 5.89% and supplies the strongest watched-stock advance in a narrowly mixed close.
 
-- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletter-2026-09-05-midnight.md) — Reported nearly $13 billion Hugging Face acquisition would consolidate AI compute and model distribution; NVDA gains 5.89%.
+- [2026-09-05: Midnight Dispatch — Saturday, September 5, 2026](../sources/newsletters/newsletter-2026-09-05-midnight.md) — Reported nearly $13 billion Hugging Face acquisition would consolidate AI compute and model distribution; NVDA gains 5.89%.
 
-- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletter-2026-09-04-evening.md) — Reported $13 billion Hugging Face acquisition would consolidate AI compute and model distribution; NVDA rises 5.89%.
+- [2026-09-04: Evening Brief — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-evening.md) — Reported $13 billion Hugging Face acquisition would consolidate AI compute and model distribution; NVDA rises 5.89%.
 
-- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-noon.md) — Reported $13 billion Hugging Face acquisition would combine AI compute leadership with model distribution; NVDA rises 6.14%.
+- [2026-09-04: Noon Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-noon.md) — Reported $13 billion Hugging Face acquisition would combine AI compute leadership with model distribution; NVDA rises 6.14%.
 
-- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-daytime.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially combining AI hardware leadership with model and developer distribution; NVDA gains 0.21%.
+- [2026-09-04: Morning Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-daytime.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially combining AI hardware leadership with model and developer distribution; NVDA gains 0.21%.
 
-- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletter-2026-09-04-midnight.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially combining AI hardware leadership with model and developer distribution; NVDA closes up 0.21%.
+- [2026-09-04: Midnight Dispatch — Friday, September 4, 2026](../sources/newsletters/newsletter-2026-09-04-midnight.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially combining AI hardware leadership with model and developer distribution; NVDA closes up 0.21%.
 
-- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-evening.md) — Reportedly agrees to buy Hugging Face for $13 billion, potentially uniting AI hardware dominance with model and developer distribution; NVDA closes up 0.21%.
+- [2026-09-03: Evening Brief — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-evening.md) — Reportedly agrees to buy Hugging Face for $13 billion, potentially uniting AI hardware dominance with model and developer distribution; NVDA closes up 0.21%.
 
-- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-daytime.md) — Gains 7.04%, supporting the Nasdaq despite weak small-cap and ETF breadth.
+- [2026-09-03: Morning Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-daytime.md) — Gains 7.04%, supporting the Nasdaq despite weak small-cap and ETF breadth.
 
-- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-midnight.md) — Gains 7.04%, supporting the Nasdaq despite weak small-cap and ETF breadth.
+- [2026-09-03: Midnight Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-midnight.md) — Gains 7.04%, supporting the Nasdaq despite weak small-cap and ETF breadth.
 
-- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletter-2026-09-02-evening.md) — Gains 7.04% as investors reportedly gain confidence in a broader AI customer base, helping lift Nasdaq despite weak breadth.
+- [2026-09-02: Evening Brief — Wednesday, September 2, 2026](../sources/newsletters/newsletter-2026-09-02-evening.md) — Gains 7.04% as investors reportedly gain confidence in a broader AI customer base, helping lift Nasdaq despite weak breadth.
 
-- [2026-08-31: Noon Dispatch — Monday, August 31, 2026](../sources/newsletter-2026-08-31-noon.md) — Gains 5.23% and leads AI-chip strength as the Nasdaq rises despite weak small caps and broad ETF losses; a reported $3.5 billion move would widen its AI reach.
+- [2026-08-31: Noon Dispatch — Monday, August 31, 2026](../sources/newsletters/newsletter-2026-08-31-noon.md) — Gains 5.23% and leads AI-chip strength as the Nasdaq rises despite weak small caps and broad ETF losses; a reported $3.5 billion move would widen its AI reach.
 
-- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletter-2026-08-28-evening.md) — Gains 1.32% as Wall Street considers whether SpaceX-related demand helps explain the scale of its revenue forecast.
+- [2026-08-28: Evening Brief — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-evening.md) — Gains 1.32% as Wall Street considers whether SpaceX-related demand helps explain the scale of its revenue forecast.
 
-- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletter-2026-08-28-midnight.md) — Gains 5.13% during a broad index rally near annual highs.
+- [2026-08-28: Midnight Dispatch — Friday, August 28, 2026](../sources/newsletters/newsletter-2026-08-28-midnight.md) — Gains 5.13% during a broad index rally near annual highs.
 
-- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-evening.md) — Gains 5.13% as a reported $13 billion Hugging Face acquisition would connect AI hardware leadership with model and developer distribution.
+- [2026-08-27: Evening Brief — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-evening.md) — Gains 5.13% as a reported $13 billion Hugging Face acquisition would connect AI hardware leadership with model and developer distribution.
 
-- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-noon.md) — Gains 4.42% as Q2 2027 earnings become a test of whether the AI rally rests on durable operating performance.
+- [2026-08-27: Noon Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-noon.md) — Gains 4.42% as Q2 2027 earnings become a test of whether the AI rally rests on durable operating performance.
 
-- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-daytime.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially joining AI hardware power to model and developer distribution; NVDA falls 3.63%.
+- [2026-08-27: Morning Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-daytime.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially joining AI hardware power to model and developer distribution; NVDA falls 3.63%.
 
 
-- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletter-2026-08-27-midnight.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially combining AI hardware power with a major model-and-developer distribution layer; NVDA also falls 3.63%.
+- [2026-08-27: Midnight Dispatch — Thursday, August 27, 2026](../sources/newsletters/newsletter-2026-08-27-midnight.md) — Reportedly agrees to acquire Hugging Face for $13 billion, potentially combining AI hardware power with a major model-and-developer distribution layer; NVDA also falls 3.63%.
 
-- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletter-2026-08-23-noon.md) — Falls 4.64% as its central role in both AI infrastructure and index performance raises concentration-risk concerns.
+- [2026-08-23: Noon Dispatch — Sunday, August 23, 2026](../sources/newsletters/newsletter-2026-08-23-noon.md) — Falls 4.64% as its central role in both AI infrastructure and index performance raises concentration-risk concerns.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — Discloses a $21 billion SpaceX stake and gains 4.63% as chip stocks lead the lunch-hour tape.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — Discloses a $21 billion SpaceX stake and gains 4.63% as chip stocks lead the lunch-hour tape.
 
-- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-daytime.md) — Gains 5.28% during a broad equity rally.
+- [2026-08-11: Morning Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-daytime.md) — Gains 5.28% during a broad equity rally.
 
-- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletter-2026-08-11-midnight.md) — Gains 5.28% and joins Wall Street firms in a reported effort to finance $500 billion of AI infrastructure.
+- [2026-08-11: Midnight Dispatch — Tuesday, August 11, 2026](../sources/newsletters/newsletter-2026-08-11-midnight.md) — Gains 5.28% and joins Wall Street firms in a reported effort to finance $500 billion of AI infrastructure.
 
-- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-daytime.md) — Leads the stock-watch board with an 11.56% gain during a Nasdaq-led rally.
+- [2026-08-10: Morning Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-daytime.md) — Leads the stock-watch board with an 11.56% gain during a Nasdaq-led rally.
 
-- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletter-2026-08-10-midnight.md) — Leads the stock-watch board with an 11.56% gain as the Nasdaq rises 5.19%.
+- [2026-08-10: Midnight Dispatch — Monday, August 10, 2026](../sources/newsletters/newsletter-2026-08-10-midnight.md) — Leads the stock-watch board with an 11.56% gain as the Nasdaq rises 5.19%.
 
-- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-evening.md) — Leads the completed-week stock board with an 11.56% gain as the Nasdaq rises 5.19%.
+- [2026-08-09: Evening Brief — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-evening.md) — Leads the completed-week stock board with an 11.56% gain as the Nasdaq rises 5.19%.
 
-- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-noon.md) — Leads the completed-week stock board with an 11.56% gain in a Nasdaq-led rally.
+- [2026-08-09: Noon Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-noon.md) — Leads the completed-week stock board with an 11.56% gain in a Nasdaq-led rally.
 
-- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-daytime.md) — Leads the tracked weekly stock board with an 11.56% gain during a Nasdaq-led rally.
+- [2026-08-09: Morning Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-daytime.md) — Leads the tracked weekly stock board with an 11.56% gain during a Nasdaq-led rally.
 
-- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletter-2026-08-09-midnight.md) — Leads the tracked weekly stock board with an 11.56% gain during a Nasdaq-led rally.
+- [2026-08-09: Midnight Dispatch — Sunday, August 9, 2026](../sources/newsletters/newsletter-2026-08-09-midnight.md) — Leads the tracked weekly stock board with an 11.56% gain during a Nasdaq-led rally.
 
-- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-evening.md) — An 11.56% weekly gain leads the tracked stock board in a Nasdaq-led rally.
+- [2026-08-08: Evening Brief — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-evening.md) — An 11.56% weekly gain leads the tracked stock board in a Nasdaq-led rally.
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Leads the tracked weekly stock board with an 11.56% gain.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Leads the tracked weekly stock board with an 11.56% gain.
 
-- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-daytime.md) — Leads tracked stocks with an 11.56% weekly gain as technology powers a broad index rally.
+- [2026-08-08: Morning Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-daytime.md) — Leads tracked stocks with an 11.56% weekly gain as technology powers a broad index rally.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Leads tracked equities with an 11.56% weekly gain during a Nasdaq-led rally.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — Leads tracked equities with an 11.56% weekly gain during a Nasdaq-led rally.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Jumps 11.56% during a Nasdaq-led rally and posts its strongest weekly surge in more than a year.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Jumps 11.56% during a Nasdaq-led rally and posts its strongest weekly surge in more than a year.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — Surges 12.28%, crossing the major-move line in a broad technology-led rally.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — Surges 12.28%, crossing the major-move line in a broad technology-led rally.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — Nvidia rises 12.28%, leading the AI-chip side of the rally.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — Nvidia rises 12.28%, leading the AI-chip side of the rally.
 
-- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-noon.md) — An 11.61% gain leads the semiconductor side of a broad equity rally.
+- [2026-08-06: Noon Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-noon.md) — An 11.61% gain leads the semiconductor side of a broad equity rally.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — NVDA rises 15.37% during a broad AI-chip and growth rally.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — NVDA rises 15.37% during a broad AI-chip and growth rally.
 
-- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletter-2026-08-05-daytime.md) — Nvidia gains 7.58% in the broad technology-led advance.
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — NVDA gains 7.58%, participating in the semiconductor-led risk-on board.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — NVDA gains 7.58%, adding semiconductor strength to the Nasdaq-led tape.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — NVDA gains 5.15%, joining Amazon in the mega-cap/AI-chip strength behind the Nasdaq surge.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Rises 5.15% and helps confirm growth-stock appetite behind the Nasdaq rally.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Nvidia weakness keeps AI-chip internals mixed despite Nasdaq strength.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Falls 2.94%, preserving AI-chip pressure in a nominally risk-on tape.
+- [2026-08-05: Morning Dispatch — Wednesday, August 5, 2026](../sources/newsletters/newsletter-2026-08-05-daytime.md) — Nvidia gains 7.58% in the broad technology-led advance.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — NVDA gains 7.58%, participating in the semiconductor-led risk-on board.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — NVDA gains 7.58%, adding semiconductor strength to the Nasdaq-led tape.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — NVDA gains 5.15%, joining Amazon in the mega-cap/AI-chip strength behind the Nasdaq surge.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Rises 5.15% and helps confirm growth-stock appetite behind the Nasdaq rally.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Nvidia weakness keeps AI-chip internals mixed despite Nasdaq strength.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Falls 2.94%, preserving AI-chip pressure in a nominally risk-on tape.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — Nvidia weakness remains part of the semiconductors stress pocket beneath the broad-index rally.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — Nvidia weakness remains part of the semiconductors stress pocket beneath the broad-index rally.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Nvidia is down 2.94%, another AI-chip weak point in the noon tape.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Nvidia is down 2.94%, another AI-chip weak point in the noon tape.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Nvidia stays lower in a split tape, reinforcing that index strength is not clean semiconductor breadth.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Nvidia stays lower in a split tape, reinforcing that index strength is not clean semiconductor breadth.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Nvidia trades lower, keeping AI-chip weakness in the split-tape diagnosis.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Nvidia trades lower, keeping AI-chip weakness in the split-tape diagnosis.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Nvidia is down 2.94%, reinforcing the uneven AI-chip tape beneath broad index strength.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Nvidia is down 2.94%, reinforcing the uneven AI-chip tape beneath broad index strength.
 
-- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-noon.md) — Falls -2.94%, adding to the uneven semiconductor read beneath Nasdaq strength.
+- [2026-08-01: Noon Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-noon.md) — Falls -2.94%, adding to the uneven semiconductor read beneath Nasdaq strength.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Falls 2.94%, keeping AI-chip leadership uneven despite broad index gains.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Falls 2.94%, keeping AI-chip leadership uneven despite broad index gains.
 
-- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-midnight.md) — Falls -2.94%, keeping AI-chip leadership uneven despite the Nasdaq rally.
+- [2026-08-01: Midnight Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-midnight.md) — Falls -2.94%, keeping AI-chip leadership uneven despite the Nasdaq rally.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — NVDA -2.94% confirms AI-chip weakness beneath the headline rally.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — NVDA -2.94% confirms AI-chip weakness beneath the headline rally.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Falls 4.96%, reinforcing that AI-chip exposure is not confirming the broad-index green tape.
-- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-daytime.md) — Falls 6.57%, confirming that the chip-stock weakness extends beyond AMD into the wider AI-hardware basket.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Drops 6.57%, extending the AI-chip weakness that offsets otherwise firm broad indexes.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — Falls 6.57%, reinforcing that AI-chip leadership remains the market stress pocket.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — Nvidia falls 7.53%, confirming AI-chip weakness as the lunch board’s main stress center.
-- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletter-2026-06-15-evening.md) — Nvidia seeks to raise more than $25B in its first bond deal since 2021, turning AI-chip demand into a capital-markets and balance-sheet story.
-- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletter-2026-06-16.md) — The bond-deal story persists into the morning tech desk, reinforcing that AI infrastructure demand is being financed through debt as well as equity-market enthusiasm.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — Nvidia research uses AI coding-agent techniques to teach robots physical tasks such as installing GPUs and cutting zip ties, extending the AI-agent frame from software workflow into embodied automation.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — Nvidia remains green at **+2.84%** as the AI bellwether, though AMD and TSM are the louder semiconductor movers in the evening tape.
-- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — Nvidia is still green at **+2.84%**, functioning as part of the AI/semiconductor leadership basket even though AMD and TSM remain the larger movers.
-- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletter-2026-06-19-evening.md) — Nvidia closes at **$210.69**, **+2.84%**, still green as the AI bellwether while AMD and TSM make the louder semiconductor moves.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket even though AMD and TSM carry the larger percentage moves.
-- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletter-2026-06-20-evening.md) — Nvidia again closes at **$210.69**, **+2.84%**, remaining the green AI bellwether behind louder AMD and TSM moves.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Nvidia remains green at **$210.69**, **+2.84%**, still the AI bellwether while AMD and TSM carry the larger percentage moves.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — Falls 4.96%, reinforcing that AI-chip exposure is not confirming the broad-index green tape.
+- [2026-07-31: Morning Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-daytime.md) — Falls 6.57%, confirming that the chip-stock weakness extends beyond AMD into the wider AI-hardware basket.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Drops 6.57%, extending the AI-chip weakness that offsets otherwise firm broad indexes.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — Falls 6.57%, reinforcing that AI-chip leadership remains the market stress pocket.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — Nvidia falls 7.53%, confirming AI-chip weakness as the lunch board’s main stress center.
+- [2026-06-15: Evening Brief — Monday, June 15, 2026](../sources/newsletters/newsletter-2026-06-15-evening.md) — Nvidia seeks to raise more than $25B in its first bond deal since 2021, turning AI-chip demand into a capital-markets and balance-sheet story.
+- [2026-06-16: Newsletter 2026-06-16 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-16.md) — The bond-deal story persists into the morning tech desk, reinforcing that AI infrastructure demand is being financed through debt as well as equity-market enthusiasm.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — Nvidia research uses AI coding-agent techniques to teach robots physical tasks such as installing GPUs and cutting zip ties, extending the AI-agent frame from software workflow into embodied automation.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — Nvidia remains green at **+2.84%** as the AI bellwether, though AMD and TSM are the louder semiconductor movers in the evening tape.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-19.md) — Nvidia is still green at **+2.84%**, functioning as part of the AI/semiconductor leadership basket even though AMD and TSM remain the larger movers.
+- [2026-06-19: Evening Brief — Friday, June 19, 2026](../sources/newsletters/newsletter-2026-06-19-evening.md) — Nvidia closes at **$210.69**, **+2.84%**, still green as the AI bellwether while AMD and TSM make the louder semiconductor moves.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket even though AMD and TSM carry the larger percentage moves.
+- [2026-06-20: Evening Brief — Saturday, June 20, 2026](../sources/newsletters/newsletter-2026-06-20-evening.md) — Nvidia again closes at **$210.69**, **+2.84%**, remaining the green AI bellwether behind louder AMD and TSM moves.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Nvidia remains green at **$210.69**, **+2.84%**, still the AI bellwether while AMD and TSM carry the larger percentage moves.
 
-- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-evening.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket behind larger AMD and TSM moves.
+- [2026-06-21: Evening Brief — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-evening.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket behind larger AMD and TSM moves.
 
-- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletter-2026-06-22-daytime.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket behind larger AMD and TSM moves.
+- [2026-06-22: Daytime Dispatch — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-daytime.md) — Nvidia remains green at **$210.69**, **+2.84%**, supporting the AI-chip leadership basket behind larger AMD and TSM moves.
 
-- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletter-2026-06-22-evening.md) — Nvidia gains **+1.69%**, still part of the green AI-chip basket even as TSM and AMD carry the louder percentage moves.
+- [2026-06-22: Evening Brief — Monday, June 22, 2026](../sources/newsletters/newsletter-2026-06-22-evening.md) — Nvidia gains **+1.69%**, still part of the green AI-chip basket even as TSM and AMD carry the louder percentage moves.
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — Nvidia remains green at **+1.69%**, still supporting the AI-chip basket while TSM and AMD carry the higher-beta moves.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — Nvidia remains green at **+1.69%**, still supporting the AI-chip basket while TSM and AMD carry the higher-beta moves.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Nvidia drops **-5.84%** in the evening close, making the AI-chip bellwether part of the Nasdaq-led selloff rather than a stabilizing leader.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Nvidia drops **-5.84%** in the evening close, making the AI-chip bellwether part of the Nasdaq-led selloff rather than a stabilizing leader.
 
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Nvidia remains down **-5.84%**, keeping the AI-chip bellwether inside the Nasdaq-led risk-off tape.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — Nvidia remains down **-5.84%**, keeping the AI-chip bellwether inside the Nasdaq-led risk-off tape.
 
-- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-evening.md) — Nvidia closes **-4.05%**, still a pressure point in the Nasdaq-led selloff even as AMD and TSM recover.
+- [2026-06-24: Evening Brief — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-evening.md) — Nvidia closes **-4.05%**, still a pressure point in the Nasdaq-led selloff even as AMD and TSM recover.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — Nvidia falls **-4.05%** in the stock watch and appears through a 45°C liquid-cooling design that claims near-zero data-center water use, tying the AI-chip story to facility engineering.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — Nvidia falls **-4.05%** in the stock watch and appears through a 45°C liquid-cooling design that claims near-zero data-center water use, tying the AI-chip story to facility engineering.
 
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — Nvidia drops **-4.35%**, keeping the AI bellwether in the pressured mega-cap/tech side of the split tape while AMD and TSM hold up better.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — Nvidia drops **-4.35%**, keeping the AI bellwether in the pressured mega-cap/tech side of the split tape while AMD and TSM hold up better.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — Nvidia falls **-4.35%**, showing that AI bellwether exposure remains under pressure even as AMD and TSM hold up.
-- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletter-2026-06-26-evening.md) — Nvidia falls **-8.62%**, the harshest stock-watch move in the evening table and the clearest AI-chip risk-off signal.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — The weekend table repeats Nvidia **-8.62%**, preserving the AI-chip bellwether as the clearest growth/semiconductor risk-off signal.
-- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-evening.md) — The evening stock watch again lists Nvidia **-8.62%**, confirming the AI-chip bellwether as the harshest single-name risk-off signal in the table.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — Nvidia falls **-4.35%**, showing that AI bellwether exposure remains under pressure even as AMD and TSM hold up.
+- [2026-06-26: Evening Brief — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-evening.md) — Nvidia falls **-8.62%**, the harshest stock-watch move in the evening table and the clearest AI-chip risk-off signal.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — The weekend table repeats Nvidia **-8.62%**, preserving the AI-chip bellwether as the clearest growth/semiconductor risk-off signal.
+- [2026-06-27: Evening Brief — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-evening.md) — The evening stock watch again lists Nvidia **-8.62%**, confirming the AI-chip bellwether as the harshest single-name risk-off signal in the table.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — Nvidia remains the loudest AI-chip risk-off signal at **-8.62%** on the stock board.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — Nvidia remains the loudest AI-chip risk-off signal at **-8.62%** on the stock board.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — Nvidia remains the loudest AI-chip risk-off signal at **-8.62%** in the completed-week stock board.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — Nvidia remains the loudest AI-chip risk-off signal at **-8.62%** in the completed-week stock board.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — Nvidia remains the sharpest AI-chip risk-off signal at **-8.62%** in the Monday morning stock board.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — Nvidia remains the sharpest AI-chip risk-off signal at **-8.62%** in the Monday morning stock board.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — Nvidia falls **-6.56%**, keeping AI-chip exposure as the clearest single-name pain point in the selective risk-off close.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — Nvidia falls **-6.56%**, keeping AI-chip exposure as the clearest single-name pain point in the selective risk-off close.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Falls **-6.56%**, making AI-chip weakness the clearest single-stock risk-off signal in the table.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Falls **-6.56%**, making AI-chip weakness the clearest single-stock risk-off signal in the table.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Finishes nearly flat at **+0.02%**, lagging AMD and TSM even as the broader tech tape turns risk-on.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Finishes nearly flat at **+0.02%**, lagging AMD and TSM even as the broader tech tape turns risk-on.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Sits nearly flat at **+0.02%**, lagging AMD and TSM even as the broader semiconductor/equity tape is risk-on.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Sits nearly flat at **+0.02%**, lagging AMD and TSM even as the broader semiconductor/equity tape is risk-on.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Nvidia slips **-0.71%**, lagging the broader Nasdaq/semiconductor rebound while remaining part of the AI-infrastructure market basket.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Nvidia slips **-0.71%**, lagging the broader Nasdaq/semiconductor rebound while remaining part of the AI-infrastructure market basket.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — Nvidia slips **-0.71%**, lagging the broader Nasdaq and AMD/TSM semiconductor rebound while remaining part of the AI-infrastructure basket.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — Nvidia slips **-0.71%**, lagging the broader Nasdaq and AMD/TSM semiconductor rebound while remaining part of the AI-infrastructure basket.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Nvidia slips **-0.46%**, again lagging the broad Nasdaq while remaining part of the AI-infrastructure market basket.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Nvidia slips **-0.46%**, again lagging the broad Nasdaq while remaining part of the AI-infrastructure market basket.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — Nvidia declines **-0.46%** while indexes rise, keeping AI-chip leadership from fully confirming the rally.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — Nvidia declines **-0.46%** while indexes rise, keeping AI-chip leadership from fully confirming the rally.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — Nvidia slips **0.46%** as the S&P, Dow, and Nasdaq rise, keeping AI-chip leadership mixed rather than cleanly risk-on.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — Nvidia slips **0.46%** as the S&P, Dow, and Nasdaq rise, keeping AI-chip leadership mixed rather than cleanly risk-on.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Nvidia is slightly red at **-0.46%**, so AI-chip exposure does not confirm the S&P/Dow/Nasdaq rally.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Nvidia is slightly red at **-0.46%**, so AI-chip exposure does not confirm the S&P/Dow/Nasdaq rally.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — Nvidia is down **-0.46%**, so AI-chip leadership remains a weak confirmation point for the broader risk-on board.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — Nvidia is down **-0.46%**, so AI-chip leadership remains a weak confirmation point for the broader risk-on board.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Nvidia is down **-0.46%**, so AI-chip leadership still does not fully confirm the large-cap risk-on board.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Nvidia is down **-0.46%**, so AI-chip leadership still does not fully confirm the large-cap risk-on board.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Drops **-0.46%**, leaving AI-chip leadership a weak spot in an otherwise positive large-cap tape.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Drops **-0.46%**, leaving AI-chip leadership a weak spot in an otherwise positive large-cap tape.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — Nvidia is positive at **+1.57%**, participating in the chip recovery but less forcefully than AMD or TSM.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — Nvidia is positive at **+1.57%**, participating in the chip recovery but less forcefully than AMD or TSM.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Nvidia gains **1.01%**, but the broader chip read is mixed because AMD and TSM sell off sharply in the same table.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Nvidia gains **1.01%**, but the broader chip read is mixed because AMD and TSM sell off sharply in the same table.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — Nvidia rises **1.01%**, standing apart from AMD and TSM weakness in the mixed semiconductor tape.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — Nvidia rises **1.01%**, standing apart from AMD and TSM weakness in the mixed semiconductor tape.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — Nvidia rises **2.01%** while AMD and TSM sell off, showing divergent semiconductor leadership rather than uniform AI-hardware strength.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — Nvidia rises **2.01%** while AMD and TSM sell off, showing divergent semiconductor leadership rather than uniform AI-hardware strength.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — Nvidia gains **2.01%** even as AMD and TSM sell off, showing semiconductor leadership is split rather than uniform.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — Nvidia gains **2.01%** even as AMD and TSM sell off, showing semiconductor leadership is split rather than uniform.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — Nvidia gains 2.63%, leading the watched semiconductor group while AMD is modestly green and TSM falls.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — Nvidia gains 2.63%, leading the watched semiconductor group while AMD is modestly green and TSM falls.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — Nvidia gains 2.63%, giving the semiconductor tape a positive large-cap AI-chip signal even as TSM falls.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — Nvidia gains 2.63%, giving the semiconductor tape a positive large-cap AI-chip signal even as TSM falls.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — Nvidia jumps **8.28%**, making AI-chip exposure the clearest large-cap leadership signal in the evening close.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — Nvidia jumps **8.28%**, making AI-chip exposure the clearest large-cap leadership signal in the evening close.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — Nvidia rises 8.28% for the week, reinforcing AI-chip leadership in the tech-led market tape.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — Nvidia rises 8.28% for the week, reinforcing AI-chip leadership in the tech-led market tape.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — Nvidia gains 8.28% for the week, making AI-chip leadership the clearest stock-watch signal.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — Nvidia rises **8.28%**, keeping AI-chip leadership central to the weekly market read.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — Nvidia gains 8.28% for the week, making AI-chip leadership the clearest stock-watch signal.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — Nvidia rises **8.28%**, keeping AI-chip leadership central to the weekly market read.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Nvidia gains 8.28% and remains the clearest AI-chip leader in the stock-watch table.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Nvidia gains 8.28% and remains the clearest AI-chip leader in the stock-watch table.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Nvidia remains the standout AI-chip leader with an 8.28% gain in the weekly stock-watch table.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Nvidia remains the standout AI-chip leader with an 8.28% gain in the weekly stock-watch table.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Nvidia gains **4.08%**, standing out as the main positive AI-chip exception in an otherwise weaker tape.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Nvidia gains **4.08%**, standing out as the main positive AI-chip exception in an otherwise weaker tape.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Nvidia gains **4.08%**, standing out as the main positive AI-chip exception while TSM and AMD fall.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Nvidia gains **4.08%**, standing out as the main positive AI-chip exception while TSM and AMD fall.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Nvidia jumps **7.55%**, making AI-chip leadership the main reason the Nasdaq outperforms despite broader macro stress.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Nvidia jumps **7.55%**, making AI-chip leadership the main reason the Nasdaq outperforms despite broader macro stress.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Nvidia rises **7.55%**, helping Nasdaq/S&P hold near highs despite broader market splits.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Nvidia rises **7.55%**, helping Nasdaq/S&P hold near highs despite broader market splits.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Nvidia gains **4.11%**, helping the AI-chip leadership pocket support the Nasdaq/S&P close near highs.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Nvidia gains **4.11%**, helping the AI-chip leadership pocket support the Nasdaq/S&P close near highs.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Nvidia rises **4.11%**, one of the major AI-chip supports for the Nasdaq-led green tape.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Nvidia rises **4.11%**, one of the major AI-chip supports for the Nasdaq-led green tape.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Nvidia rises 2.28%, staying comparatively resilient while AMD and TSM sell off sharply.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Nvidia rises 2.28%, staying comparatively resilient while AMD and TSM sell off sharply.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — Nvidia gains **2.28%**, staying positive while AMD and TSM sell off sharply in the semiconductor watch.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — Nvidia gains **2.28%**, staying positive while AMD and TSM sell off sharply in the semiconductor watch.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Nvidia falls **3.86%**, joining AMD and TSM in a broad semiconductor selloff.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Nvidia falls **3.86%**, joining AMD and TSM in a broad semiconductor selloff.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Nvidia falls **3.86%**, participating in the semiconductor-led risk-off read rather than offsetting it.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Nvidia falls 3.86%, joining the semiconductor-led risk-off signal.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Nvidia falls **3.86%**, participating in the semiconductor-led risk-off read rather than offsetting it.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Nvidia falls 3.86%, joining the semiconductor-led risk-off signal.
 
-- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-daytime.md) — Nvidia falls **3.86%**, confirming that even the AI bellwether participates in the semiconductors-led risk-off move.
+- [2026-07-19: Daytime Dispatch — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-daytime.md) — Nvidia falls **3.86%**, confirming that even the AI bellwether participates in the semiconductors-led risk-off move.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Nvidia falls 3.86%, joining AMD and TSM in the semiconductor stress pocket.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Nvidia falls 3.86%, joining AMD and TSM in the semiconductor stress pocket.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Nvidia falls 3.86%, adding to the semiconductor weakness behind the Nasdaq selloff.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Nvidia falls 3.86%, adding to the semiconductor weakness behind the Nasdaq selloff.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Nvidia slips 0.12%, a smaller chip decline than AMD and TSM but still part of the semiconductor stress cluster.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Nvidia is nearly flat but remains part of the watched semiconductor complex while AMD/TSM weaken sharply.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Nvidia slips 0.12%, a smaller chip decline than AMD and TSM but still part of the semiconductor stress cluster.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Nvidia is nearly flat but remains part of the watched semiconductor complex while AMD/TSM weaken sharply.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Nvidia falls 2.13%, keeping AI-chip exposure under pressure in the stock-watch table.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Nvidia falls 2.13%, keeping AI-chip exposure under pressure in the stock-watch table.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Nvidia falls 2.13%, keeping AI-chip exposure on the weak side of the split market tape.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Nvidia falls 2.13%, keeping AI-chip exposure on the weak side of the split market tape.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Nvidia is slightly negative in the stock-watch table, keeping AI-chip leadership uneven during the Nasdaq-led selloff.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Nvidia is slightly negative in the stock-watch table, keeping AI-chip leadership uneven during the Nasdaq-led selloff.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — Nvidia slips 0.21%, a mild semiconductor drag compared with the larger Nasdaq and megacap weakness.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — Nvidia slips 0.21%, a mild semiconductor drag compared with the larger Nasdaq and megacap weakness.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Nvidia edges up 0.66%, staying comparatively resilient while Nasdaq and high-beta tech sell off.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Nvidia is green while the Nasdaq and megacap cohort weaken, preserving semiconductor divergence.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Nvidia edges up 0.66%, staying comparatively resilient while Nasdaq and high-beta tech sell off.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Nvidia is green while the Nasdaq and megacap cohort weaken, preserving semiconductor divergence.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Nvidia gains 1.99% and joins Microsoft/Meta warning against overregulating open-weight models.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Nvidia gains 1.99% and joins Microsoft/Meta warning against overregulating open-weight models.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Gains 1.99%, helping keep the tape selective rather than uniformly anti-AI-chip.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Gains 1.99%, helping keep the tape selective rather than uniformly anti-AI-chip.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Gains 1.99%, helping keep the market move selective rather than uniform liquidation.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Gains 1.99%, helping keep the market move selective rather than uniform liquidation.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Nvidia gains 1.99%, keeping AI-chip leadership resilient while the Nasdaq sells off.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Nvidia gains 1.99%, keeping AI-chip leadership green while the Nasdaq sells off.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Nvidia gains 1.99%, keeping AI-chip leadership resilient while the Nasdaq sells off.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Nvidia gains 1.99%, keeping AI-chip leadership green while the Nasdaq sells off.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Nvidia gains +1.99% while broader growth names are under pressure.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Nvidia gains +1.99% while broader growth names are under pressure.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Nvidia falls 3.33% and is tied to potential OpenAI circular-financing worries.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Nvidia falls 3.33% and is tied to potential OpenAI circular-financing worries.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Falls **-3.33%** and is tied to OpenAI deal/circular AI-spending concerns.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Falls **-3.33%** and is tied to OpenAI deal/circular AI-spending concerns.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Falls 4.96% as AI-chip weakness drives the risk-off tape.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Falls 4.96% as AI-chip weakness drives the risk-off tape.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Nvidia falls 9.78%, keeping AI-chip exposure at the center of market stress.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Nvidia falls 9.78%, keeping AI-chip exposure at the center of market stress.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
-- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-midnight.md) — Falls 10.40%, keeping AI-chip exposure at the center of the risk-off tape.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — Falls 10.40%, confirming that the selloff is centered on AI-chip leaders rather than only one semiconductor name.
+- [2026-07-30: Midnight Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-midnight.md) — Falls 10.40%, keeping AI-chip exposure at the center of the risk-off tape.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — Falls 10.40%, confirming that the selloff is centered on AI-chip leaders rather than only one semiconductor name.
 
 ## Related
 

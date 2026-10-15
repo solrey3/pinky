@@ -15,7 +15,7 @@ The Minnesota Vikings are an NFL franchise in the newsletter sports watchlist.
 
 ## Sources
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — The Vikings appear through the reported Jamal Adams signing.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — The Vikings appear through the reported Jamal Adams signing.
 
 ## Related
 

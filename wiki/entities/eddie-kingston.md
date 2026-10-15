@@ -15,7 +15,7 @@ Eddie Kingston is tracked as a pro wrestler whose schedule and international com
 
 ## Sources
 
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Fightful reported that Kingston would miss a Beyond Wrestling event because of a CMLL commitment.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Fightful reported that Kingston would miss a Beyond Wrestling event because of a CMLL commitment.
 
 ## Related
 

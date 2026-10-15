@@ -15,11 +15,11 @@ NBA franchise; appears here through Draymond Green's reported return.
 
 ## Sources
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — Golden State brings back Gary Payton II on a veteran-minimum deal, preserving a defensive-depth note.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — Golden State brings back Gary Payton II on a veteran-minimum deal, preserving a defensive-depth note.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — The Warriors bring back Gary Payton II on a veteran-minimum deal.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — The Warriors bring back Gary Payton II on a veteran-minimum deal.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Appear through Draymond Green's reported one-year return.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Appear through Draymond Green's reported one-year return.
 
 ## Related
 

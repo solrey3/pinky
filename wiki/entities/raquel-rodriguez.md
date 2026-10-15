@@ -15,9 +15,9 @@ Raquel Rodriguez is a WWE wrestler tracked in the wrestling-calendar and title-r
 
 ## Sources
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — WWE Raw coverage notes Rodriguez winning the Women’s Intercontinental Title on the SummerSlam go-home show.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — WWE Raw coverage notes Rodriguez winning the Women’s Intercontinental Title on the SummerSlam go-home show.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Raw result notes her Women’s Intercontinental Title win.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Raw result notes her Women’s Intercontinental Title win.
 
 ## Related
 

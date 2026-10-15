@@ -15,7 +15,7 @@ A digital platform for medical professionals, tracked here for healthcare techno
 
 ## Sources
 
-- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-noon.md) — Its shares rise 50% amid investor enthusiasm about medical AI.
+- [2026-08-07: Noon Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-noon.md) — Its shares rise 50% amid investor enthusiasm about medical AI.
 
 ## Related
 

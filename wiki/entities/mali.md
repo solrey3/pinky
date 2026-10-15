@@ -15,7 +15,7 @@ West African country. In the newsletter stream, Mali appears as a possible targe
 
 ## Sources
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — The dispatch notes reporting that Donald Trump is weighing military strikes on a Mali militant group, broadening the military-action thread beyond the Iran/Hormuz file.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — The dispatch notes reporting that Donald Trump is weighing military strikes on a Mali militant group, broadening the military-action thread beyond the Iran/Hormuz file.
 
 ## Related
 

@@ -14,43 +14,43 @@ Immigration enforcement escalation is the expansion of migration control from bo
 
 ## Sources
 
-- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletter-2026-10-09-noon.md) — A reported restriction on Microsoft's sponsorship of foreign workers for permanent residency extends enforcement into employer-mediated skilled-labor pathways.
+- [2026-10-09: Noon Dispatch — Friday, October 9, 2026](../sources/newsletters/newsletter-2026-10-09-noon.md) — A reported restriction on Microsoft's sponsorship of foreign workers for permanent residency extends enforcement into employer-mediated skilled-labor pathways.
 
-- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletter-2026-10-02-noon.md) — Reported DHS payments to local police for immigration arrests use fiscal incentives to expand federal enforcement capacity through local agencies.
+- [2026-10-02: Noon Dispatch — Friday, October 2, 2026](../sources/newsletters/newsletter-2026-10-02-noon.md) — Reported DHS payments to local police for immigration arrests use fiscal incentives to expand federal enforcement capacity through local agencies.
 
-- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletter-2026-09-27-evening.md) — DHS announces a nationwide surge focused on jurisdictions labeled “sanctuary” cities, broadening enforcement from discrete operations toward a coordinated national footprint.
+- [2026-09-27: Evening Brief — Sunday, September 27, 2026](../sources/newsletters/newsletter-2026-09-27-evening.md) — DHS announces a nationwide surge focused on jurisdictions labeled “sanctuary” cities, broadening enforcement from discrete operations toward a coordinated national footprint.
 
-- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletter-2026-09-22-midnight.md) — A judge reportedly blocks warrantless ICE construction-site raids after repeated arrests of a U.S. citizen, emphasizing individualized process and constitutional limits.
+- [2026-09-22: Midnight Dispatch — Tuesday, September 22, 2026](../sources/newsletters/newsletter-2026-09-22-midnight.md) — A judge reportedly blocks warrantless ICE construction-site raids after repeated arrests of a U.S. citizen, emphasizing individualized process and constitutional limits.
 
-- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — A federal court reportedly blocks deportation based on protected speech, reinforcing constitutional limits on removal authority.
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-noon.md) — A federal court reportedly blocks deportation based on protected speech, reinforcing constitutional limits on removal authority.
 
-- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-daytime.md) — A federal court reportedly holds that protected speech cannot justify deporting noncitizens.
+- [2026-08-30: Morning Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-daytime.md) — A federal court reportedly holds that protected speech cannot justify deporting noncitizens.
 
-- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletter-2026-08-30-midnight.md) — A federal court reportedly holds that deportation based on protected speech violates the First Amendment.
+- [2026-08-30: Midnight Dispatch — Sunday, August 30, 2026](../sources/newsletters/newsletter-2026-08-30-midnight.md) — A federal court reportedly holds that deportation based on protected speech violates the First Amendment.
 
-- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletter-2026-08-29-daytime.md) — Robotic-dog procurement and proposed rapid H-1B removals combine expanded capability with compressed process.
+- [2026-08-29: Morning Dispatch — Saturday, August 29, 2026](../sources/newsletters/newsletter-2026-08-29-daytime.md) — Robotic-dog procurement and proposed rapid H-1B removals combine expanded capability with compressed process.
 
-- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletter-2026-08-22-daytime.md) — Expanding military arrest authority in designated southern-border areas blurs migration control and domestic military power.
+- [2026-08-22: Morning Dispatch — Saturday, August 22, 2026](../sources/newsletters/newsletter-2026-08-22-daytime.md) — Expanding military arrest authority in designated southern-border areas blurs migration control and domestic military power.
 
-- [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletter-2026-08-21-noon.md) — ICE begins deporting Haitians after temporary protections end, connecting status expiration directly to removal operations.
+- [2026-08-21: Noon Dispatch — Friday, August 21, 2026](../sources/newsletters/newsletter-2026-08-21-noon.md) — ICE begins deporting Haitians after temporary protections end, connecting status expiration directly to removal operations.
 
-- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-noon.md) — A government search for migrant children amid mounting deportations highlights family-integrity, recordkeeping, and due-process risk.
+- [2026-08-17: Noon Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-noon.md) — A government search for migrant children amid mounting deportations highlights family-integrity, recordkeeping, and due-process risk.
 
-- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletter-2026-08-17-daytime.md) — Government efforts to locate migrant children amid mounting deportations expose family-integrity, recordkeeping, legal-representation, and due-process risks.
+- [2026-08-17: Morning Dispatch — Monday, August 17, 2026](../sources/newsletters/newsletter-2026-08-17-daytime.md) — Government efforts to locate migrant children amid mounting deportations expose family-integrity, recordkeeping, legal-representation, and due-process risks.
 
-- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletter-2026-08-16-evening.md) — Government efforts to locate migrant children amid expanding deportations expose child-tracking, family-integrity, legal-representation, and due-process risks.
+- [2026-08-16: Evening Brief — Sunday, August 16, 2026](../sources/newsletters/newsletter-2026-08-16-evening.md) — Government efforts to locate migrant children amid expanding deportations expose child-tracking, family-integrity, legal-representation, and due-process risks.
 
-- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletter-2026-08-07-midnight.md) — A funding lapse disrupts legal assistance for children navigating immigration court.
+- [2026-08-07: Midnight Dispatch — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-midnight.md) — A funding lapse disrupts legal assistance for children navigating immigration court.
 
-- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-evening.md) — An Army staff sergeant’s wife is detained by ICE while a funding lapse disrupts legal aid for immigrant children.
+- [2026-08-06: Evening Brief — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-evening.md) — An Army staff sergeant’s wife is detained by ICE while a funding lapse disrupts legal aid for immigrant children.
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — The second Delaney Hall death turns immigration detention into an oversight and custody-accountability story.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — The doctor-visa carveout shows how broad immigration freezes create operational exceptions when health-care staffing is threatened.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — The doctor-visa carveout shows broad immigration restrictions producing labor-market exceptions in health care.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — The second Delaney Hall death turns immigration detention into an oversight and custody-accountability story.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — The doctor-visa carveout shows how broad immigration freezes create operational exceptions when health-care staffing is threatened.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — The doctor-visa carveout shows broad immigration restrictions producing labor-market exceptions in health care.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Doctor visa-freeze carve-outs show how broad immigration restrictions create sector-specific labor exceptions.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Doctor visa-freeze carve-outs show how broad immigration restrictions create sector-specific labor exceptions.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — ICE expansion across airports and Italy/Spain/Ceuta border restrictions frame migration enforcement as spreading through travel nodes and borders.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — ICE expansion across airports and Italy/Spain/Ceuta border restrictions frame migration enforcement as spreading through travel nodes and borders.
 
 ## Related Concepts
 

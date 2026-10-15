@@ -15,40 +15,40 @@ Remco Evenepoel is a professional cyclist tracked through Tour de France stage a
 
 ## Sources
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Finishes second in the recorded 2026 Tour de France general classification.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Finishes second in the recorded 2026 Tour de France general classification.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Finishes second in the men’s Tour de France general classification, 6:26 behind Tadej Pogačar.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — Finishes second in the men’s Tour de France general classification, 6:26 behind Tadej Pogačar.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Finishes second in the Tour de France general classification, 6:26 behind Tadej Pogačar.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Finishes second in the Tour de France general classification, 6:26 behind Tadej Pogačar.
 
-- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletter-2026-08-06-midnight.md) — Recorded as runner-up in the completed men’s Tour general classification.
+- [2026-08-06: Midnight Dispatch — Thursday, August 6, 2026](../sources/newsletters/newsletter-2026-08-06-midnight.md) — Recorded as runner-up in the completed men’s Tour general classification.
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Listed second in the Tour de France general classification.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Listed second in the Tour de France GC top five.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Listed second in the Tour de France general classification.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Listed second in the Tour de France GC top five.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Appears second in the fetched Tour de France GC top five.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Appears second in the fetched Tour de France GC top five.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Evenepoel wins Tour de France Stage 15 and sits second overall, five minutes behind Tadej Pogacar.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Evenepoel wins Tour de France Stage 15 and sits second overall, five minutes behind Tadej Pogacar.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — Evenepoel wins Tour de France Stage 15 and moves second on GC behind Tadej Pogacar.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — Evenepoel wins Tour de France Stage 15 and moves second on GC behind Tadej Pogacar.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Evenepoel wins Tour de France Stage 15 in 04h 23' 09'' and sits second on GC.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — Evenepoel is the Tour de France Stage 16 watch as he chases Pogačar in the solo time trial after leading Stage 15.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Evenepoel wins Tour de France Stage 15 in 04h 23' 09'' and sits second on GC.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — Evenepoel is the Tour de France Stage 16 watch as he chases Pogačar in the solo time trial after leading Stage 15.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Evenepoel wins Tour de France Stage 16 and sits second on GC, 4'32'' behind Pogacar.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Evenepoel wins Tour de France Stage 16 and sits second on GC, 4'32'' behind Pogacar.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Evenepoel wins Tour de France Stage 16 and sits second on GC, maintaining pressure behind Tadej Pogacar.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Evenepoel wins Tour de France Stage 16 and sits second on GC, maintaining pressure behind Tadej Pogacar.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Evenepoel remains second on Tour de France GC, 4:32 behind Tadej Pogacar after Stage 17.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Evenepoel remains second on Tour de France GC, 4:32 behind Tadej Pogacar after Stage 17.
 
-- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-evening.md) — Listed second on Tour de France GC at +4:32 behind Tadej Pogacar after Stage 18.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Evenepoel remains in the Tour de France GC top five, keeping him in the cycling standings thread.
+- [2026-07-23: Evening Brief — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-evening.md) — Listed second on Tour de France GC at +4:32 behind Tadej Pogacar after Stage 18.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Evenepoel remains in the Tour de France GC top five, keeping him in the cycling standings thread.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Evenepoel remains second on Tour de France GC, 7:11 behind Pogačar.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Evenepoel remains second on Tour de France GC, 7:11 behind Pogačar.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Sits second in Tour de France general classification at **+6'26"**.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Sits second in Tour de France general classification at **+6'26"**.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Listed second on Tour de France GC, 6:26 behind Pogacar.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Listed second on Tour de France GC, 6:26 behind Pogacar.
 
 ## Related
 

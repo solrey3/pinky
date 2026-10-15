@@ -15,9 +15,9 @@ Spanish enclave on the North African coast bordering Morocco; appears here as a 
 
 ## Sources
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — The Ceuta migrant crisis becomes the trigger for reported Italy/Spain Schengen and border disruption.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — The Ceuta migrant crisis becomes the trigger for reported Italy/Spain Schengen and border disruption.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — The migrant-crisis flashpoint driving Italy’s reported travel restrictions with Spain.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — The migrant-crisis flashpoint driving Italy’s reported travel restrictions with Spain.
 
 ## Related
 

@@ -15,7 +15,7 @@ South Asian country and major technology, space, and geopolitical actor. In the 
 
 ## Sources
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — India's first privately developed rocket reportedly reaches orbit on debut, adding private launch capability to the space-infrastructure competition thread.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — India's first privately developed rocket reportedly reaches orbit on debut, adding private launch capability to the space-infrastructure competition thread.
 
 ## Related
 

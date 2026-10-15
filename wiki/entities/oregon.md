@@ -15,7 +15,7 @@ Oregon is tracked here as a U.S. state appearing in legal, policy, and trade-aut
 
 ## Sources
 
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — Reason frames Oregon as leading a twenty-five-state lawsuit challenging Trump's Section 301 tariffs.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — Reason frames Oregon as leading a twenty-five-state lawsuit challenging Trump's Section 301 tariffs.
 
 ## Related
 

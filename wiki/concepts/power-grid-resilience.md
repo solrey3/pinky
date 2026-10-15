@@ -14,31 +14,31 @@ Power grid resilience is the ability of electrical systems to maintain or restor
 
 ## Sources
 
-- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletter-2026-10-05-midnight.md) — Again frames electrification as constrained by engineering, equipment, grid capacity, deployment, and policy rather than demand alone.
+- [2026-10-05: Midnight Dispatch — Monday, October 5, 2026](../sources/newsletters/newsletter-2026-10-05-midnight.md) — Again frames electrification as constrained by engineering, equipment, grid capacity, deployment, and policy rather than demand alone.
 
-- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-evening.md) — Reiterates that electrification depends on wiring, supply, grid capacity, deployment, and policy rather than end-user demand alone.
+- [2026-10-04: Evening Brief — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-evening.md) — Reiterates that electrification depends on wiring, supply, grid capacity, deployment, and policy rather than end-user demand alone.
 
-- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletter-2026-10-04-noon.md) — Frames electrification as an infrastructure challenge involving generation, transmission, distribution, deployment, and permitting capacity.
+- [2026-10-04: Noon Dispatch — Sunday, October 4, 2026](../sources/newsletters/newsletter-2026-10-04-noon.md) — Frames electrification as an infrastructure challenge involving generation, transmission, distribution, deployment, and permitting capacity.
 
-- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletter-2026-09-03-noon.md) — Abuja's workarounds around chronic blackouts show household and business adaptation when grid reliability remains structurally weak.
+- [2026-09-03: Noon Dispatch — Thursday, September 3, 2026](../sources/newsletters/newsletter-2026-09-03-noon.md) — Abuja's workarounds around chronic blackouts show household and business adaptation when grid reliability remains structurally weak.
 
-- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-evening.md) — Texas data-center connection limits show grid planning becoming the bottleneck for AI/compute expansion.
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Greg Abbott/Texas data-center construction limits make grid hookup capacity a constraint on AI-infrastructure growth.
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — Department of Energy emergency orders for the Mid-Atlantic grid during extreme heat make weather, demand, generation, and emergency authority part of the same infrastructure story.
+- [2026-08-04: Evening Brief — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-evening.md) — Texas data-center connection limits show grid planning becoming the bottleneck for AI/compute expansion.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Greg Abbott/Texas data-center construction limits make grid hookup capacity a constraint on AI-infrastructure growth.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — Department of Energy emergency orders for the Mid-Atlantic grid during extreme heat make weather, demand, generation, and emergency authority part of the same infrastructure story.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — Google's AI-driven electricity-use increase adds structural data-center load growth to the grid-resilience thread alongside heat-wave emergency stress.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — Google's AI-driven electricity-use increase adds structural data-center load growth to the grid-resilience thread alongside heat-wave emergency stress.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — Consumer AC demand and online/data demand are explicitly framed as combined stressors on the Northeast power grid.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — Consumer AC demand and online/data demand are explicitly framed as combined stressors on the Northeast power grid.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — Data-center electricity demand is tied to regional power-bill pressure and construction-site theft, linking digital infrastructure growth to grid capacity and physical supply-chain security.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — Data-center electricity demand is tied to regional power-bill pressure and construction-site theft, linking digital infrastructure growth to grid capacity and physical supply-chain security.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Electricity-price politics, wildfire attribution, WTI +7.08%, gas above $4, and household energy costs keep grid/energy resilience in the affordability and climate-stress frame.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Electricity-price politics, wildfire attribution, WTI +7.08%, gas above $4, and household energy costs keep grid/energy resilience in the affordability and climate-stress frame.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Electricity-price politics, WTI +7.10%, gasoline prices, weather, and utility bills connect energy infrastructure to affordability risk.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Electricity-price politics, WTI +7.10%, gasoline prices, weather, and utility bills connect energy infrastructure to affordability risk.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — The central-U.S. heat dome, elevated energy costs, and wildfire disruptions keep weather stress tied to infrastructure reliability and household affordability.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — The central-U.S. heat dome, elevated energy costs, and wildfire disruptions keep weather stress tied to infrastructure reliability and household affordability.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Data-center power-plant exemptions make AI compute growth a grid, generation, and pollution-control issue rather than a purely digital one.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Data-center power-plant exemptions make AI compute growth a grid, generation, and pollution-control issue rather than a purely digital one.
 
 ## Related Concepts
 

@@ -15,7 +15,7 @@ John Marino is an NHL defenseman tracked in the newsletter when contract, roster
 
 ## Sources
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — The sports wire notes Marino signing an eight-year, $54 million extension with the Mammoth, adding a hockey-contract datapoint to the daily sports ledger.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — The sports wire notes Marino signing an eight-year, $54 million extension with the Mammoth, adding a hockey-contract datapoint to the daily sports ledger.
 
 ## Related
 

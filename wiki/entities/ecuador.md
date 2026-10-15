@@ -15,7 +15,7 @@ Ecuador is tracked here as the country context for the U.S. terrorist designatio
 
 ## Sources
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — The U.S. designates Ecuador's Chone Killers gang as a terrorist organization, adding South American gang violence to the geopolitical/security feed.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — The U.S. designates Ecuador's Chone Killers gang as a terrorist organization, adding South American gang violence to the geopolitical/security feed.
 
 ## Related
 

@@ -43,7 +43,7 @@ The pattern has three layers:
 ## Sources
 
 - [2026-05-09: LLM Wiki — A Pattern for Building Personal Knowledge Bases Using LLMs](../sources/karpathy-llm-wiki-pattern.md) — Original proposal.
-- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-evening.md) — OpenKnowledge appears as an open-source AI-first alternative to Obsidian/Notion, showing that LLM-native knowledge bases are becoming a visible product category.
+- [2026-06-25: Evening Brief — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-evening.md) — OpenKnowledge appears as an open-source AI-first alternative to Obsidian/Notion, showing that LLM-native knowledge bases are becoming a visible product category.
 
 ## Related Concepts
 

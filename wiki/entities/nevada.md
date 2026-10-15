@@ -15,7 +15,7 @@ Nevada is a U.S. state in the Colorado River basin. In the wiki it is tracked wh
 
 ## Sources
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — Listed among the states facing proposed federal Colorado River water-use cuts.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — Listed among the states facing proposed federal Colorado River water-use cuts.
 
 ## Related
 

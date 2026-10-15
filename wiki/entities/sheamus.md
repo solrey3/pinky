@@ -35,13 +35,13 @@ source_count: 5
 ## Sources
 
 - [2026-05-27: Raw notes](../../raw/people/sheamus.md)
-- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletter-2026-06-05.md) — **Sheamus reportedly training at the WWE Performance Center** (per Cageside Seats) — WWE return incoming after shoulder injury recovery.
+- [2026-06-05: Newsletter 2026-06-05 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-05.md) — **Sheamus reportedly training at the WWE Performance Center** (per Cageside Seats) — WWE return incoming after shoulder injury recovery.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Reportedly set to leave WWE after rejecting a restructured contract extension, shifting the Sheamus node from return-watch to free-agency/exit-watch.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Reportedly set to leave WWE after rejecting a restructured contract extension, shifting the Sheamus node from return-watch to free-agency/exit-watch.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — A fresh report says Sheamus will exit WWE after rejecting a restructured extension, repeating the contract-break state change.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — A fresh report says Sheamus will exit WWE after rejecting a restructured extension, repeating the contract-break state change.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Sheamus is reported still under WWE contract but approaching October 1 free agency.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Sheamus is reported still under WWE contract but approaching October 1 free agency.
 
 ## Related
 

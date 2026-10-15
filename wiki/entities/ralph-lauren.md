@@ -15,64 +15,64 @@ Ralph Lauren is tracked as a consumer-discretionary and apparel-market indicator
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — RL is little changed positive in the stock-watch table.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — Appears in stock watch as part of the broader consumer/equity ledger.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — RL rises 1.81%, one of the consumer-discretionary positives in the stock watch.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — RL is little changed positive in the stock-watch table.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — Appears in stock watch as part of the broader consumer/equity ledger.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — RL rises 1.81%, one of the consumer-discretionary positives in the stock watch.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — RL appears as a positive consumer discretionary/apparel name in the stock watch.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — RL appears as a positive consumer discretionary/apparel name in the stock watch.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — Ralph Lauren gains 1.81%, a consumer/retail positive in the stock-watch table.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — Ralph Lauren gains 1.81%, a consumer/retail positive in the stock-watch table.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — Ralph Lauren gains modestly as consumer/discretionary names avoid the chip-led stress.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — Ralph Lauren gains modestly as consumer/discretionary names avoid the chip-led stress.
 
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — RL slips **0.83%**, one of several consumer names that keep the tape from looking fully broad.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — RL slips **0.83%**, one of several consumer names that keep the tape from looking fully broad.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — Ralph Lauren falls 0.83%, adding a discretionary-retail laggard to the market read.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — Ralph Lauren falls 0.83%, adding a discretionary-retail laggard to the market read.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — Ralph Lauren is modestly negative, part of the consumer-stock lag under the headline market strength.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — Ralph Lauren is modestly negative, part of the consumer-stock lag under the headline market strength.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — Ralph Lauren falls **5.51%**, adding consumer-discretionary weakness to the market read.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — Ralph Lauren falls **5.51%**, adding consumer-discretionary weakness to the market read.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — Ralph Lauren drops **5.51%**, keeping discretionary/retail sensitivity visible in the stock-watch table.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — Ralph Lauren drops **5.51%**, keeping discretionary/retail sensitivity visible in the stock-watch table.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — Ralph Lauren drops **6.66%**, the sharpest retail/consumer discretionary weakness on the stock-watch board.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — Ralph Lauren drops **6.66%**, the sharpest retail/consumer discretionary weakness on the stock-watch board.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — Ralph Lauren drops **6.66%**, the clearest consumer/retail warning in the stock-watch table.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — Ralph Lauren drops **6.66%**, the clearest consumer/retail warning in the stock-watch table.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — Ralph Lauren falls **1.65%**, a consumer/retail laggard in an otherwise green market close.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — Ralph Lauren falls **1.65%**, a consumer/retail laggard in an otherwise green market close.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — Ralph Lauren falls **1.65%**, one of the retail-apparel weak spots in the stock watch.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — Ralph Lauren falls **1.65%**, one of the retail-apparel weak spots in the stock watch.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — Ralph Lauren is nearly flat, a consumer-discretionary continuity marker in the evening market table.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — Ralph Lauren is nearly flat, a consumer-discretionary continuity marker in the evening market table.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — Ralph Lauren falls **3.66%**, a consumer discretionary weak spot in the stock-watch table.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — Ralph Lauren falls **3.66%**, a consumer discretionary weak spot in the stock-watch table.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — Ralph Lauren falls **3.66%**, showing that not all retail/apparel exposure participates in the defensive rotation.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — Ralph Lauren falls 3.66%, weaker than the more resilient retail/logistics names.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — Ralph Lauren falls **3.66%**, showing that not all retail/apparel exposure participates in the defensive rotation.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — Ralph Lauren falls 3.66%, weaker than the more resilient retail/logistics names.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — Ralph Lauren falls 3.66%, making retail leadership less uniform than the Target/Costco/UPS pocket.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — Ralph Lauren falls 3.66%, making retail leadership less uniform than the Target/Costco/UPS pocket.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — Ralph Lauren gains 0.53%, keeping select retail/apparel exposure green.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — Ralph Lauren gains 0.53%, keeping select retail/apparel exposure green.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Ralph Lauren gains 3.78%, a retail/apparel positive pocket inside the selective board.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Ralph Lauren gains 3.78%, a retail/apparel positive pocket inside the selective board.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — Ralph Lauren gains 3.78%, preserving the retail/value pocket of resilience.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — Ralph Lauren gains 3.78%, preserving the retail/value pocket of resilience.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — Ralph Lauren gains 3.49%, keeping retail/apparel strength alive inside the risk-off tape.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — Ralph Lauren weakens with retail/consumer names as the July risk-off tape carries forward.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — Ralph Lauren gains 3.49%, keeping retail/apparel strength alive inside the risk-off tape.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — Ralph Lauren weakens with retail/consumer names as the July risk-off tape carries forward.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Ralph Lauren falls 1.81%, softening the earlier retail/value resilience thread.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Ralph Lauren falls 1.81%, softening the earlier retail/value resilience thread.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — Ralph Lauren is lower but remains near the upper half of its 52-week range.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — Ralph Lauren is lower but remains near the upper half of its 52-week range.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Ralph Lauren gains 0.92%, extending the consumer/quality resilience pocket.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Ralph Lauren gains 0.92%, extending the consumer/quality resilience pocket.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Gains **+0.92%**, keeping the retail/quality pocket resilient.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Gains **+0.92%**, keeping the retail/quality pocket resilient.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Softer but near its upper range as the consumer/retail watchlist remains active.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Softer but near its upper range as the consumer/retail watchlist remains active.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — Ralph Lauren falls 3.98%, softening the retail/consumer offset this dispatch.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — Ralph Lauren falls 3.98%, softening the retail/consumer offset this dispatch.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Appears in the Fed Day close, where Nasdaq/AI-chip/high-beta weakness deepens while value, dividend, REIT, and quality pockets stay resilient.
 
 ## Related
 

@@ -15,7 +15,7 @@ A nonprofit education platform founded by [[Sal Khan]], represented here through
 
 ## Sources
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Its founder frames AI tutoring as most effective when educators retain oversight.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Its founder frames AI tutoring as most effective when educators retain oversight.
 
 ## Related
 

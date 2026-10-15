@@ -15,169 +15,169 @@ Consejo Mundial de Lucha Libre, a long-running Mexican professional wrestling pr
 
 ## Sources
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Arena scheduling and a five-star Máscara Dorada–Komander match are recorded.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Arena scheduling and a five-star Máscara Dorada–Komander match are recorded.
 
-- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-midnight.md) — Grand Prix discussion, upcoming Arena México dates, and a five-star Leyenda de Plata match update the promotion ledger.
+- [2026-08-08: Midnight Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-midnight.md) — Grand Prix discussion, upcoming Arena México dates, and a five-star Leyenda de Plata match update the promotion ledger.
 
-- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletter-2026-08-07-evening.md) — Records Máscara Dorada vs. Komander as a five-star match and lists Arena México/Coliseo dates.
+- [2026-08-07: Evening Brief — Friday, August 7, 2026](../sources/newsletters/newsletter-2026-08-07-evening.md) — Records Máscara Dorada vs. Komander as a five-star match and lists Arena México/Coliseo dates.
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Arena México and Sábados de Coliseo cards remain in the wrestling schedule table.
-- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-daytime.md) — CMLL remains in the Arena México schedule/results ledger via Lunes Clásico coverage.
-- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-midnight.md) — Arena México and Sábados de Coliseo schedule windows appear in the wrestling calendar.
-- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletter-2026-08-03-evening.md) — CMLL schedule continuity is joined by a card-change note: Bandido vs. Bárbaro Cavernario is no longer listed as a title match.
-- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-daytime.md) — CMLL calendar and Domingo Familiar results preserve lucha libre continuity.
-- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletter-2026-08-03-midnight.md) — Arena México and Sábados de Coliseo schedule continuity remains in the wrestling calendar.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Arena México and Sábados de Coliseo cards remain in the wrestling schedule table.
+- [2026-08-04: Morning Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-daytime.md) — CMLL remains in the Arena México schedule/results ledger via Lunes Clásico coverage.
+- [2026-08-04: Midnight Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-midnight.md) — Arena México and Sábados de Coliseo schedule windows appear in the wrestling calendar.
+- [2026-08-03: Evening Brief — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-evening.md) — CMLL schedule continuity is joined by a card-change note: Bandido vs. Bárbaro Cavernario is no longer listed as a title match.
+- [2026-08-03: Morning Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-daytime.md) — CMLL calendar and Domingo Familiar results preserve lucha libre continuity.
+- [2026-08-03: Midnight Dispatch — Monday, August 3, 2026](../sources/newsletters/newsletter-2026-08-03-midnight.md) — Arena México and Sábados de Coliseo schedule continuity remains in the wrestling calendar.
 
-- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-evening.md) — CMLL appears through Thunder Rosa winning the Mexican National Women’s Championship and arena/sellout chatter.
+- [2026-08-02: Evening Brief — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-evening.md) — CMLL appears through Thunder Rosa winning the Mexican National Women’s Championship and arena/sellout chatter.
 
-- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-noon.md) — CMLL sellout-record chatter and Arena México calendar items keep the promotion in the wrestling ledger.
+- [2026-08-02: Noon Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-noon.md) — CMLL sellout-record chatter and Arena México calendar items keep the promotion in the wrestling ledger.
 
-- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-daytime.md) — CMLL appears through weekend Arena México/Sábado de Coliseo results and schedule continuity.
+- [2026-08-02: Morning Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-daytime.md) — CMLL appears through weekend Arena México/Sábado de Coliseo results and schedule continuity.
 
-- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletter-2026-08-02-midnight.md) — CMLL remains in the weekly lucha calendar through Arena México dates.
+- [2026-08-02: Midnight Dispatch — Sunday, August 2, 2026](../sources/newsletters/newsletter-2026-08-02-midnight.md) — CMLL remains in the weekly lucha calendar through Arena México dates.
 
-- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-evening.md) — Thunder Rosa winning the Mexican National Women’s Championship keeps CMLL in the title-change and calendar graph.
+- [2026-08-01: Evening Brief — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-evening.md) — Thunder Rosa winning the Mexican National Women’s Championship keeps CMLL in the title-change and calendar graph.
 
-- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletter-2026-08-01-daytime.md) — Leyenda de Plata results and Arena México dates keep CMLL in the lucha calendar thread.
+- [2026-08-01: Morning Dispatch — Saturday, August 1, 2026](../sources/newsletters/newsletter-2026-08-01-daytime.md) — Leyenda de Plata results and Arena México dates keep CMLL in the lucha calendar thread.
 
-- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletter-2026-07-31-evening.md) — CMLL Arena México dates appear in the lucha calendar.
+- [2026-07-31: Evening Brief — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-evening.md) — CMLL Arena México dates appear in the lucha calendar.
 
-- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-noon.md) — CMLL Friday Night and Arena México schedule rows keep the lucha calendar attached to the weekend wrestling board.
-- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletter-2026-07-31-midnight.md) — Keeps Arena México dates and international fight-week title-match context in the wrestling grid.
-- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-evening.md) — CMLL remains in the Arena México/Sábados de Coliseo calendar block.
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — CMLL Arena México dates remain part of the weekly lucha calendar.
-- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletter-2026-06-17.md) — Overnight CMLL Martes de Arena México results were included in the squared-circle digest.
-- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletter-2026-06-18.md) — CMLL announces the 2026 Men's Grand Prix for August 7 at Arena México, keeping the promotion in the summer lucha-libre calendar.
-- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletter-2026-06-18-evening.md) — CMLL/NJPW Fantastica Mania appears among MyAEW additions, connecting CMLL to the AEW/NJPW distribution and crossover ecosystem.
-- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletter-2026-06-19.md) — ROH x CMLL x Stardom Global Wars discussion keeps CMLL in the cross-promotional wrestling ecosystem alongside U.S. and Japanese partners.
-- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletter-2026-06-20.md) — CMLL x NJPW Fantastica Mania Mexico results keep CMLL in the lucha crossover and Japan/Mexico partnership thread.
-- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include CMLL-linked lucha talent alongside AEW and NJPW names, extending the cross-promotional lane.
+- [2026-07-31: Noon Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-noon.md) — CMLL Friday Night and Arena México schedule rows keep the lucha calendar attached to the weekend wrestling board.
+- [2026-07-31: Midnight Dispatch — Friday, July 31, 2026](../sources/newsletters/newsletter-2026-07-31-midnight.md) — Keeps Arena México dates and international fight-week title-match context in the wrestling grid.
+- [2026-07-30: Evening Brief — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-evening.md) — CMLL remains in the Arena México/Sábados de Coliseo calendar block.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — CMLL Arena México dates remain part of the weekly lucha calendar.
+- [2026-06-17: Newsletter 2026-06-17 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-17.md) — Overnight CMLL Martes de Arena México results were included in the squared-circle digest.
+- [2026-06-18: Newsletter 2026-06-18 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-18.md) — CMLL announces the 2026 Men's Grand Prix for August 7 at Arena México, keeping the promotion in the summer lucha-libre calendar.
+- [2026-06-18: Evening Brief — Thursday, June 18, 2026](../sources/newsletters/newsletter-2026-06-18-evening.md) — CMLL/NJPW Fantastica Mania appears among MyAEW additions, connecting CMLL to the AEW/NJPW distribution and crossover ecosystem.
+- [2026-06-19: Newsletter 2026-06-19 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-19.md) — ROH x CMLL x Stardom Global Wars discussion keeps CMLL in the cross-promotional wrestling ecosystem alongside U.S. and Japanese partners.
+- [2026-06-20: Newsletter 2026-06-20 — Morning Dispatch](../sources/newsletters/newsletter-2026-06-20.md) — CMLL x NJPW Fantastica Mania Mexico results keep CMLL in the lucha crossover and Japan/Mexico partnership thread.
+- [2026-06-21: Daytime Dispatch — Sunday, June 21, 2026](../sources/newsletters/newsletter-2026-06-21-daytime.md) — Forbidden Door card additions include CMLL-linked lucha talent alongside AEW and NJPW names, extending the cross-promotional lane.
 
-- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-daytime.md) — CMLL Lunes Clásico results from Arena Puebla keep Mexico-based lucha coverage in the squared-circle digest.
+- [2026-06-23: Daytime Dispatch — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-daytime.md) — CMLL Lunes Clásico results from Arena Puebla keep Mexico-based lucha coverage in the squared-circle digest.
 
-- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletter-2026-06-23-evening.md) — Mistico's challenge for a ROH title in CMLL keeps the promotion in the CMLL/ROH crossover lane.
+- [2026-06-23: Evening Brief — Tuesday, June 23, 2026](../sources/newsletters/newsletter-2026-06-23-evening.md) — Mistico's challenge for a ROH title in CMLL keeps the promotion in the CMLL/ROH crossover lane.
 
-- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletter-2026-06-24-daytime.md) — Martes de Arena México results keep CMLL in the regular lucha-results stream alongside AEW and NXT card/results coverage.
+- [2026-06-24: Daytime Dispatch — Wednesday, June 24, 2026](../sources/newsletters/newsletter-2026-06-24-daytime.md) — Martes de Arena México results keep CMLL in the regular lucha-results stream alongside AEW and NXT card/results coverage.
 
-- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletter-2026-06-25-daytime.md) — CMLL Verano results keep the promotion in the regular lucha-libre results stream.
+- [2026-06-25: Daytime Dispatch — Thursday, June 25, 2026](../sources/newsletters/newsletter-2026-06-25-daytime.md) — CMLL Verano results keep the promotion in the regular lucha-libre results stream.
 
-- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletter-2026-06-26-daytime.md) — CMLL appears through ROH/CMLL/STARDOM Global Wars Cincinnati coverage, reinforcing the promotion's cross-promotional role.
-- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletter-2026-06-27-daytime.md) — Viernes Espectacular results keep CMLL in the regular lucha-libre results stream.
+- [2026-06-26: Daytime Dispatch — Friday, June 26, 2026](../sources/newsletters/newsletter-2026-06-26-daytime.md) — CMLL appears through ROH/CMLL/STARDOM Global Wars Cincinnati coverage, reinforcing the promotion's cross-promotional role.
+- [2026-06-27: Daytime Dispatch — Saturday, June 27, 2026](../sources/newsletters/newsletter-2026-06-27-daytime.md) — Viernes Espectacular results keep CMLL in the regular lucha-libre results stream.
 
-- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-daytime.md) — CMLL remains schedule-relevant through Arena México dates in the weekly wrestling grid.
+- [2026-06-28: Daytime Dispatch — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-daytime.md) — CMLL remains schedule-relevant through Arena México dates in the weekly wrestling grid.
 
-- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletter-2026-06-28-evening.md) — CMLL remains schedule-relevant through Arena México dates in the weekly wrestling grid.
+- [2026-06-28: Evening Brief — Sunday, June 28, 2026](../sources/newsletters/newsletter-2026-06-28-evening.md) — CMLL remains schedule-relevant through Arena México dates in the weekly wrestling grid.
 
-- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletter-2026-06-29-daytime.md) — CMLL remains in the weekly schedule grid through Arena México dates on June 30, July 3, and July 5.
+- [2026-06-29: Daytime Dispatch — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-daytime.md) — CMLL remains in the weekly schedule grid through Arena México dates on June 30, July 3, and July 5.
 
-- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletter-2026-06-29-evening.md) — CMLL appears through Arena México calendar dates and Sábado de Coliseo results from June 27.
+- [2026-06-29: Evening Brief — Monday, June 29, 2026](../sources/newsletters/newsletter-2026-06-29-evening.md) — CMLL appears through Arena México calendar dates and Sábado de Coliseo results from June 27.
 
-- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-daytime.md) — Arena México dates keep CMLL in the recurring weekly lucha calendar.
+- [2026-06-30: Daytime Dispatch — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-daytime.md) — Arena México dates keep CMLL in the recurring weekly lucha calendar.
 
-- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletter-2026-06-30-evening.md) — Arena México and Sábados de Coliseo dates keep CMLL in the weekly lucha calendar.
+- [2026-06-30: Evening Brief — Tuesday, June 30, 2026](../sources/newsletters/newsletter-2026-06-30-evening.md) — Arena México and Sábados de Coliseo dates keep CMLL in the weekly lucha calendar.
 
-- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-daytime.md) — Arena México dates keep CMLL in the weekly lucha calendar.
+- [2026-07-01: Daytime Dispatch — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-daytime.md) — Arena México dates keep CMLL in the weekly lucha calendar.
 
-- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletter-2026-07-01-evening.md) — CMLL remains active through Arena México listings and the lucha calendar alongside AAA/NJPW coverage.
+- [2026-07-01: Evening Brief — Wednesday, July 1, 2026](../sources/newsletters/newsletter-2026-07-01-evening.md) — CMLL remains active through Arena México listings and the lucha calendar alongside AAA/NJPW coverage.
 
-- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-daytime.md) — CMLL remains in the promotion calendar through Arena México cards across July 3–7.
+- [2026-07-02: Daytime Dispatch — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-daytime.md) — CMLL remains in the promotion calendar through Arena México cards across July 3–7.
 
-- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletter-2026-07-02-evening.md) — CMLL remains active through Arena México dates and Grand Prix name announcements including PAC, DOUKI, and Austin Aries.
+- [2026-07-02: Evening Brief — Thursday, July 2, 2026](../sources/newsletters/newsletter-2026-07-02-evening.md) — CMLL remains active through Arena México dates and Grand Prix name announcements including PAC, DOUKI, and Austin Aries.
 
-- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletter-2026-07-03-daytime.md) — CMLL Arena México and Sábados de Coliseo dates keep the lucha calendar active.
+- [2026-07-03: Daytime Dispatch — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-daytime.md) — CMLL Arena México and Sábados de Coliseo dates keep the lucha calendar active.
 
-- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletter-2026-07-03-evening.md) — CMLL remains in the Arena México calendar and Forbidden Door promotional mix.
+- [2026-07-03: Evening Brief — Friday, July 3, 2026](../sources/newsletters/newsletter-2026-07-03-evening.md) — CMLL remains in the Arena México calendar and Forbidden Door promotional mix.
 
-- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletter-2026-07-04-daytime.md) — CMLL appears through Arena México scheduling and live discussion-thread coverage, keeping the Mexico calendar active.
+- [2026-07-04: Daytime Dispatch — Saturday, July 4, 2026](../sources/newsletters/newsletter-2026-07-04-daytime.md) — CMLL appears through Arena México scheduling and live discussion-thread coverage, keeping the Mexico calendar active.
 
-- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-daytime.md) — CMLL remains in the weekly calendar through Arena México and Sábados de Coliseo listings.
+- [2026-07-05: Daytime Dispatch — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-daytime.md) — CMLL remains in the weekly calendar through Arena México and Sábados de Coliseo listings.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — CMLL remains in the weekly Arena México/Sábados de Coliseo calendar, with Flip Gordon style-adjustment comments adding a talent-development note.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — CMLL remains in the weekly Arena México/Sábados de Coliseo calendar, with Flip Gordon style-adjustment comments adding a talent-development note.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Arena México and Sábados de Coliseo scheduling plus CMLL results keep the lucha calendar active.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Arena México and Sábados de Coliseo scheduling plus CMLL results keep the lucha calendar active.
 
-- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-daytime.md) — CMLL remains in the weekly calendar, while Rey Bucanero announces departure after 34 years.
+- [2026-07-07: Daytime Dispatch — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-daytime.md) — CMLL remains in the weekly calendar, while Rey Bucanero announces departure after 34 years.
 
-- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletter-2026-07-07-evening.md) — CMLL appears through Arena México scheduling and a Místico tag-title defense / Claudio vs. Blue Panther item, reinforcing the AEW/ROH/CMLL crossover lane.
+- [2026-07-07: Evening Brief — Tuesday, July 7, 2026](../sources/newsletters/newsletter-2026-07-07-evening.md) — CMLL appears through Arena México scheduling and a Místico tag-title defense / Claudio vs. Blue Panther item, reinforcing the AEW/ROH/CMLL crossover lane.
 
-- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-daytime.md) — CMLL Arena México dates and the ROH tag-title bout keep CMLL central to the cross-promotional calendar.
+- [2026-07-08: Daytime Dispatch — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-daytime.md) — CMLL Arena México dates and the ROH tag-title bout keep CMLL central to the cross-promotional calendar.
 
-- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletter-2026-07-08-evening.md) — CMLL Arena México and Sábados de Coliseo dates keep the lucha calendar active.
+- [2026-07-08: Evening Brief — Wednesday, July 8, 2026](../sources/newsletters/newsletter-2026-07-08-evening.md) — CMLL Arena México and Sábados de Coliseo dates keep the lucha calendar active.
 
-- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-daytime.md) — CMLL updates include Men's Grand Prix participants and Persephone vs. Tessa Blanchard set for July 31.
+- [2026-07-09: Daytime Dispatch — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-daytime.md) — CMLL updates include Men's Grand Prix participants and Persephone vs. Tessa Blanchard set for July 31.
 
-- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletter-2026-07-09-evening.md) — CMLL remains in the wrestling calendar through Arena México Friday/Sunday/Tuesday schedule notes.
+- [2026-07-09: Evening Brief — Thursday, July 9, 2026](../sources/newsletters/newsletter-2026-07-09-evening.md) — CMLL remains in the wrestling calendar through Arena México Friday/Sunday/Tuesday schedule notes.
 
-- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletter-2026-07-10-daytime.md) — CMLL remains in the Arena México schedule and cross-promotion context alongside AEW/NJPW/STARDOM/Forbidden Door notes.
+- [2026-07-10: Daytime Dispatch — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-daytime.md) — CMLL remains in the Arena México schedule and cross-promotion context alongside AEW/NJPW/STARDOM/Forbidden Door notes.
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — CMLL calendar entries keep Arena México and Sábados de Coliseo in the weekly wrestling schedule.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — CMLL calendar entries keep Arena México and Sábados de Coliseo in the weekly wrestling schedule.
 
-- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-daytime.md) — CMLL appears through Sábados/Arena México schedule windows and Viernes Espectacular results.
+- [2026-07-11: Daytime Dispatch — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-daytime.md) — CMLL appears through Sábados/Arena México schedule windows and Viernes Espectacular results.
 
-- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletter-2026-07-11-evening.md) — CMLL remains in the calendar through Arena México and Sábados de Coliseo listings.
-- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-daytime.md) — CMLL remains on the Arena México and Sábados de Coliseo calendar in the weekly wrestling schedule.
+- [2026-07-11: Evening Brief — Saturday, July 11, 2026](../sources/newsletters/newsletter-2026-07-11-evening.md) — CMLL remains in the calendar through Arena México and Sábados de Coliseo listings.
+- [2026-07-12: Daytime Dispatch — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-daytime.md) — CMLL remains on the Arena México and Sábados de Coliseo calendar in the weekly wrestling schedule.
 
-- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletter-2026-07-12-evening.md) — CMLL remains on the Arena México/Sábados de Coliseo schedule table.
+- [2026-07-12: Evening Brief — Sunday, July 12, 2026](../sources/newsletters/newsletter-2026-07-12-evening.md) — CMLL remains on the Arena México/Sábados de Coliseo schedule table.
 
-- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletter-2026-07-13-daytime.md) — CMLL's Arena México schedule and roundup coverage keep lucha libre in the weekly wrestling graph.
+- [2026-07-13: Daytime Dispatch — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-daytime.md) — CMLL's Arena México schedule and roundup coverage keep lucha libre in the weekly wrestling graph.
 
-- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletter-2026-07-13-evening.md) — CMLL remains in the weekly calendar board and in the AEW/NJPW/Stardom/CMLL ratings context.
+- [2026-07-13: Evening Brief — Monday, July 13, 2026](../sources/newsletters/newsletter-2026-07-13-evening.md) — CMLL remains in the weekly calendar board and in the AEW/NJPW/Stardom/CMLL ratings context.
 
-- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-daytime.md) — CMLL remains in the Arena México/Sábados de Coliseo calendar block for July 14, 17, 18, and 19.
+- [2026-07-14: Daytime Dispatch — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-daytime.md) — CMLL remains in the Arena México/Sábados de Coliseo calendar block for July 14, 17, 18, and 19.
 
-- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletter-2026-07-14-evening.md) — CMLL remains in the weekly Arena México/Arena Puebla calendar and Mask vs. Mask headline file.
+- [2026-07-14: Evening Brief — Tuesday, July 14, 2026](../sources/newsletters/newsletter-2026-07-14-evening.md) — CMLL remains in the weekly Arena México/Arena Puebla calendar and Mask vs. Mask headline file.
 
-- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-daytime.md) — CMLL remains in the Arena México/Sábados de Coliseo calendar and discussion-thread feed.
+- [2026-07-15: Daytime Dispatch — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-daytime.md) — CMLL remains in the Arena México/Sábados de Coliseo calendar and discussion-thread feed.
 
-- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletter-2026-07-15-evening.md) — CMLL appears through Arena México dates and Martes de Arena México results coverage.
+- [2026-07-15: Evening Brief — Wednesday, July 15, 2026](../sources/newsletters/newsletter-2026-07-15-evening.md) — CMLL appears through Arena México dates and Martes de Arena México results coverage.
 
-- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-daytime.md) — CMLL remains on the Arena México calendar and Grand Prix participant-update headline.
+- [2026-07-16: Daytime Dispatch — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-daytime.md) — CMLL remains on the Arena México calendar and Grand Prix participant-update headline.
 
-- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletter-2026-07-16-evening.md) — CMLL remains on the Arena México weekly calendar.
+- [2026-07-16: Evening Brief — Thursday, July 16, 2026](../sources/newsletters/newsletter-2026-07-16-evening.md) — CMLL remains on the Arena México weekly calendar.
 
-- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletter-2026-07-17-daytime.md) — CMLL's Arena México and Sábados de Coliseo dates remain on the wrestling calendar.
+- [2026-07-17: Daytime Dispatch — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-daytime.md) — CMLL's Arena México and Sábados de Coliseo dates remain on the wrestling calendar.
 
-- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletter-2026-07-17-evening.md) — CMLL's Arena México and Sábados de Coliseo schedule remains in the calendar verification table.
+- [2026-07-17: Evening Brief — Friday, July 17, 2026](../sources/newsletters/newsletter-2026-07-17-evening.md) — CMLL's Arena México and Sábados de Coliseo schedule remains in the calendar verification table.
 
-- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-daytime.md) — CMLL remains active through Arena México scheduling, Viernes Espectacular results, and the Meltzer/Arena México feed item.
-- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletter-2026-07-18-evening.md) — CMLL remains part of the Arena México and weekly event calendar.
+- [2026-07-18: Daytime Dispatch — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-daytime.md) — CMLL remains active through Arena México scheduling, Viernes Espectacular results, and the Meltzer/Arena México feed item.
+- [2026-07-18: Evening Brief — Saturday, July 18, 2026](../sources/newsletters/newsletter-2026-07-18-evening.md) — CMLL remains part of the Arena México and weekly event calendar.
 
-- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletter-2026-07-19-evening.md) — CMLL remains in the Arena México/Sábados de Coliseo weekly schedule lane.
+- [2026-07-19: Evening Brief — Sunday, July 19, 2026](../sources/newsletters/newsletter-2026-07-19-evening.md) — CMLL remains in the Arena México/Sábados de Coliseo weekly schedule lane.
 
-- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletter-2026-07-20-daytime.md) — CMLL Domingo Familiar results and weekly Arena México dates keep lucha libre in the wrestling feed.
+- [2026-07-20: Daytime Dispatch — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-daytime.md) — CMLL Domingo Familiar results and weekly Arena México dates keep lucha libre in the wrestling feed.
 
-- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletter-2026-07-20-evening.md) — CMLL remains in the Arena México/Arena Coliseo calendar lane.
-- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-daytime.md) — CMLL appears through Arena México and Sábados de Coliseo calendar tracking.
+- [2026-07-20: Evening Brief — Monday, July 20, 2026](../sources/newsletters/newsletter-2026-07-20-evening.md) — CMLL remains in the Arena México/Arena Coliseo calendar lane.
+- [2026-07-21: Daytime Dispatch — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-daytime.md) — CMLL appears through Arena México and Sábados de Coliseo calendar tracking.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — CMLL remains in the weekly Arena México/Sábados de Coliseo calendar block.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — CMLL remains in the weekly Arena México/Sábados de Coliseo calendar block.
 
-- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-daytime.md) — CMLL appears through Martes de Arena Mexico results and Arena México calendar slots.
+- [2026-07-22: Daytime Dispatch — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-daytime.md) — CMLL appears through Martes de Arena Mexico results and Arena México calendar slots.
 
-- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletter-2026-07-22-evening.md) — CMLL appears through Arena México schedule verification and the Templario/Ultimo Guerrero mask-vs-hair match agreement.
+- [2026-07-22: Evening Brief — Wednesday, July 22, 2026](../sources/newsletters/newsletter-2026-07-22-evening.md) — CMLL appears through Arena México schedule verification and the Templario/Ultimo Guerrero mask-vs-hair match agreement.
 
-- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletter-2026-07-23-daytime.md) — CMLL appears through Arena México dates and the Templario/Último Guerrero mask-vs-hair item.
-- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletter-2026-07-24-daytime.md) — CMLL Arena México dates and Eddie Kingston’s CMLL commitment keep CMLL active in the wrestling calendar.
+- [2026-07-23: Daytime Dispatch — Thursday, July 23, 2026](../sources/newsletters/newsletter-2026-07-23-daytime.md) — CMLL appears through Arena México dates and the Templario/Último Guerrero mask-vs-hair item.
+- [2026-07-24: Daytime Dispatch — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-daytime.md) — CMLL Arena México dates and Eddie Kingston’s CMLL commitment keep CMLL active in the wrestling calendar.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — CMLL remains in the Arena México calendar row and Forbidden Door promotion context.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — CMLL remains in the Arena México calendar row and Forbidden Door promotion context.
 
-- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-daytime.md) — Arena México and Sábados de Coliseo dates are listed in the calendar block.
+- [2026-07-25: Daytime Dispatch — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-daytime.md) — Arena México and Sábados de Coliseo dates are listed in the calendar block.
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — Arena México and Sábados de Coliseo dates keep CMLL in the weekly lucha calendar.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — Arena México and Sábados de Coliseo dates keep CMLL in the weekly lucha calendar.
 
-- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-daytime.md) — Arena México dates keep CMLL in the recurring lucha calendar.
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Arena México and Sábados de Coliseo dates keep CMLL in the recurring lucha calendar.
+- [2026-07-26: Daytime Dispatch — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-daytime.md) — Arena México dates keep CMLL in the recurring lucha calendar.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Arena México and Sábados de Coliseo dates keep CMLL in the recurring lucha calendar.
 
-- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletter-2026-07-27-daytime.md) — CMLL appears through Arena México weekly schedule listings.
+- [2026-07-27: Daytime Dispatch — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-daytime.md) — CMLL appears through Arena México weekly schedule listings.
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — CMLL remains in the Arena México and Sábados de Coliseo schedule table.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — CMLL remains in the Arena México and Sábados de Coliseo schedule table.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — CMLL Arena México dates remain in the wrestling calendar.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — CMLL Arena México dates remain in the wrestling calendar.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — CMLL remains on the Arena México and Sábados de Coliseo schedule.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — CMLL remains on the Arena México and Sábados de Coliseo schedule.
 
-- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-noon.md) — CMLL remains on the Arena México/Sábados de Coliseo calendar.
-- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
-- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-daytime.md) — CMLL appears through Anniversary, Arena México, and AEW-vs-CMLL lineup coverage.
+- [2026-07-29: Noon Dispatch — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-noon.md) — CMLL remains on the Arena México/Sábados de Coliseo calendar.
+- [2026-07-29: Evening Brief — Wednesday, July 29, 2026](../sources/newsletters/newsletter-2026-07-29-evening.md) — Wrestling calendar, AEW Dynamite, NJPW G1, or Meltzer-rating continuity item.
+- [2026-07-30: Daytime Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-daytime.md) — CMLL appears through Anniversary, Arena México, and AEW-vs-CMLL lineup coverage.
 
 ## Related
 

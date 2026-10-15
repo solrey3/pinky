@@ -15,7 +15,7 @@ npm is the package manager and public registry at the center of the Node.js and 
 
 ## Sources
 
-- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletter-2026-06-09-evening.md) — GitHub's changelog notes upcoming breaking changes for npm v12, placing JavaScript package-management churn alongside OpenCV 5, Anthropic model-safety boundaries, and a Linux CVE.
+- [2026-06-09: Evening Brief — Tuesday, June 9, 2026](../sources/newsletters/newsletter-2026-06-09-evening.md) — GitHub's changelog notes upcoming breaking changes for npm v12, placing JavaScript package-management churn alongside OpenCV 5, Anthropic model-safety boundaries, and a Linux CVE.
 
 ## Related
 

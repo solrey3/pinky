@@ -17,8 +17,8 @@ Rollins was a bebop-to-hard bop contemporary of Miles Davis, John Coltrane, and 
 
 ## Sources
 
-- [2026-05-26: Newsletter 2026-05-25 Evening / 2026-05-26 Morning](../sources/newsletter-2026-05-25-evening-to-05-26.md) — Died May 26 at 95; BrooklynVegan, r/Music tribute posts; *"Go put on 'St. Thomas' or 'Tenor Madness' — right now."*
-- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletter-2026-05-27.md) — BrooklynVegan tribute linked again in "Around the Web" section alongside r/Music threads; death confirmed and remembered in the morning edition.
+- [2026-05-26: Newsletter 2026-05-25 Evening / 2026-05-26 Morning](../sources/newsletters/newsletter-2026-05-25-evening-to-05-26.md) — Died May 26 at 95; BrooklynVegan, r/Music tribute posts; *"Go put on 'St. Thomas' or 'Tenor Madness' — right now."*
+- [2026-05-27: Newsletter 2026-05-27 Morning Dispatch](../sources/newsletters/newsletter-2026-05-27.md) — BrooklynVegan tribute linked again in "Around the Web" section alongside r/Music threads; death confirmed and remembered in the morning edition.
 
 ## Related
 

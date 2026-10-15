@@ -32,23 +32,23 @@ At the **2026 Roland Garros**, with Swiatek (the three-time defending champion) 
 
 ## Sources
 
-- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](sources/newsletter-2026-06-02.md) — Sabalenka defeats Osaka (16) 7-5, 6-3 in Roland Garros R4. With Swiatek eliminated, Sabalenka is now the clear women's favorite at the tournament.
-- [2026-06-02: Evening Brief — June 2, 2026](sources/newsletter-2026-06-02-evening.md) — R4/QF result confirmed in evening roundup. Sabalenka advancing to semifinals alongside Mirra Andreeva, Diana Shnaider, and Marta Kostyuk. The Russian contingent (Sabalenka BLR, Andreeva RUS, Shnaider RUS) dominates the women's draw entering the semis.
-- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](sources/newsletter-2026-06-03.md) — QF win anticipated; SF field projected. Women's SF four: Sabalenka, Kostyuk, Shnaider, Andreeva noted.
-- [2026-06-03: Evening Brief — June 3, 2026](sources/newsletter-2026-06-03-evening.md) — **ELIMINATED in QF by (25) Diana Shnaider, 3-6, 7-5, 6-0.** The WTA No. 1 and tournament favorite is out. The third set was a 6-0 dismantling — Shnaider didn't just beat Sabalenka, she closed by bageling the world's best player. A generational statement result.
-- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](sources/newsletter-2026-06-04.md) — Morning confirmation of elimination. The three pre-tournament favorites (Swiatek, Gauff, Sabalenka) are all out before the semis — the most historically open women's Roland Garros draw in recent memory. Women's SF field: Shnaider, Kostyuk, Andreeva, +1.
+- [2026-06-02: Newsletter 2026-06-02 Morning Dispatch](../sources/newsletters/newsletter-2026-06-02.md) — Sabalenka defeats Osaka (16) 7-5, 6-3 in Roland Garros R4. With Swiatek eliminated, Sabalenka is now the clear women's favorite at the tournament.
+- [2026-06-02: Evening Brief — June 2, 2026](../sources/newsletters/newsletter-2026-06-02-evening.md) — R4/QF result confirmed in evening roundup. Sabalenka advancing to semifinals alongside Mirra Andreeva, Diana Shnaider, and Marta Kostyuk. The Russian contingent (Sabalenka BLR, Andreeva RUS, Shnaider RUS) dominates the women's draw entering the semis.
+- [2026-06-03: Newsletter 2026-06-03 Morning Dispatch](../sources/newsletters/newsletter-2026-06-03.md) — QF win anticipated; SF field projected. Women's SF four: Sabalenka, Kostyuk, Shnaider, Andreeva noted.
+- [2026-06-03: Evening Brief — June 3, 2026](../sources/newsletters/newsletter-2026-06-03-evening.md) — **ELIMINATED in QF by (25) Diana Shnaider, 3-6, 7-5, 6-0.** The WTA No. 1 and tournament favorite is out. The third set was a 6-0 dismantling — Shnaider didn't just beat Sabalenka, she closed by bageling the world's best player. A generational statement result.
+- [2026-06-04: Newsletter 2026-06-04 Morning Dispatch](../sources/newsletters/newsletter-2026-06-04.md) — Morning confirmation of elimination. The three pre-tournament favorites (Swiatek, Gauff, Sabalenka) are all out before the semis — the most historically open women's Roland Garros draw in recent memory. Women's SF field: Shnaider, Kostyuk, Andreeva, +1.
 
-- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletter-2026-07-05-evening.md) — Sabalenka loses to Naomi Osaka at Wimbledon, adding a notable upset to her grand-slam result thread.
+- [2026-07-05: Evening Brief — Sunday, July 5, 2026](../sources/newsletters/newsletter-2026-07-05-evening.md) — Sabalenka loses to Naomi Osaka at Wimbledon, adding a notable upset to her grand-slam result thread.
 
-- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletter-2026-07-06-daytime.md) — Wimbledon result lists Sabalenka losing to Osaka, adding another upset/result data point to her 2026 slam thread.
+- [2026-07-06: Daytime Dispatch — Monday, July 6, 2026](../sources/newsletters/newsletter-2026-07-06-daytime.md) — Wimbledon result lists Sabalenka losing to Osaka, adding another upset/result data point to her 2026 slam thread.
 
-- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletter-2026-07-21-evening.md) — Sabalenka is listed among the US Open field headliners.
+- [2026-07-21: Evening Brief — Tuesday, July 21, 2026](../sources/newsletters/newsletter-2026-07-21-evening.md) — Sabalenka is listed among the US Open field headliners.
 
-- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletter-2026-07-24-evening.md) — Sabalenka is listed among the US Open field leaders.
+- [2026-07-24: Evening Brief — Friday, July 24, 2026](../sources/newsletters/newsletter-2026-07-24-evening.md) — Sabalenka is listed among the US Open field leaders.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Listed with Novak Djokovic among US Open mixed-doubles headliners.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Listed with Novak Djokovic among US Open mixed-doubles headliners.
 
-- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-evening.md) — Listed with Novak Djokovic as a US Open mixed-doubles headliner.
+- [2026-07-28: Evening Brief — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-evening.md) — Listed with Novak Djokovic as a US Open mixed-doubles headliner.
 
 ## Related
 

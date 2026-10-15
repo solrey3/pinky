@@ -15,7 +15,7 @@ Hockey Hall of Famer and executive mentioned in the NHL wire as shifting into a 
 
 ## Sources
 
-- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletter-2026-07-25-evening.md) — ESPN item says Granato shifts from assistant GM to adviser role with Vancouver, appearing alongside Devils prospect notes.
+- [2026-07-25: Evening Brief — Saturday, July 25, 2026](../sources/newsletters/newsletter-2026-07-25-evening.md) — ESPN item says Granato shifts from assistant GM to adviser role with Vancouver, appearing alongside Devils prospect notes.
 
 ## Related
 

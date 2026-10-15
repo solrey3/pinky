@@ -15,7 +15,7 @@ Barry Bloom is a professional wrestling and sports-entertainment representative.
 
 ## Sources
 
-- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletter-2026-07-26-evening.md) — Listed as Kairi Sane's representative in her Instagram bio, drawing wrestling-media attention.
+- [2026-07-26: Evening Brief — Sunday, July 26, 2026](../sources/newsletters/newsletter-2026-07-26-evening.md) — Listed as Kairi Sane's representative in her Instagram bio, drawing wrestling-media attention.
 
 ## Related
 

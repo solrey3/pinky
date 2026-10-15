@@ -15,7 +15,7 @@ Former CDC director and public-health commentator. In this wiki, Redfield appear
 
 ## Sources
 
-- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletter-2026-07-30-noon.md) — NewsNation cites Redfield warning that a cyclospora outbreak may involve more fresh produce than lettuce alone.
+- [2026-07-30: Noon Dispatch — Thursday, July 30, 2026](../sources/newsletters/newsletter-2026-07-30-noon.md) — NewsNation cites Redfield warning that a cyclospora outbreak may involve more fresh produce than lettuce alone.
 
 ## Related
 

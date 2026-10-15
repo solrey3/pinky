@@ -15,7 +15,7 @@ Trae Young is an NBA guard tracked here when his player movement, team context, 
 
 ## Sources
 
-- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletter-2026-07-10-evening.md) — ESPN item has Young saying he is excited to play with a new-look Wizards roster, making his team-context shift a sports-newswire state change.
+- [2026-07-10: Evening Brief — Friday, July 10, 2026](../sources/newsletters/newsletter-2026-07-10-evening.md) — ESPN item has Young saying he is excited to play with a new-look Wizards roster, making his team-context shift a sports-newswire state change.
 
 ## Related
 

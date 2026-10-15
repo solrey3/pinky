@@ -15,9 +15,9 @@ NHL player tracked through contract and arbitration updates.
 
 ## Sources
 
-- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletter-2026-07-27-evening.md) — Sillinger reaches a three-year Blue Jackets deal to avoid arbitration.
+- [2026-07-27: Evening Brief — Monday, July 27, 2026](../sources/newsletters/newsletter-2026-07-27-evening.md) — Sillinger reaches a three-year Blue Jackets deal to avoid arbitration.
 
-- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletter-2026-07-28-daytime.md) — Blue Jackets and Sillinger reach a three-year deal to avoid arbitration.
+- [2026-07-28: Daytime Dispatch — Tuesday, July 28, 2026](../sources/newsletters/newsletter-2026-07-28-daytime.md) — Blue Jackets and Sillinger reach a three-year deal to avoid arbitration.
 
 ## Related
 

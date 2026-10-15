@@ -15,7 +15,7 @@ The Christian Science Monitor is a news outlet appearing in the newsletter feed.
 
 ## Sources
 
-- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletter-2026-08-04-noon.md) — Explains U.S. support for Japan's struggling yen.
+- [2026-08-04: Noon Dispatch — Tuesday, August 4, 2026](../sources/newsletters/newsletter-2026-08-04-noon.md) — Explains U.S. support for Japan's struggling yen.
 
 ## Related
 

@@ -14,7 +14,7 @@ An educational model in which AI supplies explanations, practice, or individuali
 
 ## Sources
 
-- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletter-2026-08-08-noon.md) — Sal Khan argues that classroom AI works best with an adult at the wheel.
+- [2026-08-08: Noon Dispatch — Saturday, August 8, 2026](../sources/newsletters/newsletter-2026-08-08-noon.md) — Sal Khan argues that classroom AI works best with an adult at the wheel.
 
 ## Related Concepts
 
