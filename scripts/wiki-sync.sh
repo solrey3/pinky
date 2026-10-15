@@ -65,7 +65,7 @@ read -r -d '' PROMPT << 'PROMPT_EOF' || true
 Read the wiki-ingest skill at ~/.pi/agent/skills/wiki-ingest/SKILL.md and follow it exactly to ingest each file listed below into ~/pinky/wiki/.
 
 Rules for this run:
-- Newsletter files: keep original dispatches and any distinct wiki source summaries only in wiki/sources/newsletters/. Do not create newsletter pages directly in wiki/sources/; update an existing summary instead of duplicating it.
+- Newsletter files: leave original dispatches in raw/newsletters/; create or update only their source summaries in wiki/sources/newsletters/. Set source_path to the raw dispatch and link back to it. Never copy full dispatches into the wiki or create newsletter pages directly in wiki/sources/; check for an existing summary before writing.
 - All other file types: create individual source pages.
 - Skip any file already covered (double-check before writing).
 - Update wiki/index.md and wiki/log.md after all ingestions.
